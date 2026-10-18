@@ -3,8 +3,8 @@
 Case ID: F2-language-change-topics
 Classification: failure
 Run record: artifacts/agent/runs/q2-language-change-20261018T140210Z.json
-Code revision: c2c17299241a934d2c41438e940681b578646ebe (with uncommitted changes)
-Reviewer: Claude Code (coding agent), 2026-10-18. Each verdict was checked against artifacts/match/matches.json, artifacts/compare/facts.json, artifacts/compare/comparison.json, and the scan images. Not yet checked by a team member.
+Code revision: 8be0b6f6e8ebd9bd3b72c38879ca8b406d88c9b6 (with uncommitted changes)
+Reviewer: Drafted by Claude Code (coding agent), 2026-10-18, from artifacts/match/matches.json, artifacts/compare/facts.json, artifacts/compare/comparison.json and the scan images. Checked and approved by the team's only member, 2026-10-18.
 
 ## Question
 

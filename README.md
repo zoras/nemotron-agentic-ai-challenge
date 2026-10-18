@@ -3,6 +3,83 @@
 Build an agent that compares historical Britannica pages with Wikipedia.
 Work with your coding agent to complete the project stages.
 
+## Our solution
+
+This repository completes all six stages for the 100 pinned Britannica scans.
+The submission record is in [templates/submission.md](templates/submission.md).
+
+| Stage | Method | Result |
+| --- | --- | --- |
+| Extract | Parse 3.5 reads the full page for layout. It then reads masked column crops at 3x and full-width tiles at 2x. | 100 pages: 88 text, 9 plates, 2 covers, 1 blank. 284 entries: 201 headwords, 83 continuations. |
+| Match | Super VL proposes Wikipedia titles and keywords for each entry. The live Wikipedia API maps titles to page IDs. BM25 adds keyword candidates. The embedder orders all candidates and the reranker scores the best 32. Calibrated thresholds accept, flag, or reject the best candidate. | 340 targets. Topic: 202 accepted, 60 uncertain, 22 no match. Subtopic: 17, 26, 13. 279 articles. |
+| Compare | Long-s and spelling normalisation with a record of each change. Vocabulary lift against unrelated articles. Distinctive words by log-odds. Joint topics with Nemotron embeddings, UMAP, HDBSCAN and c-TF-IDF. Super VL fact claims with quotes checked in both sources. | 219 pairs, median lift 2.541. 637 fact claims: 146 agree, 102 differ, 389 not found. 612 claims have verified quotes: the Britannica quote, and also the Wikipedia quote when the verdict is agree or differ. |
+| Agent | Hermes with Super VL and five native tools over the saved evidence, plus `vision_analyze` for scan checks. | 6 questions, 2 repair runs. 3 successes and 3 failures. |
+| Site | One LuaLaTeX document and one HTML page per scan. Analysis and agent pages. | 100 of 100 documents compiled, 0 missing glyphs. |
+| Evaluate | Reviewed cases, match calibration, and a reproducibility record. | `artifacts/evaluate/` |
+
+### Reproduce
+
+You need the `.env` settings from the starter guide below and the embedder and reranker endpoint for the match and compare stages.
+The stages cache model and API replies in `artifacts/*/raw` and `data/`, so a rerun on the same machine sends no new requests.
+A new clone has only the committed `artifacts/*/raw` replies, so some stages send requests again.
+
+```sh
+uv sync --locked
+uv run nemotron-challenge data fetch
+uv run nemotron-challenge run extract
+uv run nemotron-challenge run match
+uv run nemotron-challenge run compare
+uv run nemotron-challenge run agent     # needs Hermes, see docs/hermes.md
+uv run nemotron-challenge run site      # needs LuaLaTeX and the STIX Two Text font
+uv run nemotron-challenge run evaluate
+uv run pytest
+```
+
+Open `site/index.html` to see the website.
+
+### Models and data
+
+| Item | Value |
+| --- | --- |
+| Parse | `nvidia/nemotron-3.5-parse`, organizer endpoint |
+| Embedder | `nvidia/llama-nemotron-embed-vl-1b-v2` at revision `582e3bf72aee355e3c59ed89de53543c5b0657ee` |
+| Reranker | `nvidia/llama-nemotron-rerank-vl-1b-v2` at revision `b8a9987b05b75db5ad949c825cbcbf6eb7c48b5a` |
+| Embedder and reranker serving | Nebius Serverless endpoint, `gpu-rtx6000-a`, `1gpu-24vcpu-218gb`, region `uk-south2` ([record](infra/nebius/deployment.json)) |
+| Super VL | `nvidia/Nemotron-3.5-Super-VL`, Nebius Token Factory |
+| Vector store | LanceDB embedding cache in `data/team.lancedb` |
+| Agent | Hermes Agent v0.22.2 |
+| Britannica | `NationalLibraryOfScotland/encyclopaedia_britannica_illustrated` at revision `309f765b1ecc83e0a7f7762e44b4a927a7555443`, manifest SHA-256 `779542e0…a28e396` |
+| Wikipedia | organizer snapshot at revision `417c267bb457fa645c22eb3b5c77764963194c70` |
+
+The full record is in `artifacts/evaluate/reproducibility.json`.
+
+### Evidence
+
+| What | Where |
+| --- | --- |
+| Raw Parse and model replies | `artifacts/extract/raw`, `artifacts/match/raw`, `artifacts/compare/raw` |
+| Entries with page IDs, block IDs and scan checksums | `artifacts/extract/entries.json` |
+| Match decisions with every candidate score | `artifacts/match/matches.json` |
+| Matched article text with revision IDs and checksums | `artifacts/match/articles/` |
+| Comparison and fact claims | `artifacts/compare/comparison.json`, `artifacts/compare/facts.json` |
+| Hand labels for 540 candidates | `evaluation/match_labels.json` |
+| Threshold sweeps and embedder against reranker | `artifacts/evaluate/match_calibration.json` |
+| Agent run records, including failed runs | `artifacts/agent/runs/` |
+| Case review | `evaluation/review.json`, `artifacts/evaluate/cases/` |
+| Vision test receipts | `evaluation/vision_check.json` |
+
+### Known limits
+
+- We set the match thresholds on the same 540 hand labels that we use to measure them, so the precision figures are in-sample. Accepted matches: 210 of 217 labelled targets are correct.
+- The reranker does not beat the embedder at choosing the first candidate. Where they disagree and both choices are labelled, the reranker alone is right 19 times and the embedder alone 22 times.
+- Reranker scores have a different scale for each query type, so each group of targets has its own thresholds.
+- Parse can read the long s plus t ligature as "fl" ("flatb" for "ſtab", "fleam" for "ſteam"). Normalisation cannot fix a result that is a real word.
+- A fact claim marked `not_found` means the claim is not in the saved passages of one matched article. It does not mean that Wikipedia omits it.
+- One fact request failed with an incomplete model reply. The error is recorded in `facts.json`.
+- The agent's scan check still fails for the sword entry after the repair. See [docs/hermes.md](docs/hermes.md).
+
+## Starter guide
+
 This starter supplies setup code, model clients, source data contracts, and checks.
 Your team builds the extraction workflow, article matching, comparisons, agent tools, and website.
 
