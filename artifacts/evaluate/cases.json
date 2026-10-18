@@ -1,6 +1,6 @@
 {
- "code_revision": "8be0b6f6e8ebd9bd3b72c38879ca8b406d88c9b6 (with uncommitted changes)",
- "reviewer": "Drafted by Claude Code (coding agent), 2026-10-18, from artifacts/match/matches.json, artifacts/compare/facts.json, artifacts/compare/comparison.json and the scan images. Checked and approved by the team's only member, 2026-10-18.",
+ "code_revision": "f869e67191e89b3569678643175e1b32b5bdc59f (with uncommitted changes)",
+ "reviewer": "Drafted by Claude Code (coding agent), 2026-10-18, from artifacts/match/matches.json, artifacts/compare/facts.json, artifacts/compare/comparison.json and the scan images. Checked and approved by team member Prabesh Shrestha, 2026-10-18.",
  "ground_truth_scans": "The coding agent read the printed words from enlarged scan crops (LANCZOS, 4x). page-0251-69952e7c4a0f.jpg (image_sha256 69952e7c4a0f40267d357d04308f674155b3ab206ce8f2f4887124ce481f8c1d), box x 298-563, y 205-260: the sword entry prints 'to cut or ſtab' (stab). page-0523-a583606e375a.jpg (image_sha256 a583606e375ad92d79af8ad8b4fabc4fa22632e6ccbeea6e20f0fa47a27e2858), box x 298-552, y 50-145: the Steam-ENGINE line prints 'turned into ſteam' (steam). In both cases the OCR read the long s plus t as 'fl' ('flatb', 'fleam'). Inference from 2 of 2 cases: Parse can read the ſt ligature as fl. 'fleam' is a real English word, so long-s normalisation kept it.",
  "cases": [
   {

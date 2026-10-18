@@ -3,8 +3,8 @@
 Case ID: S1-sydenham-facts
 Classification: success
 Run record: artifacts/agent/runs/q1-sydenham-facts-20261018T140143Z.json
-Code revision: 8be0b6f6e8ebd9bd3b72c38879ca8b406d88c9b6 (with uncommitted changes)
-Reviewer: Drafted by Claude Code (coding agent), 2026-10-18, from artifacts/match/matches.json, artifacts/compare/facts.json, artifacts/compare/comparison.json and the scan images. Checked and approved by the team's only member, 2026-10-18.
+Code revision: f869e67191e89b3569678643175e1b32b5bdc59f (with uncommitted changes)
+Reviewer: Drafted by Claude Code (coding agent), 2026-10-18, from artifacts/match/matches.json, artifacts/compare/facts.json, artifacts/compare/comparison.json and the scan images. Checked and approved by team member Prabesh Shrestha, 2026-10-18.
 
 ## Question
 

@@ -1,8 +1,8 @@
 # Submission
 
-Team: Dhaubaji
+Team: Dhaubaji (Prabesh Shrestha and Saroj Maharjan)
 Repository URL and commit: https://github.com/prabeshsb/nemotron-agentic-ai-challenge, branch `main`, commit `d060bce` (code, docs and artifacts)
-Video URL, 3 to 5 minutes: TODO
+Video URL, 3 to 5 minutes: https://github.com/prabeshsb/nemotron-agentic-ai-challenge/releases/download/video-v1/dhaubaji-video.mp4
 Static website URL: https://prabeshsb.github.io/nemotron-agentic-ai-challenge/ (GitHub Pages, branch `gh-pages`, built from `d060bce`)
 Compiled LaTeX documents: 100 PDFs, one for each scan. Each scan page at https://prabeshsb.github.io/nemotron-agentic-ai-challenge/scans.html links its PDF, for example https://prabeshsb.github.io/nemotron-agentic-ai-challenge/documents/page-0251-69952e7c4a0f.pdf. The `.tex` sources are next to the PDFs. Build record: `site/build.json`.
 
@@ -87,7 +87,7 @@ Two repair attempts that failed with `HTTP 401` are kept there too.
 What we tested:
 
 - 147 automated tests cover the data contracts, each stage on small fixtures, the Hermes tools, and the review checks. They do not measure OCR accuracy or retrieval quality.
-- The hand labels measure match quality. One coding agent wrote them, and the team member checked the agent cases.
+- The hand labels measure match quality. One coding agent wrote them, and a team member checked the agent cases.
 - Direct vision tests in `evaluation/vision_check.json` compare small and enlarged scan crops.
 
 What remains uncertain and known failure modes:
