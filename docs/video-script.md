@@ -1,8 +1,8 @@
 # Video script
 
-Team: Dhaubaji
-Length: 4 minutes 44 seconds. The limit is 3 to 5 minutes.
-Narration: about 620 words, which take 4 minutes 25 seconds with the edge-tts voice `en-GB-RyanNeural`.
+Team: Dhaubaji (Prabesh Shrestha and Saroj Maharjan)
+Length: 4 minutes 46 seconds. The limit is 3 to 5 minutes.
+Narration: about 620 words, which take 4 minutes 26 seconds with the edge-tts voice `en-GB-RyanNeural`.
 The times below come from the produced video. A title card opens each section.
 If a live take runs over 5 minutes, cut the ABYSSINIA line in section 2.
 
@@ -35,30 +35,30 @@ Record the screen at 1080p or higher.
 
 | Time | Section | Rubric item | Points |
 | --- | --- | --- | --- |
-| 0:00 to 0:16 | 0. Opening | | |
-| 0:16 to 0:49 | 1. Parse the scans | Parse | 15 |
-| 0:49 to 1:20 | 2. Super VL plans the matches | Super VL | 20 |
-| 1:20 to 2:10 | 3. Embed, rerank and calibrate | Embed+Rerank | 15 |
-| 2:10 to 2:58 | 4. Compare vocabulary, topics and facts | Creativity | 20 |
-| 2:58 to 4:00 | 5. Hermes agent: one success, one failure | Hermes | 10 |
-| 4:00 to 4:20 | 6. Website and LaTeX documents | Completion | 20 |
-| 4:20 to 4:44 | 7. Limits and close | | |
+| 0:00 to 0:17 | 0. Opening | | |
+| 0:17 to 0:51 | 1. Parse the scans | Parse | 15 |
+| 0:51 to 1:21 | 2. Super VL plans the matches | Super VL | 20 |
+| 1:21 to 2:11 | 3. Embed, rerank and calibrate | Embed+Rerank | 15 |
+| 2:11 to 3:00 | 4. Compare vocabulary, topics and facts | Creativity | 20 |
+| 3:00 to 4:01 | 5. Hermes agent: one success, one failure | Hermes | 10 |
+| 4:01 to 4:21 | 6. Website and LaTeX documents | Completion | 20 |
+| 4:21 to 4:46 | 7. Limits and close | | |
 
 Super VL also appears in sections 4 and 5. Name it each time.
 
-## 0. Opening (0:00 to 0:16)
+## 0. Opening (0:00 to 0:17)
 
 On screen: tab 1, the Overview. Point at the row of counts.
 
 Narration:
 
-> I am Dhaubaji, a one-person team.
+> We are team Dhaubaji: Prabesh Shrestha and Saroj Maharjan.
 > We matched 100 scans of the early Encyclopaedia Britannica to Wikipedia and compared what they say.
 > Every number here comes from saved model replies in the repository.
 
 Source: `README.md`, table "Our solution".
 
-## 1. Parse the scans (0:16 to 0:49), rubric item Parse
+## 1. Parse the scans (0:17 to 0:51), rubric item Parse
 
 On screen:
 
@@ -76,7 +76,7 @@ Narration:
 
 Source: `README.md` Extract row; `templates/submission.md` "Scan coverage and extraction".
 
-## 2. Super VL plans the matches (0:49 to 1:20), rubric item Super VL
+## 2. Super VL plans the matches (0:51 to 1:21), rubric item Super VL
 
 On screen:
 
@@ -94,7 +94,7 @@ Narration:
 
 Source: `artifacts/match/matches.json` (`models`, `method`); case S1 in `evaluation/review.json`.
 
-## 3. Embed, rerank and calibrate (1:20 to 2:10), rubric item Embed+Rerank
+## 3. Embed, rerank and calibrate (1:21 to 2:11), rubric item Embed+Rerank
 
 On screen:
 
@@ -114,7 +114,7 @@ Narration:
 
 Source: `README.md` Match row and "Known limits"; `artifacts/evaluate/match_calibration.json`.
 
-## 4. Compare vocabulary, topics and facts (2:10 to 2:58), rubric item Creativity
+## 4. Compare vocabulary, topics and facts (2:11 to 3:00), rubric item Creativity
 
 On screen:
 
@@ -136,7 +136,7 @@ Source: `artifacts/compare/comparison.json` (`counts`, `text_changes`, `distinct
 
 Note: the word lists are from the content-word lists on the analysis page. Read them as they appear on screen.
 
-## 5. Hermes agent: one success, one failure (2:58 to 4:00), rubric item Hermes
+## 5. Hermes agent: one success, one failure (3:00 to 4:01), rubric item Hermes
 
 On screen:
 
@@ -160,7 +160,7 @@ Narration:
 Source: cases S1, F1 and F3 in `evaluation/review.json`; `evaluation/vision_check.json`; `docs/hermes.md`.
 The narration labels the cause of the sword failure as an inference, as `review.json` does.
 
-## 6. Website and LaTeX documents (4:00 to 4:20), rubric item Completion
+## 6. Website and LaTeX documents (4:01 to 4:21), rubric item Completion
 
 On screen:
 
@@ -177,7 +177,7 @@ Narration:
 
 Source: `README.md` Site row; `templates/submission.md` "Limits".
 
-## 7. Limits and close (4:20 to 4:44)
+## 7. Limits and close (4:21 to 4:46)
 
 On screen: tab 1, the Overview. Then the repository README, section "Known limits".
 
