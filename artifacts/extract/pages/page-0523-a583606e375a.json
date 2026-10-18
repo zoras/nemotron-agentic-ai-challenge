@@ -1,0 +1,608 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:523",
+ "row_index": 523,
+ "volume_id": "144850375",
+ "filename": "page-0523-a583606e375a.jpg",
+ "image_sha256": "a583606e375ad92d79af8ad8b4fabc4fa22632e6ccbeea6e20f0fa47a27e2858",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.1098,
+  "median_grey": 220,
+  "layout_body_chars": 6343,
+  "layout_pictures": 0
+ },
+ "running_head": "E N G [ 2729 ] E N G",
+ "layout_raw": "page-0523-a583606e375a/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0052,
+    1.0,
+    0.0319
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0523-a583606e375a/head.json",
+   "finish_reason": "stop",
+   "request_key": "5fb0de89c3a8674bac724af1256001a7fa7ae0c7e8c665c892734a3ee822445f"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0052,
+    0.5083,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0052,
+     0.0881,
+     0.5033
+    ],
+    [
+     0.0881,
+     0.171,
+     0.5
+    ],
+    [
+     0.171,
+     0.2539,
+     0.5
+    ],
+    [
+     0.2539,
+     0.3368,
+     0.5
+    ],
+    [
+     0.3368,
+     0.4197,
+     0.5
+    ],
+    [
+     0.4197,
+     0.5026,
+     0.5
+    ],
+    [
+     0.5026,
+     0.5855,
+     0.5
+    ],
+    [
+     0.5855,
+     0.6684,
+     0.5
+    ],
+    [
+     0.6684,
+     0.7513,
+     0.5
+    ],
+    [
+     0.7513,
+     0.8342,
+     0.5
+    ],
+    [
+     0.8342,
+     0.9171,
+     0.5
+    ],
+    [
+     0.9171,
+     1.0,
+     0.5
+    ]
+   ],
+   "raw_path": "page-0523-a583606e375a/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "3f774e3d9e59beb1577d81b32b43801c2b5dda13c67e36b24e45ab8a1e6b0520"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.495,
+    0.0052,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0052,
+     0.0881,
+     0.5033
+    ],
+    [
+     0.0881,
+     0.171,
+     0.5
+    ],
+    [
+     0.171,
+     0.2539,
+     0.5
+    ],
+    [
+     0.2539,
+     0.3368,
+     0.5
+    ],
+    [
+     0.3368,
+     0.4197,
+     0.5
+    ],
+    [
+     0.4197,
+     0.5026,
+     0.5
+    ],
+    [
+     0.5026,
+     0.5855,
+     0.5
+    ],
+    [
+     0.5855,
+     0.6684,
+     0.5
+    ],
+    [
+     0.6684,
+     0.7513,
+     0.5
+    ],
+    [
+     0.7513,
+     0.8342,
+     0.5
+    ],
+    [
+     0.8342,
+     0.9171,
+     0.5
+    ],
+    [
+     0.9171,
+     1.0,
+     0.5
+    ]
+   ],
+   "raw_path": "page-0523-a583606e375a/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "8ce566cb20bb6c90771ce84081f42014151793c34d87ac08696c21498c0e5b24"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "E N G [ 2729 ] E N G",
+   "bbox": [
+    0.0,
+    0.0052,
+    1.0,
+    0.0319
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0523-a583606e375a:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "E N G",
+   "bbox": [
+    0.2239,
+    0.0099,
+    0.3341,
+    0.0293
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "[ 27",
+   "bbox": [
+    0.4398,
+    0.0107,
+    0.5073,
+    0.0324
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "Endlefs\nEngine.",
+   "bbox": [
+    0.0348,
+    0.0317,
+    0.0918,
+    0.0728
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "ENDLESS, fomething without an end : thus au- thors mention endlefs rolls, the endlefs ferew, &c.",
+   "bbox": [
+    0.0978,
+    0.0309,
+    0.4959,
+    0.0604
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "ENDORSE, in heraldry, an ordinary, containing the eighth part of a pale, which Leigh fays is only ufed when a pale is between two of them.",
+   "bbox": [
+    0.0968,
+    0.0596,
+    0.4964,
+    0.1016
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "ENDORSED, in heraldry, is faid of things borne back to back, more ufually called ADosex.",
+   "bbox": [
+    0.0963,
+    0.1008,
+    0.4969,
+    0.1288
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "ENDOWMENT, in law, denotes the fettling a dower on a woman: though fometimes it is ufed, figuratively, for fettling a provifion upon a parfon, on the building of a church; or the fevering a sufficient portion of tithes for a vicar, when the benefice is appropriated.",
+   "bbox": [
+    0.0958,
+    0.128,
+    0.4954,
+    0.2103
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "ENDYMION, the 12th king of Elis. Being expelled his kingdom, he retired into Caria to mount Latmos, where he fludied the heavenly bodies, but chiefly the moon; which gave rife to the fable of the poets, that he was beloved by the moon, who vifted him every night as he lay afleep upon the top of that hill.",
+   "bbox": [
+    0.0953,
+    0.2096,
+    0.4949,
+    0.292
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "ENEMY, in law, an alien or foreigner, who publicly invades the kingdom.",
+   "bbox": [
+    0.0948,
+    0.2912,
+    0.4944,
+    0.3184
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "ENERGUMENS, in church-hilory, perfons fuppofed to be poffeted by the devil, concerning whom there were many regulations among the primitive Christians. They were denied baptifm, and the curcharit; at least, this was the practice of fome churches: and though they were under the care of exorcits, yet it was thought a becoming act of charity, to let them have the public prayers of the church, at which they were permitted to be prefent. See EXORCISM.",
+   "bbox": [
+    0.0943,
+    0.3177,
+    0.4939,
+    0.4412
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "ENERGY, a term of Greek origin, lignifying the power, virtue, or efficacy of a thing. It is alfo ufed, figuratively, to denote emphasis of speech.",
+   "bbox": [
+    0.0938,
+    0.4404,
+    0.4934,
+    0.4816
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "ENFANS PERDUS, the fame with forlorn-hope. FORLORN.",
+   "bbox": [
+    0.0933,
+    0.4808,
+    0.4929,
+    0.5081
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "ENFILADE, in the art of war, is ufed in fpeaking of trenches, or other places, which may be feoured by the enemy’s hot along their whole length. In conducting the approaches at a flege, care mult be taken that the trenches be not enfiladed from any work of the place. See TRENCHES.",
+   "bbox": [
+    0.0928,
+    0.5073,
+    0.4924,
+    0.5896
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "ENFRANCHISEMENT, in law, the incorpoating a perfon into any fociety or body politic.",
+   "bbox": [
+    0.0923,
+    0.5904,
+    0.4909,
+    0.6176
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "ENGASTRIMYTHI, in Pagan theology, the Pythians, or priefteflies of Apollo, who delivered oracles from within, without any action of the mouth or lips.",
+   "bbox": [
+    0.0913,
+    0.6168,
+    0.4919,
+    0.658
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "The ancient philofophers, &c. are divided upon the subject of the engathrimythi. Hippocrates mentions it as a difeafe. Others will have it a kind of divination. Others attribute it to the operation or poffeftion of an evil fpirit. And others to art and mecha nifm. M. Scottus maintains that the engathrimythi of the ancients were poets, who, when the priefts could not fpeak, fupplied the defect by explaining in verfe what Apollo dictated in the cavity of the balon on the facred tripod.",
+   "bbox": [
+    0.0908,
+    0.6588,
+    0.4914,
+    0.7933
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "ENGENDERING, a term fometimes ufed for the act of producing or forming any thing: thus meteors are faid to be engendered in the middle region of the atmosphere, and worms in the belly.",
+   "bbox": [
+    0.0903,
+    0.7925,
+    0.4904,
+    0.8477
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "ENGINE, % mechanics, is a compound machine, made of one or more mechanical powers, as levers, pullies, forews, &c. in order to raife, caft, or fuftain any weight, or produce any effect which could not be easily effected otherwise. The word is formed of the",
+   "bbox": [
+    0.0899,
+    0.8469,
+    0.49,
+    0.9176
+   ],
+   "source": "s0-col-left",
+   "id": "page-0523-a583606e375a:b18"
+  },
+  {
+   "order": 19,
+   "class": "Head-fragment",
+   "text": "29 ] ENG",
+   "bbox": [
+    0.4994,
+    0.0099,
+    0.7874,
+    0.0301
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "French _engin_, from the Latin _ingenium_ \" wit;\" by reafon of the ingenuity required in the contrivance of engines to augment the effect of moving powers.",
+   "bbox": [
+    0.5083,
+    0.0309,
+    0.9112,
+    0.0736
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "ENGINE _for extinguifhing Fires._ See HYDROSTA- Tics, n° 33.",
+   "bbox": [
+    0.5078,
+    0.0728,
+    0.9098,
+    0.1016
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "_Pile-ENGINE, one contrived for driving piles. See PILE-Engine._",
+   "bbox": [
+    0.5088,
+    0.1008,
+    0.9103,
+    0.1288
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "_Steam-ENGINE, a machine to raife water by fire, or rather by the force of water turned into fleam. See STEAM Engine._",
+   "bbox": [
+    0.5073,
+    0.1273,
+    0.9107,
+    0.1691
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "ENGINE _for dividing Mathematical Infruments._ See RAMSDEN’S _Engine._",
+   "bbox": [
+    0.5068,
+    0.1684,
+    0.9093,
+    0.1964
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b24"
+  },
+  {
+   "order": 25,
+   "class": "Text",
+   "text": "ENGINEER, in the military art, an able expert man, who, by a perfect knowledge in mathematics, delineates upon paper, or marks upon the ground, all forts of forts, and other works proper for offence and defence. He fhould underland the art of fortific-tion, fo as to be able, not only to difcover the defects of a place, but to find a remedy proper for them; as alfo how to make an attack upon, as well as to defend, the place. Engineers are extremely necessary for thefe purpofes: wherefore it is requifite, that, befides being ingenious, they fhould be brave in proportion. When at a flege the engineers have narrowly furveyed the place, they are to make their report to the general, by acquainting him which part they judge the weakelt, and where approaches may be made with molt fuccefs. Their buffinefs is alfo to delineate the lines of circumvalation and contravallation, taking all the advantages of the ground; to mark out the trenches, places of arms, batteries, and lodgments, taking care that none of their works be flanked or dificovered from the place. After making a faithful report to the general of what is a-doing, the engineers are to demand a sufficient number of workmen and utenfls, and whatever elfe is necellary.",
+   "bbox": [
+    0.5064,
+    0.1956,
+    0.9117,
+    0.5096
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b25"
+  },
+  {
+   "order": 26,
+   "class": "Text",
+   "text": "ENGLAND, the fouthern divifion of the ifland of Great Britain. Including Wales, it is of a triangular form, and lies between the 50th and 55th degrees of north latitude, extending about 400 miles in length from fourth to north, and in fome places it is 300 miles in breadth. It is bounded by Scotland on the north; by the Englith Channel on the fouth, dividing it from France; by the German Sea on the caft; and on the weft by St George's, or the Irift, Channel.",
+   "bbox": [
+    0.5044,
+    0.5081,
+    0.9083,
+    0.6316
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b26"
+  },
+  {
+   "order": 27,
+   "class": "Text",
+   "text": "At what time the ifland of Britain was peopled is Wherec uncertain; nor do we know whether the fouthern or peopled. northern parts were firft inhabited. We have no accounts that can be depended upon before the arrival of Julius Cearar, and it is certain he found the fouthern parts full of people of a very warlike difopition. Thefe people, according to Cearar, were a colony of the Gauls; and this opinion is embraced by molt of the ancient as well as modern writers. It is chiefly founded on the agreement obferved by the Romans between the two nations in their cultures, manners, language, religion, government, way of fighting, &c. The more northern inhabitants, according to Tacitus, came from Germany. This he infers from the make of their limbs; but Cearar firmly calls them _Aborigines_.",
+   "bbox": [
+    0.5034,
+    0.6308,
+    0.9087,
+    0.8345
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b27"
+  },
+  {
+   "order": 28,
+   "class": "Text",
+   "text": "England, including the principality of Wales, when firft invaded by the Romans, was divided into 17 petty flates. 1. The Danmonii, called alfo Dunmonii and Donmonii, inhabiting the counties of Cornwall and Devonfhire. 2. The Durotriges, who inhabited the track now called _Dorfetfire_. 3. The Belgae poffelfed",
+   "bbox": [
+    0.5024,
+    0.8353,
+    0.9078,
+    0.9184
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b28"
+  },
+  {
+   "order": 29,
+   "class": "Caption",
+   "text": "Englie England.",
+   "bbox": [
+    0.9152,
+    0.0317,
+    0.9818,
+    0.0721
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b29"
+  },
+  {
+   "order": 30,
+   "class": "Caption",
+   "text": "Inhabited by 17 dif- ferent na-tions.",
+   "bbox": [
+    0.9028,
+    0.8259,
+    0.9684,
+    0.8826
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b30"
+  },
+  {
+   "order": 31,
+   "class": "Page-footer",
+   "text": "Somer-",
+   "bbox": [
+    0.8412,
+    0.9168,
+    0.8989,
+    0.9301
+   ],
+   "source": "s0-col-right",
+   "id": "page-0523-a583606e375a:b31"
+  }
+ ]
+}

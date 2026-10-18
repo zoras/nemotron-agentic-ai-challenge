@@ -1,0 +1,478 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1166",
+ "row_index": 1166,
+ "volume_id": "193108323",
+ "filename": "page-1166-ec9dc1d6c2c9.jpg",
+ "image_sha256": "ec9dc1d6c2c96661593803f1cde606a6c27b453bccb4803b9562db602f4c0c69",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09804,
+  "median_grey": 210,
+  "layout_body_chars": 7468,
+  "layout_pictures": 0
+ },
+ "running_head": "LIBERTY OF THE PRESS. 279",
+ "layout_raw": "page-1166-ec9dc1d6c2c9/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0239,
+    1.0,
+    0.053
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1166-ec9dc1d6c2c9/head.json",
+   "finish_reason": "stop",
+   "request_key": "f8e48612314b5ba85de9707bf2770119acaadd526f26f6bb267a016da24fd5c8"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0239,
+    0.4683,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0239,
+     0.1052,
+     0.4633
+    ],
+    [
+     0.1052,
+     0.1866,
+     0.4617
+    ],
+    [
+     0.1866,
+     0.2679,
+     0.4617
+    ],
+    [
+     0.2679,
+     0.3493,
+     0.4617
+    ],
+    [
+     0.3493,
+     0.4306,
+     0.4617
+    ],
+    [
+     0.4306,
+     0.512,
+     0.4617
+    ],
+    [
+     0.512,
+     0.5933,
+     0.4617
+    ],
+    [
+     0.5933,
+     0.6746,
+     0.4617
+    ],
+    [
+     0.6746,
+     0.756,
+     0.4617
+    ],
+    [
+     0.756,
+     0.8373,
+     0.4617
+    ],
+    [
+     0.8373,
+     0.9187,
+     0.4617
+    ],
+    [
+     0.9187,
+     1.0,
+     0.4617
+    ]
+   ],
+   "raw_path": "page-1166-ec9dc1d6c2c9/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "a69b3964962c334a40ddc935c316398a2f18e1b525d32624fbc60df5dfc1fbfd"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4567,
+    0.0239,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0239,
+     0.1052,
+     0.4633
+    ],
+    [
+     0.1052,
+     0.1866,
+     0.4617
+    ],
+    [
+     0.1866,
+     0.2679,
+     0.4617
+    ],
+    [
+     0.2679,
+     0.3493,
+     0.4617
+    ],
+    [
+     0.3493,
+     0.4306,
+     0.4617
+    ],
+    [
+     0.4306,
+     0.512,
+     0.4617
+    ],
+    [
+     0.512,
+     0.5933,
+     0.4617
+    ],
+    [
+     0.5933,
+     0.6746,
+     0.4617
+    ],
+    [
+     0.6746,
+     0.756,
+     0.4617
+    ],
+    [
+     0.756,
+     0.8373,
+     0.4617
+    ],
+    [
+     0.8373,
+     0.9187,
+     0.4617
+    ],
+    [
+     0.9187,
+     1.0,
+     0.4617
+    ]
+   ],
+   "raw_path": "page-1166-ec9dc1d6c2c9/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "a226afbef57950c6323a237dead5f6a96af45f62fa094a4d45964d12705c4e55"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "LIBERTY OF THE PRESS. 279",
+   "bbox": [
+    0.0,
+    0.0239,
+    1.0,
+    0.053
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1166-ec9dc1d6c2c9:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**LIBERTY OF**",
+   "bbox": [
+    0.2909,
+    0.0293,
+    0.4642,
+    0.0499
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-1166-ec9dc1d6c2c9:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "We may then ask, if there are any possible means by which the people can make a good choice, besides the _liberty of the press?_ The very foundation of a good choice is knowledge. The fuller and more perfect the know-ledge, the better the chance, where all sinister interest is absent, of a good choice. How can the people receive the most perfect knowledge relative to the characters of those who present themselves to their choice, but by information conveyed freely, and without reserve, from one to another ?",
+   "bbox": [
+    0.0462,
+    0.0529,
+    0.4601,
+    0.181
+   ],
+   "source": "s0-col-left",
+   "id": "page-1166-ec9dc1d6c2c9:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "There is another use of the freedom of the press, no less deserving the most profound attention, that of making known the conduct of the individuals who have been chosen. This latter service is of so much importance, that upon it the whole value of the former depends.",
+   "bbox": [
+    0.0458,
+    0.1787,
+    0.4587,
+    0.2443
+   ],
+   "source": "s0-col-left",
+   "id": "page-1166-ec9dc1d6c2c9:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "This is capable of being rigidly demonstrated. No be-nefit is obtained by making choice of a man who is well qualified to serve the people, and also well inclined to serve them, if you place him in a situation in which he will have preponderant motives to serve himself at their expense.",
+   "bbox": [
+    0.0448,
+    0.242,
+    0.4582,
+    0.3183
+   ],
+   "source": "s0-col-left",
+   "id": "page-1166-ec9dc1d6c2c9:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "If any set of men are chosen to wield the powers of government, while the people have not the means of knowing in what manner they discharge their duties, they will have the means of serving themselves at the expense of the people; and all the miseries of evil government are the certain consequence.",
+   "bbox": [
+    0.0443,
+    0.3167,
+    0.4578,
+    0.3945
+   ],
+   "source": "s0-col-left",
+   "id": "page-1166-ec9dc1d6c2c9:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "Suppose the people to choose the members of the legislative assembly, with power of rechoosing or dismissing them at short intervals; to what desirable end could these powers be exercised, without the liberty of the press? Suppose that any one of those whom they have chosen has misconducted himself, or promoted, as far as depended upon him, the ends of misgovernment, how are the people to know that the powers with which they had invited him had been treacherously employed ?",
+   "bbox": [
+    0.0439,
+    0.3922,
+    0.4573,
+    0.5081
+   ],
+   "source": "s0-col-left",
+   "id": "page-1166-ec9dc1d6c2c9:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "If they do not know, they will rechoose him, and that as cordially as the man who has served them with the great-est fidelity. This they are under a deplorable necessity of doing, even to be just; for, as they know no difference between him and the best, it would be on their part inquiry to make any. The consequences would be fatal. If one man saw that he might promote misrule for his own advantage, so would another; so of course would they all. In these circumstances we see laid the foundation on which, in every country, bad government is reared. On this foundation it is impossible that it should not be reared. When the causes are the same, who can expect that the effects will be different? It is unnecessary to dwell upon these fundamental truths, because they have already been developed in the article GOVERNMENT.",
+   "bbox": [
+    0.0435,
+    0.5051,
+    0.4569,
+    0.6965
+   ],
+   "source": "s0-col-left",
+   "id": "page-1166-ec9dc1d6c2c9:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "Without the knowledge, then, of what is done by their representatives, in the use of the powers intrusted to them, the people cannot profit by the power of choosing them, and the advantages of good government are unattainable. It will not surely cost many words to satisfy all classes of readers, that, without the free and unrestrained use of the press, the requisite knowledge cannot be obtained.",
+   "bbox": [
+    0.043,
+    0.6912,
+    0.4564,
+    0.7964
+   ],
+   "source": "s0-col-left",
+   "id": "page-1166-ec9dc1d6c2c9:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "That an accurate report of what is done by each of the representatives, a transcript of his speeches, and a statement of his propositions and votes, is necessary to be laid before the people, to enable them to judge of his conduct, nobody, we presume, will deny. This requires the use of the cheapest means of communication, and, we add, the free use of those means. Unless every man has the liberty of publishing the proceedings of the legisla-tive assembly, the people can have no security that they are fairly published. If it is in the power of their rulers to permit one person, and forbid another, the people may be sure that a false report, that is, a report calculated to",
+   "bbox": [
+    0.0421,
+    0.791,
+    0.4559,
+    0.9496
+   ],
+   "source": "s0-col-left",
+   "id": "page-1166-ec9dc1d6c2c9:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "THE PRESS.",
+   "bbox": [
+    0.4609,
+    0.03,
+    0.6355,
+    0.0499
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b10"
+  },
+  {
+   "order": 11,
+   "class": "Head-fragment",
+   "text": "279",
+   "bbox": [
+    0.9209,
+    0.0353,
+    0.9634,
+    0.0529
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "make them believe that they are well governed when they are ill governed, will be often presented to them.",
+   "bbox": [
+    0.4684,
+    0.0551,
+    0.8897,
+    0.0827
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "One thing more is necessary, and so necessary, that if it is wanting, the other might as well be wanting also. The publication of the proceedings tells what is done. This, however, is useless, unless a correct judgment is passed upon what is done.",
+   "bbox": [
+    0.4678,
+    0.0811,
+    0.8891,
+    0.1451
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "We have brought this inquiry, then, to an important point. In the article Government, we have seen that, unless the people hold in their own hands an effectual power of control on the acts of their government, the government will be inevitably vicious. We have now seen that they cannot exercise this control to any beneficial purpose, without the means of forming a correct judgment upon the conduct of their representatives. We have likewise seen, that one of the means necessary to enable them to judge correctly of the conduct of their representatives, is the liberty to every body of publishing reports of what they do. It remains to inquire by what other acts the press can be made to contribute to the same desirable end.",
+   "bbox": [
+    0.4668,
+    0.1429,
+    0.8886,
+    0.3083
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "What is wanted is, that all the people, or as many of them as possible, should estimate correctly the consequences of the acts proposed or done by their representatives, and also that they should know what acts might have been proposed, if the best were not proposed, from which better consequences would have followed. This end would be accomplished most effectively, if those who are sufficiently enlightened would point out to those who are in danger of mistakes, the true conclusions; and, showing the weight of evidence to be in their favour, should obtain for them the universal assent.",
+   "bbox": [
+    0.4641,
+    0.3061,
+    0.8875,
+    0.4449
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "How is this to be accomplished? In what manner are those wise men to be chosen? And who are to be the choosers? Directly the object cannot be attained. There are no distinct and indubitable marks by which wisdom, and less by which integrity, is to be known. And who is to be trusted with the privilege of pointing them out? They whose judgment requires to be directed are not well qualified to determine who shall direct them. And if the rulers are to choose, they will employ none but those who will act in conformity to their views, and enable them to benefit themselves by the pillage and oppression of the people.",
+   "bbox": [
+    0.4636,
+    0.4441,
+    0.8854,
+    0.5958
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "As there is no possible organ of choice, no choice whatever ought to be made. If no choice is to be made, every man that pleases ought to be allowed. All this is indu- bitable. The consequences of denying any part of it are so obvious, that hardly any man, we suppose, will risk the imputations to which such a denial would justly expose him.",
+   "bbox": [
+    0.4631,
+    0.5943,
+    0.8843,
+    0.6828
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "They who say that no choice ought to be made, say, in effect, that no limit whatsoever ought to be imposed upon the liberty of the press. The one of these propositions is involved in the other. To impose any restraint upon the liberty of the press, is undoubtedly to make a choice. If the restraint is imposed by the government, it is the government that chooses the directors of the public mind. If any government chooses the directors of the public mind, that government is despotic.",
+   "bbox": [
+    0.462,
+    0.682,
+    0.8817,
+    0.7979
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "Suppose that, by the restraint imposed upon the liberty of the press, all censure of the government is forbidden: here is undoubtedly a choice. The government, in this case, virtually says, the people who might attempt the task of directing the public mind are of two sorts ; one, those who would censure ; another, those who would not censure ; I choose the latter.",
+   "bbox": [
+    0.4615,
+    0.7964,
+    0.8811,
+    0.8848
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "Suppose that not every censure, but only such and such kinds of censure, are forbidden ; here, again, is still a choice, while confessedly there is no party to whom the power of choosing for the rest can with safety be given.",
+   "bbox": [
+    0.4625,
+    0.884,
+    0.8796,
+    0.9367
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "If not every censure, but only some censures, are to be",
+   "bbox": [
+    0.4784,
+    0.9344,
+    0.879,
+    0.9512
+   ],
+   "source": "s0-col-right",
+   "id": "page-1166-ec9dc1d6c2c9:b21"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "64ca02b7436c0275e02fd925cef630fad7efdf13cfaec3e9c9fabff237168be8",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ed797a76da6b192ef8f42103aa648559f45011d3d2f43c4ed6ec46024a642698",
+  "image_bytes": 2859716,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2171",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5233,
+   0.0255,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0255,
+    0.1067,
+    0.5283
+   ],
+   [
+    0.1067,
+    0.1879,
+    0.5317
+   ],
+   [
+    0.1879,
+    0.2691,
+    0.5317
+   ],
+   [
+    0.2691,
+    0.3503,
+    0.5317
+   ],
+   [
+    0.3503,
+    0.4315,
+    0.5317
+   ],
+   [
+    0.4315,
+    0.5128,
+    0.5317
+   ],
+   [
+    0.5128,
+    0.594,
+    0.5317
+   ],
+   [
+    0.594,
+    0.6752,
+    0.5317
+   ],
+   [
+    0.6752,
+    0.7564,
+    0.5317
+   ],
+   [
+    0.7564,
+    0.8376,
+    0.5317
+   ],
+   [
+    0.8376,
+    0.9188,
+    0.5317
+   ],
+   [
+    0.9188,
+    1.0,
+    0.5317
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2485,
+  "completion_tokens": 941,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.41,
+ "created_at": "2026-10-18T11:21:08+00:00",
+ "content": "<x_0.0078><y_0.0055>52 ]<x_0.1426><y_0.0289><class_Page-header>\n\n<x_0.4404><y_0.0063>A S T<x_0.667><y_0.0266><class_Title>\n\n<x_0.0332><y_0.0297>ATHAMADULET, the prime minifter of the Perfian empire, as the grand vizier is of the Turkifi empire. He is great chancellor of the kingdom, pre- fident of the council, fuperintendent of the finances, and is charged with all foreign affairs.<x_0.8779><y_0.1><class_Text>\n\n<x_0.0342><y_0.0992>ATHAMANTA, SPIGNEL; a genus of the di- nynia order, belonging to the pentandria clafs of plants. Of this genus Linnaeus enumerates nine species; but none of them merit particular notice except the cre- tenis, otherwife called _daucus creticus_. This is an umbelliferous plant growing wild in the Levant and the warmer parts of Europe. The leaves are irregu- larly difpofed, and formed like thofe of fennel. The flower-flalk rifes about two feet high, fending out many branches, terminated at the top by compoundumbels, compofed of near 20 fmall ones. Thefe have white flowers with five petals, which are fucceeded by oblong, hairy, channelled fruit, divided into two parts, containing one oblong hairy feed. The feeds have a warm biting talle, with an agreeable aromatic fmell. They are kept in the fhops as a medicine, are carmi- native, and laid to be diuretic; but are little ufed in practice. The plant may be propagated from feeds, which should be fown on an open bed of light dry ground; the following autumn the plants should be taken up, and planted at about a foot diffiance in a bed of light fandy earth, where the roots will continue feveral years.<x_0.8799><y_0.4141><class_Text>\n\n<x_0.0322><y_0.4133>ATHANASIA, GOLDILOCKS; a genus of the polygamia exqualis order, belonging to the fyngenefia clafs of plants. Of this genus, Dr Linnaeus mentions 11<x_0.8789><y_0.4555><class_Text>\n\n<x_0.0312><y_0.4547>_Species_; of which the following fix are by Mr Miller reckoned worthy of a place in thofe gardens where there are conveniencies for preferving tender plants, as none of thefe fpecies will outlive the winters of this country. 1. The dentata grows naturally at the Cape of Good Hope. It rifes three or four feet high, fending out many fide-branches, garnified with pretty long narrow leaves, having fome refemblance to thofe of buckthorn plantain. The branches are generally terminated by yellow flowers formed into a kind of umbel. Thefe flowers appear early in fummer, and the feeds ripen in autumn. 2. The trifurcata is alto a native of Africa, as are the three following forts. It is a frrubby plant, about the height of the former, fending out several weak floots, garnished with awl- haped trifid leaves fet clofe to them, of a pale filvery colour. The flowers are yellow, and terminate the branches in a corymbus. They appear in Augult, and the feeds ripen in October. 3. The crithmifolia rifes with a frong frubby talk to the height of fix or eight feet, fending out many ligneous branches garnihed with long narrow leaves terminating in four or five parts like thofe of famphire. The flowers are like thofe of the former, and appear in July and Au- guft, being fucceeded by feeds which ripen in October. 4. The pubefcens hath frong woody flalks four or five feet high, covered with a woolly bark, as are alfo the branches, which are clofely garnified with entire, fpearfhaped, woolly leaves, and are terminated by yel- low flowers having a long foot-talk, and are fometimes fucceeded by feeds that ripen in the autumn. 5. The annual is a low annual plant, feldom rifing above a foot high, and fending forth two or three flender branches garnihed with wing-pointed leaves: the talks are ter-<x_0.877><y_0.9211><class_Text>\n\n<x_0.8857><y_0.0305>Athai<x_0.9961><y_0.0891><class_Picture>\n\n<x_0.7422><y_0.9203>minated<x_0.8721><y_0.9336><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-018d6b4c-7852-4dcf-8e7c-d6733e669fc8",
+  "object": "chat.completion",
+  "created": 1792322467,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0055>52 ]<x_0.1426><y_0.0289><class_Page-header>\n\n<x_0.4404><y_0.0063>A S T<x_0.667><y_0.0266><class_Title>\n\n<x_0.0332><y_0.0297>ATHAMADULET, the prime minifter of the Perfian empire, as the grand vizier is of the Turkifi empire. He is great chancellor of the kingdom, pre- fident of the council, fuperintendent of the finances, and is charged with all foreign affairs.<x_0.8779><y_0.1><class_Text>\n\n<x_0.0342><y_0.0992>ATHAMANTA, SPIGNEL; a genus of the di- nynia order, belonging to the pentandria clafs of plants. Of this genus Linnaeus enumerates nine species; but none of them merit particular notice except the cre- tenis, otherwife called _daucus creticus_. This is an umbelliferous plant growing wild in the Levant and the warmer parts of Europe. The leaves are irregu- larly difpofed, and formed like thofe of fennel. The flower-flalk rifes about two feet high, fending out many branches, terminated at the top by compoundumbels, compofed of near 20 fmall ones. Thefe have white flowers with five petals, which are fucceeded by oblong, hairy, channelled fruit, divided into two parts, containing one oblong hairy feed. The feeds have a warm biting talle, with an agreeable aromatic fmell. They are kept in the fhops as a medicine, are carmi- native, and laid to be diuretic; but are little ufed in practice. The plant may be propagated from feeds, which should be fown on an open bed of light dry ground; the following autumn the plants should be taken up, and planted at about a foot diffiance in a bed of light fandy earth, where the roots will continue feveral years.<x_0.8799><y_0.4141><class_Text>\n\n<x_0.0322><y_0.4133>ATHANASIA, GOLDILOCKS; a genus of the polygamia exqualis order, belonging to the fyngenefia clafs of plants. Of this genus, Dr Linnaeus mentions 11<x_0.8789><y_0.4555><class_Text>\n\n<x_0.0312><y_0.4547>_Species_; of which the following fix are by Mr Miller reckoned worthy of a place in thofe gardens where there are conveniencies for preferving tender plants, as none of thefe fpecies will outlive the winters of this country. 1. The dentata grows naturally at the Cape of Good Hope. It rifes three or four feet high, fending out many fide-branches, garnified with pretty long narrow leaves, having fome refemblance to thofe of buckthorn plantain. The branches are generally terminated by yellow flowers formed into a kind of umbel. Thefe flowers appear early in fummer, and the feeds ripen in autumn. 2. The trifurcata is alto a native of Africa, as are the three following forts. It is a frrubby plant, about the height of the former, fending out several weak floots, garnished with awl- haped trifid leaves fet clofe to them, of a pale filvery colour. The flowers are yellow, and terminate the branches in a corymbus. They appear in Augult, and the feeds ripen in October. 3. The crithmifolia rifes with a frong frubby talk to the height of fix or eight feet, fending out many ligneous branches garnihed with long narrow leaves terminating in four or five parts like thofe of famphire. The flowers are like thofe of the former, and appear in July and Au- guft, being fucceeded by feeds which ripen in October. 4. The pubefcens hath frong woody flalks four or five feet high, covered with a woolly bark, as are alfo the branches, which are clofely garnified with entire, fpearfhaped, woolly leaves, and are terminated by yel- low flowers having a long foot-talk, and are fometimes fucceeded by feeds that ripen in the autumn. 5. The annual is a low annual plant, feldom rifing above a foot high, and fending forth two or three flender branches garnihed with wing-pointed leaves: the talks are ter-<x_0.877><y_0.9211><class_Text>\n\n<x_0.8857><y_0.0305>Athai<x_0.9961><y_0.0891><class_Picture>\n\n<x_0.7422><y_0.9203>minated<x_0.8721><y_0.9336><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2485,
+   "completion_tokens": 941,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "request": {
+  "key": "f6a9609fe4ad5586b38199b9c295aaded6858d333438ed35212abcb325b4fef9",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "81afa7fbf4e1bedc2152cffdec3d7d9d1dbb858ae7f9c998274e176eb6d47eb2",
+  "image_bytes": 2207171,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:403",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0608,
+   0.4683,
+   0.8718
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0608,
+    0.1419,
+    0.4633
+   ],
+   [
+    0.1419,
+    0.223,
+    0.4633
+   ],
+   [
+    0.223,
+    0.3041,
+    0.4633
+   ],
+   [
+    0.3041,
+    0.3852,
+    0.4633
+   ],
+   [
+    0.3852,
+    0.4663,
+    0.4617
+   ],
+   [
+    0.4663,
+    0.5474,
+    0.46
+   ],
+   [
+    0.5474,
+    0.6285,
+    0.4583
+   ],
+   [
+    0.6285,
+    0.7096,
+    0.4583
+   ],
+   [
+    0.7096,
+    0.7907,
+    0.4567
+   ],
+   [
+    0.7907,
+    0.8718,
+    0.4567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1772,
+  "total_tokens": 2662,
+  "completion_tokens": 890,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.67,
+ "created_at": "2026-10-18T11:10:13+00:00",
+ "content": "<x_0.0986><y_0.0>Cushim was the same. We may therefore rest assured, that whatever changes the Ethiopian dialect may have undergone in the course of three thousand years, it was originally either Chaldaic, or at least a branch of that language. Scaliger informs us, that the Ethiopians call themselves Chaldeans; and this, says he, not without reason, because of the many sacred and profane books which are extant amongst them, the most elegant and most beautiful are written in a style resembling that of the Chaldean or Assyrian. Marianus Victorius, who was the first that reduced the Ethiopic tongue to the rules of grammar, tells us, in his _Procemium_, that the Ethiopians call their tongue Chaldaic; that it springs from the Babylonian, and is very like the Hebrew, Syriac, and Arabic; and at the same time, he concludes, that this language may be easily learned by those who are masters of the Hebrew. The learned Bochart, and Bishop Walton in his _Prolegomena_, are clearly of the same opinion.<x_0.9727><y_0.257><class_Text>\n\n<x_0.0996><y_0.2547>The vulgar letters of the Ethiopians, according to Dio-dorus Siculus, were the same with the sacred characters1 of the Egyptians.2 From this account, if the Sicilian may be trusted, the sacred letters of these people, concerning which so many vague conjectures have been formed, were actually Chaldaic. To carry on this investigation a little farther, we may observe, that Sir William Jones seems to have proved, by very plausible arguments, that the Sanscrit characters were deduced from the Chaldaic. This circumstance affords a presumption that the Ethiopian Cushim were likewise concerned with the Egyptians; who, as is remarked in the section concerning the _Sanserit_, probably introduced the religion of the Brahmans into Hindostan. This is advanced as a conjecture only ; and yet when we consider the affinity between the Egyptian and the Gentoo religions, we are strongly inclined to believe that this surmise may one day be verified by undeniable facts.<x_0.9746><y_0.5148><class_Text>\n\n<x_0.0967><y_0.5125>The original Ethiopians were a highly civilized people; and their laws, their institutions, and especially their religion, were celebrated far and wide. Homer talks in raptures of the piety of the Ethiopians, and sends his gods every now and then to revel twelve days with that devout people. The Sicilian produces a number of very specious arguments to prove that these two nations originally sprung from the same stock. He mentions a similarity of features, of manners, of customs, of laws, of letters, of the fabrication of statues, and of religion, as evidences of the relation between these two neighbouring nations. There was, as every body knows, a communion, in regard to sacred rites, between the two countries. The Egyptians sent annually a deputation of their priests, furnished with the portable statues of their gods, to visit the fanes of the devout Ethiopians. Upon this occasion, a solemn religious banquet was prepared, which lasted twelve days, and of which the priests of both nations were partakers. It was a kind of sacramental institution, we imagine, by which both parties publicly avouched their agreement in the ceremonies of their religion respectively. These observations plainly show, that the most ancient Ethiopians were a people highly civilized ; indeed so much, that the Egyptians were at one time contented to be their scholars. The tone of their language was certainly the same with that of the Chaldeans or Arabian Cushim, from whom they are descended. We know not whether there are any books in the ancient Ethiopic now extant; so that it is not easy to produce instances of its coincidence with the Chaldaic. But Diogenes Laertius5 informs us, that Thrasyllus, in his cata-logue of the books composed by Democritus, mentions one,<x_0.9736><y_0.9734><class_Text>\n\n<x_0.1201><y_0.9773><sup>1</sup> Lib. iii. p. 101, _Steph._<x_0.4375><y_0.9992><class_Footnote>",
+ "reply": {
+  "id": "chatcmpl-da6eabee-50bf-437b-80bf-b167edac27b9",
+  "object": "chat.completion",
+  "created": 1792321811,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0986><y_0.0>Cushim was the same. We may therefore rest assured, that whatever changes the Ethiopian dialect may have undergone in the course of three thousand years, it was originally either Chaldaic, or at least a branch of that language. Scaliger informs us, that the Ethiopians call themselves Chaldeans; and this, says he, not without reason, because of the many sacred and profane books which are extant amongst them, the most elegant and most beautiful are written in a style resembling that of the Chaldean or Assyrian. Marianus Victorius, who was the first that reduced the Ethiopic tongue to the rules of grammar, tells us, in his _Procemium_, that the Ethiopians call their tongue Chaldaic; that it springs from the Babylonian, and is very like the Hebrew, Syriac, and Arabic; and at the same time, he concludes, that this language may be easily learned by those who are masters of the Hebrew. The learned Bochart, and Bishop Walton in his _Prolegomena_, are clearly of the same opinion.<x_0.9727><y_0.257><class_Text>\n\n<x_0.0996><y_0.2547>The vulgar letters of the Ethiopians, according to Dio-dorus Siculus, were the same with the sacred characters1 of the Egyptians.2 From this account, if the Sicilian may be trusted, the sacred letters of these people, concerning which so many vague conjectures have been formed, were actually Chaldaic. To carry on this investigation a little farther, we may observe, that Sir William Jones seems to have proved, by very plausible arguments, that the Sanscrit characters were deduced from the Chaldaic. This circumstance affords a presumption that the Ethiopian Cushim were likewise concerned with the Egyptians; who, as is remarked in the section concerning the _Sanserit_, probably introduced the religion of the Brahmans into Hindostan. This is advanced as a conjecture only ; and yet when we consider the affinity between the Egyptian and the Gentoo religions, we are strongly inclined to believe that this surmise may one day be verified by undeniable facts.<x_0.9746><y_0.5148><class_Text>\n\n<x_0.0967><y_0.5125>The original Ethiopians were a highly civilized people; and their laws, their institutions, and especially their religion, were celebrated far and wide. Homer talks in raptures of the piety of the Ethiopians, and sends his gods every now and then to revel twelve days with that devout people. The Sicilian produces a number of very specious arguments to prove that these two nations originally sprung from the same stock. He mentions a similarity of features, of manners, of customs, of laws, of letters, of the fabrication of statues, and of religion, as evidences of the relation between these two neighbouring nations. There was, as every body knows, a communion, in regard to sacred rites, between the two countries. The Egyptians sent annually a deputation of their priests, furnished with the portable statues of their gods, to visit the fanes of the devout Ethiopians. Upon this occasion, a solemn religious banquet was prepared, which lasted twelve days, and of which the priests of both nations were partakers. It was a kind of sacramental institution, we imagine, by which both parties publicly avouched their agreement in the ceremonies of their religion respectively. These observations plainly show, that the most ancient Ethiopians were a people highly civilized ; indeed so much, that the Egyptians were at one time contented to be their scholars. The tone of their language was certainly the same with that of the Chaldeans or Arabian Cushim, from whom they are descended. We know not whether there are any books in the ancient Ethiopic now extant; so that it is not easy to produce instances of its coincidence with the Chaldaic. But Diogenes Laertius5 informs us, that Thrasyllus, in his cata-logue of the books composed by Democritus, mentions one,<x_0.9736><y_0.9734><class_Text>\n\n<x_0.1201><y_0.9773><sup>1</sup> Lib. iii. p. 101, _Steph._<x_0.4375><y_0.9992><class_Footnote>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1772,
+   "total_tokens": 2662,
+   "completion_tokens": 890,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

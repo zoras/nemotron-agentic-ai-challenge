@@ -1,0 +1,124 @@
+{
+ "request": {
+  "key": "98a9662c93dc8103faf7088a4dc2432af3b009655dd723090ceafe40033a7426",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "2d99d8fd7258e91a0274fbbac6e73e2092605e66aadae3d4a857355f33a75923",
+  "image_bytes": 2041208,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1803",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0513,
+   0.5117,
+   0.853
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0513,
+    0.1315,
+    0.5067
+   ],
+   [
+    0.1315,
+    0.2116,
+    0.5067
+   ],
+   [
+    0.2116,
+    0.2918,
+    0.5067
+   ],
+   [
+    0.2918,
+    0.372,
+    0.5067
+   ],
+   [
+    0.372,
+    0.4521,
+    0.5067
+   ],
+   [
+    0.4521,
+    0.5323,
+    0.5067
+   ],
+   [
+    0.5323,
+    0.6125,
+    0.5067
+   ],
+   [
+    0.6125,
+    0.6927,
+    0.505
+   ],
+   [
+    0.6927,
+    0.7728,
+    0.5033
+   ],
+   [
+    0.7728,
+    0.853,
+    0.5017
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1778,
+  "total_tokens": 2580,
+  "completion_tokens": 802,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.39,
+ "created_at": "2026-10-18T11:20:20+00:00",
+ "content": "<x_0.4883><y_0.0063>EN G [ 1<x_0.9912><y_0.0344><class_Page-header>\n\n<x_0.1387><y_0.0312>Egraving the real connoilfeur and of polterity. Engraving in this country fuitained a heavy lofs when he died; and if the death of fo excellent an artift may be confidered as a public lofs, it is certainly the more felt with respect to Woollet, who died while he was yet improving in that excellence (x).<x_0.9795><y_0.1313><class_Text>\n\n<x_0.248><y_0.1266>Chattelaine has been termed a mannerif in his drawings, but he muit certainly be allowed to be an excellent one: his etchings are variety itself. Perhaps in the department of etching no artift has fo happily translated the pictures of Claude de Lorraine as Francis Vivares; that is, with respect to aerial perspective, the peculiar characteristic of Claude. But his merits are not confined to this matter alone; for he followed Ruyfdale, Berghem, Gainthorough, and Cuype, with great fuccefs. He has such a free delivery of llyle, that almost every one who examines his works is irrefltibly impreffed with an idea of performing the very fame. Few artits, it has been mentioned, have excelled in the etching department. We cannot, however, omit the name of Peranezzi; who, to originality of llyle, which is apparently fpontaneous, joins a certain grandeur which had never been furpalled. He has tranlimited to potlerity fo fpirited a reprefentation of the Greek and Roman edifices and ruins, that travellers have often confelled that they have railed their ideas beyond the magnitude of the superfluectures themselves. It is certain that in works of this flu- pendous nature, a degree of ruggedness in the execution corresponds with the fullimity of the subjects; and thus produces a fill greater power over the mind, than if they had been more polished. Some have cenfured his figures, and not without cause. This defect has been ingeniously palliated by an excellent artift, Mr Bartolozzi. \"For (fail he) if the purchasers of the works of Peranezzi, get fo much for their money in the building way, the figures may be fuppofed to be given for nothing.\" DoubtfeIs thofe vaft piles of perithing grandeur, were never more judiciously preferenced to the eye, than by this affonishing artift, or better calculated to affect the mind by calling forth its molt fublime ideas.<x_0.9766><y_0.6633><class_Text>\n\n<x_0.2461><y_0.657>We have another thriking influence of spirited etching in a different purfuit of the art, in the works of Ridinger, a name which brings along with it all the favage feenery of nature.<x_0.96><y_0.7273><class_Text>\n\n<x_0.2441><y_0.7258>\" Affembling wolves in raging troops defend.<x_0.8467><y_0.75><class_List-item>\n\n<x_0.2432><y_0.7445>— They fallen on the fleed and pierce his mighty heart.”<x_0.959><y_0.7805><class_List-item>\n\n<x_0.6924><y_0.7766>THOMSON’S _Winter._<x_0.958><y_0.7984><class_Section-header>\n\n<x_0.2422><y_0.7977>For we shall ever find fome peculiar beauty to admire, even in the lightest productions of genius, as well as in the most perfect productions of the burin.<x_0.9561><y_0.8516><class_Text>\n\n<x_0.2402><y_0.8461>There are few artists who do not regret, that etching was unknown to Bolfwert, who has done fo much with out its aid; from which we may easily fuppofe how much more he could have effected with this charming acquisition. For the truth of this remark we may appeal to his landscapes from Rubens, his animated portraits from Vandyke, and his productions from the Fle-<x_0.9551><y_0.9641><class_Text>",
+ "reply": {
+  "id": "chatcmpl-bda2bc5e-2086-4014-8ae6-f9bc6d722404",
+  "object": "chat.completion",
+  "created": 1792322419,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4883><y_0.0063>EN G [ 1<x_0.9912><y_0.0344><class_Page-header>\n\n<x_0.1387><y_0.0312>Egraving the real connoilfeur and of polterity. Engraving in this country fuitained a heavy lofs when he died; and if the death of fo excellent an artift may be confidered as a public lofs, it is certainly the more felt with respect to Woollet, who died while he was yet improving in that excellence (x).<x_0.9795><y_0.1313><class_Text>\n\n<x_0.248><y_0.1266>Chattelaine has been termed a mannerif in his drawings, but he muit certainly be allowed to be an excellent one: his etchings are variety itself. Perhaps in the department of etching no artift has fo happily translated the pictures of Claude de Lorraine as Francis Vivares; that is, with respect to aerial perspective, the peculiar characteristic of Claude. But his merits are not confined to this matter alone; for he followed Ruyfdale, Berghem, Gainthorough, and Cuype, with great fuccefs. He has such a free delivery of llyle, that almost every one who examines his works is irrefltibly impreffed with an idea of performing the very fame. Few artits, it has been mentioned, have excelled in the etching department. We cannot, however, omit the name of Peranezzi; who, to originality of llyle, which is apparently fpontaneous, joins a certain grandeur which had never been furpalled. He has tranlimited to potlerity fo fpirited a reprefentation of the Greek and Roman edifices and ruins, that travellers have often confelled that they have railed their ideas beyond the magnitude of the superfluectures themselves. It is certain that in works of this flu- pendous nature, a degree of ruggedness in the execution corresponds with the fullimity of the subjects; and thus produces a fill greater power over the mind, than if they had been more polished. Some have cenfured his figures, and not without cause. This defect has been ingeniously palliated by an excellent artift, Mr Bartolozzi. \"For (fail he) if the purchasers of the works of Peranezzi, get fo much for their money in the building way, the figures may be fuppofed to be given for nothing.\" DoubtfeIs thofe vaft piles of perithing grandeur, were never more judiciously preferenced to the eye, than by this affonishing artift, or better calculated to affect the mind by calling forth its molt fublime ideas.<x_0.9766><y_0.6633><class_Text>\n\n<x_0.2461><y_0.657>We have another thriking influence of spirited etching in a different purfuit of the art, in the works of Ridinger, a name which brings along with it all the favage feenery of nature.<x_0.96><y_0.7273><class_Text>\n\n<x_0.2441><y_0.7258>\" Affembling wolves in raging troops defend.<x_0.8467><y_0.75><class_List-item>\n\n<x_0.2432><y_0.7445>— They fallen on the fleed and pierce his mighty heart.”<x_0.959><y_0.7805><class_List-item>\n\n<x_0.6924><y_0.7766>THOMSON’S _Winter._<x_0.958><y_0.7984><class_Section-header>\n\n<x_0.2422><y_0.7977>For we shall ever find fome peculiar beauty to admire, even in the lightest productions of genius, as well as in the most perfect productions of the burin.<x_0.9561><y_0.8516><class_Text>\n\n<x_0.2402><y_0.8461>There are few artists who do not regret, that etching was unknown to Bolfwert, who has done fo much with out its aid; from which we may easily fuppofe how much more he could have effected with this charming acquisition. For the truth of this remark we may appeal to his landscapes from Rubens, his animated portraits from Vandyke, and his productions from the Fle-<x_0.9551><y_0.9641><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1778,
+   "total_tokens": 2580,
+   "completion_tokens": 802,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

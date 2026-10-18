@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "73f15243a6e5b043fb9de255ec1cfb1ed5ae3fd6cf6e2a4d11eac23c69671f54",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9255594203600dbf0e97d87218ae33a056ba49c992d580a429103182d03ed823",
+  "image_bytes": 1879816,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1670",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4533,
+   0.0231,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0231,
+    0.1045,
+    0.46
+   ],
+   [
+    0.1045,
+    0.1859,
+    0.4583
+   ],
+   [
+    0.1859,
+    0.2673,
+    0.4583
+   ],
+   [
+    0.2673,
+    0.3487,
+    0.4583
+   ],
+   [
+    0.3487,
+    0.4301,
+    0.4583
+   ],
+   [
+    0.4301,
+    0.5115,
+    0.4583
+   ],
+   [
+    0.5115,
+    0.593,
+    0.4583
+   ],
+   [
+    0.593,
+    0.6744,
+    0.4583
+   ],
+   [
+    0.6744,
+    0.7558,
+    0.4583
+   ],
+   [
+    0.7558,
+    0.8372,
+    0.4583
+   ],
+   [
+    0.8372,
+    0.9186,
+    0.4583
+   ],
+   [
+    0.9186,
+    1.0,
+    0.4583
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2729,
+  "completion_tokens": 929,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.35,
+ "created_at": "2026-10-18T11:20:14+00:00",
+ "content": "<x_0.0078><y_0.0039>**J ]**<x_0.1123><y_0.0273><class_Page-header>\n\n<x_0.3203><y_0.0055>## CAP<x_0.5068><y_0.0266><class_Title>\n\n<x_0.0176><y_0.0258>this cultom, if ever it obtained in Cappadocia, was a-bolithed in the times of the Romans.<x_0.7051><y_0.0547><class_Text>\n\n<x_0.7139><y_0.0281>Cappanse\nIl Capra.<x_0.832><y_0.0633><class_Caption>\n\n<x_0.0186><y_0.0539>CAPPANUS, a name given by fome authors to a worm that adheres to and gnaws the bottoms of fhips; to which it is extremely pernicious, especially in the Eaft and Well Indies: to prevent this, feveral fhips have lately been theathed with copper; the first trial of which was made on his majetly's frigate the Alarm.<x_0.708><y_0.1375><class_Text>\n\n<x_0.0166><y_0.1367>CAPPARIS, in botany : A genus of the mono-gynia order, belonging to the polyandria clafs of plants; and in the natural method ranking under the 25th order, _Putaminae._ The calyx is tetraphyllous and cori-aceous; there petals are four; the flamina are long; the fruit is a berry, carnous, unilocular, and pedunca-lated, or furnished with a foot-falk.<x_0.709><y_0.232><class_Text>\n\n<x_0.0195><y_0.2313>There are fewer species. The fpinofa, or common caper, is a low shrub, generally growing out of the joints of old walls, the fifures of rocks, and a-mongit rubbifh, in molt of the warm parts of Europe: it hath woody flalks, which fend out many lateral flen-der branches: under each of thefe are placed two short crooked fpines, between which and the branches come out the foottitalks of the leaves, which are fingle, flort, and fulltain a round fnooth entire leaf. At the inter-mediate joints, between the branches, come out the flowers on long foottitalks; before thefe expand, the bud with the empalement is gathered for pickling. Thofe which are left expand in form of a fingle role, having five large white petals, which are roundifh and concave; in the middle are placed a great number of long flamina, furrounding a flyle which rifes above them, and crowned with an oval germen, which afterwards becomes a capfulle filled with kidney-shaped feeds.<x_0.71><y_0.4875><class_Text>\n\n<x_0.0215><y_0.4883>_Culture._ This plant is very differently preserved in Britain: it delights to grow in crevices of rocks, old walls, &c. and always thrives beft in an horizontal po-flure; fo that, when planted either in pots or in the full ground, they felddom thrive, though they may be kept alive for fome years. They are propagated by feeds in the warm parts of Europe, but very felddom in Britain.<x_0.7168><y_0.5961><class_Text>\n\n<x_0.0225><y_0.5969>_Ufer._ The buds, pickled with vinegar, &c. are brought to Britain annually from Italy and the Mediterranean. They are fuppofed to excite appetite and afflit digestion; and to be particularly useful as deter- gents and aperients in obtitractions of the liver and spleen.<x_0.7148><y_0.6781><class_Text>\n\n<x_0.0234><y_0.6773>CAPRA, or GOAT, a genus of quadrupeds belong- ing to the order of pecora. The horns are hollow, turned upwards, erect, and feabrous. There are eight fore-teeth in the under jaw, and none in the upper; and they have no dog-teeth. This genus conflicts of 14 species, viz.<x_0.7129><y_0.7586><class_Text>\n\n<x_0.0244><y_0.7594>I. The mixus, or common goat, with arched cari- nated horns, and a long beard. It is a native of the eastern mountains.<x_0.7119><y_0.7992><class_Text>\n\n<x_0.0254><y_0.8>The goat is an animal of more flagacity than the sheep. Instead of having an antipathy at mankind, they voluntarily mingle with them, and are cafily ta- med. Even in uninhabited countries, they betray no favage difpositions. In the year 1698, an English vel-fel having put in to the illand of Bonavilla, two ne- groes came aboard, and offered gratis to the captain as<x_0.7158><y_0.8969><class_Text>\n\n<x_0.6348><y_0.8961>many<x_0.7109><y_0.9102><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-80a44469-a067-4d9c-8d7e-212d01d3f0c2",
+  "object": "chat.completion",
+  "created": 1792322413,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0039>**J ]**<x_0.1123><y_0.0273><class_Page-header>\n\n<x_0.3203><y_0.0055>## CAP<x_0.5068><y_0.0266><class_Title>\n\n<x_0.0176><y_0.0258>this cultom, if ever it obtained in Cappadocia, was a-bolithed in the times of the Romans.<x_0.7051><y_0.0547><class_Text>\n\n<x_0.7139><y_0.0281>Cappanse\nIl Capra.<x_0.832><y_0.0633><class_Caption>\n\n<x_0.0186><y_0.0539>CAPPANUS, a name given by fome authors to a worm that adheres to and gnaws the bottoms of fhips; to which it is extremely pernicious, especially in the Eaft and Well Indies: to prevent this, feveral fhips have lately been theathed with copper; the first trial of which was made on his majetly's frigate the Alarm.<x_0.708><y_0.1375><class_Text>\n\n<x_0.0166><y_0.1367>CAPPARIS, in botany : A genus of the mono-gynia order, belonging to the polyandria clafs of plants; and in the natural method ranking under the 25th order, _Putaminae._ The calyx is tetraphyllous and cori-aceous; there petals are four; the flamina are long; the fruit is a berry, carnous, unilocular, and pedunca-lated, or furnished with a foot-falk.<x_0.709><y_0.232><class_Text>\n\n<x_0.0195><y_0.2313>There are fewer species. The fpinofa, or common caper, is a low shrub, generally growing out of the joints of old walls, the fifures of rocks, and a-mongit rubbifh, in molt of the warm parts of Europe: it hath woody flalks, which fend out many lateral flen-der branches: under each of thefe are placed two short crooked fpines, between which and the branches come out the foottitalks of the leaves, which are fingle, flort, and fulltain a round fnooth entire leaf. At the inter-mediate joints, between the branches, come out the flowers on long foottitalks; before thefe expand, the bud with the empalement is gathered for pickling. Thofe which are left expand in form of a fingle role, having five large white petals, which are roundifh and concave; in the middle are placed a great number of long flamina, furrounding a flyle which rifes above them, and crowned with an oval germen, which afterwards becomes a capfulle filled with kidney-shaped feeds.<x_0.71><y_0.4875><class_Text>\n\n<x_0.0215><y_0.4883>_Culture._ This plant is very differently preserved in Britain: it delights to grow in crevices of rocks, old walls, &c. and always thrives beft in an horizontal po-flure; fo that, when planted either in pots or in the full ground, they felddom thrive, though they may be kept alive for fome years. They are propagated by feeds in the warm parts of Europe, but very felddom in Britain.<x_0.7168><y_0.5961><class_Text>\n\n<x_0.0225><y_0.5969>_Ufer._ The buds, pickled with vinegar, &c. are brought to Britain annually from Italy and the Mediterranean. They are fuppofed to excite appetite and afflit digestion; and to be particularly useful as deter- gents and aperients in obtitractions of the liver and spleen.<x_0.7148><y_0.6781><class_Text>\n\n<x_0.0234><y_0.6773>CAPRA, or GOAT, a genus of quadrupeds belong- ing to the order of pecora. The horns are hollow, turned upwards, erect, and feabrous. There are eight fore-teeth in the under jaw, and none in the upper; and they have no dog-teeth. This genus conflicts of 14 species, viz.<x_0.7129><y_0.7586><class_Text>\n\n<x_0.0244><y_0.7594>I. The mixus, or common goat, with arched cari- nated horns, and a long beard. It is a native of the eastern mountains.<x_0.7119><y_0.7992><class_Text>\n\n<x_0.0254><y_0.8>The goat is an animal of more flagacity than the sheep. Instead of having an antipathy at mankind, they voluntarily mingle with them, and are cafily ta- med. Even in uninhabited countries, they betray no favage difpositions. In the year 1698, an English vel-fel having put in to the illand of Bonavilla, two ne- groes came aboard, and offered gratis to the captain as<x_0.7158><y_0.8969><class_Text>\n\n<x_0.6348><y_0.8961>many<x_0.7109><y_0.9102><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2729,
+   "completion_tokens": 929,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

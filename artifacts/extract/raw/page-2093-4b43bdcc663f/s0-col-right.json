@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "318e7ce211eca6ff781e851d70088eaeae6363f86e1e1c5255ac299db8f73008",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "3dccc72b5d2e7a1d4ee7f8a687a0f468971530f6f15e11de47ce8782cb65746a",
+  "image_bytes": 1775719,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2093",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4433,
+   0.0528,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0528,
+    0.1389,
+    0.4483
+   ],
+   [
+    0.1389,
+    0.225,
+    0.45
+   ],
+   [
+    0.225,
+    0.3111,
+    0.45
+   ],
+   [
+    0.3111,
+    0.3972,
+    0.45
+   ],
+   [
+    0.3972,
+    0.4833,
+    0.45
+   ],
+   [
+    0.4833,
+    0.5695,
+    0.45
+   ],
+   [
+    0.5695,
+    0.6556,
+    0.45
+   ],
+   [
+    0.6556,
+    0.7417,
+    0.45
+   ],
+   [
+    0.7417,
+    0.8278,
+    0.45
+   ],
+   [
+    0.8278,
+    0.9139,
+    0.45
+   ],
+   [
+    0.9139,
+    1.0,
+    0.45
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2845,
+  "completion_tokens": 917,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.58,
+ "created_at": "2026-10-18T11:20:47+00:00",
+ "content": "<x_0.0059><y_0.0063>5T J SEN<x_0.4785><y_0.0281><class_Title>\n\n<x_0.0234><y_0.0289>tur ; et hule iterum certos fines pofuit: ita ut neque quem voluit natura ufus impane omittatur, neque ultra modum intendatur \\*.\"<x_0.667><y_0.068><class_Text>\n\n<x_0.6689><y_0.0297>Senles<x_0.7803><y_0.0523><class_Caption>\n\n<x_0.0225><y_0.0672>\" Of fuch fenfations and feelings as are agreeable or difagreeable, we may remark,\" fays Dr Reid, \" that they differ much, not only in degree, but in kind and in dignity. Some belong to the animal part of our nature, and are common to us with the brutes : others be long to the rational and moral part. The first are more properly called _fenfations_, the latt _feelings_. The French word _fentiment_ is common to both.\"<x_0.666><y_0.1727><class_Text>\n\n<x_0.0186><y_0.1719>\" The Author of nature, in the distribution of agreeable and painful feelings, bath wifely and benevolently confulted the good of the human species ; and bath even thewn us, by the fame means, what tenor of conduct we ought to hold. For, fejl, The painful fenfations of the animal kind are admonitions to avoid what would hurt us ; and the agreeable fenfations of this kind in vite us to those actions that are necefary to the prefervation of the individual, or of the kind. Secondly, By the fame means nature invites us to moderate bodily exercise, and admonishes us to avoid idlenés and inactivity on the one hand, and excessive labour and fatigue upon the other. _Thirdly_, The moderate exercise of all our rational powers gives pleasure. _Fourthly_, Every species of beauty is behold with pleasure, and every species of deformity with difficult ; and we shall find all that we call beautiful, to be something eftimable, or useful in itself, or a sign of fomething that is estimable or useful. _Fifthly_, The benevolent affections are all accompanied with an agreeable feeling, the malevolent with the contrary. And, _Sixthly_, The high-elt, the nobleft and most durable pleasure is that of doing well and acting the part that becomes us ; and the most bitter and painful femtiment is the anguish and re-morle of a guilty confidence.\" Thefe observations with regard to the economy of nature in the difficulties of our painful and agreeable fenfations and feelings are fo well illustrated by the elegant and judicious au-thor of _Theorie des Senttiments agreeables_, that we deem itunneceffary to make any further remarks on this futbject. (See HAPPINESS and PLEASURE) A little reflection may falsify us, that the number and variety of our fenfations and feelings are prodigious. For, to omit all those which accompany our appetites, paffions, and affections, our moral fentiments and fentiments of tafte, even our external fences, furniti a great variety of fenfations differing in kind, and almost in every kind an endless variety of degrees. Every variety we discern, with regard to tafte, fmell, found, colour, heat, and cold, and in the tangible qualities of bodies, is indicated by a fenfation corresponding to it.<x_0.668><y_0.7047><class_Text>\n\n<x_0.0137><y_0.7039>The moft general and the moft important division of our fenfations and feelings is into the agreeable, the differenceable, and the indifferent. Every thing we call pleasure, happiness, or enjoyment, on the one hand ; and, on the other, every thing we call mifery, pain, or uneafineft, is fenfation or feeling: For no man can for the prefent be more happy, or more miferable, than he feels himself to be. He cannot be deceived with regard to the enjoyment or suffering of the prefent moment.<x_0.6641><y_0.8219><class_Text>\n\n<x_0.0127><y_0.8211>But, besides the fenfations that are agreeable or disagreeable, there is fill a greater number that are indiferent. To these we give to little attention, that they have no name, and are immediately forgotten as if they had<x_0.6572><y_0.8867><class_Text>",
+ "reply": {
+  "id": "chatcmpl-bf427525-5535-457d-81b6-d2ab63774033",
+  "object": "chat.completion",
+  "created": 1792322446,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0059><y_0.0063>5T J SEN<x_0.4785><y_0.0281><class_Title>\n\n<x_0.0234><y_0.0289>tur ; et hule iterum certos fines pofuit: ita ut neque quem voluit natura ufus impane omittatur, neque ultra modum intendatur \\*.\"<x_0.667><y_0.068><class_Text>\n\n<x_0.6689><y_0.0297>Senles<x_0.7803><y_0.0523><class_Caption>\n\n<x_0.0225><y_0.0672>\" Of fuch fenfations and feelings as are agreeable or difagreeable, we may remark,\" fays Dr Reid, \" that they differ much, not only in degree, but in kind and in dignity. Some belong to the animal part of our nature, and are common to us with the brutes : others be long to the rational and moral part. The first are more properly called _fenfations_, the latt _feelings_. The French word _fentiment_ is common to both.\"<x_0.666><y_0.1727><class_Text>\n\n<x_0.0186><y_0.1719>\" The Author of nature, in the distribution of agreeable and painful feelings, bath wifely and benevolently confulted the good of the human species ; and bath even thewn us, by the fame means, what tenor of conduct we ought to hold. For, fejl, The painful fenfations of the animal kind are admonitions to avoid what would hurt us ; and the agreeable fenfations of this kind in vite us to those actions that are necefary to the prefervation of the individual, or of the kind. Secondly, By the fame means nature invites us to moderate bodily exercise, and admonishes us to avoid idlenés and inactivity on the one hand, and excessive labour and fatigue upon the other. _Thirdly_, The moderate exercise of all our rational powers gives pleasure. _Fourthly_, Every species of beauty is behold with pleasure, and every species of deformity with difficult ; and we shall find all that we call beautiful, to be something eftimable, or useful in itself, or a sign of fomething that is estimable or useful. _Fifthly_, The benevolent affections are all accompanied with an agreeable feeling, the malevolent with the contrary. And, _Sixthly_, The high-elt, the nobleft and most durable pleasure is that of doing well and acting the part that becomes us ; and the most bitter and painful femtiment is the anguish and re-morle of a guilty confidence.\" Thefe observations with regard to the economy of nature in the difficulties of our painful and agreeable fenfations and feelings are fo well illustrated by the elegant and judicious au-thor of _Theorie des Senttiments agreeables_, that we deem itunneceffary to make any further remarks on this futbject. (See HAPPINESS and PLEASURE) A little reflection may falsify us, that the number and variety of our fenfations and feelings are prodigious. For, to omit all those which accompany our appetites, paffions, and affections, our moral fentiments and fentiments of tafte, even our external fences, furniti a great variety of fenfations differing in kind, and almost in every kind an endless variety of degrees. Every variety we discern, with regard to tafte, fmell, found, colour, heat, and cold, and in the tangible qualities of bodies, is indicated by a fenfation corresponding to it.<x_0.668><y_0.7047><class_Text>\n\n<x_0.0137><y_0.7039>The moft general and the moft important division of our fenfations and feelings is into the agreeable, the differenceable, and the indifferent. Every thing we call pleasure, happiness, or enjoyment, on the one hand ; and, on the other, every thing we call mifery, pain, or uneafineft, is fenfation or feeling: For no man can for the prefent be more happy, or more miferable, than he feels himself to be. He cannot be deceived with regard to the enjoyment or suffering of the prefent moment.<x_0.6641><y_0.8219><class_Text>\n\n<x_0.0127><y_0.8211>But, besides the fenfations that are agreeable or disagreeable, there is fill a greater number that are indiferent. To these we give to little attention, that they have no name, and are immediately forgotten as if they had<x_0.6572><y_0.8867><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2845,
+   "completion_tokens": 917,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

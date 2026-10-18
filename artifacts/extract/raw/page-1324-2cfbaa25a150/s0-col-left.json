@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "4cfd81d12413acc1070b77665b951645d70c28b6fd78dac44aa590d6353ecec0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "433768e08180d05a66e1b6545d1543adead23c78f001d6b325b43b21c6a52556",
+  "image_bytes": 1798603,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1324",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0,
+   0.4767,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.4717
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.47
+   ],
+   [
+    0.1667,
+    0.25,
+    0.47
+   ],
+   [
+    0.25,
+    0.3333,
+    0.47
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.47
+   ],
+   [
+    0.4167,
+    0.5,
+    0.47
+   ],
+   [
+    0.5,
+    0.5833,
+    0.47
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.47
+   ],
+   [
+    0.6667,
+    0.75,
+    0.47
+   ],
+   [
+    0.75,
+    0.8333,
+    0.47
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.47
+   ],
+   [
+    0.9167,
+    1.0,
+    0.47
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2446,
+  "completion_tokens": 902,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.33,
+ "created_at": "2026-10-18T11:10:50+00:00",
+ "content": "<x_0.3857><y_0.043>H E D [ 38<x_0.999><y_0.0648><class_Page-header>\n\n<x_0.1631><y_0.0633>price of lime is high they may be built without any cement, and anfwer the purposely very well if the work is properly executed.\"<x_0.9697><y_0.1078><class_Text>\n\n<x_0.1602><y_0.1055>In making a new fence of this kind, the surface of the ground should be pared off the breadth of the ditch, and likewise for two feet more, in order to prevent an much as poffible the thorns from being injured by the growth of grafs and weeds. The ditch should be five feet broad, two and an half in depth, and one foot broad at the bottom. Leave one foot for an edging or fearcement, then dig the earth one fpit of a fade for about one foot, and put about three inches of good earth below the thorn, which should be laid nearly horizontal, but the point rather inclining upwards, in order to let the rain drip to the roots; then add a foot of good earth above it: leave three or four inches of a fearcement before another thorn is planted; it mull not be directly over the lower one, but about nine inches or a foot to one tide of it: then throw a foot of good earth on the thorn, and trample it well down, and level the top of the bank for about three feet and an half for the bafe of the wall to reft on. This bafe should be about nine or ten inches, but must not exceed one foot from the thorn. The wall ought to be about two feet thick at the bottom and one foot at the top; the cope to be a lingle flone laid flat; then covered with two folds of turf, the grafs of the under- moft to be next the wall, and the other fed muff have the grafs ride uppermost: the folds should be of form thickness, in order to retain moisture; fo that they may adhere together, and not be cafily displaced by the wind; the height of the wall to be two feet and an half, exclusive of the folds; which together should be from four to fix inches, by which means the wall would be near to three feet altogether. The expense of the fences cannot fo easily be counted, on account of the difference of the prices of labour in different parts. Mr Errikine had them done with lime, every thing included, from 105d. to 13d. per ell (which is equal to 37 inches 2 parts), according to the cafe or difficulty of working the quarry, and the distance of it from the place where the fence is erected. The lime cofts about 6d. per ball of about 40872667 buthels; and from 15 to 16 bolls of lime are ufed to the rood of 36 square ella Scots measure; and there are upwards of 43 Scotch eils, or 44 English yards. When the common round or flint floors are made ufe of, as they require more lime, it is necessary to ufe 30 or 35 bolts of lime to the rood. The thorns are fold from five to ten fillings per thousand, according to their age, reckoning fix force to the hundred. Making the ditch, laying the thorns, and preparing the top of the wall, generally colt from 7d. to 8d. every fix eils. About 50 carts of floes, each cart carrying from 7 to 9 cwt. will build a rood; the carriage at 2d. per cart for half a mile’s diffiance.<x_0.9736><y_0.818><class_Text>\n\n<x_0.1748><y_0.8172>Warmth in undoubtedly no beneficial to hedges as trees; and the walls give an effectual shelter, which in exposed situations is absolutely necefitary for rearing young hedges; and they likewise preserve a proper degree of moisture about the roots. If the hedges have been planted for fix or fever years before the wall is built, cut them over to two or three inches above the ground with a sharp tool, either in October or November, or early in the spring; and erect the Vol. VIII. Part I.<x_0.9746><y_0.9547><class_Text>",
+ "reply": {
+  "id": "chatcmpl-70f53c1e-b58b-4091-85f6-8ef350535663",
+  "object": "chat.completion",
+  "created": 1792321849,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.3857><y_0.043>H E D [ 38<x_0.999><y_0.0648><class_Page-header>\n\n<x_0.1631><y_0.0633>price of lime is high they may be built without any cement, and anfwer the purposely very well if the work is properly executed.\"<x_0.9697><y_0.1078><class_Text>\n\n<x_0.1602><y_0.1055>In making a new fence of this kind, the surface of the ground should be pared off the breadth of the ditch, and likewise for two feet more, in order to prevent an much as poffible the thorns from being injured by the growth of grafs and weeds. The ditch should be five feet broad, two and an half in depth, and one foot broad at the bottom. Leave one foot for an edging or fearcement, then dig the earth one fpit of a fade for about one foot, and put about three inches of good earth below the thorn, which should be laid nearly horizontal, but the point rather inclining upwards, in order to let the rain drip to the roots; then add a foot of good earth above it: leave three or four inches of a fearcement before another thorn is planted; it mull not be directly over the lower one, but about nine inches or a foot to one tide of it: then throw a foot of good earth on the thorn, and trample it well down, and level the top of the bank for about three feet and an half for the bafe of the wall to reft on. This bafe should be about nine or ten inches, but must not exceed one foot from the thorn. The wall ought to be about two feet thick at the bottom and one foot at the top; the cope to be a lingle flone laid flat; then covered with two folds of turf, the grafs of the under- moft to be next the wall, and the other fed muff have the grafs ride uppermost: the folds should be of form thickness, in order to retain moisture; fo that they may adhere together, and not be cafily displaced by the wind; the height of the wall to be two feet and an half, exclusive of the folds; which together should be from four to fix inches, by which means the wall would be near to three feet altogether. The expense of the fences cannot fo easily be counted, on account of the difference of the prices of labour in different parts. Mr Errikine had them done with lime, every thing included, from 105d. to 13d. per ell (which is equal to 37 inches 2 parts), according to the cafe or difficulty of working the quarry, and the distance of it from the place where the fence is erected. The lime cofts about 6d. per ball of about 40872667 buthels; and from 15 to 16 bolls of lime are ufed to the rood of 36 square ella Scots measure; and there are upwards of 43 Scotch eils, or 44 English yards. When the common round or flint floors are made ufe of, as they require more lime, it is necessary to ufe 30 or 35 bolts of lime to the rood. The thorns are fold from five to ten fillings per thousand, according to their age, reckoning fix force to the hundred. Making the ditch, laying the thorns, and preparing the top of the wall, generally colt from 7d. to 8d. every fix eils. About 50 carts of floes, each cart carrying from 7 to 9 cwt. will build a rood; the carriage at 2d. per cart for half a mile’s diffiance.<x_0.9736><y_0.818><class_Text>\n\n<x_0.1748><y_0.8172>Warmth in undoubtedly no beneficial to hedges as trees; and the walls give an effectual shelter, which in exposed situations is absolutely necefitary for rearing young hedges; and they likewise preserve a proper degree of moisture about the roots. If the hedges have been planted for fix or fever years before the wall is built, cut them over to two or three inches above the ground with a sharp tool, either in October or November, or early in the spring; and erect the Vol. VIII. Part I.<x_0.9746><y_0.9547><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2446,
+   "completion_tokens": 902,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

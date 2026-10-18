@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "1dcc2bcb6cec3284e9b34bebeab9b93ac96f5b726b6d826729107b8a6ae20e65",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "55532308e142df516e2882bc2798cff646c352f271318dcf6df3a96dce46882e",
+  "image_bytes": 1826385,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:257",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0,
+   0.5333,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.5283
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.5267
+   ],
+   [
+    0.1667,
+    0.25,
+    0.5283
+   ],
+   [
+    0.25,
+    0.3333,
+    0.5283
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.5283
+   ],
+   [
+    0.4167,
+    0.5,
+    0.5283
+   ],
+   [
+    0.5,
+    0.5833,
+    0.5283
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.5283
+   ],
+   [
+    0.6667,
+    0.75,
+    0.5283
+   ],
+   [
+    0.75,
+    0.8333,
+    0.5283
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.5283
+   ],
+   [
+    0.9167,
+    1.0,
+    0.5283
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2756,
+  "completion_tokens": 1084,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.26,
+ "created_at": "2026-10-18T11:10:02+00:00",
+ "content": "<x_0.4629><y_0.0156>S W I | 24<x_0.9912><y_0.0414><class_Page-header>\n\n<x_0.0693><y_0.0375>_Swift._<x_0.1963><y_0.0672><class_Caption>\n\n<x_0.1924><y_0.0383>in his power to provide for him otherwise; Swift left his patron (1694) in difcontent; having previously taken his matter’s degree at Oxford, by means of a teftimonial from Dublin, in which the words of difgrace were omitted. He was reloived to enter into the church, where his first pre-ferment was only L. 100 a-year, being the prebend of _Kit- root_ in _Gonner_; which form time afterwards, upon Sir William Temple's earnetly inviting him back to his house at Moorpark, he refigued in favour of a clergyman far advanced in years and burdened with a numerous family. For this man he folicited the prebend, to which he himself inducted him.<x_0.9727><y_0.2><class_Text>\n\n<x_0.1914><y_0.1984>In 1695 Swift loft his patron Sir William Temple, who left him a legacy in money, with the property of his manuscripts; and, on his death-bed, obtained for him a promise from the king of the first prebend that should become vacant at Wellminfler or Canterbury. That this promife might not be forgotten, Swift dedicated to the king the polthu-mous works with which he was entrofted, and for a while attended the court; but foon found his folicitations hopelets. He was then invited by the card of Berkeley to accompany him into Ireland, where, after suffering force cruel difappointments, he obtained the livings of Laracor and Rath beggin in the diocefe of Meath; and foon afterwards invited over the unfortunate Stella, a young woman of the name of Johnlon, whole life he contrived to embitter, and whose days, though he certainly loved her, we may confidently afirm that he shortened by his caprice.<x_0.9766><y_0.4148><class_Text>\n\n<x_0.2061><y_0.4117>This lady is generally believed to have been the daughter of Sir William Temple's fleward; but her niece, a Mrs Hearn, affured Mr Berkeley, the editor of a volume of letters entitled _Literary Reler_, that her father was a merchant, and the younger brother of a good family in Nottinghamshire; that her mother was the intimate friend of lady Gifford, Sir William's fifter; and that the herself was educated in the family with his niece, the late Mrs Temple of Moorpark by Faroham\". This flory would be inttilted to the fulleft credit, had not Mrs Hearn affirmed, in the fame letter, that, before the death of Sir William Temple, Mrs John-ion's little fortune had been greatly injured by the South- Sea bubbles, which are known to have injured no person till the year 1720: (See COMPANY, H. I.) When one part of a narrative is to palpably false, the remainder will always be received with hesitation. But whether Mifs Johnlon was the daughter of Temple's Reward or of the friend of lady Gifford, it is certain that Sir William left her L. 1000; and that, accompanied by Mrs Dingley, whole whole fortune amounted to an annuity of L. 27 for life, the went, in con-fequence of Swift's invitation, to Laracor. With thefe two ladies he paffed his hours of relaxation, and to them he opened his bohem; but they never relided in the fame houfe, nor did he fee either without a witnefs.<x_0.9902><y_0.7328><class_Text>\n\n<x_0.21><y_0.7289>In 1701 Swift published _A discourfe of the contrfit and differences in Athens and Rome._ It was his first work, and indeed the only which he ever expressly acknowledged. According to his constant practice he had concealed his name; but after its appearance, paying a vift to fome frith bifhop, he was afked by him if he had read that pamphlet, and what its reputation was in London. Upon his replying that he believed it was very well liked in London; \" Very well liked!\" laid the bifhop with fome emotion. \" Yes, Sir, it is one of the finest tracts that ever was written, and bifhop Burnet is one of the best writers in the world.\" Swift, who always hated Burnet with fomething more than political rancour, immediately questioned his right to the work, when he was told by the bifhop that he was \"a young man;\" and fill perfiling to doubt of the justice of Burnet's claim, on account of the diffunilarity of the flyle of the<x_0.9922><y_0.95><class_Text>\n\n<x_0.0762><y_0.5211>• See In- way into the Life of Dean Swift, pre- fixed to Literary Re- lies, printed in 1789, for Eliot and Kay.<x_0.2168><y_0.6438><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-fd117e00-f894-407a-b7e7-700a731b53bf",
+  "object": "chat.completion",
+  "created": 1792321800,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4629><y_0.0156>S W I | 24<x_0.9912><y_0.0414><class_Page-header>\n\n<x_0.0693><y_0.0375>_Swift._<x_0.1963><y_0.0672><class_Caption>\n\n<x_0.1924><y_0.0383>in his power to provide for him otherwise; Swift left his patron (1694) in difcontent; having previously taken his matter’s degree at Oxford, by means of a teftimonial from Dublin, in which the words of difgrace were omitted. He was reloived to enter into the church, where his first pre-ferment was only L. 100 a-year, being the prebend of _Kit- root_ in _Gonner_; which form time afterwards, upon Sir William Temple's earnetly inviting him back to his house at Moorpark, he refigued in favour of a clergyman far advanced in years and burdened with a numerous family. For this man he folicited the prebend, to which he himself inducted him.<x_0.9727><y_0.2><class_Text>\n\n<x_0.1914><y_0.1984>In 1695 Swift loft his patron Sir William Temple, who left him a legacy in money, with the property of his manuscripts; and, on his death-bed, obtained for him a promise from the king of the first prebend that should become vacant at Wellminfler or Canterbury. That this promife might not be forgotten, Swift dedicated to the king the polthu-mous works with which he was entrofted, and for a while attended the court; but foon found his folicitations hopelets. He was then invited by the card of Berkeley to accompany him into Ireland, where, after suffering force cruel difappointments, he obtained the livings of Laracor and Rath beggin in the diocefe of Meath; and foon afterwards invited over the unfortunate Stella, a young woman of the name of Johnlon, whole life he contrived to embitter, and whose days, though he certainly loved her, we may confidently afirm that he shortened by his caprice.<x_0.9766><y_0.4148><class_Text>\n\n<x_0.2061><y_0.4117>This lady is generally believed to have been the daughter of Sir William Temple's fleward; but her niece, a Mrs Hearn, affured Mr Berkeley, the editor of a volume of letters entitled _Literary Reler_, that her father was a merchant, and the younger brother of a good family in Nottinghamshire; that her mother was the intimate friend of lady Gifford, Sir William's fifter; and that the herself was educated in the family with his niece, the late Mrs Temple of Moorpark by Faroham\". This flory would be inttilted to the fulleft credit, had not Mrs Hearn affirmed, in the fame letter, that, before the death of Sir William Temple, Mrs John-ion's little fortune had been greatly injured by the South- Sea bubbles, which are known to have injured no person till the year 1720: (See COMPANY, H. I.) When one part of a narrative is to palpably false, the remainder will always be received with hesitation. But whether Mifs Johnlon was the daughter of Temple's Reward or of the friend of lady Gifford, it is certain that Sir William left her L. 1000; and that, accompanied by Mrs Dingley, whole whole fortune amounted to an annuity of L. 27 for life, the went, in con-fequence of Swift's invitation, to Laracor. With thefe two ladies he paffed his hours of relaxation, and to them he opened his bohem; but they never relided in the fame houfe, nor did he fee either without a witnefs.<x_0.9902><y_0.7328><class_Text>\n\n<x_0.21><y_0.7289>In 1701 Swift published _A discourfe of the contrfit and differences in Athens and Rome._ It was his first work, and indeed the only which he ever expressly acknowledged. According to his constant practice he had concealed his name; but after its appearance, paying a vift to fome frith bifhop, he was afked by him if he had read that pamphlet, and what its reputation was in London. Upon his replying that he believed it was very well liked in London; \" Very well liked!\" laid the bifhop with fome emotion. \" Yes, Sir, it is one of the finest tracts that ever was written, and bifhop Burnet is one of the best writers in the world.\" Swift, who always hated Burnet with fomething more than political rancour, immediately questioned his right to the work, when he was told by the bifhop that he was \"a young man;\" and fill perfiling to doubt of the justice of Burnet's claim, on account of the diffunilarity of the flyle of the<x_0.9922><y_0.95><class_Text>\n\n<x_0.0762><y_0.5211>• See In- way into the Life of Dean Swift, pre- fixed to Literary Re- lies, printed in 1789, for Eliot and Kay.<x_0.2168><y_0.6438><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2756,
+   "completion_tokens": 1084,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

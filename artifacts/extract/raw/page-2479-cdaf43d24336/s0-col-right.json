@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "fa3ca31b414c1656893193abc2341dacd41fc188e5fdde5e7e393f2e03d79bc6",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "abb4d4cf0eea3962e47a9406ede86f104c21036ea4d23d18469796b8ea7e28ba",
+  "image_bytes": 2608526,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2479",
+  "variant": "s0-col-right",
+  "crop": [
+   0.515,
+   0.0458,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0458,
+    0.1325,
+    0.52
+   ],
+   [
+    0.1325,
+    0.2193,
+    0.5283
+   ],
+   [
+    0.2193,
+    0.306,
+    0.5283
+   ],
+   [
+    0.306,
+    0.3928,
+    0.5283
+   ],
+   [
+    0.3928,
+    0.4795,
+    0.5283
+   ],
+   [
+    0.4795,
+    0.5663,
+    0.5283
+   ],
+   [
+    0.5663,
+    0.653,
+    0.5283
+   ],
+   [
+    0.653,
+    0.7398,
+    0.5283
+   ],
+   [
+    0.7398,
+    0.8265,
+    0.5283
+   ],
+   [
+    0.8265,
+    0.9133,
+    0.5283
+   ],
+   [
+    0.9133,
+    1.0,
+    0.5283
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2584,
+  "completion_tokens": 912,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.42,
+ "created_at": "2026-10-18T11:21:28+00:00",
+ "content": "<x_0.0078><y_0.0047>A<x_0.0498><y_0.0219><class_Page-header>\n\n<x_0.377><y_0.0039>## W.<x_0.4512><y_0.0227><class_Title>\n\n<x_0.0332><y_0.0273>cording as the fulject is heritable or moveable. Tranf- ferences being but incidental to other actions, can be pro- nounced by that inferior judge alone before whom the principal caule depended; but, where the reprefentatives of the deceafed live in another territory, it is the fupreme court which mult transfer. Obligations may be now regiltred fummarily after the creditor's death ; which be- fore was not admitted, without a separate procefs of re- giltration, to which the granter was necellarily to be made a party.<x_0.9072><y_0.1766><class_Text>\n\n<x_0.0322><y_0.175>26. A proceeds of wakening is likewise accelory. An action is laid to fleep, when it lies over, not inflicted in for a year, in which cafe its effect is fufpended ; but e- ven then it may, at any time within the years of prefcrip- tion, be revived or wakened by a fummons, in which the purfuer recites the laft leop of the procels, and concludes that it may be again carried on as if it had not been dif- continued. An action that stands upon any of the inner- houfe rolls cannot fleep ; nor an action in which decree is pronounced, because it has got its full completion: Conféquently the decree may be extracted after the year, without the neceflity of a wakening.<x_0.9062><y_0.3516><class_Text>\n\n<x_0.0342><y_0.35>27. An action of tranfumpt falls under the fame clats. It is competent to thofe, who have a partial interest in writings that are not in their own culbody, against the poffeffors thereof, for exhibiting them, that they may be tranfumed for their behoof. Though the ordinary title in this process be an obligation by the defender to grant tranfumpts to the purfuer, it is sufficient if the purfuer can how that he has an interelt in the writings ; but, in this cafe, he mult tranfume them on his own char-ges. Actions of tranfumpt may be purified before any judge-ordinary. After the writings to be tranfumed are exhibited, full duplicates are made out, collated, and figned, by one of the clerks of court, which are called tranfumpts, and are as effected as an extract from the register.<x_0.9053><y_0.5687><class_Text>\n\n<x_0.0352><y_0.568>28. Actions proceeded anciently upon brieves iffing from the chancery, directed to the judiciary or judge-or- dinary, who tried the matter by a jury, upon whole ver- did judgment was pronounced: And to this day, we retain certain brieves, as of _inqueft_, terce, ideotry, tutory, perambulation, and perhaps two or three others: But fummontes were, immediately upon the infiltration of the College of Jutitice, introduced in the place of brieves. A fummons, when applied to actions purfused before the fel- tion, is a writ in the King's name, iffuing from his fig- net upon the purfuer's complaint, authorifing meffengers to cite the defender to appear before the court, and make his defences ; with certification if he fail to appear, that decree will be pronounced against him in terms of the cer- tification of the fummons.<x_0.9043><y_0.7859><class_Text>\n\n<x_0.0361><y_0.7867>29. The days indulged by law to a defender, between his citation and appearance, to prepare for his defence, are called _inducia legales_. If he is within the kingdom, twenty one and fix days, for the firt and fecond diets of appearance, mult be allowed him for that purpose ; and if out of it, fixty and fifteen. Defenders refiding in Orkney or Zetland mult be cited on forty days. In cer-tain fummontes which are priviledged, the _inducie_ are shortened: Spuilzies and ejections proceed on fifteen days ; wakenings<x_0.9033><y_0.9328><class_Text>",
+ "reply": {
+  "id": "chatcmpl-6428fa49-da8b-486f-95ba-419c87a76490",
+  "object": "chat.completion",
+  "created": 1792322487,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0047>A<x_0.0498><y_0.0219><class_Page-header>\n\n<x_0.377><y_0.0039>## W.<x_0.4512><y_0.0227><class_Title>\n\n<x_0.0332><y_0.0273>cording as the fulject is heritable or moveable. Tranf- ferences being but incidental to other actions, can be pro- nounced by that inferior judge alone before whom the principal caule depended; but, where the reprefentatives of the deceafed live in another territory, it is the fupreme court which mult transfer. Obligations may be now regiltred fummarily after the creditor's death ; which be- fore was not admitted, without a separate procefs of re- giltration, to which the granter was necellarily to be made a party.<x_0.9072><y_0.1766><class_Text>\n\n<x_0.0322><y_0.175>26. A proceeds of wakening is likewise accelory. An action is laid to fleep, when it lies over, not inflicted in for a year, in which cafe its effect is fufpended ; but e- ven then it may, at any time within the years of prefcrip- tion, be revived or wakened by a fummons, in which the purfuer recites the laft leop of the procels, and concludes that it may be again carried on as if it had not been dif- continued. An action that stands upon any of the inner- houfe rolls cannot fleep ; nor an action in which decree is pronounced, because it has got its full completion: Conféquently the decree may be extracted after the year, without the neceflity of a wakening.<x_0.9062><y_0.3516><class_Text>\n\n<x_0.0342><y_0.35>27. An action of tranfumpt falls under the fame clats. It is competent to thofe, who have a partial interest in writings that are not in their own culbody, against the poffeffors thereof, for exhibiting them, that they may be tranfumed for their behoof. Though the ordinary title in this process be an obligation by the defender to grant tranfumpts to the purfuer, it is sufficient if the purfuer can how that he has an interelt in the writings ; but, in this cafe, he mult tranfume them on his own char-ges. Actions of tranfumpt may be purified before any judge-ordinary. After the writings to be tranfumed are exhibited, full duplicates are made out, collated, and figned, by one of the clerks of court, which are called tranfumpts, and are as effected as an extract from the register.<x_0.9053><y_0.5687><class_Text>\n\n<x_0.0352><y_0.568>28. Actions proceeded anciently upon brieves iffing from the chancery, directed to the judiciary or judge-or- dinary, who tried the matter by a jury, upon whole ver- did judgment was pronounced: And to this day, we retain certain brieves, as of _inqueft_, terce, ideotry, tutory, perambulation, and perhaps two or three others: But fummontes were, immediately upon the infiltration of the College of Jutitice, introduced in the place of brieves. A fummons, when applied to actions purfused before the fel- tion, is a writ in the King's name, iffuing from his fig- net upon the purfuer's complaint, authorifing meffengers to cite the defender to appear before the court, and make his defences ; with certification if he fail to appear, that decree will be pronounced against him in terms of the cer- tification of the fummons.<x_0.9043><y_0.7859><class_Text>\n\n<x_0.0361><y_0.7867>29. The days indulged by law to a defender, between his citation and appearance, to prepare for his defence, are called _inducia legales_. If he is within the kingdom, twenty one and fix days, for the firt and fecond diets of appearance, mult be allowed him for that purpose ; and if out of it, fixty and fifteen. Defenders refiding in Orkney or Zetland mult be cited on forty days. In cer-tain fummontes which are priviledged, the _inducie_ are shortened: Spuilzies and ejections proceed on fifteen days ; wakenings<x_0.9033><y_0.9328><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2584,
+   "completion_tokens": 912,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

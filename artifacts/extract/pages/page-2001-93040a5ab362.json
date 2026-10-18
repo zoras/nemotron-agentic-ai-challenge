@@ -1,0 +1,360 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2001",
+ "row_index": 2001,
+ "volume_id": "192200899",
+ "filename": "page-2001-93040a5ab362.jpg",
+ "image_sha256": "93040a5ab3625efc0259c9878caea3e2285bc73aae0c1fda452f9f5198dedd67",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.08235,
+  "median_grey": 205,
+  "layout_body_chars": 6726,
+  "layout_pictures": 1
+ },
+ "running_head": "S I L [ 355 ] S I L",
+ "layout_raw": "page-2001-93040a5ab362/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0403,
+    1.0,
+    0.0718
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2001-93040a5ab362/head.json",
+   "finish_reason": "stop",
+   "request_key": "5d8259f0337cdebd91c30bbbc39d2973656155b053918ca06cda6da24a3ab6f8"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0403,
+    0.4633,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0403,
+     0.1203,
+     0.4583
+    ],
+    [
+     0.1203,
+     0.2003,
+     0.4583
+    ],
+    [
+     0.2003,
+     0.2802,
+     0.4583
+    ],
+    [
+     0.2802,
+     0.3602,
+     0.4583
+    ],
+    [
+     0.3602,
+     0.4402,
+     0.4583
+    ],
+    [
+     0.4402,
+     0.5202,
+     0.4583
+    ],
+    [
+     0.5202,
+     0.6001,
+     0.4583
+    ],
+    [
+     0.6001,
+     0.6801,
+     0.4583
+    ],
+    [
+     0.6801,
+     0.7601,
+     0.4583
+    ],
+    [
+     0.7601,
+     0.8401,
+     0.4583
+    ],
+    [
+     0.8401,
+     0.92,
+     0.4583
+    ],
+    [
+     0.92,
+     1.0,
+     0.4583
+    ]
+   ],
+   "raw_path": "page-2001-93040a5ab362/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "473c79de6a547f777d61566a6f0e9dbafc5f8d09af5e9e0f60272aec7398b4d6"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4533,
+    0.0403,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0403,
+     0.1203,
+     0.4583
+    ],
+    [
+     0.1203,
+     0.2003,
+     0.4583
+    ],
+    [
+     0.2003,
+     0.2802,
+     0.4583
+    ],
+    [
+     0.2802,
+     0.3602,
+     0.4583
+    ],
+    [
+     0.3602,
+     0.4402,
+     0.4583
+    ],
+    [
+     0.4402,
+     0.5202,
+     0.4583
+    ],
+    [
+     0.5202,
+     0.6001,
+     0.4583
+    ],
+    [
+     0.6001,
+     0.6801,
+     0.4583
+    ],
+    [
+     0.6801,
+     0.7601,
+     0.4583
+    ],
+    [
+     0.7601,
+     0.8401,
+     0.4583
+    ],
+    [
+     0.8401,
+     0.92,
+     0.4583
+    ],
+    [
+     0.92,
+     1.0,
+     0.4583
+    ]
+   ],
+   "raw_path": "page-2001-93040a5ab362/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "5ea886f2c2ec87bfab00a610e4e08dabccc1f72b5429882aadc622fd2acc0b02"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Picture",
+   "text": "S I L [ 355 ] S I L",
+   "bbox": [
+    0.0,
+    0.0403,
+    1.0,
+    0.0718
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2001-93040a5ab362:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "S I L [ 3",
+   "bbox": [
+    0.1977,
+    0.0463,
+    0.4628,
+    0.071
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2001-93040a5ab362:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Silefa.",
+   "bbox": [
+    0.0185,
+    0.0718,
+    0.0688,
+    0.0965
+   ],
+   "source": "s0-col-left",
+   "id": "page-2001-93040a5ab362:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "bers of black cattle and horfes are brought hither from Poland and Hungary for fale, thofe bred in the country not being sufficient; but of heep, goats, game, and venifon, they have great plenty. As for wild beafts, here are lynxes, foxes, weafels, otters, and beavers. The rivers, lakes, and ponds, yield filh of feveral forts, particularly furgeons feveral ells in length, and falmon. Be- tides a number of smaller fireans to water this country, there is the Oder, which traverfes it almoft from one end to the other; and the Vitula, which after a pretty long course through it enters Poland. The number of the cities and market-towns is laid to be about 200, the county of Glatz included, and that of the villages 5000. The inhabitants whoare computed to be about 1,821,065 are a mixture of Germans, Poles, and Moravians. The language generally fpoken is German; but in fome places the vulgar tongue is a dialect of the Selavonic. The flates conflit of the princes and dukes, and thofe called _flate-lords_, with the nobility, who are immediately fubject to the fovereign, and the reprefentatives of the chief cities; but fince the country fell under the dominion of the king of Pruffia, no diets have been held. The king, however, when he took poffetllion of the country, confirmed all the other privileges of the inhabitants. With respect to religion, not only Protefitants, but Pa-pits, Jews, and Greeks, enjoy full liberty of con- fence. The greatest part of Silefia lies in the diocefe of Brellaw, but fome part of it in the Polith diocefes of Pofen and Cracow. The bifhop of Brellaw ftands im-mediately under the pope with regard to fpirituals; but all ecclefialtical benefices, not excepting the fee of Bre-law, is in the king’s gift. Befides Latin fehools, colleges, and feminaries, at Brellaw is an univerity, and at Lignitz an academy for martial exercifes. The principal manufactures here are woollens, linens, and cot-tons of feveral forts, with hats, glafs-ware, gunpowder, and iron manufactures. Of thefe there is a conferable exportation. Accounts are generally kept in rix-dollars, silver grofchens, and ducats. With respect to its revolutions and preferent government, it was long a part of the kingdom of Poland; afterwards it had feveral dukes and petty princes for its fovereigns, who by degrees became subject to the kings of Bohemia, until at latt King Charles IV. incorporated the whole duchy with Bohemia; and thus it continued in the poffetllion of the houfé of Auftria, until the king of Pruffia in 1742, taking advantage of the troubles that enfued upon the death of the emperor Charles VI, and pretending a kind of claim, wretted a great part of it, together with the county of Glatz, from his daughter and heirefs Maria Therefa, the late emprefs dowager; fo that now only a final part of it is poffeted by the houfé of Auftria, and con-nefted with the empire, the reft being governed by the king of Pruffia, without acknowledging any fort of dependence on the crown of Bohemia or the empire. For the administration of justice in all civil, criminal, and feudal cafes, and fuch as relate to the reve-nue, the king of Pruffia has eftablified three fupreme judicatories, to which an appeal lies from all the inferior ones, and from which, when the fum exceeds 500 rix-dollars, caufes may be moved to Berlin. The Lutheran churches and fchools are under the infpection of the upper confitories, and thofe of the Pa-pifts under that of the bilhop's court at Brellaw; but from both an appeal lies to the tribunal at Berlin.",
+   "bbox": [
+    0.0633,
+    0.0688,
+    0.4547,
+    0.9265
+   ],
+   "source": "s0-col-left",
+   "id": "page-2001-93040a5ab362:b3"
+  },
+  {
+   "order": 4,
+   "class": "Head-fragment",
+   "text": "55 J S I L",
+   "bbox": [
+    0.4549,
+    0.0486,
+    0.7336,
+    0.0702
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-2001-93040a5ab362:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "As to the revenue, the excite here is levied only in\nthe walled towns, being on the fame footing as in the\nmarquifate of Brandenburg; but in the reft of the coun-\ntry the contributions are fixed, and the fame both in\npeace and war. The feveral branches of the revenue\nare under the management of the war and domain of-\nfices of Brellaw and Glogau. The whole revenue ari-\nfing to the king of Prulha from Silelia and the county\nof Glatz amounts to about four millions of rix-dollars\nper annum.",
+   "bbox": [
+    0.4677,
+    0.0688,
+    0.8596,
+    0.2023
+   ],
+   "source": "s0-col-right",
+   "id": "page-2001-93040a5ab362:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "Silelia is divided into Upper and Lower, and each of\nthefe again into principalities and lordthips; of fome of\nwhich both the property and jurisdiction belong imme-\ndiately to the forereign, but of others to his subjects and\nvaffals. In regard to the character of the people, the\nboors are accounted very dull and ilupid; but of those\nof a higher rank, many have dittinguithed themselves by\ntheir wit and learning, as well as by their military and\npolitical talents.",
+   "bbox": [
+    0.4682,
+    0.2008,
+    0.8601,
+    0.32
+   ],
+   "source": "s0-col-right",
+   "id": "page-2001-93040a5ab362:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "SILESIAN EARTH, in the _Materia Medica_, a fine\naftringent bole. It is very heavy, of a firm compact\ntexture, and in colour of a brownish yellow. It breaks\ncafily between the fingers, and does not flain the hands;\nis naturally of a smooth surface, is readily diffutible in\nwater, and melts freely into a butter-like fubflance in\nthe mouth. It leaves no grittinefs between the teeth,\nand does not ferment with acids. It is found in the\nperpendicular fillures of rocks near the gold mines in\nHungary.",
+   "bbox": [
+    0.4672,
+    0.3192,
+    0.8606,
+    0.4511
+   ],
+   "source": "s0-col-right",
+   "id": "page-2001-93040a5ab362:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "SILICERNIUM, among the Romans, was a feaft\nof a private nature, provided for the dead fome time af-\nter the funeral. It conflited of beans, lettuces, bread,\neggs, Sc. Thefe were laid upon the tomb, and they\nfoolihly believed that the dead would come out for the\nrepaft. What was left was generally burnt on the\nflone. The word _filicernium_ is derived from _flex_ and\ncena, i. e. \" a fupper upon a fltone.\" Eating what had\nthus been provided for the dead, was efteemed a mark of\nthe moft miferable poverty. A limilar entertainment\nwas made by the Greeks at the tombs of the decealed;\nbut it was uful among them to treat the ghoils with\nthe fragments from the feaft of the living. See FUNE-\nRAL and INFERIE.",
+   "bbox": [
+    0.4666,
+    0.4504,
+    0.8612,
+    0.6334
+   ],
+   "source": "s0-col-right",
+   "id": "page-2001-93040a5ab362:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "SILEX. See FLINT.",
+   "bbox": [
+    0.4864,
+    0.6342,
+    0.6525,
+    0.6461
+   ],
+   "source": "s0-col-right",
+   "id": "page-2001-93040a5ab362:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "SILICEOUS EARTHS. See SILICA, CHEMISTRY\n_Index._",
+   "bbox": [
+    0.4661,
+    0.6454,
+    0.8553,
+    0.6724
+   ],
+   "source": "s0-col-right",
+   "id": "page-2001-93040a5ab362:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "SILIUS ITALICUS, CAIUS, an ancient Roman poet,\nand author of an epic poem in 17 books, which con-\ntains an history of the second Punic war, fo famous for\nhaving decided the empire of the world in favour of the\nRomans. He was born in the reign of Tiberius, and\nis foppofed to have derived the name of _Italicus_ from\nthe place of his birth; but whether he was born at Ital-\nlica in Spain, or at Corfinium in Italy, which, accord-\ning to Strabo, had the name of _Italica_ given it during\nthe Social war, is a point which cannot be known:\nthough, if his birth had happened at either of thefe\nplaces, thegrammarianswould tell us, that he should have\nbeen called _Italicenfis_, and not _Italicus_. When he came\nto Rome, he applied himself to the bar; and, by a clofe\nimitation of Cicero, fucceeded fo well, that he became\na celebrated advocate and molt accomplished orator.\nHis merit and character recommended him to the high-\nef offices in the republic, even to the confulhip, of\nwhich he was poffected when Nero died. He is faid to",
+   "bbox": [
+    0.4635,
+    0.6731,
+    0.8564,
+    0.922
+   ],
+   "source": "s0-col-right",
+   "id": "page-2001-93040a5ab362:b11"
+  },
+  {
+   "order": 12,
+   "class": "Page-footer",
+   "text": "Y y 2 have",
+   "bbox": [
+    0.6413,
+    0.9205,
+    0.8505,
+    0.9355
+   ],
+   "source": "s0-col-right",
+   "id": "page-2001-93040a5ab362:b12"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "99a749c54bfc8f354995bb9dbdf781ed47ae390cd3086823f8d6b7dd318296d7",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4df4b23b2432ed9e0b8cbcf53ad579b5acaa37a8d3340f417c665db8c0ea2b61",
+  "image_bytes": 130924,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1803",
+  "variant": "s1-wide",
+  "crop": [
+   0.0,
+   0.853,
+   1.0,
+   0.911
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 122,
+  "total_tokens": 190,
+  "completion_tokens": 68,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.22,
+ "created_at": "2026-10-18T11:11:16+00:00",
+ "content": "<x_0.1104><y_0.0>(E) Although we are now contemplating linear engraving, it is but proper here to observe, that chalk en-\ngraving, mezzotinto, and aquatinta, have allo made ample improvements in this country, in their various flyles of\nexcellence.<x_0.8643><y_0.9867><class_Text>",
+ "reply": {
+  "id": "chatcmpl-0381103d-206a-4700-9643-29a78cf8f168",
+  "object": "chat.completion",
+  "created": 1792321876,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1104><y_0.0>(E) Although we are now contemplating linear engraving, it is but proper here to observe, that chalk en-\ngraving, mezzotinto, and aquatinta, have allo made ample improvements in this country, in their various flyles of\nexcellence.<x_0.8643><y_0.9867><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 122,
+   "total_tokens": 190,
+   "completion_tokens": 68,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

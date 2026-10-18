@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "ecd2471efdc70a04d9d5f0e49288c358660f84464a10474ab498e955939052d7",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "126b0aaddb7fd629aa5349eaf2f02818f75c2add7dc68eb3f38ca114b0054f33",
+  "image_bytes": 2394122,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:713",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4583,
+   0.027,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.027,
+    0.1081,
+    0.4633
+   ],
+   [
+    0.1081,
+    0.1892,
+    0.4667
+   ],
+   [
+    0.1892,
+    0.2702,
+    0.4667
+   ],
+   [
+    0.2702,
+    0.3513,
+    0.4667
+   ],
+   [
+    0.3513,
+    0.4324,
+    0.4667
+   ],
+   [
+    0.4324,
+    0.5135,
+    0.4667
+   ],
+   [
+    0.5135,
+    0.5946,
+    0.4667
+   ],
+   [
+    0.5946,
+    0.6757,
+    0.4667
+   ],
+   [
+    0.6757,
+    0.7567,
+    0.4667
+   ],
+   [
+    0.7567,
+    0.8378,
+    0.4667
+   ],
+   [
+    0.8378,
+    0.9189,
+    0.4667
+   ],
+   [
+    0.9189,
+    1.0,
+    0.4667
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2645,
+  "completion_tokens": 973,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.48,
+ "created_at": "2026-10-18T11:19:38+00:00",
+ "content": "<x_0.0059><y_0.0063>7 )<x_0.0928><y_0.0281><class_Page-header>\n\n<x_0.4062><y_0.0055>O U S<x_0.6064><y_0.0242><class_Title>\n\n<x_0.0635><y_0.0273>When the male lambs are not intended to be kept for propagation, but fattened for food, they ought to be calibrated at the age of five or fix months. This operation is performed two ways: in the one, an incision is made and the tefticles taken out; in the other, a ligature is tied tight round the frotum, above the tellicles, which foon deftroys the veffels which nourth them. After calibration, they are called weathers.<x_0.8701><y_0.1398><class_Text>\n\n<x_0.0625><y_0.1391>The ram, ewe, and weather, when one year old, lofe the two foreteeth of the under jaw ; fix months afterwards, they lofe the two foreteeth next to thefe ; and at the age of three years, the teeth are all replaced. The age of a ram may likewise be discovered by their horn, which always appear the first year, and frequently as foon as they are brought forth. Thefe horns uniformly acquire an additional ring every year as longas the creature lives. The ewes commonly have no horns, but a kind of long protubrances in place of them: However, fome of them have two, and fome four horns.<x_0.8672><y_0.2914><class_Text>\n\n<x_0.0615><y_0.2922>In Spain, and the fourteen parts of Europe, the flocks are kept in thades or flables during the night: but in Britain, where there is now no danger from wolves, they are allowed to remain without, both night and day; which makes the animals more healthy, and their flesh a more whole food. Dry and mountainous grounds, where thyme and fleep’s fetcue grals abound, are the belt for the patturing fleep.<x_0.8633><y_0.4031><class_Text>\n\n<x_0.0605><y_0.4023>2. The Guineenlis, or Guinea fleep, has pendulous ears, lax hairy dew laps, and a prominence on the hind part of the head. The wool is short, like that of a goat. It is a native of Guinea.<x_0.8623><y_0.457><class_List-item>\n\n<x_0.0596><y_0.4578>3. The firepliceros, or Cretan fleep, has fitrait cari-nated horns, twifted in a spiral manner. It is a native of Mount Iola.<x_0.8613><y_0.4977><class_List-item>\n\n<x_0.0264><y_0.4984>OULNEY, a market-town of Buckinghamshire, situated nine miles fourth-east of Northampton.<x_0.8604><y_0.5266><class_List-item>\n\n<x_0.0254><y_0.5258>OULZ, a town of Italy, in the province of Piedmont, situated in E long. 6° 30°, N. lat. 45°.<x_0.8584><y_0.5547><class_List-item>\n\n<x_0.0273><y_0.5539>OUNCE, a little weight, the fixteenth part of a pound avirdupois, and the cwelfth part of a pound troy.<x_0.8574><y_0.582><class_List-item>\n\n<x_0.0244><y_0.5813>OUNCZ, in zoology. See Lzo.<x_0.4922><y_0.5961><class_List-item>\n\n<x_0.0234><y_0.5953>OUNDLE, a market-town of Northamptomhire, situated on the river Men, twenty-two miles north-east of Northampton.<x_0.8564><y_0.6375><class_List-item>\n\n<x_0.0225><y_0.6367>OVOLO, or Ovum, in architecture, a round moulding, whose profile, or fweep, in the ionic and composite capi-tals, is ufually a quadrant of a circle: whence it is alfo commonly called the quarter-round.<x_0.8555><y_0.693><class_List-item>\n\n<x_0.0576><y_0.6937>It is ufually cut with the reprefertation of eggs and anchors or arrows heads placed alternately.<x_0.8545><y_0.7211><class_List-item>\n\n<x_0.0215><y_0.7203>OUSE, a river, which, rifling in the north of Yorkshire, runs fourth-east by York; and, continuing that course, falls into the Trent.<x_0.8535><y_0.7609><class_List-item>\n\n<x_0.0205><y_0.7617>Ouse, is alfo a river which rifles on the confined of Oxfordshire and Buckinghamshire; and running north each through Buckinghamshire, Bedfordshire, Huntingdon-hire, Cambridge, and Norfolk, paltes by Buckingham, Bedford, Huntington, and Elly, discharging itself into the bay of the German tea at Lynn.<x_0.8594><y_0.8469><class_List-item>\n\n<x_0.0195><y_0.8461>OUSTIACH, or OSTIACH _Country_, is apart of Afiatic Ruilia, extending along the river Irtis to its confluence with the river Oby, and from thence northwad along the banks of the Oby and Jenifa, into the gulph of the Man-gafea, or the frozen ocean; and extending alfo along<x_0.8525><y_0.9164><class_List-item>\n\n<x_0.0918><y_0.9156>5 U<x_0.1611><y_0.9313><class_Page-footer>\n\n<x_0.4453><y_0.9172>1<x_0.4707><y_0.932><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-b661a8e2-bb31-432e-8806-fac890e52d09",
+  "object": "chat.completion",
+  "created": 1792322377,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0059><y_0.0063>7 )<x_0.0928><y_0.0281><class_Page-header>\n\n<x_0.4062><y_0.0055>O U S<x_0.6064><y_0.0242><class_Title>\n\n<x_0.0635><y_0.0273>When the male lambs are not intended to be kept for propagation, but fattened for food, they ought to be calibrated at the age of five or fix months. This operation is performed two ways: in the one, an incision is made and the tefticles taken out; in the other, a ligature is tied tight round the frotum, above the tellicles, which foon deftroys the veffels which nourth them. After calibration, they are called weathers.<x_0.8701><y_0.1398><class_Text>\n\n<x_0.0625><y_0.1391>The ram, ewe, and weather, when one year old, lofe the two foreteeth of the under jaw ; fix months afterwards, they lofe the two foreteeth next to thefe ; and at the age of three years, the teeth are all replaced. The age of a ram may likewise be discovered by their horn, which always appear the first year, and frequently as foon as they are brought forth. Thefe horns uniformly acquire an additional ring every year as longas the creature lives. The ewes commonly have no horns, but a kind of long protubrances in place of them: However, fome of them have two, and fome four horns.<x_0.8672><y_0.2914><class_Text>\n\n<x_0.0615><y_0.2922>In Spain, and the fourteen parts of Europe, the flocks are kept in thades or flables during the night: but in Britain, where there is now no danger from wolves, they are allowed to remain without, both night and day; which makes the animals more healthy, and their flesh a more whole food. Dry and mountainous grounds, where thyme and fleep’s fetcue grals abound, are the belt for the patturing fleep.<x_0.8633><y_0.4031><class_Text>\n\n<x_0.0605><y_0.4023>2. The Guineenlis, or Guinea fleep, has pendulous ears, lax hairy dew laps, and a prominence on the hind part of the head. The wool is short, like that of a goat. It is a native of Guinea.<x_0.8623><y_0.457><class_List-item>\n\n<x_0.0596><y_0.4578>3. The firepliceros, or Cretan fleep, has fitrait cari-nated horns, twifted in a spiral manner. It is a native of Mount Iola.<x_0.8613><y_0.4977><class_List-item>\n\n<x_0.0264><y_0.4984>OULNEY, a market-town of Buckinghamshire, situated nine miles fourth-east of Northampton.<x_0.8604><y_0.5266><class_List-item>\n\n<x_0.0254><y_0.5258>OULZ, a town of Italy, in the province of Piedmont, situated in E long. 6° 30°, N. lat. 45°.<x_0.8584><y_0.5547><class_List-item>\n\n<x_0.0273><y_0.5539>OUNCE, a little weight, the fixteenth part of a pound avirdupois, and the cwelfth part of a pound troy.<x_0.8574><y_0.582><class_List-item>\n\n<x_0.0244><y_0.5813>OUNCZ, in zoology. See Lzo.<x_0.4922><y_0.5961><class_List-item>\n\n<x_0.0234><y_0.5953>OUNDLE, a market-town of Northamptomhire, situated on the river Men, twenty-two miles north-east of Northampton.<x_0.8564><y_0.6375><class_List-item>\n\n<x_0.0225><y_0.6367>OVOLO, or Ovum, in architecture, a round moulding, whose profile, or fweep, in the ionic and composite capi-tals, is ufually a quadrant of a circle: whence it is alfo commonly called the quarter-round.<x_0.8555><y_0.693><class_List-item>\n\n<x_0.0576><y_0.6937>It is ufually cut with the reprefertation of eggs and anchors or arrows heads placed alternately.<x_0.8545><y_0.7211><class_List-item>\n\n<x_0.0215><y_0.7203>OUSE, a river, which, rifling in the north of Yorkshire, runs fourth-east by York; and, continuing that course, falls into the Trent.<x_0.8535><y_0.7609><class_List-item>\n\n<x_0.0205><y_0.7617>Ouse, is alfo a river which rifles on the confined of Oxfordshire and Buckinghamshire; and running north each through Buckinghamshire, Bedfordshire, Huntingdon-hire, Cambridge, and Norfolk, paltes by Buckingham, Bedford, Huntington, and Elly, discharging itself into the bay of the German tea at Lynn.<x_0.8594><y_0.8469><class_List-item>\n\n<x_0.0195><y_0.8461>OUSTIACH, or OSTIACH _Country_, is apart of Afiatic Ruilia, extending along the river Irtis to its confluence with the river Oby, and from thence northwad along the banks of the Oby and Jenifa, into the gulph of the Man-gafea, or the frozen ocean; and extending alfo along<x_0.8525><y_0.9164><class_List-item>\n\n<x_0.0918><y_0.9156>5 U<x_0.1611><y_0.9313><class_Page-footer>\n\n<x_0.4453><y_0.9172>1<x_0.4707><y_0.932><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2645,
+   "completion_tokens": 973,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

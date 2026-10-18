@@ -1,0 +1,387 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1284",
+ "row_index": 1284,
+ "volume_id": "190273289",
+ "filename": "page-1284-b6a1ee180d42.jpg",
+ "image_sha256": "b6a1ee180d4254f561bccaf072231163bd53aa804dad1fd5718590f53b90f394",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.11373,
+  "median_grey": 210,
+  "layout_body_chars": 6584,
+  "layout_pictures": 0
+ },
+ "running_head": "S CO [ 8065 ] SCO",
+ "layout_raw": "page-1284-b6a1ee180d42/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0208,
+    1.0,
+    0.0499
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1284-b6a1ee180d42/head.json",
+   "finish_reason": "stop",
+   "request_key": "355acab12d0442ab04ca413ee1faec37391638dbc0ee3ac55be9af522ddc0059"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0208,
+    0.51,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0208,
+     0.1024,
+     0.505
+    ],
+    [
+     0.1024,
+     0.184,
+     0.505
+    ],
+    [
+     0.184,
+     0.2656,
+     0.505
+    ],
+    [
+     0.2656,
+     0.3472,
+     0.505
+    ],
+    [
+     0.3472,
+     0.4288,
+     0.505
+    ],
+    [
+     0.4288,
+     0.5104,
+     0.505
+    ],
+    [
+     0.5104,
+     0.592,
+     0.505
+    ],
+    [
+     0.592,
+     0.6736,
+     0.505
+    ],
+    [
+     0.6736,
+     0.7552,
+     0.505
+    ],
+    [
+     0.7552,
+     0.8368,
+     0.505
+    ],
+    [
+     0.8368,
+     0.9184,
+     0.505
+    ],
+    [
+     0.9184,
+     1.0,
+     0.505
+    ]
+   ],
+   "raw_path": "page-1284-b6a1ee180d42/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "2371f3e3c60305ee47e3f4ad3a917b771acf3fa5afee26bbb09b8666b34c67b2"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5,
+    0.0208,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0208,
+     0.1024,
+     0.505
+    ],
+    [
+     0.1024,
+     0.184,
+     0.505
+    ],
+    [
+     0.184,
+     0.2656,
+     0.505
+    ],
+    [
+     0.2656,
+     0.3472,
+     0.505
+    ],
+    [
+     0.3472,
+     0.4288,
+     0.505
+    ],
+    [
+     0.4288,
+     0.5104,
+     0.505
+    ],
+    [
+     0.5104,
+     0.592,
+     0.505
+    ],
+    [
+     0.592,
+     0.6736,
+     0.505
+    ],
+    [
+     0.6736,
+     0.7552,
+     0.505
+    ],
+    [
+     0.7552,
+     0.8368,
+     0.505
+    ],
+    [
+     0.8368,
+     0.9184,
+     0.505
+    ],
+    [
+     0.9184,
+     1.0,
+     0.505
+    ]
+   ],
+   "raw_path": "page-1284-b6a1ee180d42/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "4aafba69a0f7c723b01ff8f5d22113f9bff657913d59a63cc443f341878cb76e"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Picture",
+   "text": "S CO [ 8065 ] SCO",
+   "bbox": [
+    0.0,
+    0.0208,
+    1.0,
+    0.0499
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1284-b6a1ee180d42:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "S C O I 80",
+   "bbox": [
+    0.2326,
+    0.0238,
+    0.5095,
+    0.0453
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1284-b6a1ee180d42:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Scotland.",
+   "bbox": [
+    0.0398,
+    0.0461,
+    0.1001,
+    0.0583
+   ],
+   "source": "s0-col-left",
+   "id": "page-1284-b6a1ee180d42:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "the meaneft of the human race. To accufe me of feleming the death of the queen my filter, is to brand me with the infamy which I abhor moft. It is my nature to employ the devotions of Efther, and not the fword of Judith. Elizabeth herself will atteft, that I have often admonified her not to draw upon her head the refentment of my friends by the enormity of her cruelties to me. My innocence cannot fincerely be doubted; and it is known to the Almighty God, that I could not poflibly think to forego his mercy, and to ruin my foul, in order to compafs a tranigreffion fo horrible as that of her murder. But amidt the inclement and unprincipled pretences which my adverfaries are pleafed to invent to overwhelm me with calamities and anguifh, I can trace and difcover with eafe the real caufes of their holtility and provocation. My crimes are my birth, the injuries I have been com-pelled to endure, and my religion. I am proud of the first; I can forgive the second; and the third is a fource to me of fuch comfort and hope, that for its glory I will be contented that my blood fhall flow upon the fcaffold.\"",
+   "bbox": [
+    0.1041,
+    0.0445,
+    0.5001,
+    0.3322
+   ],
+   "source": "s0-col-left",
+   "id": "page-1284-b6a1ee180d42:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "To the defence of Mary, no returns were made be- fide flout and unfupported affirmations of the truth of the evidence produced to her prejudice. In the courte of the trial, however, there occurred fome incidents which deferve to be related. My lord Burleigh, who was willing to difcompofe her, charged her with a fixed refolution of conveying her claims and titles to England to the king of Spain. But though, in a difcontented humour with her fon, he had threatened to dfinherit him, and had even correponded on the subject with her felect friends, it appears that this project is to be confidered as only a transient effect of refentment and paffion. She indeed acknowledged, that the Spaniard profetled to have pretentions to the kingdom of England, and that a book in justification of them had been communicated to her. She declared, however, that he had incurred the dipleature of many by difapproving of this book; and that no conveyance of her titles to the Spaniard had been ever executed.",
+   "bbox": [
+    0.1051,
+    0.3314,
+    0.5005,
+    0.59
+   ],
+   "source": "s0-col-left",
+   "id": "page-1284-b6a1ee180d42:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "The trial continued during the fpace of two days; but the commiffioners avoided to deliver their opinions. My lord Burleigh, in whole management Elizabeth chiefly confided, and whom the Scottish queen difcom- pofed in no common degree by her ability and vigour, being eager to conclude the buffinefs, demanded to know if he had any thing to add to what he had urged in her defence. She informed him, that he would be infinitely pleafed and gratified, if it should be permitted to her to be heard in her justification before a full meeting of the parliament, or before the queen and her privy-council. This intimation was unexpected; and the requell implied in it was rejected. The court, in consequence of previous instructions from Elizabeth, adjourned to a farther day, and appointed that the place of its convention thould be the flat-chamber at Wellminfter. It accordingly affembled there; and Naw and Curl, who had not been produced at Fotheringay caftle, were now called before the commiffioners. An oath to declare the truth was put to them; and they definitely affirmed and protested that the declaration they had fubberbed was in every respect juft and faithful. Nothing farther remained,",
+   "bbox": [
+    0.1056,
+    0.5892,
+    0.501,
+    0.8929
+   ],
+   "source": "s0-col-left",
+   "id": "page-1284-b6a1ee180d42:b5"
+  },
+  {
+   "order": 6,
+   "class": "Caption",
+   "text": "816",
+   "bbox": [
+    0.0349,
+    0.6795,
+    0.1031,
+    0.7568
+   ],
+   "source": "s0-col-left",
+   "id": "page-1284-b6a1ee180d42:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "65 ]",
+   "bbox": [
+    0.5039,
+    0.0246,
+    0.5655,
+    0.0475
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-1284-b6a1ee180d42:b7"
+  },
+  {
+   "order": 8,
+   "class": "Head-fragment",
+   "text": "S C O",
+   "bbox": [
+    0.6822,
+    0.0254,
+    0.7895,
+    0.0453
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1284-b6a1ee180d42:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "but to pronounce fentence againft Mary. The com- miffioners unanimously concurred in delivering it as their verdict or judgment, that the \" was a party to the confpiracy of Babington; and that the had com paffed and imagined matters within the realm of Eng- land tending to the hurt, death, and defruction of the royal perfon of Elizabeth, in opposition to the flatute framed for her protection.\" Upon the fame day in which this extraordinary fentence was given, the com- miffioners and the judges of England ifued a decla- ration which imported, that it was not to derogate in any degree from the titles and honour of the king of Scots.",
+   "bbox": [
+    0.5093,
+    0.0461,
+    0.9038,
+    0.2144
+   ],
+   "source": "s0-col-right",
+   "id": "page-1284-b6a1ee180d42:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "The fentence againft Mary was very foon afterwards ratified by the Englifh parliament. King James was flrock with horror at hearing of the execution of his mother; but that fpiritlefs prince could how his re- fentment no farther than by unavailing emballies and remonfrances. France interpofed in the fame in- effectual manner; and on the 6th of December 1586, Elizabeth caufed the fentence of the commiffioners against her to be proclaimed. After this he was made acquainted with her fate, and received the news with the greatest compoure, and even apparent fatification. Her keepers now refufed to treat her with any reverence or respect. They entered her apart- ment with their heads covered, and made no obeifance to her. They took down her canopy of flate, and deprived her of all the badges of royalty. By thefe infulting mortifications they meant to inform her, that the had funk from the dignity of a princefs to the abject flate of a criminal. She fmiled, and faind, \" In definite of your foreverig and her fubfervient judges, I will live and die a queen. My royal character is in-delible; and I will furrender it with my fpirit to the Almighty God, from whom I received it, and to whom my honour and my innocence are fully known.\" In this melancholy situation Mary addreffed a magna- nimous letter to Elizabeth, in which, without making the leaft folicitation for her life, the only requested that her body might be carried to France; that the might be publicly executed; that her fervants might be permitted to depart out of England unmolelled, and enjoy the legacies which the bequeathed them. But to this letter no anfwer was given.",
+   "bbox": [
+    0.5098,
+    0.2151,
+    0.9043,
+    0.629
+   ],
+   "source": "s0-col-right",
+   "id": "page-1284-b6a1ee180d42:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "In the mean time James, who had neither address nor courage to attempt any thing in behalf of his mother, announced her situation to his bigotted tub- jects, and ordered prayers to be laid for her in all the churches. The form of the petition be prescribed was framed with delicacy and caution, that the clergy might have no objection to it. He enjoined them to pray, \" that it might pleafe God to enlighten Mary with the light of his truth, and to protect her from the danger which was hanging over her.\" His own chaplains, and Mr David Lindby minifier of Leith, observed his command. But all the other clergy refused to profilitude their pulpits by preferring any petitions to the Almighty for a Papill. James, shocked with their fpirit of intolerance and fedition, appointed a new day for prayers to be laid for Mary, and ifued a friter injunction to the clergy to obey him; and that he might be free himself from any infult, he com- manded the archbifhop of St Andrews to preach before him. The ecclesiaties, difgulted with his injunc-",
+   "bbox": [
+    0.5102,
+    0.6282,
+    0.8994,
+    0.8891
+   ],
+   "source": "s0-col-right",
+   "id": "page-1284-b6a1ee180d42:b11"
+  },
+  {
+   "order": 12,
+   "class": "Caption",
+   "text": "Scotland- 817 Judgment given a- gaint her.",
+   "bbox": [
+    0.9048,
+    0.0468,
+    0.9731,
+    0.1111
+   ],
+   "source": "s0-col-right",
+   "id": "page-1284-b6a1ee180d42:b12"
+  },
+  {
+   "order": 13,
+   "class": "Caption",
+   "text": "218 The fen- tence ratifi ed by the English parliament.",
+   "bbox": [
+    0.9023,
+    0.1982,
+    0.976,
+    0.2664
+   ],
+   "source": "s0-col-right",
+   "id": "page-1284-b6a1ee180d42:b13"
+  },
+  {
+   "order": 14,
+   "class": "Caption",
+   "text": "819 Imbecillity of James, and ex treme info- lence and bigotry of his clergy.",
+   "bbox": [
+    0.9013,
+    0.616,
+    0.9737,
+    0.7032
+   ],
+   "source": "s0-col-right",
+   "id": "page-1284-b6a1ee180d42:b14"
+  }
+ ]
+}

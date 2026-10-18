@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "efd0e83258a254c76cf5683f903c8db57bd4faa602fd474e9a92ed57878d96de",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "71652535cc6ace1356eb6f72b8350ea0879e27561e94b18cff1e3eb2d8ff87ea",
+  "image_bytes": 2344739,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1765",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0632,
+   0.4817,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0632,
+    0.1484,
+    0.4767
+   ],
+   [
+    0.1484,
+    0.2335,
+    0.4767
+   ],
+   [
+    0.2335,
+    0.3187,
+    0.4767
+   ],
+   [
+    0.3187,
+    0.4039,
+    0.4767
+   ],
+   [
+    0.4039,
+    0.489,
+    0.4767
+   ],
+   [
+    0.489,
+    0.5742,
+    0.4767
+   ],
+   [
+    0.5742,
+    0.6593,
+    0.4767
+   ],
+   [
+    0.6593,
+    0.7445,
+    0.4767
+   ],
+   [
+    0.7445,
+    0.8297,
+    0.4767
+   ],
+   [
+    0.8297,
+    0.9148,
+    0.4767
+   ],
+   [
+    0.9148,
+    1.0,
+    0.4767
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2543,
+  "completion_tokens": 871,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.44,
+ "created_at": "2026-10-18T11:11:14+00:00",
+ "content": "<x_0.0342><y_0.0>Kalmucs,<x_0.1729><y_0.0312><class_Picture>\n\n<x_0.1631><y_0.0008>and choleric temperament, they live more amicably to-gether than one could expect in a people that lead to independent a life. They feldom come to blows even over their cups, and their quarrels are hardly ever bloody. A murder very rarely happens, though their anger has fomething in it exceedingly fierce. It would feem that the morality of their religion, though exceedingly idolatrous, has been able to moderate their natural difpotition in this respect; for in consequence of their dogmas, with regard to the tranfmigration of fouls, every wanton murder either of men or beafts is thought a deadly fin.<x_0.9756><y_0.1703><class_Text>\n\n<x_0.1602><y_0.1688>The Kalmucs are exceedingly affable ; and of foicial a difpotition, that it is rare for a traveller to perceive another, even at the distance of feveral miles, without going to falute him, and to inquire into the object of his journey. When a troop of Kalmucs perceive any perfon at a diffance, it is customary for them to detach one of their number to the next eminence, from whence he makes a fignal with his cap for the perfon to draw near. If this fignal is not obeyed, the perfon is considered as an enemy or a robber, and is often purfued as fuch. They enter willingly into friendships: but thefe connexions are not quite different; for to give and to receive prefents are with them effential articles. A mere trifle, however, is fuficient to induce them to do you all manner of fervice; and they are never ungrateful as far as they are able. Adverity cannot deprive them of courage nor alter their good humour. A Kalmuc will never beg if he were in the extremell mifery, but rather endeavour to acquire a fubfli lence by cheating : and when no other way remains, he will hire himself to fome rich individual of his nation, or to fome Ruffian, either as a herdfman, a filherman, or for any other fort of labour. Very few of the rich value themselves much upon their wealth: but thofe who do, how no contempt for the poor of their own nation ; though the meaner fort pay their court very obfequioufly to the rich, who are always furrounded with a fwarm of idle dependants.<x_0.9746><y_0.575><class_Text>\n\n<x_0.1592><y_0.5742>Nothing can be more prudent than that exercife of holpitality practiced by wandering nations: it is of the greatest advantage to thofe among them who travel acrofs their deferts ; and each individual who practices it, may rely on reaping the benefit of it wherever he goes. A Kalmuc provided with a horfe, with arms and equipage, may ramble from one place to another for three months together, without taking with him either money or provilions. Wherever he comes he finds either distant relations or friends, to whom he is attached by the ties of holpitality, from whom he meets with the kindelt reception, and is entertained in the belt manner their circumstances afford. Perhaps he lodges in the first unknown cottage he finds upon his road ; and scarce has he entered it, but his wants are fupplied with the moft affectionate cordiality. Every stranger, of whatforever nation, never fails to be well received by a Kalmuc ; and he may depend upon having his effects in the greaterf security the moment he has put himself under the protection of his hoft : for to rob a guelf is confidered by the Kalmucs as the moft abominable of all crimes.<x_0.9736><y_0.8828><class_Text>\n\n<x_0.1611><y_0.8836>When the matter of the houfe fits down to meat in company with others of inferior rank, he begins in-<x_0.9717><y_0.9141><class_Text>\n\n<x_0.5273><y_0.9148>3<x_0.5615><y_0.9281><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-1f764ea2-70ca-4a13-84fd-9c8c143cdbfa",
+  "object": "chat.completion",
+  "created": 1792321873,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0342><y_0.0>Kalmucs,<x_0.1729><y_0.0312><class_Picture>\n\n<x_0.1631><y_0.0008>and choleric temperament, they live more amicably to-gether than one could expect in a people that lead to independent a life. They feldom come to blows even over their cups, and their quarrels are hardly ever bloody. A murder very rarely happens, though their anger has fomething in it exceedingly fierce. It would feem that the morality of their religion, though exceedingly idolatrous, has been able to moderate their natural difpotition in this respect; for in consequence of their dogmas, with regard to the tranfmigration of fouls, every wanton murder either of men or beafts is thought a deadly fin.<x_0.9756><y_0.1703><class_Text>\n\n<x_0.1602><y_0.1688>The Kalmucs are exceedingly affable ; and of foicial a difpotition, that it is rare for a traveller to perceive another, even at the distance of feveral miles, without going to falute him, and to inquire into the object of his journey. When a troop of Kalmucs perceive any perfon at a diffance, it is customary for them to detach one of their number to the next eminence, from whence he makes a fignal with his cap for the perfon to draw near. If this fignal is not obeyed, the perfon is considered as an enemy or a robber, and is often purfued as fuch. They enter willingly into friendships: but thefe connexions are not quite different; for to give and to receive prefents are with them effential articles. A mere trifle, however, is fuficient to induce them to do you all manner of fervice; and they are never ungrateful as far as they are able. Adverity cannot deprive them of courage nor alter their good humour. A Kalmuc will never beg if he were in the extremell mifery, but rather endeavour to acquire a fubfli lence by cheating : and when no other way remains, he will hire himself to fome rich individual of his nation, or to fome Ruffian, either as a herdfman, a filherman, or for any other fort of labour. Very few of the rich value themselves much upon their wealth: but thofe who do, how no contempt for the poor of their own nation ; though the meaner fort pay their court very obfequioufly to the rich, who are always furrounded with a fwarm of idle dependants.<x_0.9746><y_0.575><class_Text>\n\n<x_0.1592><y_0.5742>Nothing can be more prudent than that exercife of holpitality practiced by wandering nations: it is of the greatest advantage to thofe among them who travel acrofs their deferts ; and each individual who practices it, may rely on reaping the benefit of it wherever he goes. A Kalmuc provided with a horfe, with arms and equipage, may ramble from one place to another for three months together, without taking with him either money or provilions. Wherever he comes he finds either distant relations or friends, to whom he is attached by the ties of holpitality, from whom he meets with the kindelt reception, and is entertained in the belt manner their circumstances afford. Perhaps he lodges in the first unknown cottage he finds upon his road ; and scarce has he entered it, but his wants are fupplied with the moft affectionate cordiality. Every stranger, of whatforever nation, never fails to be well received by a Kalmuc ; and he may depend upon having his effects in the greaterf security the moment he has put himself under the protection of his hoft : for to rob a guelf is confidered by the Kalmucs as the moft abominable of all crimes.<x_0.9736><y_0.8828><class_Text>\n\n<x_0.1611><y_0.8836>When the matter of the houfe fits down to meat in company with others of inferior rank, he begins in-<x_0.9717><y_0.9141><class_Text>\n\n<x_0.5273><y_0.9148>3<x_0.5615><y_0.9281><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2543,
+   "completion_tokens": 871,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

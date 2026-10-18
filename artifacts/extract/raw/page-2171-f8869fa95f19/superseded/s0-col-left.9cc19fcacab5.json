@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "9cc19fcacab591ca9836a3bf844066712289890c19a1fde60e035f2e2663301f",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "64aea5135e5db7a29167501eeefdf42453772f32301729d3b3a5e91607d59866",
+  "image_bytes": 2857672,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2171",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0538,
+   0.5367,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0538,
+    0.1398,
+    0.5317
+   ],
+   [
+    0.1398,
+    0.2258,
+    0.5317
+   ],
+   [
+    0.2258,
+    0.3119,
+    0.5317
+   ],
+   [
+    0.3119,
+    0.3979,
+    0.5317
+   ],
+   [
+    0.3979,
+    0.4839,
+    0.5317
+   ],
+   [
+    0.4839,
+    0.5699,
+    0.5317
+   ],
+   [
+    0.5699,
+    0.6559,
+    0.5317
+   ],
+   [
+    0.6559,
+    0.7419,
+    0.5317
+   ],
+   [
+    0.7419,
+    0.828,
+    0.5317
+   ],
+   [
+    0.828,
+    0.914,
+    0.5317
+   ],
+   [
+    0.914,
+    1.0,
+    0.5317
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2811,
+  "completion_tokens": 1011,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.71,
+ "created_at": "2026-10-18T11:11:40+00:00",
+ "content": "<x_0.083><y_0.0>Aaraxy │ Ateile.<x_0.2236><y_0.0398><class_Caption>\n\n<x_0.2246><y_0.0>ATARAXY, a term ufed by the floics and fceptics, to denote that calmnefs of mind which fecures us from all emotions arifing from vanity and fell-conceit.<x_0.9863><y_0.0437><class_Text>\n\n<x_0.2256><y_0.043>ATARNEA, an ancient town of Myfia, fituated between Adramyttium and Pitane, remarkable for the marriage of Ariftotle with the filter or concubine of the tyrant Hermias; alfo for the dotage of that phi-lofopher.<x_0.9873><y_0.1148><class_Text>\n\n<x_0.2266><y_0.1133>ATAXY, in a general fenfe, the want of order: With phyficians, it signifies irregularity of crites and paroxysms of fevers.<x_0.9854><y_0.157><class_Text>\n\n<x_0.2275><y_0.1562>ATCHE, in commerce, a fmall silver coin ufed in Turky, and worth only one third of the Englith penny.<x_0.9844><y_0.1859><class_Text>\n\n<x_0.2285><y_0.1836>ATCHIEVEMENT, in heraldry, denotes the arms of a perfon, or family, together with all the exterior ornaments of the field; as helmet, mantle, credit, ferolls, and motto, together with fuch quarterings as may have been acquired by alliances, all marthalled in order.<x_0.9834><y_0.2687><class_Text>\n\n<x_0.2295><y_0.268>ATCHIEVE. This term is derived from the French _achever_, i. e. to finish or make an end of; but fignifies, in heraldry, to perform great actions or exploits.<x_0.9824><y_0.3266><class_Text>\n\n<x_0.2305><y_0.325>ATE, the goddefs of mifchief, in the Pagan theo-logy. She was daughter of Jupiter, and caft down from heaven at the birth of Hercules. For Juno having deceived Jupiter, in caufing Euriftheus to be born before Hercules, Jupiter expreffed his refentment on Ace, as the author of that mifchief; and threw her headlong from heaven to earth, fwearing file fhould never return thither again, (_Homeri II._ xix. 125.) The name of this goddefs comes from _arraa, noceo,_ to _hurt_. Her being the daughter of Jupiter means, according to mythologifts, that no evil happens to us but by the permitiion of providence; and her banifhment to earth denotes the terrible effects of divine juftice among men.<x_0.9814><y_0.5227><class_Text>\n\n<x_0.2314><y_0.5219>ATEGUA, or ATTEGUA, an ancient town of Spain, placed by fome in the road from Antiquara, now Antequera, to Hifpalis, or Seville; by others near Alcala Real; which latt is the more probable fluctuation, becaufe the flumen fallum, now the Salado, was in its neighbourhood. Now _Tebala Vieja_, or _Teivela_.<x_0.9805><y_0.6078><class_Text>\n\n<x_0.2324><y_0.607>ATELLA, an ancient town of Campania in Italy, between Capua and Neapolis. From this town the _Atellana fabulx_, or _Atellani ludi_, took their name. Thefe were alfo called _Ofci_, from their inventor, in whole territory Atella lay. They were generally a species of farce, interlarded with much ribaldry and buffoonery; and sometimes were exordia or interludes prefented between the acts of other plays. The actors in thefe farces were not reckoned among the common players, nor deemed infamous; but retained the rights of their tribe, and might be lifted for foldiers, the privilege only of free men. The ruins of this town are fill to be feet about 11 miles from the modern Averfa, which was built out of its materials.<x_0.9795><y_0.8031><class_Text>\n\n<x_0.2334><y_0.8039>A TEMPO GIUSTO, in mufic, figpifies to fing or play in an equal, true, and jult time.<x_0.9785><y_0.832><class_Text>\n\n<x_0.2344><y_0.8313>ATERNUM, a town of Lucania in Italy, now _Aterni_, (Cluvenus) : Alfo a town in the territory of the Piceni, now _Pefcara_, a port-town of Naples, situated on the Adriatic. E. Long. 15. 25. N. Lat. 42. 30.<x_0.9775><y_0.8883><class_Text>\n\n<x_0.2354><y_0.8875>ATESTE, a town in the territory of Venice in Italy, now called _Effe_. E. Long. 12. 6. N. Lat. 45. 25.<x_0.9766><y_0.9195><class_Text>",
+ "reply": {
+  "id": "chatcmpl-1f66850f-82d6-414f-9766-06c12685bd54",
+  "object": "chat.completion",
+  "created": 1792321899,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.083><y_0.0>Aaraxy │ Ateile.<x_0.2236><y_0.0398><class_Caption>\n\n<x_0.2246><y_0.0>ATARAXY, a term ufed by the floics and fceptics, to denote that calmnefs of mind which fecures us from all emotions arifing from vanity and fell-conceit.<x_0.9863><y_0.0437><class_Text>\n\n<x_0.2256><y_0.043>ATARNEA, an ancient town of Myfia, fituated between Adramyttium and Pitane, remarkable for the marriage of Ariftotle with the filter or concubine of the tyrant Hermias; alfo for the dotage of that phi-lofopher.<x_0.9873><y_0.1148><class_Text>\n\n<x_0.2266><y_0.1133>ATAXY, in a general fenfe, the want of order: With phyficians, it signifies irregularity of crites and paroxysms of fevers.<x_0.9854><y_0.157><class_Text>\n\n<x_0.2275><y_0.1562>ATCHE, in commerce, a fmall silver coin ufed in Turky, and worth only one third of the Englith penny.<x_0.9844><y_0.1859><class_Text>\n\n<x_0.2285><y_0.1836>ATCHIEVEMENT, in heraldry, denotes the arms of a perfon, or family, together with all the exterior ornaments of the field; as helmet, mantle, credit, ferolls, and motto, together with fuch quarterings as may have been acquired by alliances, all marthalled in order.<x_0.9834><y_0.2687><class_Text>\n\n<x_0.2295><y_0.268>ATCHIEVE. This term is derived from the French _achever_, i. e. to finish or make an end of; but fignifies, in heraldry, to perform great actions or exploits.<x_0.9824><y_0.3266><class_Text>\n\n<x_0.2305><y_0.325>ATE, the goddefs of mifchief, in the Pagan theo-logy. She was daughter of Jupiter, and caft down from heaven at the birth of Hercules. For Juno having deceived Jupiter, in caufing Euriftheus to be born before Hercules, Jupiter expreffed his refentment on Ace, as the author of that mifchief; and threw her headlong from heaven to earth, fwearing file fhould never return thither again, (_Homeri II._ xix. 125.) The name of this goddefs comes from _arraa, noceo,_ to _hurt_. Her being the daughter of Jupiter means, according to mythologifts, that no evil happens to us but by the permitiion of providence; and her banifhment to earth denotes the terrible effects of divine juftice among men.<x_0.9814><y_0.5227><class_Text>\n\n<x_0.2314><y_0.5219>ATEGUA, or ATTEGUA, an ancient town of Spain, placed by fome in the road from Antiquara, now Antequera, to Hifpalis, or Seville; by others near Alcala Real; which latt is the more probable fluctuation, becaufe the flumen fallum, now the Salado, was in its neighbourhood. Now _Tebala Vieja_, or _Teivela_.<x_0.9805><y_0.6078><class_Text>\n\n<x_0.2324><y_0.607>ATELLA, an ancient town of Campania in Italy, between Capua and Neapolis. From this town the _Atellana fabulx_, or _Atellani ludi_, took their name. Thefe were alfo called _Ofci_, from their inventor, in whole territory Atella lay. They were generally a species of farce, interlarded with much ribaldry and buffoonery; and sometimes were exordia or interludes prefented between the acts of other plays. The actors in thefe farces were not reckoned among the common players, nor deemed infamous; but retained the rights of their tribe, and might be lifted for foldiers, the privilege only of free men. The ruins of this town are fill to be feet about 11 miles from the modern Averfa, which was built out of its materials.<x_0.9795><y_0.8031><class_Text>\n\n<x_0.2334><y_0.8039>A TEMPO GIUSTO, in mufic, figpifies to fing or play in an equal, true, and jult time.<x_0.9785><y_0.832><class_Text>\n\n<x_0.2344><y_0.8313>ATERNUM, a town of Lucania in Italy, now _Aterni_, (Cluvenus) : Alfo a town in the territory of the Piceni, now _Pefcara_, a port-town of Naples, situated on the Adriatic. E. Long. 15. 25. N. Lat. 42. 30.<x_0.9775><y_0.8883><class_Text>\n\n<x_0.2354><y_0.8875>ATESTE, a town in the territory of Venice in Italy, now called _Effe_. E. Long. 12. 6. N. Lat. 45. 25.<x_0.9766><y_0.9195><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2811,
+   "completion_tokens": 1011,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

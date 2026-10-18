@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "b29c1d42f78c101b421f6e4efe919e70165b3f075c1a9121afa6e6b5815247ad",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "58d211344d0bcf274405c84e92335c5a902731f0d3422979329001e6b7925324",
+  "image_bytes": 1877863,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1250",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5333,
+   0.0302,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0302,
+    0.111,
+    0.5383
+   ],
+   [
+    0.111,
+    0.1918,
+    0.5417
+   ],
+   [
+    0.1918,
+    0.2727,
+    0.5417
+   ],
+   [
+    0.2727,
+    0.3535,
+    0.5417
+   ],
+   [
+    0.3535,
+    0.4343,
+    0.5417
+   ],
+   [
+    0.4343,
+    0.5151,
+    0.5417
+   ],
+   [
+    0.5151,
+    0.5959,
+    0.5417
+   ],
+   [
+    0.5959,
+    0.6767,
+    0.5417
+   ],
+   [
+    0.6767,
+    0.7575,
+    0.5417
+   ],
+   [
+    0.7575,
+    0.8384,
+    0.5417
+   ],
+   [
+    0.8384,
+    0.9192,
+    0.5417
+   ],
+   [
+    0.9192,
+    1.0,
+    0.5417
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2440,
+  "completion_tokens": 896,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.36,
+ "created_at": "2026-10-18T11:19:54+00:00",
+ "content": "<x_0.0078><y_0.0039>O I COI<x_0.5713><y_0.0266><class_Title>\n\n<x_0.0322><y_0.0258>tal, out of the mould into which they are caft, they do not beat them on the anvil, as was formerly done, but they make them pafs and repafs between the feveral rollers of the laminating engine, which being gradually brought closer and clofer to each other, presently give the lamina its uniform and exact thickness. Instead of dividing the lamina into fmall figures, they at once cut clean out of it as many planchets as it can contain, by means of a sharp feet trepan, of a roundfit figure, hollow within, and of a proportionable diameter, to shape and cut off the piece at one and the fame time. After thefe planchets have been prepared and weighed with flandard pieces, filed or feraped to get off the superfluous part of the metal, and then boiled and made clean, they arrive, at left, at the machine (fig. 1.), which marks them upon the edge; and finally, the mill (fig. 2), which, fqueezing each of them finely between the two dyes, brought near each other with one blow, forces the two surfaces or fields of the piece to fill exactly all the vacancies of the two figures engraved hollow. The engine which ferves to laminate lead, gives a sufficient notion of that which ferves to flatten gold and silver laminae between rollers of a leffer size.<x_0.8535><y_0.3594><class_Text>\n\n<x_0.8613><y_0.0281>Coinsge.<x_0.9902><y_0.0437><class_Caption>\n\n<x_0.8623><y_0.2516>Plate CXLIV.<x_0.999><y_0.2773><class_Caption>\n\n<x_0.0332><y_0.3586>The principal pieces of the machine (fig. 1.), to stamp coins on the edge, are two feel laminae, about a line thick. One half of the legend, or of the ring, is engraved on the thickness of one of the laminae, and the other half on the thickness of the other; and thefe two laminae are straight, although the planchet marked with them be circular.<x_0.8545><y_0.4562><class_Text>\n\n<x_0.0342><y_0.457>When they flamp a planchet, they first put it be-tween the laminae in fuch a manner, as that thefe be-ing each of them laid flat upon a copper-plate, which is fattened upon a very thick wooden table, and the planchet being likewise laid flat upon the fame plate, the edge of the planchet may touch the two laminae on each fide, and in their thick part.<x_0.8555><y_0.5539><class_Text>\n\n<x_0.0352><y_0.5531>One of thefe laminae is immovable, and fattened with several forews; the other flides by means of a dented wheel, which takes into the teeth that are on the surface of the lamina. This fliding lamina makes the planchet turn in fuch a manner, that it remains flamped on the edge, when it has made one turn. Only crown and half-crown pieces can bear the impreffion of letters on the thickness of their edges.<x_0.8564><y_0.6641><class_Text>\n\n<x_0.0361><y_0.6648>The coining engine or mill is fo handy (fig. 2.), that a fingle man may flamp twenty thousand planchets in one day : gold, silver, and copper planchets, are all of them coined with a mill, to which the coining figures (fig. 3.), commonly called dyes, are fattened; that of the face under, in a square box garnified with male and female forews, to fix and keep it dead; and the other above, in a little box garnished with the fame forews, to fatten the coining figure. The plan-chet is laid flat on the figure of the effigy, which is dormant; and they immediately pull the bar of the mill by its cords, which caufes the forew fet within it to turn. This enters into the female forew, which is in the body of the mill, and turns with fo much strength, that by pulling the upper figure upon that of the effigy, the planchet, violently preffed between both figures, receives the impreffion of both at one pull, and in the twinkling of an eye.<x_0.8574><y_0.9141><class_Text>\n\n<x_0.7861><y_0.9094>The<x_0.8604><y_0.9258><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-b46c2e56-adfc-4030-81b3-94536c139bfc",
+  "object": "chat.completion",
+  "created": 1792322392,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0039>O I COI<x_0.5713><y_0.0266><class_Title>\n\n<x_0.0322><y_0.0258>tal, out of the mould into which they are caft, they do not beat them on the anvil, as was formerly done, but they make them pafs and repafs between the feveral rollers of the laminating engine, which being gradually brought closer and clofer to each other, presently give the lamina its uniform and exact thickness. Instead of dividing the lamina into fmall figures, they at once cut clean out of it as many planchets as it can contain, by means of a sharp feet trepan, of a roundfit figure, hollow within, and of a proportionable diameter, to shape and cut off the piece at one and the fame time. After thefe planchets have been prepared and weighed with flandard pieces, filed or feraped to get off the superfluous part of the metal, and then boiled and made clean, they arrive, at left, at the machine (fig. 1.), which marks them upon the edge; and finally, the mill (fig. 2), which, fqueezing each of them finely between the two dyes, brought near each other with one blow, forces the two surfaces or fields of the piece to fill exactly all the vacancies of the two figures engraved hollow. The engine which ferves to laminate lead, gives a sufficient notion of that which ferves to flatten gold and silver laminae between rollers of a leffer size.<x_0.8535><y_0.3594><class_Text>\n\n<x_0.8613><y_0.0281>Coinsge.<x_0.9902><y_0.0437><class_Caption>\n\n<x_0.8623><y_0.2516>Plate CXLIV.<x_0.999><y_0.2773><class_Caption>\n\n<x_0.0332><y_0.3586>The principal pieces of the machine (fig. 1.), to stamp coins on the edge, are two feel laminae, about a line thick. One half of the legend, or of the ring, is engraved on the thickness of one of the laminae, and the other half on the thickness of the other; and thefe two laminae are straight, although the planchet marked with them be circular.<x_0.8545><y_0.4562><class_Text>\n\n<x_0.0342><y_0.457>When they flamp a planchet, they first put it be-tween the laminae in fuch a manner, as that thefe be-ing each of them laid flat upon a copper-plate, which is fattened upon a very thick wooden table, and the planchet being likewise laid flat upon the fame plate, the edge of the planchet may touch the two laminae on each fide, and in their thick part.<x_0.8555><y_0.5539><class_Text>\n\n<x_0.0352><y_0.5531>One of thefe laminae is immovable, and fattened with several forews; the other flides by means of a dented wheel, which takes into the teeth that are on the surface of the lamina. This fliding lamina makes the planchet turn in fuch a manner, that it remains flamped on the edge, when it has made one turn. Only crown and half-crown pieces can bear the impreffion of letters on the thickness of their edges.<x_0.8564><y_0.6641><class_Text>\n\n<x_0.0361><y_0.6648>The coining engine or mill is fo handy (fig. 2.), that a fingle man may flamp twenty thousand planchets in one day : gold, silver, and copper planchets, are all of them coined with a mill, to which the coining figures (fig. 3.), commonly called dyes, are fattened; that of the face under, in a square box garnified with male and female forews, to fix and keep it dead; and the other above, in a little box garnished with the fame forews, to fatten the coining figure. The plan-chet is laid flat on the figure of the effigy, which is dormant; and they immediately pull the bar of the mill by its cords, which caufes the forew fet within it to turn. This enters into the female forew, which is in the body of the mill, and turns with fo much strength, that by pulling the upper figure upon that of the effigy, the planchet, violently preffed between both figures, receives the impreffion of both at one pull, and in the twinkling of an eye.<x_0.8574><y_0.9141><class_Text>\n\n<x_0.7861><y_0.9094>The<x_0.8604><y_0.9258><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2440,
+   "completion_tokens": 896,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

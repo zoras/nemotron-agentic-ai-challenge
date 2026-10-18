@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "526b554efc107ecb621b492dd537c61d67891fd177a152792247869fff3044a3",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "94efbcf4a0572cc5243568581d3874260c8f6728b5566d42b1bd0c778583ef21",
+  "image_bytes": 2151320,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:261",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0702,
+   0.535,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0702,
+    0.1547,
+    0.53
+   ],
+   [
+    0.1547,
+    0.2393,
+    0.53
+   ],
+   [
+    0.2393,
+    0.3238,
+    0.53
+   ],
+   [
+    0.3238,
+    0.4083,
+    0.53
+   ],
+   [
+    0.4083,
+    0.4928,
+    0.53
+   ],
+   [
+    0.4928,
+    0.5774,
+    0.53
+   ],
+   [
+    0.5774,
+    0.6619,
+    0.53
+   ],
+   [
+    0.6619,
+    0.7464,
+    0.53
+   ],
+   [
+    0.7464,
+    0.8309,
+    0.53
+   ],
+   [
+    0.8309,
+    0.9155,
+    0.53
+   ],
+   [
+    0.9155,
+    1.0,
+    0.53
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2798,
+  "completion_tokens": 870,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.49,
+ "created_at": "2026-10-18T11:10:05+00:00",
+ "content": "<x_0.2402><y_0.0>a great height; to accomplish which, they climb up some eminence, and are wafted about by the winds, filling the air with their threads. They are destroyed by the sphex and ichneumon.<x_0.9639><y_0.0594><class_Text>\n\n<x_0.2432><y_0.0492>Linnaeus has subdivided this genus according to the number and position of their eyes.<x_0.9648><y_0.0891><class_Text>\n\n<x_0.5107><y_0.0898>## A. Eyes eight.<x_0.709><y_0.1102><class_Section-header>\n\n<x_0.4414><y_0.1117>1. _Eyes placed thus_ :<x_0.7764><y_0.1336><class_Section-header>\n\n<x_0.1016><y_0.1375>_fasciata._<x_0.2266><y_0.157><class_Section-header>\n\n<x_0.248><y_0.1305>Of a silver colour ; the abdomen marked with yellowish bands ; the legs surrounded with brown rings. 48. A native of the island of Madeira.<x_0.9668><y_0.1836><class_Text>\n\n<x_0.1123><y_0.1797>* diadema<x_0.2539><y_0.1984><class_Section-header>\n\n<x_0.25><y_0.1758>Abdomen nearly globular and reddish ; brown, mark- ed with a white cross composed of dots. 1. A native of Europe, on trees ; it is a very beautiful insect.<x_0.9688><y_0.2266><class_Text>\n\n<x_0.1113><y_0.2219>* aquatica<x_0.2568><y_0.243><class_Section-header>\n\n<x_0.251><y_0.2188>Brown ; abdominal oval and of an ash colour ; the back brown, marked with two dots. 39. A native of Europe, in stagnant waters, where it dives to the botom in search of its food. It takes up its winter quarters in an empty snail shell, the aperture of which it closes up with a web ; jaws black, claws red.<x_0.9736><y_0.3141><class_Text>\n\n<x_0.4473><y_0.3133>2. _Eyes placed thus_, :<x_0.7754><y_0.3352><class_Section-header>\n\n<x_0.1172><y_0.3391>_latro._<x_0.1924><y_0.3578><class_Section-header>\n\n<x_0.2529><y_0.3328>Thorax hairy, and of an ash colour ; the abdomen oval, black, and spotted with red. 95. A native of America ; large, the thorax oval, legs black, thighs pale.<x_0.9775><y_0.3992><class_Text>\n\n<x_0.1182><y_0.3937>* domesti- Abdomen oval and brown, marked with five black spots nearly contiguous, the anterior ones larger than the others. 9. A native of Europe, in houses, and about windows ; feeds chiefly on flies.<x_0.9766><y_0.4586><class_Text>\n\n<x_0.4248><y_0.4633>3. _Eyes placed thus_,<x_0.7773><y_0.4883><class_Section-header>\n\n<x_0.1191><y_0.4953>* globosa.<x_0.252><y_0.5172><class_Section-header>\n\n<x_0.2549><y_0.4914>Black ; sides of the abdomen of a blood-red colour. 69. A native of Europe, in meadows.<x_0.9785><y_0.5312><class_Text>\n\n<x_0.457><y_0.5336>4. _Eyes placed thus_,<x_0.793><y_0.5578><class_Section-header>\n\n<x_0.1201><y_0.5625>_argentata._<x_0.2578><y_0.5883><class_Section-header>\n\n<x_0.2588><y_0.5609>Abdomen white, and brown behind, and marked round the edge with six small projections. 70. A native of South America.<x_0.9824><y_0.6133><class_Text>\n\n<x_0.4668><y_0.6164>5. _Eyes placed thus_,<x_0.7939><y_0.6391><class_Section-header>\n\n<x_0.1211><y_0.6492>_fumigata._<x_0.2559><y_0.6687><class_Section-header>\n\n<x_0.2646><y_0.643>Abdomen oval and brown, marked at the base with two white dots. 16. A native of Europe, in meadows ; it watches near the nests of the larvae of different insects, and waits their coming out, when it seizes on one after another, and sucks out their substance.<x_0.9912><y_0.7227><class_Text>\n\n<x_0.126><y_0.7188>* saccata.<x_0.2607><y_0.7383><class_Section-header>\n\n<x_0.2666><y_0.7164>Abdomen oval, of a brownish colour. 40. A native of Europe, in gardens, and carries its eggs behind it enclosed in a bag ; legs livid, marked with unequal brown rings set close together.<x_0.9922><y_0.7828><class_Text>\n\n<x_0.4814><y_0.782>_Eyes placed thus_, ::<x_0.7744><y_0.8023><class_Section-header>\n\n<x_0.1357><y_0.8078>extensa.<x_0.2412><y_0.8227><class_Section-header>\n\n<x_0.2676><y_0.8008>Abdomen long, of a silver colour tinged with green, the legs extended longitudinally. 22. A native of Europe, in woods ; its legs are applied closely to the branches.<x_0.9951><y_0.8648><class_Text>\n\n<x_0.1367><y_0.8641>_nidulans._<x_0.2598><y_0.882><class_Section-header>\n\n<x_0.2695><y_0.8586>Shining black ; the abdomen hairy and black. 73. A native of America ; it forms a nest under ground, and spins a large cylindrical web, which is covered with a lid ; its bite is very painful, and frequently oc- casions fever and delirium, which is soon removed by a<x_0.9941><y_0.9398><class_Text>",
+ "reply": {
+  "id": "chatcmpl-f8153e97-46db-49b6-9b75-0c87ab04acd2",
+  "object": "chat.completion",
+  "created": 1792321804,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.2402><y_0.0>a great height; to accomplish which, they climb up some eminence, and are wafted about by the winds, filling the air with their threads. They are destroyed by the sphex and ichneumon.<x_0.9639><y_0.0594><class_Text>\n\n<x_0.2432><y_0.0492>Linnaeus has subdivided this genus according to the number and position of their eyes.<x_0.9648><y_0.0891><class_Text>\n\n<x_0.5107><y_0.0898>## A. Eyes eight.<x_0.709><y_0.1102><class_Section-header>\n\n<x_0.4414><y_0.1117>1. _Eyes placed thus_ :<x_0.7764><y_0.1336><class_Section-header>\n\n<x_0.1016><y_0.1375>_fasciata._<x_0.2266><y_0.157><class_Section-header>\n\n<x_0.248><y_0.1305>Of a silver colour ; the abdomen marked with yellowish bands ; the legs surrounded with brown rings. 48. A native of the island of Madeira.<x_0.9668><y_0.1836><class_Text>\n\n<x_0.1123><y_0.1797>* diadema<x_0.2539><y_0.1984><class_Section-header>\n\n<x_0.25><y_0.1758>Abdomen nearly globular and reddish ; brown, mark- ed with a white cross composed of dots. 1. A native of Europe, on trees ; it is a very beautiful insect.<x_0.9688><y_0.2266><class_Text>\n\n<x_0.1113><y_0.2219>* aquatica<x_0.2568><y_0.243><class_Section-header>\n\n<x_0.251><y_0.2188>Brown ; abdominal oval and of an ash colour ; the back brown, marked with two dots. 39. A native of Europe, in stagnant waters, where it dives to the botom in search of its food. It takes up its winter quarters in an empty snail shell, the aperture of which it closes up with a web ; jaws black, claws red.<x_0.9736><y_0.3141><class_Text>\n\n<x_0.4473><y_0.3133>2. _Eyes placed thus_, :<x_0.7754><y_0.3352><class_Section-header>\n\n<x_0.1172><y_0.3391>_latro._<x_0.1924><y_0.3578><class_Section-header>\n\n<x_0.2529><y_0.3328>Thorax hairy, and of an ash colour ; the abdomen oval, black, and spotted with red. 95. A native of America ; large, the thorax oval, legs black, thighs pale.<x_0.9775><y_0.3992><class_Text>\n\n<x_0.1182><y_0.3937>* domesti- Abdomen oval and brown, marked with five black spots nearly contiguous, the anterior ones larger than the others. 9. A native of Europe, in houses, and about windows ; feeds chiefly on flies.<x_0.9766><y_0.4586><class_Text>\n\n<x_0.4248><y_0.4633>3. _Eyes placed thus_,<x_0.7773><y_0.4883><class_Section-header>\n\n<x_0.1191><y_0.4953>* globosa.<x_0.252><y_0.5172><class_Section-header>\n\n<x_0.2549><y_0.4914>Black ; sides of the abdomen of a blood-red colour. 69. A native of Europe, in meadows.<x_0.9785><y_0.5312><class_Text>\n\n<x_0.457><y_0.5336>4. _Eyes placed thus_,<x_0.793><y_0.5578><class_Section-header>\n\n<x_0.1201><y_0.5625>_argentata._<x_0.2578><y_0.5883><class_Section-header>\n\n<x_0.2588><y_0.5609>Abdomen white, and brown behind, and marked round the edge with six small projections. 70. A native of South America.<x_0.9824><y_0.6133><class_Text>\n\n<x_0.4668><y_0.6164>5. _Eyes placed thus_,<x_0.7939><y_0.6391><class_Section-header>\n\n<x_0.1211><y_0.6492>_fumigata._<x_0.2559><y_0.6687><class_Section-header>\n\n<x_0.2646><y_0.643>Abdomen oval and brown, marked at the base with two white dots. 16. A native of Europe, in meadows ; it watches near the nests of the larvae of different insects, and waits their coming out, when it seizes on one after another, and sucks out their substance.<x_0.9912><y_0.7227><class_Text>\n\n<x_0.126><y_0.7188>* saccata.<x_0.2607><y_0.7383><class_Section-header>\n\n<x_0.2666><y_0.7164>Abdomen oval, of a brownish colour. 40. A native of Europe, in gardens, and carries its eggs behind it enclosed in a bag ; legs livid, marked with unequal brown rings set close together.<x_0.9922><y_0.7828><class_Text>\n\n<x_0.4814><y_0.782>_Eyes placed thus_, ::<x_0.7744><y_0.8023><class_Section-header>\n\n<x_0.1357><y_0.8078>extensa.<x_0.2412><y_0.8227><class_Section-header>\n\n<x_0.2676><y_0.8008>Abdomen long, of a silver colour tinged with green, the legs extended longitudinally. 22. A native of Europe, in woods ; its legs are applied closely to the branches.<x_0.9951><y_0.8648><class_Text>\n\n<x_0.1367><y_0.8641>_nidulans._<x_0.2598><y_0.882><class_Section-header>\n\n<x_0.2695><y_0.8586>Shining black ; the abdomen hairy and black. 73. A native of America ; it forms a nest under ground, and spins a large cylindrical web, which is covered with a lid ; its bite is very painful, and frequently oc- casions fever and delirium, which is soon removed by a<x_0.9941><y_0.9398><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2798,
+   "completion_tokens": 870,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

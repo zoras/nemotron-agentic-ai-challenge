@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "5e42abd8fc5c3f7786097468bc8250986ca310a0883b0915c15e48fd5a9c9c68",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f9f2752e8b8adcdf5e2f6856d10fb4997b1abfa9bfbe031b6493e146878b12a5",
+  "image_bytes": 131165,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1284",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0208,
+   1.0,
+   0.0599
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 217,
+  "completion_tokens": 53,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.17,
+ "created_at": "2026-10-18T11:19:52+00:00",
+ "content": "<x_0.0><y_0.0>S CO [ 8065 ] S CO\nScotland, the meaneft of the human race. To accufe me of but to pronounce fentence against Mary. The com- Scotland.<x_0.999><y_0.9859><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-5a12272a-4acc-4402-bf00-a2ee220e9099",
+  "object": "chat.completion",
+  "created": 1792322392,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>S CO [ 8065 ] S CO\nScotland, the meaneft of the human race. To accufe me of but to pronounce fentence against Mary. The com- Scotland.<x_0.999><y_0.9859><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 217,
+   "completion_tokens": 53,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

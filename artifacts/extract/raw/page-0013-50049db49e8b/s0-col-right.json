@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "7ce92357bedcbbbd92ad10a2f0acf35acf3dca4725a32d8711fb40172758f66e",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "b5e050bb2d0defe250b54846e6ec45fe30f4fd2f86e737b00cf66240833d3866",
+  "image_bytes": 2623688,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5333,
+   0.0395,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0395,
+    0.1195,
+    0.5383
+   ],
+   [
+    0.1195,
+    0.1996,
+    0.5467
+   ],
+   [
+    0.1996,
+    0.2796,
+    0.55
+   ],
+   [
+    0.2796,
+    0.3597,
+    0.5533
+   ],
+   [
+    0.3597,
+    0.4397,
+    0.5533
+   ],
+   [
+    0.4397,
+    0.5197,
+    0.5533
+   ],
+   [
+    0.5197,
+    0.5998,
+    0.5533
+   ],
+   [
+    0.5998,
+    0.6798,
+    0.5533
+   ],
+   [
+    0.6798,
+    0.7599,
+    0.5533
+   ],
+   [
+    0.7599,
+    0.8399,
+    0.5567
+   ],
+   [
+    0.8399,
+    0.92,
+    0.5583
+   ],
+   [
+    0.92,
+    1.0,
+    0.5517
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2511,
+  "completion_tokens": 967,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.06,
+ "created_at": "2026-10-18T11:19:01+00:00",
+ "content": "<x_0.0078><y_0.0>ILBING.<x_0.2578><y_0.0141><class_Title>\n\n<x_0.0166><y_0.0086>to preserve their sheer. This we shall presently endeavour to prove.<x_0.8857><y_0.0477><class_Text>\n\n<x_0.0176><y_0.0391>The lower ranges of riders and trusses, which were brought on the upper surfaces of the floors and first futtocks, could have but little effect in preventing arching beyond that which arose from the additional resistance they offered to compression; and the additional rigidity they gave to the structure in the event of grounding, or of being ashore. They certainly served as a firm base upon which to erect a series of riders with diagonal trusses, which were more advantageously placed to afford efficient support to the extremities of the body. Yet these upper riders only extend-ed to the securities of the gun-deck, and therefore not very far above the line of non-action. Presuming, however, that this second series of riders was of considerable utility, a firm base for them might probably have been obtained without so much incumbrance to the hold, and consequently without the objection being urged against it, which was made to the diagonal riders, of diminishing the stowage. According to the estimates made by Sir Robert Seppings, the actual cubical contents of the diagonal frame were less than those of the ceiling which it superseded.<x_0.9062><y_0.3031><class_Text>\n\n<x_0.04><y_0.2961>The trussing between the ports has been discontinued in Her Majesty’s ships. We cannot but regret the change, as we consider this was the most advantageous innovation connected with the diagonal system, and one in which the be- nefit was unaccompanied with compensating inconveniences.<x_0.9082><y_0.3672><class_Text>\n\n<x_0.0479><y_0.3602>In investigating the reasons on which we found this opinion, we shall merely describe the manner in which we consider this trussing must have acted, to prevent any alteration of form in the upper parts of the ship.<x_0.9092><y_0.4188><class_Text>\n\n<x_0.0498><y_0.4117>We commence, then, with the gun-deck of a three-decker. The gun-deck, from its proximity to the line of inaction, from the support of the trussed frame, which extended to its shelf, and from the wales, may be assumed, at least in a new ship, as a most firm base on which to raise a series of supports. At some point on the upper edge of the gun- deck sprketing, a shore, that is, the truss, firmly cleated at its heel, extended upwards and aft, in the after-body of the ship, to the lower edge of the middle-deck clamp, where it was securely cleated ; immediately above the head of this shore a second was fixed on the upper edge of the middle- deck sprketing, and extended upwards to the lower edge of the main-deck clamp, where it was secured ; and immediately over the head of this shore a third was secured, on the edge of the main-deck sprketing, and extended upwards to the lower edge of the quarter-deck clamp, where it was finally secured : so that a point in the range of securities to the quarter-deck was continuously and firmly shored up from a point in the most rigid and unalterable part of the ship ; and, in the same manner, a series of points along the range of securities to the quarter-deck became shored up from the same foundation. This is in the after-body. In the fore-body a corresponding system of shoring ran in an opposite direction forward, and in a similar manner supported the range of securities of the forecast, while each intervening deck partook of the same advantage.<x_0.9268><y_0.7539><class_Text>\n\n<x_0.0684><y_0.7438>Radiating as these shores did in opposite directions from the most rigid part of the ship as their base, while they afforded a series of points of support to the principal longi- tudinal ties, they formed with them a system of triangles: and the triangle is a figure which admits of no alteration of form ; for as long as the sides remain the same, the angles are invariable. It might almost be said to be impossible, therefore, for the range of quarter-deck and forecasts se- curities, by which we mean the clamp, shelf, and water-way, to drop at the extremities, excepting in so far as the com- pressibility of the materials would admit.<x_0.9297><y_0.8945><class_Text>\n\n<x_0.041><y_0.8844>To adapt another, and perhaps a stronger, view of this system of trussing, we may consider the whole top-sides of a ship, with the securities of the gun-deck as a base. to<x_0.9375><y_0.9344><class_Text>",
+ "reply": {
+  "id": "chatcmpl-19d0947d-d07b-4cb1-90c0-43be3973a1ac",
+  "object": "chat.completion",
+  "created": 1792322339,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0>ILBING.<x_0.2578><y_0.0141><class_Title>\n\n<x_0.0166><y_0.0086>to preserve their sheer. This we shall presently endeavour to prove.<x_0.8857><y_0.0477><class_Text>\n\n<x_0.0176><y_0.0391>The lower ranges of riders and trusses, which were brought on the upper surfaces of the floors and first futtocks, could have but little effect in preventing arching beyond that which arose from the additional resistance they offered to compression; and the additional rigidity they gave to the structure in the event of grounding, or of being ashore. They certainly served as a firm base upon which to erect a series of riders with diagonal trusses, which were more advantageously placed to afford efficient support to the extremities of the body. Yet these upper riders only extend-ed to the securities of the gun-deck, and therefore not very far above the line of non-action. Presuming, however, that this second series of riders was of considerable utility, a firm base for them might probably have been obtained without so much incumbrance to the hold, and consequently without the objection being urged against it, which was made to the diagonal riders, of diminishing the stowage. According to the estimates made by Sir Robert Seppings, the actual cubical contents of the diagonal frame were less than those of the ceiling which it superseded.<x_0.9062><y_0.3031><class_Text>\n\n<x_0.04><y_0.2961>The trussing between the ports has been discontinued in Her Majesty’s ships. We cannot but regret the change, as we consider this was the most advantageous innovation connected with the diagonal system, and one in which the be- nefit was unaccompanied with compensating inconveniences.<x_0.9082><y_0.3672><class_Text>\n\n<x_0.0479><y_0.3602>In investigating the reasons on which we found this opinion, we shall merely describe the manner in which we consider this trussing must have acted, to prevent any alteration of form in the upper parts of the ship.<x_0.9092><y_0.4188><class_Text>\n\n<x_0.0498><y_0.4117>We commence, then, with the gun-deck of a three-decker. The gun-deck, from its proximity to the line of inaction, from the support of the trussed frame, which extended to its shelf, and from the wales, may be assumed, at least in a new ship, as a most firm base on which to raise a series of supports. At some point on the upper edge of the gun- deck sprketing, a shore, that is, the truss, firmly cleated at its heel, extended upwards and aft, in the after-body of the ship, to the lower edge of the middle-deck clamp, where it was securely cleated ; immediately above the head of this shore a second was fixed on the upper edge of the middle- deck sprketing, and extended upwards to the lower edge of the main-deck clamp, where it was secured ; and immediately over the head of this shore a third was secured, on the edge of the main-deck sprketing, and extended upwards to the lower edge of the quarter-deck clamp, where it was finally secured : so that a point in the range of securities to the quarter-deck was continuously and firmly shored up from a point in the most rigid and unalterable part of the ship ; and, in the same manner, a series of points along the range of securities to the quarter-deck became shored up from the same foundation. This is in the after-body. In the fore-body a corresponding system of shoring ran in an opposite direction forward, and in a similar manner supported the range of securities of the forecast, while each intervening deck partook of the same advantage.<x_0.9268><y_0.7539><class_Text>\n\n<x_0.0684><y_0.7438>Radiating as these shores did in opposite directions from the most rigid part of the ship as their base, while they afforded a series of points of support to the principal longi- tudinal ties, they formed with them a system of triangles: and the triangle is a figure which admits of no alteration of form ; for as long as the sides remain the same, the angles are invariable. It might almost be said to be impossible, therefore, for the range of quarter-deck and forecasts se- curities, by which we mean the clamp, shelf, and water-way, to drop at the extremities, excepting in so far as the com- pressibility of the materials would admit.<x_0.9297><y_0.8945><class_Text>\n\n<x_0.041><y_0.8844>To adapt another, and perhaps a stronger, view of this system of trussing, we may consider the whole top-sides of a ship, with the securities of the gun-deck as a base. to<x_0.9375><y_0.9344><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2511,
+   "completion_tokens": 967,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

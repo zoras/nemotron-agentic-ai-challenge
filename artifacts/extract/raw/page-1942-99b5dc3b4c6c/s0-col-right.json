@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "9ef6826cefff75277ba64ef90ca9f778ed37eb4aedd6023c2d8d86ecb11e0236",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "7a07f7c0185d04337a6117eb015f2f63d7d9fd629c8df70cd38e9e2e3d97eb36",
+  "image_bytes": 2477803,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1942",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4917,
+   0.0216,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0216,
+    0.1031,
+    0.4967
+   ],
+   [
+    0.1031,
+    0.1847,
+    0.4967
+   ],
+   [
+    0.1847,
+    0.2662,
+    0.4967
+   ],
+   [
+    0.2662,
+    0.3477,
+    0.4967
+   ],
+   [
+    0.3477,
+    0.4293,
+    0.4967
+   ],
+   [
+    0.4293,
+    0.5108,
+    0.4967
+   ],
+   [
+    0.5108,
+    0.5923,
+    0.4967
+   ],
+   [
+    0.5923,
+    0.6739,
+    0.4967
+   ],
+   [
+    0.6739,
+    0.7554,
+    0.4967
+   ],
+   [
+    0.7554,
+    0.8369,
+    0.4967
+   ],
+   [
+    0.8369,
+    0.9185,
+    0.4967
+   ],
+   [
+    0.9185,
+    1.0,
+    0.4967
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2490,
+  "completion_tokens": 946,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.76,
+ "created_at": "2026-10-18T11:20:38+00:00",
+ "content": "<x_0.0166><y_0.0031>M A C Y.<x_0.2725><y_0.0234><class_Title>\n\n<x_0.7881><y_0.0039>Part II.<x_0.9424><y_0.0227><class_Section-header>\n\n<x_0.0186><y_0.0242>pound fet by in a clofe veffel for fome weeks ; after which it may be beaten fmooth with confiderably lefs labour than at frit. This peel, and red rofe-buds, are commonly ground in a wooden mill made for that purpofe.<x_0.8213><y_0.0961><class_Text>\n\n<x_0.835><y_0.0258>Preparations<x_0.9512><y_0.0516><class_Caption>\n\n<x_0.041><y_0.0992>456. _Conferve of the leaves of garden feurvy-grafs_. L.<x_0.8076><y_0.1172><class_Section-header>\n\n<x_0.0195><y_0.1164>This is the only form that feurvy-grafs in fubilance can be kept in without the total lois of its virtues. The conferve retains the full tafte and virtue of the herb for a very confiderable length of time, as a year or two, provided the veffel be made perfectly clofe and fet in a cool place. It may be given in feorbutic habits three or four times a-day, or oftener.<x_0.8223><y_0.2141><class_Text>\n\n<x_0.0693><y_0.2188>457. _Conferve of the leaves of wood-forrel._ L.<x_0.7734><y_0.2367><class_Section-header>\n\n<x_0.0205><y_0.2375>This is a very elegant and grateful conferve ; in tafte it is lightly acidulous, with a peculiar flavour, which fome refemble to that of green-tea. It is taken occasionally for quenching thirft, and cooling the mouth and fauces, in hot dittempers. It may be ufefully joined to the foregoing preparation, whole virtue it fomewhat promotes, at the fame time that it improves the tafte.<x_0.8203><y_0.3477><class_Text>\n\n<x_0.083><y_0.3508>458. _Conferve of the leaves of fpearmint._ L.<x_0.7568><y_0.3688><class_Section-header>\n\n<x_0.0176><y_0.368>The conferve of mint retains the tafte and virtues of the herb. It is given in weakness of the flomach and retchings to vomit ; and not unfrequently does service in fome cafes of this kind, where the warmer and more active preparations of mint would be less proper.<x_0.8232><y_0.4531><class_Text>\n\n<x_0.126><y_0.4539>459. _Conferve of the leaves of rue._<x_0.71><y_0.4719><class_Section-header>\n\n<x_0.0156><y_0.4711>This conferve is given from a dram to half an ounce in crudities of the primæ vie, for promoting digestion, and in hyfteric diforders : it gently fituates the folids, attenuates vificid juices, and excites the natural secretions. Some have had a great opinion of it, taken in a morning, as a prefervative against the effects of contagious air or exbalation.<x_0.8193><y_0.5703><class_Text>\n\n<x_0.0625><y_0.5719>460. _Conferve of the tops of tea-wormwood._ L.<x_0.7676><y_0.5891><class_Section-header>\n\n<x_0.0127><y_0.5898>The conferve of wormwood has been celebrated in dropties: Matthiolus relates, that feveral perfons were cured by it of that ditemper, without the afflitance of any other medicine. Where the diforder indeed proceeds from a limple laxity or flaccidity of the folids, the continued ufe of this medicine may be of fome service, as it appears to be a not inclegant mild corroborant. It is directed to be given in the dofe of half an ounce, about three hours before meals.<x_0.8184><y_0.7133><class_Text>\n\n<x_0.0889><y_0.7164>461. _Conferve of the buds of red roofes._ L.<x_0.7275><y_0.7336><class_Section-header>\n\n<x_0.0107><y_0.7328>This is a very agreeable and useful conferve. A dram or two, diffolved in warm milk, are frequently given as a light rethringent in weaknefs of the flo- mach, and likewise in coughs and phthifical complaints. In the German Ephemerides, examples are related of very dangerous phthifes cured by the con-tinued ufe of this medicine : in one of thefe cafes, 20 pounds of the conferve were taken in the space of a month; and in another, upwards of 30. Riverius mentions several other influences of this kind.<x_0.8174><y_0.8688><class_Text>\n\n<x_0.1035><y_0.8727>462. _Conferve of rofemary-flowers_. L.<x_0.6953><y_0.8883><class_Section-header>\n\n<x_0.0498><y_0.8867>Rofemary-flowers in great meature lofe their pecu-liar<x_0.8008><y_0.9148><class_Text>",
+ "reply": {
+  "id": "chatcmpl-7af6bd30-bbee-4f9b-bb8c-78f7c58edcc8",
+  "object": "chat.completion",
+  "created": 1792322435,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0166><y_0.0031>M A C Y.<x_0.2725><y_0.0234><class_Title>\n\n<x_0.7881><y_0.0039>Part II.<x_0.9424><y_0.0227><class_Section-header>\n\n<x_0.0186><y_0.0242>pound fet by in a clofe veffel for fome weeks ; after which it may be beaten fmooth with confiderably lefs labour than at frit. This peel, and red rofe-buds, are commonly ground in a wooden mill made for that purpofe.<x_0.8213><y_0.0961><class_Text>\n\n<x_0.835><y_0.0258>Preparations<x_0.9512><y_0.0516><class_Caption>\n\n<x_0.041><y_0.0992>456. _Conferve of the leaves of garden feurvy-grafs_. L.<x_0.8076><y_0.1172><class_Section-header>\n\n<x_0.0195><y_0.1164>This is the only form that feurvy-grafs in fubilance can be kept in without the total lois of its virtues. The conferve retains the full tafte and virtue of the herb for a very confiderable length of time, as a year or two, provided the veffel be made perfectly clofe and fet in a cool place. It may be given in feorbutic habits three or four times a-day, or oftener.<x_0.8223><y_0.2141><class_Text>\n\n<x_0.0693><y_0.2188>457. _Conferve of the leaves of wood-forrel._ L.<x_0.7734><y_0.2367><class_Section-header>\n\n<x_0.0205><y_0.2375>This is a very elegant and grateful conferve ; in tafte it is lightly acidulous, with a peculiar flavour, which fome refemble to that of green-tea. It is taken occasionally for quenching thirft, and cooling the mouth and fauces, in hot dittempers. It may be ufefully joined to the foregoing preparation, whole virtue it fomewhat promotes, at the fame time that it improves the tafte.<x_0.8203><y_0.3477><class_Text>\n\n<x_0.083><y_0.3508>458. _Conferve of the leaves of fpearmint._ L.<x_0.7568><y_0.3688><class_Section-header>\n\n<x_0.0176><y_0.368>The conferve of mint retains the tafte and virtues of the herb. It is given in weakness of the flomach and retchings to vomit ; and not unfrequently does service in fome cafes of this kind, where the warmer and more active preparations of mint would be less proper.<x_0.8232><y_0.4531><class_Text>\n\n<x_0.126><y_0.4539>459. _Conferve of the leaves of rue._<x_0.71><y_0.4719><class_Section-header>\n\n<x_0.0156><y_0.4711>This conferve is given from a dram to half an ounce in crudities of the primæ vie, for promoting digestion, and in hyfteric diforders : it gently fituates the folids, attenuates vificid juices, and excites the natural secretions. Some have had a great opinion of it, taken in a morning, as a prefervative against the effects of contagious air or exbalation.<x_0.8193><y_0.5703><class_Text>\n\n<x_0.0625><y_0.5719>460. _Conferve of the tops of tea-wormwood._ L.<x_0.7676><y_0.5891><class_Section-header>\n\n<x_0.0127><y_0.5898>The conferve of wormwood has been celebrated in dropties: Matthiolus relates, that feveral perfons were cured by it of that ditemper, without the afflitance of any other medicine. Where the diforder indeed proceeds from a limple laxity or flaccidity of the folids, the continued ufe of this medicine may be of fome service, as it appears to be a not inclegant mild corroborant. It is directed to be given in the dofe of half an ounce, about three hours before meals.<x_0.8184><y_0.7133><class_Text>\n\n<x_0.0889><y_0.7164>461. _Conferve of the buds of red roofes._ L.<x_0.7275><y_0.7336><class_Section-header>\n\n<x_0.0107><y_0.7328>This is a very agreeable and useful conferve. A dram or two, diffolved in warm milk, are frequently given as a light rethringent in weaknefs of the flo- mach, and likewise in coughs and phthifical complaints. In the German Ephemerides, examples are related of very dangerous phthifes cured by the con-tinued ufe of this medicine : in one of thefe cafes, 20 pounds of the conferve were taken in the space of a month; and in another, upwards of 30. Riverius mentions several other influences of this kind.<x_0.8174><y_0.8688><class_Text>\n\n<x_0.1035><y_0.8727>462. _Conferve of rofemary-flowers_. L.<x_0.6953><y_0.8883><class_Section-header>\n\n<x_0.0498><y_0.8867>Rofemary-flowers in great meature lofe their pecu-liar<x_0.8008><y_0.9148><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2490,
+   "completion_tokens": 946,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

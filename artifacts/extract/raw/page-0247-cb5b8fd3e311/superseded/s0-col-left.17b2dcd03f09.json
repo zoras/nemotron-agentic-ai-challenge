@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "17b2dcd03f09b95c1cca6d3fff99a57405d4b64cd639e47a8256f013f7e1b0bb",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "3741cb496d432109b09c0dcf6364d12555eed01cd2f90624b5e4801c6fc365d0",
+  "image_bytes": 2093881,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:247",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0655,
+   0.5333,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0655,
+    0.1505,
+    0.5283
+   ],
+   [
+    0.1505,
+    0.2354,
+    0.5283
+   ],
+   [
+    0.2354,
+    0.3204,
+    0.5283
+   ],
+   [
+    0.3204,
+    0.4053,
+    0.5283
+   ],
+   [
+    0.4053,
+    0.4903,
+    0.5283
+   ],
+   [
+    0.4903,
+    0.5752,
+    0.5283
+   ],
+   [
+    0.5752,
+    0.6602,
+    0.5283
+   ],
+   [
+    0.6602,
+    0.7451,
+    0.5283
+   ],
+   [
+    0.7451,
+    0.8301,
+    0.5283
+   ],
+   [
+    0.8301,
+    0.915,
+    0.5283
+   ],
+   [
+    0.915,
+    1.0,
+    0.5283
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2714,
+  "completion_tokens": 914,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.6,
+ "created_at": "2026-10-18T11:09:57+00:00",
+ "content": "<x_0.2686><y_0.0>(our author fays) it would be difficult to make people, who have never engaged in fuch enterprifes, compre-hend all the obflacies they had to encounter. This cone (the little mountain mentioned by Sir William Hamilton) is compofed of afhes, fand, and pozzolano, thrown up at different times by the volcano. The materials are fo loofe, that the adventurous traveller links about mid-leg at every ttep, and is in constant terror of being fwallowed up. At left, when the fummit is reached, the fulphureous exhalations, which are con-tinually emitted from the pores of the mountain, threa-ten fullocation, and irritate the fauces and lungs in fuch a manner as to produce a very troublefome and incefant cough. The loofenefs of the foil, which gives way under the feet, obliges the traveller, every now and then. to throw himself flat on his belly, that fo he may be in lefs danger of linking. In this potlure our author viewed the wide unfathomable gulph in the middle of the crater; but could difcover nothing except a cloud of frooke, which ifued from a number of small apertures scattered all around, and accompanied with a kind of noife. Another and more dreadful found, however, ifues from the bowels of the volcano, and which, according to our author, \" flrikes the heart with terror, fo that all the strength of reafon is necefary to prevent the obferver from flying with precipitation from fuch a dreadful place.\" Several travelers who had vifted this cone before him, were fo terrified by thefe dreadful founds, that they fled with the utmoft halte till they arrived at the foot of the mountain.<x_0.9824><y_0.4359><class_Text>\n\n<x_0.2725><y_0.4352>Our author compares thefe founds to a discharge of cannon in the wide abyfs; the noife of which is rebellowed throughout all the caverns, and produce a found perhaps the moft alarming that can be imagined; and during the short space in which he lifted, feveral of thefe discharges were heard to follow one another almost uninterruptedly.<x_0.9834><y_0.5359><class_Text>\n\n<x_0.2715><y_0.5344>This dreadful noite, our author, with very great probability, fuppofes to be occasioned by the explosions of the internal fire, or, as he calls it, the _focus_ of the volcano; which, friking against the tides of thefe immenfe caverns, the founds produced are re-echoed through their cavities, and probably multiplied in an extraordinary manner; fo that what would be only a flight explosion in the open air, occasions a found more tremendous than the loudest thunder. To fuch as are convinced of this, and have sufficient courage to rent the firft impretionswhich thefe founds muft unavoidably occasion, they will in a short time not only appear exceedingly fublime, but, by their variety, even fomewhat agreeable. \" They enable us (fays our author) to form fome conception of the space through which they muft pafs before they reach the ear, and of the valt extent and width of the hollows of the mountain.\"<x_0.9814><y_0.7758><class_Text>\n\n<x_0.2734><y_0.7742>Having for fome time contemplated this awful fpec-tacle, our author wifhed to measure the crater by walking round it; but found this impoffible. On the north fide the surface is hard and fmooth, the afhes having been fo far dilolved by the moisture deposited by the smoke as to cement into one uniform mafs. This is fometimes diffused even into a fluid late, in fuch a manner as to run down the files of the cone; fo that after several attempts, he was at halt obliged to abandon his delign.<x_0.9805><y_0.9164><class_Text>\n\n<x_0.1494><y_0.7586>4T Impofficile to walk round the crater.<x_0.2695><y_0.8227><class_Caption>\n\n<x_0.1514><y_0.9086>Plate CLXXXIV.<x_0.2676><y_0.9336><class_Caption>\n\n<x_0.3076><y_0.9133>Fig. 2. exhibits a view of the crater of Etna taken No 121.<x_0.9795><y_0.9453><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-8121a46e-9d72-476f-9baa-3d032b277325",
+  "object": "chat.completion",
+  "created": 1792321796,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.2686><y_0.0>(our author fays) it would be difficult to make people, who have never engaged in fuch enterprifes, compre-hend all the obflacies they had to encounter. This cone (the little mountain mentioned by Sir William Hamilton) is compofed of afhes, fand, and pozzolano, thrown up at different times by the volcano. The materials are fo loofe, that the adventurous traveller links about mid-leg at every ttep, and is in constant terror of being fwallowed up. At left, when the fummit is reached, the fulphureous exhalations, which are con-tinually emitted from the pores of the mountain, threa-ten fullocation, and irritate the fauces and lungs in fuch a manner as to produce a very troublefome and incefant cough. The loofenefs of the foil, which gives way under the feet, obliges the traveller, every now and then. to throw himself flat on his belly, that fo he may be in lefs danger of linking. In this potlure our author viewed the wide unfathomable gulph in the middle of the crater; but could difcover nothing except a cloud of frooke, which ifued from a number of small apertures scattered all around, and accompanied with a kind of noife. Another and more dreadful found, however, ifues from the bowels of the volcano, and which, according to our author, \" flrikes the heart with terror, fo that all the strength of reafon is necefary to prevent the obferver from flying with precipitation from fuch a dreadful place.\" Several travelers who had vifted this cone before him, were fo terrified by thefe dreadful founds, that they fled with the utmoft halte till they arrived at the foot of the mountain.<x_0.9824><y_0.4359><class_Text>\n\n<x_0.2725><y_0.4352>Our author compares thefe founds to a discharge of cannon in the wide abyfs; the noife of which is rebellowed throughout all the caverns, and produce a found perhaps the moft alarming that can be imagined; and during the short space in which he lifted, feveral of thefe discharges were heard to follow one another almost uninterruptedly.<x_0.9834><y_0.5359><class_Text>\n\n<x_0.2715><y_0.5344>This dreadful noite, our author, with very great probability, fuppofes to be occasioned by the explosions of the internal fire, or, as he calls it, the _focus_ of the volcano; which, friking against the tides of thefe immenfe caverns, the founds produced are re-echoed through their cavities, and probably multiplied in an extraordinary manner; fo that what would be only a flight explosion in the open air, occasions a found more tremendous than the loudest thunder. To fuch as are convinced of this, and have sufficient courage to rent the firft impretionswhich thefe founds muft unavoidably occasion, they will in a short time not only appear exceedingly fublime, but, by their variety, even fomewhat agreeable. \" They enable us (fays our author) to form fome conception of the space through which they muft pafs before they reach the ear, and of the valt extent and width of the hollows of the mountain.\"<x_0.9814><y_0.7758><class_Text>\n\n<x_0.2734><y_0.7742>Having for fome time contemplated this awful fpec-tacle, our author wifhed to measure the crater by walking round it; but found this impoffible. On the north fide the surface is hard and fmooth, the afhes having been fo far dilolved by the moisture deposited by the smoke as to cement into one uniform mafs. This is fometimes diffused even into a fluid late, in fuch a manner as to run down the files of the cone; fo that after several attempts, he was at halt obliged to abandon his delign.<x_0.9805><y_0.9164><class_Text>\n\n<x_0.1494><y_0.7586>4T Impofficile to walk round the crater.<x_0.2695><y_0.8227><class_Caption>\n\n<x_0.1514><y_0.9086>Plate CLXXXIV.<x_0.2676><y_0.9336><class_Caption>\n\n<x_0.3076><y_0.9133>Fig. 2. exhibits a view of the crater of Etna taken No 121.<x_0.9795><y_0.9453><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2714,
+   "completion_tokens": 914,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

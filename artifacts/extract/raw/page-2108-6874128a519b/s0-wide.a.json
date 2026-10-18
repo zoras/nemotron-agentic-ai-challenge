@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "9252c5d99bc67c4672c7ec8f9b6075b16042fa368abbdb5df31e746dedf93b8a",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4ecf22bfdf1dafad51863e7d5db8c4dd1b3ec2f7d726187c6e6adc94bd801745",
+  "image_bytes": 1180907,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2108",
+  "variant": "s0-wide.a",
+  "crop": [
+   0.0,
+   0.0,
+   1.0,
+   0.4612
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 882,
+  "total_tokens": 1705,
+  "completion_tokens": 823,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.57,
+ "created_at": "2026-10-18T11:20:50+00:00",
+ "content": "<x_0.1729><y_0.0563>B R I [ 645 ] B R I<x_0.7314><y_0.1117><class_Page-header>\n\n<x_0.0586><y_0.1055>Quefne ferved to remove from their colonies the terror of the incurions of the Indians, while it interrupted the correpondence along a chain of forts with which the French had environed the British settlements in America, fo that the fucceeding campaign promised great fuccefs. In 1759, it was relolved to attack the French in feveral parts of their empire at once. General Amherlt with a body of 12,000 men was commanded to attack Crown Point; General Wolfe was to undertake the flege of Quebec; while general Prideaux and Sir William Johnlon were to attempt a French fort near the cataracts of Niagara. This left expedition was the first that fucceeded. The flege was begun with vigour, and promised an early conquelt; but general Prideaux was killed in the trenches by the burling of a mortar, fo that the whole command devolved on general John- fon. A body of French troops, fentille of the importance of the place, attempted to relieve it; but were utterly defeated and diferfed; foon after which, the garrifion furrendered prifoners of war. On his arrival at the forts of Crown Point and Ticonderago, general Amherk found them deferred and defroyded. There now remained, therefore, but one decisive blow to reduce all North America under the British dominion; and this was by the taking of Quebec the capital of Canada. This expedition was commanded by admiral Saunders and general Wolfe. The enterprise was attended with difficulties which appeared unfurmountable; but all thefe difficulties were got over by the conduct of general Wolfe, and the bravery of his men.<x_0.4404><y_0.9992><class_Text>\n\n<x_0.4463><y_0.1094>efcape or advance, he was compelled to fight a capitulation by which the whole army laid down their arms, and were diferfed into different quarters of cantonement. By this remarkable capitulation, which was called the _capitulation of Glofler Screen_, Hanover was obliged to fulmit quietly to the French, who were now determined to turn their arms against the king of Pruffia.<x_0.8262><y_0.3445><class_Text>\n\n<x_0.4453><y_0.3383>Soon after this captitulation, both fides began to The Hano complain that the treaty was not fritely observed. The verians take Hanoverians exclaimed againt the capacity of the French general, and the brutality of his soldiers. The French retorted the charge againt them; accused them of infolence and infurrection; and, being fenbible of their own fuperiority, refolved to bind them strictly to their terms of agreement. The Hanoverians only wifhed for a pretence to take arms, and a general to head them. Neither were long wanting. The opprefilons of the tax-gatherers whom the French had appointed, were confidered as fo fevere, that the army role to vindicate the freedom of their country, while Ferdinand, prince of Brunswick, put himself at their head. As foon as this was known in Britain, large fupplies were granted both for the fervice of the king. of Pruffia, and to enable the Hanoverian army to act vigorously in conjunction with him. A small body of British forces was fent over to join prince Ferdinand under the duke of Marlborough. After fome inconfiderateable fucceffes at Crevelt, the duke of Marlborough dying, the command of the British forces devolved on lord George Sackville. A mifunderlanding arofe be-<x_0.8271><y_0.9984><class_Text>\n\n<x_0.8301><y_0.1156>Britain.<x_0.8965><y_0.1781><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-9a674a2b-65c0-4f3c-ac39-9f37749525be",
+  "object": "chat.completion",
+  "created": 1792322449,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1729><y_0.0563>B R I [ 645 ] B R I<x_0.7314><y_0.1117><class_Page-header>\n\n<x_0.0586><y_0.1055>Quefne ferved to remove from their colonies the terror of the incurions of the Indians, while it interrupted the correpondence along a chain of forts with which the French had environed the British settlements in America, fo that the fucceeding campaign promised great fuccefs. In 1759, it was relolved to attack the French in feveral parts of their empire at once. General Amherlt with a body of 12,000 men was commanded to attack Crown Point; General Wolfe was to undertake the flege of Quebec; while general Prideaux and Sir William Johnlon were to attempt a French fort near the cataracts of Niagara. This left expedition was the first that fucceeded. The flege was begun with vigour, and promised an early conquelt; but general Prideaux was killed in the trenches by the burling of a mortar, fo that the whole command devolved on general John- fon. A body of French troops, fentille of the importance of the place, attempted to relieve it; but were utterly defeated and diferfed; foon after which, the garrifion furrendered prifoners of war. On his arrival at the forts of Crown Point and Ticonderago, general Amherk found them deferred and defroyded. There now remained, therefore, but one decisive blow to reduce all North America under the British dominion; and this was by the taking of Quebec the capital of Canada. This expedition was commanded by admiral Saunders and general Wolfe. The enterprise was attended with difficulties which appeared unfurmountable; but all thefe difficulties were got over by the conduct of general Wolfe, and the bravery of his men.<x_0.4404><y_0.9992><class_Text>\n\n<x_0.4463><y_0.1094>efcape or advance, he was compelled to fight a capitulation by which the whole army laid down their arms, and were diferfed into different quarters of cantonement. By this remarkable capitulation, which was called the _capitulation of Glofler Screen_, Hanover was obliged to fulmit quietly to the French, who were now determined to turn their arms against the king of Pruffia.<x_0.8262><y_0.3445><class_Text>\n\n<x_0.4453><y_0.3383>Soon after this captitulation, both fides began to The Hano complain that the treaty was not fritely observed. The verians take Hanoverians exclaimed againt the capacity of the French general, and the brutality of his soldiers. The French retorted the charge againt them; accused them of infolence and infurrection; and, being fenbible of their own fuperiority, refolved to bind them strictly to their terms of agreement. The Hanoverians only wifhed for a pretence to take arms, and a general to head them. Neither were long wanting. The opprefilons of the tax-gatherers whom the French had appointed, were confidered as fo fevere, that the army role to vindicate the freedom of their country, while Ferdinand, prince of Brunswick, put himself at their head. As foon as this was known in Britain, large fupplies were granted both for the fervice of the king. of Pruffia, and to enable the Hanoverian army to act vigorously in conjunction with him. A small body of British forces was fent over to join prince Ferdinand under the duke of Marlborough. After fome inconfiderateable fucceffes at Crevelt, the duke of Marlborough dying, the command of the British forces devolved on lord George Sackville. A mifunderlanding arofe be-<x_0.8271><y_0.9984><class_Text>\n\n<x_0.8301><y_0.1156>Britain.<x_0.8965><y_0.1781><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 882,
+   "total_tokens": 1705,
+   "completion_tokens": 823,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

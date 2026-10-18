@@ -1,0 +1,412 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1722",
+ "row_index": 1722,
+ "volume_id": "149977338",
+ "filename": "page-1722-bda8f6e99dca.jpg",
+ "image_sha256": "bda8f6e99dca3137bcc24a247711bb8a5b44e4442131f0bb341049bfe2c6d63f",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.1098,
+  "median_grey": 216,
+  "layout_body_chars": 6740,
+  "layout_pictures": 0
+ },
+ "running_head": "A R S [ 354 ] A R S",
+ "layout_raw": "page-1722-bda8f6e99dca/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0106,
+    1.0,
+    0.0382
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1722-bda8f6e99dca/head.json",
+   "finish_reason": "stop",
+   "request_key": "d562e27b59fa6da11c3b217af9354b5115f0157cd0f8f04b444b079b62486854"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0106,
+    0.5133,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0106,
+     0.093,
+     0.5083
+    ],
+    [
+     0.093,
+     0.1755,
+     0.5083
+    ],
+    [
+     0.1755,
+     0.258,
+     0.5083
+    ],
+    [
+     0.258,
+     0.3404,
+     0.5083
+    ],
+    [
+     0.3404,
+     0.4229,
+     0.5083
+    ],
+    [
+     0.4229,
+     0.5053,
+     0.5083
+    ],
+    [
+     0.5053,
+     0.5877,
+     0.5083
+    ],
+    [
+     0.5877,
+     0.6702,
+     0.5083
+    ],
+    [
+     0.6702,
+     0.7527,
+     0.5083
+    ],
+    [
+     0.7527,
+     0.8351,
+     0.5083
+    ],
+    [
+     0.8351,
+     0.9175,
+     0.5083
+    ],
+    [
+     0.9175,
+     1.0,
+     0.5083
+    ]
+   ],
+   "raw_path": "page-1722-bda8f6e99dca/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "44080fa6bbe7c736062a42c134e9956b87189be3b5bd844fac62db4bddb390d6"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5033,
+    0.0106,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0106,
+     0.093,
+     0.5083
+    ],
+    [
+     0.093,
+     0.1755,
+     0.5083
+    ],
+    [
+     0.1755,
+     0.258,
+     0.5083
+    ],
+    [
+     0.258,
+     0.3404,
+     0.5083
+    ],
+    [
+     0.3404,
+     0.4229,
+     0.5083
+    ],
+    [
+     0.4229,
+     0.5053,
+     0.5083
+    ],
+    [
+     0.5053,
+     0.5877,
+     0.5083
+    ],
+    [
+     0.5877,
+     0.6702,
+     0.5083
+    ],
+    [
+     0.6702,
+     0.7527,
+     0.5083
+    ],
+    [
+     0.7527,
+     0.8351,
+     0.5083
+    ],
+    [
+     0.8351,
+     0.9175,
+     0.5083
+    ],
+    [
+     0.9175,
+     1.0,
+     0.5083
+    ]
+   ],
+   "raw_path": "page-1722-bda8f6e99dca/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "a935ab955560229df60fcc263579eed62afe682787f2fffc198c4c0193d1b50d"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "A R S [ 354 ] A R S",
+   "bbox": [
+    0.0,
+    0.0106,
+    1.0,
+    0.0382
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1722-bda8f6e99dca:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "A R S  F 3",
+   "bbox": [
+    0.2496,
+    0.0153,
+    0.5128,
+    0.0384
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1722-bda8f6e99dca:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "Arfeic. be made to affume the appearance either of an acid falt or metal, at the pleasure of the operator; and therefore has been confidered both as a feline fubftance and as a femi metal. It is not known at what time this mineral was difcovered; though, as it abounds in many different kinds of ores, it is probable that the pernicious properties it manifefts would very foon make it be taken notice cf by metallurgifts. Ariflotle makes mention of a fubflance called EasBayany; and his dificiple Theophraftus makes mention of one named Aquoise, which by-Diofcorides and others was called Agribus about the beginning of the Chriftian era. By this, however, it appears, that they only meant the fubflances now called _fandarach_ and _orpiment_; and Avicenna who lived in the 11th century, is the frit who expressly mentions white arfenic, as well as its fublimate. It is not known by whom arfenic was frit reduced to a metallic form. Paracelfus afterts that arfenic, fublimed with egg-fhell lime becomes like flver; and, in 1675, M. Lemeri makes mention of a method of fubliming arfenic with fixed alkali and foap.",
+   "bbox": [
+    0.0446,
+    0.0353,
+    0.5043,
+    0.3214
+   ],
+   "source": "s0-col-left",
+   "id": "page-1722-bda8f6e99dca:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "The true nature of arfenic being thus fo little known, it is no wonder to find chemitis differing very much as to the clafs of natural bodies in which it ought to be placed. Avicenna and a great number of others clafs it with the fulphurs; Albertus Magnus and his followers, among the falts. Becher confiders it as a kind of foap, or faline fulphureous body. Later experiments, however, have made it evident, that white arfenic conflits of an acid united to phlogifton; and that by diminithing the latter, the acid becomes more and more apparent; while, on the contrary, by augmenting the quantity of phlogiflic matter, the arfenic affumes the metal lic form. With respect to the fulphureous nature of arfenic, it appears, indeed that the regulus itself, as well as orpiment and realgar, are inflammable fubfiances; but it is not fo with white arfenic. This inflammability, therefore, which arfenic in a certain fate has in common with zinc and several other fubfances, will not denominate it fulphureous, any more than those of other bodies which poffels the common property of inflammatory can be denominated _fulphurr._",
+   "bbox": [
+    0.1133,
+    0.3206,
+    0.5038,
+    0.6034
+   ],
+   "source": "s0-col-left",
+   "id": "page-1722-bda8f6e99dca:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "It is commonly faid, that arfenic mineralizes metals; and therefore, fays Mr Bergman, it is considered as a fulphur by fome, who yet extend the idea of mineralization fo far, as under it to comprehend all mixtures of which metals make a part. But if we examine this signification a little more accurately, we shall fee that it is extended too far; for if this be admitted, we must at the fame time allow, that no native metal is to be found. Thus the gold called _native_, is feldom if ever found pure, but more or lefs mixed with copper or filver; and fo with other metals. If, therefore, arfenic, which, unlefs in its reguline flat, never diffolves other metals, be confidered as a mineralizing fubfiance, what hinders us from faying that gold is mineralized by flver or copper, and in general every metal mineralized by fome other? It is much more natural to fuppole that thofe metals are mineralized which are actually difficolved and concealed by a menfitrum. Sulphur is the chief agent employed by nature for this purpose; and though the acids of vitriol, pholphorus, nitre, and fometimes even the aerial acid, occasion the metals to put on an appearance foreign to their nature, yet the",
+   "bbox": [
+    0.1123,
+    0.6027,
+    0.5033,
+    0.9003
+   ],
+   "source": "s0-col-left",
+   "id": "page-1722-bda8f6e99dca:b4"
+  },
+  {
+   "order": 5,
+   "class": "Caption",
+   "text": "2 Compofed of an acid and phlogition.",
+   "bbox": [
+    0.0451,
+    0.3901,
+    0.1203,
+    0.4528
+   ],
+   "source": "s0-col-left",
+   "id": "page-1722-bda8f6e99dca:b5"
+  },
+  {
+   "order": 6,
+   "class": "Caption",
+   "text": "4 Sulphur the chief mine-ralizer of metals.",
+   "bbox": [
+    0.0456,
+    0.8253,
+    0.1163,
+    0.8833
+   ],
+   "source": "s0-col-left",
+   "id": "page-1722-bda8f6e99dca:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "54 | A R S",
+   "bbox": [
+    0.5062,
+    0.0153,
+    0.7735,
+    0.0384
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "number of thefe is fo final, that compared with the ful-\nphurated minerals, they almoft vanib.",
+   "bbox": [
+    0.5149,
+    0.0376,
+    0.8996,
+    0.067
+   ],
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "This mineral, to troublefome to the mineralogift,\noccationed the alchemitts to fuipect the exilience of a\ncertain arlenical principle indifpenably neceelary to the\nperfection of every metal. Even as late as 1773 a\nquetition to this purpole was propoiled by the Royal\nAcademy of Sciences at Berlin : the prize was adjud-\nged to M: Monnet, who in his anwer confidered\narfenic as a femi-metal of a peculiar kind, which is\nfo far from contituting any effential part of metals,\nthat its presence is always attended with inconvenien-\nces, either by carrying off the metal as it flies away, or\nfpoiling the mafs in which it remains. Thefe confide-\nrations, however, do not hinder us from afferting that\nthe acid of arfenic, like others, is a mineralizing fub-\nflance, if at any time it happens to meet with metals\nin the bowels of the earth, and to unite with it in that\nform.",
+   "bbox": [
+    0.514,
+    0.0663,
+    0.9001,
+    0.2935
+   ],
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "Arfenic in its pure flate is well known to be a moft\ndefructive and deadly poifon, for which the art of me-\ndicine has farcely as yet afforded a cure. Mr Berg-\nman is of opinion that it acts as an highly corrotive\nacid, even when applied externally. He also tells us,\nthat the dry acid is more deffructive than white arfer-\nnic; the regulus and realgar lefs fo. From an expe-\nriment of Mr Scheele, however, in which eight grains\nof arlenical acid were given to a cat, it does not ap-\npear that it acts more violently than white arfenic.\nThe extreme danger attending this fubflance when ta-\nken into the human body, arises from its infolubility,\nand the difficulty of decompounding it; for there can\nbut little danger arise from a liquid, unlefs like corro-\nfive acids, it should at once burn the fubflance of the\nflomach like fire; or, like laurel water fuipend the ac-\ntion of the nervous tyfem. Corrofive fublimate, folu-\ntions of mercury in aquafortis, &c. will as certainly\npoifon as arfenic; but they are much lefs difficult to\ncure, because any alkaline fubflance will certainly dec-\ncompound them and deflroy their deleterious efficacy.\nArfenic, on the contrary, cannot be decompounded,\nnor united with any known fubflance, at least in fuch\na short time as the exigence of the cafe we speak of\nwould require, without a considerable degree of heat.\nIt therefore remains in the flomach, continually exerting its milchievous qualities, unlefs it can be dichar-\nged by vomiting.",
+   "bbox": [
+    0.5125,
+    0.2943,
+    0.9006,
+    0.6707
+   ],
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "The symptoms attending arfenic when fwallowed\nare, naulea, ficknefs, and retching to vomit, about half\nan hour after it is taken. There are followed by vio-\nlent vomitings, hiccups, and pains in the flomach and\nbowels. Convultions and palties of the limbs pretently\nfucceed, with intense heats, cold fweats, palpitations of\nthe heart, extreme anxiety, profiltration of strength,\nthirft and drynefs of the mouth and throat, lofs of rea-\nton, and at laff death. If the quantity taken was con-\nfidderable, the patient dies in fever or eight hours after\ntaking it; and the flomach and intellines are found,\nupon diflection, to be corroded and perforated. When\nthis is not the cafe, violent putrefactive fymptoms\nfoon enfue after arfenic is fwallowed; for the bodies of\nthose who are poisoned by it generally have abundance\nof red or purple fpots even before death. It remark-\nably inflames the coats of the flomach, and the putre-",
+   "bbox": [
+    0.5106,
+    0.6691,
+    0.8947,
+    0.898
+   ],
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b11"
+  },
+  {
+   "order": 12,
+   "class": "Caption",
+   "text": "Arfenic.\n5 An arfeni-\ncal pria-\nciple cro-\nrecouly fup-\npofed necef-\nfury for the\nperfection\nof metals.",
+   "bbox": [
+    0.8972,
+    0.0392,
+    0.9723,
+    0.1613
+   ],
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b12"
+  },
+  {
+   "order": 13,
+   "class": "Caption",
+   "text": "6 Acid of\narfenic a\nminerali-\nzing fub-\nflance.",
+   "bbox": [
+    0.8981,
+    0.2286,
+    0.9588,
+    0.2958
+   ],
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b13"
+  },
+  {
+   "order": 14,
+   "class": "Caption",
+   "text": "7 Poifonous\nqualities of\narfenic and\nits acid.",
+   "bbox": [
+    0.8976,
+    0.2951,
+    0.9665,
+    0.3514
+   ],
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b14"
+  },
+  {
+   "order": 15,
+   "class": "Caption",
+   "text": "8 Why it is\nmore dan-\ngerous than\nothers.",
+   "bbox": [
+    0.8986,
+    0.4056,
+    0.9704,
+    0.4635
+   ],
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b15"
+  },
+  {
+   "order": 16,
+   "class": "Caption",
+   "text": "9 Symptoms\nattending\nthe fwal-\nlowing of\narfenic.",
+   "bbox": [
+    0.8952,
+    0.6622,
+    0.9602,
+    0.7287
+   ],
+   "source": "s0-col-right",
+   "id": "page-1722-bda8f6e99dca:b16"
+  }
+ ]
+}

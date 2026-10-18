@@ -1,0 +1,119 @@
+{
+ "request": {
+  "key": "41c5e6f396ba6e8c46b52343e71bb48a6b97a8b4d1d75d6916c4bf5ecbaf632f",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "614df2fbc55d224334f21ef98f5d4d2083ce05ca358a645b86586b1444529ec6",
+  "image_bytes": 1977418,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2524",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0507,
+   0.5383,
+   0.8062
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0507,
+    0.1346,
+    0.5333
+   ],
+   [
+    0.1346,
+    0.2186,
+    0.5333
+   ],
+   [
+    0.2186,
+    0.3025,
+    0.5333
+   ],
+   [
+    0.3025,
+    0.3865,
+    0.5333
+   ],
+   [
+    0.3865,
+    0.4704,
+    0.5333
+   ],
+   [
+    0.4704,
+    0.5544,
+    0.5333
+   ],
+   [
+    0.5544,
+    0.6383,
+    0.5333
+   ],
+   [
+    0.6383,
+    0.7223,
+    0.5333
+   ],
+   [
+    0.7223,
+    0.8062,
+    0.5333
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1896,
+  "total_tokens": 2676,
+  "completion_tokens": 780,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.18,
+ "created_at": "2026-10-18T11:12:01+00:00",
+ "content": "<x_0.0947><y_0.0>Hindustan as the most shocking of crimes, by burning on a heated plate of iron ; or against the lower tribes, in whom adultery with a Brahmin woman is considered as the climax of human depravity, scarcely to be avenged by any punishment, however dreadful. On the other hand, crimes committed by the higher classes against the lower are very slightly punished; the scale of punishment being in all cases graduated in an inverse ratio to the rank of the ofenders.<x_0.999><y_0.1492><class_Text>\n\n<x_0.1006><y_0.1484>Architecture.<x_0.2178><y_0.1812><class_Section-header>\n\n<x_0.2158><y_0.1477>In architecture, in the fine arts, in painting and music, the Hindus are greatly inferior to the Europeans. The pagodas, the tombs, and other structures, the only remaining specimens of their architecture, are, according to some, more remarkable for the magnitude of their dimensions than for their just proportions or fine taste. \"The columns and pillars,\" says Tennant, \" which adorn their immense pagodas, are destitute of any fixed proportions; and the edifices themselves are subjected to no rules of architecture.\" He afterwards adds, that the celebrated mausoleum at Agra has little to boast of either in simplicity or elegance of design. \"The immensity of its size, its costly ornaments, and the minute exactness of its decorations in particular parts, are worthy of notice; but they afford much stronger proofs of the wealth and magnificence of Shah Jehan, than the correctness of its taste.\" The tombs and religious edifices of Hindustan are, on the other hand, highly commended by Bishop Heber for delicacy, beauty, and taste. The mausoleum at Agra he celebrates as the most splendid building, in its way, that he had seen in India.' Humaion's tomb at Delhi he also praises as a noble building of granite, inlaid with marble, and in a very chaste and simple style of Gothic architecture ; and of the imanbara or cathedral at Lucknow he remarks, \" The whole is in a very noble style of eastern Gothic, and, when taken in conjunction with the Roumi Durwazu which adjoins it, I have never seen an architectural view which pleased me more, from its richness and variety, as well as the proportions and general good taste of its principal features.\"2 There seems no doubt, from the splendid structures that are still found in different parts of Hindustan, that architecture and the kindred arts had flourished amongst the Hindus of a remoter age ; though it is mentioned by Colonel Todd, that very few good specimens of the art have been executed within the last 700 years. His description, however, of the splendid Jain temples at Ajmeer and other parts, some of them erected long prior to the Christian era, and distinguished alike by chasteness and beauty of design, and by rich and exquisite finishing, must convince the most incredulous, that in these remote times the arts had made great progress in Hindustan. These structures are not merely monuments of labour, but of taste ; they evince the perfection of art ; and in symmetry, beauty of proportion, unity of design, and splendid ornament, they rival the noblest productions of classical Europe. The history of the people who have raised these structures presents a wide field for antiquarian research, on which Colonel Todd has entered with the brilliant promise of interesting results ; and to his learned inquiries and cloquent and poetical descriptions<x_0.998><y_0.9758><class_Text>",
+ "reply": {
+  "id": "chatcmpl-102f47ce-f6b7-45d1-823d-08f1d3a90bf3",
+  "object": "chat.completion",
+  "created": 1792321920,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0947><y_0.0>Hindustan as the most shocking of crimes, by burning on a heated plate of iron ; or against the lower tribes, in whom adultery with a Brahmin woman is considered as the climax of human depravity, scarcely to be avenged by any punishment, however dreadful. On the other hand, crimes committed by the higher classes against the lower are very slightly punished; the scale of punishment being in all cases graduated in an inverse ratio to the rank of the ofenders.<x_0.999><y_0.1492><class_Text>\n\n<x_0.1006><y_0.1484>Architecture.<x_0.2178><y_0.1812><class_Section-header>\n\n<x_0.2158><y_0.1477>In architecture, in the fine arts, in painting and music, the Hindus are greatly inferior to the Europeans. The pagodas, the tombs, and other structures, the only remaining specimens of their architecture, are, according to some, more remarkable for the magnitude of their dimensions than for their just proportions or fine taste. \"The columns and pillars,\" says Tennant, \" which adorn their immense pagodas, are destitute of any fixed proportions; and the edifices themselves are subjected to no rules of architecture.\" He afterwards adds, that the celebrated mausoleum at Agra has little to boast of either in simplicity or elegance of design. \"The immensity of its size, its costly ornaments, and the minute exactness of its decorations in particular parts, are worthy of notice; but they afford much stronger proofs of the wealth and magnificence of Shah Jehan, than the correctness of its taste.\" The tombs and religious edifices of Hindustan are, on the other hand, highly commended by Bishop Heber for delicacy, beauty, and taste. The mausoleum at Agra he celebrates as the most splendid building, in its way, that he had seen in India.' Humaion's tomb at Delhi he also praises as a noble building of granite, inlaid with marble, and in a very chaste and simple style of Gothic architecture ; and of the imanbara or cathedral at Lucknow he remarks, \" The whole is in a very noble style of eastern Gothic, and, when taken in conjunction with the Roumi Durwazu which adjoins it, I have never seen an architectural view which pleased me more, from its richness and variety, as well as the proportions and general good taste of its principal features.\"2 There seems no doubt, from the splendid structures that are still found in different parts of Hindustan, that architecture and the kindred arts had flourished amongst the Hindus of a remoter age ; though it is mentioned by Colonel Todd, that very few good specimens of the art have been executed within the last 700 years. His description, however, of the splendid Jain temples at Ajmeer and other parts, some of them erected long prior to the Christian era, and distinguished alike by chasteness and beauty of design, and by rich and exquisite finishing, must convince the most incredulous, that in these remote times the arts had made great progress in Hindustan. These structures are not merely monuments of labour, but of taste ; they evince the perfection of art ; and in symmetry, beauty of proportion, unity of design, and splendid ornament, they rival the noblest productions of classical Europe. The history of the people who have raised these structures presents a wide field for antiquarian research, on which Colonel Todd has entered with the brilliant promise of interesting results ; and to his learned inquiries and cloquent and poetical descriptions<x_0.998><y_0.9758><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1896,
+   "total_tokens": 2676,
+   "completion_tokens": 780,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

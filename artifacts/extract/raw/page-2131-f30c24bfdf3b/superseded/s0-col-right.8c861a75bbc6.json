@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "8c861a75bbc6c403b9e272149a519382e2e4706165dff4e6670d75c8d942078b",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "26a81d291b0cbcfb851ca4529a65bb109919ac2fd12b6e865aa4f93c54dd5543",
+  "image_bytes": 2163793,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2131",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4383,
+   0.0616,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0616,
+    0.1469,
+    0.4483
+   ],
+   [
+    0.1469,
+    0.2322,
+    0.4433
+   ],
+   [
+    0.2322,
+    0.3175,
+    0.4433
+   ],
+   [
+    0.3175,
+    0.4028,
+    0.4433
+   ],
+   [
+    0.4028,
+    0.4881,
+    0.4433
+   ],
+   [
+    0.4881,
+    0.5735,
+    0.4433
+   ],
+   [
+    0.5735,
+    0.6588,
+    0.4433
+   ],
+   [
+    0.6588,
+    0.7441,
+    0.4433
+   ],
+   [
+    0.7441,
+    0.8294,
+    0.4433
+   ],
+   [
+    0.8294,
+    0.9147,
+    0.4433
+   ],
+   [
+    0.9147,
+    1.0,
+    0.4433
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2779,
+  "completion_tokens": 851,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.27,
+ "created_at": "2026-10-18T11:11:38+00:00",
+ "content": "<x_0.0254><y_0.0>cocoa-nut tree itself, not all the minute deccriptions I _Bombay._<x_0.8281><y_0.1102><class_Text>\n\n<x_0.0234><y_0.1094>\" As to the rice fields, they differ in value, accor-ding to the finenefs and quantity of rice they produce. The growth of this grain has a particularity not unworthy of notice, viz. that as it loves a watery foil, fo to whatever height the water rifes, wherever it is planted, the growth of the rice keeps meafure with it, even to that of 12 and 14 feet; the fummit always ap-pearing above the surface of the water. It is alfo remarked, that the eating of new rice affects the eyes. The fact is certain, though the physical reafon of it is unknown.<x_0.6992><y_0.2641><class_Text>\n\n<x_0.0225><y_0.2633>\" Here and there are interfperfed fome few _brab_ trees, or rather wild palm trees (the word _brah_ being derived from _brabs_, which in the Portuguese fignifies _wild_.) They bear an infipid kind of fruit, about the bignefs of a common pear; but the chief profit from them is the toddy, or liquor drawn from them by infections at the top, of which the arrack is reckoned better than that produced by the cocoa-nut trees. They are generally near the fea-fide, as they delight moft in a fandy foil. It is on this tree that the _toddy birds_, fo called from their attachment to it, make their exqui-fitely curious nefts, wrought out of the thinneft reeds and filaments of branches, with an inimitable mecha-nifm. The birds themselves are about the fize of a partridge, but are of no value either for plumage, fong, or the table.<x_0.6982><y_0.4875><class_Text>\n\n<x_0.0215><y_0.4867>\" This illand is a strong influence of the benefits of a good government, and a numerous population, by not a fpot of it remaining uncultivated: fo that tho' it is far from producing sufficient for the confumption of its inhabitants, and notwithstanding its many difadvantages of situation and foil, it yields incomparably more than the adjacent illand of Salfette.\"<x_0.6953><y_0.5867><class_Text>\n\n<x_0.0205><y_0.5852>Among the curiosities of Bombay Mr Ives mentions Curiosities a large terapin or land tortoife kept at the governor’s in this house, the age of which was upwards of 200 years. Frogs, which abound every where through the East Indies, are very large at Bombay. Our author law one that measured 22 inches from the extremities of the fore and hind feet when extended; and he fuppo-fes that its weight would not have been left than four or five pounds. On the fea-thore round the illand are a great variety of beautiful shells, particularly the fort called _ventle-traps_ or _evendle-traps_, held in great e- fleem among the ladies fome time ago. Several pounds Sterling are laid to have been given by a _virtuof_ for one of thefe hells when the Commodore Leflie's collection of hells was fold by auction.<x_0.7998><y_0.7961><class_Text>\n\n<x_0.0176><y_0.7945>Mr Ives enumerates the following kinds of fnakes found on this illand and other parts of the British empire in the Eaft Indies. 1. The _cobra de capella_, grow-ing from four to eight or nine feet long. They kill by their bite in 15 minutes. 2. The _cobra manilla_ is a small bluith fnake, of the fize of a man's little finger, and about a foot long, frequently feen about old walls. A species of thefe found at Bombay kill much fooner<x_0.6836><y_0.9094><class_Text>\n\n<x_0.709><y_0.0008><x_0.8262><y_0.0219><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-403a367d-7899-4c3d-ad5d-a11eff974aec",
+  "object": "chat.completion",
+  "created": 1792321897,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0254><y_0.0>cocoa-nut tree itself, not all the minute deccriptions I _Bombay._<x_0.8281><y_0.1102><class_Text>\n\n<x_0.0234><y_0.1094>\" As to the rice fields, they differ in value, accor-ding to the finenefs and quantity of rice they produce. The growth of this grain has a particularity not unworthy of notice, viz. that as it loves a watery foil, fo to whatever height the water rifes, wherever it is planted, the growth of the rice keeps meafure with it, even to that of 12 and 14 feet; the fummit always ap-pearing above the surface of the water. It is alfo remarked, that the eating of new rice affects the eyes. The fact is certain, though the physical reafon of it is unknown.<x_0.6992><y_0.2641><class_Text>\n\n<x_0.0225><y_0.2633>\" Here and there are interfperfed fome few _brab_ trees, or rather wild palm trees (the word _brah_ being derived from _brabs_, which in the Portuguese fignifies _wild_.) They bear an infipid kind of fruit, about the bignefs of a common pear; but the chief profit from them is the toddy, or liquor drawn from them by infections at the top, of which the arrack is reckoned better than that produced by the cocoa-nut trees. They are generally near the fea-fide, as they delight moft in a fandy foil. It is on this tree that the _toddy birds_, fo called from their attachment to it, make their exqui-fitely curious nefts, wrought out of the thinneft reeds and filaments of branches, with an inimitable mecha-nifm. The birds themselves are about the fize of a partridge, but are of no value either for plumage, fong, or the table.<x_0.6982><y_0.4875><class_Text>\n\n<x_0.0215><y_0.4867>\" This illand is a strong influence of the benefits of a good government, and a numerous population, by not a fpot of it remaining uncultivated: fo that tho' it is far from producing sufficient for the confumption of its inhabitants, and notwithstanding its many difadvantages of situation and foil, it yields incomparably more than the adjacent illand of Salfette.\"<x_0.6953><y_0.5867><class_Text>\n\n<x_0.0205><y_0.5852>Among the curiosities of Bombay Mr Ives mentions Curiosities a large terapin or land tortoife kept at the governor’s in this house, the age of which was upwards of 200 years. Frogs, which abound every where through the East Indies, are very large at Bombay. Our author law one that measured 22 inches from the extremities of the fore and hind feet when extended; and he fuppo-fes that its weight would not have been left than four or five pounds. On the fea-thore round the illand are a great variety of beautiful shells, particularly the fort called _ventle-traps_ or _evendle-traps_, held in great e- fleem among the ladies fome time ago. Several pounds Sterling are laid to have been given by a _virtuof_ for one of thefe hells when the Commodore Leflie's collection of hells was fold by auction.<x_0.7998><y_0.7961><class_Text>\n\n<x_0.0176><y_0.7945>Mr Ives enumerates the following kinds of fnakes found on this illand and other parts of the British empire in the Eaft Indies. 1. The _cobra de capella_, grow-ing from four to eight or nine feet long. They kill by their bite in 15 minutes. 2. The _cobra manilla_ is a small bluith fnake, of the fize of a man's little finger, and about a foot long, frequently feen about old walls. A species of thefe found at Bombay kill much fooner<x_0.6836><y_0.9094><class_Text>\n\n<x_0.709><y_0.0008><x_0.8262><y_0.0219><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2779,
+   "completion_tokens": 851,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

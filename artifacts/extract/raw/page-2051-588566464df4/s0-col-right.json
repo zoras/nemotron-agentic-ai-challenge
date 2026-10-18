@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "12049d92259c3e70f4891a1266b3bba4164786205d44124f4775da7183babf78",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f9177b36fd63157d2beb2142f9767e416b770c387eb97e1123b74283088f8f5a",
+  "image_bytes": 2029796,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2051",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5433,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.5483
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.5483
+   ],
+   [
+    0.1667,
+    0.25,
+    0.5483
+   ],
+   [
+    0.25,
+    0.3333,
+    0.5483
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.5483
+   ],
+   [
+    0.4167,
+    0.5,
+    0.5483
+   ],
+   [
+    0.5,
+    0.5833,
+    0.5483
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.5483
+   ],
+   [
+    0.6667,
+    0.75,
+    0.5483
+   ],
+   [
+    0.75,
+    0.8333,
+    0.5483
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.5483
+   ],
+   [
+    0.9167,
+    1.0,
+    0.5483
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2457,
+  "completion_tokens": 913,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.55,
+ "created_at": "2026-10-18T11:11:33+00:00",
+ "content": "<x_0.0059><y_0.0633>8 J<x_0.1084><y_0.0836><class_Page-header>\n\n<x_0.3428><y_0.0625>L O M<x_0.5723><y_0.0813><class_Title>\n\n<x_0.0195><y_0.0844>laws among thefe people. Before his time they had been governed only by tradition: but Rotharis, in imitation of the Romans and Goths, undertook the publishing of written laws; and to those which he enacted, many were added by the fucceeding princes. Grotius prefers the method which the Lombards followed in making laws, to that which was practised by the Romans themselves. Among the latter the emperor was the fole lawgiver; fo that whatever pleafed him had the force of a law. But the Lombard kings did not allume that power to themfelves, fince their laws were enacted in public affemblies, convened for that purpose, after they had been maturely examined and approved of by all the lords of the kingdom. From these affemblies were excluded the ecclefialtic order, and the people: fo that the legilative power was lodged in the king and nobles alone.<x_0.8076><y_0.2938><class_Text>\n\n<x_0.0186><y_0.293>The reign of Rotharis is remarkable, not only for his introducing written laws among his subjects, but for the conquefts he made, and the fucceful wars carried on with the search of Ravenna, whom he totally defeated in several engagements, and made himself matter of fome part of his territories. This monarch died in 652; and the affairs of the Lombards went on profperouly, till the ambition of Luitprand laid the foundation of the total ruin of his kingdom.<x_0.8086><y_0.4055><class_Text>\n\n<x_0.0176><y_0.4039>He afended the throne of Lombardy in 711, and watched all opportunities of enlarging his dominions at the expence of the emperor's. Of this, a fair opportunity offered in 716: for the emperor Leo Ifauricus, who at that time reigned in the eaft, having, by his famous edict, forbidden the worship of images, and ordered them to be everywhere pulled down, the people were fo provoked at that innovation, that, in several places, they openly revolted, and, falling up on the emperor's officers, drove them out of the cities. In the eaft, Germanus, patriarch of Conflantinople, oppofed the emperor's design with great warmth; but Leo caufed him to be depofed, and Anaitafius to be railed to that fee in his room, ordering at the fame time all the images in the imperial city to be pulled down and publicly burnt. He firstly enjoined his officers in the weft, especially the exarch of Ravenna, to fee his edit punctually obeyed in their respective governments. In compliance with thefe orders, Schoulticus, then exarch, began to pull down the images in all the churches and public places in Ravenna; which incenfed the fuperftitious multitude to fuch a degree, that taking arms, they openly declared they would rather renounce their allegiance to the emperor than the worthy of images.<x_0.8096><y_0.7109><class_Text>\n\n<x_0.0205><y_0.7102>Thus a kind of civil war being kindled in the city, Luitprand thought he had now a favourable opportunity of making himself mafter of the feat of the exarch, not doubting but the conqueft of fuch an important place would be followed by that of the whole ex-archate. Having therefore drawn together all his forces, he unexpectedly appeared before Ravenna, and clofely belieged it. The exarch little expected fuch a furprife, as a friendly correfpondence had been maintained for many years between the exarchs and the Lombard kings. However, he defended the place with fuch courage and refolution, that Luitprand, defpairing of fuccefs, broke up the flege and led his army against Claffis, at a small distance from Ravenna,<x_0.8066><y_0.8867><class_Text>\n\n<x_0.8057><y_0.0852>Lombards.<x_0.9424><y_0.1047><class_Caption>\n\n<x_0.8027><y_0.3969>to Luitprand's ambition.<x_0.9404><y_0.4281><class_Caption>\n\n<x_0.8008><y_0.7656>H Be belieges and at last takes Ravenna.<x_0.9463><y_0.8164><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-4639ed87-b922-4317-9ec2-8693e5e57af2",
+  "object": "chat.completion",
+  "created": 1792321892,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0059><y_0.0633>8 J<x_0.1084><y_0.0836><class_Page-header>\n\n<x_0.3428><y_0.0625>L O M<x_0.5723><y_0.0813><class_Title>\n\n<x_0.0195><y_0.0844>laws among thefe people. Before his time they had been governed only by tradition: but Rotharis, in imitation of the Romans and Goths, undertook the publishing of written laws; and to those which he enacted, many were added by the fucceeding princes. Grotius prefers the method which the Lombards followed in making laws, to that which was practised by the Romans themselves. Among the latter the emperor was the fole lawgiver; fo that whatever pleafed him had the force of a law. But the Lombard kings did not allume that power to themfelves, fince their laws were enacted in public affemblies, convened for that purpose, after they had been maturely examined and approved of by all the lords of the kingdom. From these affemblies were excluded the ecclefialtic order, and the people: fo that the legilative power was lodged in the king and nobles alone.<x_0.8076><y_0.2938><class_Text>\n\n<x_0.0186><y_0.293>The reign of Rotharis is remarkable, not only for his introducing written laws among his subjects, but for the conquefts he made, and the fucceful wars carried on with the search of Ravenna, whom he totally defeated in several engagements, and made himself matter of fome part of his territories. This monarch died in 652; and the affairs of the Lombards went on profperouly, till the ambition of Luitprand laid the foundation of the total ruin of his kingdom.<x_0.8086><y_0.4055><class_Text>\n\n<x_0.0176><y_0.4039>He afended the throne of Lombardy in 711, and watched all opportunities of enlarging his dominions at the expence of the emperor's. Of this, a fair opportunity offered in 716: for the emperor Leo Ifauricus, who at that time reigned in the eaft, having, by his famous edict, forbidden the worship of images, and ordered them to be everywhere pulled down, the people were fo provoked at that innovation, that, in several places, they openly revolted, and, falling up on the emperor's officers, drove them out of the cities. In the eaft, Germanus, patriarch of Conflantinople, oppofed the emperor's design with great warmth; but Leo caufed him to be depofed, and Anaitafius to be railed to that fee in his room, ordering at the fame time all the images in the imperial city to be pulled down and publicly burnt. He firstly enjoined his officers in the weft, especially the exarch of Ravenna, to fee his edit punctually obeyed in their respective governments. In compliance with thefe orders, Schoulticus, then exarch, began to pull down the images in all the churches and public places in Ravenna; which incenfed the fuperftitious multitude to fuch a degree, that taking arms, they openly declared they would rather renounce their allegiance to the emperor than the worthy of images.<x_0.8096><y_0.7109><class_Text>\n\n<x_0.0205><y_0.7102>Thus a kind of civil war being kindled in the city, Luitprand thought he had now a favourable opportunity of making himself mafter of the feat of the exarch, not doubting but the conqueft of fuch an important place would be followed by that of the whole ex-archate. Having therefore drawn together all his forces, he unexpectedly appeared before Ravenna, and clofely belieged it. The exarch little expected fuch a furprife, as a friendly correfpondence had been maintained for many years between the exarchs and the Lombard kings. However, he defended the place with fuch courage and refolution, that Luitprand, defpairing of fuccefs, broke up the flege and led his army against Claffis, at a small distance from Ravenna,<x_0.8066><y_0.8867><class_Text>\n\n<x_0.8057><y_0.0852>Lombards.<x_0.9424><y_0.1047><class_Caption>\n\n<x_0.8027><y_0.3969>to Luitprand's ambition.<x_0.9404><y_0.4281><class_Caption>\n\n<x_0.8008><y_0.7656>H Be belieges and at last takes Ravenna.<x_0.9463><y_0.8164><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2457,
+   "completion_tokens": 913,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

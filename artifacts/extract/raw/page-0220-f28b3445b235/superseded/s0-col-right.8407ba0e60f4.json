@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "8407ba0e60f445ee8fc5589bac63f07121184a5ccaf431daaf3af9a06b7e134f",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f90bc4fc1fb6a360817e34f3e6dd3304a403a82d28be5443e07331412765cd34",
+  "image_bytes": 1876797,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:220",
+  "variant": "s0-col-right",
+  "crop": [
+   0.505,
+   0.0796,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0796,
+    0.1633,
+    0.51
+   ],
+   [
+    0.1633,
+    0.2469,
+    0.51
+   ],
+   [
+    0.2469,
+    0.3306,
+    0.51
+   ],
+   [
+    0.3306,
+    0.4143,
+    0.51
+   ],
+   [
+    0.4143,
+    0.498,
+    0.51
+   ],
+   [
+    0.498,
+    0.5816,
+    0.51
+   ],
+   [
+    0.5816,
+    0.6653,
+    0.51
+   ],
+   [
+    0.6653,
+    0.749,
+    0.51
+   ],
+   [
+    0.749,
+    0.8327,
+    0.51
+   ],
+   [
+    0.8327,
+    0.9163,
+    0.51
+   ],
+   [
+    0.9163,
+    1.0,
+    0.51
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2694,
+  "completion_tokens": 894,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.81,
+ "created_at": "2026-10-18T11:09:56+00:00",
+ "content": "<x_0.0166><y_0.0>fel to the Sandwich Islands, where, giving over all further thoughts of trade, they determined (after getting a fea-flock of fifth off Cape Edgecumbe) immediately to proceed. The Nootka arrived at Macao the end of October 1787.<x_0.7617><y_0.0711><class_Text>\n\n<x_0.0176><y_0.0703>The Imperial Eagle, Captain Barkley, fitted out by a fociety of gentlemen at Ollend, failed from Ollend the latter end of November 1786; went into the bay of All Saints; from thence, without touching any where, to the Sandwich Illands, and arrived at Nootka the beginning of June; from thence to the fourth, as far as 47° 30, in which space he difcovered fome good and fpacious harbours. In the lat. of 47° 46, loft his fecond mate, purfer, and two feamen, who were upon a trading party with the long-boat, and imprudently trulling themfelves afhore unarmed, were cut off by the natives. This place feems to be the fame that Don Antonio Mourelle calls the _Ilba de los Dolores_, where the Spaniards going afhore to water, were alfo attacked and cut off.<x_0.7607><y_0.2836><class_Text>\n\n<x_0.0186><y_0.2844>The King George of 320, and the Queen Charlotte of 200 tons, commanded by Captains Portlock and Dixon, who ferved under Captain Cook in his left voyage, were fitted out by a fociety of gentlemen in England, who obtained a privilege to trade to the north-welt coaft of America, from the South-Sea and East India companies.<x_0.7627><y_0.3828><class_Text>\n\n<x_0.0156><y_0.3836>Thofe veffels failed from England the beginning of September 1785; touched at the Falkland Iflands, Sandwich IIlands, and arrived in Cook's River in the month of August. From thence, after collecting a few furrs, they fleeced in the end of September for Prince William's Sound, intending, it is laid, to winter there; but were prevented entering, by heavy florms and extreme bad weather, which obliged them to bear away, and feek fome other part of the coaft to winter at. The florms and had weather accompanied them till they arrived off Nootka Sound, when they were fo near the shore, that a canoe came off to them: but though thus near accomplishing their purpose, a freth storm came on, and obliged them finally to bear away for the Sandwich Iflands, where they remained the winter months; and returning again to the coaft, arrived in Prince William's Sound the middle of May. The King George remained in Prince William's Sound; and during her, flay, her long-boat difcovered a new paffage from the Sound into Cook's River. The Queen Charlotte proceeded along the coaft to the fourth; looked into Behring's Bay, where the Ruffians have now a fettlement; examined that part of the coaft from 56 to 50%, which was not been by Captain Cook, and which conflicts of a chutter of illands, called by Captain Dixon Queen Charlotte's Ilandr, at a considerable distance from the Main, which is thus removed farther to the callward than it was fuppofed to be: fome part of the continent may, however, be fees from the caft ride of thefe iflands; and it is probable, the distance does not any where exceed 50 leagues. On this elimination, Hudson's Houfe, lat. 53° long. 106' 27 well, will not be more than 800 miles distant from that part of this coaft in the fame parallel. It is therefore not improbable, that the enterprising fpirit of our Canadian furriers may penetrate to this coaft (the communication with which is probably much facilitated by lakes or rivers), and add to the comforts and luxus<x_0.7598><y_0.9242><class_Text>",
+ "reply": {
+  "id": "chatcmpl-ff2c9862-0558-4e5a-ae1e-731e02d68bab",
+  "object": "chat.completion",
+  "created": 1792321795,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0166><y_0.0>fel to the Sandwich Islands, where, giving over all further thoughts of trade, they determined (after getting a fea-flock of fifth off Cape Edgecumbe) immediately to proceed. The Nootka arrived at Macao the end of October 1787.<x_0.7617><y_0.0711><class_Text>\n\n<x_0.0176><y_0.0703>The Imperial Eagle, Captain Barkley, fitted out by a fociety of gentlemen at Ollend, failed from Ollend the latter end of November 1786; went into the bay of All Saints; from thence, without touching any where, to the Sandwich Illands, and arrived at Nootka the beginning of June; from thence to the fourth, as far as 47° 30, in which space he difcovered fome good and fpacious harbours. In the lat. of 47° 46, loft his fecond mate, purfer, and two feamen, who were upon a trading party with the long-boat, and imprudently trulling themfelves afhore unarmed, were cut off by the natives. This place feems to be the fame that Don Antonio Mourelle calls the _Ilba de los Dolores_, where the Spaniards going afhore to water, were alfo attacked and cut off.<x_0.7607><y_0.2836><class_Text>\n\n<x_0.0186><y_0.2844>The King George of 320, and the Queen Charlotte of 200 tons, commanded by Captains Portlock and Dixon, who ferved under Captain Cook in his left voyage, were fitted out by a fociety of gentlemen in England, who obtained a privilege to trade to the north-welt coaft of America, from the South-Sea and East India companies.<x_0.7627><y_0.3828><class_Text>\n\n<x_0.0156><y_0.3836>Thofe veffels failed from England the beginning of September 1785; touched at the Falkland Iflands, Sandwich IIlands, and arrived in Cook's River in the month of August. From thence, after collecting a few furrs, they fleeced in the end of September for Prince William's Sound, intending, it is laid, to winter there; but were prevented entering, by heavy florms and extreme bad weather, which obliged them to bear away, and feek fome other part of the coaft to winter at. The florms and had weather accompanied them till they arrived off Nootka Sound, when they were fo near the shore, that a canoe came off to them: but though thus near accomplishing their purpose, a freth storm came on, and obliged them finally to bear away for the Sandwich Iflands, where they remained the winter months; and returning again to the coaft, arrived in Prince William's Sound the middle of May. The King George remained in Prince William's Sound; and during her, flay, her long-boat difcovered a new paffage from the Sound into Cook's River. The Queen Charlotte proceeded along the coaft to the fourth; looked into Behring's Bay, where the Ruffians have now a fettlement; examined that part of the coaft from 56 to 50%, which was not been by Captain Cook, and which conflicts of a chutter of illands, called by Captain Dixon Queen Charlotte's Ilandr, at a considerable distance from the Main, which is thus removed farther to the callward than it was fuppofed to be: fome part of the continent may, however, be fees from the caft ride of thefe iflands; and it is probable, the distance does not any where exceed 50 leagues. On this elimination, Hudson's Houfe, lat. 53° long. 106' 27 well, will not be more than 800 miles distant from that part of this coaft in the fame parallel. It is therefore not improbable, that the enterprising fpirit of our Canadian furriers may penetrate to this coaft (the communication with which is probably much facilitated by lakes or rivers), and add to the comforts and luxus<x_0.7598><y_0.9242><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2694,
+   "completion_tokens": 894,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

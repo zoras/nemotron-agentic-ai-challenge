@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "eaba927e1496a1eb515878bda6204e44c41b24167f90758abf8ccdf8c62371f0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9a1446adcb6d070d2d81a6735db760f7e74ea0dabcd049ae5d84609ff650703c",
+  "image_bytes": 375249,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+  "variant": "s1-wide",
+  "crop": [
+   0.0,
+   0.7468,
+   1.0,
+   0.8985
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 293,
+  "total_tokens": 604,
+  "completion_tokens": 311,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.52,
+ "created_at": "2026-10-18T11:11:45+00:00",
+ "content": "<x_0.0742><y_0.0>(v) In the courfe of this article, mention has often been made of the fenlibility or infenfiblity of different parts of the body: it will therefore, perhaps, not be amifs to obferve in this place, that many parts which were formerly luppofed to poffels the molt exquifite fenfe, are now known to have but little or no feeling, at leaf in a found flate; for in an inflamed flate, even the bones, the most infenible parts of any, become susceptible of the molt painful fenfations. This curious difecovery is due to the late Baron Haller. His experiments prove, that the bones, cartilages, ligaments, tendons, epidermis, and membranes (as the pleura, pericardium, dura and pia mater, periolteum, &c), may in a healthy flate be confidered as infenible. As fenlibibility depends on the brain and nerves, of course different parts will poffels a greater or lets degree of feeling, in proportion as they are lupplied with a greater or smaller number of nerves. Upon this principle it is, that the film, mufeles, Romach, intestines, urinary bladder, ureters, uterus, vagina, penis, tongue, and retina, are extremely fenlible, while the lungs and glands have only an obfecure degree of feeling.<x_0.8076><y_0.9961><class_Text>",
+ "reply": {
+  "id": "chatcmpl-0239f3f2-f3df-4657-a119-51cb9208b62f",
+  "object": "chat.completion",
+  "created": 1792321904,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0742><y_0.0>(v) In the courfe of this article, mention has often been made of the fenlibility or infenfiblity of different parts of the body: it will therefore, perhaps, not be amifs to obferve in this place, that many parts which were formerly luppofed to poffels the molt exquifite fenfe, are now known to have but little or no feeling, at leaf in a found flate; for in an inflamed flate, even the bones, the most infenible parts of any, become susceptible of the molt painful fenfations. This curious difecovery is due to the late Baron Haller. His experiments prove, that the bones, cartilages, ligaments, tendons, epidermis, and membranes (as the pleura, pericardium, dura and pia mater, periolteum, &c), may in a healthy flate be confidered as infenible. As fenlibibility depends on the brain and nerves, of course different parts will poffels a greater or lets degree of feeling, in proportion as they are lupplied with a greater or smaller number of nerves. Upon this principle it is, that the film, mufeles, Romach, intestines, urinary bladder, ureters, uterus, vagina, penis, tongue, and retina, are extremely fenlible, while the lungs and glands have only an obfecure degree of feeling.<x_0.8076><y_0.9961><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 293,
+   "total_tokens": 604,
+   "completion_tokens": 311,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

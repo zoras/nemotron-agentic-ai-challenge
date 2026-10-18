@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "1b3f1f0b8fc16b62379b18892fd52e5a3cbac44c18c336575da8bb21df9b1cad",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "7125a1e52d912f04d136be160292780c9105c407ca7eb77b943d5d35f91feb0f",
+  "image_bytes": 1902096,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:563",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4467,
+   0.0546,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0546,
+    0.1405,
+    0.4517
+   ],
+   [
+    0.1405,
+    0.2265,
+    0.455
+   ],
+   [
+    0.2265,
+    0.3124,
+    0.4583
+   ],
+   [
+    0.3124,
+    0.3984,
+    0.46
+   ],
+   [
+    0.3984,
+    0.4843,
+    0.46
+   ],
+   [
+    0.4843,
+    0.5703,
+    0.46
+   ],
+   [
+    0.5703,
+    0.6562,
+    0.46
+   ],
+   [
+    0.6562,
+    0.7422,
+    0.46
+   ],
+   [
+    0.7422,
+    0.8281,
+    0.46
+   ],
+   [
+    0.8281,
+    0.9141,
+    0.4633
+   ],
+   [
+    0.9141,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2919,
+  "completion_tokens": 991,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.59,
+ "created_at": "2026-10-18T11:10:26+00:00",
+ "content": "<x_0.0><y_0.0>open-mouthed, about it. Each priloner is attended with a familiar of the inquifition ; and thofe to be burnt have alfo a Jefuit on each hand, who are continually preaching to them to abjure. After the prifoners, comes a troop of familiars on horfeback ; and after them the inquifitors, and other officers of the court, on mules ; laft of all, the inquifitor general on a white horfe, led by two men with black hats and green hat-bands. A feaffold is erected in the _Terriero de Paio_, big enough for two or three thousand people ; at one end of which are the prifoners, at the other the inquifitors. After a fermon made up of encomiums of the inquilition, and invectives againft heretics, a priet afcends a defk near the middle of the feaffold, and having taken the abjura tion of the penitents, recites the final fentence of thofe who are to be put to death ; and delivers them to the fecular arm, earnestly befecching at the fame time the fecular power not to touch their blood, or put their lives in danger. The prifoners being thus in the hands of the civil magiftrate, are prefently loaded with chains, and carried firl to the fecular goal, and from thence in an hour or two brought before the civil judge; who, after afking in what religion they intend to die, pro nounces fentence, on fuch as declare they die in the communion of the church of Rome, that they shall be firll Irangled, and then burnt to afhes ; on fuch as die in any other faith, that they be burnt alive. Both are immediately carried to the Ribera, the place of execution ; where there are as many flakes fet up as there are prifoners to be burnt, with a quantity of dry furze about them. The flakes of the profelled, that is, fuch as perfilt in their herefy, are about four yards high, having a small board towards the top for the prifoner to be feated on. The negative and relapfed being firlt flrangled and burnt, the profelled mount their flakes by a ladder ; and the Jefuits, after feveral repeated exhortations to be reconciled to the church, part with them, telling them they leave them to the devil, who is standing at their elbow to receive their fouls, and carry them with him into the flames of hell. On this a great fhout is raified ; and the cry is. Let the dogs beards be made ; which is done by thrufling flaming furzes fattened to long poles against their faces, till their faces are burnt to a coal, which is accompanied with the loudeft acclamations of joy. At left, fire is fet to the furze at the bottom of the lake, over which the profelled are chained fo high, that the top of the flame feldom reaches higher than the feat they lit on ; fo that they rather feem roafted than burnt. There cannot be a more lamentable fpectacle ; the sufferers continually cry out, while they are able, _Mifericordia per amor de Dios_, \"Pity for the love of God!\" yet it is beheld by all fexes, and ages, with tranports of joy and satisfaction.<x_0.7373><y_0.7641><class_Text>\n\n<x_0.041><y_0.7586>Acr, in dramatic poetry, fignifies a certain divi tion, or part, of a play, deligned to give fome refpite both to the actors and fpectators. The Romans were the firl who divided their theatrical pieces into acts ; for no fuch divifions appear in the works of the firl dramatic poets. Their pieces indeed conflfted of feveral parts or divifions, which they called _protafis, epi tafis, catafiafis_, and _catafirophe_; but thefe divifions were not marked by any real interruptions on the theatre. Nor does Arillotle mention any thing of acts in his Art of Poetry. But, in the time of Horace, all regular and finished pieces were divided into five acts.<x_0.7461><y_0.9383><class_Text>",
+ "reply": {
+  "id": "chatcmpl-2c5f2f0c-f3ef-440b-972d-f79d364eb224",
+  "object": "chat.completion",
+  "created": 1792321824,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>open-mouthed, about it. Each priloner is attended with a familiar of the inquifition ; and thofe to be burnt have alfo a Jefuit on each hand, who are continually preaching to them to abjure. After the prifoners, comes a troop of familiars on horfeback ; and after them the inquifitors, and other officers of the court, on mules ; laft of all, the inquifitor general on a white horfe, led by two men with black hats and green hat-bands. A feaffold is erected in the _Terriero de Paio_, big enough for two or three thousand people ; at one end of which are the prifoners, at the other the inquifitors. After a fermon made up of encomiums of the inquilition, and invectives againft heretics, a priet afcends a defk near the middle of the feaffold, and having taken the abjura tion of the penitents, recites the final fentence of thofe who are to be put to death ; and delivers them to the fecular arm, earnestly befecching at the fame time the fecular power not to touch their blood, or put their lives in danger. The prifoners being thus in the hands of the civil magiftrate, are prefently loaded with chains, and carried firl to the fecular goal, and from thence in an hour or two brought before the civil judge; who, after afking in what religion they intend to die, pro nounces fentence, on fuch as declare they die in the communion of the church of Rome, that they shall be firll Irangled, and then burnt to afhes ; on fuch as die in any other faith, that they be burnt alive. Both are immediately carried to the Ribera, the place of execution ; where there are as many flakes fet up as there are prifoners to be burnt, with a quantity of dry furze about them. The flakes of the profelled, that is, fuch as perfilt in their herefy, are about four yards high, having a small board towards the top for the prifoner to be feated on. The negative and relapfed being firlt flrangled and burnt, the profelled mount their flakes by a ladder ; and the Jefuits, after feveral repeated exhortations to be reconciled to the church, part with them, telling them they leave them to the devil, who is standing at their elbow to receive their fouls, and carry them with him into the flames of hell. On this a great fhout is raified ; and the cry is. Let the dogs beards be made ; which is done by thrufling flaming furzes fattened to long poles against their faces, till their faces are burnt to a coal, which is accompanied with the loudeft acclamations of joy. At left, fire is fet to the furze at the bottom of the lake, over which the profelled are chained fo high, that the top of the flame feldom reaches higher than the feat they lit on ; fo that they rather feem roafted than burnt. There cannot be a more lamentable fpectacle ; the sufferers continually cry out, while they are able, _Mifericordia per amor de Dios_, \"Pity for the love of God!\" yet it is beheld by all fexes, and ages, with tranports of joy and satisfaction.<x_0.7373><y_0.7641><class_Text>\n\n<x_0.041><y_0.7586>Acr, in dramatic poetry, fignifies a certain divi tion, or part, of a play, deligned to give fome refpite both to the actors and fpectators. The Romans were the firl who divided their theatrical pieces into acts ; for no fuch divifions appear in the works of the firl dramatic poets. Their pieces indeed conflfted of feveral parts or divifions, which they called _protafis, epi tafis, catafiafis_, and _catafirophe_; but thefe divifions were not marked by any real interruptions on the theatre. Nor does Arillotle mention any thing of acts in his Art of Poetry. But, in the time of Horace, all regular and finished pieces were divided into five acts.<x_0.7461><y_0.9383><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2919,
+   "completion_tokens": 991,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "52061f80c6d83035305ce9daeac3591ec260d9ee939e31968d398ddea90aa036",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4b91119600b36298f469947964d4d7bb225ba0310fff5783f1f258be93c3a791",
+  "image_bytes": 111309,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0325,
+   1.0,
+   0.0693
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 138,
+  "total_tokens": 182,
+  "completion_tokens": 44,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.22,
+ "created_at": "2026-10-18T11:21:25+00:00",
+ "content": "<x_0.0><y_0.0>C A B (2 ) C A B\nwhich consists: this cabbala is divided into three. CABINET, or Cazalxz; the molt retired place is<x_0.999><y_0.9859><class_Text>",
+ "reply": {
+  "id": "chatcmpl-a04040e7-2a8d-4ad9-b389-589c82f5e0ec",
+  "object": "chat.completion",
+  "created": 1792322485,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>C A B (2 ) C A B\nwhich consists: this cabbala is divided into three. CABINET, or Cazalxz; the molt retired place is<x_0.999><y_0.9859><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 138,
+   "total_tokens": 182,
+   "completion_tokens": 44,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

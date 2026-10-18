@@ -1,0 +1,384 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1473",
+ "row_index": 1473,
+ "volume_id": "149979622",
+ "filename": "page-1473-b3b602ef6a3d.jpg",
+ "image_sha256": "b3b602ef6a3d4961fd1926a15d634a40ec929c15b00e2f7cc5109b3f7180daac",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07843,
+  "median_grey": 227,
+  "layout_body_chars": 6245,
+  "layout_pictures": 0
+ },
+ "running_head": "ESC 1723 I ESC",
+ "layout_raw": "page-1473-b3b602ef6a3d/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0341,
+    1.0,
+    0.0444
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1473-b3b602ef6a3d/head.json",
+   "finish_reason": "stop",
+   "request_key": "2672ebffcad37b471031cc691ed50bf9e6373e868a3ce55e4d6a0b9bba82a036"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0341,
+    0.4717,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0341,
+     0.1146,
+     0.4667
+    ],
+    [
+     0.1146,
+     0.1951,
+     0.4667
+    ],
+    [
+     0.1951,
+     0.2756,
+     0.4667
+    ],
+    [
+     0.2756,
+     0.3561,
+     0.4667
+    ],
+    [
+     0.3561,
+     0.4366,
+     0.4667
+    ],
+    [
+     0.4366,
+     0.5171,
+     0.4667
+    ],
+    [
+     0.5171,
+     0.5975,
+     0.4667
+    ],
+    [
+     0.5975,
+     0.678,
+     0.4667
+    ],
+    [
+     0.678,
+     0.7585,
+     0.4667
+    ],
+    [
+     0.7585,
+     0.839,
+     0.4667
+    ],
+    [
+     0.839,
+     0.9195,
+     0.4667
+    ],
+    [
+     0.9195,
+     1.0,
+     0.4667
+    ]
+   ],
+   "raw_path": "page-1473-b3b602ef6a3d/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "2b643ff88bec8c462a0e40dbfee38adcd771ed9c6bd34fc5b481f2bddc20c1f1"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4617,
+    0.0341,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0341,
+     0.1146,
+     0.4667
+    ],
+    [
+     0.1146,
+     0.1951,
+     0.4667
+    ],
+    [
+     0.1951,
+     0.2756,
+     0.4667
+    ],
+    [
+     0.2756,
+     0.3561,
+     0.4667
+    ],
+    [
+     0.3561,
+     0.4366,
+     0.4667
+    ],
+    [
+     0.4366,
+     0.5171,
+     0.4667
+    ],
+    [
+     0.5171,
+     0.5975,
+     0.4667
+    ],
+    [
+     0.5975,
+     0.678,
+     0.4667
+    ],
+    [
+     0.678,
+     0.7585,
+     0.4667
+    ],
+    [
+     0.7585,
+     0.839,
+     0.4667
+    ],
+    [
+     0.839,
+     0.9195,
+     0.4667
+    ],
+    [
+     0.9195,
+     1.0,
+     0.4667
+    ]
+   ],
+   "raw_path": "page-1473-b3b602ef6a3d/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "30476ec72bb64f329dcbb062cb9ed37be30f80ee52aa5fa85ba2e5a8f25e5581"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Page-header",
+   "text": "ESC 1723 I ESC",
+   "bbox": [
+    0.0732,
+    0.0391,
+    0.7461,
+    0.0414
+   ],
+   "parse_class": "Page-header",
+   "source": "layout",
+   "id": "page-1473-b3b602ef6a3d:b0"
+  },
+  {
+   "order": 1,
+   "class": "Text",
+   "text": "ESARHADDON, the fon of Scnnacherib, and his fuceeffor in the kingdom of Afiyria. He is laid to have reigned 29 years at Nineveh, from the year 3294 to 3322; befides which he reigned 13 years at Baby- lon, in all 42 years. He died in the year of the world 3336, and was succeeded by Saofduchinus. Efar- haddon, in the opinion of Sir Ifame Newton, feems to be the Sardanapalus who died, as Clettarchus fays, of old age, after the revolt of Syria; the name _Sardana- palus_ being derived from _Afferbadon Pul._",
+   "bbox": [
+    0.0756,
+    0.0402,
+    0.4629,
+    0.1805
+   ],
+   "source": "s0-col-left",
+   "id": "page-1473-b3b602ef6a3d:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "ESCALADE, or SCALADE, a furious attack of a wall or a rampart; carried on with laders, to pafs the ditch or mount the rampart; without proceeding in form, breaking ground, or carrying on regular works to secure the men.",
+   "bbox": [
+    0.0769,
+    0.1782,
+    0.4634,
+    0.2461
+   ],
+   "source": "s0-col-left",
+   "id": "page-1473-b3b602ef6a3d:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "When the troops are prepared to pafs the ditch, either with the affiltance of boards, hurdles, and fat- cines, when it is muddy, or with fmall boats of tin, or balkets covered with kins or oil-cloth, when it is deep and filled with water, a party must be placed on the counterfearp, oppofite to the landing-place, ready to fire at the garrifon if they are alarmed, and oppofe the mounting on the rampart. If the ditch is dry, the ladders are fixed in fome place fartheit dilant from the centry; and as foon as they get upon the rampart, they put themfelves in order to receive the enemy; if the century should be furprified and filently overcome, the detachment haften to break open the gate, and to let in the rest of the party. If the ditch is wet, the rampart high, and provided with a revetement, it will be difficult to furprefe the town in this way; but if there is no revetement, the troops may hide themfelves along the outside of the rampart till all are over. Since the invention and ufe of gunpowder, and the walls of cities have been flanked, they are feldom taken by efcalade.",
+   "bbox": [
+    0.0765,
+    0.2447,
+    0.4639,
+    0.5284
+   ],
+   "source": "s0-col-left",
+   "id": "page-1473-b3b602ef6a3d:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "ESCALLONIA, in botany: A genus of the mo- nogynia order, belonging to the pentandria clafs of plants. The fruit is bilocular and polyfpermous; the petals diflant and tongue-shaped; the fligma headed.",
+   "bbox": [
+    0.076,
+    0.5276,
+    0.4625,
+    0.5827
+   ],
+   "source": "s0-col-left",
+   "id": "page-1473-b3b602ef6a3d:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "ESCAPE, in law; a violent or privy evation out of fome lawful relitraint, without being delivered by due courfe of law. There are two forts of cfcapes, voluntary and negligent. Voluntary, when a man arrefits another for felony, or other crime, and afterwards lets him go freely by confent; in which cafe, the party that permits fuch efcape is held guilty, committed, and mult anfwer for it. Negligent efcape, on the contrary, is where one is arrested, and afterwards efcapes against the will of the perfon that arrested him, and is not purfued with freth fuit, and retaken before the perion purfuing hath loft fight of him. By flat. 8 and 9 Will. III. c. 26. the keepers of prifons conniving at efcapes fhall forfeit 500; and in civil cafes the fleiriff is anfwerable for the debt.",
+   "bbox": [
+    0.0751,
+    0.5812,
+    0.4643,
+    0.7819
+   ],
+   "source": "s0-col-left",
+   "id": "page-1473-b3b602ef6a3d:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "ESCHALOT, or SHALLOT. See ALLIUM.",
+   "bbox": [
+    0.0953,
+    0.7811,
+    0.4229,
+    0.7955
+   ],
+   "source": "s0-col-left",
+   "id": "page-1473-b3b602ef6a3d:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "ESCHAR, in surgery, the crult or fcab occationed by burns or cauffic medicines.",
+   "bbox": [
+    0.0774,
+    0.7963,
+    0.462,
+    0.8227
+   ],
+   "source": "s0-col-left",
+   "id": "page-1473-b3b602ef6a3d:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "ESCHARA, in natural history, the name of a fp-cies of coralline, &c. the characters of which are their: they are of a flony or coral-like hardnefs, and refemble a woven cloth in their texture; and the microfcope in-forms us, that they conflict of arrangements of very small cells, whose surfaces appear much in that form.",
+   "bbox": [
+    0.0778,
+    0.8219,
+    0.4616,
+    0.9064
+   ],
+   "source": "s0-col-left",
+   "id": "page-1473-b3b602ef6a3d:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Linnaeus makes it a fpecies of millepora, in the clafs of lithophytes. See Plate CXLVIII, fig. 9.10.",
+   "bbox": [
+    0.4696,
+    0.0409,
+    0.857,
+    0.0711
+   ],
+   "source": "s0-col-right",
+   "id": "page-1473-b3b602ef6a3d:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "The narrow-leaved hornwrack, fig. 9. divides as it rifes, into narrow leaves made up of regular rows of oblong fuare-fhaped cells placed alternately by each other, and opposite to an equal number on the other file of the leaf, like an honeycomb: from thefe leaves proceed other till smaller foliaccous ramifications, many of which feem to be connected at the lower part by tubuli, as in the corallines; by which means they can ply to and fro more freely in the water—c, Gives the natural appearance of this coralline. E reprefents two leaves with their tubuli and cells magnified. E is a crofs fection of one of the leaves at E, flowing the partition and inner form of their cells.",
+   "bbox": [
+    0.4706,
+    0.0703,
+    0.8554,
+    0.2454
+   ],
+   "source": "s0-col-right",
+   "id": "page-1473-b3b602ef6a3d:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "The broad-leaved hornwrack, fig. 10. when fresh taken out of the tea, is of a fpongy foft texture, and fmells very filthy; but when it has lain for fome time on the floors, it becomes fltif and horny, like fome fort of withered leaves. Both furfaces, when examined by glaffles, appear to be covered with cells; and, when a piece of it is cut acrofs, one may difcover the thin membrane that ferves as a bate to the cells of each fur face. The form of the cells is very remarkable, each one being arched at the top, and contracted a little at the lower part of the fides to make way for the arches of the two next adjoining cells; fo that by this particular construction no room is loft. The entrance of the cells is immediately under the arch of each cell, and the walls of the cells feem to be fortified with spines. Juffieu difeovered fmall polypes extending themfelves out of thefe cells, which he has described in the memoirs of the Academy of Sciences 1742.-- f, Gives the natural appearance of a leafy branch of this coralline. F is a part of a leaf magnified to how the superficial figure of the cells, and the manner in which they are dipofed. F i flows a crofa fection of a leaf, and difcovers the several partitions of the cells.",
+   "bbox": [
+    0.4685,
+    0.2447,
+    0.8549,
+    0.5676
+   ],
+   "source": "s0-col-right",
+   "id": "page-1473-b3b602ef6a3d:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "At the entrance of many of the cells a fmall tefla-ceous body like a bivalve shell is dicovered : F 2, the figure of the cell, with the fhell in it; it is of a transfparent amber colour, fo clear that one may fee the dead animal through it, reprefented by the black fpot.",
+   "bbox": [
+    0.4691,
+    0.5669,
+    0.8544,
+    0.6491
+   ],
+   "source": "s0-col-right",
+   "id": "page-1473-b3b602ef6a3d:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "ESCHEAT, in law, signifies any lands or tenements that cafually fall to a lord within his manor. It is one of the consequences of tenure in chivalry : (See _Foodal System, KnIGHT-Service_, and TENURE). It is the determination of the tenure or diffusion of the mutual bond between the lord and tenant, from the extinction of the blood of the latter by either natural or civil means : if he died without heirs of his blood, or if his blood was corrupted and stained by commiffion of treafon or felony; whereby every inheritable quality was entirely blotted out and abolished. In fuch cafes the land efcheated or fell back to the lord of the fee; that is, the tenure was determined by breach of the original condition, expreffed or implied in the feodal donation. In the one case, there were no heirs fulfilling of the blood of the first tendency or purchafer, to which heirs alone the grant of the feud extended: in the other, the tenant, by perpetrating an atrocious crime, thowed that he was no",
+   "bbox": [
+    0.468,
+    0.6476,
+    0.8533,
+    0.905
+   ],
+   "source": "s0-col-right",
+   "id": "page-1473-b3b602ef6a3d:b13"
+  },
+  {
+   "order": 14,
+   "class": "Page-footer",
+   "text": "4 Y 2 longer",
+   "bbox": [
+    0.6326,
+    0.9034,
+    0.8481,
+    0.9193
+   ],
+   "source": "s0-col-right",
+   "id": "page-1473-b3b602ef6a3d:b14"
+  }
+ ]
+}

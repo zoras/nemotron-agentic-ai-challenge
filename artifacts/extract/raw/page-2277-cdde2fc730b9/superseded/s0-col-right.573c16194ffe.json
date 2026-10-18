@@ -1,0 +1,114 @@
+{
+ "request": {
+  "key": "573c16194ffecb2528b7fb49f0c60d39c2f720372c3a20b3f13414150dd307e0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9964920106d8a5b88b07717b522ab73ec059e7297f3387a86780b90dd1f86565",
+  "image_bytes": 1400302,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+  "variant": "s0-col-right",
+  "crop": [
+   0.44,
+   0.0889,
+   1.0,
+   0.7468
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0889,
+    0.1711,
+    0.4467
+   ],
+   [
+    0.1711,
+    0.2534,
+    0.4467
+   ],
+   [
+    0.2534,
+    0.3356,
+    0.4467
+   ],
+   [
+    0.3356,
+    0.4179,
+    0.445
+   ],
+   [
+    0.4179,
+    0.5001,
+    0.4467
+   ],
+   [
+    0.5001,
+    0.5823,
+    0.4467
+   ],
+   [
+    0.5823,
+    0.6646,
+    0.4467
+   ],
+   [
+    0.6646,
+    0.7468,
+    0.4467
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1560,
+  "total_tokens": 2236,
+  "completion_tokens": 676,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.01,
+ "created_at": "2026-10-18T11:11:44+00:00",
+ "content": "<x_0.0186><y_0.0>coftals, which fupply the flomach and chylopoietic vifcera. 22 22, Branches of the fuperior and inferior mefenteric plexufes, formed by the eighth pair and in-tercoftals, which fupply the chylopoietic vificera, with part of the organs of urine and generation. 23 23, Nerves which accompany the fpermatic cord. 24 24, The hypogattic plexus, which fupplies the organs of urine and generation within the pelvis.<x_0.6572><y_0.1523><class_Text>\n\n<x_0.0234><y_0.1617>FIG. 2, 3, 4, 5. Show different views of the Inferior part of the Brain, cut perpendicularly through the Middle--with the Origin and large portions of all the Nerves which pass out through the Bones of the Cranium,—and the three frit Cervicals.<x_0.6582><y_0.2602><class_Caption>\n\n<x_0.0195><y_0.257>A, The anterior lobe. B, The lateral lobe of the cerebrum. C, One of the lobes of the cerebellum. D, Tuber annulare. E, Corpus pyramidale, in the middle of the medulla oblongata. F, The corpus olivare, in the fide of the medulla oblongata. G, The medulla oblongata. H, The medulla ipinalis.<x_0.6543><y_0.3734><class_Text>\n\n<x_0.0205><y_0.3695>NERVES.—I 2 3 4 5 6 7 8 and 9, Pairs of nerves. 10 10, Nervus acceforius, which comes from—II, 12, and 13, the three frit cervical nerves.<x_0.6553><y_0.4328><class_Text>\n\n<x_0.002><y_0.4633>ES, AND THEIR ORGANS.<x_0.4092><y_0.4914><class_Section-header>\n\n<x_0.0176><y_0.5188>lidity, moisture, inequality, fmoothness, drynefs, or fluidity, and likewise their degree of heat, feem all to be capable of making different impreffions on the pa- pillae, and consequently of exciting different ideas in the fenforium commune. But the organ of touch, like all the other fenfes, is not equally delicate in every part of the body, or in every subject; being in fome much more exquifite than it is in others.<x_0.6562><y_0.6781><class_Text>\n\n<x_0.207><y_0.6891>SECT. II. Of Tafe.<x_0.4629><y_0.7172><class_Section-header>\n\n<x_0.0166><y_0.7258>The fenfe of tafe is feated chiefly in the tongue; the fituation and figure of which are fulliciently known.<x_0.6533><y_0.7695><class_Text>\n\n<x_0.0156><y_0.7664>On the upper surface of this organ we may observe a great number of papillae, which, on account of their difference in fize and shape, are commonly divided into three clades. The largest are situated towards the basis of the tongue. Their number commonly varies from fevern to nine, and they feem to be mucous follicles. Thofe of the fecond clafs are fomewhat smaller, and of a cylindrical shape. They are most numerous about the middle of the tongue. Thofe of the third clafs are very minute, and of a conical shape. They<x_0.6523><y_0.9617><class_Text>\n\n<x_0.6836><y_0.7359>142<x_0.7285><y_0.7555><class_Page-footer>\n\n<x_0.6045><y_0.9602>are<x_0.6475><y_0.9766><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-eb9aaef9-5f0b-4b8f-91eb-85665f44269b",
+  "object": "chat.completion",
+  "created": 1792321903,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0186><y_0.0>coftals, which fupply the flomach and chylopoietic vifcera. 22 22, Branches of the fuperior and inferior mefenteric plexufes, formed by the eighth pair and in-tercoftals, which fupply the chylopoietic vificera, with part of the organs of urine and generation. 23 23, Nerves which accompany the fpermatic cord. 24 24, The hypogattic plexus, which fupplies the organs of urine and generation within the pelvis.<x_0.6572><y_0.1523><class_Text>\n\n<x_0.0234><y_0.1617>FIG. 2, 3, 4, 5. Show different views of the Inferior part of the Brain, cut perpendicularly through the Middle--with the Origin and large portions of all the Nerves which pass out through the Bones of the Cranium,—and the three frit Cervicals.<x_0.6582><y_0.2602><class_Caption>\n\n<x_0.0195><y_0.257>A, The anterior lobe. B, The lateral lobe of the cerebrum. C, One of the lobes of the cerebellum. D, Tuber annulare. E, Corpus pyramidale, in the middle of the medulla oblongata. F, The corpus olivare, in the fide of the medulla oblongata. G, The medulla oblongata. H, The medulla ipinalis.<x_0.6543><y_0.3734><class_Text>\n\n<x_0.0205><y_0.3695>NERVES.—I 2 3 4 5 6 7 8 and 9, Pairs of nerves. 10 10, Nervus acceforius, which comes from—II, 12, and 13, the three frit cervical nerves.<x_0.6553><y_0.4328><class_Text>\n\n<x_0.002><y_0.4633>ES, AND THEIR ORGANS.<x_0.4092><y_0.4914><class_Section-header>\n\n<x_0.0176><y_0.5188>lidity, moisture, inequality, fmoothness, drynefs, or fluidity, and likewise their degree of heat, feem all to be capable of making different impreffions on the pa- pillae, and consequently of exciting different ideas in the fenforium commune. But the organ of touch, like all the other fenfes, is not equally delicate in every part of the body, or in every subject; being in fome much more exquifite than it is in others.<x_0.6562><y_0.6781><class_Text>\n\n<x_0.207><y_0.6891>SECT. II. Of Tafe.<x_0.4629><y_0.7172><class_Section-header>\n\n<x_0.0166><y_0.7258>The fenfe of tafe is feated chiefly in the tongue; the fituation and figure of which are fulliciently known.<x_0.6533><y_0.7695><class_Text>\n\n<x_0.0156><y_0.7664>On the upper surface of this organ we may observe a great number of papillae, which, on account of their difference in fize and shape, are commonly divided into three clades. The largest are situated towards the basis of the tongue. Their number commonly varies from fevern to nine, and they feem to be mucous follicles. Thofe of the fecond clafs are fomewhat smaller, and of a cylindrical shape. They are most numerous about the middle of the tongue. Thofe of the third clafs are very minute, and of a conical shape. They<x_0.6523><y_0.9617><class_Text>\n\n<x_0.6836><y_0.7359>142<x_0.7285><y_0.7555><class_Page-footer>\n\n<x_0.6045><y_0.9602>are<x_0.6475><y_0.9766><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1560,
+   "total_tokens": 2236,
+   "completion_tokens": 676,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,247 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1580",
+ "row_index": 1580,
+ "volume_id": "144133903",
+ "filename": "page-1580-e0bdcd3f241e.jpg",
+ "image_sha256": "e0bdcd3f241e27ff8e01ab1d9d2d473bc5373e9ac54cdbd1887cf0407fbf0eaa",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09412,
+  "median_grey": 218,
+  "layout_body_chars": 1948,
+  "layout_pictures": 0
+ },
+ "running_head": "T R I G O N O M E T R Y. 909",
+ "layout_raw": "page-1580-e0bdcd3f241e/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0106,
+    1.0,
+    0.0405
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1580-e0bdcd3f241e/head.json",
+   "finish_reason": "stop",
+   "request_key": "ea507058861a013bf22035ccf22ae018b42acf1644d0f6ef6178bf50a778738a"
+  },
+  {
+   "label": "s0-wide.a",
+   "crop": [
+    0.0,
+    0.0106,
+    1.0,
+    0.5244
+   ],
+   "scale": 2,
+   "raw_path": "page-1580-e0bdcd3f241e/s0-wide.a.json",
+   "finish_reason": "stop",
+   "request_key": "45895d5e0621175fcd7dca83dab0f333fe3a99ce37e47529f531abc6249c3728"
+  },
+  {
+   "label": "s0-wide.b",
+   "crop": [
+    0.0,
+    0.5244,
+    1.0,
+    1.0
+   ],
+   "scale": 2,
+   "raw_path": "page-1580-e0bdcd3f241e/s0-wide.b.json",
+   "finish_reason": "stop",
+   "request_key": "070d10079bd58df1f73769a1a714f3cba721dc58c7dd0854233b07ae7161b4a0"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "T R I G O N O M E T R Y. 909",
+   "bbox": [
+    0.0,
+    0.0106,
+    1.0,
+    0.0405
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1580-e0bdcd3f241e:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "TRIGONOMETRY.",
+   "bbox": [
+    0.2539,
+    0.0182,
+    0.6924,
+    0.0367
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-wide.a",
+   "id": "page-1580-e0bdcd3f241e:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "909",
+   "bbox": [
+    0.8545,
+    0.0219,
+    0.8955,
+    0.0371
+   ],
+   "parse_class": "Text",
+   "source": "s0-wide.a",
+   "id": "page-1580-e0bdcd3f241e:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Is to their difference 21 ' 1.32222 So is the tangent of half the fum of? the angles D and C 61° 58' 10.27372 To the tangent of half their difference 7° 50' 9.13806 So by theorem 3. we have the angles D and C thus: To half the fum of the angles D and C 61° 58' Add half their difference 7° 50' And the fum is the greater angle D 69° 48' Alfo, from half the fum 61° 58' Take half the difference 7° 50' And there remains the leffer angle C 54° 08' Then by Cafe II. we have the following analogy for finding DC the leg required, viz. S.C: B D :: S, B: DC. i. e. As the fine of C 54° 08' To BD 133 2.12385 So is the fine of B 56° 03' 9.91883 To DC 136.2 2.13399 Case VI. Three fides being given, to find the angles. EXAMPLE: In the triangle A B C (ibid n° 9.) fuppofe AB=156, AC=185.7, and BC=84; required the angles A, B, and C.",
+   "bbox": [
+    0.043,
+    0.0391,
+    0.4648,
+    0.3731
+   ],
+   "source": "s0-wide.a",
+   "id": "page-1580-e0bdcd3f241e:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "I. _Geometrically_: Make AC=185.7 from any line of e-qual parts; and from the fame line taking I 56=AB in your compaßes, fix one foot of them in A, and with another fweep an arch; then take 84=BC in your compaßes, and fixing one foot in C, with the other fweep an arch, which will crofs the former in B: lafly, join the points B and A, and B and C; fo the triangle will be contructed, and the angles may be measured by a line of chords.",
+   "bbox": [
+    0.0439,
+    0.3723,
+    0.4658,
+    0.483
+   ],
+   "source": "s0-wide.a",
+   "id": "page-1580-e0bdcd3f241e:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "II. _By calculation_: Let fall the perpendicular, B D, from the vertex B, upon the bafe AC; which will divide the bafe into two fragments AD and DC, the lengths where-",
+   "bbox": [
+    0.0449,
+    0.4823,
+    0.4639,
+    0.5236
+   ],
+   "source": "s0-wide.a",
+   "id": "page-1580-e0bdcd3f241e:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "Alfo the angle C is found by the fame cafe, thus: As BC 84 1.92428 To CD 46.3 To CD 1 66558 So is the radius 90° 10 00000 To the co.fine of C 56° 30° 9 74130 Having found the two angles A and C, we have the third, B, by taking the fum of the other two from 180, thus: The fum of all the three angles is 180° The fum of A and C is 83° 10' The angle B is 96° 50' All the proportions ufed for the folutions of the feveral cafes in plain trigonometry, may be performed by the feale and compaßs. On the feale there are feveral logarithmic lines, viz one of numbers, another of fines, and one of tangents, Ec. And the way of working a proportion by thefe is this, viz, extend your compaßes from the frit term of your portion, found on the feale, to the fecond; and with that extent, fixing one foot in the third term, the other will reach the fourth term required.",
+   "bbox": [
+    0.4727,
+    0.0387,
+    0.8945,
+    0.3474
+   ],
+   "source": "s0-wide.a",
+   "id": "page-1580-e0bdcd3f241e:b6"
+  },
+  {
+   "order": 7,
+   "class": "Section-header",
+   "text": "SPHERICAL TRIGONOMETRY.",
+   "bbox": [
+    0.502,
+    0.3558,
+    0.8643,
+    0.3739
+   ],
+   "source": "s0-wide.a",
+   "id": "page-1580-e0bdcd3f241e:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "SPHERICAL TRIGONOMETRY is the art whereby, fromthree given parts of a fpherical triangle, we discover the relt; and, like plane trigonometry, is either right-angled, or oblique-angled. But before we give the analogies for the foliation of the feveral cafes in either, it will be proper to premife the following theorems.",
+   "bbox": [
+    0.4736,
+    0.3843,
+    0.8965,
+    0.4682
+   ],
+   "source": "s0-wide.a",
+   "id": "page-1580-e0bdcd3f241e:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "THEOREM I. In all right-angled spherical triangles, the fine of the hypothenufe: radius : fine of a leg : fine of its opposite angle. And the fine of a leg: radius : tan-gent of the other leg: tangent of its opposite angle.",
+   "bbox": [
+    0.4746,
+    0.4678,
+    0.8936,
+    0.5232
+   ],
+   "source": "s0-wide.a",
+   "id": "page-1580-e0bdcd3f241e:b9"
+  },
+  {
+   "order": 10,
+   "class": "Table",
+   "text": "\\begin{tabular}{cc}\nof may be found by theorem 4. thus: & \\\\\nAs the bafe AC 185 7 & 2 26893\\\\\nTo the fum of the fides AB and BC 240 & 2 38031\\\\\nSo is the difference of the fides 72 & 1 85733\\\\\nTo the diff. of the fragments of the bafe 93 & 1.96871\\\\\nAnd having the fum of the legments _viz_. the whole bafe, and their difference, we find the legments themfelves, by theorem 3. thus: & \\\\\nTo half the fum of the legments & 92.8\\\\\nAnd half their difference & 46.5\\\\\nAnd the fum is the greater fragment AD & 139.3\\\\\nAlfo from half the fum of the legment & 92.8\\\\\nTake half their difference & 46.5\\\\\nThe remainder is the leffer segment DC & 46.3\\\\\nNow the triangle ABC is divided, by the perpendicular DB, into two right-angled triangles, ADB and DBC; in the drift of which are given the hypothenule AB=156, and the bafe AD=139.3, to find the oblique angles, for which we have (by Cafe V. of rectangular trigonometry) the following analogy, viz. & \\\\\nAs AB 156 & 2.19312\\\\\nTo AD 139 3 & 2.14395\\\\\nSo is the radius 90° & 10 00000\\\\\nTo the co-face of the angle A 26° 40' & 9.95083\\\\\n\\end{tabular}",
+   "bbox": [
+    0.0439,
+    0.5244,
+    0.4619,
+    0.9138
+   ],
+   "source": "s0-wide.b",
+   "id": "page-1580-e0bdcd3f241e:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "DEMONSTRATION. Let EDA F G (_ibid._ fig. 3.) re-prefent the eighth part of a fphere, where the quadrantal planes EDFG, EDBC, are both perpendicular to the quadrantal plane ADFB; and the quadrantal plane ADGC is perpendicular to the plane EDFG; and the spherical tri-angle ABC is right-angled at B, where CA is the hypo- thenufe, and BA, BC, are the legs.",
+   "bbox": [
+    0.4727,
+    0.5244,
+    0.8936,
+    0.6203
+   ],
+   "source": "s0-wide.b",
+   "id": "page-1580-e0bdcd3f241e:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "To the arches GF. CB, draw the tangents HF, OB, and the fines GM CI on the radii DF DB; alfo draw BL the fine of the arch AB, and CK the fine of AC; and then join IK and OL Now HF, OB, GM, CI, are all perpendicular to the plane ADFB. And HD, GK, OL, lie all in the fame plane ADGC. Alfo FD, IK, BL, lie all in the fame plane ADGC. Therefore, the right-angled triangles HFD, CIK, ODL, having the equal angles HDF, CKI, OLB, are familiar. And CK :DG :: CI :GM; that is, as the fine of the hypothenute rad. :: fine of a leg: fine of its opposite angle. For GM is the fine of the arc GF, which measures the angle CAB. Alfo, LB: DF :: BO : FH; that is, as the fine of a leg: radius :: tangent of the other leg : tangent of its opposite angle, Q. E. D. Hence it follows, that the fines of the angles of any oblique fspherical triangle ACD (_ibid. n° 2.) are to one ano-ther, directly, as the fines of the opposite fides. Hence it alfo follows, that, in right-angled spherical triangles, having the fame perpendicular, the fines of the bafes will be to each other, inverfely, as the tangents of the angles at the bafes.",
+   "bbox": [
+    0.4717,
+    0.6206,
+    0.8945,
+    0.9119
+   ],
+   "source": "s0-wide.b",
+   "id": "page-1580-e0bdcd3f241e:b12"
+  },
+  {
+   "order": 13,
+   "class": "Page-footer",
+   "text": "THISORM",
+   "bbox": [
+    0.8115,
+    0.9097,
+    0.8916,
+    0.925
+   ],
+   "source": "s0-wide.b",
+   "id": "page-1580-e0bdcd3f241e:b13"
+  }
+ ]
+}

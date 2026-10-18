@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "871c81f1a69d647fd5a1d450728ef77c81be325ea0cab45159244509c889cb6c",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "12e334b9f42d634f0361734c5817f87ee23c1e37b53a64b2f450f4db4d3be9bc",
+  "image_bytes": 142978,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2446",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.045,
+   1.0,
+   0.0825
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 221,
+  "completion_tokens": 57,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.16,
+ "created_at": "2026-10-18T11:21:21+00:00",
+ "content": "<x_0.0><y_0.0>C7 H E M3 I SM T RH Y.D 177\nbe in powder when shaken it is a fign the operation hath ed, we find a real fulghur flicking in the neck of the ma-<x_0.999><y_0.9867><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-d7cc7f0f-3c25-453b-beae-38e52baef971",
+  "object": "chat.completion",
+  "created": 1792322481,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>C7 H E M3 I SM T RH Y.D 177\nbe in powder when shaken it is a fign the operation hath ed, we find a real fulghur flicking in the neck of the ma-<x_0.999><y_0.9867><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 221,
+   "completion_tokens": 57,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

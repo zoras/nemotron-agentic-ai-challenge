@@ -1,0 +1,444 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:115",
+ "row_index": 115,
+ "volume_id": "191809866",
+ "filename": "page-0115-9730fa72203a.jpg",
+ "image_sha256": "9730fa72203a62f8a1e7c163a1580032ab504daa705230f8112822b00f8bafc1",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.08235,
+  "median_grey": 221,
+  "layout_body_chars": 6735,
+  "layout_pictures": 0
+ },
+ "running_head": "690 B L E A C H I N G. Part II",
+ "layout_raw": "page-0115-9730fa72203a/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0598,
+    1.0,
+    0.0889
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0115-9730fa72203a/head.json",
+   "finish_reason": "stop",
+   "request_key": "8f8a8a43bcbde716810b130ab926d2c367ef01e874572717357ba5bd634e99ad"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0598,
+    0.5367,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0598,
+     0.1453,
+     0.5317
+    ],
+    [
+     0.1453,
+     0.2307,
+     0.5267
+    ],
+    [
+     0.2307,
+     0.3162,
+     0.5267
+    ],
+    [
+     0.3162,
+     0.4017,
+     0.5267
+    ],
+    [
+     0.4017,
+     0.4872,
+     0.5267
+    ],
+    [
+     0.4872,
+     0.5726,
+     0.5267
+    ],
+    [
+     0.5726,
+     0.6581,
+     0.5267
+    ],
+    [
+     0.6581,
+     0.7436,
+     0.5267
+    ],
+    [
+     0.7436,
+     0.8291,
+     0.5267
+    ],
+    [
+     0.8291,
+     0.9145,
+     0.5267
+    ],
+    [
+     0.9145,
+     1.0,
+     0.5267
+    ]
+   ],
+   "raw_path": "page-0115-9730fa72203a/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "a1e3defa36e58241bfe840e79c71cb8f6e946df53961db451c0aa9273a2fbae3"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5217,
+    0.0598,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0598,
+     0.1453,
+     0.5317
+    ],
+    [
+     0.1453,
+     0.2307,
+     0.5267
+    ],
+    [
+     0.2307,
+     0.3162,
+     0.5267
+    ],
+    [
+     0.3162,
+     0.4017,
+     0.5267
+    ],
+    [
+     0.4017,
+     0.4872,
+     0.5267
+    ],
+    [
+     0.4872,
+     0.5726,
+     0.5267
+    ],
+    [
+     0.5726,
+     0.6581,
+     0.5267
+    ],
+    [
+     0.6581,
+     0.7436,
+     0.5267
+    ],
+    [
+     0.7436,
+     0.8291,
+     0.5267
+    ],
+    [
+     0.8291,
+     0.9145,
+     0.5267
+    ],
+    [
+     0.9145,
+     1.0,
+     0.5267
+    ]
+   ],
+   "raw_path": "page-0115-9730fa72203a/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "0528f99b10e0fad253397bc936c0a57d37b587b1f75aaa448115abe9dd837726"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "690 B L E A C H I N G. Part II",
+   "bbox": [
+    0.0,
+    0.0598,
+    1.0,
+    0.0889
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0115-9730fa72203a:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "690",
+   "bbox": [
+    0.0975,
+    0.0642,
+    0.1373,
+    0.0848
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0115-9730fa72203a:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "**B L E A C**",
+   "bbox": [
+    0.3653,
+    0.065,
+    0.5362,
+    0.0877
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-0115-9730fa72203a:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "Vegetable Subdistances.",
+   "bbox": [
+    0.097,
+    0.0841,
+    0.1651,
+    0.1186
+   ],
+   "source": "s0-col-left",
+   "id": "page-0115-9730fa72203a:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "time, and repeated proofs of the good quality of the fluid. At the end of eight hours diffillation, I drew off one-fourth of the contents of the veffel; a fecond fourth two hours afterwards; a third fourth after ten hours and a half, or eleven hours ; and the reft after twelve hours diftillation, which formed the conclusion.",
+   "bbox": [
+    0.1609,
+    0.0855,
+    0.5267,
+    0.1634
+   ],
+   "source": "s0-col-left",
+   "id": "page-0115-9730fa72203a:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "\" When the liquor is entirely drawn off from the veffel, it must again be immediately filled with water, or at least to the height of five or fix inches above the return of the leaden tube, otherwise the gas, which continues to escape from the difilling veffel and then affords no refillance, might attack the pneumatic veffel itself.",
+   "bbox": [
+    0.1604,
+    0.1619,
+    0.5252,
+    0.2478
+   ],
+   "source": "s0-col-left",
+   "id": "page-0115-9730fa72203a:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "250. \" The fire muft be taken from beneath the retort as foon as the diftillation is finished, not only to prevent the effect of the gafcous vapours, which fill continue flowly to escape, from acting on the fides of the tub, but likewise to diffuse the retorts or bodies to receive a quantity of warm water, which is to be poured in up to the neck. There is no realon to fear an excess of quantity, and the hotter the veffels are the better. It is effential, however, that it be not poured in cold, for fear of breaking the glafs. The adopter is then to be unluted from the neck of the leaden tube, if the operator choofes ; and in order that no vapour may escape into the workhop, a bit of lute or a cork may be applied to the beak of the adopter. The land bath easily permits the retort to be raifed and returned again to its place, as well as the application of the lute or flopper to the neck of the adopter, this latt being raifed with one hand while the cork is put in with the other.",
+   "bbox": [
+    0.1556,
+    0.2471,
+    0.5257,
+    0.4829
+   ],
+   "source": "s0-col-left",
+   "id": "page-0115-9730fa72203a:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "\" Neverthelefs, as the lutes which connect the adopter with the retort are fomewhat footened towards the end of the operation, it would be more prudent to leave every thing in its place, for fear of deranging those lutes. This danger is greater when the adopter is of lead, because the great length of this additional piece tends to force the luting fill more on that account. If it be required to proceed immediately to a new dif- tillation, the retort or bottle with its capfule or pan muft be immediately taken from the furnace, and another fulllituted in its place ready prepared during the former diftillation. This necessarily requires a double fet of veffels.",
+   "bbox": [
+    0.1531,
+    0.4814,
+    0.5246,
+    0.6423
+   ],
+   "source": "s0-col-left",
+   "id": "page-0115-9730fa72203a:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "251. \" When the difilling veffel is cold, or nearly so, the whole of its contents muft be shaken, by hold- ing this veffel by the neck with one hand, and apply- ing the other to its bottom. The flopper muft then he taken out, and the veffel fpecdily inverted, shaking the refdue to facilitate its escape. In this laft fitua- tion the retort is to be held by its neck with one hand, and its fide gently reling against the other. The vef- fels into which the water and residual matter of the retorts are poured, should rather be of floneware, pot- tery, or lead, than of wood, unless thefe latt be oil vef- fels, which are lefs subject to dry in the part above the fluid. If this circumstance be not attended to, there will be danger of lofing great part of the contents.",
+   "bbox": [
+    0.1525,
+    0.6416,
+    0.5157,
+    0.8164
+   ],
+   "source": "s0-col-left",
+   "id": "page-0115-9730fa72203a:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "\" It is most convenient to difengage the retorts or bodies while they are fill warm, which continues to be the cafe the next morning after distillation, in con- fequence of the heat of the land bath. If they be left to cool entirely, the fulphate of foda will cryfallize, and it will be necessary to diffusive in hot water such",
+   "bbox": [
+    0.152,
+    0.8149,
+    0.5163,
+    0.8921
+   ],
+   "source": "s0-col-left",
+   "id": "page-0115-9730fa72203a:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "**H I N G.**",
+   "bbox": [
+    0.5506,
+    0.0679,
+    0.6926,
+    0.0877
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b10"
+  },
+  {
+   "order": 11,
+   "class": "Head-fragment",
+   "text": "**Part II.**",
+   "bbox": [
+    0.8931,
+    0.0708,
+    0.9608,
+    0.0885
+   ],
+   "parse_class": "Margin-note",
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "larger portions as cannot pafs through the neck. But this inconvenience is not likely to happen, unlefs the quantity of water left added be too final, and the re-fidues have been left undisturbed for several days. The fame obfervation is applicable to that kind of incrufta-tion which is formed by the murat, if not properly pulverified, dried, or mixed ; this cannot be separated from the bottom of the retort, but by means of hot water poured at different fucceftive times. It is like-wife effential to leave no cruit or depoition of murat, or other matter, in the veffels which are emptied, un-lefs the fame be moveable, in which cafe the rifk is lefs. But if the urgency of bufinefs thould then re-quire that the fame veffels be ufed without entirely clearing them, it will be necessary to range this refi-dual matter on one ride, where it will be lefs exposed to the heat, and will afford a greater degree of facility for the nitric acid to act upon it.",
+   "bbox": [
+    0.5338,
+    0.0891,
+    0.8958,
+    0.3132
+   ],
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "\" In order that the vapour which exhales from the diftilling veffels may not prove inconvenient, it is necefary to pour in a small quantity of alkaline lixivium in the first place, which infantly deftroys the fmell. This may be done immediately after the end of the diftillation, and the weak alkaline folution may fupply the place of the water ufed for diluting the refidues. At the infant of pouring this lixivial water, a strong effectence takes place ; for which reason it is pro-per to pour it in by several fucceftive portions, waiting a little between each time \\*.\"",
+   "bbox": [
+    0.5306,
+    0.311,
+    0.8926,
+    0.4469
+   ],
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "252. The oxygenated liquor prepared in this way is very effective in bleaching the fluffs which are immerfed in it, but it at the fame time poffees an odour fo futifocating as to render its ufe unpleasant and even injurious to the workmen employed in the process, should any of it escape. \"I have witneffed, (fays O'Reilly) in an extenfive manufaclory near Paris, the cruel bufferings experienced by the wretched workmen, from thefe futifocating vapours ; I have fen them rolling on the ground in the excess of agony. Frequently even fevere diforders are the consequence of the firft effects produced by the oxygenated liquor+.\" De + O Reilly Charmes gives a long account of the sufferings which he underwent in his courte of experiments with this acid. It produces symptoms completely refreshling those of a violent cold, but which go off in a day or two after having defitted from the ufe of the liquor.",
+   "bbox": [
+    0.5296,
+    0.4476,
+    0.8916,
+    0.6577
+   ],
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "This inconvenience may be avoided in two ways ;",
+   "bbox": [
+    0.546,
+    0.6563,
+    0.8748,
+    0.6694
+   ],
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "1/l, By rendering the veffels for immersion to tight as to prevent the profilibility of the efcape of the gas, 2dly, By diffusing in the water fome fubtance which has the property of lo far neutralizing the acid as to connect its odour without destroying its bleaching quality to any confiderable degree.",
+   "bbox": [
+    0.5287,
+    0.6688,
+    0.8902,
+    0.7436
+   ],
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "253. Mr Rupp of Manchelter contrived a tub for immersion, which is admirably adapted to anfwer the first purpose. Its contribution is limple, and not ex-penfive.",
+   "bbox": [
+    0.5283,
+    0.7429,
+    0.8907,
+    0.7929
+   ],
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "\"It would, therefore, bedefirable to have an apparatus for the ufe of the pure oxygenated muriatic acid firmly dissolved in water, which is at once the cheapest and bett vehicle for it. This apparatus must be limple in its construction, and obtainable at a moderate expense; it muft confine the liquor in fuch a manner as to pre-vent the efcape of the oxygenated muriatic acid gas, which is not only a lofs of power, but alfo an inconve-",
+   "bbox": [
+    0.5278,
+    0.7921,
+    0.8935,
+    0.8935
+   ],
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b18"
+  },
+  {
+   "order": 19,
+   "class": "Margin-note",
+   "text": "Vegetable Substances",
+   "bbox": [
+    0.8986,
+    0.0906,
+    0.9593,
+    0.123
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-0115-9730fa72203a:b19"
+  }
+ ]
+}

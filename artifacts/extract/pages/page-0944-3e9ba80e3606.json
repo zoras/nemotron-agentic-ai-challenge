@@ -1,0 +1,334 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:944",
+ "row_index": 944,
+ "volume_id": "149982692",
+ "filename": "page-0944-3e9ba80e3606.jpg",
+ "image_sha256": "3e9ba80e36062b293c841f4da56710baedc83a81a59be0002f2bacd2223eb2e4",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.04706,
+  "median_grey": 235,
+  "layout_body_chars": 1126,
+  "layout_pictures": 0
+ },
+ "running_head": "M E A [ 715 ] M E A",
+ "layout_raw": "page-0944-3e9ba80e3606/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0114,
+    1.0,
+    0.0428
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0944-3e9ba80e3606/head.json",
+   "finish_reason": "stop",
+   "request_key": "2aae1fa3a946c6677a62c297766cd004647a6045fd0bbe09e0b7af7d53aefe18"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0114,
+    0.47,
+    0.1929
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0114,
+     0.1021,
+     0.465
+    ],
+    [
+     0.1021,
+     0.1929,
+     0.465
+    ]
+   ],
+   "raw_path": "page-0944-3e9ba80e3606/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "5d21292a243cd21e43862ecf0b17ba0c58d4ce81daf839e16a09ffae149be765"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.46,
+    0.0114,
+    1.0,
+    0.1929
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0114,
+     0.1021,
+     0.465
+    ],
+    [
+     0.1021,
+     0.1929,
+     0.465
+    ]
+   ],
+   "raw_path": "page-0944-3e9ba80e3606/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "570616368e64864bb451c9eeb132555d4f7097b985a36eabb014e0ef39adb436"
+  },
+  {
+   "label": "s1-wide",
+   "crop": [
+    0.0,
+    0.1929,
+    1.0,
+    0.5071
+   ],
+   "scale": 2,
+   "raw_path": "page-0944-3e9ba80e3606/s1-wide.json",
+   "finish_reason": "stop",
+   "request_key": "e83bbaf3bb5b0232bee6ff0e12242809a28e852a162d868bd50eff4f662cdc4e"
+  },
+  {
+   "label": "s2-col-left",
+   "crop": [
+    0.0,
+    0.5071,
+    0.5383,
+    0.7772
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.5071,
+     0.5971,
+     0.5333
+    ],
+    [
+     0.5971,
+     0.6872,
+     0.5333
+    ],
+    [
+     0.6872,
+     0.7772,
+     0.5317
+    ]
+   ],
+   "raw_path": "page-0944-3e9ba80e3606/s2-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "c73854c12d6499b4c398c9651ab4602667d3c4f94c446b86fa9e1c471579564f"
+  },
+  {
+   "label": "s2-col-right",
+   "crop": [
+    0.5267,
+    0.5071,
+    1.0,
+    0.7772
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.5071,
+     0.5971,
+     0.5333
+    ],
+    [
+     0.5971,
+     0.6872,
+     0.5333
+    ],
+    [
+     0.6872,
+     0.7772,
+     0.5317
+    ]
+   ],
+   "raw_path": "page-0944-3e9ba80e3606/s2-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "d0a623732bcb8322b335942033f134c2eff6622ae6f199fe5668f9cceb53fed1"
+  },
+  {
+   "label": "s3-wide",
+   "crop": [
+    0.0,
+    0.7772,
+    1.0,
+    0.9571
+   ],
+   "scale": 2,
+   "raw_path": "page-0944-3e9ba80e3606/s3-wide.json",
+   "finish_reason": "stop",
+   "request_key": "7e1c2c311d652abfba8869d3a42b6e7bd746703c857b06fb850dd0690c35eda3"
+  },
+  {
+   "label": "s4-col-left",
+   "crop": [
+    0.0,
+    0.9571,
+    0.5383,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.9571,
+     1.0,
+     0.5333
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  },
+  {
+   "label": "s4-col-right",
+   "crop": [
+    0.5283,
+    0.9571,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.9571,
+     1.0,
+     0.5333
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "M E A [ 715 ] M E A",
+   "bbox": [
+    0.0,
+    0.0114,
+    1.0,
+    0.0428
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0944-3e9ba80e3606:b0"
+  },
+  {
+   "order": 1,
+   "class": "Text",
+   "text": "M E A I\n\nMeafure. cobre; ten whereof are equal to three Paris ells. In Perfia, and fome parts of the Indies, the gueze, whereof there are two kinds; the royal gueze, called alfo the _gueze monkelfer_, containing two Paris feet ten inches eleven lines, or four-fifths of the Paris cll; and the thorter gueze, called limply _gueze_, only two thirds of the former. At Goa and Ormuz, the meafure is the vara, the fame with that of the Portuguefe, having been introduced by them. In Pegu, and fome other parts of the Indies, the cando or candi, equal to",
+   "bbox": [
+    0.0,
+    0.0114,
+    0.4695,
+    0.1928
+   ],
+   "source": "s0-col-left",
+   "id": "page-0944-3e9ba80e3606:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "**715 ] M E A**\nthe ell of Venice. At Goa, and other parts, they\nthey ufe a larger cando, equal to feventeen Dutch\nells; exceeding that of Babel and Balfora by *per*\n_centum_, and the vera by 64. In Siam, they ufe the\nken, short of three Paris feet by one inch. The ken\ncontains two folks, the fok two keubs, the keub twelve\nnious or inches, the niou to be equal to eight grains of\nrice, i. e. to about nine lines. At Camboia, they ufe\nthe hafler ; in Japan, the tatam ; and the fpan on fome\nof the coafts of Guinea.",
+   "bbox": [
+    0.46,
+    0.0114,
+    0.9995,
+    0.1928
+   ],
+   "source": "s0-col-right",
+   "id": "page-0944-3e9ba80e3606:b2"
+  },
+  {
+   "order": 3,
+   "class": "Table",
+   "text": "\\begin{tabular}{ccccccccc}\n**3** & **Inch** & & & & & & & & \\\\\n9 & 3 & Palm & & & & & & & \\\\\n27 & 9 & 3 & Span & & & & & & \\\\\n36 & 12 & 4 & 13 & Foot & & & & & \\\\\n54 & 18 & 6 & 2 & 13 & Cubic & & & & \\\\\n108 & 36 & 12 & 4 & 3 & 2 & Yard & & & \\\\\n180 & 60 & 20 & 63 & 5 & 33 & 13 & Pace & & \\\\\n216 & 72 & 24 & 8 & 6 & 4 & 2 & 1 3 & Fathom & \\\\\n594 & 198 & 66 & 22 & 163 & 11 & 51 & 310 & 23 Pole & \\\\\n23760 & 7920 & 2640 & 880 & 660 & 440 & 220 & 132 & 110 & 40 Furlong\\\\\n190080 & 63360 & 21120 & 7040 & 5280 & 3520 & 1760 & 1056 & 880 & 320 8 Mile.\\\\\n\\end{tabular}",
+   "bbox": [
+    0.1904,
+    0.1929,
+    0.8232,
+    0.5064
+   ],
+   "source": "s1-wide",
+   "id": "page-0944-3e9ba80e3606:b3"
+  },
+  {
+   "order": 4,
+   "class": "Section-header",
+   "text": "## 2. SCRIPTURE Meafures reduced into",
+   "bbox": [
+    0.2954,
+    0.5151,
+    0.5346,
+    0.5324
+   ],
+   "source": "s2-col-left",
+   "id": "page-0944-3e9ba80e3606:b4"
+  },
+  {
+   "order": 5,
+   "class": "Table",
+   "text": "\\begin{tabular}{cccccc}\n**Digit** & **4** & **Palm** & & **-** & **-**\\\\\n12 & 3 & Span & & - & \\\\\n24 & 6 & 2 Cubit & & - & \\\\\n96 & 24 & 8 & 4 & Fathom & -\\\\\n144 & 36 & 12 & 6 & 1± & Ezechiel's reed\\\\\n192 & 48 & 16 & 8 & 2 & 1± Arabian pole\\\\\n1920 & 480 & 160 & 80 & 20 & 13± 10 Schoenus, or i\\\\\n\\end{tabular}",
+   "bbox": [
+    0.1735,
+    0.5426,
+    0.5341,
+    0.7498
+   ],
+   "source": "s2-col-left",
+   "id": "page-0944-3e9ba80e3606:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "## 3. The SCRIPTURE Itinerary",
+   "bbox": [
+    0.337,
+    0.7599,
+    0.5288,
+    0.7766
+   ],
+   "source": "s2-col-left",
+   "id": "page-0944-3e9ba80e3606:b6"
+  },
+  {
+   "order": 7,
+   "class": "Table",
+   "text": "\\begin{tabular}{ccc}\n\\thead{Engljb.} & \\thead{Eng. fect.} & \\thead{Inc. Dec}\\\\\n— & 0 & 0.912\\\\\n— & 0 & 3.648\\\\\n— & 0 & 10.944\\\\\n— & 1 & 9.888\\\\\n\\mbox{} & 7 & 3.552\\\\\n— & 10 & 11.328\\\\\n— & 14 & 7.104\\\\\nneafuring line & 145 & 11.04\\\\\n\\multicolumn{3}{c}{\\thead{Meafures}}\\\\\n\\end{tabular}",
+   "bbox": [
+    0.5267,
+    0.5071,
+    0.9995,
+    0.777
+   ],
+   "source": "s2-col-right",
+   "id": "page-0944-3e9ba80e3606:b7"
+  },
+  {
+   "order": 8,
+   "class": "Table",
+   "text": "\\begin{tabular}{ccccccc}\n**Cubit** & **—** & **—** & **—** & **0** & **0** & **1.824**\\\\\n400 & Stadium & — & — & 0 & 145 & 4.6\\\\\n2000 & 5 & Sab. day's journey & — & 0 & 729 & 3.000\\\\\n4000 & 10 & 2 & Eastern mile & — & 1 & 403\\\\\n12000 & 30 & 6 & 3 & Parafan & — & 4\\\\\n96000 & 240 & 48 & 24 & 8 & a day's journey & 33 172 4.000\\\\\n\\end{tabular}",
+   "bbox": [
+    0.2051,
+    0.7772,
+    0.8672,
+    0.9564
+   ],
+   "source": "s3-wide",
+   "id": "page-0944-3e9ba80e3606:b8"
+  }
+ ]
+}

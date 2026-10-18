@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "5c87ba50c293c32940f882af91296f80118d8029b9f12a136fff218337aa2d27",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "2611ec7bbb5c45e61cd556761470283c8598dbe774d6c676a52c23a5ae222fdb",
+  "image_bytes": 1768721,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0772,
+   0.485,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0772,
+    0.1611,
+    0.48
+   ],
+   [
+    0.1611,
+    0.245,
+    0.48
+   ],
+   [
+    0.245,
+    0.3289,
+    0.48
+   ],
+   [
+    0.3289,
+    0.4128,
+    0.48
+   ],
+   [
+    0.4128,
+    0.4967,
+    0.48
+   ],
+   [
+    0.4967,
+    0.5805,
+    0.48
+   ],
+   [
+    0.5805,
+    0.6644,
+    0.48
+   ],
+   [
+    0.6644,
+    0.7483,
+    0.48
+   ],
+   [
+    0.7483,
+    0.8322,
+    0.48
+   ],
+   [
+    0.8322,
+    0.9161,
+    0.4783
+   ],
+   [
+    0.9161,
+    1.0,
+    0.48
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2453,
+  "completion_tokens": 781,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.12,
+ "created_at": "2026-10-18T11:11:41+00:00",
+ "content": "<x_0.1338><y_0.0>Button attempted to find out a north-welt paffage to the Eaft Indies. It lies between 80° and 100° W. long, and between 60° and 66° N. lat.<x_0.9746><y_0.0484><class_Text>\n\n<x_0.1035><y_0.0437>BUTTRESS, a kind of butment built archwife, or a mafs of flone or brick, ferving to prop or fupport the fides of a building, wall, c. on the outside, where it is either very high, or has any confiderable load to fullain on the other fide, as a bank of earth, c.<x_0.9795><y_0.1219><class_Text>\n\n<x_0.1367><y_0.118>Buttreflies are ufed against the angles of ,fteples and other buildings of flone, c. on the outside, and along the walls of fuch buildings as have great and heavy roofs, which would be fulgect to thrull the walls out, unlefs very thick, if no buttreffes were placed againft them. They are alfo placed for a fupport and butment againft the feet of fome arches, that are turned acrofs great halls in old palaces, abbeys, c.<x_0.9785><y_0.2391><class_Text>\n\n<x_0.1055><y_0.2367>BUTZAW, a town of Lower Saxony, in Germany; it stands upon the river Varnow, on the road from Schwerin to Roftock.<x_0.9775><y_0.282><class_Text>\n\n<x_0.1045><y_0.2805>BUXTON, a place in the peak of Derbyfhire, celebrated for medicinal waters; the hottelf in England, next to Bath.<x_0.9766><y_0.3273><class_Text>\n\n<x_0.1025><y_0.3266>Buxton-wells. The frata of earth and minerals, in the parts adjacent to Buxton, are peat-mofs, blue clay, iron, and coal, mixed with fulphur and brazil. The warm waters there, at prefent, are the bath, which takes in feveral warn lprings; St Ann’s well, a hot and cold spring rifling up into the fame recep tacle; and Bingham-well.<x_0.9805><y_0.4313><class_Text>\n\n<x_0.1377><y_0.4297>Thefe waters greatly promote digestion, unlefs they are drunk too long, in which cafe they relax the flo- mach, and retard digestion; they are well adapted to obstructions of every kind, whence they produce fur- prifing effects in gouty, rheumatic, arthritic, and fcor butic pains. As this water is warm, highly impregnated with a mineral fleam, vapour, or spirit, it is fignally beneficial to cramps, convultions, dry affhmas, the bilious colic, fifnefs, c.<x_0.9814><y_0.5625><class_Text>\n\n<x_0.1357><y_0.5617>They advite both drinking and bathing in the ufe of thefe waters; only the laft is of bad consequence in the gout, inward inflammations, fevers, dyfentery, large inward tumours, or in an outward preflure of the body.<x_0.9824><y_0.6359><class_Text>\n\n<x_0.1016><y_0.6344>BUXUS, in botany, a genus of the moncecia tetrandria clafs. The calix of the male conflicts of three leaves; and the corolla has two petals: The calix of the female has four leaves; the petals are three; it has three flyli; and the capfuie has three cells containing two feeds. There is but one species, viz, the fempervi-xens, or box-tree, a native of Britain. A decoction<x_0.9756><y_0.7383><class_Text>\n\n<x_0.1807><y_0.7367>Vol. I. No 29.<x_0.4678><y_0.7539><class_Page-footer>\n\n<x_0.8887><y_0.7398>3<x_0.916><y_0.7547><class_Page-footer>\n\n<x_0.4639><y_0.8336>END OF THE F<x_0.9932><y_0.8578><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-1135663c-0634-45c1-a4fa-7cdd27d88c0a",
+  "object": "chat.completion",
+  "created": 1792321900,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1338><y_0.0>Button attempted to find out a north-welt paffage to the Eaft Indies. It lies between 80° and 100° W. long, and between 60° and 66° N. lat.<x_0.9746><y_0.0484><class_Text>\n\n<x_0.1035><y_0.0437>BUTTRESS, a kind of butment built archwife, or a mafs of flone or brick, ferving to prop or fupport the fides of a building, wall, c. on the outside, where it is either very high, or has any confiderable load to fullain on the other fide, as a bank of earth, c.<x_0.9795><y_0.1219><class_Text>\n\n<x_0.1367><y_0.118>Buttreflies are ufed against the angles of ,fteples and other buildings of flone, c. on the outside, and along the walls of fuch buildings as have great and heavy roofs, which would be fulgect to thrull the walls out, unlefs very thick, if no buttreffes were placed againft them. They are alfo placed for a fupport and butment againft the feet of fome arches, that are turned acrofs great halls in old palaces, abbeys, c.<x_0.9785><y_0.2391><class_Text>\n\n<x_0.1055><y_0.2367>BUTZAW, a town of Lower Saxony, in Germany; it stands upon the river Varnow, on the road from Schwerin to Roftock.<x_0.9775><y_0.282><class_Text>\n\n<x_0.1045><y_0.2805>BUXTON, a place in the peak of Derbyfhire, celebrated for medicinal waters; the hottelf in England, next to Bath.<x_0.9766><y_0.3273><class_Text>\n\n<x_0.1025><y_0.3266>Buxton-wells. The frata of earth and minerals, in the parts adjacent to Buxton, are peat-mofs, blue clay, iron, and coal, mixed with fulphur and brazil. The warm waters there, at prefent, are the bath, which takes in feveral warn lprings; St Ann’s well, a hot and cold spring rifling up into the fame recep tacle; and Bingham-well.<x_0.9805><y_0.4313><class_Text>\n\n<x_0.1377><y_0.4297>Thefe waters greatly promote digestion, unlefs they are drunk too long, in which cafe they relax the flo- mach, and retard digestion; they are well adapted to obstructions of every kind, whence they produce fur- prifing effects in gouty, rheumatic, arthritic, and fcor butic pains. As this water is warm, highly impregnated with a mineral fleam, vapour, or spirit, it is fignally beneficial to cramps, convultions, dry affhmas, the bilious colic, fifnefs, c.<x_0.9814><y_0.5625><class_Text>\n\n<x_0.1357><y_0.5617>They advite both drinking and bathing in the ufe of thefe waters; only the laft is of bad consequence in the gout, inward inflammations, fevers, dyfentery, large inward tumours, or in an outward preflure of the body.<x_0.9824><y_0.6359><class_Text>\n\n<x_0.1016><y_0.6344>BUXUS, in botany, a genus of the moncecia tetrandria clafs. The calix of the male conflicts of three leaves; and the corolla has two petals: The calix of the female has four leaves; the petals are three; it has three flyli; and the capfuie has three cells containing two feeds. There is but one species, viz, the fempervi-xens, or box-tree, a native of Britain. A decoction<x_0.9756><y_0.7383><class_Text>\n\n<x_0.1807><y_0.7367>Vol. I. No 29.<x_0.4678><y_0.7539><class_Page-footer>\n\n<x_0.8887><y_0.7398>3<x_0.916><y_0.7547><class_Page-footer>\n\n<x_0.4639><y_0.8336>END OF THE F<x_0.9932><y_0.8578><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2453,
+   "completion_tokens": 781,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

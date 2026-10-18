@@ -1,0 +1,119 @@
+{
+ "request": {
+  "key": "eb6ab97ffe67353a518bcb8a9d72b22d4cd6fdd18e1dd88a42db751a79e9c147",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9062f4831fd5bfc9c556e336c6e3daf10cf65ef3b5875ed8119a1467bf7782cf",
+  "image_bytes": 2007865,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1803",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4967,
+   0.0843,
+   1.0,
+   0.853
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0843,
+    0.1697,
+    0.5067
+   ],
+   [
+    0.1697,
+    0.2551,
+    0.5067
+   ],
+   [
+    0.2551,
+    0.3405,
+    0.5067
+   ],
+   [
+    0.3405,
+    0.4259,
+    0.5067
+   ],
+   [
+    0.4259,
+    0.5114,
+    0.5067
+   ],
+   [
+    0.5114,
+    0.5968,
+    0.5067
+   ],
+   [
+    0.5968,
+    0.6822,
+    0.505
+   ],
+   [
+    0.6822,
+    0.7676,
+    0.5033
+   ],
+   [
+    0.7676,
+    0.853,
+    0.5017
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1703,
+  "total_tokens": 2606,
+  "completion_tokens": 903,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.24,
+ "created_at": "2026-10-18T11:11:16+00:00",
+ "content": "<x_0.0332><y_0.0>mith school of hiftory, particularly his large print of the \ntaking down from the crofs from Rubens.<x_0.7568><y_0.0352><class_Text>\n\n<x_0.0234><y_0.0281>There is a fine influence of linear effect in a print of\na Flemish conversation piece by Wille. One of the\nfigures is drinking out of a glafs, and the artif has molt\ndeceptively described the texture of the drinker's face\nthrough the glafs. In the fame print, a female figure\nfhews great kill in this way, even the floor is charac-\nterized by lines; and the whole strongly marks the molt\nproper mode of treating subjects of a mere local nature.\nThe beautiful print of the _Petit Phufcien_, is alfo an ad-\nmirable imitation, particularly the little pellucid globule\nwhich has jult mounted from the flell. When lines are\nengraved in a square acute method of crolling, they ge-\nnerally convey the idea of hardness to the fuljed repre-\nfented. The scientific Picart feems to have been fo much\naware of this, that in a print of his engraving of a large\nmarble groupe of horses, from the animated chiffel of\nPerriere, he adopted this flyle in order to heighten the\nimitation.<x_0.7578><y_0.3289><class_Text>\n\n<x_0.0186><y_0.3219>Maison’s print of Marthal Harcourt, is one of the many\nfine efforts of portrait engraving ; and although it was\nexecuted at an early period of the art, it abounds with\nno final degree of tafte. The celebrated print (called\nthe table-cloth) from Titian, of the Laft Supper, allo\ncontains a considerable degree of linear discrimination,\nalthough he sometimes carries it to affectation. He is\nrather singular in his mode of engraving hair. Yet the\nportraits of Marthal Harcourt and Brilafiere the ferre-\ntary may be deemed exceptions.<x_0.749><y_0.4945><class_Text>\n\n<x_0.0127><y_0.4852>Wille, by the magic of his tooling, is too apt at times\nto give his works indirferinately the appearance of\nbronze ; and we frequently find the fame in the figures\nof Balechow: but it feems to have been referred for\nStrange to give the foltnels of carnation to copper ; and\nto Woollet, to give force and clearnels with diferimi-\nnating tafte. Bartolozzi in his lines elegance delicacy\nand drawing ; while the works of Audran team with\nboldnefs and implicity. In the prints of Sir Robert\nStrange, the greatest excellence is perhaps his rich and\nharmonious tones, as well as the whole effect, which is\nfupported by an exprelive flyle ; which he feems in a\ngreat mesure to have invented for his most favourite\npainters, Corregio, Titian, Guido, and Guerchino. The\nfoltnels, the gullo, and the flowing draperies in the\nworks of these matters, were his delight. His sleeping\nCupid from Guido, and the prints of the Venus and\nDanae from Titian, will ever be efteemed as _chef_\nd'avures in the linear art.<x_0.75><y_0.8039><class_Text>\n\n<x_0.0078><y_0.7953>Having thus attempted to fulfil our original intention\nof discriminating the molt exprellive combinations of\nlines, and of analyzing and illustrating their various\npowers and effects in engraving, we shall now conclude\nthese observations; and if, from the nature of the fub-\nject, and from the limits of the sketch, we have failed\nin marking every brilliant flat in the galaxy of the art ;\nit mult at leaft be acknowledged, that we have not\nomitted some of those of the fruit magnitude.<x_0.7373><y_0.9539><class_Text>\n\n<x_0.0391><y_0.9453>_ENGRAFINA upon Glafr._ See GLASS, Engraving on.\n_ENGRAVING_<x_0.7236><y_0.9867><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-45d99874-fbaa-4723-a7f5-bd2024a9fe9f",
+  "object": "chat.completion",
+  "created": 1792321875,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0332><y_0.0>mith school of hiftory, particularly his large print of the \ntaking down from the crofs from Rubens.<x_0.7568><y_0.0352><class_Text>\n\n<x_0.0234><y_0.0281>There is a fine influence of linear effect in a print of\na Flemish conversation piece by Wille. One of the\nfigures is drinking out of a glafs, and the artif has molt\ndeceptively described the texture of the drinker's face\nthrough the glafs. In the fame print, a female figure\nfhews great kill in this way, even the floor is charac-\nterized by lines; and the whole strongly marks the molt\nproper mode of treating subjects of a mere local nature.\nThe beautiful print of the _Petit Phufcien_, is alfo an ad-\nmirable imitation, particularly the little pellucid globule\nwhich has jult mounted from the flell. When lines are\nengraved in a square acute method of crolling, they ge-\nnerally convey the idea of hardness to the fuljed repre-\nfented. The scientific Picart feems to have been fo much\naware of this, that in a print of his engraving of a large\nmarble groupe of horses, from the animated chiffel of\nPerriere, he adopted this flyle in order to heighten the\nimitation.<x_0.7578><y_0.3289><class_Text>\n\n<x_0.0186><y_0.3219>Maison’s print of Marthal Harcourt, is one of the many\nfine efforts of portrait engraving ; and although it was\nexecuted at an early period of the art, it abounds with\nno final degree of tafte. The celebrated print (called\nthe table-cloth) from Titian, of the Laft Supper, allo\ncontains a considerable degree of linear discrimination,\nalthough he sometimes carries it to affectation. He is\nrather singular in his mode of engraving hair. Yet the\nportraits of Marthal Harcourt and Brilafiere the ferre-\ntary may be deemed exceptions.<x_0.749><y_0.4945><class_Text>\n\n<x_0.0127><y_0.4852>Wille, by the magic of his tooling, is too apt at times\nto give his works indirferinately the appearance of\nbronze ; and we frequently find the fame in the figures\nof Balechow: but it feems to have been referred for\nStrange to give the foltnels of carnation to copper ; and\nto Woollet, to give force and clearnels with diferimi-\nnating tafte. Bartolozzi in his lines elegance delicacy\nand drawing ; while the works of Audran team with\nboldnefs and implicity. In the prints of Sir Robert\nStrange, the greatest excellence is perhaps his rich and\nharmonious tones, as well as the whole effect, which is\nfupported by an exprelive flyle ; which he feems in a\ngreat mesure to have invented for his most favourite\npainters, Corregio, Titian, Guido, and Guerchino. The\nfoltnels, the gullo, and the flowing draperies in the\nworks of these matters, were his delight. His sleeping\nCupid from Guido, and the prints of the Venus and\nDanae from Titian, will ever be efteemed as _chef_\nd'avures in the linear art.<x_0.75><y_0.8039><class_Text>\n\n<x_0.0078><y_0.7953>Having thus attempted to fulfil our original intention\nof discriminating the molt exprellive combinations of\nlines, and of analyzing and illustrating their various\npowers and effects in engraving, we shall now conclude\nthese observations; and if, from the nature of the fub-\nject, and from the limits of the sketch, we have failed\nin marking every brilliant flat in the galaxy of the art ;\nit mult at leaft be acknowledged, that we have not\nomitted some of those of the fruit magnitude.<x_0.7373><y_0.9539><class_Text>\n\n<x_0.0391><y_0.9453>_ENGRAFINA upon Glafr._ See GLASS, Engraving on.\n_ENGRAVING_<x_0.7236><y_0.9867><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1703,
+   "total_tokens": 2606,
+   "completion_tokens": 903,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,427 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1422",
+ "row_index": 1422,
+ "volume_id": "149979622",
+ "filename": "page-1422-8d39d99af992.jpg",
+ "image_sha256": "8d39d99af99249708a75d8e526080ae109f37e42e0fecd3c25a81e10774f2f4e",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.1098,
+  "median_grey": 227,
+  "layout_body_chars": 6424,
+  "layout_pictures": 0
+ },
+ "running_head": "E D U [ 353 I E D U",
+ "layout_raw": "page-1422-8d39d99af992/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0278,
+    1.0,
+    0.0561
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1422-8d39d99af992/head.json",
+   "finish_reason": "stop",
+   "request_key": "f8cc9393714d7d1b07b3b3d3e18cdd8047428486c21426d62a4121684121fa43"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0278,
+    0.47,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0278,
+     0.1088,
+     0.465
+    ],
+    [
+     0.1088,
+     0.1898,
+     0.465
+    ],
+    [
+     0.1898,
+     0.2708,
+     0.465
+    ],
+    [
+     0.2708,
+     0.3519,
+     0.465
+    ],
+    [
+     0.3519,
+     0.4329,
+     0.465
+    ],
+    [
+     0.4329,
+     0.5139,
+     0.465
+    ],
+    [
+     0.5139,
+     0.5949,
+     0.465
+    ],
+    [
+     0.5949,
+     0.6759,
+     0.465
+    ],
+    [
+     0.6759,
+     0.757,
+     0.465
+    ],
+    [
+     0.757,
+     0.838,
+     0.465
+    ],
+    [
+     0.838,
+     0.919,
+     0.465
+    ],
+    [
+     0.919,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-1422-8d39d99af992/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "49101154a5de4734ab074b983ec6b3836057fd1f9c75e7b2f3373df5b6de30fe"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.46,
+    0.0278,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0278,
+     0.1088,
+     0.465
+    ],
+    [
+     0.1088,
+     0.1898,
+     0.465
+    ],
+    [
+     0.1898,
+     0.2708,
+     0.465
+    ],
+    [
+     0.2708,
+     0.3519,
+     0.465
+    ],
+    [
+     0.3519,
+     0.4329,
+     0.465
+    ],
+    [
+     0.4329,
+     0.5139,
+     0.465
+    ],
+    [
+     0.5139,
+     0.5949,
+     0.465
+    ],
+    [
+     0.5949,
+     0.6759,
+     0.465
+    ],
+    [
+     0.6759,
+     0.757,
+     0.465
+    ],
+    [
+     0.757,
+     0.838,
+     0.465
+    ],
+    [
+     0.838,
+     0.919,
+     0.465
+    ],
+    [
+     0.919,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-1422-8d39d99af992/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "d4b85d248e0fb1bf300d380b7870f5a28cf23d5c24e19211977b6d9c5c7fe143"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "E D U [ 353 I E D U",
+   "bbox": [
+    0.0,
+    0.0278,
+    1.0,
+    0.0561
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1422-8d39d99af992:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**E D U** [ 35",
+   "bbox": [
+    0.1813,
+    0.0316,
+    0.4695,
+    0.0551
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "**Hducation.**",
+   "bbox": [
+    0.006,
+    0.0543,
+    0.0702,
+    0.0794
+   ],
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "highly worthy of engaging the attention of the young gentleman. Dancing, fencing, running, horfeman- hip, the management of the muKet, and the motions of military dificipline, are none of them unworthy of occupying his time, at proper feafons. It is unne- ceffary to point out the advantages which he may de- rive from dancing; thefe feem to be pretty generally underflood. Perhaps our men of fortune would be afhamed to make ufe of their legs for running; but occasions may occur, on which even this humble ac- compliftment may be ufeful. Though we with not to fee the young man of fortune become a jockey; yet to be able to make a graceful appearance on horse- back, and to manage his horfe with dexterity, will not be unworthy of his flation and character. If times of public danger should arife, and the fate thould call for the fervices of her subjects against any hostile attack, they whoe rank and fortune place them in the moft eminent flations will be first expected to land forth; but if unacquainted with those exercises which are connected with the military art, what a pitiful figure muff they make in the camp, or on the field of battle?",
+   "bbox": [
+    0.0739,
+    0.0537,
+    0.4608,
+    0.3658
+   ],
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b3"
+  },
+  {
+   "order": 4,
+   "class": "Caption",
+   "text": "Law.",
+   "bbox": [
+    0.0225,
+    0.3613,
+    0.0569,
+    0.384
+   ],
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "As the man of fortune may perhaps enjoy by hereditary right, or may be called by the voice of his fellow-citizens, to a feat among the legiflative body of his country; he ought in his youth to be carefully infructed in the principles of her political conftitution, and of those laws by which his own rights and the rights of his fellow-citizens are determined and fecu- red.",
+   "bbox": [
+    0.0753,
+    0.3651,
+    0.4613,
+    0.4744
+   ],
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b5"
+  },
+  {
+   "order": 6,
+   "class": "Margin-note",
+   "text": "Philofophy.",
+   "bbox": [
+    0.0069,
+    0.4729,
+    0.0785,
+    0.4926
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Natural philosophy, as being both highly useful and entertaining, is well worthy of the attention of all who can afford to appropriate any part of their time to scientific purfuits; to the man of fortune, a tafte for natural philofophy might often procure the moft delightful entertainment. To trace the wonders of the planetary tyffems, to mark the procefs of vegetation, to examine all the properties of that fine element which we breathe, to trace the laws by which all the different elements are confined to their proper functions, and above all to apply the principles of natural philosophy in the cultivation of the ground, are amufements which might agreeably and innocently occupy many of the leifure hours of the man who enjoys a iplendid and independent fortune.",
+   "bbox": [
+    0.0748,
+    0.4737,
+    0.4617,
+    0.6779
+   ],
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b7"
+  },
+  {
+   "order": 8,
+   "class": "Margin-note",
+   "text": "Nitory and morals.",
+   "bbox": [
+    0.0073,
+    0.6741,
+    0.079,
+    0.7076
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Neither do we fuppofe civil history and the principles of morals to be overlooked. Without being acquainted with thefe, how could any jull or accurate knowledge of the laws and political constitution of his country be acquired by the young gentleman? History expoFes to our observation the fortune and the actions of other human beings, and thus fuypplies in fome mea- fure the place of experience; it teaches prudence, and affords exercise to the moral fente. When history condefcends to take notice of individuals, they are al- moft always fuch as have been eminent for virtue, for abilities, or for the rank which they held in life; to the rich and great it ought to fpeak with peculiar ef- ficacy, and they ought to be carefully invited to listen to its voice.",
+   "bbox": [
+    0.0799,
+    0.6765,
+    0.4622,
+    0.8777
+   ],
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "Such then is the manner in which we with the education of young men of rank and fortune to be conducted, in order that they may be prepared for en- joying their opulence and honours with becoming dig- nity. Let them be early inured to habits of vigorous",
+   "bbox": [
+    0.0803,
+    0.8785,
+    0.4627,
+    0.9468
+   ],
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b10"
+  },
+  {
+   "order": 11,
+   "class": "Page-footer",
+   "text": "**Vol. VI. Part. I.**",
+   "bbox": [
+    0.1005,
+    0.9453,
+    0.2281,
+    0.9598
+   ],
+   "source": "s0-col-left",
+   "id": "page-1422-8d39d99af992:b11"
+  },
+  {
+   "order": 12,
+   "class": "Head-fragment",
+   "text": "3 I ED U",
+   "bbox": [
+    0.4642,
+    0.0316,
+    0.7437,
+    0.0537
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1422-8d39d99af992:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "induftry and perfevering firmnefs, by paffing through a regular courte of claftical learning in a free fchool; let them play and converse with their equals, and not be permitted to form high ideas of their own importance, nor to domineer over fervants or inferiors: Let them be carefully infructed in the principles of morality and religion: Let them be taught the manly exercices: Let them be carefully informed of the nature of the political confitution of their country, and of the extent of those civil and political rights which it focuses to them and their fellow-citizens: Let them be called to trace the annals of mankind through the records of history; to mark the appearances and operations of nature, and to amufe themselves by purfuing thefe to their general caufes. We fay nothing of caufing the young man of fortune to learn home mechanical art: We think kill in a mechanical art might now and then afford him an innocent and pleafing amufement; but we do not confident it as abfolutely neceffary, and therefore do not infilt on his acquiring it. With those accomplishments we hope he might become an ufeful member of society, might adorn the rank and fortune to which he is born, and might find wealth and high station a bleffing, not a curfe. It is peculiarly unfortunate for our age and country, that people of rank and fortune are not fo fludious that their children acquire thefe as the more superficial accomplithments.",
+   "bbox": [
+    0.4632,
+    0.0513,
+    0.8513,
+    0.4227
+   ],
+   "source": "s0-col-right",
+   "id": "page-1422-8d39d99af992:b13"
+  },
+  {
+   "order": 14,
+   "class": "Section-header",
+   "text": "## VII. On the Education of People defigned for a Mercantile Employment, and for the humbler Occupations in Life not particularly connected with Literature.",
+   "bbox": [
+    0.4679,
+    0.425,
+    0.8507,
+    0.4706
+   ],
+   "source": "s0-col-right",
+   "id": "page-1422-8d39d99af992:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "WERE modern literature in a lefs flourishing flats; were the Englith and French languages adorned with fewer eminent poetical, historical, and philosophical compotitions; we might perhaps infilt on it as ne-ceflary to give the boy, who is defigned for a mercan-tile employment, a clafical education. At present this does not appear absolutely neceffary; yet we do not prefume to forbid it as improper. Even the merchant will fearce find reafon to repent his ha-ving been introduced to the acquaintance of Plato and Cicero. But fill, if the circumstances of the parent, or any other jult reafon, should render it inconvenient to fend the young man who is intended for trade to a free fchool to fludy the ancient languages, means may be easily adopted to make up for his lofs. Confine him not to writing and accounts alone. Thefe, though particularly useful to the merchant, have no great power to reftrain the force of evil paffions, or to infpire the mind with generous and virtuous fentiments. Though you burden him not with Latin and Greek, yet thrive to infpire him with a tafle for ufeul knowledge and for elegant literature. Some of the pureft and most elegant of our poets, the excellent periodical works which have appeared in our language, fuch as the Spectator, the Adventurer, the Mirror, and the compositions of our British hitorians, together with fome of the best translations of the clafies which we polfefs; thefe you may with great pro-priety put into his hands. They will teach him how to think and reafon juffly, and to express himself in conversation or in writing with correcthefs and elegance : they will refine and polish his mind, and raife him above low and grofs pleafures. And as no man, who has any occasion to fpeak or write, ought to be entirely ignorant of the principles of grammar, you will",
+   "bbox": [
+    0.4648,
+    0.4721,
+    0.856,
+    0.9492
+   ],
+   "source": "s0-col-right",
+   "id": "page-1422-8d39d99af992:b15"
+  },
+  {
+   "order": 16,
+   "class": "Page-footer",
+   "text": "Y y",
+   "bbox": [
+    0.6514,
+    0.946,
+    0.6841,
+    0.9628
+   ],
+   "source": "s0-col-right",
+   "id": "page-1422-8d39d99af992:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "therefore",
+   "bbox": [
+    0.7811,
+    0.9468,
+    0.855,
+    0.9635
+   ],
+   "source": "s0-col-right",
+   "id": "page-1422-8d39d99af992:b17"
+  }
+ ]
+}

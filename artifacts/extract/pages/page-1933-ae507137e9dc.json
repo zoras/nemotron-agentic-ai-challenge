@@ -1,0 +1,479 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1933",
+ "row_index": 1933,
+ "volume_id": "144850379",
+ "filename": "page-1933-ae507137e9dc.jpg",
+ "image_sha256": "ae507137e9dccc05ea8a69ead38423f1107c58ffe3152883775f70afc1694223",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09804,
+  "median_grey": 215,
+  "layout_body_chars": 4179,
+  "layout_pictures": 0
+ },
+ "running_head": "5706 O R A T O R Y. Part III.",
+ "layout_raw": "page-1933-ae507137e9dc/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0262,
+    1.0,
+    0.0538
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1933-ae507137e9dc/head.json",
+   "finish_reason": "stop",
+   "request_key": "518c090374d173794426ed7ce3f4c543f6aa94cdab3897a0a25626257c335358"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0262,
+    0.5183,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0262,
+     0.1074,
+     0.5133
+    ],
+    [
+     0.1074,
+     0.1885,
+     0.51
+    ],
+    [
+     0.1885,
+     0.2697,
+     0.51
+    ],
+    [
+     0.2697,
+     0.3508,
+     0.51
+    ],
+    [
+     0.3508,
+     0.432,
+     0.51
+    ],
+    [
+     0.432,
+     0.5131,
+     0.51
+    ],
+    [
+     0.5131,
+     0.5942,
+     0.51
+    ],
+    [
+     0.5942,
+     0.6754,
+     0.51
+    ],
+    [
+     0.6754,
+     0.7566,
+     0.51
+    ],
+    [
+     0.7566,
+     0.8377,
+     0.51
+    ],
+    [
+     0.8377,
+     0.9188,
+     0.51
+    ],
+    [
+     0.9188,
+     1.0,
+     0.51
+    ]
+   ],
+   "raw_path": "page-1933-ae507137e9dc/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "537190f1f1ebb9d4e197775ea80daba148779cfbbab3bd236900edcdc1607c02"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.505,
+    0.0262,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0262,
+     0.1074,
+     0.5133
+    ],
+    [
+     0.1074,
+     0.1885,
+     0.51
+    ],
+    [
+     0.1885,
+     0.2697,
+     0.51
+    ],
+    [
+     0.2697,
+     0.3508,
+     0.51
+    ],
+    [
+     0.3508,
+     0.432,
+     0.51
+    ],
+    [
+     0.432,
+     0.5131,
+     0.51
+    ],
+    [
+     0.5131,
+     0.5942,
+     0.51
+    ],
+    [
+     0.5942,
+     0.6754,
+     0.51
+    ],
+    [
+     0.6754,
+     0.7566,
+     0.51
+    ],
+    [
+     0.7566,
+     0.8377,
+     0.51
+    ],
+    [
+     0.8377,
+     0.9188,
+     0.51
+    ],
+    [
+     0.9188,
+     1.0,
+     0.51
+    ]
+   ],
+   "raw_path": "page-1933-ae507137e9dc/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "50019f15cf8f6aa92b7fda7d8272edb3dafd6b3ae2538de5024dc083c4cc2fb1"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "5706 O R A T O R Y. Part III.",
+   "bbox": [
+    0.0,
+    0.0262,
+    1.0,
+    0.0538
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1933-ae507137e9dc:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "5706 Elocution",
+   "bbox": [
+    0.0334,
+    0.03,
+    0.1032,
+    0.065
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1933-ae507137e9dc:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "O R A T",
+   "bbox": [
+    0.3604,
+    0.0284,
+    0.5178,
+    0.0483
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1933-ae507137e9dc:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "fleady temper of the family. And fo in the pro- verbal expreffion: _An ape is an ape, drefs him ever fo fine._",
+   "bbox": [
+    0.1058,
+    0.049,
+    0.5082,
+    0.0916
+   ],
+   "source": "s0-col-left",
+   "id": "page-1933-ae507137e9dc:b3"
+  },
+  {
+   "order": 4,
+   "class": "Caption",
+   "text": "58",
+   "bbox": [
+    0.0557,
+    0.0924,
+    0.0815,
+    0.1092
+   ],
+   "source": "s0-col-left",
+   "id": "page-1933-ae507137e9dc:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "When a word is repeated again with vehemence in the fame fenfe, it is called _epizeuxis_. This figure flews the earnellnefs of the fpeaker, and his great concern of mind about what he fays; and therefore has a natural tendency to excite the attention of the audience. It is fuited to express anger, furprize, forrow, and feveral other paffions. As when Cicero would express his indignation against Anthony for having been the chief instrument in bringing on the civil war, he fays to him: _You, you, Anthony, pushed Cefar upon the civil war._ And thus he tells Catiline in his first invective against him: _You live; and live, not to lay afide, but to purifies, your wicked defign._ And when our Saviour would express his great concern and forrow for the wickednefs of the Jews, he does it in this pathetic manner: _O Jerufalem, Jerufalem, who killeft the prophets!_",
+   "bbox": [
+    0.0997,
+    0.0893,
+    0.5087,
+    0.3161
+   ],
+   "source": "s0-col-left",
+   "id": "page-1933-ae507137e9dc:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "_Climax_, is a beautiful kind of repetition, when the word, which ends the firt member of a period, begins the second, and fo through each member, till the whole is finified. There is a great deal of strength as well as beauty in this figure, where the several steps rife naturally, and are clofely connected with each other. As in this example: _There is no enjoyment of property without government, no government without a magifirate, no magifirate without obedience, and no obedience where every one affs as he pleafes._ But, as Quintilian obferves, this figure lies fo open, that it is apt to look too much like art; for which reafon he advifes not to ufe it often. To prevent this, therefore, orators fometimes difguife it, by not repeating the fame word which flood in the former member, but fome other equivalent to it. As in the following influence of Cicero for Milo: \" Nor did he commit himself only to the people, but alfo to the feate; nor to the feate only, but likewife to the public forces; nor to thefe only, but alfo to his power with whom the female had entrufted the whole commonwealth.\"",
+   "bbox": [
+    0.0982,
+    0.3138,
+    0.5077,
+    0.5937
+   ],
+   "source": "s0-col-left",
+   "id": "page-1933-ae507137e9dc:b6"
+  },
+  {
+   "order": 7,
+   "class": "Caption",
+   "text": "70",
+   "bbox": [
+    0.0506,
+    0.5785,
+    0.0805,
+    0.6127
+   ],
+   "source": "s0-col-left",
+   "id": "page-1933-ae507137e9dc:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "When federal fentences, or members of a sentence, begin with the fame word, it is called _anaphora_. This is a lively and elegant figure, and ferves very much to engage the attention. For by the frequent return of the fame word the mind of the hearer is held in an agreeable fufpence, till the whole is finified. \" You do nothing, (fays Cicero to Catiline,) you attempt nothing, you think nothing, but what I not only hear, but alfo fee, and plainly perceive.\" It is frequently used by way of question; which renders it not only beautiful, but likewise frong and nervous. As at the beginning of the fame fpecech : \" Does neither the night-guard of the palace, nor the city-watch, nor the peoples fear, nor the agreement of all good men, nor the meeting of the feate in this fortified place, nor the countenances and looks of this affcibly, at all move you?\" And in another of his orations: \" What is fo popular as peace, which feems to afford a pleasure, not only to beings endowed with fenfe, but even to inanimate nature? What is fo popular as liberty, which even beafts as well as men feem to covet and prefer above all things? What is fo popular as safe and leisure, for the enjoyment of which you",
+   "bbox": [
+    0.0972,
+    0.5923,
+    0.5066,
+    0.8996
+   ],
+   "source": "s0-col-left",
+   "id": "page-1933-ae507137e9dc:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "O R Y.",
+   "bbox": [
+    0.5094,
+    0.0262,
+    0.6525,
+    0.0475
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "Part III.",
+   "bbox": [
+    0.8893,
+    0.027,
+    0.9811,
+    0.0483
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "and your anceftors have undergone the greatest la- bours?\"",
+   "bbox": [
+    0.5132,
+    0.049,
+    0.9207,
+    0.0757
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "_Epifirophe,_ is contrary to the former, and makes the repetition at the end of each member or fentence. As thus: _Since concord was loft, friendship was loft, fidelity was loft, liberty was loft, all was loft._ And Cicero, in the charge which he brings againtl Mark Anthony before the fenate, makes ufe of this figure, when he fays, \" Do you lament the defruction of three Roman armies? The author of that deltruction was Anthony. Do you bewail the lofs of moft eminent citizens? They have been taken from you by Anthony. Is the authority of this order weakened? It is weakened by Anthony.\"",
+   "bbox": [
+    0.5122,
+    0.0764,
+    0.9236,
+    0.2354
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "_Symplace_ takes in both thefe latt figures. As in that of Cicero: \" You would pardon and acquit him, whom the fenate hath condemned, whom the people of Rome have condemned ; whom all mankind have con demned.\" Here the feveral members both begin and end with the fame word. We have a beautiful influence of it in St Paul, when he fays: \" Are they Hebrews? fo am I. Are they Ifraelites? fo am I. Are they the feed of Abraham? fo am I.\"",
+   "bbox": [
+    0.5137,
+    0.2339,
+    0.9217,
+    0.3549
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "When a sentence concludes with the word with which it began, it is called epanalepfis. As in that exprefiion of Plautus, \" Virtue contains all things, he wants no good thing who has virtue.\" The figure is the fame, but the principle not fo honet, in the advice which we find given by the mifer in Horace, when he fays, \" Get money if you can, honestly ; but however, get money.\" This figure adds a force to an exprefiion, when the principal thing defigned to be conveyed is thus repeated, by leaving it left upon the mind. And it heightens the beauty of it, when the fentence has an agreeable turn arising from two opposite parts. As in Cicero’s compliment to Cefar : \" We have feen your victory terminated by the war ; your drawn fword in the city we have not feen.\" Hermogenes calls this a circle, because the fentence returns again to the fame word, as that geometrical figure is formed by the orbicular motion of a line to the fame point.",
+   "bbox": [
+    0.5142,
+    0.3541,
+    0.9212,
+    0.6059
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "When the following fentence begins with the fame word with which the former concluded, it is termed anadiplofis. As in the following inflance: _Let us think no price too great for truth ; truth cannot be bought too dear._ So in that paffage of St John: _He came to his own, and his own received him not._ This figure generally fuits belt with grave and folemn difcourfes:",
+   "bbox": [
+    0.5127,
+    0.6051,
+    0.9159,
+    0.7109
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "_Epanodos_, is the invertion of a fentence, or repeating it backwards, fo that it takes in the two latt figures ; for it both begins and ends with the fame word, and the fame word is likewise repeated in the middle. This turn of expreffion has a beauty in it, and flews a rea- dinefs of thought. We have the following example of it in Minutius Felix, where he is expoing the folly of the Egyptian flupertition. \" Ifis (fays he) with Cy- nocephalus and her prietis, laments, bemoans, and feeks her loft fan ; her attendants beat their breaths, and imitate the grief of the unhappy mother ; in a little time the fun is found, upon which they all rejoice. Nor do they cease every year to lofe what they find, or to find what they lofe. And is it not ri-",
+   "bbox": [
+    0.5089,
+    0.7117,
+    0.9149,
+    0.9118
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b16"
+  },
+  {
+   "order": 17,
+   "class": "Caption",
+   "text": "71",
+   "bbox": [
+    0.943,
+    0.0787,
+    0.9652,
+    0.0962
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b17"
+  },
+  {
+   "order": 18,
+   "class": "Caption",
+   "text": "72",
+   "bbox": [
+    0.941,
+    0.2407,
+    0.9657,
+    0.2567
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b18"
+  },
+  {
+   "order": 19,
+   "class": "Caption",
+   "text": "73",
+   "bbox": [
+    0.9406,
+    0.3556,
+    0.9661,
+    0.3716
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b19"
+  },
+  {
+   "order": 20,
+   "class": "Caption",
+   "text": "74",
+   "bbox": [
+    0.9357,
+    0.6044,
+    0.9705,
+    0.6234
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b20"
+  },
+  {
+   "order": 21,
+   "class": "Caption",
+   "text": "75",
+   "bbox": [
+    0.9352,
+    0.7147,
+    0.9623,
+    0.7344
+   ],
+   "source": "s0-col-right",
+   "id": "page-1933-ae507137e9dc:b21"
+  }
+ ]
+}

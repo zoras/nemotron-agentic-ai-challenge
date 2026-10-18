@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "d7a7f172eae93c015402dad781c6aa8e600e150651fd2bc6ba9d8a989601c3af",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "1f9cd1b0936a9bbf5db7fda71b670bf58c915fbafafa7300ca829232936f1f2e",
+  "image_bytes": 2184383,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2569",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0702,
+   0.4833,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0702,
+    0.1547,
+    0.4767
+   ],
+   [
+    0.1547,
+    0.2393,
+    0.4767
+   ],
+   [
+    0.2393,
+    0.3238,
+    0.4767
+   ],
+   [
+    0.3238,
+    0.4083,
+    0.4767
+   ],
+   [
+    0.4083,
+    0.4928,
+    0.4767
+   ],
+   [
+    0.4928,
+    0.5774,
+    0.4767
+   ],
+   [
+    0.5774,
+    0.6619,
+    0.475
+   ],
+   [
+    0.6619,
+    0.7464,
+    0.47
+   ],
+   [
+    0.7464,
+    0.8309,
+    0.47
+   ],
+   [
+    0.8309,
+    0.9155,
+    0.4683
+   ],
+   [
+    0.9155,
+    1.0,
+    0.4783
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2480,
+  "completion_tokens": 808,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.46,
+ "created_at": "2026-10-18T11:12:02+00:00",
+ "content": "<x_0.0469><y_0.0>Abyssinia.<x_0.1807><y_0.0219><class_Caption>\n\n<x_0.1797><y_0.0>her affairs entirely to Frumientius, who made use of his influence to diffuse the Christian religion through- out the country, and at last was appointed bishop of Axuma. It is said, however, that the court and principal people, if not the nation in general, relapsed intoidolatry, which continued to prevail till the year 521, when they were again converted by their king Adad or Aidog.<x_0.9639><y_0.1094><class_Text>\n\n<x_0.1787><y_0.1062>The two princes Abra and Asba, who reigned jointly in Ethiopia in the time of Frumentius, lived in such harmony together, that their friendship became almost proverbial. After being converted to Christianity, they adhered strictly to the orthodox doctrine, refusing to admit an Arian bishop into their country. In the time of the emperor Constantius, however, this heresy was introduced, and greatly favoured by that monarch; and an attempt was made to depose Frumentius on account of his refusal to embrace it.<x_0.9648><y_0.2492><class_Text>\n\n<x_0.1777><y_0.25>The reign of these princes is remarkable for an expedition into Arabia Felix, called by the Mohamme dan writers the war of the elephant, and which was undertaken on the following occasion: The temple of Mecca, situated nearly in the middle of the Arabian peninsula, had been held in the greatest veneration for near 1400 years; probably from the notion entertained by the people in the neighbourhood, that Adam pitched his tent on that spot. Here also was a black stone supposed to possess extraordinary sanctity, as being that on which Jacob laid his head when he had the vision of angels. The most probable account of the real origin of this temple, according to Mr Bruce, is, that it was built by Sesostris, and that he himself was worshipped there under the name of Osiris.<x_0.9619><y_0.4617><class_Text>\n\n<x_0.1602><y_0.4609>On account of the veneration in which this tower and idol were held by the Arabians, Mr Bruce supposes that the thought was first suggested of making it the emporium of the trade between India and Africa; but Abra, in order to divert it into another channel, built a very large temple near the Indian ocean in the country of the Homerites; and, to encourage the resort of people to this new temple, he bestowed upon it all the privileges of the former which stood in the city of Mecca. The tribe of Arabians named _Koreish_, in whose country Mecca stood, being exceedingly alarmed at the thoughts of having their temple deserted, entered the new one in the night, burned all that could be consumed, and besmeared the remains with human excements. Abra, provoked at this sacrifice, assembled a considerable army, with which he invested Mecca, himself appearing on a white elephant, from whence the war took its name already mentioned. The termination of the war, according to the Arabian historians, was miraculous. A vast number of birds named _Ababil_ came from the sea, having faces like lions; each carrying in its claws a small stone about the size of a pea, which they let fall upon the Ethiopian army in such numbers, that every one of them was destroyed. At this time it is said that the smallpox first made its appearance; and the more probable account of the destruction of the Ethiopian army is, that they perished by this distemper.<x_0.9629><y_0.8609><class_Text>\n\n<x_0.1592><y_0.8586>The war of the elephant is supposed to have terminated in the manner above mentioned about the year 360; from which time to that of Elesbaan, named also _Caleb_, and probably the same with the Adad or A-<x_0.9355><y_0.9172><class_Text>\n\n<x_0.1924><y_0.9148>Vol. I. Part I.<x_0.418><y_0.9313><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-cf173ed9-9c4f-4217-87b9-681f676fcda0",
+  "object": "chat.completion",
+  "created": 1792321921,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0469><y_0.0>Abyssinia.<x_0.1807><y_0.0219><class_Caption>\n\n<x_0.1797><y_0.0>her affairs entirely to Frumientius, who made use of his influence to diffuse the Christian religion through- out the country, and at last was appointed bishop of Axuma. It is said, however, that the court and principal people, if not the nation in general, relapsed intoidolatry, which continued to prevail till the year 521, when they were again converted by their king Adad or Aidog.<x_0.9639><y_0.1094><class_Text>\n\n<x_0.1787><y_0.1062>The two princes Abra and Asba, who reigned jointly in Ethiopia in the time of Frumentius, lived in such harmony together, that their friendship became almost proverbial. After being converted to Christianity, they adhered strictly to the orthodox doctrine, refusing to admit an Arian bishop into their country. In the time of the emperor Constantius, however, this heresy was introduced, and greatly favoured by that monarch; and an attempt was made to depose Frumentius on account of his refusal to embrace it.<x_0.9648><y_0.2492><class_Text>\n\n<x_0.1777><y_0.25>The reign of these princes is remarkable for an expedition into Arabia Felix, called by the Mohamme dan writers the war of the elephant, and which was undertaken on the following occasion: The temple of Mecca, situated nearly in the middle of the Arabian peninsula, had been held in the greatest veneration for near 1400 years; probably from the notion entertained by the people in the neighbourhood, that Adam pitched his tent on that spot. Here also was a black stone supposed to possess extraordinary sanctity, as being that on which Jacob laid his head when he had the vision of angels. The most probable account of the real origin of this temple, according to Mr Bruce, is, that it was built by Sesostris, and that he himself was worshipped there under the name of Osiris.<x_0.9619><y_0.4617><class_Text>\n\n<x_0.1602><y_0.4609>On account of the veneration in which this tower and idol were held by the Arabians, Mr Bruce supposes that the thought was first suggested of making it the emporium of the trade between India and Africa; but Abra, in order to divert it into another channel, built a very large temple near the Indian ocean in the country of the Homerites; and, to encourage the resort of people to this new temple, he bestowed upon it all the privileges of the former which stood in the city of Mecca. The tribe of Arabians named _Koreish_, in whose country Mecca stood, being exceedingly alarmed at the thoughts of having their temple deserted, entered the new one in the night, burned all that could be consumed, and besmeared the remains with human excements. Abra, provoked at this sacrifice, assembled a considerable army, with which he invested Mecca, himself appearing on a white elephant, from whence the war took its name already mentioned. The termination of the war, according to the Arabian historians, was miraculous. A vast number of birds named _Ababil_ came from the sea, having faces like lions; each carrying in its claws a small stone about the size of a pea, which they let fall upon the Ethiopian army in such numbers, that every one of them was destroyed. At this time it is said that the smallpox first made its appearance; and the more probable account of the destruction of the Ethiopian army is, that they perished by this distemper.<x_0.9629><y_0.8609><class_Text>\n\n<x_0.1592><y_0.8586>The war of the elephant is supposed to have terminated in the manner above mentioned about the year 360; from which time to that of Elesbaan, named also _Caleb_, and probably the same with the Adad or A-<x_0.9355><y_0.9172><class_Text>\n\n<x_0.1924><y_0.9148>Vol. I. Part I.<x_0.418><y_0.9313><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2480,
+   "completion_tokens": 808,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

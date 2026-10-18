@@ -77,7 +77,8 @@ def main(argv: list[str] | None = None) -> int:
     args = parser().parse_args(argv)
     try:
         if args.command == "stages":
-            result = [{"stage": stage, "status": "TODO", "guide": f"docs/milestones.md#{stage}"} for stage in tasks.STAGES]
+            result = [{"stage": stage, "status": "implemented" if stage in tasks.IMPLEMENTED else "TODO",
+                       "guide": f"docs/milestones.md#{stage}"} for stage in tasks.STAGES]
         elif args.command == "data":
             from .data import fetch_sample, load_manifest
 

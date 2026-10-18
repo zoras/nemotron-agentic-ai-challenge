@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "2b82dbe276e1401b7d3d709ccbe8b873c559e0e418692cc99e47ff01eceb7fdb",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "63d9e82081c4ccd6c4357ec4ec516fe501bbf2d7f946fa6a80089c5a2031b420",
+  "image_bytes": 2629173,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1166",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.053,
+   0.4667,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.053,
+    0.1391,
+    0.4617
+   ],
+   [
+    0.1391,
+    0.2252,
+    0.4617
+   ],
+   [
+    0.2252,
+    0.3113,
+    0.4617
+   ],
+   [
+    0.3113,
+    0.3974,
+    0.4617
+   ],
+   [
+    0.3974,
+    0.4835,
+    0.4617
+   ],
+   [
+    0.4835,
+    0.5695,
+    0.4617
+   ],
+   [
+    0.5695,
+    0.6556,
+    0.4617
+   ],
+   [
+    0.6556,
+    0.7417,
+    0.4617
+   ],
+   [
+    0.7417,
+    0.8278,
+    0.4617
+   ],
+   [
+    0.8278,
+    0.9139,
+    0.4617
+   ],
+   [
+    0.9139,
+    1.0,
+    0.4617
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2405,
+  "completion_tokens": 861,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.37,
+ "created_at": "2026-10-18T11:10:40+00:00",
+ "content": "<x_0.0947><y_0.0>We may then ask, if there are any possible means by which the people can make a good choice, besides the _liberty of the press?_ The very foundation of a good choice is knowledge. The fuller and more perfect the know-ledge, the better the chance, where all sinister interest is absent, of a good choice. How can the people receive the most perfect knowledge relative to the characters of those who present themselves to their choice, but by information conveyed freely, and without reserve, from one to another ?<x_0.9912><y_0.1352><class_Text>\n\n<x_0.0957><y_0.1328>There is another use of the freedom of the press, no less deserving the most profound attention, that of making known the conduct of the individuals who have been chosen. This latter service is of so much importance, that upon it the whole value of the former depends.<x_0.9795><y_0.2016><class_Text>\n\n<x_0.0938><y_0.1992>This is capable of being rigidly demonstrated. No be-nefit is obtained by making choice of a man who is well qualified to serve the people, and also well inclined to serve them, if you place him in a situation in which he will have preponderant motives to serve himself at their expense.<x_0.9805><y_0.2805><class_Text>\n\n<x_0.0928><y_0.2789>If any set of men are chosen to wield the powers of government, while the people have not the means of knowing in what manner they discharge their duties, they will have the means of serving themselves at the expense of the people; and all the miseries of evil government are the certain consequence.<x_0.9814><y_0.3602><class_Text>\n\n<x_0.0918><y_0.3586>Suppose the people to choose the members of the legislative assembly, with power of rechoosing or dismissing them at short intervals; to what desirable end could these powers be exercised, without the liberty of the press? Suppose that any one of those whom they have chosen has misconducted himself, or promoted, as far as depend-ed upon him, the ends of misgovernment, how are the people to know that the powers with which they had in- trusted him had been treacherously employed ?<x_0.9785><y_0.4797><class_Text>\n\n<x_0.0908><y_0.4766>If they do not know, they will rechoose him, and that as cordially as the man who has served them with the great-est fidelity. This they are under a deplorable necessity of doing, even to be just; for, as they know no difference between him and the best, it would be on their part ini-quity to make any. The consequences would be fatal. If one man saw that he might promote misrule for his own advantage, so would another; so of course would they all. In these circumstances we see laid the foundation on which, in every country, bad government is reared. On this foundation it is impossible that it should not be reared. When the causes are the same, who can expect that the effects will be different? It is unnecessary to dwell upon these fundamental truths, because they have already been developed in the article GOVERNMENT.<x_0.9775><y_0.6789><class_Text>\n\n<x_0.0898><y_0.6742>Without the knowledge, then, of what is done by their representatives, in the use of the powers intrusted to them, the people cannot profit by the power of choosing them, and the advantages of good government are unattainable. It will not surely cost many words to satisfy all classes of readers, that, without the free and unrestrain-ed use of the press, the requisite knowledge cannot be obtained.<x_0.9766><y_0.7844><class_Text>\n\n<x_0.0879><y_0.7789>That an accurate report of what is done by each of the representatives, a transcript of his speeches, and a statement of his propositions and votes, is necessary to be laid before the people, to enable them to judge of his conduct, nobody, we presume, will deny. This requires the use of the cheapest means of communication, and, we add, the free use of those means. Unless every man has the liberty of publishing the proceedings of the legislative assembly, the people can have no security that they are fairly published. If it is in the power of their rulers to permit one person, and forbid another, the people may be sure that a false report, that is, a report calculated to<x_0.9756><y_0.9469><class_Text>",
+ "reply": {
+  "id": "chatcmpl-462fa528-5090-4e18-be6d-f163b10a397c",
+  "object": "chat.completion",
+  "created": 1792321839,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0947><y_0.0>We may then ask, if there are any possible means by which the people can make a good choice, besides the _liberty of the press?_ The very foundation of a good choice is knowledge. The fuller and more perfect the know-ledge, the better the chance, where all sinister interest is absent, of a good choice. How can the people receive the most perfect knowledge relative to the characters of those who present themselves to their choice, but by information conveyed freely, and without reserve, from one to another ?<x_0.9912><y_0.1352><class_Text>\n\n<x_0.0957><y_0.1328>There is another use of the freedom of the press, no less deserving the most profound attention, that of making known the conduct of the individuals who have been chosen. This latter service is of so much importance, that upon it the whole value of the former depends.<x_0.9795><y_0.2016><class_Text>\n\n<x_0.0938><y_0.1992>This is capable of being rigidly demonstrated. No be-nefit is obtained by making choice of a man who is well qualified to serve the people, and also well inclined to serve them, if you place him in a situation in which he will have preponderant motives to serve himself at their expense.<x_0.9805><y_0.2805><class_Text>\n\n<x_0.0928><y_0.2789>If any set of men are chosen to wield the powers of government, while the people have not the means of knowing in what manner they discharge their duties, they will have the means of serving themselves at the expense of the people; and all the miseries of evil government are the certain consequence.<x_0.9814><y_0.3602><class_Text>\n\n<x_0.0918><y_0.3586>Suppose the people to choose the members of the legislative assembly, with power of rechoosing or dismissing them at short intervals; to what desirable end could these powers be exercised, without the liberty of the press? Suppose that any one of those whom they have chosen has misconducted himself, or promoted, as far as depend-ed upon him, the ends of misgovernment, how are the people to know that the powers with which they had in- trusted him had been treacherously employed ?<x_0.9785><y_0.4797><class_Text>\n\n<x_0.0908><y_0.4766>If they do not know, they will rechoose him, and that as cordially as the man who has served them with the great-est fidelity. This they are under a deplorable necessity of doing, even to be just; for, as they know no difference between him and the best, it would be on their part ini-quity to make any. The consequences would be fatal. If one man saw that he might promote misrule for his own advantage, so would another; so of course would they all. In these circumstances we see laid the foundation on which, in every country, bad government is reared. On this foundation it is impossible that it should not be reared. When the causes are the same, who can expect that the effects will be different? It is unnecessary to dwell upon these fundamental truths, because they have already been developed in the article GOVERNMENT.<x_0.9775><y_0.6789><class_Text>\n\n<x_0.0898><y_0.6742>Without the knowledge, then, of what is done by their representatives, in the use of the powers intrusted to them, the people cannot profit by the power of choosing them, and the advantages of good government are unattainable. It will not surely cost many words to satisfy all classes of readers, that, without the free and unrestrain-ed use of the press, the requisite knowledge cannot be obtained.<x_0.9766><y_0.7844><class_Text>\n\n<x_0.0879><y_0.7789>That an accurate report of what is done by each of the representatives, a transcript of his speeches, and a statement of his propositions and votes, is necessary to be laid before the people, to enable them to judge of his conduct, nobody, we presume, will deny. This requires the use of the cheapest means of communication, and, we add, the free use of those means. Unless every man has the liberty of publishing the proceedings of the legislative assembly, the people can have no security that they are fairly published. If it is in the power of their rulers to permit one person, and forbid another, the people may be sure that a false report, that is, a report calculated to<x_0.9756><y_0.9469><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2405,
+   "completion_tokens": 861,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

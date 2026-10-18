@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "45895d5e0621175fcd7dca83dab0f333fe3a99ce37e47529f531abc6249c3728",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "0dca9f142e864854be0e502b099f60744e3a4480dc80ea27eb42ecad5f608a8d",
+  "image_bytes": 1379116,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1580",
+  "variant": "s0-wide.a",
+  "crop": [
+   0.0,
+   0.0106,
+   1.0,
+   0.5244
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 958,
+  "total_tokens": 1972,
+  "completion_tokens": 1014,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.3,
+ "created_at": "2026-10-18T11:20:08+00:00",
+ "content": "<x_0.2539><y_0.0148>TRIGONOMETRY.<x_0.6924><y_0.0508><class_Section-header>\n\n<x_0.8545><y_0.0219>909<x_0.8955><y_0.0516><class_Text>\n\n<x_0.043><y_0.0555>Is to their difference 21 ' 1.32222 So is the tangent of half the fum of? the angles D and C 61° 58' 10.27372 To the tangent of half their difference 7° 50' 9.13806 So by theorem 3. we have the angles D and C thus: To half the fum of the angles D and C 61° 58' Add half their difference 7° 50' And the fum is the greater angle D 69° 48' Alfo, from half the fum 61° 58' Take half the difference 7° 50' And there remains the leffer angle C 54° 08' Then by Cafe II. we have the following analogy for finding DC the leg required, viz. S.C: B D :: S, B: DC. i. e. As the fine of C 54° 08' To BD 133 2.12385 So is the fine of B 56° 03' 9.91883 To DC 136.2 2.13399 Case VI. Three fides being given, to find the angles. EXAMPLE: In the triangle A B C (ibid n° 9.) fuppofe AB=156, AC=185.7, and BC=84; required the angles A, B, and C.<x_0.4648><y_0.7055><class_Text>\n\n<x_0.0439><y_0.7039>I. _Geometrically_: Make AC=185.7 from any line of e-qual parts; and from the fame line taking I 56=AB in your compaßes, fix one foot of them in A, and with another fweep an arch; then take 84=BC in your compaßes, and fixing one foot in C, with the other fweep an arch, which will crofs the former in B: lafly, join the points B and A, and B and C; fo the triangle will be contructed, and the angles may be measured by a line of chords.<x_0.4658><y_0.9195><class_Text>\n\n<x_0.0449><y_0.918>II. _By calculation_: Let fall the perpendicular, B D, from the vertex B, upon the bafe AC; which will divide the bafe into two fragments AD and DC, the lengths where-<x_0.4639><y_0.9984><class_Text>\n\n<x_0.4727><y_0.0547>Alfo the angle C is found by the fame cafe, thus: As BC 84 1.92428 To CD 46.3 To CD 1 66558 So is the radius 90° 10 00000 To the co.fine of C 56° 30° 9 74130 Having found the two angles A and C, we have the third, B, by taking the fum of the other two from 180, thus: The fum of all the three angles is 180° The fum of A and C is 83° 10' The angle B is 96° 50' All the proportions ufed for the folutions of the feveral cafes in plain trigonometry, may be performed by the feale and compaßs. On the feale there are feveral logarithmic lines, viz one of numbers, another of fines, and one of tangents, Ec. And the way of working a proportion by thefe is this, viz, extend your compaßes from the frit term of your portion, found on the feale, to the fecond; and with that extent, fixing one foot in the third term, the other will reach the fourth term required.<x_0.8945><y_0.6555><class_Text>\n\n<x_0.502><y_0.6719>SPHERICAL TRIGONOMETRY.<x_0.8643><y_0.707><class_Section-header>\n\n<x_0.4736><y_0.7273>SPHERICAL TRIGONOMETRY is the art whereby, fromthree given parts of a fpherical triangle, we discover the relt; and, like plane trigonometry, is either right-angled, or oblique-angled. But before we give the analogies for the foliation of the feveral cafes in either, it will be proper to premife the following theorems.<x_0.8965><y_0.8906><class_Text>\n\n<x_0.4746><y_0.8898>THEOREM I. In all right-angled spherical triangles, the fine of the hypothenufe: radius : fine of a leg : fine of its opposite angle. And the fine of a leg: radius : tan-gent of the other leg: tangent of its opposite angle.<x_0.8936><y_0.9977><class_Text>",
+ "reply": {
+  "id": "chatcmpl-963d14ca-d785-4087-b50f-d5e9ffb57e68",
+  "object": "chat.completion",
+  "created": 1792322407,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.2539><y_0.0148>TRIGONOMETRY.<x_0.6924><y_0.0508><class_Section-header>\n\n<x_0.8545><y_0.0219>909<x_0.8955><y_0.0516><class_Text>\n\n<x_0.043><y_0.0555>Is to their difference 21 ' 1.32222 So is the tangent of half the fum of? the angles D and C 61° 58' 10.27372 To the tangent of half their difference 7° 50' 9.13806 So by theorem 3. we have the angles D and C thus: To half the fum of the angles D and C 61° 58' Add half their difference 7° 50' And the fum is the greater angle D 69° 48' Alfo, from half the fum 61° 58' Take half the difference 7° 50' And there remains the leffer angle C 54° 08' Then by Cafe II. we have the following analogy for finding DC the leg required, viz. S.C: B D :: S, B: DC. i. e. As the fine of C 54° 08' To BD 133 2.12385 So is the fine of B 56° 03' 9.91883 To DC 136.2 2.13399 Case VI. Three fides being given, to find the angles. EXAMPLE: In the triangle A B C (ibid n° 9.) fuppofe AB=156, AC=185.7, and BC=84; required the angles A, B, and C.<x_0.4648><y_0.7055><class_Text>\n\n<x_0.0439><y_0.7039>I. _Geometrically_: Make AC=185.7 from any line of e-qual parts; and from the fame line taking I 56=AB in your compaßes, fix one foot of them in A, and with another fweep an arch; then take 84=BC in your compaßes, and fixing one foot in C, with the other fweep an arch, which will crofs the former in B: lafly, join the points B and A, and B and C; fo the triangle will be contructed, and the angles may be measured by a line of chords.<x_0.4658><y_0.9195><class_Text>\n\n<x_0.0449><y_0.918>II. _By calculation_: Let fall the perpendicular, B D, from the vertex B, upon the bafe AC; which will divide the bafe into two fragments AD and DC, the lengths where-<x_0.4639><y_0.9984><class_Text>\n\n<x_0.4727><y_0.0547>Alfo the angle C is found by the fame cafe, thus: As BC 84 1.92428 To CD 46.3 To CD 1 66558 So is the radius 90° 10 00000 To the co.fine of C 56° 30° 9 74130 Having found the two angles A and C, we have the third, B, by taking the fum of the other two from 180, thus: The fum of all the three angles is 180° The fum of A and C is 83° 10' The angle B is 96° 50' All the proportions ufed for the folutions of the feveral cafes in plain trigonometry, may be performed by the feale and compaßs. On the feale there are feveral logarithmic lines, viz one of numbers, another of fines, and one of tangents, Ec. And the way of working a proportion by thefe is this, viz, extend your compaßes from the frit term of your portion, found on the feale, to the fecond; and with that extent, fixing one foot in the third term, the other will reach the fourth term required.<x_0.8945><y_0.6555><class_Text>\n\n<x_0.502><y_0.6719>SPHERICAL TRIGONOMETRY.<x_0.8643><y_0.707><class_Section-header>\n\n<x_0.4736><y_0.7273>SPHERICAL TRIGONOMETRY is the art whereby, fromthree given parts of a fpherical triangle, we discover the relt; and, like plane trigonometry, is either right-angled, or oblique-angled. But before we give the analogies for the foliation of the feveral cafes in either, it will be proper to premife the following theorems.<x_0.8965><y_0.8906><class_Text>\n\n<x_0.4746><y_0.8898>THEOREM I. In all right-angled spherical triangles, the fine of the hypothenufe: radius : fine of a leg : fine of its opposite angle. And the fine of a leg: radius : tan-gent of the other leg: tangent of its opposite angle.<x_0.8936><y_0.9977><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 958,
+   "total_tokens": 1972,
+   "completion_tokens": 1014,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

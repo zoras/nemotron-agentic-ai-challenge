@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "5369e47e2b1f62eff62bff1a4a629d56c6c81beb8c5857a7801bc717d763e57d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "0c673ca036743e9396dcc03a5ae8e3dd3a4bd87215e6086a57c541d7ef1c0cf3",
+  "image_bytes": 2041391,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:318",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4533,
+   0.0514,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0514,
+    0.1376,
+    0.47
+   ],
+   [
+    0.1376,
+    0.2239,
+    0.4667
+   ],
+   [
+    0.2239,
+    0.3101,
+    0.4667
+   ],
+   [
+    0.3101,
+    0.3963,
+    0.4667
+   ],
+   [
+    0.3963,
+    0.4826,
+    0.4667
+   ],
+   [
+    0.4826,
+    0.5688,
+    0.4667
+   ],
+   [
+    0.5688,
+    0.6551,
+    0.4633
+   ],
+   [
+    0.6551,
+    0.7413,
+    0.4617
+   ],
+   [
+    0.7413,
+    0.8275,
+    0.46
+   ],
+   [
+    0.8275,
+    0.9138,
+    0.4583
+   ],
+   [
+    0.9138,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2701,
+  "completion_tokens": 901,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.58,
+ "created_at": "2026-10-18T11:10:11+00:00",
+ "content": "<x_0.041><y_0.0>tween the different countries weft and eaft, is at once the fource of their riches, and of those rivers which conduct to the treafures, which would be otherwise in accefible, in the eastern parts of the kingdoms of Be- nin, Congo, and Angola.<x_0.7734><y_0.0727><class_Text>\n\n<x_0.0322><y_0.0672>\" There are three remarkable appearances attending the inundation of the Nile. Every morning in Abyffinia is clear, and the fun hines. About nine, a final cloud, not above four feet broad, appears in the eaft, whirling violently round as if upon an axis; but, arrived near the zenith, it firft abates its motion, then lofes its form,and extends itself greatly, and feems to call up vapours from all the opposite quarters Thefe clouds having attained nearly the fame height, ruth againft each other with greit violence, and put me always in mind of Elifha foretelling rain on mount Carmel. The air impelled before the heavierft mafs, or twiftelt mover, makes an impreffion of its form on the collection of clouds oppofite ; and the moment it has taken poffeffion of the fpace made to receive it, the moft violent thunder poflible to be conceived infantly follows, with rain: after fome hours the fly again clears, with a wind at north ; and it is always difa- greeably cold when the thermometer is below 63°.<x_0.7656><y_0.3469><class_Text>\n\n<x_0.0234><y_0.3398>\" The second thing remarkable is the variation of the thermometer. When the fun is in the fouthern tropic, 36° distant from the zenith of Gondar, it is feldom lower than 72°; but it falls to 60°, and 63°, when the fun is immediately vertical ; fo happily does the approach of rain compenfate the heat of a too forching fun.<x_0.7568><y_0.4461><class_Text>\n\n<x_0.0166><y_0.4391>\" The third is that remarkable flop in the extent of the rain northward, when the fun, that has conducted the vapours from the line, and Ihould feem now more than ever to be in poffeffion of them, is here over-ruled fuddenly ; till, on its return to Gorri, again it refumes the abfolute command over the rain, and reconducts it to the Line, to furnish difant de- luges to the fouthward.\"<x_0.7461><y_0.5617><class_Text>\n\n<x_0.0><y_0.5539>With regard to the Nile itself, it has been laid that the quantity of earth brought down by it from Abyffinia is fo great, that the whole land of Egypt is produced from it. This question, however, is dicuffed under the article EGYPT, where it is shown that this cannot poffibly be the cafe.-- Among other authorities there quoted was that of Mr Volney, who ftrenuoufly argues against the opinion of Mr Savary and others, who have maintained that Egypt is the gift of the Nile. Notwithstanding this, however, we find him affecting that the foil of Egypt has undoubtedly been augmented by the Nile: in which cafe it is not unreasonable to fuppote that it has been produced by it altogether.-- \"The reader (fays he) will conclude, doubtlefs, from what I have said, that writers have flattered themselves too much in fuppoting they could fix the precife limits of the enlargement and rifle of the Delta. But, though I would reject all illufory circumflances, I am far from denying the fact to be well founded ; it is too plain from realon, and an examination of the country. The rifle of the ground appears to me demonstrated by an observation on which little firefs has been laid. In going from Rofetta to Cairo, when the waters are low, as in the month of March, we may remark, as we go up the river, that the there ifes gradually above the water; fo thatif it overflowed<x_0.7354><y_0.9344><class_Text>\n\n<x_0.3311><y_0.9281>K 2<x_0.4111><y_0.9445><class_Page-footer>\n\n<x_0.7871><y_0.0>Nile.<x_0.9043><y_0.0266><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-c10aad0b-f780-45c1-8486-16ab064cb3a5",
+  "object": "chat.completion",
+  "created": 1792321809,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.041><y_0.0>tween the different countries weft and eaft, is at once the fource of their riches, and of those rivers which conduct to the treafures, which would be otherwise in accefible, in the eastern parts of the kingdoms of Be- nin, Congo, and Angola.<x_0.7734><y_0.0727><class_Text>\n\n<x_0.0322><y_0.0672>\" There are three remarkable appearances attending the inundation of the Nile. Every morning in Abyffinia is clear, and the fun hines. About nine, a final cloud, not above four feet broad, appears in the eaft, whirling violently round as if upon an axis; but, arrived near the zenith, it firft abates its motion, then lofes its form,and extends itself greatly, and feems to call up vapours from all the opposite quarters Thefe clouds having attained nearly the fame height, ruth againft each other with greit violence, and put me always in mind of Elifha foretelling rain on mount Carmel. The air impelled before the heavierft mafs, or twiftelt mover, makes an impreffion of its form on the collection of clouds oppofite ; and the moment it has taken poffeffion of the fpace made to receive it, the moft violent thunder poflible to be conceived infantly follows, with rain: after fome hours the fly again clears, with a wind at north ; and it is always difa- greeably cold when the thermometer is below 63°.<x_0.7656><y_0.3469><class_Text>\n\n<x_0.0234><y_0.3398>\" The second thing remarkable is the variation of the thermometer. When the fun is in the fouthern tropic, 36° distant from the zenith of Gondar, it is feldom lower than 72°; but it falls to 60°, and 63°, when the fun is immediately vertical ; fo happily does the approach of rain compenfate the heat of a too forching fun.<x_0.7568><y_0.4461><class_Text>\n\n<x_0.0166><y_0.4391>\" The third is that remarkable flop in the extent of the rain northward, when the fun, that has conducted the vapours from the line, and Ihould feem now more than ever to be in poffeffion of them, is here over-ruled fuddenly ; till, on its return to Gorri, again it refumes the abfolute command over the rain, and reconducts it to the Line, to furnish difant de- luges to the fouthward.\"<x_0.7461><y_0.5617><class_Text>\n\n<x_0.0><y_0.5539>With regard to the Nile itself, it has been laid that the quantity of earth brought down by it from Abyffinia is fo great, that the whole land of Egypt is produced from it. This question, however, is dicuffed under the article EGYPT, where it is shown that this cannot poffibly be the cafe.-- Among other authorities there quoted was that of Mr Volney, who ftrenuoufly argues against the opinion of Mr Savary and others, who have maintained that Egypt is the gift of the Nile. Notwithstanding this, however, we find him affecting that the foil of Egypt has undoubtedly been augmented by the Nile: in which cafe it is not unreasonable to fuppote that it has been produced by it altogether.-- \"The reader (fays he) will conclude, doubtlefs, from what I have said, that writers have flattered themselves too much in fuppoting they could fix the precife limits of the enlargement and rifle of the Delta. But, though I would reject all illufory circumflances, I am far from denying the fact to be well founded ; it is too plain from realon, and an examination of the country. The rifle of the ground appears to me demonstrated by an observation on which little firefs has been laid. In going from Rofetta to Cairo, when the waters are low, as in the month of March, we may remark, as we go up the river, that the there ifes gradually above the water; fo thatif it overflowed<x_0.7354><y_0.9344><class_Text>\n\n<x_0.3311><y_0.9281>K 2<x_0.4111><y_0.9445><class_Page-footer>\n\n<x_0.7871><y_0.0>Nile.<x_0.9043><y_0.0266><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2701,
+   "completion_tokens": 901,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

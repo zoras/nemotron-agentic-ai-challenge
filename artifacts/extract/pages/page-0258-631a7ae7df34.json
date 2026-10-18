@@ -1,0 +1,330 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:258",
+ "row_index": 258,
+ "volume_id": "191679021",
+ "filename": "page-0258-631a7ae7df34.jpg",
+ "image_sha256": "631a7ae7df340a64a33318be0161e911b328ec2b7354754da2dc37a1606ece4c",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10196,
+  "median_grey": 206,
+  "layout_body_chars": 7319,
+  "layout_pictures": 0
+ },
+ "running_head": "W I L.  | 8 | 50 WILL",
+ "layout_raw": "page-0258-631a7ae7df34/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0,
+    0.535,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.5267
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.53
+    ],
+    [
+     0.1667,
+     0.25,
+     0.53
+    ],
+    [
+     0.25,
+     0.3333,
+     0.53
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.53
+    ],
+    [
+     0.4167,
+     0.5,
+     0.53
+    ],
+    [
+     0.5,
+     0.5833,
+     0.53
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.53
+    ],
+    [
+     0.6667,
+     0.75,
+     0.53
+    ],
+    [
+     0.75,
+     0.8333,
+     0.53
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.53
+    ],
+    [
+     0.9167,
+     1.0,
+     0.53
+    ]
+   ],
+   "raw_path": "page-0258-631a7ae7df34/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "b88ea853fe7d59d2660e5602d4ae3422bc9395ffff81881ebbe5f3517d022c58"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5217,
+    0.0,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.5267
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.53
+    ],
+    [
+     0.1667,
+     0.25,
+     0.53
+    ],
+    [
+     0.25,
+     0.3333,
+     0.53
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.53
+    ],
+    [
+     0.4167,
+     0.5,
+     0.53
+    ],
+    [
+     0.5,
+     0.5833,
+     0.53
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.53
+    ],
+    [
+     0.6667,
+     0.75,
+     0.53
+    ],
+    [
+     0.75,
+     0.8333,
+     0.53
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.53
+    ],
+    [
+     0.9167,
+     1.0,
+     0.53
+    ]
+   ],
+   "raw_path": "page-0258-631a7ae7df34/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "a31296a0a945f6fc015a069a86e688d03759f4fb2f0e8c3f056f80a24c346dcc"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Page-header",
+   "text": "W I L.  | 8",
+   "bbox": [
+    0.2393,
+    0.0,
+    0.5303,
+    0.0195
+   ],
+   "source": "s0-col-left",
+   "id": "page-0258-631a7ae7df34:b0"
+  },
+  {
+   "order": 1,
+   "class": "Text",
+   "text": "lorhip, and fome time after the great feal. Edward being returned to England, after having carried on a very fuccella- ful war in France, found his exchequer in great diforder. The duke of Lancalter, one of his fons, at the head of feveral lords, having brought complaints against the clergy, who then enjoyed moft polls in the kingdom, the king removed them from their employments. But the laymen, who were railed to them, behaved fo ill, that the king was forced to relore the ecclefiaflics. The duke of Lancafter showed thong animosity to the clergy, and fet every engine at work to run Wykcham. He impeached him of extortion, and of difguiling things, and obliged him to appear at the King's-bench. He got fuch judges appointed as condemued him; and not fattisied with depriving him of all the temporalities of his bihopric, he advifed Edward to banith him: but this prince rejected the propofal, and afterward reflored to Wykcham all that he had been divefled of. Richard II. was but eleven years old when Edward died; whereby the duke of Lancalter had an easy opportunity of reviving the accuations against the bihop of Winchelter: neverthelefs Wykcham cleared himself. Then he founded two noble colleges, the one in Oxford, the other in Winchefter. Whilft he was exerting his utmolt endeavours to improve thefe two fine foundations, he was recalled to court, and in a manner forced to accept of the office of lord highchancellor in 1389.--Having excellently discharged the duties of that employment for three years, he obtained leave to reign it, forefecing the disturbances that were going to break out. Being returned to his church, he finished his college, and built there fo magnificent a cathedral, that it almost equals that of St Paul's in London. He laid out several fums in things advantageous to the public and to the poor; notwithstanding which, in 1397 he was in great danger; for he and fome others were impeached of hightreafon in open parliament: however, he was again fully cleared. From that time till his death he kept quiet in his diocefe, and there employed himself in all the duties of a good prelate. He died in 1404, in the 81ft year of his age.",
+   "bbox": [
+    0.0909,
+    0.0203,
+    0.5298,
+    0.5422
+   ],
+   "source": "s0-col-left",
+   "id": "page-0258-631a7ae7df34:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "WILLIAM, the name of feveral kings of England. See ENOLAND, n 87 -92, and BRITAIN, n' 302.",
+   "bbox": [
+    0.0967,
+    0.5414,
+    0.5256,
+    0.568
+   ],
+   "source": "s0-col-left",
+   "id": "page-0258-631a7ae7df34:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "_Fort-WilLtam_, a fortrefs in the Highlands of Scotland, erected in king William's reign, as was alfo a fmall town adjoining, called _Maryburgh_, in honour of his queen. It is situated in Invernefshire, on a narrow arm of the fea called _Loch Eil_, which might cafily, by a very flort canal, be united to the Weffern fea. Fort-William is of a triangular form, having two battions, and is capable of admitting a garrison of 800 men; but could not be defended against an attack, as it is commanded by feveral hills in the neighbourhood.",
+   "bbox": [
+    0.0956,
+    0.5687,
+    0.525,
+    0.7008
+   ],
+   "source": "s0-col-left",
+   "id": "page-0258-631a7ae7df34:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "_Willian’s Fort_, is a factory of Afia belonging to the East-India company, feated on one of the branches of the river Ganges, in the kingdom of Bengal. The tort was first built in the shape of an irregular tetragon of brick and mortar; and the town has nothing regular in it, because every one built a houfe as he liked belt, and for his own convenience. The governor's house is within the fort, and is the belt piece of architecture in thefe parts. Here there are alfo convenient lodgings for the factors and writers, with flore-houfes for the company's goods, and magazines for ammunition. About 50 yards from the fort is the church, built by the charity of merchants refiding here. The town is called _Calcutta_, and has a pretty good holpital for the leek, though few come out of it alive. It is governed by a mayor and aldermen, as most of the company's factories in the East Indies now are. In 1757 it was fur-",
+   "bbox": [
+    0.0951,
+    0.7,
+    0.5246,
+    0.9203
+   ],
+   "source": "s0-col-left",
+   "id": "page-0258-631a7ae7df34:b4"
+  },
+  {
+   "order": 5,
+   "class": "Page-header",
+   "text": "50 WILL",
+   "bbox": [
+    0.5254,
+    0.0,
+    0.8267,
+    0.0234
+   ],
+   "source": "s0-col-right",
+   "id": "page-0258-631a7ae7df34:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "prifed by the nabob of Bengal, who took it, and put met\nof thofe that had made refilience into a place called the\n_Black Hole_, where moft of them were fmothered. This\nnabob was afterwards killed, and another fet up in his room,\nmore friendly to the Engliih; and the factory was re-efta-\nblified. R. Long. 86. 0. N. Lat. 22. 27.",
+   "bbox": [
+    0.5343,
+    0.0219,
+    0.9519,
+    0.1062
+   ],
+   "source": "s0-col-right",
+   "id": "page-0258-631a7ae7df34:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "_Sweet-WILLISM._ See DIANTHUS.",
+   "bbox": [
+    0.5526,
+    0.1023,
+    0.8048,
+    0.118
+   ],
+   "source": "s0-col-right",
+   "id": "page-0258-631a7ae7df34:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "WILLIAMSBURG, a town of North America, in\nVirginia, and formerly capital of that fate. It is situated\nbetween two creeks; one falling into James, and the other\ninto York River. The distance of each landing place is\nabout a mile from the town, which, with the disadvantage\nof not being able to bring up large veffels, and the want of\nenterprife in the inhabitants, has occationed its decay. Here\nis a college, defigned for the education of the Indians, but\nwhich, on account of their avertion to learning, never an-\nfwered the purpose. It is 60 miles east of Richmond. W.\nLong. 76. 30. N. Lat. 37. 10.",
+   "bbox": [
+    0.5338,
+    0.1156,
+    0.9556,
+    0.2648
+   ],
+   "source": "s0-col-right",
+   "id": "page-0258-631a7ae7df34:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "WILLIAMSTADT, a fea-port town of Holland. It\nis a handfome frong place, and the harbour is well frequent-\ned. It was built by William prince of Orange in 1585;\nand in 1732 belonged to the fladtholder of Frieland. The\nriver near which it is built is called _Butterflict_ or _Holland_\n_Disp_; and is one of the bulwarks of the Dutch on the fide\nof Brabant, where they always keep a garrifon. This place\nmade a gallant defence in 1793 against the French, who\nwere obliged to raife the flege. It is 15 miles north-eaft of\nBergen-op-Zoom, and 12 fourth-weft of Dort. E. Long.\n4. 30. N. Lat. 51. 39.",
+   "bbox": [
+    0.5329,
+    0.2625,
+    0.9561,
+    0.4117
+   ],
+   "source": "s0-col-right",
+   "id": "page-0258-631a7ae7df34:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "WILLIS (Dr Thomas), a celebrated Engliith phyfician,\nwas born at Great Bodwin, in Wiltfhire, in 1621, and\nfluidied at Chrift-church college, Oxford. When that city\nwas garrisoned for the king, he, among other ferholars, bore\narms for his Majcity, and devoted his leifure hours to the\nfludy of phyfic. The garrifon of Oxford at length furren-\ndering to the parliament, he applied himself to the practice\nof his profeffion; and foon rendered himself famous by his\ncare and fill. He appropriated a room as an oratory for\ndivine service according to the church of England, whither\nmoft of the loyalitts in Oxford daily reforted. In 1660, he\nbecame Sedleian profeeffor of natural philosophy, and the\nfame year took the degree of doctor of phyfic. In 1664,\nhe dificovered the famous medicinal iprinz at Altropp, near\nBrackley. He was one of the first members of the Royal\nSociety, and foon made his name illustrious by his excellent\nwritings. In 1666, after the fire of London, he removed\nto Weltminfter; and his practice became greater than that\nof any of the phyficians his contemporaries. Soon after\nhis feettlement in London, his only ton Thomas falling into\na confumption, he fent him to Montpelier in France for the\nrecovery of his health; and it proved fuccefstul. His wife\nalfo labouring under the fame diforder, he offered to leave\nthe town; but file, not suffering him to neglect the means\nof providing for his family, died in 1670. He died at his\nhoute in St Martin's in 1675, and was buried near her in\nWeltminfter-abbey. Dr Willis was extremely modell and\nunambitious, and refufed the honogr of knighthood. He\nwas remarkably pious: As he rofe early in the morning,\nthat he might be prefent at divine service, which he conflant-\nly frequented before he vifted his patients, he procured\nprayers to be read beyond the accultomed times while he\nlived; and at his death fettled a flipend of 20l. per annum\nto continue them. He was a liberal benefactor to the poor\nwherever he came, having from his early practice allotted\npart of his profits to charitable ufes. He was exact and regular in all his hours: and though his table was the report\nof molt of the great men of London, yet he was remark-",
+   "bbox": [
+    0.532,
+    0.4094,
+    0.9542,
+    0.9203
+   ],
+   "source": "s0-col-right",
+   "id": "page-0258-631a7ae7df34:b10"
+  },
+  {
+   "order": 11,
+   "class": "Page-footer",
+   "text": "able",
+   "bbox": [
+    0.9211,
+    0.9156,
+    0.9533,
+    0.9305
+   ],
+   "source": "s0-col-right",
+   "id": "page-0258-631a7ae7df34:b11"
+  }
+ ]
+}

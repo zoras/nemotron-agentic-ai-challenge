@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "92d38d9a1a095f79c19dfb7b92adf459f103887f6e57af6a72e842ebfe4a5d82",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f3c440b82b3282b6b302fc6d85a6448d6ee1ec71dc304bbf6732e03df010f730",
+  "image_bytes": 2051112,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1805",
+  "variant": "s0-col-right",
+  "crop": [
+   0.475,
+   0.0528,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0528,
+    0.1389,
+    0.48
+   ],
+   [
+    0.1389,
+    0.225,
+    0.4817
+   ],
+   [
+    0.225,
+    0.3111,
+    0.4817
+   ],
+   [
+    0.3111,
+    0.3972,
+    0.4817
+   ],
+   [
+    0.3972,
+    0.4833,
+    0.4817
+   ],
+   [
+    0.4833,
+    0.5695,
+    0.4817
+   ],
+   [
+    0.5695,
+    0.6556,
+    0.4817
+   ],
+   [
+    0.6556,
+    0.7417,
+    0.4817
+   ],
+   [
+    0.7417,
+    0.8278,
+    0.4817
+   ],
+   [
+    0.8278,
+    0.9139,
+    0.4817
+   ],
+   [
+    0.9139,
+    1.0,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2815,
+  "completion_tokens": 1015,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.83,
+ "created_at": "2026-10-18T11:20:25+00:00",
+ "content": "<x_0.0078><y_0.0102>75 I EX E<x_0.5244><y_0.0312><class_Page-header>\n\n<x_0.0332><y_0.032>or formed in the mind of the artift, whereby he con-\nducts his work. Such is the idea of Cefar, which a\npainter has in his mind when he goes to make a picture\nof Cefar.<x_0.7314><y_0.0852><class_Text>\n\n<x_0.7324><y_0.0328>Exemplification\nExercife.<x_0.8457><y_0.0883><class_Picture>\n\n<x_0.0342><y_0.0844>EXEMPLIFICATION _of Letters Patent_, denotes\nan examplan, or copy of letters patent, made from the\nenrolment thereof, and fealed with the great feal of\nEngland. Such exemplifications are as effectual to be\nthowed or pleaded, as the letters patent themfelves.<x_0.7305><y_0.1531><class_Text>\n\n<x_0.0322><y_0.1523>EXEMPTION, in _Law_, a privilege to be free from\nfome service or appearance: thus, barons and peers of\nthe realm are, on account of their dignity, exempted\nfrom being fworn upon inquefts; and knights, clergy-\nmen, and others, from appearing at the heriff's turn.\nPerfons of 70 years of age, apothecaries, &c. are alfo\nby law exempted from ferving on juries; and juiltices of\nthe peace, attorneys, &c. from parish offices.<x_0.7295><y_0.2594><class_Text>\n\n<x_0.0312><y_0.2578>EXERCISE, among physicians, fuch an agitation\nof the body as produces futulary effects in the animal\neconomy.<x_0.7285><y_0.2984><class_Text>\n\n<x_0.0303><y_0.2977>Exercife may be laid to be either active or pallive.\nThe active is walking, hunting, dancing, playing at\nbowls, and the like; as alfo freaking, and other la-\nbour of the body and mind. The palive is riding in\na coach, on horleback, or in any other manner. Ex-\nercife may be continued to a beginning of wearinels,\nand ought to be ufed before dinner in a pure light\nair; for which reafon, journeys, and going into the\ncountry, contribute greatly to preserve and re-eltablith\nhealth.<x_0.7275><y_0.4305><class_Text>\n\n<x_0.0273><y_0.4313>Exercife increases the circulation of the blood, atte-\nnuates and divides the fluids, and promotes a regular\nperfpiration, as well as a due feeretion of all the hu-\nmours; for it accelerates the animal fpirits, and facili-\ntates their distribution into all the fibres of the body,\nflrengthens the parts, creates an appetite, and helps di-\ngetition. Whence it arises, that those who accullom\nthemelves to exercite are generally very robust, and fel-\ndom subject to difeafes.<x_0.7266><y_0.5516><class_Text>\n\n<x_0.0225><y_0.5523>Boerhaave recommends bodily exercise in difeafes of\na weak and lax fibre. By riding on horfeback, fays\nhis commentator, the pendulous vifcera of the abdo-\nmed are flaken every moment, and gently rubbed as\nit were one against another, while in the mean time the\npure air acts on the lungs with greater force. But it is\nto be obferved that a weak man should not ride with a\nfull stomach, but either before dinner, or after the di-\ngetion is nearly finished; for when the flowach is di-\nlended, weak people do not bear thefe concullions of\nthe horfe without difficulty; but when the prime vice\nare nearly empty, the remaining feces are discharged by\nthis concuffion. Salling in a hip is alfo an exercice of\ngreat ufe to weak people. If the veffel moves with an\neven motion, by increasing peripiration it ufually ex-\ncites a wonderful alacrity, creates an appetite, and pro-\nmotes digestion. These exercises are more especially\nserviceable to weak people; but, in order to flrengthen\nthe body by muscular motion, running and bodily ex-\nercifes are to be ufed. In thefe we thould begin with\nthe moft gentle, fuch as walking, and increate it by de-\ngrees till we come to running. Thofe exercifes of the\nbody are more efpecially ferviceable which give delight\nto the mind at the fame time, as tennis, fencing, &c.;\nfor which reafon, the wifdom of antiquity appointed\nrewards for thofe who excelled in thefe gymnastic ex-\nercifes.<x_0.7256><y_0.9141><class_Text>",
+ "reply": {
+  "id": "chatcmpl-4de1b35a-771f-4d33-b768-7f932cded4c9",
+  "object": "chat.completion",
+  "created": 1792322424,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0102>75 I EX E<x_0.5244><y_0.0312><class_Page-header>\n\n<x_0.0332><y_0.032>or formed in the mind of the artift, whereby he con-\nducts his work. Such is the idea of Cefar, which a\npainter has in his mind when he goes to make a picture\nof Cefar.<x_0.7314><y_0.0852><class_Text>\n\n<x_0.7324><y_0.0328>Exemplification\nExercife.<x_0.8457><y_0.0883><class_Picture>\n\n<x_0.0342><y_0.0844>EXEMPLIFICATION _of Letters Patent_, denotes\nan examplan, or copy of letters patent, made from the\nenrolment thereof, and fealed with the great feal of\nEngland. Such exemplifications are as effectual to be\nthowed or pleaded, as the letters patent themfelves.<x_0.7305><y_0.1531><class_Text>\n\n<x_0.0322><y_0.1523>EXEMPTION, in _Law_, a privilege to be free from\nfome service or appearance: thus, barons and peers of\nthe realm are, on account of their dignity, exempted\nfrom being fworn upon inquefts; and knights, clergy-\nmen, and others, from appearing at the heriff's turn.\nPerfons of 70 years of age, apothecaries, &c. are alfo\nby law exempted from ferving on juries; and juiltices of\nthe peace, attorneys, &c. from parish offices.<x_0.7295><y_0.2594><class_Text>\n\n<x_0.0312><y_0.2578>EXERCISE, among physicians, fuch an agitation\nof the body as produces futulary effects in the animal\neconomy.<x_0.7285><y_0.2984><class_Text>\n\n<x_0.0303><y_0.2977>Exercife may be laid to be either active or pallive.\nThe active is walking, hunting, dancing, playing at\nbowls, and the like; as alfo freaking, and other la-\nbour of the body and mind. The palive is riding in\na coach, on horleback, or in any other manner. Ex-\nercife may be continued to a beginning of wearinels,\nand ought to be ufed before dinner in a pure light\nair; for which reafon, journeys, and going into the\ncountry, contribute greatly to preserve and re-eltablith\nhealth.<x_0.7275><y_0.4305><class_Text>\n\n<x_0.0273><y_0.4313>Exercife increases the circulation of the blood, atte-\nnuates and divides the fluids, and promotes a regular\nperfpiration, as well as a due feeretion of all the hu-\nmours; for it accelerates the animal fpirits, and facili-\ntates their distribution into all the fibres of the body,\nflrengthens the parts, creates an appetite, and helps di-\ngetition. Whence it arises, that those who accullom\nthemelves to exercite are generally very robust, and fel-\ndom subject to difeafes.<x_0.7266><y_0.5516><class_Text>\n\n<x_0.0225><y_0.5523>Boerhaave recommends bodily exercise in difeafes of\na weak and lax fibre. By riding on horfeback, fays\nhis commentator, the pendulous vifcera of the abdo-\nmed are flaken every moment, and gently rubbed as\nit were one against another, while in the mean time the\npure air acts on the lungs with greater force. But it is\nto be obferved that a weak man should not ride with a\nfull stomach, but either before dinner, or after the di-\ngetion is nearly finished; for when the flowach is di-\nlended, weak people do not bear thefe concullions of\nthe horfe without difficulty; but when the prime vice\nare nearly empty, the remaining feces are discharged by\nthis concuffion. Salling in a hip is alfo an exercice of\ngreat ufe to weak people. If the veffel moves with an\neven motion, by increasing peripiration it ufually ex-\ncites a wonderful alacrity, creates an appetite, and pro-\nmotes digestion. These exercises are more especially\nserviceable to weak people; but, in order to flrengthen\nthe body by muscular motion, running and bodily ex-\nercifes are to be ufed. In thefe we thould begin with\nthe moft gentle, fuch as walking, and increate it by de-\ngrees till we come to running. Thofe exercifes of the\nbody are more efpecially ferviceable which give delight\nto the mind at the fame time, as tennis, fencing, &c.;\nfor which reafon, the wifdom of antiquity appointed\nrewards for thofe who excelled in thefe gymnastic ex-\nercifes.<x_0.7256><y_0.9141><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2815,
+   "completion_tokens": 1015,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "89e053f7c418ca422767f3e28895b646b2a07c1d8471d1b6a069e4ac50059d64",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "a0840541158b428f5300341526295dba9ca1e2842924fa86b2e404b05d39da5b",
+  "image_bytes": 1720139,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:611",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5033,
+   0.0827,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0827,
+    0.1661,
+    0.5083
+   ],
+   [
+    0.1661,
+    0.2495,
+    0.5083
+   ],
+   [
+    0.2495,
+    0.3329,
+    0.5083
+   ],
+   [
+    0.3329,
+    0.4163,
+    0.5083
+   ],
+   [
+    0.4163,
+    0.4997,
+    0.5083
+   ],
+   [
+    0.4997,
+    0.583,
+    0.5083
+   ],
+   [
+    0.583,
+    0.6664,
+    0.5083
+   ],
+   [
+    0.6664,
+    0.7498,
+    0.5083
+   ],
+   [
+    0.7498,
+    0.8332,
+    0.5083
+   ],
+   [
+    0.8332,
+    0.9166,
+    0.5083
+   ],
+   [
+    0.9166,
+    1.0,
+    0.5083
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2683,
+  "completion_tokens": 883,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.34,
+ "created_at": "2026-10-18T11:10:29+00:00",
+ "content": "<x_0.0254><y_0.0>be, draw _b m_ (fig. 20) perpendicular to _b F_, and the Refilance parallel _nq_ infinitely near it. The part _bn_ of the fluid contained in the canal _bnqm_ would fullain fome prefecture from _b_ towards _n_, or from _n_ towards _b._ Therefore since the fluid in this flagrant canal should be in equilibrio, there mult alfo be fome action, at least in one of the parts _bm_, _mq_, _qn_, to counterbalance the action on the part _bn_. But the fluid is flagnant in the force FAM (in consequence of the law of continuity). Therefore there is no force which can act on _bm_, _mq_, _qn_; and the preflure in the canal in the direction _bn_ or _nb_ is nothing, or the force _bc=o_, and the force _ic_ is perpendicular to the canal ; and there is therefore no preflure in the canal FM, except what proceeds from the part \\(\\gamma\\) F, or from the force _ei_; which left being perpendicular to the canal, there can be no force exert ed on the point M, but what is propagated from the part \\(\\gamma\\) F.<x_0.7637><y_0.2453><class_Text>\n\n<x_0.0186><y_0.2437>The velocity therefore in the canal FM is conflant if finite, or infinitely final if variable: for, in the first cafe, the force _be_ would be abfolutely nothing; and in the second cafe, it would be an infinitefimal of the fe-cond order, and may be considered as nothing in com- parifon with the velocity, which is of the first order. We shall fee by and by that the latt is the real flate of the cafe. Therefore the fluid, before it begins to change its direction in F, begins to change its velocity in fome point \\(\\gamma\\) a-head of F, and by the time that it reaches F its velocity is as it were annihilated.<x_0.7588><y_0.3961><class_Text>\n\n<x_0.0146><y_0.3945>_Cor. 1._ Therefore the preflure in any point D arises both from the retardations in the part \\(\\gamma\\) F, and from the particles which are in the canal MD: as these latt move along the surface of the body, the force \\(\\frac{a'}{r}\\), de-ftroyed in every particle, is compounded of two others, one in the direction of the surface, and the other per-pendicular to it ; call thefe p and p. The point D is preffed perpendicularly to the surface MD ; tilt, by all the forces p in the curve MD ; 2d, by the force p’ acting on the fingle point D. This may be neglected in comparison of the indefinite number of the others therefore taking in the arch MD, an infinitely final portion Nm, = s, the preflure on D, perpendicular to the surface of the body, will be = \\(f\\pi\\); and this fluent mult be fo taken as to be = σ in the point M.<x_0.7568><y_0.6375><class_Text>\n\n<x_0.0078><y_0.6367>_Cor. 2._ Therefore, to find the preflure on D, we muft find the force p on any point N. Let u be the velocity of the particle N, in the direction Nm in any instant, and u+u its velocity in the following infant; we must have \\(\\rho=\\frac{u}{r}\\). Therefore the whole question is reduced to finding the velocity u in every point N, in the direction Nm.<x_0.7461><y_0.7633><class_Text>\n\n<x_0.0088><y_0.7641>And this is the aim of a series of propofitions which His final follow, in which the author displays the moft accurate equation and precife conception of the subject, and great address and elegance in his mathematical analysis. He at length brings out an equation which expreifies the preflure on the body in the moft general and unexceptionable man-ner. We cannot give an abstract, because the train of reasoning is already concife in the extreme: nor can we even exhibit the final equation; for it is conceived in the<x_0.8721><y_0.8992><class_Text>",
+ "reply": {
+  "id": "chatcmpl-66458444-3a36-4730-811f-bf553fe1a570",
+  "object": "chat.completion",
+  "created": 1792321827,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0254><y_0.0>be, draw _b m_ (fig. 20) perpendicular to _b F_, and the Refilance parallel _nq_ infinitely near it. The part _bn_ of the fluid contained in the canal _bnqm_ would fullain fome prefecture from _b_ towards _n_, or from _n_ towards _b._ Therefore since the fluid in this flagrant canal should be in equilibrio, there mult alfo be fome action, at least in one of the parts _bm_, _mq_, _qn_, to counterbalance the action on the part _bn_. But the fluid is flagnant in the force FAM (in consequence of the law of continuity). Therefore there is no force which can act on _bm_, _mq_, _qn_; and the preflure in the canal in the direction _bn_ or _nb_ is nothing, or the force _bc=o_, and the force _ic_ is perpendicular to the canal ; and there is therefore no preflure in the canal FM, except what proceeds from the part \\(\\gamma\\) F, or from the force _ei_; which left being perpendicular to the canal, there can be no force exert ed on the point M, but what is propagated from the part \\(\\gamma\\) F.<x_0.7637><y_0.2453><class_Text>\n\n<x_0.0186><y_0.2437>The velocity therefore in the canal FM is conflant if finite, or infinitely final if variable: for, in the first cafe, the force _be_ would be abfolutely nothing; and in the second cafe, it would be an infinitefimal of the fe-cond order, and may be considered as nothing in com- parifon with the velocity, which is of the first order. We shall fee by and by that the latt is the real flate of the cafe. Therefore the fluid, before it begins to change its direction in F, begins to change its velocity in fome point \\(\\gamma\\) a-head of F, and by the time that it reaches F its velocity is as it were annihilated.<x_0.7588><y_0.3961><class_Text>\n\n<x_0.0146><y_0.3945>_Cor. 1._ Therefore the preflure in any point D arises both from the retardations in the part \\(\\gamma\\) F, and from the particles which are in the canal MD: as these latt move along the surface of the body, the force \\(\\frac{a'}{r}\\), de-ftroyed in every particle, is compounded of two others, one in the direction of the surface, and the other per-pendicular to it ; call thefe p and p. The point D is preffed perpendicularly to the surface MD ; tilt, by all the forces p in the curve MD ; 2d, by the force p’ acting on the fingle point D. This may be neglected in comparison of the indefinite number of the others therefore taking in the arch MD, an infinitely final portion Nm, = s, the preflure on D, perpendicular to the surface of the body, will be = \\(f\\pi\\); and this fluent mult be fo taken as to be = σ in the point M.<x_0.7568><y_0.6375><class_Text>\n\n<x_0.0078><y_0.6367>_Cor. 2._ Therefore, to find the preflure on D, we muft find the force p on any point N. Let u be the velocity of the particle N, in the direction Nm in any instant, and u+u its velocity in the following infant; we must have \\(\\rho=\\frac{u}{r}\\). Therefore the whole question is reduced to finding the velocity u in every point N, in the direction Nm.<x_0.7461><y_0.7633><class_Text>\n\n<x_0.0088><y_0.7641>And this is the aim of a series of propofitions which His final follow, in which the author displays the moft accurate equation and precife conception of the subject, and great address and elegance in his mathematical analysis. He at length brings out an equation which expreifies the preflure on the body in the moft general and unexceptionable man-ner. We cannot give an abstract, because the train of reasoning is already concife in the extreme: nor can we even exhibit the final equation; for it is conceived in the<x_0.8721><y_0.8992><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2683,
+   "completion_tokens": 883,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

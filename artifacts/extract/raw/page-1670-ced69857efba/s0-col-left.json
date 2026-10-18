@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "798ec20119b92b02428d2c164d4a5757a4b868b442b48c6be096ebf04e101481",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "6b65348fb71bd837aee9d72a255a280ddc86f5735c8a203851e23b7023697e5e",
+  "image_bytes": 1734372,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1670",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0231,
+   0.465,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0231,
+    0.1045,
+    0.46
+   ],
+   [
+    0.1045,
+    0.1859,
+    0.4583
+   ],
+   [
+    0.1859,
+    0.2673,
+    0.4583
+   ],
+   [
+    0.2673,
+    0.3487,
+    0.4583
+   ],
+   [
+    0.3487,
+    0.4301,
+    0.4583
+   ],
+   [
+    0.4301,
+    0.5115,
+    0.4583
+   ],
+   [
+    0.5115,
+    0.593,
+    0.4583
+   ],
+   [
+    0.593,
+    0.6744,
+    0.4583
+   ],
+   [
+    0.6744,
+    0.7558,
+    0.4583
+   ],
+   [
+    0.7558,
+    0.8372,
+    0.4583
+   ],
+   [
+    0.8372,
+    0.9186,
+    0.4583
+   ],
+   [
+    0.9186,
+    1.0,
+    0.4583
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2422,
+  "completion_tokens": 878,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.24,
+ "created_at": "2026-10-18T11:20:12+00:00",
+ "content": "<x_0.4004><y_0.0063>**C A P [ 1a**<x_0.999><y_0.0266><class_Page-header>\n\n<x_0.0254><y_0.0273>**Cappado- cia.**<x_0.1562><y_0.0672><class_Picture>\n\n<x_0.1602><y_0.0281>lent hands on himself. He is faid to have reigned 50 years.<x_0.9756><y_0.0563><class_Text>\n\n<x_0.1592><y_0.0555>On the death of Archelaus, the kingdom of Cappadocia was reduced to a Roman province, and governed by thofe of the equestrian order. It continued subject to the Romans till the invasion of the caltern empire by the Turks, to whom it is now fuject, but has no diltinguifhing modern name. In what was anciently called _Cappadocia_, however, the Turks have four Beglerbeglies, called _Siwar, Trelizond, Marafeb_, and _Cogni_.<x_0.9746><y_0.1789><class_Text>\n\n<x_0.1582><y_0.1781>In the time of the Romans, the inhabitants of Cap- padocia bore fo bad a character, and were reputed to vicious and lewd, that, among the neighbouring nations, a wicked man was emphatically called a _Cappa- decision._ In after ages, however, their lewd difpolition was fo corrected and refrained by the pure doctrines of Christianity, that no country whatever has produced greater champions of the Christian religion, or given to the church prelates of more unblemified characters.<x_0.9736><y_0.3133><class_Text>\n\n<x_0.1572><y_0.3141>We have now no fyItem of the Cappadocian laws, and fearce wherewithal to form any particular idea of them. As to their commerce, they carried on a con- fiderable trade in horfes, great numbers of which were produced in their country; and we read of them in Scripture as frequenting the fairs of Tyre with this commodity. As Cappadocia abounded with mines of silver, brafs, iron, and alum, and afforded great flore of alabatter, cryfal, and jafper, it is probable that they might lupply the neighboring countries with these commodities.<x_0.9766><y_0.4617><class_Text>\n\n<x_0.1611><y_0.4625>The religion of the ancient Cappadocians was much the fame with that of the Perians. At Comana there was a rich and flately temple dedicated to Bellona; whofe battles the priets and their attendants ufed to teprefent on flated days, cutting and wounding each other as if feized with an enthufialtic fury. No lets famous and magnificent were the temples of Apollo Catanius, and of Jupiter: the left of which had 3000 faced fervants, or religious wataries. The chief priest was next in rank to that of Comana; and, according to Strabo, had an yearly revenue of 15 talents. Diana Pertica was worshipped in a city called _Cajlaballa_, where women, devoted to the worship of that goddefs, were reported to tread barefooted on burning coals, without receiving any hurt. The temples of Dianz at Diofpolis, and of Anias at Zela, were likewife held in great veneration both by the Cappadocians and Armenians, who flocked to them from all parts. In the latter were tendered all oaths in matters of consequence; and the chief among the priets was no way inferior in dignity, power, and wealth, to any in the kingdom; having a royal attendance, and an unlimited authority over all the inferior fervants and officers of the temple. The Romams, who willingly adopted all the superflutions and supertitious rites of the nations they conquered, greatly increased the revenues of this and other temples; conferring the prietthood on such as they thought moft fit for carrying on their deligns.-- We are told that human facrifices were offered at Comana; and that this barbarous cotton was brought by Oreftes and his filter Iphigenia from Taurica Seythica, where men and women were immolated to Diana. But<x_0.9775><y_0.8977><class_Text>",
+ "reply": {
+  "id": "chatcmpl-3334bb0e-6044-43c9-8423-053f132429cb",
+  "object": "chat.completion",
+  "created": 1792322411,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4004><y_0.0063>**C A P [ 1a**<x_0.999><y_0.0266><class_Page-header>\n\n<x_0.0254><y_0.0273>**Cappado- cia.**<x_0.1562><y_0.0672><class_Picture>\n\n<x_0.1602><y_0.0281>lent hands on himself. He is faid to have reigned 50 years.<x_0.9756><y_0.0563><class_Text>\n\n<x_0.1592><y_0.0555>On the death of Archelaus, the kingdom of Cappadocia was reduced to a Roman province, and governed by thofe of the equestrian order. It continued subject to the Romans till the invasion of the caltern empire by the Turks, to whom it is now fuject, but has no diltinguifhing modern name. In what was anciently called _Cappadocia_, however, the Turks have four Beglerbeglies, called _Siwar, Trelizond, Marafeb_, and _Cogni_.<x_0.9746><y_0.1789><class_Text>\n\n<x_0.1582><y_0.1781>In the time of the Romans, the inhabitants of Cap- padocia bore fo bad a character, and were reputed to vicious and lewd, that, among the neighbouring nations, a wicked man was emphatically called a _Cappa- decision._ In after ages, however, their lewd difpolition was fo corrected and refrained by the pure doctrines of Christianity, that no country whatever has produced greater champions of the Christian religion, or given to the church prelates of more unblemified characters.<x_0.9736><y_0.3133><class_Text>\n\n<x_0.1572><y_0.3141>We have now no fyItem of the Cappadocian laws, and fearce wherewithal to form any particular idea of them. As to their commerce, they carried on a con- fiderable trade in horfes, great numbers of which were produced in their country; and we read of them in Scripture as frequenting the fairs of Tyre with this commodity. As Cappadocia abounded with mines of silver, brafs, iron, and alum, and afforded great flore of alabatter, cryfal, and jafper, it is probable that they might lupply the neighboring countries with these commodities.<x_0.9766><y_0.4617><class_Text>\n\n<x_0.1611><y_0.4625>The religion of the ancient Cappadocians was much the fame with that of the Perians. At Comana there was a rich and flately temple dedicated to Bellona; whofe battles the priets and their attendants ufed to teprefent on flated days, cutting and wounding each other as if feized with an enthufialtic fury. No lets famous and magnificent were the temples of Apollo Catanius, and of Jupiter: the left of which had 3000 faced fervants, or religious wataries. The chief priest was next in rank to that of Comana; and, according to Strabo, had an yearly revenue of 15 talents. Diana Pertica was worshipped in a city called _Cajlaballa_, where women, devoted to the worship of that goddefs, were reported to tread barefooted on burning coals, without receiving any hurt. The temples of Dianz at Diofpolis, and of Anias at Zela, were likewife held in great veneration both by the Cappadocians and Armenians, who flocked to them from all parts. In the latter were tendered all oaths in matters of consequence; and the chief among the priets was no way inferior in dignity, power, and wealth, to any in the kingdom; having a royal attendance, and an unlimited authority over all the inferior fervants and officers of the temple. The Romams, who willingly adopted all the superflutions and supertitious rites of the nations they conquered, greatly increased the revenues of this and other temples; conferring the prietthood on such as they thought moft fit for carrying on their deligns.-- We are told that human facrifices were offered at Comana; and that this barbarous cotton was brought by Oreftes and his filter Iphigenia from Taurica Seythica, where men and women were immolated to Diana. But<x_0.9775><y_0.8977><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2422,
+   "completion_tokens": 878,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

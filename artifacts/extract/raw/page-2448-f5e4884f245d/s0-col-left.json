@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "affdd6fe72168de13f7ca0ab6988b66950c0e0489694a1f2761d6f83c9acd6da",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "7c85ce0210ebb848aa56a8b615dcb3070813d1c6029df57f2317efa2f54e01d9",
+  "image_bytes": 2318119,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2448",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0255,
+   0.485,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0255,
+    0.1067,
+    0.465
+   ],
+   [
+    0.1067,
+    0.1879,
+    0.48
+   ],
+   [
+    0.1879,
+    0.2691,
+    0.465
+   ],
+   [
+    0.2691,
+    0.3503,
+    0.465
+   ],
+   [
+    0.3503,
+    0.4315,
+    0.4667
+   ],
+   [
+    0.4315,
+    0.5128,
+    0.465
+   ],
+   [
+    0.5128,
+    0.594,
+    0.4667
+   ],
+   [
+    0.594,
+    0.6752,
+    0.465
+   ],
+   [
+    0.6752,
+    0.7564,
+    0.465
+   ],
+   [
+    0.7564,
+    0.8376,
+    0.4617
+   ],
+   [
+    0.8376,
+    0.9188,
+    0.4617
+   ],
+   [
+    0.9188,
+    1.0,
+    0.4767
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2470,
+  "completion_tokens": 926,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.76,
+ "created_at": "2026-10-18T11:21:23+00:00",
+ "content": "<x_0.3643><y_0.0039>C O M<x_0.6006><y_0.0242><class_Page-header>\n\n<x_0.8428><y_0.0047>( 25<x_0.9639><y_0.0266><class_Page-header>\n\n<x_0.0518><y_0.0273>makes one of a group, and thinks in wretched unanimity with the throng. Incumbered with the notions of others; and impoverified by their abundance, he conceives not the leaft embryo of new thought ; opens not the leaft vifta through the gloom of ordinary writers, into the bright walks of rare imagination, and fingular design; while the true genius is croffing all public roads into fresh untrodden ground, he. up to the knees in antiqui- ty, is treading the facred foottleps of great examples, with the blind veneration of a bigot faluting the papal toe; comfortably hoping full abfolution for the fins of his own understanding, from the powerful charm of touching his idol's infallibility.<x_0.9385><y_0.2133><class_Text>\n\n<x_0.0537><y_0.2125>Such meannefs of mind, fuch profitration of our own powers, proceeds from too great admiration of others. Admiration has generally a degree of two very bad ingredients in it; of ignorance, and of fear; and does mifchief in compoffition, and in life. Proud as the world is, there is more fuperiority in it given, than af-fumed: and its grandees of all kinds owe more of their elevation to the littlenefs of others minds, than to the greatness of their own. Were not profitrate fpirits their voluntary pedeftals, the figure they make among man-kind would not fitand fo high. _Imitators_ and _trafla-tors_ are fomewhat of the pedeftal-kind, and fometimes rather raife their _original’s_ reputation, by showing him to be by them inimitable, than their own. Homer has been tranlated into moft languages; ELIan tells us, that the Indians, (hopeful tutors!) have taught him to fpeak their tongue. What expect we from them? Not Ho-mer's Achilles; but fomething, which, like Patroclus, affumes his name, and, at its peril, appears in his fead; nor expect we Homer's Ulyflies gloriously burting out of his cloud into royal grandeur, but an Ulyflies under dif-guife, and a beggar to the left. Such is that inimitable father of poetry, and oracle of all the wife, whom Lycurgus trancribed ; and for an annual public recital of whole works Solon enacted a law; that it is much to be feared, that his fo numerous translations are but as the published tellimonials of fo many nations, and ages, that this author fo divine is untranslated filll.<x_0.9375><y_0.6086><class_Text>\n\n<x_0.1016><y_0.6078>But here,<x_0.2539><y_0.6219><class_Text>\n\n<x_0.1309><y_0.6211>_Gynthia aurem Vellit,_ VIRG. and demands justice for his favourite, and ours. Great things he has done; but he might have done greater. What a fall is it from Homer's numbers, free as air, lofty and harmonious as the fpheres, into childbirth hackles, and tinkling founds! But,-in his fall, he is fill great;<x_0.9297><y_0.7391><class_Text>\n\n<x_0.5674><y_0.7352>_Nor appears_ _Left than archangel ruin'd, and the excerfs_ _Of glory chjcur'd._ MILT.<x_0.8965><y_0.7805><class_Text>\n\n<x_0.0527><y_0.7766>Had Milton never wrote, Pope had been lefs to blame: but when in Milton's genius, Homer, as it were, perfo- nally rofe to forbid Britons doing him that ignoble wrong; it is lefs pardonable, by that _effeminate_ decoration, to put Achilles in petticoats a fecond time. How much nobler had it been, if his numbers had rolled on in full flow, through the various modulations of mafeculine melody, into thofe grandeurs of folemn found, which are in-<x_0.9268><y_0.8938><class_Text>\n\n<x_0.1367><y_0.8906>VOL. II. No. 40.<x_0.4473><y_0.9078><class_Page-footer>\n\n<x_0.8184><y_0.8961>3<x_0.8457><y_0.9109><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-b30e15d4-23fc-4ca7-b291-6a9df37d3948",
+  "object": "chat.completion",
+  "created": 1792322482,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.3643><y_0.0039>C O M<x_0.6006><y_0.0242><class_Page-header>\n\n<x_0.8428><y_0.0047>( 25<x_0.9639><y_0.0266><class_Page-header>\n\n<x_0.0518><y_0.0273>makes one of a group, and thinks in wretched unanimity with the throng. Incumbered with the notions of others; and impoverified by their abundance, he conceives not the leaft embryo of new thought ; opens not the leaft vifta through the gloom of ordinary writers, into the bright walks of rare imagination, and fingular design; while the true genius is croffing all public roads into fresh untrodden ground, he. up to the knees in antiqui- ty, is treading the facred foottleps of great examples, with the blind veneration of a bigot faluting the papal toe; comfortably hoping full abfolution for the fins of his own understanding, from the powerful charm of touching his idol's infallibility.<x_0.9385><y_0.2133><class_Text>\n\n<x_0.0537><y_0.2125>Such meannefs of mind, fuch profitration of our own powers, proceeds from too great admiration of others. Admiration has generally a degree of two very bad ingredients in it; of ignorance, and of fear; and does mifchief in compoffition, and in life. Proud as the world is, there is more fuperiority in it given, than af-fumed: and its grandees of all kinds owe more of their elevation to the littlenefs of others minds, than to the greatness of their own. Were not profitrate fpirits their voluntary pedeftals, the figure they make among man-kind would not fitand fo high. _Imitators_ and _trafla-tors_ are fomewhat of the pedeftal-kind, and fometimes rather raife their _original’s_ reputation, by showing him to be by them inimitable, than their own. Homer has been tranlated into moft languages; ELIan tells us, that the Indians, (hopeful tutors!) have taught him to fpeak their tongue. What expect we from them? Not Ho-mer's Achilles; but fomething, which, like Patroclus, affumes his name, and, at its peril, appears in his fead; nor expect we Homer's Ulyflies gloriously burting out of his cloud into royal grandeur, but an Ulyflies under dif-guife, and a beggar to the left. Such is that inimitable father of poetry, and oracle of all the wife, whom Lycurgus trancribed ; and for an annual public recital of whole works Solon enacted a law; that it is much to be feared, that his fo numerous translations are but as the published tellimonials of fo many nations, and ages, that this author fo divine is untranslated filll.<x_0.9375><y_0.6086><class_Text>\n\n<x_0.1016><y_0.6078>But here,<x_0.2539><y_0.6219><class_Text>\n\n<x_0.1309><y_0.6211>_Gynthia aurem Vellit,_ VIRG. and demands justice for his favourite, and ours. Great things he has done; but he might have done greater. What a fall is it from Homer's numbers, free as air, lofty and harmonious as the fpheres, into childbirth hackles, and tinkling founds! But,-in his fall, he is fill great;<x_0.9297><y_0.7391><class_Text>\n\n<x_0.5674><y_0.7352>_Nor appears_ _Left than archangel ruin'd, and the excerfs_ _Of glory chjcur'd._ MILT.<x_0.8965><y_0.7805><class_Text>\n\n<x_0.0527><y_0.7766>Had Milton never wrote, Pope had been lefs to blame: but when in Milton's genius, Homer, as it were, perfo- nally rofe to forbid Britons doing him that ignoble wrong; it is lefs pardonable, by that _effeminate_ decoration, to put Achilles in petticoats a fecond time. How much nobler had it been, if his numbers had rolled on in full flow, through the various modulations of mafeculine melody, into thofe grandeurs of folemn found, which are in-<x_0.9268><y_0.8938><class_Text>\n\n<x_0.1367><y_0.8906>VOL. II. No. 40.<x_0.4473><y_0.9078><class_Page-footer>\n\n<x_0.8184><y_0.8961>3<x_0.8457><y_0.9109><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2470,
+   "completion_tokens": 926,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

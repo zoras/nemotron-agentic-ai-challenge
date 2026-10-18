@@ -1,0 +1,462 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2570",
+ "row_index": 2570,
+ "volume_id": "192547781",
+ "filename": "page-2570-364adfefc0b1.jpg",
+ "image_sha256": "364adfefc0b17833777e04973fd5d32fe490446622be257cba01f40a110e77ae",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10588,
+  "median_grey": 217,
+  "layout_body_chars": 4381,
+  "layout_pictures": 0
+ },
+ "running_head": "88 ABYSSINIA.",
+ "layout_raw": "page-2570-364adfefc0b1/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0364,
+    1.0,
+    0.0608
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2570-364adfefc0b1/head.json",
+   "finish_reason": "stop",
+   "request_key": "c7fa48c392a6f525df351ce5ca7d71b7294c98692244229a08cf26024f626e9d"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0364,
+    0.5433,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0364,
+     0.1167,
+     0.5383
+    ],
+    [
+     0.1167,
+     0.197,
+     0.5333
+    ],
+    [
+     0.197,
+     0.2773,
+     0.5333
+    ],
+    [
+     0.2773,
+     0.3576,
+     0.5333
+    ],
+    [
+     0.3576,
+     0.4379,
+     0.5333
+    ],
+    [
+     0.4379,
+     0.5182,
+     0.5333
+    ],
+    [
+     0.5182,
+     0.5985,
+     0.5333
+    ],
+    [
+     0.5985,
+     0.6788,
+     0.5333
+    ],
+    [
+     0.6788,
+     0.7591,
+     0.5333
+    ],
+    [
+     0.7591,
+     0.8394,
+     0.5333
+    ],
+    [
+     0.8394,
+     0.9197,
+     0.5333
+    ],
+    [
+     0.9197,
+     1.0,
+     0.5333
+    ]
+   ],
+   "raw_path": "page-2570-364adfefc0b1/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "90d7e3c761e2c595104c41573e8944fa7e609f1cfea838ea8ded156cca50f96c"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5283,
+    0.0364,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0364,
+     0.1167,
+     0.5383
+    ],
+    [
+     0.1167,
+     0.197,
+     0.5333
+    ],
+    [
+     0.197,
+     0.2773,
+     0.5333
+    ],
+    [
+     0.2773,
+     0.3576,
+     0.5333
+    ],
+    [
+     0.3576,
+     0.4379,
+     0.5333
+    ],
+    [
+     0.4379,
+     0.5182,
+     0.5333
+    ],
+    [
+     0.5182,
+     0.5985,
+     0.5333
+    ],
+    [
+     0.5985,
+     0.6788,
+     0.5333
+    ],
+    [
+     0.6788,
+     0.7591,
+     0.5333
+    ],
+    [
+     0.7591,
+     0.8394,
+     0.5333
+    ],
+    [
+     0.8394,
+     0.9197,
+     0.5333
+    ],
+    [
+     0.9197,
+     1.0,
+     0.5333
+    ]
+   ],
+   "raw_path": "page-2570-364adfefc0b1/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "1354f15622c45adfbb84c9bdd5e9db62be91ddf74e73a7ebea2f84b30cea9fda"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "88 ABYSSINIA.",
+   "bbox": [
+    0.0,
+    0.0364,
+    1.0,
+    0.0608
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2570-364adfefc0b1:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "88 A B Y S S",
+   "bbox": [
+    0.0727,
+    0.0394,
+    0.5417,
+    0.0575
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Abyssinia.",
+   "bbox": [
+    0.0775,
+    0.0635,
+    0.1464,
+    0.0883
+   ],
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b2"
+  },
+  {
+   "order": 3,
+   "class": "Margin-note",
+   "text": "The new emperor in- tends to revenge his death.",
+   "bbox": [
+    0.0758,
+    0.1387,
+    0.1459,
+    0.1952
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b3"
+  },
+  {
+   "order": 4,
+   "class": "Margin-note",
+   "text": "but is him- self mur- dered.",
+   "bbox": [
+    0.0764,
+    0.3014,
+    0.1422,
+    0.3375
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b4"
+  },
+  {
+   "order": 5,
+   "class": "Margin-note",
+   "text": "Reign of Theophi- ins.",
+   "bbox": [
+    0.0769,
+    0.3383,
+    0.1326,
+    0.3721
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b5"
+  },
+  {
+   "order": 6,
+   "class": "Margin-note",
+   "text": "Execution of the queen and other regi- cider.",
+   "bbox": [
+    0.0754,
+    0.4572,
+    0.1427,
+    0.5144
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b6"
+  },
+  {
+   "order": 7,
+   "class": "Margin-note",
+   "text": "Tigi revolts, but is defeated, taken, and put to death.",
+   "bbox": [
+    0.078,
+    0.5385,
+    0.1496,
+    0.6055
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b7"
+  },
+  {
+   "order": 8,
+   "class": "Margin-note",
+   "text": "Line of Solomon set aside.",
+   "bbox": [
+    0.0785,
+    0.7508,
+    0.148,
+    0.7869
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "turned in great haste to Gondar, in order to have the letters of protection renewed by Tecla Haimanout the reigning prince. This was readily done: but before the messenger could reach Sennaar, he was informed that De Roule was already assassinated; on which he returned with still greater haste than be- fore. The Abyssinian monarch, provoked at such a scandalous violation of the law of nations, declared his intention of commencing hostilities against the king of Sennaar; and for this purpose assembled his army. But this was scarcely done, before he was informed that a rival, named Amda Sion, had been set up against him by the friends of his father Yasous, and had been for some time privately collecting troops to surprise him before he could be ready to make any opposition. It was therefore necessary to employ the army destined against Sennaar to reduce this rebel to obedience; and scarcely was this done, when the emperor himself was assassinated; so that all thoughts of revenging the death of M. de Roule were laid aside.",
+   "bbox": [
+    0.1438,
+    0.0583,
+    0.5279,
+    0.3391
+   ],
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "Tecla Haimanont perished in 1706, and was succeeded by his uncle Tiffilis, or Theophilus; whose first care was to apprehend all those suspected to have been concerned in the death of his predecessor. Thus the murderers of Yasous, whom Tecla Haimanout had instigated, imagined themselves secure, and came to court without any fear of danger: but no sooner did Theophilus get them into his power, than he caused them all to be put to death without exception; the queen herself being publicly hanged on a tree. Not satisfied with avenging the death of Yasous by the execution of his murderers, he did the same with those of Tecla Haimanout; putting to death all who were immediately in his own power, and commanding the governors of the provinces to do the same with those whom they could find within their jurisdiction. One of these, named Tigi, who had formerly been Betwu- det, having escaped into the country of the Galla, raised a very considerable army, with which he invaded Abyssinia, where he committed the most dreadful cruelties. Theophilus engaged him on the 28th of March 1709; when, with a force greatly inferior, he gained a complete victory. A number of the Galla fled to a church, hoping to be protected by the sancti- ty of the place; but the emperor telling his soldiers that it was defiled by those who were in it, command- ed it to be set on fire, so that every one perished. Ti- gi, with his two sons, were taken prisoners, and put to death. The king himself did not long survive his vic- tory; falling sick of a fever, of which he died in September 1709.",
+   "bbox": [
+    0.1443,
+    0.3368,
+    0.5285,
+    0.75
+   ],
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "After the death of Theophilus, the line of Solomon by the queen of Sheba was superseded a second time, and a stranger of the name of _Oustas_ seated on the Abyssinian throne. The extreme severity of Theophilus in punishing the murderers of both Yasous and Tecla Haimanout gave occasion to this; for as both princes had been assassinated in consequence of conspiracies formed by the principal people of the nation, the number of conspirators was so great, that the parties con- cerned had interest sufficient to influence the election of the new monarch, even in this most capital respect, of his not being a descendant of Solomon. Excopting this single defect, he was in every respect worthy of",
+   "bbox": [
+    0.147,
+    0.7478,
+    0.53,
+    0.9262
+   ],
+   "source": "s0-col-left",
+   "id": "page-2570-364adfefc0b1:b11"
+  },
+  {
+   "order": 12,
+   "class": "Head-fragment",
+   "text": "INIA.",
+   "bbox": [
+    0.5325,
+    0.0364,
+    0.6568,
+    0.0552
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2570-364adfefc0b1:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "the kingdom, and was already the highest subject in it.\nSearce was he seated on the throne, however, when a\ndangerous conspiracy was formed against him by the\nvery persons by whom he had been placed upon it.\nOustas baffled their designs, by seizing the principal\nconspirators before they had time to bring their schemes\nto a bearing: and several people of the first rank were\ncondemned to lose their noses, or to be put to death.\nAfter this the emperor undertook an expedition a-\ngainst the Shangalla, according to the barbarous cus-\ntom of the Abyssinian monarchs, who hunt these poor\npeople merely for the sake of making slaves; slaugh-\ntering the men without mercy, as well as many of the\nwomen, and carrying off only the boys and girls into\ncaptivity. In this he met with perfect success; and\nwas about to attempt the conquest of the whole coun-\ntry, when he was called back by the news that his\nprime minister Tafa Christos was dead. While the\nemperor remained in his capital at Gondar, he was ta-\nken suddenly ill; which he imputed at first to witch-\ncraft, and therefore used some antidotes ; among which\nthe smoking of the palace with gunpowder was one.\nBut this was done so carelessly by the servants, that\nthe whole building was consumed; an accident look-\ned upon by the people in general as a very bad omen,\nespecially as the king's complaint increased every day.\nAt last the principal officers came to pay him a visit of\ncondolence, as they pretended; but in reality to ob-\nserve the nature of his distemper, and to consult whe-\nther or not it was likely to continue till they could fall\nupon means to deprive him of the government. Ou-\nstas understood their intentions, and therefore summon-\ned all his strength to assume for a moment the appear-\nance of health; so that the officers found him as usual\nengaged in business. Being thus disconcerted, it be-\ncame necessary to make some apology for a visit so ex-\ntraordinary and formal; for which they were at first\nsomewhat at a loss; on recollection, however, they\ntold him, that hearing he had been sick, which they\nhappily found was not the case, they had come to make\na proposal concerning the succession; professing a de-\nsire that he would quiet the minds of his own family,\nand of the people in general, by appointing his son Fa-\nsil successor to the throne after his decease. Oustae\ngave them an equivocal answer; but the discourse con-\ncerning Fasil happening to be overheard by the sol-\ndiers, a violent mutiny ensued, and all the officers who\nhad come to visit Oustas were killed. Part of the\ntown was set on fire in the confusion; and at last a\nproclamation was made, that David son of Yasous was\nking of Abyssinia. The prince was then sent for from\nthe mountain, and arriving at Gondar, was crowned on\nthe 30th of January 1714. The distemper of Oustas,\nin the mean time continuing to increase, he died on the\n10th of February the same year.",
+   "bbox": [
+    0.5338,
+    0.0567,
+    0.9277,
+    0.7899
+   ],
+   "source": "s0-col-right",
+   "id": "page-2570-364adfefc0b1:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "The new emperor was a rigid Alexandrian in prin-\nciple; but Oustas had been so far favourable to the\nCatholics as to entertain some of their priests, though\nin a private maviner. As it was the custom, however,\nto call a convocation of the clergy on the accession of\nevery new emperor, the monks and others insisted up-\non one being called on the present occasion; the more\nespecially that a new Abuna was come from Egypt,\nand the lenity shewn to the Catholics by Oustas had\nexcited the jealousy of the Abyssinian clergy in the",
+   "bbox": [
+    0.544,
+    0.7892,
+    0.9286,
+    0.9262
+   ],
+   "source": "s0-col-right",
+   "id": "page-2570-364adfefc0b1:b14"
+  },
+  {
+   "order": 15,
+   "class": "Margin-note",
+   "text": "Abyssiniz",
+   "bbox": [
+    0.9222,
+    0.0589,
+    0.9839,
+    0.083
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-2570-364adfefc0b1:b15"
+  },
+  {
+   "order": 16,
+   "class": "Margin-note",
+   "text": "The cm-\nperor falls\nsick.",
+   "bbox": [
+    0.9226,
+    0.2856,
+    0.982,
+    0.3247
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-right",
+   "id": "page-2570-364adfefc0b1:b16"
+  },
+  {
+   "order": 17,
+   "class": "Margin-note",
+   "text": "Oustas de-\nposted, and\nDavid pro\nclaimed\nempereer.",
+   "bbox": [
+    0.924,
+    0.6327,
+    0.9871,
+    0.6921
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-right",
+   "id": "page-2570-364adfefc0b1:b17"
+  },
+  {
+   "order": 18,
+   "class": "Margin-note",
+   "text": "Denth of\nOustas",
+   "bbox": [
+    0.9244,
+    0.7538,
+    0.9811,
+    0.7802
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-right",
+   "id": "page-2570-364adfefc0b1:b18"
+  },
+  {
+   "order": 19,
+   "class": "Margin-note",
+   "text": "Reign of\nDavid.",
+   "bbox": [
+    0.9249,
+    0.7907,
+    0.9793,
+    0.8171
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-right",
+   "id": "page-2570-364adfefc0b1:b19"
+  }
+ ]
+}

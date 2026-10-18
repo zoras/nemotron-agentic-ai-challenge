@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "00896129f10afa12f8d49e3dc15e6c93bc825c36f3d8ee6ed7f59cfdf9967757",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "7ea2350ba2ba768e1868157d0d3ca1be4013c356bcbd0426ed03475bbfa87ed2",
+  "image_bytes": 2213177,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:756",
+  "variant": "s0-col-right",
+  "crop": [
+   0.46,
+   0.06,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.06,
+    0.1455,
+    0.4667
+   ],
+   [
+    0.1455,
+    0.2309,
+    0.4667
+   ],
+   [
+    0.2309,
+    0.3164,
+    0.4667
+   ],
+   [
+    0.3164,
+    0.4018,
+    0.4667
+   ],
+   [
+    0.4018,
+    0.4873,
+    0.4667
+   ],
+   [
+    0.4873,
+    0.5727,
+    0.4667
+   ],
+   [
+    0.5727,
+    0.6582,
+    0.4667
+   ],
+   [
+    0.6582,
+    0.7436,
+    0.4667
+   ],
+   [
+    0.7436,
+    0.8291,
+    0.4667
+   ],
+   [
+    0.8291,
+    0.9145,
+    0.465
+   ],
+   [
+    0.9145,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2650,
+  "completion_tokens": 850,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.21,
+ "created_at": "2026-10-18T11:10:33+00:00",
+ "content": "<x_0.0186><y_0.0>a magnet is applied to one end of a bar of hard fleet, the part in contact immediately becomes a fourth pole, and the far end is not yet affected. We observe a north pole formed at fome distance from the contact, and beyond this a faint fourth pole. Thefe gradually advance along the bar. The remote extremity becomes first a faint fourth pole, and it is not till after a very long while (if ever) that it becomes a limple, vigorous, north pole. More frequently it remains a diffused and feeble north pole: nay, if the bar be very long, it often happens that we have a fucceffion of north and fourth poles, which never make their way to the far end of the bar. This phenomenon was first observed (we think) by Dr Brook Taylor, who gives an account of his observations in the _Philofophical Transactions_, no 34+.<x_0.7617><y_0.2102><class_Text>\n\n<x_0.0176><y_0.207>From the account we have given of thefe phenomena of induced magnetifm, it appears that the temporary magnetism is always fo difpofed that the fum of the mutual attractions of the diffimilar poles exceeds the fum of the repullions between the finalar poles, and that therefore the two magnets tend to each other. This is evidently equivalent to laying, that a piece of unmagnetic iron is always attracted by a magnet. No exception has ever been obferved to this fact; for Pliny's flory of a Theamedes, or loaditone, which repels iron, is allowed by all to have been a fable.<x_0.7529><y_0.3656><class_Text>\n\n<x_0.0146><y_0.3625>We think ourfelves authorised to fay that this attraction of the loaditone for iron, or this tendency of iron to the loaditone, is a secondary phenomenon, and is the _confequence_ of the proper difpotion of the induced magneticm. The proofs already given of the compound nature of this phenomenon, namely, that it arises from the excess of two attractions above two repullions, need (we imagine) no addition. But the following confideration place the matter beyond doubt :<x_0.752><y_0.4938><class_Text>\n\n<x_0.0117><y_0.4891>1. The magnetifm of the two poles is evidently of an opposite nature; the one repelling what the other attracts. If the one attracts iron, therefore, the other should repel it. But each pole, by inducing a magnetofilm opposite to its own, on the nearelt end of the iron, and the fame with its own on the remote end, and its action diminishing with an increase of difference, there must always be an excess of attraction, and the iron mult be attracted.<x_0.748><y_0.6195><class_Text>\n\n<x_0.0088><y_0.6172>2. Each of the magnets A and B, in either of the politions repreferenced in fig. 12. would alone attract the piece of common iron C. But when placed together, the fourth pole of A tends to render the upper end of C a north pole; while the north pole of B tends to make it a fourth pole. If their actions be nearly equal, the weight of C cannot be supported by the magnetifm induced by any difference of action that may remain. While C is hanging by B alone, let A be gradually brought near; it gradually deltroys the action of the north pole of B, fo that C gradually lofes its magnetifm and polarity, and its weight prevails.<x_0.749><y_0.7914><class_Text>\n\n<x_0.0078><y_0.7867>3. In all those cafes where the induction of magnetifm is flow, the attraction is weak in proportion. This is particularly remarked by Dr Gilbert. If we take pieces of common iron, and of feel of different tempers, but all of the fame fize and form, we shall find that the iron is much more strongly attracted than any of the reft, and that the attraction for each of them is weaker in proportion as they are harder. This divertity is fo accurately observed, that when the piece is thoroughly R<x_0.7363><y_0.9195><class_Text>\n\n<x_0.7412><y_0.1984>45 Iron is atracted only because it becomes magnetical,<x_0.8818><y_0.2703><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-f5f53df2-6e5b-4359-b8bf-571332237f17",
+  "object": "chat.completion",
+  "created": 1792321832,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0186><y_0.0>a magnet is applied to one end of a bar of hard fleet, the part in contact immediately becomes a fourth pole, and the far end is not yet affected. We observe a north pole formed at fome distance from the contact, and beyond this a faint fourth pole. Thefe gradually advance along the bar. The remote extremity becomes first a faint fourth pole, and it is not till after a very long while (if ever) that it becomes a limple, vigorous, north pole. More frequently it remains a diffused and feeble north pole: nay, if the bar be very long, it often happens that we have a fucceffion of north and fourth poles, which never make their way to the far end of the bar. This phenomenon was first observed (we think) by Dr Brook Taylor, who gives an account of his observations in the _Philofophical Transactions_, no 34+.<x_0.7617><y_0.2102><class_Text>\n\n<x_0.0176><y_0.207>From the account we have given of thefe phenomena of induced magnetifm, it appears that the temporary magnetism is always fo difpofed that the fum of the mutual attractions of the diffimilar poles exceeds the fum of the repullions between the finalar poles, and that therefore the two magnets tend to each other. This is evidently equivalent to laying, that a piece of unmagnetic iron is always attracted by a magnet. No exception has ever been obferved to this fact; for Pliny's flory of a Theamedes, or loaditone, which repels iron, is allowed by all to have been a fable.<x_0.7529><y_0.3656><class_Text>\n\n<x_0.0146><y_0.3625>We think ourfelves authorised to fay that this attraction of the loaditone for iron, or this tendency of iron to the loaditone, is a secondary phenomenon, and is the _confequence_ of the proper difpotion of the induced magneticm. The proofs already given of the compound nature of this phenomenon, namely, that it arises from the excess of two attractions above two repullions, need (we imagine) no addition. But the following confideration place the matter beyond doubt :<x_0.752><y_0.4938><class_Text>\n\n<x_0.0117><y_0.4891>1. The magnetifm of the two poles is evidently of an opposite nature; the one repelling what the other attracts. If the one attracts iron, therefore, the other should repel it. But each pole, by inducing a magnetofilm opposite to its own, on the nearelt end of the iron, and the fame with its own on the remote end, and its action diminishing with an increase of difference, there must always be an excess of attraction, and the iron mult be attracted.<x_0.748><y_0.6195><class_Text>\n\n<x_0.0088><y_0.6172>2. Each of the magnets A and B, in either of the politions repreferenced in fig. 12. would alone attract the piece of common iron C. But when placed together, the fourth pole of A tends to render the upper end of C a north pole; while the north pole of B tends to make it a fourth pole. If their actions be nearly equal, the weight of C cannot be supported by the magnetifm induced by any difference of action that may remain. While C is hanging by B alone, let A be gradually brought near; it gradually deltroys the action of the north pole of B, fo that C gradually lofes its magnetifm and polarity, and its weight prevails.<x_0.749><y_0.7914><class_Text>\n\n<x_0.0078><y_0.7867>3. In all those cafes where the induction of magnetifm is flow, the attraction is weak in proportion. This is particularly remarked by Dr Gilbert. If we take pieces of common iron, and of feel of different tempers, but all of the fame fize and form, we shall find that the iron is much more strongly attracted than any of the reft, and that the attraction for each of them is weaker in proportion as they are harder. This divertity is fo accurately observed, that when the piece is thoroughly R<x_0.7363><y_0.9195><class_Text>\n\n<x_0.7412><y_0.1984>45 Iron is atracted only because it becomes magnetical,<x_0.8818><y_0.2703><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2650,
+   "completion_tokens": 850,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

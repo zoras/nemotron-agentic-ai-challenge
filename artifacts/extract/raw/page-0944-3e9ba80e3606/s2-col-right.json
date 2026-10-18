@@ -1,0 +1,89 @@
+{
+ "request": {
+  "key": "d0a623732bcb8322b335942033f134c2eff6622ae6f199fe5668f9cceb53fed1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "3cfb512d4ce3c7cfbb80af1151976ee0b2c80250482970d755c8cef0cc180583",
+  "image_bytes": 311611,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:944",
+  "variant": "s2-col-right",
+  "crop": [
+   0.5267,
+   0.5071,
+   1.0,
+   0.7772
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.5071,
+    0.5971,
+    0.5333
+   ],
+   [
+    0.5971,
+    0.6872,
+    0.5333
+   ],
+   [
+    0.6872,
+    0.7772,
+    0.5317
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 568,
+  "total_tokens": 750,
+  "completion_tokens": 182,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.47,
+ "created_at": "2026-10-18T11:08:57+00:00",
+ "content": "<x_0.0><y_0.0>\\begin{tabular}{ccc}\n\\thead{Engljb.} & \\thead{Eng. fect.} & \\thead{Inc. Dec}\\\\\n— & 0 & 0.912\\\\\n— & 0 & 3.648\\\\\n— & 0 & 10.944\\\\\n— & 1 & 9.888\\\\\n\\mbox{} & 7 & 3.552\\\\\n— & 10 & 11.328\\\\\n— & 14 & 7.104\\\\\nneafuring line & 145 & 11.04\\\\\n\\multicolumn{3}{c}{\\thead{Meafures}}\\\\\n\\end{tabular}<x_0.999><y_0.9992><class_Table>",
+ "reply": {
+  "id": "chatcmpl-5768446d-a4c5-4db5-8ab2-9d3a91aa9b66",
+  "object": "chat.completion",
+  "created": 1792321737,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>\\begin{tabular}{ccc}\n\\thead{Engljb.} & \\thead{Eng. fect.} & \\thead{Inc. Dec}\\\\\n— & 0 & 0.912\\\\\n— & 0 & 3.648\\\\\n— & 0 & 10.944\\\\\n— & 1 & 9.888\\\\\n\\mbox{} & 7 & 3.552\\\\\n— & 10 & 11.328\\\\\n— & 14 & 7.104\\\\\nneafuring line & 145 & 11.04\\\\\n\\multicolumn{3}{c}{\\thead{Meafures}}\\\\\n\\end{tabular}<x_0.999><y_0.9992><class_Table>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 568,
+   "total_tokens": 750,
+   "completion_tokens": 182,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

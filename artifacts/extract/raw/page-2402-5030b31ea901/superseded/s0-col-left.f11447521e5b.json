@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "f11447521e5b0c08885e5dbb21fb9a0eb63eb53723326545447e178ec2b58766",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "25ad3752349903f1b31d759b0c1c3e36fc3ff0d6ff41e67896530740d20f17e0",
+  "image_bytes": 2519728,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2402",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.06,
+   0.4867,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.06,
+    0.1455,
+    0.4817
+   ],
+   [
+    0.1455,
+    0.2309,
+    0.4817
+   ],
+   [
+    0.2309,
+    0.3164,
+    0.4817
+   ],
+   [
+    0.3164,
+    0.4018,
+    0.4817
+   ],
+   [
+    0.4018,
+    0.4873,
+    0.4817
+   ],
+   [
+    0.4873,
+    0.5727,
+    0.4817
+   ],
+   [
+    0.5727,
+    0.6582,
+    0.4817
+   ],
+   [
+    0.6582,
+    0.7436,
+    0.4817
+   ],
+   [
+    0.7436,
+    0.8291,
+    0.4817
+   ],
+   [
+    0.8291,
+    0.9145,
+    0.4817
+   ],
+   [
+    0.9145,
+    1.0,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2851,
+  "completion_tokens": 1179,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.65,
+ "created_at": "2026-10-18T11:11:48+00:00",
+ "content": "<x_0.04><y_0.0>Cocompara-tive Amateny.<x_0.1689><y_0.0539><class_Caption>\n\n<x_0.168><y_0.0008>in the RODENTIA, it is there shorter; and the arrangement is wanting in the other tribes. The size of the transverse processes indicates the strength of the loins,--a fact which is evinced especially in the instance of the horse, porpoise, &c.<x_0.9932><y_0.0695><class_Text>\n\n<x_0.0322><y_0.0664>Sacral ver- tebre.<x_0.1709><y_0.0938><class_Caption>\n\n<x_0.1631><y_0.0672>The number of sacral vertebra is still more various, even in the species of the same genus. Thus, while in several of the ape _genus_, in the lori, in the vampyre bat, the colugo (_galeopithecus_), the coati, and two of the didelphis, there is one sacral vertebra only, most of the apex have _sacra_ consisting of 2, 3, 4, 5, or 6 pieces: the majority of other animals have 3 sacral vertebrae; the hedgehog, porcupine, guinea pig, paca, bare, tiger, several of the murine genus, the ant-eater, rhinoceros, camel, dromedary, chamois, goat, sheep, and ox, have 4; the elephant has 5; the _Ai_ 6; the _Unau_ 7; and in the mole, white bear, and quagga, they also amount to 7. The frequency of the three sacral vertebrae in the lower animals shows that Galen, who ascribes only 3 to the human subject, must have derived this inference from the former.<x_0.9941><y_0.2695><class_Text>\n\n<x_0.1641><y_0.268>These vertebrae are in the mammalia narrower than in man, and their direction forms with the spine, instead of receding backwards, a straight line : an arrangement evidently connected with the horizontal position of the former. The shape of the sacrum in the lower mammals is that of an elongated triangle; and it is further remarkable, that in those species which occasionally assume the erect attitude on the hind leg, as apes, bears, and sloths, the width of the sacrum is proportionally greater. The salcral spines, which are short in man and the ape, become longer in the ZOOPHAGA, and form a continuous ridge in the rhinoceros, most ruminants, and especially in the mole. In the vampyre bat the sacrum forms a long compressed cone, the extremity of which is united to the ischial tuberosities, without sustaining a coccyx. The seal has two sacral bones; but the CETACEA, e. g. the dolphin and por- poise, are void both of sacrum and coccyx.<x_0.9951><y_0.4984><class_Text>\n\n<x_0.0264><y_0.4945>Cocygeal or caudal vertebrae.<x_0.1553><y_0.5336><class_Caption>\n\n<x_0.1543><y_0.4961>The coccygeal bones constitute the tail of the lower animals, and in many instances they are extremely numerous. The smallest number is 3, which is that of the magot (sinia sylvanus, pithecus, et inuus) or Barbary ape; and the greatest yet known is that of the ant-eater, in which they amount to 40, and the long-tailed manis, in which they amount to 45. Next to these may be placed that of the coaita 32, the baboon 31, the phalanger (_di-delphis orientalis_) 30, the marmoset (_didelphis murina_) 29, the pangolin 28, the silky monkey (_sinia rosalia_) and black rat 26, the weeping monkey and howling ape 25; the panther, mouse, dormouse, and elephant, 24; the lion, beaver, water-rat, Norway rat, and field-rat, 23; the flying-cat, puma, cat, dog, marmot, and rhinoceros, 22; the otter, 21; the Chinese monkey, raccoon, civet, hare, and rabbit, 20; the tiger and wolf, 19; the macauco, glutton, marten, fat dormouse, dromedary, giraffe, and quagga, 18; the tarsier, shrew, camel, and horse, 17; and other genera and species, without any determinate order, descending so low as to 9, 8, 7, 6, and 4. The quilled duckbill (_echidna, ornithorhynneus hystriz_) has only 12 caudal vertebrae, while the common one (_ornithorhynneus paradozus_) has at least 20. The gibbon and vampyre bat arc the only mammiferous animals, excepting the CETACEA, in which there are no coccygeal bones. It sometimes happens that a monkey or opossum loses a portion of its tail, when the truncated end is converted into a knotty excrescence, sometimes carious, always different from the taper point of the last coccygeal vertebra; and in this case it is difficult to determine the exact species.<x_0.9922><y_0.8992><class_Text>\n\n<x_0.1514><y_0.8969>In the CETACEA, in which the absence of _pelvis_ affords no mark to distinguish the lower vertebrae into lumbar, sacral, and coccygeal, those below the dorsal may be re-<x_0.9785><y_0.9437><class_Text>",
+ "reply": {
+  "id": "chatcmpl-778fcf64-761f-4712-8be9-b71d5d6f622b",
+  "object": "chat.completion",
+  "created": 1792321906,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.04><y_0.0>Cocompara-tive Amateny.<x_0.1689><y_0.0539><class_Caption>\n\n<x_0.168><y_0.0008>in the RODENTIA, it is there shorter; and the arrangement is wanting in the other tribes. The size of the transverse processes indicates the strength of the loins,--a fact which is evinced especially in the instance of the horse, porpoise, &c.<x_0.9932><y_0.0695><class_Text>\n\n<x_0.0322><y_0.0664>Sacral ver- tebre.<x_0.1709><y_0.0938><class_Caption>\n\n<x_0.1631><y_0.0672>The number of sacral vertebra is still more various, even in the species of the same genus. Thus, while in several of the ape _genus_, in the lori, in the vampyre bat, the colugo (_galeopithecus_), the coati, and two of the didelphis, there is one sacral vertebra only, most of the apex have _sacra_ consisting of 2, 3, 4, 5, or 6 pieces: the majority of other animals have 3 sacral vertebrae; the hedgehog, porcupine, guinea pig, paca, bare, tiger, several of the murine genus, the ant-eater, rhinoceros, camel, dromedary, chamois, goat, sheep, and ox, have 4; the elephant has 5; the _Ai_ 6; the _Unau_ 7; and in the mole, white bear, and quagga, they also amount to 7. The frequency of the three sacral vertebrae in the lower animals shows that Galen, who ascribes only 3 to the human subject, must have derived this inference from the former.<x_0.9941><y_0.2695><class_Text>\n\n<x_0.1641><y_0.268>These vertebrae are in the mammalia narrower than in man, and their direction forms with the spine, instead of receding backwards, a straight line : an arrangement evidently connected with the horizontal position of the former. The shape of the sacrum in the lower mammals is that of an elongated triangle; and it is further remarkable, that in those species which occasionally assume the erect attitude on the hind leg, as apes, bears, and sloths, the width of the sacrum is proportionally greater. The salcral spines, which are short in man and the ape, become longer in the ZOOPHAGA, and form a continuous ridge in the rhinoceros, most ruminants, and especially in the mole. In the vampyre bat the sacrum forms a long compressed cone, the extremity of which is united to the ischial tuberosities, without sustaining a coccyx. The seal has two sacral bones; but the CETACEA, e. g. the dolphin and por- poise, are void both of sacrum and coccyx.<x_0.9951><y_0.4984><class_Text>\n\n<x_0.0264><y_0.4945>Cocygeal or caudal vertebrae.<x_0.1553><y_0.5336><class_Caption>\n\n<x_0.1543><y_0.4961>The coccygeal bones constitute the tail of the lower animals, and in many instances they are extremely numerous. The smallest number is 3, which is that of the magot (sinia sylvanus, pithecus, et inuus) or Barbary ape; and the greatest yet known is that of the ant-eater, in which they amount to 40, and the long-tailed manis, in which they amount to 45. Next to these may be placed that of the coaita 32, the baboon 31, the phalanger (_di-delphis orientalis_) 30, the marmoset (_didelphis murina_) 29, the pangolin 28, the silky monkey (_sinia rosalia_) and black rat 26, the weeping monkey and howling ape 25; the panther, mouse, dormouse, and elephant, 24; the lion, beaver, water-rat, Norway rat, and field-rat, 23; the flying-cat, puma, cat, dog, marmot, and rhinoceros, 22; the otter, 21; the Chinese monkey, raccoon, civet, hare, and rabbit, 20; the tiger and wolf, 19; the macauco, glutton, marten, fat dormouse, dromedary, giraffe, and quagga, 18; the tarsier, shrew, camel, and horse, 17; and other genera and species, without any determinate order, descending so low as to 9, 8, 7, 6, and 4. The quilled duckbill (_echidna, ornithorhynneus hystriz_) has only 12 caudal vertebrae, while the common one (_ornithorhynneus paradozus_) has at least 20. The gibbon and vampyre bat arc the only mammiferous animals, excepting the CETACEA, in which there are no coccygeal bones. It sometimes happens that a monkey or opossum loses a portion of its tail, when the truncated end is converted into a knotty excrescence, sometimes carious, always different from the taper point of the last coccygeal vertebra; and in this case it is difficult to determine the exact species.<x_0.9922><y_0.8992><class_Text>\n\n<x_0.1514><y_0.8969>In the CETACEA, in which the absence of _pelvis_ affords no mark to distinguish the lower vertebrae into lumbar, sacral, and coccygeal, those below the dorsal may be re-<x_0.9785><y_0.9437><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2851,
+   "completion_tokens": 1179,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "request": {
+  "key": "946b81656f5bc7c3a7f5a2e35282879e5ace29eac0f79f80481eddfab78ff17f",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "d7ac56a7311b1ed63d06e829ea15e0b1ea28c7987e5cc16715e97a5b62ebd8b4",
+  "image_bytes": 87416,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0302,
+   1.0,
+   0.0569
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null,
+  "canvas": 0.5
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1360,
+  "total_tokens": 1404,
+  "completion_tokens": 44,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.29,
+ "created_at": "2026-10-18T11:23:15+00:00",
+ "content": "<x_0.0><y_0.0375>\\begin{tabular}{ccccc}\nL I G & [ 4230 ] & \\mbox{} & L I G & \\\\\n\\end{tabular}<x_0.999><y_0.1125><class_Table>",
+ "reply": {
+  "id": "chatcmpl-6972821a-9bb2-4ccb-a374-2d78732160fa",
+  "object": "chat.completion",
+  "created": 1792322595,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0375>\\begin{tabular}{ccccc}\nL I G & [ 4230 ] & \\mbox{} & L I G & \\\\\n\\end{tabular}<x_0.999><y_0.1125><class_Table>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1360,
+   "total_tokens": 1404,
+   "completion_tokens": 44,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

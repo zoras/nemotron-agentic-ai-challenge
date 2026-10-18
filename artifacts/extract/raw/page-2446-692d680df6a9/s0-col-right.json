@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "07627cb77ae9f857df87344e310faa75387967c54b25c4a8ba97fb359430e152",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "056c4921eb7a292d93692370e3eeae96b52085493b72b5ea83fbc8bb22934016",
+  "image_bytes": 2381065,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2446",
+  "variant": "s0-col-right",
+  "crop": [
+   0.46,
+   0.045,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.045,
+    0.1318,
+    0.465
+   ],
+   [
+    0.1318,
+    0.2186,
+    0.465
+   ],
+   [
+    0.2186,
+    0.3055,
+    0.465
+   ],
+   [
+    0.3055,
+    0.3923,
+    0.465
+   ],
+   [
+    0.3923,
+    0.4791,
+    0.465
+   ],
+   [
+    0.4791,
+    0.5659,
+    0.465
+   ],
+   [
+    0.5659,
+    0.6527,
+    0.465
+   ],
+   [
+    0.6527,
+    0.7395,
+    0.465
+   ],
+   [
+    0.7395,
+    0.8264,
+    0.465
+   ],
+   [
+    0.8264,
+    0.9132,
+    0.465
+   ],
+   [
+    0.9132,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2732,
+  "completion_tokens": 932,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.45,
+ "created_at": "2026-10-18T11:21:24+00:00",
+ "content": "<x_0.0693><y_0.0047>S T R Y, 177<x_0.8105><y_0.0266><class_Page-header>\n\n<x_0.0156><y_0.0273>ed, we find a real fulphur flicking in the neck of the ma-\ntras; and, while the phofphorus is burning, it hath\nplainly a frong fulphureous fmell. It is therefore cer-\ntain, that this phofphorus contains an actual fulphur;\nthat is, a matter difpofed to take fire with the greateft\ncafe. But though fulphur be very inflammable, it never\ntakes fire of itself, without being either in contact with\nfome matter that is actually ignited, or elfe being expofed\nto a confiderable degree of heat. Let us fee then what\nmay be the caufe of its accention, when it is a conflituent\npart of this phofphorus.<x_0.8096><y_0.1898><class_Text>\n\n<x_0.0166><y_0.1891>We mentioned jull now, that the acid of the alum quits\nits bafis, in order to form a fulphur by combining with\nthe phlogifton of the coal. This bafis we know to be an\nearth capable of being converted into lime; and that it\nis actually converted into quick-lime by the calcination\nnecessary to produce the phofphorus. We know that\nnew made lime hath the property of uniting with water\nfo readily, that it thereby contradicts a very great degree\nof heat. Now when this phofphorus, which is partly\nconflituted of the bafis of the alum converted into quick-\nlime, is exposed to the air, the lime infantly attracts\nthe moifture of which the air is always full, and by this\nmeans, probably, grows fo hot as to fire the fulphur\nwith which it is mixed. Perhaps alfo the acid of the\nalum is not totally changed into fulphur: fome part\nthereof may be only half-difengaged from its bafis, and\nin that condition be capable of attracting strongly the humidity of the air, of growing very hot likewise by imbibing the moifture, and fo of contributing to the accen-\ntion of the phofphorus.<x_0.8086><y_0.482><class_Text>\n\n<x_0.0176><y_0.4813>There is alfo room to think that all the phlogifton of\nthe charred matter is not employed in the production of\nfulphur in this phofporus, but that fome part of it re-\nmains in the flare of a true coal. The black colour of\nthe unkindled phofphorus, and the red sparkles it emits\nwhile burning, fufficiently prove this.<x_0.8076><y_0.5711><class_Text>\n\n<x_0.2314><y_0.5719>_Human Urine analifyed._<x_0.5879><y_0.5938><class_Section-header>\n\n<x_0.0146><y_0.5961>Put fome human urine into a glats alembic; fet it in\na water bath, and diftil till there remain only about a\nfortieth part of what you put in; or elfe evaporate the\nurine in a pan fet in the _balneum marine_ till it be reduced\nto the fame quantity. With this heat nothing will ex-\nhale but an infipid plegm, fmelling however like urine.\nThe refidnum will, as the evaporation advances, become\nof a darker and darker ruffet, and at luft acquire an al-\nmoft black colour. Mingle this refiduum with thrice its\nweight of land, and diftil it in a retort fet in a reverbe-\nrating furnace, with the ufual precautions. At first there\nwill come over a little more infipid phlegm like the for-\nmer. When the matter is almost dry, a volatile spirit\nwill ride. After this fpirit, white vapours will appear on\nincreasing the fire; a yellow oily liquor will come off,\ntricking down in veins; and together with this liquor a\nconcrete volatile fall, which will thick to the tides of the\nreceiver. At last there will come over a deep-coloured\nfetid oil. In the retort there will remain a false earthy\nrefiduum, which being laxiviated will yield fome fea-\nfait.<x_0.8066><y_0.9039><class_Text>\n\n<x_0.7568><y_0.9031>08<x_0.8115><y_0.9195><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-0e2bd26e-0842-42d2-aafe-b7b560fd06be",
+  "object": "chat.completion",
+  "created": 1792322483,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0693><y_0.0047>S T R Y, 177<x_0.8105><y_0.0266><class_Page-header>\n\n<x_0.0156><y_0.0273>ed, we find a real fulphur flicking in the neck of the ma-\ntras; and, while the phofphorus is burning, it hath\nplainly a frong fulphureous fmell. It is therefore cer-\ntain, that this phofphorus contains an actual fulphur;\nthat is, a matter difpofed to take fire with the greateft\ncafe. But though fulphur be very inflammable, it never\ntakes fire of itself, without being either in contact with\nfome matter that is actually ignited, or elfe being expofed\nto a confiderable degree of heat. Let us fee then what\nmay be the caufe of its accention, when it is a conflituent\npart of this phofphorus.<x_0.8096><y_0.1898><class_Text>\n\n<x_0.0166><y_0.1891>We mentioned jull now, that the acid of the alum quits\nits bafis, in order to form a fulphur by combining with\nthe phlogifton of the coal. This bafis we know to be an\nearth capable of being converted into lime; and that it\nis actually converted into quick-lime by the calcination\nnecessary to produce the phofphorus. We know that\nnew made lime hath the property of uniting with water\nfo readily, that it thereby contradicts a very great degree\nof heat. Now when this phofphorus, which is partly\nconflituted of the bafis of the alum converted into quick-\nlime, is exposed to the air, the lime infantly attracts\nthe moifture of which the air is always full, and by this\nmeans, probably, grows fo hot as to fire the fulphur\nwith which it is mixed. Perhaps alfo the acid of the\nalum is not totally changed into fulphur: fome part\nthereof may be only half-difengaged from its bafis, and\nin that condition be capable of attracting strongly the humidity of the air, of growing very hot likewise by imbibing the moifture, and fo of contributing to the accen-\ntion of the phofphorus.<x_0.8086><y_0.482><class_Text>\n\n<x_0.0176><y_0.4813>There is alfo room to think that all the phlogifton of\nthe charred matter is not employed in the production of\nfulphur in this phofporus, but that fome part of it re-\nmains in the flare of a true coal. The black colour of\nthe unkindled phofphorus, and the red sparkles it emits\nwhile burning, fufficiently prove this.<x_0.8076><y_0.5711><class_Text>\n\n<x_0.2314><y_0.5719>_Human Urine analifyed._<x_0.5879><y_0.5938><class_Section-header>\n\n<x_0.0146><y_0.5961>Put fome human urine into a glats alembic; fet it in\na water bath, and diftil till there remain only about a\nfortieth part of what you put in; or elfe evaporate the\nurine in a pan fet in the _balneum marine_ till it be reduced\nto the fame quantity. With this heat nothing will ex-\nhale but an infipid plegm, fmelling however like urine.\nThe refidnum will, as the evaporation advances, become\nof a darker and darker ruffet, and at luft acquire an al-\nmoft black colour. Mingle this refiduum with thrice its\nweight of land, and diftil it in a retort fet in a reverbe-\nrating furnace, with the ufual precautions. At first there\nwill come over a little more infipid phlegm like the for-\nmer. When the matter is almost dry, a volatile spirit\nwill ride. After this fpirit, white vapours will appear on\nincreasing the fire; a yellow oily liquor will come off,\ntricking down in veins; and together with this liquor a\nconcrete volatile fall, which will thick to the tides of the\nreceiver. At last there will come over a deep-coloured\nfetid oil. In the retort there will remain a false earthy\nrefiduum, which being laxiviated will yield fome fea-\nfait.<x_0.8066><y_0.9039><class_Text>\n\n<x_0.7568><y_0.9031>08<x_0.8115><y_0.9195><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2732,
+   "completion_tokens": 932,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

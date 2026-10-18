@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "a1e3defa36e58241bfe840e79c71cb8f6e946df53961db451c0aa9273a2fbae3",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "da4a385844cef6f76900e1db881704b1f981c82a4daeab8d41b3d1c1cbb56b09",
+  "image_bytes": 1816097,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:115",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0598,
+   0.5367,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0598,
+    0.1453,
+    0.5317
+   ],
+   [
+    0.1453,
+    0.2307,
+    0.5267
+   ],
+   [
+    0.2307,
+    0.3162,
+    0.5267
+   ],
+   [
+    0.3162,
+    0.4017,
+    0.5267
+   ],
+   [
+    0.4017,
+    0.4872,
+    0.5267
+   ],
+   [
+    0.4872,
+    0.5726,
+    0.5267
+   ],
+   [
+    0.5726,
+    0.6581,
+    0.5267
+   ],
+   [
+    0.6581,
+    0.7436,
+    0.5267
+   ],
+   [
+    0.7436,
+    0.8291,
+    0.5267
+   ],
+   [
+    0.8291,
+    0.9145,
+    0.5267
+   ],
+   [
+    0.9145,
+    1.0,
+    0.5267
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2719,
+  "completion_tokens": 919,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.55,
+ "created_at": "2026-10-18T11:19:03+00:00",
+ "content": "<x_0.1816><y_0.0047>690<x_0.2559><y_0.0266><class_Page-header>\n\n<x_0.6807><y_0.0055>**B L E A C**<x_0.999><y_0.0297><class_Title>\n\n<x_0.1807><y_0.0258>Vegetable Subdistances.<x_0.3076><y_0.0625><class_Caption>\n\n<x_0.2998><y_0.0273>time, and repeated proofs of the good quality of the fluid. At the end of eight hours diffillation, I drew off one-fourth of the contents of the veffel; a fecond fourth two hours afterwards; a third fourth after ten hours and a half, or eleven hours ; and the reft after twelve hours diftillation, which formed the conclusion.<x_0.9814><y_0.1102><class_Text>\n\n<x_0.2988><y_0.1086>\" When the liquor is entirely drawn off from the veffel, it must again be immediately filled with water, or at least to the height of five or fix inches above the return of the leaden tube, otherwise the gas, which continues to escape from the difilling veffel and then affords no refillance, might attack the pneumatic veffel itself.<x_0.9785><y_0.2><class_Text>\n\n<x_0.29><y_0.1992>250. \" The fire muft be taken from beneath the retort as foon as the diftillation is finished, not only to prevent the effect of the gafcous vapours, which fill continue flowly to escape, from acting on the fides of the tub, but likewise to diffuse the retorts or bodies to receive a quantity of warm water, which is to be poured in up to the neck. There is no realon to fear an excess of quantity, and the hotter the veffels are the better. It is effential, however, that it be not poured in cold, for fear of breaking the glafs. The adopter is then to be unluted from the neck of the leaden tube, if the operator choofes ; and in order that no vapour may escape into the workhop, a bit of lute or a cork may be applied to the beak of the adopter. The land bath easily permits the retort to be raifed and returned again to its place, as well as the application of the lute or flopper to the neck of the adopter, this latt being raifed with one hand while the cork is put in with the other.<x_0.9795><y_0.45><class_Text>\n\n<x_0.2852><y_0.4484>\" Neverthelefs, as the lutes which connect the adopter with the retort are fomewhat footened towards the end of the operation, it would be more prudent to leave every thing in its place, for fear of deranging those lutes. This danger is greater when the adopter is of lead, because the great length of this additional piece tends to force the luting fill more on that account. If it be required to proceed immediately to a new dif- tillation, the retort or bottle with its capfule or pan muft be immediately taken from the furnace, and another fulllituted in its place ready prepared during the former diftillation. This necessarily requires a double fet of veffels.<x_0.9775><y_0.6195><class_Text>\n\n<x_0.2842><y_0.6188>251. \" When the difilling veffel is cold, or nearly so, the whole of its contents muft be shaken, by hold- ing this veffel by the neck with one hand, and apply- ing the other to its bottom. The flopper muft then he taken out, and the veffel fpecdily inverted, shaking the refdue to facilitate its escape. In this laft fitua- tion the retort is to be held by its neck with one hand, and its fide gently reling against the other. The vef- fels into which the water and residual matter of the retorts are poured, should rather be of floneware, pot- tery, or lead, than of wood, unless thefe latt be oil vef- fels, which are lefs subject to dry in the part above the fluid. If this circumstance be not attended to, there will be danger of lofing great part of the contents.<x_0.9609><y_0.8047><class_Text>\n\n<x_0.2832><y_0.8031>\" It is most convenient to difengage the retorts or bodies while they are fill warm, which continues to be the cafe the next morning after distillation, in con- fequence of the heat of the land bath. If they be left to cool entirely, the fulphate of foda will cryfallize, and it will be necessary to diffusive in hot water such<x_0.9619><y_0.8852><class_Text>",
+ "reply": {
+  "id": "chatcmpl-19166f58-913b-437d-9351-7a110e8ccdfa",
+  "object": "chat.completion",
+  "created": 1792322341,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1816><y_0.0047>690<x_0.2559><y_0.0266><class_Page-header>\n\n<x_0.6807><y_0.0055>**B L E A C**<x_0.999><y_0.0297><class_Title>\n\n<x_0.1807><y_0.0258>Vegetable Subdistances.<x_0.3076><y_0.0625><class_Caption>\n\n<x_0.2998><y_0.0273>time, and repeated proofs of the good quality of the fluid. At the end of eight hours diffillation, I drew off one-fourth of the contents of the veffel; a fecond fourth two hours afterwards; a third fourth after ten hours and a half, or eleven hours ; and the reft after twelve hours diftillation, which formed the conclusion.<x_0.9814><y_0.1102><class_Text>\n\n<x_0.2988><y_0.1086>\" When the liquor is entirely drawn off from the veffel, it must again be immediately filled with water, or at least to the height of five or fix inches above the return of the leaden tube, otherwise the gas, which continues to escape from the difilling veffel and then affords no refillance, might attack the pneumatic veffel itself.<x_0.9785><y_0.2><class_Text>\n\n<x_0.29><y_0.1992>250. \" The fire muft be taken from beneath the retort as foon as the diftillation is finished, not only to prevent the effect of the gafcous vapours, which fill continue flowly to escape, from acting on the fides of the tub, but likewise to diffuse the retorts or bodies to receive a quantity of warm water, which is to be poured in up to the neck. There is no realon to fear an excess of quantity, and the hotter the veffels are the better. It is effential, however, that it be not poured in cold, for fear of breaking the glafs. The adopter is then to be unluted from the neck of the leaden tube, if the operator choofes ; and in order that no vapour may escape into the workhop, a bit of lute or a cork may be applied to the beak of the adopter. The land bath easily permits the retort to be raifed and returned again to its place, as well as the application of the lute or flopper to the neck of the adopter, this latt being raifed with one hand while the cork is put in with the other.<x_0.9795><y_0.45><class_Text>\n\n<x_0.2852><y_0.4484>\" Neverthelefs, as the lutes which connect the adopter with the retort are fomewhat footened towards the end of the operation, it would be more prudent to leave every thing in its place, for fear of deranging those lutes. This danger is greater when the adopter is of lead, because the great length of this additional piece tends to force the luting fill more on that account. If it be required to proceed immediately to a new dif- tillation, the retort or bottle with its capfule or pan muft be immediately taken from the furnace, and another fulllituted in its place ready prepared during the former diftillation. This necessarily requires a double fet of veffels.<x_0.9775><y_0.6195><class_Text>\n\n<x_0.2842><y_0.6188>251. \" When the difilling veffel is cold, or nearly so, the whole of its contents muft be shaken, by hold- ing this veffel by the neck with one hand, and apply- ing the other to its bottom. The flopper muft then he taken out, and the veffel fpecdily inverted, shaking the refdue to facilitate its escape. In this laft fitua- tion the retort is to be held by its neck with one hand, and its fide gently reling against the other. The vef- fels into which the water and residual matter of the retorts are poured, should rather be of floneware, pot- tery, or lead, than of wood, unless thefe latt be oil vef- fels, which are lefs subject to dry in the part above the fluid. If this circumstance be not attended to, there will be danger of lofing great part of the contents.<x_0.9609><y_0.8047><class_Text>\n\n<x_0.2832><y_0.8031>\" It is most convenient to difengage the retorts or bodies while they are fill warm, which continues to be the cafe the next morning after distillation, in con- fequence of the heat of the land bath. If they be left to cool entirely, the fulphate of foda will cryfallize, and it will be necessary to diffusive in hot water such<x_0.9619><y_0.8852><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2719,
+   "completion_tokens": 919,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "7662882ae7be0c1d24c16be5d41acaac14b70a547bdf1abd814a5fa4fdc0f5d1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "d733c1e64060347661c00fabcc3653ffca3f6322cde7aaad306b8518a6e4e465",
+  "image_bytes": 2581560,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1298",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0419,
+   0.5617,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0419,
+    0.129,
+    0.5567
+   ],
+   [
+    0.129,
+    0.2161,
+    0.5567
+   ],
+   [
+    0.2161,
+    0.3032,
+    0.5567
+   ],
+   [
+    0.3032,
+    0.3903,
+    0.5567
+   ],
+   [
+    0.3903,
+    0.4774,
+    0.5567
+   ],
+   [
+    0.4774,
+    0.5645,
+    0.5567
+   ],
+   [
+    0.5645,
+    0.6516,
+    0.5567
+   ],
+   [
+    0.6516,
+    0.7387,
+    0.5567
+   ],
+   [
+    0.7387,
+    0.8258,
+    0.5567
+   ],
+   [
+    0.8258,
+    0.9129,
+    0.5567
+   ],
+   [
+    0.9129,
+    1.0,
+    0.5567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2677,
+  "completion_tokens": 877,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.26,
+ "created_at": "2026-10-18T11:19:55+00:00",
+ "content": "<x_0.1475><y_0.0078>452<x_0.2139><y_0.025><class_Page-header>\n\n<x_0.7939><y_0.007>ED W A<x_0.9951><y_0.0242><class_Page-header>\n\n<x_0.1523><y_0.032>Edwards,\nBryan.<x_0.2588><y_0.0547><class_Caption>\n\n<x_0.2646><y_0.0312>but as this did not exceed L.100 per annum, he found it insufficient for the maintenance of a numerous family, and endeavoured to improve his circumstances by dealing in corn and malt. This hazardous trade proved, as it often does, only a means of more deeply involving his affairs; and he died in 1756, leaving a widow and six children in a very distressed situation. Mrs Edwards, however, had two opulent brothers in the West Indies, the eldest of whom, Zachary Bayly, possessing a princely fortune, and being of a very amiable and generous disposition, undertook the support and education of young Edwards. He had already been placed by his father at the school of Mr Foot, a dissenting clergyman at Bristol, where he had been taught the elementary branches of education; but, for some reason which he never was able to divine, that person was strictly prohibited from initiating him in any branches of classical learning. He gave a species of instruction, however, not usual in schools, and from which his pupil probably derived the greatest benefit. He was accustomed to make the boys write letters, or rather essays, on various subjects, such as the beauty and dignity of truth, the obligations to a religious life, the benefits of good education, and the like, giving them, where it appeared necessary, an outline of the arguments which might be employed on the subject. When the papers were given in, he made such observations as appeared proper, insisting at least that they should be correct in point of grammar and orthography. These exercises gave occasion to display the superior talents of Edwards, whose powers of elegant composition already began to appear. He soon became the favourite of his master, who liberally praised these youthful performances, and often transmitted them for the gratification of his parents. They were entirely satisfied; but when the care of his education devolved on his uncle, the agent employed by him at Bristol was much surprised to find an entire deficiency in classical knowledge, and, imputing the blame to the master, removed him immediately to a French boarding school in the same city. It is not said that he acquired here any great portion of Greek and Latin, but he became master of the French language, and having access to an extensive circulating library, cultivated a taste for reading which adhered to him throughout the whole of his future life.<x_0.9824><y_0.5719><class_Text>\n\n<x_0.2656><y_0.5734>In 1759, another uncle, the younger brother of him under whose care he had hitherto been, arrived in England. He, too, was possessed of an ample fortune, became member of parliament, first for Abingdon, and afterwards for his native town, and set up a splendid establishment in London. He appeared quite disposed to befriend young Edwards, and even took the latter to reside with him; but the nephew observes, that, after enumerating his external advantages, he had nothing else to say in favour of his uncle. What the bad qualities were which drew forth so unfavorable a sentence we are not informed; but in a few months they separated, and Edwards went out to his other uncle. In this friend he seems to have found every thing he could desire; the most enlightened mind, the sweetest temper, and the most generous disposition. To this was added a truly paternal regard for himself, which was returned with all the warmth of filial affection. His uncle, finding him possessed of literary talents, but deficient in classical acquirements, engaged a Mr Teale, a clergyman, and formerly master of a free grammar-school, to reside in his house, and give him the instruction of which he stood in need. This choice proved most acceptable to Edwards; he found in Mr Teale a man of extensive information, and one, too, possessing considerable taste in poetry. He viewed him, therefore, as a companion rather than as a teacher; but this relation between the tutor and pupil, however agreeable to both, was not favourable for<x_0.9814><y_0.9156><class_Text>",
+ "reply": {
+  "id": "chatcmpl-9174ccad-fe3a-4d4c-97e8-7c91c1ad7e60",
+  "object": "chat.completion",
+  "created": 1792322394,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1475><y_0.0078>452<x_0.2139><y_0.025><class_Page-header>\n\n<x_0.7939><y_0.007>ED W A<x_0.9951><y_0.0242><class_Page-header>\n\n<x_0.1523><y_0.032>Edwards,\nBryan.<x_0.2588><y_0.0547><class_Caption>\n\n<x_0.2646><y_0.0312>but as this did not exceed L.100 per annum, he found it insufficient for the maintenance of a numerous family, and endeavoured to improve his circumstances by dealing in corn and malt. This hazardous trade proved, as it often does, only a means of more deeply involving his affairs; and he died in 1756, leaving a widow and six children in a very distressed situation. Mrs Edwards, however, had two opulent brothers in the West Indies, the eldest of whom, Zachary Bayly, possessing a princely fortune, and being of a very amiable and generous disposition, undertook the support and education of young Edwards. He had already been placed by his father at the school of Mr Foot, a dissenting clergyman at Bristol, where he had been taught the elementary branches of education; but, for some reason which he never was able to divine, that person was strictly prohibited from initiating him in any branches of classical learning. He gave a species of instruction, however, not usual in schools, and from which his pupil probably derived the greatest benefit. He was accustomed to make the boys write letters, or rather essays, on various subjects, such as the beauty and dignity of truth, the obligations to a religious life, the benefits of good education, and the like, giving them, where it appeared necessary, an outline of the arguments which might be employed on the subject. When the papers were given in, he made such observations as appeared proper, insisting at least that they should be correct in point of grammar and orthography. These exercises gave occasion to display the superior talents of Edwards, whose powers of elegant composition already began to appear. He soon became the favourite of his master, who liberally praised these youthful performances, and often transmitted them for the gratification of his parents. They were entirely satisfied; but when the care of his education devolved on his uncle, the agent employed by him at Bristol was much surprised to find an entire deficiency in classical knowledge, and, imputing the blame to the master, removed him immediately to a French boarding school in the same city. It is not said that he acquired here any great portion of Greek and Latin, but he became master of the French language, and having access to an extensive circulating library, cultivated a taste for reading which adhered to him throughout the whole of his future life.<x_0.9824><y_0.5719><class_Text>\n\n<x_0.2656><y_0.5734>In 1759, another uncle, the younger brother of him under whose care he had hitherto been, arrived in England. He, too, was possessed of an ample fortune, became member of parliament, first for Abingdon, and afterwards for his native town, and set up a splendid establishment in London. He appeared quite disposed to befriend young Edwards, and even took the latter to reside with him; but the nephew observes, that, after enumerating his external advantages, he had nothing else to say in favour of his uncle. What the bad qualities were which drew forth so unfavorable a sentence we are not informed; but in a few months they separated, and Edwards went out to his other uncle. In this friend he seems to have found every thing he could desire; the most enlightened mind, the sweetest temper, and the most generous disposition. To this was added a truly paternal regard for himself, which was returned with all the warmth of filial affection. His uncle, finding him possessed of literary talents, but deficient in classical acquirements, engaged a Mr Teale, a clergyman, and formerly master of a free grammar-school, to reside in his house, and give him the instruction of which he stood in need. This choice proved most acceptable to Edwards; he found in Mr Teale a man of extensive information, and one, too, possessing considerable taste in poetry. He viewed him, therefore, as a companion rather than as a teacher; but this relation between the tutor and pupil, however agreeable to both, was not favourable for<x_0.9814><y_0.9156><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2677,
+   "completion_tokens": 877,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "d65ffb1cdd020e64669d6804f94210542d832818afeb33713878045c501f9bf2",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "08945465981df60e4228731fc78bef14b9a0300db16ce90d4376fa22f6d158e8",
+  "image_bytes": 2168124,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2001",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4533,
+   0.0718,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0718,
+    0.1562,
+    0.4583
+   ],
+   [
+    0.1562,
+    0.2406,
+    0.4583
+   ],
+   [
+    0.2406,
+    0.3249,
+    0.4583
+   ],
+   [
+    0.3249,
+    0.4093,
+    0.4583
+   ],
+   [
+    0.4093,
+    0.4937,
+    0.4583
+   ],
+   [
+    0.4937,
+    0.5781,
+    0.4583
+   ],
+   [
+    0.5781,
+    0.6625,
+    0.4583
+   ],
+   [
+    0.6625,
+    0.7469,
+    0.4583
+   ],
+   [
+    0.7469,
+    0.8312,
+    0.4583
+   ],
+   [
+    0.8312,
+    0.9156,
+    0.4583
+   ],
+   [
+    0.9156,
+    1.0,
+    0.4583
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2813,
+  "completion_tokens": 1013,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.33,
+ "created_at": "2026-10-18T11:11:32+00:00",
+ "content": "<x_0.0234><y_0.0>As to the revenue, the excite here is levied only in\nthe walled towns, being on the fame footing as in the\nmarquifate of Brandenburg; but in the reft of the coun-\ntry the contributions are fixed, and the fame both in\npeace and war. The feveral branches of the revenue\nare under the management of the war and domain of-\nfices of Brellaw and Glogau. The whole revenue ari-\nfing to the king of Pruffia from Silefa and the county\nof Glatz amounts to about four millions of rix-dollars\nper annum.<x_0.749><y_0.1414><class_Text>\n\n<x_0.7549><y_0.0>Silefsa\nSilus.<x_0.874><y_0.0453><class_Picture>\n\n<x_0.0254><y_0.1391>Silefa is divided into Upper and Lower, and each of\nthefe again into principalities and lordthips; of fome of\nwhich both the property and jurisdiction belong imme-\ndiately to the forereign, but of others to his subjects and\nvaffals. In regard to the character of the people, the\nboors are accounted very dull and ilupid; but of those\nof a higher rank, many have dittingguilhed themselves by\ntheir wit and learning, as well as by their military and\npolitical talents.<x_0.75><y_0.268><class_Text>\n\n<x_0.0244><y_0.2664>SILESIAN EARTH, in the _Materia Medica_, a fine\naftringent bole. It is very heavy, of a firm compact\ntexture, and in colour of a brownith yellow. It breaks\ncafily between the fingers, and does not flain the hands;\nis naturally of a smooth surface, is readily diffutible in\nwater, and melts freely into a butter-like fubilance in\nthe mouth. It leaves no grittinefs between the teeth,\nand does not ferment with acids. It is found in the\nperpendicular fillures of rocks near the gold mines in\nHungary.<x_0.748><y_0.4086><class_Text>\n\n<x_0.0225><y_0.4078>SILICERNIUM, among the Romans, was a feat\nof a private nature, provided for the dead fome time af-\nter the funeral. It conflited of beans, lettuces, bread,\neggs, Sc. Thefe were laid upon the tomb, and they\nfoolihly believed that the dead would come out for the\nrepaft. What was left was generally burnt on the\nflone. The word _filicernium_ is derived from _flex_ and\ncena, i. e. \" a fupper upon a ftone.\" Eating what had\nthus been provided for the dead, was efteemed a mark of\nthe moft miferable poverty. A familiar entertainment\nwas made by the Greeks at the tombs of the decealed;\nbut it was ufual among them to treat the ghosts with\nthe fragments from the feat of the living. See FUNE-\nRAL and INFERIZ.<x_0.7461><y_0.6055><class_Text>\n\n<x_0.0596><y_0.6047>SILEX. See FLINT.<x_0.3662><y_0.6195><class_Text>\n\n<x_0.0215><y_0.6188>SILICEOUS EARTHS. See SILICA, CHEMISTRY\n_Index._<x_0.7383><y_0.6477><class_Text>\n\n<x_0.0186><y_0.6469>SILIUS ITALICUS, CAIUS, an ancient Roman poet,\nand author of an epic poem in 17 books, which con-\ntains an history of the second Punie war, fo famous for\nhaving decided the empire of the world in favour of the\nRomans. He was born in the reign of Tiberius, and\nis foppofed to have derived the name of _Italicus_ from\nthe place of his birth; but whether he was born at Ita-\nlica in Spain, or at Corfnium in Italy, which accord-\ning to Strabo, had the name of _Italico_ given it during\nthe Social war, is a point which cannot be known:\nthough, if his birth had happened at either of thefe\nplaces, the grammarians would tell us, that he should have\nbeen called _Italicenfis_, and not _Italicus_. When he came\nto Rome, he applied himself to the bar; and, by a clofe\nimitation of Cicero, fucceeded fo well, that he became\na celebrated advocate and molt accomplished orator.\nHis merit and character recommended him to the high-\nef offices in the republic, even to the confulthip, of\nwhich he was poffetled when Nero died. He is faid to<x_0.7393><y_0.9164><class_Text>\n\n<x_0.3389><y_0.9141>Y y 2 have<x_0.7295><y_0.932><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-ff54e2a9-a970-4d04-8d67-82772ead7c3e",
+  "object": "chat.completion",
+  "created": 1792321891,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0234><y_0.0>As to the revenue, the excite here is levied only in\nthe walled towns, being on the fame footing as in the\nmarquifate of Brandenburg; but in the reft of the coun-\ntry the contributions are fixed, and the fame both in\npeace and war. The feveral branches of the revenue\nare under the management of the war and domain of-\nfices of Brellaw and Glogau. The whole revenue ari-\nfing to the king of Pruffia from Silefa and the county\nof Glatz amounts to about four millions of rix-dollars\nper annum.<x_0.749><y_0.1414><class_Text>\n\n<x_0.7549><y_0.0>Silefsa\nSilus.<x_0.874><y_0.0453><class_Picture>\n\n<x_0.0254><y_0.1391>Silefa is divided into Upper and Lower, and each of\nthefe again into principalities and lordthips; of fome of\nwhich both the property and jurisdiction belong imme-\ndiately to the forereign, but of others to his subjects and\nvaffals. In regard to the character of the people, the\nboors are accounted very dull and ilupid; but of those\nof a higher rank, many have dittingguilhed themselves by\ntheir wit and learning, as well as by their military and\npolitical talents.<x_0.75><y_0.268><class_Text>\n\n<x_0.0244><y_0.2664>SILESIAN EARTH, in the _Materia Medica_, a fine\naftringent bole. It is very heavy, of a firm compact\ntexture, and in colour of a brownith yellow. It breaks\ncafily between the fingers, and does not flain the hands;\nis naturally of a smooth surface, is readily diffutible in\nwater, and melts freely into a butter-like fubilance in\nthe mouth. It leaves no grittinefs between the teeth,\nand does not ferment with acids. It is found in the\nperpendicular fillures of rocks near the gold mines in\nHungary.<x_0.748><y_0.4086><class_Text>\n\n<x_0.0225><y_0.4078>SILICERNIUM, among the Romans, was a feat\nof a private nature, provided for the dead fome time af-\nter the funeral. It conflited of beans, lettuces, bread,\neggs, Sc. Thefe were laid upon the tomb, and they\nfoolihly believed that the dead would come out for the\nrepaft. What was left was generally burnt on the\nflone. The word _filicernium_ is derived from _flex_ and\ncena, i. e. \" a fupper upon a ftone.\" Eating what had\nthus been provided for the dead, was efteemed a mark of\nthe moft miferable poverty. A familiar entertainment\nwas made by the Greeks at the tombs of the decealed;\nbut it was ufual among them to treat the ghosts with\nthe fragments from the feat of the living. See FUNE-\nRAL and INFERIZ.<x_0.7461><y_0.6055><class_Text>\n\n<x_0.0596><y_0.6047>SILEX. See FLINT.<x_0.3662><y_0.6195><class_Text>\n\n<x_0.0215><y_0.6188>SILICEOUS EARTHS. See SILICA, CHEMISTRY\n_Index._<x_0.7383><y_0.6477><class_Text>\n\n<x_0.0186><y_0.6469>SILIUS ITALICUS, CAIUS, an ancient Roman poet,\nand author of an epic poem in 17 books, which con-\ntains an history of the second Punie war, fo famous for\nhaving decided the empire of the world in favour of the\nRomans. He was born in the reign of Tiberius, and\nis foppofed to have derived the name of _Italicus_ from\nthe place of his birth; but whether he was born at Ita-\nlica in Spain, or at Corfnium in Italy, which accord-\ning to Strabo, had the name of _Italico_ given it during\nthe Social war, is a point which cannot be known:\nthough, if his birth had happened at either of thefe\nplaces, the grammarians would tell us, that he should have\nbeen called _Italicenfis_, and not _Italicus_. When he came\nto Rome, he applied himself to the bar; and, by a clofe\nimitation of Cicero, fucceeded fo well, that he became\na celebrated advocate and molt accomplished orator.\nHis merit and character recommended him to the high-\nef offices in the republic, even to the confulthip, of\nwhich he was poffetled when Nero died. He is faid to<x_0.7393><y_0.9164><class_Text>\n\n<x_0.3389><y_0.9141>Y y 2 have<x_0.7295><y_0.932><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2813,
+   "completion_tokens": 1013,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

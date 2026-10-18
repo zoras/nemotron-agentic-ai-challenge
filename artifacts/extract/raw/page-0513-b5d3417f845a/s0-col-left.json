@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "3abaf5684deeb9991d0ab1ec3daa5be32ed0697589e804183f4a5c5c9772bcf5",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "e66c436f1359b8818c0e17eb49d774d8fec04705acfdcf40ca17f4f2ac808572",
+  "image_bytes": 2573857,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:513",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0,
+   0.515,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.505
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.51
+   ],
+   [
+    0.1667,
+    0.25,
+    0.51
+   ],
+   [
+    0.25,
+    0.3333,
+    0.51
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.51
+   ],
+   [
+    0.4167,
+    0.5,
+    0.51
+   ],
+   [
+    0.5,
+    0.5833,
+    0.51
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.51
+   ],
+   [
+    0.6667,
+    0.75,
+    0.51
+   ],
+   [
+    0.75,
+    0.8333,
+    0.51
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.51
+   ],
+   [
+    0.9167,
+    1.0,
+    0.51
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2627,
+  "completion_tokens": 955,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.43,
+ "created_at": "2026-10-18T11:10:19+00:00",
+ "content": "<x_0.4355><y_0.0234>E N G | 27<x_0.9902><y_0.0477><class_Page-header>\n\n<x_0.0527><y_0.0437>England.<x_0.1924><y_0.0625><class_Caption>\n\n<x_0.1934><y_0.0469>conquett. William earl of Poichiers and duke of Gui- enne had relolved upon an expedition to the holy land; and, for this purpofe, had put himself at the head of a vaft multitude, conflicting, according to fome hiltorians, of 60,000 horfe, and a much greater number of foot. Like Robert of Normandy, he offered to mortgage his dominions for money sufficient to conduct this multitude into Afia. The king accepted his offer; and had prepared a fleet and army to take poffeffion of thefe dominions, when an unfortunate accident put an end to his projects and his life. He was engaged in hunting, the fole amufement, and indeed the principal occupation, of princes in thofe rude times. Walter Tyrrel, a French gentleman remarkable for his fill in archery, attended him in this recreation, of which the new forelt was the feene. William had difmount after a chace; and Tyrrel, impatient to flew his dexterity, let fly an arrow at a flag which fuddenly started before him. The arrow glanced from a tree, and struck the king to the heart. He infantly fell down dead; and Tyrrel, terrified at the accident, clapt fpurs to his horfe, haltened to the fea-fhore, and embarked for France, where he joined the crufade that was fetting out from that country. This happened on the 2d of Augull 1100, after the king had reigned 13 years, and lived about 40. His body was found in the woods by the country-people, and buried without ceremony at Winchefter.<x_0.9785><y_0.4258><class_Text>\n\n<x_0.1963><y_0.4266>After the death of William, the crown of right devolved to Robert his eldeft brother; for William had no legitimate children. But what Robert had formerly loft by his indolence, he was again deprived of by his abfence at the holy war. Prince Henry was in the forelt with William Rufus at the time the latter was killed. He no fooner heard the important news, than he hurried to Winchefter, and secured the royal trea- fure. William de Breteuil, keeper of the treafure, arrived almost the fame infant, and oppofed his pre- tentions; telling him, that the treafure belonged to his elder brother, who was now his fovereign, and for whom he was determined to keep it. But Henry, drawing his fword, threatened him with infant death if he dared to difobey him; and others of the late king's retinue, who came every moment to Winchefter, joining the prince’s party, he was obliged to defift. Henry loft no time in fully accomplishing his purpose. In lefs than three days he got himself crowned king of England, by Maurice bifhop of London. Prefent poffeffion fupplied every deficiency of title; and no one dared to appear in defence of the abfent prince.<x_0.9795><y_0.7234><class_Text>\n\n<x_0.0645><y_0.7219>His charter in favour of the people.<x_0.2197><y_0.7578><class_Caption>\n\n<x_0.2109><y_0.7227>The beginning of King Henry’s reign promised to be favourable to the Englith liberty; owing chiefly to his fear of his brother. To conciliate the affec- tions of his subjects, he paffed a charter calculated to remove many of the grievous opprefitions which had been complained of during the reigns of his father and brother. He promised, that, at the death of any ab- bot or bifhop, he never would feize the revenues of the fee or abbey during the vacancy, but would leave the whole to be reaped by the fucceffor; and that he would never let to farm any ecelefialical benefice, or difpofe of it for money. To the laity he promised, that, up- on the death of any earl, baron, or military tenant, his heir should be admitted to the poffeffion of his eflate, on paying a juft and lawful relief; without being ex-<x_0.9805><y_0.9289><class_Text>",
+ "reply": {
+  "id": "chatcmpl-0bf9ddef-ea25-49da-88c8-ee1d2b38372c",
+  "object": "chat.completion",
+  "created": 1792321818,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4355><y_0.0234>E N G | 27<x_0.9902><y_0.0477><class_Page-header>\n\n<x_0.0527><y_0.0437>England.<x_0.1924><y_0.0625><class_Caption>\n\n<x_0.1934><y_0.0469>conquett. William earl of Poichiers and duke of Gui- enne had relolved upon an expedition to the holy land; and, for this purpofe, had put himself at the head of a vaft multitude, conflicting, according to fome hiltorians, of 60,000 horfe, and a much greater number of foot. Like Robert of Normandy, he offered to mortgage his dominions for money sufficient to conduct this multitude into Afia. The king accepted his offer; and had prepared a fleet and army to take poffeffion of thefe dominions, when an unfortunate accident put an end to his projects and his life. He was engaged in hunting, the fole amufement, and indeed the principal occupation, of princes in thofe rude times. Walter Tyrrel, a French gentleman remarkable for his fill in archery, attended him in this recreation, of which the new forelt was the feene. William had difmount after a chace; and Tyrrel, impatient to flew his dexterity, let fly an arrow at a flag which fuddenly started before him. The arrow glanced from a tree, and struck the king to the heart. He infantly fell down dead; and Tyrrel, terrified at the accident, clapt fpurs to his horfe, haltened to the fea-fhore, and embarked for France, where he joined the crufade that was fetting out from that country. This happened on the 2d of Augull 1100, after the king had reigned 13 years, and lived about 40. His body was found in the woods by the country-people, and buried without ceremony at Winchefter.<x_0.9785><y_0.4258><class_Text>\n\n<x_0.1963><y_0.4266>After the death of William, the crown of right devolved to Robert his eldeft brother; for William had no legitimate children. But what Robert had formerly loft by his indolence, he was again deprived of by his abfence at the holy war. Prince Henry was in the forelt with William Rufus at the time the latter was killed. He no fooner heard the important news, than he hurried to Winchefter, and secured the royal trea- fure. William de Breteuil, keeper of the treafure, arrived almost the fame infant, and oppofed his pre- tentions; telling him, that the treafure belonged to his elder brother, who was now his fovereign, and for whom he was determined to keep it. But Henry, drawing his fword, threatened him with infant death if he dared to difobey him; and others of the late king's retinue, who came every moment to Winchefter, joining the prince’s party, he was obliged to defift. Henry loft no time in fully accomplishing his purpose. In lefs than three days he got himself crowned king of England, by Maurice bifhop of London. Prefent poffeffion fupplied every deficiency of title; and no one dared to appear in defence of the abfent prince.<x_0.9795><y_0.7234><class_Text>\n\n<x_0.0645><y_0.7219>His charter in favour of the people.<x_0.2197><y_0.7578><class_Caption>\n\n<x_0.2109><y_0.7227>The beginning of King Henry’s reign promised to be favourable to the Englith liberty; owing chiefly to his fear of his brother. To conciliate the affec- tions of his subjects, he paffed a charter calculated to remove many of the grievous opprefitions which had been complained of during the reigns of his father and brother. He promised, that, at the death of any ab- bot or bifhop, he never would feize the revenues of the fee or abbey during the vacancy, but would leave the whole to be reaped by the fucceffor; and that he would never let to farm any ecelefialical benefice, or difpofe of it for money. To the laity he promised, that, up- on the death of any earl, baron, or military tenant, his heir should be admitted to the poffeffion of his eflate, on paying a juft and lawful relief; without being ex-<x_0.9805><y_0.9289><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2627,
+   "completion_tokens": 955,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

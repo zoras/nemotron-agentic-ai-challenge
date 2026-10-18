@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "b7dc5695012d39594e64ce75ab521aed96aac40e8fee30b0886bdf4a09913005",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "3fa4e6fa6a03e967f012c395191ec329a4608375c58b20840e57ae80fa3a65e4",
+  "image_bytes": 2113812,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1614",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5217,
+   0.0169,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0169,
+    0.0988,
+    0.5267
+   ],
+   [
+    0.0988,
+    0.1807,
+    0.5267
+   ],
+   [
+    0.1807,
+    0.2627,
+    0.5267
+   ],
+   [
+    0.2627,
+    0.3446,
+    0.5267
+   ],
+   [
+    0.3446,
+    0.4265,
+    0.5267
+   ],
+   [
+    0.4265,
+    0.5084,
+    0.5267
+   ],
+   [
+    0.5084,
+    0.5904,
+    0.5267
+   ],
+   [
+    0.5904,
+    0.6723,
+    0.5267
+   ],
+   [
+    0.6723,
+    0.7542,
+    0.5267
+   ],
+   [
+    0.7542,
+    0.8362,
+    0.5267
+   ],
+   [
+    0.8362,
+    0.9181,
+    0.5267
+   ],
+   [
+    0.9181,
+    1.0,
+    0.5267
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2553,
+  "completion_tokens": 1009,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.55,
+ "created_at": "2026-10-18T11:20:11+00:00",
+ "content": "<x_0.0078><y_0.0055>96 )<x_0.1289><y_0.0273><class_Page-header>\n\n<x_0.3877><y_0.0047>T H O<x_0.6006><y_0.0266><class_Title>\n\n<x_0.0488><y_0.0281>crofs, fent emballadors to them, to make an alliance with them, and to follicit their affiitance against the Gentile princes, by whom they were greatly oppreffed. A mix-ture of opinions, with a total interruption of pallors, fometimes for feveral years together,' occaftoned that horrible chaos their religion was in at the arrival of the Portuguese ; for a fpecimen whereof we thall add their manner of celebrating the eucharift: Over their altar was a kind of gallery; and while the prieft was laying the beginning of the office below, a cake of flour of rice was trying in oil, or butter, above ; when enough, the cake was let down in a basket upon the altar, where the priest confecrated it: as to the other species, for wine they ufed a kind of brandy or arrack, varioufly prepared in that country. Nor was their ordination much more regular ; the archdeacon, who was fometimes more rejected than the bithop himself, frequently ordained prietis: their other abufes were infinite. The Portuguese, for thefe two laft centuries, have laboured the reforma-tion of this church, and have employed both the eccle-fialic and fecular power therein : for this end they have called the Thomzan bifhops to the council at Goa, have infruited, charged them, cc, and even fent them for infiltration to Portugal and Rome ; but finding that they were till apt to relapfe at their return, and that no good was like to be done with them, they refolved to exclude them once for all, and to appoint an European bilhop in their room. Thefe proceedings have rendered the Portuguese infinitely odious to the Thomazans.<x_0.8916><y_0.4297><class_Text>\n\n<x_0.0186><y_0.4289>_St_ THOMAS, a city of the hither India, on the coalt of Coromandel, three miles fouth of Fort St George ; fubject to the Portuguese.<x_0.8857><y_0.4711><class_List-item>\n\n<x_0.0176><y_0.4703>_St_ THOMAS is alfo an illand in the Atlantic ocean, fituated under the equator, in 8° E. long.<x_0.8838><y_0.5><class_List-item>\n\n<x_0.0166><y_0.4984>_St_ THOMAS is alfo a town of Guiana, in South America, situated on the river Oronoko ; fobject to Spain.<x_0.8828><y_0.5273><class_List-item>\n\n<x_0.0156><y_0.5258>_St_ THOMAS’s DAY, a festival of the Christian church, obferved on Dec. 21. in commemoration of St Thomas the apotile.<x_0.8848><y_0.568><class_List-item>\n\n<x_0.0146><y_0.5664>_St_ THOMAS _of Canterbury's day_, a festival of the Romilh church, observed on Dec. 29. in memory of Thomas Becket archbiflhop of Canterbury, who was murdered, or, as the Romanilis fay, martyred, in the reign of King Henry II.<x_0.8818><y_0.6375><class_List-item>\n\n<x_0.0137><y_0.6359>THOMISM, the doctrine of St Thomas Aquinas, and his followers the Thomifts, chiefly with regard to predeflina-tion and grace. There is fome doubt what the true genuine thomifm is, but there are authors who dliftinguih the thomifm of St Thomas from that of the dominicans. Others again make thomifm no other than a kind of janfenifm dilguifed : but janfenifm, it is known, has been condemned by the popes, which pure thomifm never was: in effect, the writings of Alvarez and Lemos, who were appointed by their order to lay down and defend, before the holy fee, the dogmata of their school, have since been reputed the rule of pure thomifm.<x_0.8867><y_0.8031><class_List-item>\n\n<x_0.0127><y_0.8>THOMISTS, a fact of fchool-divines, who maintain tho-mifm. See the preceding article.<x_0.8877><y_0.8305><class_List-item>\n\n<x_0.0117><y_0.8281>THORACIC DUCT. See ANATOMY, p. 282.<x_0.7354><y_0.8445><class_List-item>\n\n<x_0.0107><y_0.8422>THORAX, in anatomy. See ANATOMY, p. 277.<x_0.79><y_0.8586><class_List-item>\n\n<x_0.0098><y_0.8555>THORN, a city of Poland, in the province of regal Praffis, lituated on the river Viltula: E. long. 19%, and N. lat. 520 40'.<x_0.8887><y_0.9016><class_List-item>\n\n<x_0.7217><y_0.8945>THORN-<x_0.8809><y_0.9109><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-7e1e7d81-8703-4be3-86b2-47699b4c938c",
+  "object": "chat.completion",
+  "created": 1792322409,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0055>96 )<x_0.1289><y_0.0273><class_Page-header>\n\n<x_0.3877><y_0.0047>T H O<x_0.6006><y_0.0266><class_Title>\n\n<x_0.0488><y_0.0281>crofs, fent emballadors to them, to make an alliance with them, and to follicit their affiitance against the Gentile princes, by whom they were greatly oppreffed. A mix-ture of opinions, with a total interruption of pallors, fometimes for feveral years together,' occaftoned that horrible chaos their religion was in at the arrival of the Portuguese ; for a fpecimen whereof we thall add their manner of celebrating the eucharift: Over their altar was a kind of gallery; and while the prieft was laying the beginning of the office below, a cake of flour of rice was trying in oil, or butter, above ; when enough, the cake was let down in a basket upon the altar, where the priest confecrated it: as to the other species, for wine they ufed a kind of brandy or arrack, varioufly prepared in that country. Nor was their ordination much more regular ; the archdeacon, who was fometimes more rejected than the bithop himself, frequently ordained prietis: their other abufes were infinite. The Portuguese, for thefe two laft centuries, have laboured the reforma-tion of this church, and have employed both the eccle-fialic and fecular power therein : for this end they have called the Thomzan bifhops to the council at Goa, have infruited, charged them, cc, and even fent them for infiltration to Portugal and Rome ; but finding that they were till apt to relapfe at their return, and that no good was like to be done with them, they refolved to exclude them once for all, and to appoint an European bilhop in their room. Thefe proceedings have rendered the Portuguese infinitely odious to the Thomazans.<x_0.8916><y_0.4297><class_Text>\n\n<x_0.0186><y_0.4289>_St_ THOMAS, a city of the hither India, on the coalt of Coromandel, three miles fouth of Fort St George ; fubject to the Portuguese.<x_0.8857><y_0.4711><class_List-item>\n\n<x_0.0176><y_0.4703>_St_ THOMAS is alfo an illand in the Atlantic ocean, fituated under the equator, in 8° E. long.<x_0.8838><y_0.5><class_List-item>\n\n<x_0.0166><y_0.4984>_St_ THOMAS is alfo a town of Guiana, in South America, situated on the river Oronoko ; fobject to Spain.<x_0.8828><y_0.5273><class_List-item>\n\n<x_0.0156><y_0.5258>_St_ THOMAS’s DAY, a festival of the Christian church, obferved on Dec. 21. in commemoration of St Thomas the apotile.<x_0.8848><y_0.568><class_List-item>\n\n<x_0.0146><y_0.5664>_St_ THOMAS _of Canterbury's day_, a festival of the Romilh church, observed on Dec. 29. in memory of Thomas Becket archbiflhop of Canterbury, who was murdered, or, as the Romanilis fay, martyred, in the reign of King Henry II.<x_0.8818><y_0.6375><class_List-item>\n\n<x_0.0137><y_0.6359>THOMISM, the doctrine of St Thomas Aquinas, and his followers the Thomifts, chiefly with regard to predeflina-tion and grace. There is fome doubt what the true genuine thomifm is, but there are authors who dliftinguih the thomifm of St Thomas from that of the dominicans. Others again make thomifm no other than a kind of janfenifm dilguifed : but janfenifm, it is known, has been condemned by the popes, which pure thomifm never was: in effect, the writings of Alvarez and Lemos, who were appointed by their order to lay down and defend, before the holy fee, the dogmata of their school, have since been reputed the rule of pure thomifm.<x_0.8867><y_0.8031><class_List-item>\n\n<x_0.0127><y_0.8>THOMISTS, a fact of fchool-divines, who maintain tho-mifm. See the preceding article.<x_0.8877><y_0.8305><class_List-item>\n\n<x_0.0117><y_0.8281>THORACIC DUCT. See ANATOMY, p. 282.<x_0.7354><y_0.8445><class_List-item>\n\n<x_0.0107><y_0.8422>THORAX, in anatomy. See ANATOMY, p. 277.<x_0.79><y_0.8586><class_List-item>\n\n<x_0.0098><y_0.8555>THORN, a city of Poland, in the province of regal Praffis, lituated on the river Viltula: E. long. 19%, and N. lat. 520 40'.<x_0.8887><y_0.9016><class_List-item>\n\n<x_0.7217><y_0.8945>THORN-<x_0.8809><y_0.9109><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2553,
+   "completion_tokens": 1009,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

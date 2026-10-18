@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "793f6182067354de00e2a450bc49f70513c76d43d1e0d08616b2aefaa9e9f8a3",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "3d31e17ae14bd540c0327865607faadff56150ca6b7a74cb9c512f447c62238c",
+  "image_bytes": 2154185,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1344",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5067,
+   0.0444,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0444,
+    0.1313,
+    0.5117
+   ],
+   [
+    0.1313,
+    0.2181,
+    0.5167
+   ],
+   [
+    0.2181,
+    0.305,
+    0.5167
+   ],
+   [
+    0.305,
+    0.3919,
+    0.5167
+   ],
+   [
+    0.3919,
+    0.4788,
+    0.5167
+   ],
+   [
+    0.4788,
+    0.5656,
+    0.5167
+   ],
+   [
+    0.5656,
+    0.6525,
+    0.5167
+   ],
+   [
+    0.6525,
+    0.7394,
+    0.5167
+   ],
+   [
+    0.7394,
+    0.8263,
+    0.5167
+   ],
+   [
+    0.8263,
+    0.9131,
+    0.5167
+   ],
+   [
+    0.9131,
+    1.0,
+    0.5167
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2628,
+  "completion_tokens": 956,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.46,
+ "created_at": "2026-10-18T11:10:55+00:00",
+ "content": "<x_0.0078><y_0.0>Liments of dragoon-guards raifed in 1685. See GRA-\nNADIER, DRAGOONS, and GUARDS.<x_0.7842><y_0.0281><class_Text>\n\n<x_0.0605><y_0.0266>_Maifer of the Horse._ See MASTER.<x_0.5723><y_0.0422><class_Text>\n\n<x_0.0234><y_0.0391>_Light-Horse_, are regiments of cavalry, mounted on light fwift horles, whose men are fmall and lightly ac-\ncoutred. They were first raised in 1757. The deno-\nmination arofe hence, that anciently they were lightly armed, in comparison of the royal guards, which were armed at all points.<x_0.79><y_0.1266><class_Text>\n\n<x_0.0615><y_0.1234>_Hungarian Horse._ See Hussars.<x_0.5537><y_0.1406><class_Text>\n\n<x_0.0225><y_0.1375>Horse is alfo a term ufed in various arts and manu-\nfactories, for fomething that helps to fuftain their work from the ground, for the more commodious working at it.<x_0.791><y_0.1961><class_Text>\n\n<x_0.0244><y_0.1938>The horse ufed by tanners and likinners, alfo called the _leg_, is a piece of wood cut hollow and roundifft, four or five feet long, and placed aflope; upon which they pare their fkins to get off the dirt, hair, flefh, &e.<x_0.792><y_0.2516><class_Text>\n\n<x_0.0254><y_0.2492>Horse is alfo ufed in carpentry, for a piece of wood jointed scrofs two other perpendicular ones. to fuftain the boards, planks, &c. which make bridges over fmall rivers; and on divers other occasions.<x_0.793><y_0.3063><class_Text>\n\n<x_0.0264><y_0.3055>Horse, in fea language, is the name of a rope reach- ing from the middle of a yard,to its extremity, or what is called the _yord-arm_, and depending about two or three feet under the yard, for the failors to tread upon whilf they are loofing, reeling, or furling the fails, rig- ging out the fludding-fail booms, &c. In order, there- fore, to keep the horse more parallel to the yard, it is ufually fulpended to it at proper distances, by certain ropes called thirrups, which hang about two feet under the yard, having an eye in their lower ends through which the horse paffes.<x_0.7939><y_0.4602><class_Text>\n\n<x_0.0322><y_0.4586>Horse is alfo a thick rope, extended in a perpendicular direction near the fore or after-fide of a maft, for the purpose of hoiting or extending fome fall upon it. When it is fixed before a maft, it is calculated for the ufe of a fail called the _square-fail_, whole yard being attached to the horse, by means of a traveller or bull's eye, which slides up and down occasionally, is retained in a steady position; either when the fail is fet, or whilf it is hoitting or lowering. When the horse is placed abaft or behind a maft, it is intended for the try-fail of a flow, and is accordingly very rarely fixed in this potition, except in those floops of war which oc- cationally affume the form of finows, in order to deceive the enemy.<x_0.7949><y_0.6547><class_Text>\n\n<x_0.0332><y_0.6539>Horse is alfo a cant name introduced into the ma- nagement of lotteries, for the chance or benefit of a ticket or number for one or more days, upon condi- tion. if it be drawn a prize within the time covenanted for, of returning to the feller an undrawn ticket.— I'o determine the value of a horse; multiply the amount of the prizes in the lottery by the time the horse is hi- red for; and from the product futbraci the amount of the number of prizes by the value of an undrawn ticket into the time of the horse: the remainder being divided by the number of tickets into the whole time of drawing, the quotient is the value of the horse. See LOTTERY.<x_0.7959><y_0.8352><class_Text>\n\n<x_0.0762><y_0.8336>_Horse-Bread._ See BREAD.<x_0.4707><y_0.85><class_Text>\n\n<x_0.0342><y_0.8469>_Horse-Dung_, in gardening, is of great ufe in ma- king hot-beds, for the railing all forts of early crops; as fallading, cucumbers, melons, afparagus, &c. for<x_0.7969><y_0.8938><class_Text>\n\n<x_0.7021><y_0.8906>which<x_0.7891><y_0.9039><class_Text>",
+ "reply": {
+  "id": "chatcmpl-4e3743f1-9e67-4dc6-8574-c52654f99f83",
+  "object": "chat.completion",
+  "created": 1792321854,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0>Liments of dragoon-guards raifed in 1685. See GRA-\nNADIER, DRAGOONS, and GUARDS.<x_0.7842><y_0.0281><class_Text>\n\n<x_0.0605><y_0.0266>_Maifer of the Horse._ See MASTER.<x_0.5723><y_0.0422><class_Text>\n\n<x_0.0234><y_0.0391>_Light-Horse_, are regiments of cavalry, mounted on light fwift horles, whose men are fmall and lightly ac-\ncoutred. They were first raised in 1757. The deno-\nmination arofe hence, that anciently they were lightly armed, in comparison of the royal guards, which were armed at all points.<x_0.79><y_0.1266><class_Text>\n\n<x_0.0615><y_0.1234>_Hungarian Horse._ See Hussars.<x_0.5537><y_0.1406><class_Text>\n\n<x_0.0225><y_0.1375>Horse is alfo a term ufed in various arts and manu-\nfactories, for fomething that helps to fuftain their work from the ground, for the more commodious working at it.<x_0.791><y_0.1961><class_Text>\n\n<x_0.0244><y_0.1938>The horse ufed by tanners and likinners, alfo called the _leg_, is a piece of wood cut hollow and roundifft, four or five feet long, and placed aflope; upon which they pare their fkins to get off the dirt, hair, flefh, &e.<x_0.792><y_0.2516><class_Text>\n\n<x_0.0254><y_0.2492>Horse is alfo ufed in carpentry, for a piece of wood jointed scrofs two other perpendicular ones. to fuftain the boards, planks, &c. which make bridges over fmall rivers; and on divers other occasions.<x_0.793><y_0.3063><class_Text>\n\n<x_0.0264><y_0.3055>Horse, in fea language, is the name of a rope reach- ing from the middle of a yard,to its extremity, or what is called the _yord-arm_, and depending about two or three feet under the yard, for the failors to tread upon whilf they are loofing, reeling, or furling the fails, rig- ging out the fludding-fail booms, &c. In order, there- fore, to keep the horse more parallel to the yard, it is ufually fulpended to it at proper distances, by certain ropes called thirrups, which hang about two feet under the yard, having an eye in their lower ends through which the horse paffes.<x_0.7939><y_0.4602><class_Text>\n\n<x_0.0322><y_0.4586>Horse is alfo a thick rope, extended in a perpendicular direction near the fore or after-fide of a maft, for the purpose of hoiting or extending fome fall upon it. When it is fixed before a maft, it is calculated for the ufe of a fail called the _square-fail_, whole yard being attached to the horse, by means of a traveller or bull's eye, which slides up and down occasionally, is retained in a steady position; either when the fail is fet, or whilf it is hoitting or lowering. When the horse is placed abaft or behind a maft, it is intended for the try-fail of a flow, and is accordingly very rarely fixed in this potition, except in those floops of war which oc- cationally affume the form of finows, in order to deceive the enemy.<x_0.7949><y_0.6547><class_Text>\n\n<x_0.0332><y_0.6539>Horse is alfo a cant name introduced into the ma- nagement of lotteries, for the chance or benefit of a ticket or number for one or more days, upon condi- tion. if it be drawn a prize within the time covenanted for, of returning to the feller an undrawn ticket.— I'o determine the value of a horse; multiply the amount of the prizes in the lottery by the time the horse is hi- red for; and from the product futbraci the amount of the number of prizes by the value of an undrawn ticket into the time of the horse: the remainder being divided by the number of tickets into the whole time of drawing, the quotient is the value of the horse. See LOTTERY.<x_0.7959><y_0.8352><class_Text>\n\n<x_0.0762><y_0.8336>_Horse-Bread._ See BREAD.<x_0.4707><y_0.85><class_Text>\n\n<x_0.0342><y_0.8469>_Horse-Dung_, in gardening, is of great ufe in ma- king hot-beds, for the railing all forts of early crops; as fallading, cucumbers, melons, afparagus, &c. for<x_0.7969><y_0.8938><class_Text>\n\n<x_0.7021><y_0.8906>which<x_0.7891><y_0.9039><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2628,
+   "completion_tokens": 956,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

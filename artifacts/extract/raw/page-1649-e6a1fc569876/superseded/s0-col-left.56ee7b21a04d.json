@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "56ee7b21a04da96523a3295c7fb67e30e8f12b99abffcecfad4e040a7dc7cf71",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "66fc0cc945f2d5a8c67bdc18620712b6eedee8060f1e2393f3fb3adaebb11ea3",
+  "image_bytes": 1817664,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1649",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.06,
+   0.4783,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.06,
+    0.1455,
+    0.4733
+   ],
+   [
+    0.1455,
+    0.2309,
+    0.4733
+   ],
+   [
+    0.2309,
+    0.3164,
+    0.4733
+   ],
+   [
+    0.3164,
+    0.4018,
+    0.4733
+   ],
+   [
+    0.4018,
+    0.4873,
+    0.4733
+   ],
+   [
+    0.4873,
+    0.5727,
+    0.4733
+   ],
+   [
+    0.5727,
+    0.6582,
+    0.4733
+   ],
+   [
+    0.6582,
+    0.7436,
+    0.4733
+   ],
+   [
+    0.7436,
+    0.8291,
+    0.4733
+   ],
+   [
+    0.8291,
+    0.9145,
+    0.4733
+   ],
+   [
+    0.9145,
+    1.0,
+    0.4733
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2508,
+  "completion_tokens": 836,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.31,
+ "created_at": "2026-10-18T11:11:05+00:00",
+ "content": "<x_0.0693><y_0.0>Chivalry, and they extend their influence equally through the whole fyftem. Difference of armour, and different modes of military dificipline, produce difinction of orders among those who practile the arts of war; while other circumstances, originating from the fame general caufes, occasion familiar changes to take place amid the fecenes of peace.<x_0.9736><y_0.0969><class_Text>\n\n<x_0.0596><y_0.0898>6 Thedifice- tion introduced into the military order by the ufc of cavalry.<x_0.207><y_0.1836><class_Caption>\n\n<x_0.2031><y_0.0945>None of the new diffinctions which are introduced among men, with respect to the dificipline and conduct of war, in consequence of the acquifition of property and the invention of arts, is more remarkable than that occationed by the ufc of horfes in military expeditions, and the training of them to the evolutions of the military art. Fire-arms, it is true, give to thofe who are acquainted with them a greater superiority over thofe to whom their ufc is unknown than what the horfeman polfeffes over him who fights on foot. But the ufc of fire-arms is of fuch importance in war, and the expense attending it to inconfliderable, that wherever thefe have been introduced, they have feldom been confined to one particular order in an army; and therefore they produce indeed a remarkable, though tranfient, diflinction among different nations; but elablith no permanent distinctions in the armies of any one nation. But to maintain a horse, to equip him with costly furniture, to manage him with dexterity and vigour, are circumstances which have invariably produced a flanding and conspicuous difliction among the military order, wherever bodies of cavalry have been formed. The Roman equites, who, though they became at length a body of ufurers and farmers general, were originally the only body of cavalry employed by the flatc, occupied a repectable rank between the fenators and the plebeians; and the elegance and humanity of their manners were fuitable to their rank. In ancient Greece, and in the celebrated monarchies of Afia, the fame difliction prevailed at a familiar period.<x_0.9795><y_0.5281><class_Text>\n\n<x_0.2129><y_0.5273>Since the circumstances and principles on which this diflinction depends are not fuch as muft be con-fined in their influence to one particular nation, or one region of the globe, we may hope to trace their effects among the favage warriors of Seythia and Germany, as well as among the Greeks or Romans. From the valuable treatife of Tacitus _de moribus Ger-_manorum, we learn, that among the German warriors a difliction fomewhat of this nature did actually fubfit; not fo much indeed a difliction between the warrior who fought on herfeback and thofe who fought on foot, as between thofe whom vigour of body and energy of mind enabled to brave all the dangers of war, and fuch as, from the imbecility of youth, the infirmities of age, or the natural inferiority of their mental and bodily powers, were unequal to fences of hardship and deeds of valour. The youth was not permitted to take arms and join his warlike countrymen in their military expeditions whenever he himself thought proper. There was a certain age before which he could not be invited with armour. When he had attained that period, if not found deficient in strength, activity, or courage, he was formally honoured with the field and the lance, called to the duties, and admitted to all the privileges, of a warrior.<x_0.9902><y_0.8773><class_Text>\n\n<x_0.2158><y_0.8766>Another fact worthy of notice reflecting the manners of the barbarians of Germany before they ella-<x_0.9844><y_0.9055><class_Text>\n\n<x_0.2559><y_0.9039>Vol. IV. Part II.<x_0.5225><y_0.9187><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-54f115d9-f075-41cf-b503-f996e836ab7a",
+  "object": "chat.completion",
+  "created": 1792321864,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0693><y_0.0>Chivalry, and they extend their influence equally through the whole fyftem. Difference of armour, and different modes of military dificipline, produce difinction of orders among those who practile the arts of war; while other circumstances, originating from the fame general caufes, occasion familiar changes to take place amid the fecenes of peace.<x_0.9736><y_0.0969><class_Text>\n\n<x_0.0596><y_0.0898>6 Thedifice- tion introduced into the military order by the ufc of cavalry.<x_0.207><y_0.1836><class_Caption>\n\n<x_0.2031><y_0.0945>None of the new diffinctions which are introduced among men, with respect to the dificipline and conduct of war, in consequence of the acquifition of property and the invention of arts, is more remarkable than that occationed by the ufc of horfes in military expeditions, and the training of them to the evolutions of the military art. Fire-arms, it is true, give to thofe who are acquainted with them a greater superiority over thofe to whom their ufc is unknown than what the horfeman polfeffes over him who fights on foot. But the ufc of fire-arms is of fuch importance in war, and the expense attending it to inconfliderable, that wherever thefe have been introduced, they have feldom been confined to one particular order in an army; and therefore they produce indeed a remarkable, though tranfient, diflinction among different nations; but elablith no permanent distinctions in the armies of any one nation. But to maintain a horse, to equip him with costly furniture, to manage him with dexterity and vigour, are circumstances which have invariably produced a flanding and conspicuous difliction among the military order, wherever bodies of cavalry have been formed. The Roman equites, who, though they became at length a body of ufurers and farmers general, were originally the only body of cavalry employed by the flatc, occupied a repectable rank between the fenators and the plebeians; and the elegance and humanity of their manners were fuitable to their rank. In ancient Greece, and in the celebrated monarchies of Afia, the fame difliction prevailed at a familiar period.<x_0.9795><y_0.5281><class_Text>\n\n<x_0.2129><y_0.5273>Since the circumstances and principles on which this diflinction depends are not fuch as muft be con-fined in their influence to one particular nation, or one region of the globe, we may hope to trace their effects among the favage warriors of Seythia and Germany, as well as among the Greeks or Romans. From the valuable treatife of Tacitus _de moribus Ger-_manorum, we learn, that among the German warriors a difliction fomewhat of this nature did actually fubfit; not fo much indeed a difliction between the warrior who fought on herfeback and thofe who fought on foot, as between thofe whom vigour of body and energy of mind enabled to brave all the dangers of war, and fuch as, from the imbecility of youth, the infirmities of age, or the natural inferiority of their mental and bodily powers, were unequal to fences of hardship and deeds of valour. The youth was not permitted to take arms and join his warlike countrymen in their military expeditions whenever he himself thought proper. There was a certain age before which he could not be invited with armour. When he had attained that period, if not found deficient in strength, activity, or courage, he was formally honoured with the field and the lance, called to the duties, and admitted to all the privileges, of a warrior.<x_0.9902><y_0.8773><class_Text>\n\n<x_0.2158><y_0.8766>Another fact worthy of notice reflecting the manners of the barbarians of Germany before they ella-<x_0.9844><y_0.9055><class_Text>\n\n<x_0.2559><y_0.9039>Vol. IV. Part II.<x_0.5225><y_0.9187><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2508,
+   "completion_tokens": 836,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

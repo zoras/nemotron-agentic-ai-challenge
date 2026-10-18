@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "5e5a001a68d78780694809b810e5caf86d689bfd25fc9da71f77227b7d7af7b5",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "c8cd54d377af07c4bca5fe23366d6fd094647e22c46ded3fc323ec9c43f43c7d",
+  "image_bytes": 328456,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2524",
+  "variant": "s1-wide",
+  "crop": [
+   0.0,
+   0.8062,
+   1.0,
+   0.9298
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 255,
+  "total_tokens": 470,
+  "completion_tokens": 215,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.41,
+ "created_at": "2026-10-18T11:12:03+00:00",
+ "content": "<x_0.1123><y_0.0>1 The following is his description of this monument of Hindu art :-\" It stands in a square area of about forty English acres, en- closed by an embattled wall, with octagonal towers at the angles, surmounted by open pavilions, and four very noble gateways of red granite, the principal of which is inland with white marble, and has four high marble minarets. The space within is planted with trees, and divided into green alleys, leading to the central building, which is a sort of solid pyramid, surrounded externally with clois- ters, galleries, and domes, diminishing gradually in ascending it, till it ends in a square platform of white marble, surrounded by most elaborate lattice work of the same material, in the centre of which is a small altar tomb, also of white marble, carved with a delicacy and beauty which do full justice to the material, and to the graceful forms of Arabic characters, which form the chief ema- ment.\"<x_0.9404><y_0.9953><class_Footnote>",
+ "reply": {
+  "id": "chatcmpl-9255d23a-fd83-4fbc-830f-f326576f3f64",
+  "object": "chat.completion",
+  "created": 1792321922,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1123><y_0.0>1 The following is his description of this monument of Hindu art :-\" It stands in a square area of about forty English acres, en- closed by an embattled wall, with octagonal towers at the angles, surmounted by open pavilions, and four very noble gateways of red granite, the principal of which is inland with white marble, and has four high marble minarets. The space within is planted with trees, and divided into green alleys, leading to the central building, which is a sort of solid pyramid, surrounded externally with clois- ters, galleries, and domes, diminishing gradually in ascending it, till it ends in a square platform of white marble, surrounded by most elaborate lattice work of the same material, in the centre of which is a small altar tomb, also of white marble, carved with a delicacy and beauty which do full justice to the material, and to the graceful forms of Arabic characters, which form the chief ema- ment.\"<x_0.9404><y_0.9953><class_Footnote>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 255,
+   "total_tokens": 470,
+   "completion_tokens": 215,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

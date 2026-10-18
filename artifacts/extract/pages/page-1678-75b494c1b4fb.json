@@ -1,0 +1,478 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1678",
+ "row_index": 1678,
+ "volume_id": "193108319",
+ "filename": "page-1678-75b494c1b4fb.jpg",
+ "image_sha256": "75b494c1b4fb241bd9dcaba505dfb1732b3c54ff9f843f0d4a7c1c31110a6ec8",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07059,
+  "median_grey": 209,
+  "layout_body_chars": 4374,
+  "layout_pictures": 0
+ },
+ "running_head": "B I L B I L S03",
+ "layout_raw": "page-1678-75b494c1b4fb/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0216,
+    1.0,
+    0.053
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1678-75b494c1b4fb/head.json",
+   "finish_reason": "stop",
+   "request_key": "596d80b42a0d4696671a7498efcc7809eac5f5138a07670167d4d270a80ae7f1"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0216,
+    0.4567,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0216,
+     0.1031,
+     0.4517
+    ],
+    [
+     0.1031,
+     0.1847,
+     0.4517
+    ],
+    [
+     0.1847,
+     0.2662,
+     0.4517
+    ],
+    [
+     0.2662,
+     0.3477,
+     0.4517
+    ],
+    [
+     0.3477,
+     0.4293,
+     0.4517
+    ],
+    [
+     0.4293,
+     0.5108,
+     0.4517
+    ],
+    [
+     0.5108,
+     0.5923,
+     0.4517
+    ],
+    [
+     0.5923,
+     0.6739,
+     0.4517
+    ],
+    [
+     0.6739,
+     0.7554,
+     0.4517
+    ],
+    [
+     0.7554,
+     0.8369,
+     0.4517
+    ],
+    [
+     0.8369,
+     0.9185,
+     0.4517
+    ],
+    [
+     0.9185,
+     1.0,
+     0.4517
+    ]
+   ],
+   "raw_path": "page-1678-75b494c1b4fb/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "58249cb8ca05da030a438b3abbdf6b378e49747e93ba2d9cc9587374f78616e6"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4467,
+    0.0216,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0216,
+     0.1031,
+     0.4517
+    ],
+    [
+     0.1031,
+     0.1847,
+     0.4517
+    ],
+    [
+     0.1847,
+     0.2662,
+     0.4517
+    ],
+    [
+     0.2662,
+     0.3477,
+     0.4517
+    ],
+    [
+     0.3477,
+     0.4293,
+     0.4517
+    ],
+    [
+     0.4293,
+     0.5108,
+     0.4517
+    ],
+    [
+     0.5108,
+     0.5923,
+     0.4517
+    ],
+    [
+     0.5923,
+     0.6739,
+     0.4517
+    ],
+    [
+     0.6739,
+     0.7554,
+     0.4517
+    ],
+    [
+     0.7554,
+     0.8369,
+     0.4517
+    ],
+    [
+     0.8369,
+     0.9185,
+     0.4517
+    ],
+    [
+     0.9185,
+     1.0,
+     0.4517
+    ]
+   ],
+   "raw_path": "page-1678-75b494c1b4fb/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "2392cab357a8b6a8dfb368a58983c47b38203d081d70696edf3c4a5e49e90c0f"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "B I L B I L S03",
+   "bbox": [
+    0.0,
+    0.0216,
+    1.0,
+    0.053
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1678-75b494c1b4fb:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**B I L**",
+   "bbox": [
+    0.1998,
+    0.0246,
+    0.3064,
+    0.0461
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-1678-75b494c1b4fb:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Billinger.",
+   "bbox": [
+    0.0,
+    0.0476,
+    0.0674,
+    0.0767
+   ],
+   "source": "s0-col-left",
+   "id": "page-1678-75b494c1b4fb:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Edward, had already had occasion to appreciate his talents, and put them to use. At the time when he carried on the war in Servia, he maintained a regular correspondence with Bilfinger, who had long been known as an able Engineer, and had, indeed, made some improvements of value in the received system of Fortification. After his return to Tubingen, he had frequent conversations with the Professor on different subjects of administration, and appointed him, in 1735, Privy-Counselor. This nomination was not a simple honorary title. Bilfinger saw himself raised at once to a power almost unlimited. He resisted some time a promotion, which he did not think himself qualified to sustain. In accepting office, his first care was to acquire all the knowledge necessary to the discharge of its duties. He employed almost two years in assiduous labour to instruct himself thoroughly in the statistics of the country, in considering its political situation, its constitution, its interests, and became, at the end of all this study, one of the most enlightened mini-sters that his country had yet produced. Bilfinger was placed in a situation too elevated not to excite jealousy and hatred. He felt it, and wished to quit the ministry; but the court refused to receive his resignation, soon after the tender of which, the Duke died. Bilfinger experienced from his successor all the consideration and all the friendship which he had experienced in the beginning of his career. Received into a confidence without bounds, he had the power to realize, without obstacle, those plans of administration with which the most enlightened patriotism had inspired him. Wurtemberg still feels the happy influence of his ministry. Commerce, public instruction, agriculture, were protected and ame- liorated by his cares. The culture of the vine, of so much importance in this country, was one of the principal objects of his attention. We ought not to forget that he was the original author of that strict union which has long united Wurtemberg and Prussia, and of the importance to which the hereditary Prince of Wurtemberg was raised at the court of Berlin. In 1737, the Duke nominated him President of his consistory, and Secretary of the grand Order of the Chace. He was also Curator of the University of Tubingen, and member of the Royal Academy of",
+   "bbox": [
+    0.0513,
+    0.0468,
+    0.4562,
+    0.6644
+   ],
+   "source": "s0-col-left",
+   "id": "page-1678-75b494c1b4fb:b3"
+  },
+  {
+   "order": 4,
+   "class": "Head-fragment",
+   "text": "B I L S03",
+   "bbox": [
+    0.6191,
+    0.0278,
+    0.9341,
+    0.0491
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "Berlin. All his time was consecrated to some serious occupation, with the exception of one hour in the evening, which he employed in making and receiving visits. His greatest enjoyment was in cultivating his garden. A warm and strong friend, he gave many proofs of gratitude to those protectors, who had generously assisted him in his studies. He has been reproached with being irascible; but in spite of some slight blemishes, the memory of Bilfinger will be always dear to his countrymen, and honoured by all Germans. Wurtemberg reckons him among the greatest men which she has produced, and proposes him as a model to her statesmen and her men of letters. He was never married, and left no issue. He died at Stuttgart the 18th of February 1750. His works, besides various Papers published in the Me- moirs of the St Petersburg and Paris Academies of Science, are :",
+   "bbox": [
+    0.4645,
+    0.0514,
+    0.8563,
+    0.2884
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b5"
+  },
+  {
+   "order": 6,
+   "class": "List-item",
+   "text": "1. _Disputatio de Harmonia præstabilità_, Tubingen, 1721, in 4to.",
+   "bbox": [
+    0.4651,
+    0.2967,
+    0.8487,
+    0.3258
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b6"
+  },
+  {
+   "order": 7,
+   "class": "List-item",
+   "text": "_2. De Harmonia Animi et Corporis Humani maxi- me præstabilità Commentatio Hypothetica_, Francfort on the Main, 1723, in 5vo. This work was inserted in the Expurgatory Index at Rome in 1734.",
+   "bbox": [
+    0.4635,
+    0.3235,
+    0.8503,
+    0.3785
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b7"
+  },
+  {
+   "order": 8,
+   "class": "List-item",
+   "text": "_3. De Origine et Permissione Mali, praccipue Moralis, Commentatio Philosophica_, ibid. 1724, in 5vo.",
+   "bbox": [
+    0.4613,
+    0.3755,
+    0.8476,
+    0.4053
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b8"
+  },
+  {
+   "order": 9,
+   "class": "List-item",
+   "text": "_4. Specimen Doctrina Veterum Sinarum Moralis et Politica_, Francf. 1724, in 4to._",
+   "bbox": [
+    0.4596,
+    0.4015,
+    0.8471,
+    0.4298
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b9"
+  },
+  {
+   "order": 10,
+   "class": "List-item",
+   "text": "_5. Dissertatio Historico-cataptrica de Speculo Ar- chimedis_, Tubingen, 1725, in 4to._",
+   "bbox": [
+    0.4591,
+    0.4268,
+    0.8466,
+    0.4557
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b10"
+  },
+  {
+   "order": 11,
+   "class": "List-item",
+   "text": "_6. Dilucidationes Philosophicae de Deo, Animal Humaná, Mundo, et Generalibus Rerum Affectionibus,_ ibid. 1725, in 4to.",
+   "bbox": [
+    0.4586,
+    0.4527,
+    0.846,
+    0.494
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b11"
+  },
+  {
+   "order": 12,
+   "class": "List-item",
+   "text": "_7. Bilfingeri et Holmanni Epistola de Harmonia Præstabilità, 1728, in 4to._",
+   "bbox": [
+    0.458,
+    0.4909,
+    0.8455,
+    0.52
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b12"
+  },
+  {
+   "order": 13,
+   "class": "List-item",
+   "text": "_8. Disputatio de Natura et Legibus Studii in Theologià Thetici,_ ibid. 1731, in 4to.",
+   "bbox": [
+    0.4575,
+    0.5169,
+    0.8449,
+    0.5459
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b13"
+  },
+  {
+   "order": 14,
+   "class": "List-item",
+   "text": "_9. Disputatio de Cultu Dei Rationali,_ ibid. 1731.",
+   "bbox": [
+    0.4754,
+    0.5437,
+    0.8428,
+    0.5597
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b14"
+  },
+  {
+   "order": 15,
+   "class": "List-item",
+   "text": "10. _Notac Breves in Ben. Spinose Methodum Ex- picandi Scripturas_, Tub. 1732, in 4to.",
+   "bbox": [
+    0.457,
+    0.5559,
+    0.8444,
+    0.585
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b15"
+  },
+  {
+   "order": 16,
+   "class": "List-item",
+   "text": "11. _De Mysteriis Christiane Fidei Generatim Spec tatis Semno, Recittatus 1732, Tubingen, 1732, in 4to._",
+   "bbox": [
+    0.4559,
+    0.5819,
+    0.8433,
+    0.6117
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b16"
+  },
+  {
+   "order": 17,
+   "class": "List-item",
+   "text": "12. _Elementa Physics_, Leipzig, 1742, in 5vo.",
+   "bbox": [
+    0.4743,
+    0.6079,
+    0.8028,
+    0.6239
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b17"
+  },
+  {
+   "order": 18,
+   "class": "List-item",
+   "text": "13. _La Citadelle Coupée_, Leipzig, 1756, in 4to.",
+   "bbox": [
+    0.4748,
+    0.6209,
+    0.8158,
+    0.6377
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b18"
+  },
+  {
+   "order": 19,
+   "class": "Caption",
+   "text": "See _Biographie Universelle_, Tom. IV.",
+   "bbox": [
+    0.4737,
+    0.6438,
+    0.7542,
+    0.6636
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b19"
+  },
+  {
+   "order": 20,
+   "class": "Head-fragment",
+   "text": "S03",
+   "bbox": [
+    0.8908,
+    0.0316,
+    0.9335,
+    0.0483
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b20"
+  },
+  {
+   "order": 21,
+   "class": "Caption",
+   "text": "Bilfinger.",
+   "bbox": [
+    0.8595,
+    0.0537,
+    0.9233,
+    0.0675
+   ],
+   "source": "s0-col-right",
+   "id": "page-1678-75b494c1b4fb:b21"
+  }
+ ]
+}

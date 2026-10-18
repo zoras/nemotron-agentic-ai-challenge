@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "f6cb880c0e76acdaabfa9d44c3199bb1ea99df6eac6e6ca85f1975c75946c6f8",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "b294b58cb4584de409042b3581045e1fd6077530c680e0e24261030ba4147c65",
+  "image_bytes": 2055258,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4667,
+   0.0325,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0325,
+    0.1131,
+    0.4717
+   ],
+   [
+    0.1131,
+    0.1938,
+    0.4717
+   ],
+   [
+    0.1938,
+    0.2744,
+    0.4717
+   ],
+   [
+    0.2744,
+    0.355,
+    0.4717
+   ],
+   [
+    0.355,
+    0.4356,
+    0.4717
+   ],
+   [
+    0.4356,
+    0.5162,
+    0.4717
+   ],
+   [
+    0.5162,
+    0.5969,
+    0.4717
+   ],
+   [
+    0.5969,
+    0.6775,
+    0.4717
+   ],
+   [
+    0.6775,
+    0.7581,
+    0.4717
+   ],
+   [
+    0.7581,
+    0.8387,
+    0.4717
+   ],
+   [
+    0.8387,
+    0.9194,
+    0.4717
+   ],
+   [
+    0.9194,
+    1.0,
+    0.4717
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2746,
+  "completion_tokens": 946,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.83,
+ "created_at": "2026-10-18T11:21:28+00:00",
+ "content": "<x_0.0488><y_0.0039>)<x_0.0762><y_0.0258><class_Text>\n\n<x_0.3369><y_0.0031>C A B<x_0.5254><y_0.0227><class_Title>\n\n<x_0.0078><y_0.0266>CABINET, or CABBINET, the molt retired place in\nthe fineft part of a building, fet apart for writing, flu-\ndying, or preferving any thing that is precious.<x_0.8076><y_0.0734><class_Text>\n\n<x_0.04><y_0.0719>A complete apartment conflits of a hall, anti-cham-\nber, chamber, and cabinet, with a gallery on one fide.\nHence we fay, a cabinet of paintings, curiolities, _Gc_.<x_0.8066><y_0.1164><class_Text>\n\n<x_0.0137><y_0.1156>CABINET alfo denotes a piece of joiner's workmanhip,\nbeing a kind of prefs or chef), with feveral doors and\ndrawers.<x_0.8057><y_0.1586><class_Text>\n\n<x_0.041><y_0.1594>There are common cabinets of oak or of chefnut,\nvarnified cabinets of China and Japan, cabinets or in-\nlaid work, and fome of ebony, or the like ficarce and\nprecious woods.<x_0.8047><y_0.218><class_Text>\n\n<x_0.042><y_0.2172>Formerly the Dutch and German cabinets were\nmuch effeemed in France, but are now quite out of\ndate, as well as the cabinets of ebony, which came\nfrom Venice.<x_0.8086><y_0.275><class_Text>\n\n<x_0.0166><y_0.2742>CABIRI, a term in the theology of the ancient Pagans,\nfigifying great and powerful gods; being a name\ngiven to the gods of Samothracia. They were alfo\nworkhipped in other parts of Greece, as Lemnos and\nThebes, where the cabiria were celebrated in honour\nof them: thefe gods are laid to be, in number,\nfour, _viz._ Axieros, Axiocerfa, Axiocerfus, and\nCafmilus.<x_0.8096><y_0.3922><class_Text>\n\n<x_0.0176><y_0.3914>CABIRIA, feffivals in honour of the cabiri, celebrated\nin Thebes and Lemnos, but especially in Samothra-\ncia, an illand confecrated to the cabiri. All who were\ninitiated into the myfferies of thefe gods, were thought\nto be feured thereby from florms at fea, and all other\ndangers. The ceremony of initiation was performed\nby placing the candidate, crowned with olive-branches,\nand girded about the loins with a purple ribband, on\na kind of throne, about which the prieils, and perfons\nbefore initiated, danced.<x_0.8105><y_0.5375><class_Text>\n\n<x_0.0186><y_0.5367>CABLAN, the nam: of a kingdom and city of India,\nbeyond the Ganges.<x_0.8115><y_0.5672><class_Text>\n\n<x_0.0195><y_0.5656>CABLE, a thick, large, frong rope, commonly of\nhemp, which ferves to keep a hip at anchor.<x_0.8125><y_0.5969><class_Text>\n\n<x_0.0527><y_0.5961>There is no merchant-hip, however weak, but has\nat leaft three cables ; namely, the chief cable, or\ncable of the fleet-anchor, a common cable, and a\nfmaller one.<x_0.8037><y_0.6539><class_Text>\n\n<x_0.0547><y_0.6531>Cable is alfo faid of ropes, which ferve to raife\nheavy loads, by the help of cranes, pullies, and other\nengines. The name of cable is ufually given to fuch\nas have, at leaft, three inches in diameter ; thofe that\nare lefs are only called ropes of different names, ac-\ncording to their ufe.<x_0.8135><y_0.7422><class_Text>\n\n<x_0.0566><y_0.7398>Every cable, of what thickness foever it be, is com-\npofed of three friends ; every frand of three ropes ; and\nevery rope of three twifts : the twift is made of more\nor lefs threads, according as the cable is to be thicker\nor thinner.<x_0.8145><y_0.8133><class_Text>\n\n<x_0.0576><y_0.8141>In the manufacture of cables, after the ropes are\nmade, they ufe flicks, which they pafs frit between\nthe ropes of which they make the frants, and after-\nwards between the frants of which they make the\ncable, to the end that they may all twift the better;\nand be more regularly wound together ; and alfo, to\nprevent them from twining or intangling, they hang,<x_0.8174><y_0.918><class_Text>\n\n<x_0.7783><y_0.9164>az<x_0.8184><y_0.9273><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-74dd4b53-2490-4b1f-9450-45a9d96e4fdf",
+  "object": "chat.completion",
+  "created": 1792322487,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0488><y_0.0039>)<x_0.0762><y_0.0258><class_Text>\n\n<x_0.3369><y_0.0031>C A B<x_0.5254><y_0.0227><class_Title>\n\n<x_0.0078><y_0.0266>CABINET, or CABBINET, the molt retired place in\nthe fineft part of a building, fet apart for writing, flu-\ndying, or preferving any thing that is precious.<x_0.8076><y_0.0734><class_Text>\n\n<x_0.04><y_0.0719>A complete apartment conflits of a hall, anti-cham-\nber, chamber, and cabinet, with a gallery on one fide.\nHence we fay, a cabinet of paintings, curiolities, _Gc_.<x_0.8066><y_0.1164><class_Text>\n\n<x_0.0137><y_0.1156>CABINET alfo denotes a piece of joiner's workmanhip,\nbeing a kind of prefs or chef), with feveral doors and\ndrawers.<x_0.8057><y_0.1586><class_Text>\n\n<x_0.041><y_0.1594>There are common cabinets of oak or of chefnut,\nvarnified cabinets of China and Japan, cabinets or in-\nlaid work, and fome of ebony, or the like ficarce and\nprecious woods.<x_0.8047><y_0.218><class_Text>\n\n<x_0.042><y_0.2172>Formerly the Dutch and German cabinets were\nmuch effeemed in France, but are now quite out of\ndate, as well as the cabinets of ebony, which came\nfrom Venice.<x_0.8086><y_0.275><class_Text>\n\n<x_0.0166><y_0.2742>CABIRI, a term in the theology of the ancient Pagans,\nfigifying great and powerful gods; being a name\ngiven to the gods of Samothracia. They were alfo\nworkhipped in other parts of Greece, as Lemnos and\nThebes, where the cabiria were celebrated in honour\nof them: thefe gods are laid to be, in number,\nfour, _viz._ Axieros, Axiocerfa, Axiocerfus, and\nCafmilus.<x_0.8096><y_0.3922><class_Text>\n\n<x_0.0176><y_0.3914>CABIRIA, feffivals in honour of the cabiri, celebrated\nin Thebes and Lemnos, but especially in Samothra-\ncia, an illand confecrated to the cabiri. All who were\ninitiated into the myfferies of thefe gods, were thought\nto be feured thereby from florms at fea, and all other\ndangers. The ceremony of initiation was performed\nby placing the candidate, crowned with olive-branches,\nand girded about the loins with a purple ribband, on\na kind of throne, about which the prieils, and perfons\nbefore initiated, danced.<x_0.8105><y_0.5375><class_Text>\n\n<x_0.0186><y_0.5367>CABLAN, the nam: of a kingdom and city of India,\nbeyond the Ganges.<x_0.8115><y_0.5672><class_Text>\n\n<x_0.0195><y_0.5656>CABLE, a thick, large, frong rope, commonly of\nhemp, which ferves to keep a hip at anchor.<x_0.8125><y_0.5969><class_Text>\n\n<x_0.0527><y_0.5961>There is no merchant-hip, however weak, but has\nat leaft three cables ; namely, the chief cable, or\ncable of the fleet-anchor, a common cable, and a\nfmaller one.<x_0.8037><y_0.6539><class_Text>\n\n<x_0.0547><y_0.6531>Cable is alfo faid of ropes, which ferve to raife\nheavy loads, by the help of cranes, pullies, and other\nengines. The name of cable is ufually given to fuch\nas have, at leaft, three inches in diameter ; thofe that\nare lefs are only called ropes of different names, ac-\ncording to their ufe.<x_0.8135><y_0.7422><class_Text>\n\n<x_0.0566><y_0.7398>Every cable, of what thickness foever it be, is com-\npofed of three friends ; every frand of three ropes ; and\nevery rope of three twifts : the twift is made of more\nor lefs threads, according as the cable is to be thicker\nor thinner.<x_0.8145><y_0.8133><class_Text>\n\n<x_0.0576><y_0.8141>In the manufacture of cables, after the ropes are\nmade, they ufe flicks, which they pafs frit between\nthe ropes of which they make the frants, and after-\nwards between the frants of which they make the\ncable, to the end that they may all twift the better;\nand be more regularly wound together ; and alfo, to\nprevent them from twining or intangling, they hang,<x_0.8174><y_0.918><class_Text>\n\n<x_0.7783><y_0.9164>az<x_0.8184><y_0.9273><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2746,
+   "completion_tokens": 946,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

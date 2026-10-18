@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "594fb8630294e4c7fc1ff605230536befaac45fdc5d6f81a670dd8ff82bb595d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ff83146b01ddec5e43f57c9fb7ffbe1e7e01069e6effde160dd3069101913ad1",
+  "image_bytes": 2633525,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:604",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4467,
+   0.0663,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0663,
+    0.1512,
+    0.4617
+   ],
+   [
+    0.1512,
+    0.2361,
+    0.4617
+   ],
+   [
+    0.2361,
+    0.3209,
+    0.4617
+   ],
+   [
+    0.3209,
+    0.4058,
+    0.4617
+   ],
+   [
+    0.4058,
+    0.4907,
+    0.46
+   ],
+   [
+    0.4907,
+    0.5756,
+    0.4583
+   ],
+   [
+    0.5756,
+    0.6605,
+    0.4583
+   ],
+   [
+    0.6605,
+    0.7454,
+    0.455
+   ],
+   [
+    0.7454,
+    0.8302,
+    0.455
+   ],
+   [
+    0.8302,
+    0.9151,
+    0.4517
+   ],
+   [
+    0.9151,
+    1.0,
+    0.4633
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2994,
+  "completion_tokens": 1066,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.42,
+ "created_at": "2026-10-18T11:10:27+00:00",
+ "content": "<x_0.0342><y_0.0>From this period until his death his time was much occu- pied in the composition of his history; and except the arrangement of the Edict of Nantes, in which he had an important share, he engaged very little in public business. The death of Henry in 1610 virtually brought his political life to a termination. Soured with public disappointments, and torn by private griefs, caused mainly by the death of his second wife, he died at Paris on the 7th of May 1617, in his sixty-fourth year. A son of De Thou's by his second wife, François August, fell a sacrifice to the inexorable vengeance of Cardinal Richelieu on the 12th of September 1642.<x_0.7578><y_0.1602><class_Text>\n\n<x_0.7588><y_0.0063>Thourout\nThrapston.<x_0.8779><y_0.0453><class_Caption>\n\n<x_0.0166><y_0.1539>From 1604, when the first eighteen books of De Thou’s _History_ appeared, the author was received with acclamation by all the reading public of Europe, as the first historian of the age. During his life there appeared eighty books of it in all, and the remainder, forming in all one hundred and thirty-eight books, were published in 1620. The space over which his record extends, is from the year 1544 to 1607; from the closing years of Francis I. till nearly the completion of the reign of Henry IV. It has all the liveli-ness and freshness of a narrative, written by a man who was a principal actor in the scenes which it is his business to chronicle; it has, besides, the rare merit of being singu-larly impartial, the author recognising with uncommon frankness the excellence and even occasional superiority of statesmen and citizens who were avowed rivals to the nation which it was both his duty and his pride to honour and exalt. But it is much more upon the excellence of the workmanship that De Thou’s _History_ lives, than upon the comparative accuracy and faithfulness of its recorded facts. While the style of the work certainly displays abundance of easy, flowing eloquence, it is perhaps defi-cient in the higher quality of vivid picturesqueness. The language in which it was written was Latin ; and the author has spared neither time nor labour to make it severely classical. That it does not come quite up to this ideal is, perhaps, not to be wondered at. The best English edition of De Thou’s _History_ is that in 7 vols. by Samuel Buckley, 1733. De Thou likewise wrote a number of Latin poems, one of which, entitled _De Re Accipitraria_ (On Hawking), appeared in 1584. The _Life_ of this author has been frequently written. The above notice has been gathered from his autobiography, which terminates in 1601, and from Col-linson’s _Life of Thuanus_, London, 1807.<x_0.7539><y_0.5922><class_Text>\n\n<x_0.0146><y_0.5883>THOUROUT, a town of Belgium, capital of a canton in the province of West Flanders, 11 miles S.W. of Bruges. It has a fine church, a town-hall, several schools, and benevolent institutions. Linen, hats, leather, cordage, earthenware, soap, tobacco, and other goods are made here. In the vicinity are the remains of an old castle, once the residence of the Counts of Flanders. Pop. 8405.<x_0.7354><y_0.6844><class_Text>\n\n<x_0.0078><y_0.6805>THRACE, the ancient name of a country in the S.E. of Europe, now forming part of European Turkey. In the earliest times the name was used in a very vague sense, and applied to the whole region north of the Egean Sea, including Macedonia and even Scythia; but when this country became better known to the Greeks, Thrace was confined within narrower and more definite limits. It was bounded on the N. by the Danube, E. by the Euxine and the Bosphorus, S. by the Propontis and the Egean, and W. by the Strymon, or, at a later period, by the Nestus, which separated it from Macedonia. After the Roman conquest, its size was still further reduced by the chain of Hamus being made its northern boundary. It corresponds partly with the modern Rumili, which also includes part of Macedonia and Thessaly. (See RUMIL)<x_0.7324><y_0.8797><class_Text>\n\n<x_0.0088><y_0.8766>THRAPSTON, a market-town of England, in the county and 18 miles N.N.E. of Northampton, on the Nen, which is here crossed by a bridge. The parish church is cruciform building with a tower and spire; and there are<x_0.7295><y_0.9336><class_Text>",
+ "reply": {
+  "id": "chatcmpl-f0bf1f71-d538-42b4-ac00-fc808c376dd5",
+  "object": "chat.completion",
+  "created": 1792321826,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0342><y_0.0>From this period until his death his time was much occu- pied in the composition of his history; and except the arrangement of the Edict of Nantes, in which he had an important share, he engaged very little in public business. The death of Henry in 1610 virtually brought his political life to a termination. Soured with public disappointments, and torn by private griefs, caused mainly by the death of his second wife, he died at Paris on the 7th of May 1617, in his sixty-fourth year. A son of De Thou's by his second wife, François August, fell a sacrifice to the inexorable vengeance of Cardinal Richelieu on the 12th of September 1642.<x_0.7578><y_0.1602><class_Text>\n\n<x_0.7588><y_0.0063>Thourout\nThrapston.<x_0.8779><y_0.0453><class_Caption>\n\n<x_0.0166><y_0.1539>From 1604, when the first eighteen books of De Thou’s _History_ appeared, the author was received with acclamation by all the reading public of Europe, as the first historian of the age. During his life there appeared eighty books of it in all, and the remainder, forming in all one hundred and thirty-eight books, were published in 1620. The space over which his record extends, is from the year 1544 to 1607; from the closing years of Francis I. till nearly the completion of the reign of Henry IV. It has all the liveli-ness and freshness of a narrative, written by a man who was a principal actor in the scenes which it is his business to chronicle; it has, besides, the rare merit of being singu-larly impartial, the author recognising with uncommon frankness the excellence and even occasional superiority of statesmen and citizens who were avowed rivals to the nation which it was both his duty and his pride to honour and exalt. But it is much more upon the excellence of the workmanship that De Thou’s _History_ lives, than upon the comparative accuracy and faithfulness of its recorded facts. While the style of the work certainly displays abundance of easy, flowing eloquence, it is perhaps defi-cient in the higher quality of vivid picturesqueness. The language in which it was written was Latin ; and the author has spared neither time nor labour to make it severely classical. That it does not come quite up to this ideal is, perhaps, not to be wondered at. The best English edition of De Thou’s _History_ is that in 7 vols. by Samuel Buckley, 1733. De Thou likewise wrote a number of Latin poems, one of which, entitled _De Re Accipitraria_ (On Hawking), appeared in 1584. The _Life_ of this author has been frequently written. The above notice has been gathered from his autobiography, which terminates in 1601, and from Col-linson’s _Life of Thuanus_, London, 1807.<x_0.7539><y_0.5922><class_Text>\n\n<x_0.0146><y_0.5883>THOUROUT, a town of Belgium, capital of a canton in the province of West Flanders, 11 miles S.W. of Bruges. It has a fine church, a town-hall, several schools, and benevolent institutions. Linen, hats, leather, cordage, earthenware, soap, tobacco, and other goods are made here. In the vicinity are the remains of an old castle, once the residence of the Counts of Flanders. Pop. 8405.<x_0.7354><y_0.6844><class_Text>\n\n<x_0.0078><y_0.6805>THRACE, the ancient name of a country in the S.E. of Europe, now forming part of European Turkey. In the earliest times the name was used in a very vague sense, and applied to the whole region north of the Egean Sea, including Macedonia and even Scythia; but when this country became better known to the Greeks, Thrace was confined within narrower and more definite limits. It was bounded on the N. by the Danube, E. by the Euxine and the Bosphorus, S. by the Propontis and the Egean, and W. by the Strymon, or, at a later period, by the Nestus, which separated it from Macedonia. After the Roman conquest, its size was still further reduced by the chain of Hamus being made its northern boundary. It corresponds partly with the modern Rumili, which also includes part of Macedonia and Thessaly. (See RUMIL)<x_0.7324><y_0.8797><class_Text>\n\n<x_0.0088><y_0.8766>THRAPSTON, a market-town of England, in the county and 18 miles N.N.E. of Northampton, on the Nen, which is here crossed by a bridge. The parish church is cruciform building with a tower and spire; and there are<x_0.7295><y_0.9336><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2994,
+   "completion_tokens": 1066,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

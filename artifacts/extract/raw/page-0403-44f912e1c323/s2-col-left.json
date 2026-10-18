@@ -1,0 +1,79 @@
+{
+ "request": {
+  "key": "89165df995e53852b0bca34576336c3141a501cc368091af3a9b480fe9e1c90d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "8135679c724b4ba189cb1eb7f3df40e4457c40b1b7e566aebff19036e2113a50",
+  "image_bytes": 83571,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:403",
+  "variant": "s2-col-left",
+  "crop": [
+   0.0,
+   0.9056,
+   0.4683,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.9056,
+    1.0,
+    0.4633
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 218,
+  "total_tokens": 244,
+  "completion_tokens": 26,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.21,
+ "created_at": "2026-10-18T11:10:15+00:00",
+ "content": "<x_0.0><y_0.0>Where the capital of Ethiopia was situated.\nA very learned German, who published a grammar and dictionary<x_0.999><y_0.9992><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-d8a8c9e8-3e55-4d15-9b2d-672c326bb811",
+  "object": "chat.completion",
+  "created": 1792321814,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>Where the capital of Ethiopia was situated.\nA very learned German, who published a grammar and dictionary<x_0.999><y_0.9992><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 218,
+   "total_tokens": 244,
+   "completion_tokens": 26,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

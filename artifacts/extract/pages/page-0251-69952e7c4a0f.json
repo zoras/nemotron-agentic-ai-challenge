@@ -1,0 +1,438 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:251",
+ "row_index": 251,
+ "volume_id": "191679021",
+ "filename": "page-0251-69952e7c4a0f.jpg",
+ "image_sha256": "69952e7c4a0f40267d357d04308f674155b3ab206ce8f2f4887124ce481f8c1d",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.08235,
+  "median_grey": 198,
+  "layout_body_chars": 7569,
+  "layout_pictures": 0
+ },
+ "running_head": "S W I [ 248 ] S Y D",
+ "layout_raw": "page-0251-69952e7c4a0f/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0,
+    1.0,
+    0.0296
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0251-69952e7c4a0f/head.json",
+   "finish_reason": "stop",
+   "request_key": "12aacc2e0329d5227ab89726ec66bcbaeca1066309fcd9f64d627ef3fc85afa9"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0,
+    0.5133,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.5083
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.505
+    ],
+    [
+     0.1667,
+     0.25,
+     0.505
+    ],
+    [
+     0.25,
+     0.3333,
+     0.505
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.505
+    ],
+    [
+     0.4167,
+     0.5,
+     0.505
+    ],
+    [
+     0.5,
+     0.5833,
+     0.505
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.505
+    ],
+    [
+     0.6667,
+     0.75,
+     0.505
+    ],
+    [
+     0.75,
+     0.8333,
+     0.505
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.505
+    ],
+    [
+     0.9167,
+     1.0,
+     0.505
+    ]
+   ],
+   "raw_path": "page-0251-69952e7c4a0f/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "cb23fe58bb6ab3c235f3b6272faffd39e749a6dadb07b6769f94ccb3f2792d94"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5,
+    0.0,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.5083
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.505
+    ],
+    [
+     0.1667,
+     0.25,
+     0.505
+    ],
+    [
+     0.25,
+     0.3333,
+     0.505
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.505
+    ],
+    [
+     0.4167,
+     0.5,
+     0.505
+    ],
+    [
+     0.5,
+     0.5833,
+     0.505
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.505
+    ],
+    [
+     0.6667,
+     0.75,
+     0.505
+    ],
+    [
+     0.75,
+     0.8333,
+     0.505
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.505
+    ],
+    [
+     0.9167,
+     1.0,
+     0.505
+    ]
+   ],
+   "raw_path": "page-0251-69952e7c4a0f/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "6e179ca2c2116dc6c7967764b1b9e64ac765a86eeb65a5edb479627b61b82229"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "S W I [ 248 ] S Y D",
+   "bbox": [
+    0.0,
+    0.0,
+    1.0,
+    0.0296
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0251-69952e7c4a0f:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "S W I | 24",
+   "bbox": [
+    0.2311,
+    0.0031,
+    0.5128,
+    0.025
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0251-69952e7c4a0f:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Switzerland,",
+   "bbox": [
+    0.019,
+    0.0219,
+    0.0807,
+    0.057
+   ],
+   "source": "s0-col-left",
+   "id": "page-0251-69952e7c4a0f:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "parts of the country that border on Italy or France, a corrupt French or Italian prevails. The two predominant religions are Calvinifm and Popery. Of the former are the cantons of Zurich and Berne, the town of St Gall, Geneva, Muhliaufen, and Biel, the principality of Neufchatel, the greater part of Bafil, Schaffhaufen, the country of the Gri- fons, the Thurgau, Toggenburg, Glaris, and the Rhine valley; the frontiers of Appenzel, with a final part of Solo- thurn, and fome places in the countries of Baden and Sar- gans. The reik of the Swits cantons, allies and dependents, are Popih. For the education of youth there is an univer- fity at Bafil, and academies at Zurich, Berne, Laufanne, and Geneva, beides gymnasiums and fchoice illutres, both in the Popih and Proteitant cantons. There are alfo focietics among them for the improvement of the German language and the fenences.",
+   "bbox": [
+    0.0842,
+    0.0234,
+    0.5003,
+    0.2367
+   ],
+   "source": "s0-col-left",
+   "id": "page-0251-69952e7c4a0f:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "The principal manufactures are fluff and tobacco, linen of feveral forts, lace, thread, filk, and worfted flockings, neckcloths, cotton fluffs, gloves, handkerchiefs, filks of feveral forts, gold and silver brocades, a variety of woollen manu- factures, hats, paper, leather of all forts, earthen wares, por- celain, toys, watches, clocks, and other hardwares, &c. The trade of Switzerland is greatly promoted by many navigable lakes and rivers. In fome of the above manufactures, and in cheefe, butter, fleep, horfes, black cattle, hides, and films, the exports are confiderable ; and as the imports are chiefly grain and fall, with fome American and Afiatic goods, there is probably a large balance in their favour. In fome parts of Switzerland drefs is reflrained by fumptuary laws.",
+   "bbox": [
+    0.0837,
+    0.2359,
+    0.5008,
+    0.4109
+   ],
+   "source": "s0-col-left",
+   "id": "page-0251-69952e7c4a0f:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "The public revenues are in general very inconfiderable, ariling chiefly from the ufual regalia, appropriated every- where to the foveign, the demefnes, and public granaries, voluntary contributions, the fale of fall, and a land-tax ; in the Protefitant cantons, from the church lands alfo that were feized at the Reformation. Except in Zurich, Berne, Bafil, and Schaffhaufen, where the people are more indultrious, have a greater trade, and are richer than in the others, they defray the ordinary charges, and that is all.",
+   "bbox": [
+    0.0832,
+    0.4094,
+    0.5013,
+    0.5297
+   ],
+   "source": "s0-col-left",
+   "id": "page-0251-69952e7c4a0f:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "The cantons never keep any flooding troops, except for a few garrifons ; but their militia is reckoned to be the belt regulated of any in Europe. Every male from 16 to 60 is enrolled, and about one-third of them regimented. They mult all provide themselves with arms, clothing, and accou- trements, and appear on the flated days for exercife ; and the several cantons and difriets mult be furnished with a fufficient train of artillery, and all the other implements of war. The Switzers of the several cantons are allowed to engage in the service of fuch foreign princes and flates as are in alliance with those cantons, or with whom they have made a previous agreement. Such flates, paying an annual fubfidy to the respective cantons, are allowed to make levies. Every man enlifts voluntarily, and for what number of years he pleafes ; at the expiration of which he is at liberty to return home. A great many thus always returning from foreign service, Switzerland is never unprovided with able and experienced officers and soldiers. With respect to their character, they are a brave, lionelt, hoofitable, hardy people ; very true to their engagements, friendly, and humane. In short, there is not a people in Europe whole national character is better. In their perfons they are generally tall, robuff, and well-made ; but their complexions are none of the beft, and thofe that live in the neighbourhood of the mountains are subject to wens. The women are laid to be generally handsome and well-thaped, fentible and modell, yet frank, cafy, and agreeable in conversation. Few of the peafants are miferably poor ; many of them are rich, efpecially in the Protefitant cantons, and that of Berne in particular.",
+   "bbox": [
+    0.0822,
+    0.5281,
+    0.5018,
+    0.9289
+   ],
+   "source": "s0-col-left",
+   "id": "page-0251-69952e7c4a0f:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "8 I S Y D",
+   "bbox": [
+    0.5049,
+    0.0031,
+    0.7837,
+    0.0266
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "SWIVELS, a kind of ring made to turn round in a \nftaple, or other ring. There are ufed when a flip lies at her moorings; alfo in tedders for cattle, that they may turn round without unwarping the tedder.",
+   "bbox": [
+    0.5059,
+    0.0234,
+    0.9234,
+    0.082
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "_Swipe-Cannon_, is a small piece of artillery belonging to a fhip of war, which carries a hot of half a pound, and is fixed in a pocket on the top of the fhip's fide, flern, or bow, and alfo in her tops. The trunnions of this piece are contained in a fort of iron crotch, of which the lower end terminates in a cylindrical pivot relating in the focket, fo as to support the weight of the cannon. The focket is bored in a firing piece of oak, reinforced with iron hoops, in order to enable it to fulfill the recoil. By means of this frame, which is called the _fewivei_, and an iron handle on its cafcable, the gun may be directed by the hand to any object. It is therefore very necellary in the tops, particularly when loaded with muffect-balls, to fire down on the upper decks of the adversary in action.",
+   "bbox": [
+    0.5063,
+    0.0781,
+    0.9292,
+    0.2656
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "SWOONING. See MEDICINE, n° 274.",
+   "bbox": [
+    0.5298,
+    0.2625,
+    0.8272,
+    0.2797
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "SWORD, an offensive weapon worn at the fide, and ferving either to cut or flatb. Its parts are, the handle, guard, and blade; to which may be added the bow, feabbard, pummel, &e.",
+   "bbox": [
+    0.5069,
+    0.2758,
+    0.9282,
+    0.332
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "_Sword of State,_ which is borne before the king, lords, and governors of counties, cities, or boroughs, &c. For or before the king, it ought to be carried upright; the hilt as low as the bearer’s waift, the blade up between his eyes. For or before a duke, the blade mult decline from the head, and be carried between the neck and the right shoulder. For or before an earl, the blade is to be carried between the point of the fhoulder and the elbow: and for or before a ba-ron, the blade is to be borne in the bend of the arm. This ceremonial form no lefs denotes the dignity of a governor than the coronet fet on his coat of arms.",
+   "bbox": [
+    0.5073,
+    0.3289,
+    0.9273,
+    0.4766
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "_Sword-Fijb._ See XIPHIAS.",
+   "bbox": [
+    0.5269,
+    0.475,
+    0.7314,
+    0.4898
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "SWORN BROTHERS (_fratres jurati_), perfons who, by mutual oath, covenanted to fhare each others fortune. Formerly, in any notable expedition to invade and conquer an enemy’s country, it was the cultom for the more eminent foldiers to engage themselves by reciprocal oaths to fhare the rewards of their service. This practice gave occasion to the proverb of _feworn brothers_ or _brethren in miquity_, because of their dividing plunder and fpoil.",
+   "bbox": [
+    0.5083,
+    0.4875,
+    0.9278,
+    0.5969
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "SYCAMORE-TREE, in botany. See ACZR.",
+   "bbox": [
+    0.5273,
+    0.5945,
+    0.851,
+    0.6109
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "SYCOPHANT, an appellation given by the ancient Atenians to thofe who informed of the exportation of figs contrary to law; and hence it is fill ufed in general for all informers, parafites, flatterers, cheats, &c.",
+   "bbox": [
+    0.5078,
+    0.6078,
+    0.9263,
+    0.6633
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "SYDENHAM (Dr Thomas), an excellent English phyfician, was the fon of William Sydenham of Winford Eagle in Dorfethire, and was born there about the year 1624. He studied at Magdalen-hall, Oxford; but left that university when Oxford was garrifoned for king Charles I. and went to London: where, becoming acquainted with Dr Thomas Cox, an eminent physician, that gentleman perfuaed him to apply himself to the fludy of phyfic; according, after the garrifon was delivered up to the parliament, he retired again to Magdalen-hall, entered on the fludy of medicine, and in 1648 was created bachelor of phyfic. Soon after, he was made a fellow of All-Souls college, and continued there feveral years: when, leaving the university, he feltled at Weftminfter, became doctor of his faculty at Cambridge; grew famous for his practice; and was the chief physician in London from the year 1660 to 1670; at which period he began to be dilabled by the gout. He died in 1689. His works are highly efeemed both at home and abroad. He was famous for his cool regimen in the finalpox ;for giving the bark after the paroxylm in agues; and",
+   "bbox": [
+    0.5088,
+    0.6617,
+    0.9267,
+    0.932
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b17"
+  },
+  {
+   "order": 18,
+   "class": "Page-footer",
+   "text": "for",
+   "bbox": [
+    0.8975,
+    0.9281,
+    0.9243,
+    0.9422
+   ],
+   "source": "s0-col-right",
+   "id": "page-0251-69952e7c4a0f:b18"
+  }
+ ]
+}

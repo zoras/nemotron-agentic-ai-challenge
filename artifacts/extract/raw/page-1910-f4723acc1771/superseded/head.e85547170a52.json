@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "e85547170a528bb369a1daaa8e7838407e19d408d07e599a3b4b8a94f2a5473b",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "40dd204be057db0d1b22087a3f0a12b0c648043d1f345c6babae5cfa65d44091",
+  "image_bytes": 143436,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0302,
+   1.0,
+   0.0669
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 218,
+  "completion_tokens": 54,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.27,
+ "created_at": "2026-10-18T11:20:29+00:00",
+ "content": "<x_0.0><y_0.0>L I G [ 4230 ] L I G\nLightning, we have feen above: it is _mathematically evident_, that. \"When a perfon standing on the ground holds a Lightning.<x_0.999><y_0.9859><class_Text>",
+ "reply": {
+  "id": "chatcmpl-2e4bd015-8d47-4ed7-84b7-5d15a553884b",
+  "object": "chat.completion",
+  "created": 1792322429,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>L I G [ 4230 ] L I G\nLightning, we have feen above: it is _mathematically evident_, that. \"When a perfon standing on the ground holds a Lightning.<x_0.999><y_0.9859><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 218,
+   "completion_tokens": 54,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

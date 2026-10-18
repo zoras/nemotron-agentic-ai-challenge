@@ -1,0 +1,402 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:611",
+ "row_index": 611,
+ "volume_id": "191320558",
+ "filename": "page-0611-4a137a2c6b07.jpg",
+ "image_sha256": "4a137a2c6b0772a82850ed78c5cb2c6ffd9751f4d7fc1345b3f8035665a788ea",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07451,
+  "median_grey": 211,
+  "layout_body_chars": 6204,
+  "layout_pictures": 0
+ },
+ "running_head": "R E S [ 752 J R E S",
+ "layout_raw": "page-0611-4a137a2c6b07/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.052,
+    1.0,
+    0.0827
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0611-4a137a2c6b07/head.json",
+   "finish_reason": "stop",
+   "request_key": "22c781c4d7b82a56b47f99fcbc2f873d06b954a764e0eb3e88bc5161b4d5e40f"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.052,
+    0.5133,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.052,
+     0.1382,
+     0.5083
+    ],
+    [
+     0.1382,
+     0.2244,
+     0.5083
+    ],
+    [
+     0.2244,
+     0.3105,
+     0.5083
+    ],
+    [
+     0.3105,
+     0.3967,
+     0.5083
+    ],
+    [
+     0.3967,
+     0.4829,
+     0.5083
+    ],
+    [
+     0.4829,
+     0.5691,
+     0.5083
+    ],
+    [
+     0.5691,
+     0.6553,
+     0.5083
+    ],
+    [
+     0.6553,
+     0.7415,
+     0.5083
+    ],
+    [
+     0.7415,
+     0.8276,
+     0.5083
+    ],
+    [
+     0.8276,
+     0.9138,
+     0.5083
+    ],
+    [
+     0.9138,
+     1.0,
+     0.5083
+    ]
+   ],
+   "raw_path": "page-0611-4a137a2c6b07/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "1b73f83f0f85959fc960f0d76a98519a0edd4033303cc492224a116f27e76e54"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5033,
+    0.052,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.052,
+     0.1382,
+     0.5083
+    ],
+    [
+     0.1382,
+     0.2244,
+     0.5083
+    ],
+    [
+     0.2244,
+     0.3105,
+     0.5083
+    ],
+    [
+     0.3105,
+     0.3967,
+     0.5083
+    ],
+    [
+     0.3967,
+     0.4829,
+     0.5083
+    ],
+    [
+     0.4829,
+     0.5691,
+     0.5083
+    ],
+    [
+     0.5691,
+     0.6553,
+     0.5083
+    ],
+    [
+     0.6553,
+     0.7415,
+     0.5083
+    ],
+    [
+     0.7415,
+     0.8276,
+     0.5083
+    ],
+    [
+     0.8276,
+     0.9138,
+     0.5083
+    ],
+    [
+     0.9138,
+     1.0,
+     0.5083
+    ]
+   ],
+   "raw_path": "page-0611-4a137a2c6b07/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "088a0ede7498024dc18b6d534ce42e625c84bee18346b8deac3b42055e792962"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "R E S [ 752 J R E S",
+   "bbox": [
+    0.0,
+    0.052,
+    1.0,
+    0.0827
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0611-4a137a2c6b07:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "R E S  [ 7",
+   "bbox": [
+    0.2617,
+    0.0572,
+    0.5088,
+    0.0802
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0611-4a137a2c6b07:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "Refinance, curvature will be infenfible, and the fluid included in the space ZYHQ will move uniformly as if the fold body were not there. The motions on the other fide of the axis AC will be the fame; and we need only at- tend to one half, and we shall confider thefe as in a state of permanency.",
+   "bbox": [
+    0.0792,
+    0.0757,
+    0.5063,
+    0.1557
+   ],
+   "source": "s0-col-left",
+   "id": "page-0611-4a137a2c6b07:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "No body changes either its direction or velocity other- wife than by infenible degrees: therefore the particle which is moving in the axis will not reach the vertex A of the body, where it behoved to detect infantane- oufly at right angles. It will therefore begin to be de- flected at fome point F a-head of the body, and will de- feribe a curve FM, touching the axis in F, and the bo- dy in M; and then, gliding along the body, will quit it at fome point L, describing a tangent curve, which will join the axis again (touching it) in R; and thus there will be a quantity of flagnant water FAM before or a-head of the body, and another LCR behind or aftern of it.",
+   "bbox": [
+    0.1383,
+    0.1534,
+    0.5053,
+    0.3172
+   ],
+   "source": "s0-col-left",
+   "id": "page-0611-4a137a2c6b07:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Let _a_ be the velocity of a particle of the fluid in any infant, and _a_’ its velocity in the next infant. The velocity _a_ may be considered as compounded of _a_’ and _a_’. If the particles tended to move with the velocities _a_’ only, the whole fluid would be in equilibrio (general principle), and the preffure of the fluid would be the flame as if all were flagrant, and each particle were urged by a force \\(\\frac{a'}{t}\\), _r_ exprefling an indefinitely fmall moment of time. (N. B. \\(\\frac{a'}{c}\\) is the proper expreffion of the accelerating force, which, by acting during the mo- ment _r_, would generate the velocity _a_’; and _a_’ is fup- pofed an indeterminate quantity, different perhaps for each particle). Now let _a_ be fuppofed confiant, or _a=a_’. In this cafe _a\"=o_. That is to fay, no preffure whatever will be exerted on the folid body unlets there happen changes in the velocities or directions of the particles.",
+   "bbox": [
+    0.1379,
+    0.3164,
+    0.5043,
+    0.56
+   ],
+   "source": "s0-col-left",
+   "id": "page-0611-4a137a2c6b07:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "Let _a_ and _a_’ then be the motions of the particles in two consecutive infants. They would be in equilibrio if urged only by the forces \\(\\frac{a'}{t}\\). Therefore if y be the point where the particles which deferibe the curve FM begin to change their velocity, the preffure in D would be equal to the preffure which the fluid contained in the canal y FMD would exert, if each particle were folicited by its force \\(\\frac{a''}{t}\\). The question is therefore reduced to the finding the curvature in the canal y FMD, and the accelerating forces \\(\\frac{a''}{t}\\) in its different parts.",
+   "bbox": [
+    0.1358,
+    0.5594,
+    0.5038,
+    0.7311
+   ],
+   "source": "s0-col-left",
+   "id": "page-0611-4a137a2c6b07:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "It appears, in the first place, that no preffure is ex- erted by any of the particles along the curve FM: for fuppofs that the particle _a_ (fig. 19.) describes the in- definitely fmall straight line _ab_ in the firft infant, and _bc_ in the fecond infant; produce _ab_ till _bd=ab_, and joining _dc_, the motion _ab_ or _bd_ may be confidered as compofed of _bc_, which the particle really takes in the next infant, and a motion _dc_ which should be deflroy- cd. Draw _bi_ parallel to _dc_, and _ic_ perpendicular to _bc_. It is plain that the particle _b_, follicited by the forces _bc_, _ei_ (equivalent to _dc_) should be in equilibrio. This being established, _be_ mult be = _o_, that is, there will be no accelerating or retarding force at _b_; for if there",
+   "bbox": [
+    0.1288,
+    0.7304,
+    0.4957,
+    0.8978
+   ],
+   "source": "s0-col-left",
+   "id": "page-0611-4a137a2c6b07:b6"
+  },
+  {
+   "order": 7,
+   "class": "Caption",
+   "text": "Fig. 19.",
+   "bbox": [
+    0.0682,
+    0.7548,
+    0.1138,
+    0.7696
+   ],
+   "source": "s0-col-left",
+   "id": "page-0611-4a137a2c6b07:b7"
+  },
+  {
+   "order": 8,
+   "class": "Page-footer",
+   "text": "4",
+   "bbox": [
+    0.2797,
+    0.8986,
+    0.2927,
+    0.9089
+   ],
+   "source": "s0-col-left",
+   "id": "page-0611-4a137a2c6b07:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "52 J R E S",
+   "bbox": [
+    0.5067,
+    0.0586,
+    0.7735,
+    0.0786
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0611-4a137a2c6b07:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "be, draw _bm_ (fig. 20.) perpendicular to _bF_, and the Refilance parallel _nq_ infinitely near it. The part _bn_ of the fluid contained in the canal _bnqm_ would fullain fome prefecture from _b_ towards _n_, or from _n_ towards _b_. Therefore fince the fluid in this flagrant canal should be in equilibrio, there mult alfo be fome action, at least in one of the parts _bm_, _mq_, _qn_, to counterbalance the action on the part _bn_. But the fluid is flagrant in the force FAM (in consequence of the law of continuity). Therefore there is no force which can act on _bm_, _mq_, _qn_; and the preflure in the canal in the direction _bn_ or _nb_ is nothing, or the force _be=o_, and the force _ie_ is perpendicular to the canal; and there is therefore no preflure in the canal FM, except what proceeds from the part \\(\\gamma\\) F, or from the force _ei_; which left being perpendicular to the canal, there can be no force exert ed on the point M, but what is propagated from the part \\(\\gamma\\) F.",
+   "bbox": [
+    0.5159,
+    0.0794,
+    0.8816,
+    0.3075
+   ],
+   "source": "s0-col-right",
+   "id": "page-0611-4a137a2c6b07:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "The velocity therefore in the canal FM is conflant if finite, or infinitely final if variable: for, in the first cafe, the force _be_ would be abfolutely nothing; and in the second cafe, it would be an infinitefimal of the fe-cond order, and may be considered as nothing in com- parifon with the velocity, which is of the first order. We shall fee by and by that the latt is the real flate of the cafe. Therefore the fluid, before it begins to change its direction in F, begins to change its velocity in fome point \\(\\gamma\\) a-head of F, and by the time that it reaches F its velocity is as it were annihilated.",
+   "bbox": [
+    0.513,
+    0.3061,
+    0.8811,
+    0.446
+   ],
+   "source": "s0-col-right",
+   "id": "page-0611-4a137a2c6b07:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "_Cor. 1._ Therefore the preflure in any point D arises both from the retardations in the part \\(\\gamma\\) F, and from the particles which are in the canal MD: as thefe latt move along the surface of the body, the force \\(\\frac{a'}{r}\\), de- flroyed in every particle, is compounded of two others, one in the direction of the surface, and the other per- pendicular to it; call thefe _p_ and _p_’. The point D is preffed perpendicularly to the surface MD; tilt, by all the forces _p_ in the curve MD; 2d, by the force \\(p'\\) acting on the fingle point D. This may be neglected in comparison of the indefinite number of the others: therefore taking in the arch MD, an infinitely final portion N, = s, the preflure on D, perpendicular to the surface of the body, will be = _fps_; and this fluent mult be fo taken as to be = σ in the point M.",
+   "bbox": [
+    0.5115,
+    0.4446,
+    0.8792,
+    0.6674
+   ],
+   "source": "s0-col-right",
+   "id": "page-0611-4a137a2c6b07:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "_Cor. 2._ Therefore, to find the preflure on D, we must find the force _p_ on any point N. Let _u_ be the velocity of the particle N, in the direction N _m_ in any instant, and _u+u_ its velocity in the following infant;",
+   "bbox": [
+    0.5077,
+    0.6667,
+    0.8768,
+    0.7222
+   ],
+   "source": "s0-col-right",
+   "id": "page-0611-4a137a2c6b07:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "we must have \\(\\rho=\\frac{u}{r}\\). Therefore the whole question is reduced to finding the velocity _u_ in every point N, in the direction N m.",
+   "bbox": [
+    0.5072,
+    0.7238,
+    0.8739,
+    0.783
+   ],
+   "source": "s0-col-right",
+   "id": "page-0611-4a137a2c6b07:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "And this is the aim of a series of propofitions which His final follow, in which the author displays the moft accurate equation and precife conception of the subject, and great address and elegance in his mathematical analysis. He at length blem, but, brings out an equation which expreifies the preflure on the body in the moft general and unexceptionable man- ner. We cannot give an abstract, because the train of reafoning is already concife in the extreme: nor can we even exhibit the final equation; for it is conceived in the",
+   "bbox": [
+    0.5082,
+    0.7822,
+    0.8773,
+    0.8963
+   ],
+   "source": "s0-col-right",
+   "id": "page-0611-4a137a2c6b07:b15"
+  },
+  {
+   "order": 16,
+   "class": "Caption",
+   "text": "Fig. 30",
+   "bbox": [
+    0.8826,
+    0.0846,
+    0.9472,
+    0.1172
+   ],
+   "source": "s0-col-right",
+   "id": "page-0611-4a137a2c6b07:b16"
+  }
+ ]
+}

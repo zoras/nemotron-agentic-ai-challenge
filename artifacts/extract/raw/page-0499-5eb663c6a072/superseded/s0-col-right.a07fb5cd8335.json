@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "a07fb5cd83357e344cbf1aea7c72962ef75302c36f59222ac325825cdd53432f",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ec813e22ac517ee081d90e174d58da29ddce281139fee7bca6694c58a4516c0b",
+  "image_bytes": 2470736,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:499",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4617,
+   0.06,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.06,
+    0.1455,
+    0.4683
+   ],
+   [
+    0.1455,
+    0.2309,
+    0.4683
+   ],
+   [
+    0.2309,
+    0.3164,
+    0.4683
+   ],
+   [
+    0.3164,
+    0.4018,
+    0.4683
+   ],
+   [
+    0.4018,
+    0.4873,
+    0.4683
+   ],
+   [
+    0.4873,
+    0.5727,
+    0.4683
+   ],
+   [
+    0.5727,
+    0.6582,
+    0.4683
+   ],
+   [
+    0.6582,
+    0.7436,
+    0.4683
+   ],
+   [
+    0.7436,
+    0.8291,
+    0.4683
+   ],
+   [
+    0.8291,
+    0.9145,
+    0.4667
+   ],
+   [
+    0.9145,
+    1.0,
+    0.4667
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2779,
+  "completion_tokens": 851,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.57,
+ "created_at": "2026-10-18T11:10:19+00:00",
+ "content": "<x_0.0215><y_0.0>on the banks of the Hydaspes, and a third on the Ace- sincs, both navigable rivers, falling into the Indus af- ter they have united their streams. By means of these cities he intended not only to keep the adjacent coun- tries in awe, but to promote a commercial intercourse betwixt different parts both by land and water. With this view, also, on his return to Susa, be surveyed in person the course of the Euphrates and Tigris, causing the cataracts or dams to be removed which the Persian monarchs had built to obstruct the navigation of these rivers, in conformity to a maxim of their superstition, that it was unlawful to defile any of the elements, which they imagined was done by navigators. After the navigation was opened in this manner, he proposed that the valuable commodities of India should be imported into the other parts of his dominions by means of the Persian gulf; while through the Red sea they were con- veyed to Alexandria in Egypt, and thence dispersed all over Europe.<x_0.7354><y_0.2711><class_Text>\n\n<x_0.0127><y_0.2656>The death of Alexander having put an end to all his great schemes, the eastern part of his dominions devolved first on Pytho the son of Agenor, and after- wards on Seleucus. The latter was very sensible of the advantages to be derived from keeping India in subjection. With this view he undertook an expedition into that country, partly to establish his authority more perfectly, and partly to defend the Macedonian territories against Sandracottus king of the Prasii, who threatened to attack them. The particulars of his expedition are very little known ; Justin being the only author that mentions them, and his authority is but of little weight, unless corroborated by the testimony of other historians. Plutarch, who tells us that Seleucus carried his arms farther into India than Alexander, is subject to an imputation of the same kind ; but Pliny, whose authority is of considerably greater weight, corroborates the testimony of Plutarch in this instance, though his words are so obscure, that learned men differ in opinion concerning their meaning. Bayer thinks they imply that Seleucus marched from the Hyphasis, the boundary of Alexander’s conquests, to the Hysudrus, from thence to Palibothra, and then to the month of the Ganges ; the distances of the principal stations being marked, and amounting in all to 2244 Roman miles. Notwithstanding this authority, however, Dr Robertson thinks it very improbable that the expedition of Seleucus should have continued so long, as in that case \"the ancient would have had a more accurate knowledge of that part of the country than they seem ever to have possessed.\"<x_0.7324><y_0.7109><class_Text>\n\n<x_0.002><y_0.7055>The career of Seleucus in the east was stopped by Antigonus, who prepared to invade the western part of his dominions. The former was therefore obliged to conclude a treaty with Sandracottus, whom he allowed to remain in quiet possession of his territories: but Dr Robertson is of opinion, that during the life time of Seleucus, which continued 42 years after the death of Alexander, no diminution of the Macedo nian territories took place. With a view of keeping up a friendly intercourse with the Indian prince, Se leucus sent Megasthenes, one of Alexander's officers to Palibothra, capital of the kingdom of the Prasii situated on the banks of the Ganges. This city is by Dr Robertson supposed to be the modern Allahabad, seated at the conflux of the Jumna and Ganges, con-<x_0.7148><y_0.9242><class_Text>\n\n<x_0.7295><y_0.0016>India.<x_0.8672><y_0.0297><class_Caption>\n\n<x_0.7275><y_0.3273>Expedition of Seleucus to India.<x_0.8545><y_0.3734><class_Caption>\n\n<x_0.71><y_0.8117>Conjectures concerning the situa- tion of Pa- libothra.<x_0.8457><y_0.8852><class_Caption>\n\n<x_0.3262><y_0.9203>A a 2<x_0.415><y_0.9367><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-472fbf36-89d2-4cf5-be81-b873d56e591b",
+  "object": "chat.completion",
+  "created": 1792321818,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0215><y_0.0>on the banks of the Hydaspes, and a third on the Ace- sincs, both navigable rivers, falling into the Indus af- ter they have united their streams. By means of these cities he intended not only to keep the adjacent coun- tries in awe, but to promote a commercial intercourse betwixt different parts both by land and water. With this view, also, on his return to Susa, be surveyed in person the course of the Euphrates and Tigris, causing the cataracts or dams to be removed which the Persian monarchs had built to obstruct the navigation of these rivers, in conformity to a maxim of their superstition, that it was unlawful to defile any of the elements, which they imagined was done by navigators. After the navigation was opened in this manner, he proposed that the valuable commodities of India should be imported into the other parts of his dominions by means of the Persian gulf; while through the Red sea they were con- veyed to Alexandria in Egypt, and thence dispersed all over Europe.<x_0.7354><y_0.2711><class_Text>\n\n<x_0.0127><y_0.2656>The death of Alexander having put an end to all his great schemes, the eastern part of his dominions devolved first on Pytho the son of Agenor, and after- wards on Seleucus. The latter was very sensible of the advantages to be derived from keeping India in subjection. With this view he undertook an expedition into that country, partly to establish his authority more perfectly, and partly to defend the Macedonian territories against Sandracottus king of the Prasii, who threatened to attack them. The particulars of his expedition are very little known ; Justin being the only author that mentions them, and his authority is but of little weight, unless corroborated by the testimony of other historians. Plutarch, who tells us that Seleucus carried his arms farther into India than Alexander, is subject to an imputation of the same kind ; but Pliny, whose authority is of considerably greater weight, corroborates the testimony of Plutarch in this instance, though his words are so obscure, that learned men differ in opinion concerning their meaning. Bayer thinks they imply that Seleucus marched from the Hyphasis, the boundary of Alexander’s conquests, to the Hysudrus, from thence to Palibothra, and then to the month of the Ganges ; the distances of the principal stations being marked, and amounting in all to 2244 Roman miles. Notwithstanding this authority, however, Dr Robertson thinks it very improbable that the expedition of Seleucus should have continued so long, as in that case \"the ancient would have had a more accurate knowledge of that part of the country than they seem ever to have possessed.\"<x_0.7324><y_0.7109><class_Text>\n\n<x_0.002><y_0.7055>The career of Seleucus in the east was stopped by Antigonus, who prepared to invade the western part of his dominions. The former was therefore obliged to conclude a treaty with Sandracottus, whom he allowed to remain in quiet possession of his territories: but Dr Robertson is of opinion, that during the life time of Seleucus, which continued 42 years after the death of Alexander, no diminution of the Macedo nian territories took place. With a view of keeping up a friendly intercourse with the Indian prince, Se leucus sent Megasthenes, one of Alexander's officers to Palibothra, capital of the kingdom of the Prasii situated on the banks of the Ganges. This city is by Dr Robertson supposed to be the modern Allahabad, seated at the conflux of the Jumna and Ganges, con-<x_0.7148><y_0.9242><class_Text>\n\n<x_0.7295><y_0.0016>India.<x_0.8672><y_0.0297><class_Caption>\n\n<x_0.7275><y_0.3273>Expedition of Seleucus to India.<x_0.8545><y_0.3734><class_Caption>\n\n<x_0.71><y_0.8117>Conjectures concerning the situa- tion of Pa- libothra.<x_0.8457><y_0.8852><class_Caption>\n\n<x_0.3262><y_0.9203>A a 2<x_0.415><y_0.9367><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2779,
+   "completion_tokens": 851,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

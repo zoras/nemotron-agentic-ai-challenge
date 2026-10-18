@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "f7250cc0cf751d1c1b15d36e493348e5937c72cd80698c367a755447acc55c2c",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "619e3a2f1040ebd125e341c182c610c43a78b6896cc27109c6bc3e5a21deb743",
+  "image_bytes": 1846437,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1670",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4533,
+   0.0499,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0499,
+    0.1363,
+    0.4583
+   ],
+   [
+    0.1363,
+    0.2226,
+    0.4583
+   ],
+   [
+    0.2226,
+    0.309,
+    0.4583
+   ],
+   [
+    0.309,
+    0.3954,
+    0.4583
+   ],
+   [
+    0.3954,
+    0.4818,
+    0.4583
+   ],
+   [
+    0.4818,
+    0.5681,
+    0.4583
+   ],
+   [
+    0.5681,
+    0.6545,
+    0.4583
+   ],
+   [
+    0.6545,
+    0.7409,
+    0.4583
+   ],
+   [
+    0.7409,
+    0.8273,
+    0.4583
+   ],
+   [
+    0.8273,
+    0.9136,
+    0.4583
+   ],
+   [
+    0.9136,
+    1.0,
+    0.4583
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2818,
+  "completion_tokens": 890,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.31,
+ "created_at": "2026-10-18T11:11:10+00:00",
+ "content": "<x_0.0186><y_0.0>this cultom, if ever it obtained in Cappadocia, was a- bolithed in the times of the Romans.<x_0.7061><y_0.0281><class_Text>\n\n<x_0.0176><y_0.0289>CAPPANUS, a name given by fome authors to a worm that adheres to and gnaws the bottoms of hips; to which it is extremely pernicious, especially in the Ealt and Well Indies: to prevent this, feveral thips have lately been theathed with copper ; the first trial of which was made on his majetly’s frigate the Alarm.<x_0.708><y_0.1141><class_Text>\n\n<x_0.0166><y_0.1125>CAPPARIS, in botany : A genus of the mono- gynia order, belonging to the polyandria clafs of plants; and in the natural method ranking under the agth order, _Putaminse_. The calyx is tetraphyllous and cori- acous; there petals are four; the lamina are long; the fruit is a berry, carnous, unilocular, and peduncu-lated, or furnished with a foot-talk.<x_0.709><y_0.2102><class_Text>\n\n<x_0.0195><y_0.2094>There are fewer species. The finofa, or common caper, is a low shrub, generally growing out of the joints of old walls, the lifures of rocks, and mongit rubbifh, in molt of the warm parts of Europe: it bath woody flalks, which lend out many lateral fleen- der branches; under each of thefe are placed two short crooked fpines, between which and the branches come out the foottalks of the leaves, which are fingle, flort, and fullain a round smooth entire leaf. At the intermediate joints, between the branches, come out the flowers on long foottalks ; before thefe expand, the bud with the empalement is gathered for pickling. Thofe which are left expand in form of a fingle role, having five large white petals, which are roundifh and concave ; in the middle are placed a great number of long flamina, furrounding a flyle which rifes above them, and crowned with an oval germen, which afterwards becomes a capfule filled with kidney-shaped feeds.<x_0.71><y_0.4727><class_Text>\n\n<x_0.0215><y_0.4734>_Culture._ This plant is very differently preferred in Britain: it delights to grow in crevices of rocks, old walls, &c. and always thrives beft in an horizontal po- fiure ; fo that, when planted either in pots or in the full ground, they feldom thrive, though they may be kept alive for fone years. They are propagated by feeds in the warm parts of Europe, but very feldom in Britain.<x_0.7236><y_0.5852><class_Text>\n\n<x_0.0225><y_0.5844>_Ufe._ The buds, pickled with vinegar, &c. are brought to Britain annually from Italy and the Mediterranean. They are fuppofed to excite appetite and afflit digestion ; and to be particularly useful as deter- gents and aperients in obtiractions of the liver and spleen.<x_0.7168><y_0.6695><class_Text>\n\n<x_0.0234><y_0.6687>CAPRA, or Goat, a genus of quadrupeds belong- ing to the order of pecora. The horns are hollow, turned upwards, erect, and feabrous. There are eight fore-teeth in the under jaw, and none in the upper and they have no dog-teeth. This genus conflicts of 14 species, viz.<x_0.7178><y_0.7531><class_Text>\n\n<x_0.0244><y_0.7516>I. The HIXCU, or common goat, with arched cari- nated horns, and a long board. It is a native of the eastern mountains.<x_0.7139><y_0.7937><class_Text>\n\n<x_0.0254><y_0.793>The goat is an animal of more fagacity than the sheep. Instead of having an antipathy at mankind, they voluntarily mingle with them, and are caffily ta- med. Even in uninhabited countries, they betray no favage difpositions. In the year 1698, an English vel-fel having put in to the illand of Bonavilla, two ne- groes cane aboard, and offered gratis to the captain as<x_0.7148><y_0.8945><class_Text>\n\n<x_0.6348><y_0.8938>many<x_0.7158><y_0.907><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-956e6067-f8b1-4e76-9f73-02e946c20e68",
+  "object": "chat.completion",
+  "created": 1792321869,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0186><y_0.0>this cultom, if ever it obtained in Cappadocia, was a- bolithed in the times of the Romans.<x_0.7061><y_0.0281><class_Text>\n\n<x_0.0176><y_0.0289>CAPPANUS, a name given by fome authors to a worm that adheres to and gnaws the bottoms of hips; to which it is extremely pernicious, especially in the Ealt and Well Indies: to prevent this, feveral thips have lately been theathed with copper ; the first trial of which was made on his majetly’s frigate the Alarm.<x_0.708><y_0.1141><class_Text>\n\n<x_0.0166><y_0.1125>CAPPARIS, in botany : A genus of the mono- gynia order, belonging to the polyandria clafs of plants; and in the natural method ranking under the agth order, _Putaminse_. The calyx is tetraphyllous and cori- acous; there petals are four; the lamina are long; the fruit is a berry, carnous, unilocular, and peduncu-lated, or furnished with a foot-talk.<x_0.709><y_0.2102><class_Text>\n\n<x_0.0195><y_0.2094>There are fewer species. The finofa, or common caper, is a low shrub, generally growing out of the joints of old walls, the lifures of rocks, and mongit rubbifh, in molt of the warm parts of Europe: it bath woody flalks, which lend out many lateral fleen- der branches; under each of thefe are placed two short crooked fpines, between which and the branches come out the foottalks of the leaves, which are fingle, flort, and fullain a round smooth entire leaf. At the intermediate joints, between the branches, come out the flowers on long foottalks ; before thefe expand, the bud with the empalement is gathered for pickling. Thofe which are left expand in form of a fingle role, having five large white petals, which are roundifh and concave ; in the middle are placed a great number of long flamina, furrounding a flyle which rifes above them, and crowned with an oval germen, which afterwards becomes a capfule filled with kidney-shaped feeds.<x_0.71><y_0.4727><class_Text>\n\n<x_0.0215><y_0.4734>_Culture._ This plant is very differently preferred in Britain: it delights to grow in crevices of rocks, old walls, &c. and always thrives beft in an horizontal po- fiure ; fo that, when planted either in pots or in the full ground, they feldom thrive, though they may be kept alive for fone years. They are propagated by feeds in the warm parts of Europe, but very feldom in Britain.<x_0.7236><y_0.5852><class_Text>\n\n<x_0.0225><y_0.5844>_Ufe._ The buds, pickled with vinegar, &c. are brought to Britain annually from Italy and the Mediterranean. They are fuppofed to excite appetite and afflit digestion ; and to be particularly useful as deter- gents and aperients in obtiractions of the liver and spleen.<x_0.7168><y_0.6695><class_Text>\n\n<x_0.0234><y_0.6687>CAPRA, or Goat, a genus of quadrupeds belong- ing to the order of pecora. The horns are hollow, turned upwards, erect, and feabrous. There are eight fore-teeth in the under jaw, and none in the upper and they have no dog-teeth. This genus conflicts of 14 species, viz.<x_0.7178><y_0.7531><class_Text>\n\n<x_0.0244><y_0.7516>I. The HIXCU, or common goat, with arched cari- nated horns, and a long board. It is a native of the eastern mountains.<x_0.7139><y_0.7937><class_Text>\n\n<x_0.0254><y_0.793>The goat is an animal of more fagacity than the sheep. Instead of having an antipathy at mankind, they voluntarily mingle with them, and are caffily ta- med. Even in uninhabited countries, they betray no favage difpositions. In the year 1698, an English vel-fel having put in to the illand of Bonavilla, two ne- groes cane aboard, and offered gratis to the captain as<x_0.7148><y_0.8945><class_Text>\n\n<x_0.6348><y_0.8938>many<x_0.7158><y_0.907><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2818,
+   "completion_tokens": 890,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

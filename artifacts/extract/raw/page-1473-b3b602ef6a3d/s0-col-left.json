@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "2b643ff88bec8c462a0e40dbfee38adcd771ed9c6bd34fc5b481f2bddc20c1f1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f4014f55c10d9336492740878af7c88de7eebea1fe39a58289b16e908d2a609c",
+  "image_bytes": 2002648,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1473",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0341,
+   0.4717,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0341,
+    0.1146,
+    0.4667
+   ],
+   [
+    0.1146,
+    0.1951,
+    0.4667
+   ],
+   [
+    0.1951,
+    0.2756,
+    0.4667
+   ],
+   [
+    0.2756,
+    0.3561,
+    0.4667
+   ],
+   [
+    0.3561,
+    0.4366,
+    0.4667
+   ],
+   [
+    0.4366,
+    0.5171,
+    0.4667
+   ],
+   [
+    0.5171,
+    0.5975,
+    0.4667
+   ],
+   [
+    0.5975,
+    0.678,
+    0.4667
+   ],
+   [
+    0.678,
+    0.7585,
+    0.4667
+   ],
+   [
+    0.7585,
+    0.839,
+    0.4667
+   ],
+   [
+    0.839,
+    0.9195,
+    0.4667
+   ],
+   [
+    0.9195,
+    1.0,
+    0.4667
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2521,
+  "completion_tokens": 977,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.46,
+ "created_at": "2026-10-18T11:20:05+00:00",
+ "content": "<x_0.1602><y_0.0063>ESARHADDON, the fon of Scnnacherib, and his fuceeffor in the kingdom of Afiyria. He is laid to have reigned 29 years at Nineveh, from the year 3294 to 3322; befides which he reigned 13 years at Baby- lon, in all 42 years. He died in the year of the world 3336, and was succeeded by Saofduchinus. Efar- haddon, in the opinion of Sir Ifame Newton, feems to be the Sardanapalus who died, as Clettarchus fays, of old age, after the revolt of Syria; the name _Sardana- palus_ being derived from _Afferbadon Pul._<x_0.9814><y_0.1516><class_Text>\n\n<x_0.1631><y_0.1492>ESCALADE, or SCALADE, a furious attack of a wall or a rampart; carried on with laders, to pafs the ditch or mount the rampart; without proceeding in form, breaking ground, or carrying on regular works to secure the men.<x_0.9824><y_0.2195><class_Text>\n\n<x_0.1621><y_0.218>When the troops are prepared to pafs the ditch, either with the affiltance of boards, hurdles, and fat- cines, when it is muddy, or with fmall boats of tin, or balkets covered with kins or oil-cloth, when it is deep and filled with water, a party must be placed on the counterfearp, oppofite to the landing-place, ready to fire at the garrifon if they are alarmed, and oppofe the mounting on the rampart. If the ditch is dry, the ladders are fixed in fome place fartheit dilant from the centry; and as foon as they get upon the rampart, they put themfelves in order to receive the enemy; if the century should be furprified and filently overcome, the detachment haften to break open the gate, and to let in the rest of the party. If the ditch is wet, the rampart high, and provided with a revetement, it will be difficult to furprefe the town in this way; but if there is no revetement, the troops may hide themfelves along the outside of the rampart till all are over. Since the invention and ufe of gunpowder, and the walls of cities have been flanked, they are feldom taken by efcalade.<x_0.9834><y_0.5117><class_Text>\n\n<x_0.1611><y_0.5109>ESCALLONIA, in botany: A genus of the mo- nogynia order, belonging to the pentandria clafs of plants. The fruit is bilocular and polyfpermous; the petals diflant and tongue-shaped; the fligma headed.<x_0.9805><y_0.568><class_Text>\n\n<x_0.1592><y_0.5664>ESCAPE, in law; a violent or privy evation out of fome lawful relitraint, without being delivered by due courfe of law. There are two forts of cfcapes, voluntary and negligent. Voluntary, when a man arrefits another for felony, or other crime, and afterwards lets him go freely by confent; in which cafe, the party that permits fuch efcape is held guilty, committed, and mult anfwer for it. Negligent efcape, on the contrary, is where one is arrested, and afterwards efcapes against the will of the perfon that arrested him, and is not purfued with freth fuit, and retaken before the perion purfuing hath loft fight of him. By flat. 8 and 9 Will. III. c. 26. the keepers of prifons conniving at efcapes fhall forfeit 500; and in civil cafes the fleiriff is anfwerable for the debt.<x_0.9844><y_0.7742><class_Text>\n\n<x_0.2021><y_0.7734>ESCHALOT, or SHALLOT. See ALLIUM.<x_0.8965><y_0.7883><class_Text>\n\n<x_0.1641><y_0.7891>ESCHAR, in surgery, the crult or fcab occationed by burns or cauffic medicines.<x_0.9795><y_0.8164><class_Text>\n\n<x_0.165><y_0.8156>ESCHARA, in natural history, the name of a fp-cies of coralline, &c. the characters of which are their: they are of a flony or coral-like hardnefs, and refemble a woven cloth in their texture; and the microfcope in-forms us, that they conflict of arrangements of very small cells, whose surfaces appear much in that form.<x_0.9785><y_0.9031><class_Text>",
+ "reply": {
+  "id": "chatcmpl-55b9f5a7-e905-4343-b939-6e648ff89b12",
+  "object": "chat.completion",
+  "created": 1792322404,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1602><y_0.0063>ESARHADDON, the fon of Scnnacherib, and his fuceeffor in the kingdom of Afiyria. He is laid to have reigned 29 years at Nineveh, from the year 3294 to 3322; befides which he reigned 13 years at Baby- lon, in all 42 years. He died in the year of the world 3336, and was succeeded by Saofduchinus. Efar- haddon, in the opinion of Sir Ifame Newton, feems to be the Sardanapalus who died, as Clettarchus fays, of old age, after the revolt of Syria; the name _Sardana- palus_ being derived from _Afferbadon Pul._<x_0.9814><y_0.1516><class_Text>\n\n<x_0.1631><y_0.1492>ESCALADE, or SCALADE, a furious attack of a wall or a rampart; carried on with laders, to pafs the ditch or mount the rampart; without proceeding in form, breaking ground, or carrying on regular works to secure the men.<x_0.9824><y_0.2195><class_Text>\n\n<x_0.1621><y_0.218>When the troops are prepared to pafs the ditch, either with the affiltance of boards, hurdles, and fat- cines, when it is muddy, or with fmall boats of tin, or balkets covered with kins or oil-cloth, when it is deep and filled with water, a party must be placed on the counterfearp, oppofite to the landing-place, ready to fire at the garrifon if they are alarmed, and oppofe the mounting on the rampart. If the ditch is dry, the ladders are fixed in fome place fartheit dilant from the centry; and as foon as they get upon the rampart, they put themfelves in order to receive the enemy; if the century should be furprified and filently overcome, the detachment haften to break open the gate, and to let in the rest of the party. If the ditch is wet, the rampart high, and provided with a revetement, it will be difficult to furprefe the town in this way; but if there is no revetement, the troops may hide themfelves along the outside of the rampart till all are over. Since the invention and ufe of gunpowder, and the walls of cities have been flanked, they are feldom taken by efcalade.<x_0.9834><y_0.5117><class_Text>\n\n<x_0.1611><y_0.5109>ESCALLONIA, in botany: A genus of the mo- nogynia order, belonging to the pentandria clafs of plants. The fruit is bilocular and polyfpermous; the petals diflant and tongue-shaped; the fligma headed.<x_0.9805><y_0.568><class_Text>\n\n<x_0.1592><y_0.5664>ESCAPE, in law; a violent or privy evation out of fome lawful relitraint, without being delivered by due courfe of law. There are two forts of cfcapes, voluntary and negligent. Voluntary, when a man arrefits another for felony, or other crime, and afterwards lets him go freely by confent; in which cafe, the party that permits fuch efcape is held guilty, committed, and mult anfwer for it. Negligent efcape, on the contrary, is where one is arrested, and afterwards efcapes against the will of the perfon that arrested him, and is not purfued with freth fuit, and retaken before the perion purfuing hath loft fight of him. By flat. 8 and 9 Will. III. c. 26. the keepers of prifons conniving at efcapes fhall forfeit 500; and in civil cafes the fleiriff is anfwerable for the debt.<x_0.9844><y_0.7742><class_Text>\n\n<x_0.2021><y_0.7734>ESCHALOT, or SHALLOT. See ALLIUM.<x_0.8965><y_0.7883><class_Text>\n\n<x_0.1641><y_0.7891>ESCHAR, in surgery, the crult or fcab occationed by burns or cauffic medicines.<x_0.9795><y_0.8164><class_Text>\n\n<x_0.165><y_0.8156>ESCHARA, in natural history, the name of a fp-cies of coralline, &c. the characters of which are their: they are of a flony or coral-like hardnefs, and refemble a woven cloth in their texture; and the microfcope in-forms us, that they conflict of arrangements of very small cells, whose surfaces appear much in that form.<x_0.9785><y_0.9031><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2521,
+   "completion_tokens": 977,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

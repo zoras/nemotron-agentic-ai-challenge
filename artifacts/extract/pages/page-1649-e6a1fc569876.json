@@ -1,0 +1,412 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1649",
+ "row_index": 1649,
+ "volume_id": "149978642",
+ "filename": "page-1649-e6a1fc569876.jpg",
+ "image_sha256": "e6a1fc5698767dd40265a849aa559e35ef251daca6cf3e82cf486dd083a4e3e0",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.08627,
+  "median_grey": 219,
+  "layout_body_chars": 5371,
+  "layout_pictures": 0
+ },
+ "running_head": "C H I [ 697 ]",
+ "layout_raw": "page-1649-e6a1fc569876/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0309,
+    1.0,
+    0.06
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1649-e6a1fc569876/head.json",
+   "finish_reason": "stop",
+   "request_key": "7de0140c1f034f722e81d4a9e4f0482003d4fc5d6915f1de5f28d9844c1f64e4"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0309,
+    0.4783,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0309,
+     0.1117,
+     0.4667
+    ],
+    [
+     0.1117,
+     0.1924,
+     0.4733
+    ],
+    [
+     0.1924,
+     0.2732,
+     0.4733
+    ],
+    [
+     0.2732,
+     0.3539,
+     0.4733
+    ],
+    [
+     0.3539,
+     0.4347,
+     0.4733
+    ],
+    [
+     0.4347,
+     0.5155,
+     0.4733
+    ],
+    [
+     0.5155,
+     0.5962,
+     0.4733
+    ],
+    [
+     0.5962,
+     0.677,
+     0.4733
+    ],
+    [
+     0.677,
+     0.7577,
+     0.4733
+    ],
+    [
+     0.7577,
+     0.8385,
+     0.4733
+    ],
+    [
+     0.8385,
+     0.9192,
+     0.4733
+    ],
+    [
+     0.9192,
+     1.0,
+     0.4733
+    ]
+   ],
+   "raw_path": "page-1649-e6a1fc569876/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "cca6bd167e5f0b0db051dee8b09f97957af7dceb0f3da540acfc69b188fef2fd"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4617,
+    0.0309,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0309,
+     0.1117,
+     0.4667
+    ],
+    [
+     0.1117,
+     0.1924,
+     0.4733
+    ],
+    [
+     0.1924,
+     0.2732,
+     0.4733
+    ],
+    [
+     0.2732,
+     0.3539,
+     0.4733
+    ],
+    [
+     0.3539,
+     0.4347,
+     0.4733
+    ],
+    [
+     0.4347,
+     0.5155,
+     0.4733
+    ],
+    [
+     0.5155,
+     0.5962,
+     0.4733
+    ],
+    [
+     0.5962,
+     0.677,
+     0.4733
+    ],
+    [
+     0.677,
+     0.7577,
+     0.4733
+    ],
+    [
+     0.7577,
+     0.8385,
+     0.4733
+    ],
+    [
+     0.8385,
+     0.9192,
+     0.4733
+    ],
+    [
+     0.9192,
+     1.0,
+     0.4733
+    ]
+   ],
+   "raw_path": "page-1649-e6a1fc569876/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "7c34ca99565c265b6c149bb5f5692a44df7f09fa9b90cc55eba56222a01b6122"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "C H I [ 697 ]",
+   "bbox": [
+    0.0,
+    0.0309,
+    1.0,
+    0.06
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1649-e6a1fc569876:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "C H I [ 6",
+   "bbox": [
+    0.2093,
+    0.0362,
+    0.468,
+    0.0567
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1649-e6a1fc569876:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "Chivaly, and they extend their influence equally through the whole fyttem. Difference of armour, and different modes of military dificipline, produce difinction of orders among those who practife the arts of war; while other circumstances, originating from the fame general caufes, occasion familiar changes to take place amid the fcenes of peace.",
+   "bbox": [
+    0.0331,
+    0.0574,
+    0.4643,
+    0.1505
+   ],
+   "source": "s0-col-left",
+   "id": "page-1649-e6a1fc569876:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "6 Thediftiec-tion introduced into the military order by the ufe of cavalry.",
+   "bbox": [
+    0.028,
+    0.1429,
+    0.0976,
+    0.2323
+   ],
+   "source": "s0-col-left",
+   "id": "page-1649-e6a1fc569876:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "None of the new diffinctions which are introduced among men, with respect to the dificipline and conduct of war, in consequence of the acquitition of property and the invention of arts, is more remarkable than that occasioned by the ufe of horles in military expeditions, and the training of them to the evolutions of the military art. Fire-arms, it is true, give to those who are acquainted with them a greater superiority over those to whom their ufe is unknown than what the herfeman poffelles over him who fights on foot. But the ufe of fire-arms is of fuch importance in war, and the expense attending it fo inconfirderable, that wherever there have been introduced, they have feldom been confined to one particular order in an army; and therefore they produce indeed a remarkable, though tranfient, diflinction among different nations; but effablith no permanent distinctions in the armies of any one nation. But to maintain a horse, to equip him with cofly furniture, to manage him with dexterity and vigour, are circumstances which have invariably produced a standing and conspicuous difliction among the military order, wherever bodies of cavalry have been formed. The Roman _equites_, who, though they became at length a body of ufurers and farmers general, were originally the only body of cavalry employed by the fate, occupied a respectable rank between the fenators and the plebeians; and the elegance and humanity of their manners were fuitable to their rank. In ancient Greece, and in the celebrated monarchies of Afia, the fame difliction prevail ed at a fimilar period.",
+   "bbox": [
+    0.0971,
+    0.1498,
+    0.4671,
+    0.5563
+   ],
+   "source": "s0-col-left",
+   "id": "page-1649-e6a1fc569876:b4"
+  },
+  {
+   "order": 5,
+   "class": "Caption",
+   "text": "7 Military di- finitions a mong the ancient Germans.",
+   "bbox": [
+    0.035,
+    0.5533,
+    0.1027,
+    0.6199
+   ],
+   "source": "s0-col-left",
+   "id": "page-1649-e6a1fc569876:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "Since the circumstances and principles on which this difliction depends are not fuch as muft be con-fined in their influence to one particular nation, or one region of the globe, we may hope to trace their effects among the favage warriors of Seythia and Ger many, as well as among the Greeks or Romans. From the valuable treatife of Tacitus _de moribus Ger-manorum_, we learn, that among the German warriors a difliction fomewhat of this nature did actually fubfit; not fo much indeed a difliction between the warrior who fought on horfeback and those who fought on foot, as between those whom vigour of body and energy of mind enabled to brave all the dangers of war, and fuch as, from the imbecility of youth, the infirmities of age, or the natural inferiority of their mental and bodily powers, were unequal to fcenes of hardship and deeds of valour. The youth was not permitted to take arms and join his warlike countrymen in their military expeditions whenever he himself thought proper. There was a certain age before which he could not be invited with armour. When he had attained that period, if not found deficient in flrength, activity, or courage, he was formally honoured with the field and the lance, called to the duties, and admitted to all the privileges, of a warrior.",
+   "bbox": [
+    0.1023,
+    0.5556,
+    0.4736,
+    0.8834
+   ],
+   "source": "s0-col-left",
+   "id": "page-1649-e6a1fc569876:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Another fact worthy of notice reflecting the manners of the barbarians of Germany before they ella-",
+   "bbox": [
+    0.1042,
+    0.8842,
+    0.4713,
+    0.9122
+   ],
+   "source": "s0-col-left",
+   "id": "page-1649-e6a1fc569876:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "Vor. IV. Part II.",
+   "bbox": [
+    0.1224,
+    0.9099,
+    0.2485,
+    0.9235
+   ],
+   "source": "s0-col-left",
+   "id": "page-1649-e6a1fc569876:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "97 I C H I",
+   "bbox": [
+    0.4659,
+    0.0355,
+    0.7319,
+    0.0551
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1649-e6a1fc569876:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "blified themfelves in the cultivated provinces of the Roman empire is, that their women, contrary to what we find among many other rude nations, were treated with an high degree of respect. They did not generally vie with the men in deeds of valour, but they animated them by their exhortations to ditinguith themfelves in the field; and virgins especially were confidered with a facred vencration, as endowed with prophetic powers, capable to forefee events hid in the womb of futurity, and even to influence the will of the deities. Hence, though domestic duties were their peculiar province, yet they were not harshly treated nor confined to a state of flavery. There appears indeed a thriking analogy between the condition of the women among the rude foldiers of Sparta and the rank which they occupied among the warlike cantons of Germany. Perhaps, indeed, the German were fill more honourable than the Spartan women; as they were taught to wield the magic weapons of fupertition, which in Greece were appropriated to the prints.",
+   "bbox": [
+    0.4743,
+    0.0559,
+    0.8413,
+    0.3209
+   ],
+   "source": "s0-col-right",
+   "id": "page-1649-e6a1fc569876:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "It appears, therefore, that, in the forells of Ger- many at least, if not in the more northern regions of Afia and Europe, the conquerors of the Roman empire, before they penetrated into its provinces, treated their women with a degree of respect unknown to most of the nations of antiquity; that the character of the warrior was likewise highly honourable, being understood to unite all those qualities which were in the highest elimination; and that it was only at a particular age, and with certain forms, that the youth were admitted to bear arms.",
+   "bbox": [
+    0.4754,
+    0.3201,
+    0.8418,
+    0.4632
+   ],
+   "source": "s0-col-right",
+   "id": "page-1649-e6a1fc569876:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "When thofe nations fallied from their deferts and forells, over-ran the Roman empire, and established themselves in its provinces, the change which took place on their circumstances was remarkable; and by a natural influence, it could not but produce an equally remarkable change on their habits, cultures, and manners. The great outlines might fill remain; but they could not now fail to be filled up in a different manner. Here, however, the records of history are peculiarly imperfect. We have no Czefar or Tacitus to lupply facts or direct our reafonings; the Gothic nations had not yet learned to read and write; and the Romans were fo depretied under the fenfe of their own miferies, as to be negligent of the changes which happened around them. But as foon as the light of history begins again to dawn, we find that the leading features of the barbarian character were not effaced, but only modified in a particular manner, in consequence of their mixing among a more polished people, becoming acquainted with the luxuries of life, and acquiring exten- five power and property.",
+   "bbox": [
+    0.4775,
+    0.464,
+    0.8439,
+    0.7403
+   ],
+   "source": "s0-col-right",
+   "id": "page-1649-e6a1fc569876:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "Thofe who fought on horleback now began to be dittinguithed with peculiar honours. The manners of the warrior too were become more cultivated, and his spirit more humane. Leifure and opulence, with the influence of a polished people, even though in a flat of slavery, taught thofe barbarians to afpire after more refined pleafures and more fplendid amufements than thofe which they had been before fattisfted with. The influence of Chrillianity too, which, though grofsly corrupted, was still favourable to the focal happiness of mankind, concurred to polish their manners and exalt their character. Hence, in the end of the tenth and in the beginning of the eleventh century, we fea",
+   "bbox": [
+    0.479,
+    0.7395,
+    0.847,
+    0.9122
+   ],
+   "source": "s0-col-right",
+   "id": "page-1649-e6a1fc569876:b13"
+  },
+  {
+   "order": 14,
+   "class": "Page-footer",
+   "text": "4 T knight-",
+   "bbox": [
+    0.6504,
+    0.9114,
+    0.8465,
+    0.9273
+   ],
+   "source": "s0-col-right",
+   "id": "page-1649-e6a1fc569876:b14"
+  },
+  {
+   "order": 15,
+   "class": "Caption",
+   "text": "Chivalry.",
+   "bbox": [
+    0.8423,
+    0.0544,
+    0.9038,
+    0.071
+   ],
+   "source": "s0-col-right",
+   "id": "page-1649-e6a1fc569876:b15"
+  },
+  {
+   "order": 16,
+   "class": "Caption",
+   "text": "8 Reflectability of the women a-mong the Germans.",
+   "bbox": [
+    0.8381,
+    0.0937,
+    0.9096,
+    0.1611
+   ],
+   "source": "s0-col-right",
+   "id": "page-1649-e6a1fc569876:b16"
+  }
+ ]
+}

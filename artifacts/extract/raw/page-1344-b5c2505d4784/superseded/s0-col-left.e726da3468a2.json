@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "e726da3468a26120bc7c4242bac33606e0178f886fc0785103317cc43166767c",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "797d5d2eb0692ad5daa4a6a14749ba02222698446a727cc85907d0ff6a8c06b1",
+  "image_bytes": 2225341,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1344",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0444,
+   0.5217,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0444,
+    0.1313,
+    0.5117
+   ],
+   [
+    0.1313,
+    0.2181,
+    0.5167
+   ],
+   [
+    0.2181,
+    0.305,
+    0.5167
+   ],
+   [
+    0.305,
+    0.3919,
+    0.5167
+   ],
+   [
+    0.3919,
+    0.4788,
+    0.5167
+   ],
+   [
+    0.4788,
+    0.5656,
+    0.5167
+   ],
+   [
+    0.5656,
+    0.6525,
+    0.5167
+   ],
+   [
+    0.6525,
+    0.7394,
+    0.5167
+   ],
+   [
+    0.7394,
+    0.8263,
+    0.5167
+   ],
+   [
+    0.8263,
+    0.9131,
+    0.5167
+   ],
+   [
+    0.9131,
+    1.0,
+    0.5167
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2857,
+  "completion_tokens": 1057,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.78,
+ "created_at": "2026-10-18T11:10:53+00:00",
+ "content": "<x_0.1201><y_0.0>Horfe.<x_0.25><y_0.0234><class_Picture>\n\n<x_0.251><y_0.0>be totally clofed up, or the cranium in that part not be\nfo hard as the reft for fome years after. This open-\nnefs is found to be increased upon the child's catching\ncold. When the difeafe continues long, it is repu-\nted a fign of weaknefs and hort life. In this cafe,\nit is ufual to rub the head now and then with warm\nrum or brandy, mixed with the white of an egg and\npalm oil. Sometimes the diforder arifes from a col-\nlection of waters in the head called an _hydrocephalus._<x_0.9795><y_0.125><class_Text>\n\n<x_0.29><y_0.1234>_Stens-HORSE._ See STALLION.<x_0.7012><y_0.1391><class_Text>\n\n<x_0.291><y_0.1375>_Horse Tail._ See EQUISETUM and EPHEDRA.<x_0.9082><y_0.1531><class_Text>\n\n<x_0.292><y_0.1516>_Horse-Vetch._ See HIPPOCREPIS.<x_0.752><y_0.1664><class_Text>\n\n<x_0.2588><y_0.1656>_War-Horse._ The proper rules for choofing a horfe\nfor fervice in war, are thefe: he should be tall in flat-\nture, with a comely head, and out-fwelling forehead.\nHis eye thould be bright and fparkling, and the white\npart of it covered by the eye brow. The cars thould\nbe final, thin, short, and pricking; or if long, they\nthoul be moveable with cafe, and well carried. The\nneck thould be deep, and the breast large and fwelling.\nThe ribs bending, the chine broad and fraight, and\nthe buttocks round and full. The tail thould be high\nand broad, neither too thick nor too thin; the thigh\nfwelling; the leg broad and flat, and the pattern flont.\nWhen fuch a horfe is chofen, he muft be kept high du-\nring the time of his teaching, that he may be full of\nvigour. His food muft be fweet hay, and good clean oats,\nor two parts of oats and one part of beans or peafe,\nwell dried and hardened. The quantity thould be half\na peck in the morning, and the fame quantity at noon\nand in the evening Upon his refling days he is to be\ndrefled between five and fix in the morning, and water-\ned at fever or eight. In the evening he is to be drefled\nat four, and watered about five, and he muit always\nhave provender given him after watering; he muft be\nlittered about eight, and then muft have food gi-\nven him for all night. The night before he is ridden\nall his hay is to be taken away about nine o'clock, and\nhe muft have a handful or two of oats about four in\nthe morning: when he has eaten thefe, he is to be\nturned upon the fnaffle, and rubbed very well with dry\ncloths; then faddled, and made fit for his exercise.\nWhen he has performed this, he is to be brought\nfweating into the flable, and rubbed down with dry\nwifps. When this has been done, the faddle is to be\ntaken off, and he is to be rubbed down with dry cloths;\nthe houfing cloth is then to be laid on; and the faddle\nbeing again laid on, he is to be walked gently about\ntill thoroughly cool. After this, he muft ftand with-\nout meat two or three hours, then he muft be fed; and\nin the afternoon he is to be rubbed and drefled as be-\nfore, and watered in the ufual manner.<x_0.9912><y_0.7273><class_Text>\n\n<x_0.2725><y_0.7227>_Horse Worm_, in natural history, a species of fly-\nworm called alfo _bott_, produced of eggs deposited by a\ntwo-winged fly of the shape and fize of the humble\nbee in the intestines of horses. See BOTTS.<x_0.9922><y_0.7828><class_Text>\n\n<x_0.3086><y_0.7797>_Ricur-Horse_, in zoology. See HIPPOPTAMUS.<x_0.96><y_0.7969><class_Text>\n\n<x_0.2715><y_0.7937>Horse is alfo ufed in the military language, to ex-\npreis the cavalry; or the body of foldiers who ferve on\nhorfeback.<x_0.9932><y_0.8383><class_Text>\n\n<x_0.2734><y_0.8352>The horfe includes horfe guards, horfe grenadiers,\nand troopers. Dragoons are alfo frequently compre-\nhended under this name, though they fight on foot :\nof thefe there are now 18 regiments; belides three re-<x_0.9902><y_0.8953><class_Text>\n\n<x_0.3076><y_0.8938>_N° 157._<x_0.4229><y_0.9102><class_Text>",
+ "reply": {
+  "id": "chatcmpl-27ddb708-b1fd-43ea-8e68-cd71f01758ab",
+  "object": "chat.completion",
+  "created": 1792321852,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1201><y_0.0>Horfe.<x_0.25><y_0.0234><class_Picture>\n\n<x_0.251><y_0.0>be totally clofed up, or the cranium in that part not be\nfo hard as the reft for fome years after. This open-\nnefs is found to be increased upon the child's catching\ncold. When the difeafe continues long, it is repu-\nted a fign of weaknefs and hort life. In this cafe,\nit is ufual to rub the head now and then with warm\nrum or brandy, mixed with the white of an egg and\npalm oil. Sometimes the diforder arifes from a col-\nlection of waters in the head called an _hydrocephalus._<x_0.9795><y_0.125><class_Text>\n\n<x_0.29><y_0.1234>_Stens-HORSE._ See STALLION.<x_0.7012><y_0.1391><class_Text>\n\n<x_0.291><y_0.1375>_Horse Tail._ See EQUISETUM and EPHEDRA.<x_0.9082><y_0.1531><class_Text>\n\n<x_0.292><y_0.1516>_Horse-Vetch._ See HIPPOCREPIS.<x_0.752><y_0.1664><class_Text>\n\n<x_0.2588><y_0.1656>_War-Horse._ The proper rules for choofing a horfe\nfor fervice in war, are thefe: he should be tall in flat-\nture, with a comely head, and out-fwelling forehead.\nHis eye thould be bright and fparkling, and the white\npart of it covered by the eye brow. The cars thould\nbe final, thin, short, and pricking; or if long, they\nthoul be moveable with cafe, and well carried. The\nneck thould be deep, and the breast large and fwelling.\nThe ribs bending, the chine broad and fraight, and\nthe buttocks round and full. The tail thould be high\nand broad, neither too thick nor too thin; the thigh\nfwelling; the leg broad and flat, and the pattern flont.\nWhen fuch a horfe is chofen, he muft be kept high du-\nring the time of his teaching, that he may be full of\nvigour. His food muft be fweet hay, and good clean oats,\nor two parts of oats and one part of beans or peafe,\nwell dried and hardened. The quantity thould be half\na peck in the morning, and the fame quantity at noon\nand in the evening Upon his refling days he is to be\ndrefled between five and fix in the morning, and water-\ned at fever or eight. In the evening he is to be drefled\nat four, and watered about five, and he muit always\nhave provender given him after watering; he muft be\nlittered about eight, and then muft have food gi-\nven him for all night. The night before he is ridden\nall his hay is to be taken away about nine o'clock, and\nhe muft have a handful or two of oats about four in\nthe morning: when he has eaten thefe, he is to be\nturned upon the fnaffle, and rubbed very well with dry\ncloths; then faddled, and made fit for his exercise.\nWhen he has performed this, he is to be brought\nfweating into the flable, and rubbed down with dry\nwifps. When this has been done, the faddle is to be\ntaken off, and he is to be rubbed down with dry cloths;\nthe houfing cloth is then to be laid on; and the faddle\nbeing again laid on, he is to be walked gently about\ntill thoroughly cool. After this, he muft ftand with-\nout meat two or three hours, then he muft be fed; and\nin the afternoon he is to be rubbed and drefled as be-\nfore, and watered in the ufual manner.<x_0.9912><y_0.7273><class_Text>\n\n<x_0.2725><y_0.7227>_Horse Worm_, in natural history, a species of fly-\nworm called alfo _bott_, produced of eggs deposited by a\ntwo-winged fly of the shape and fize of the humble\nbee in the intestines of horses. See BOTTS.<x_0.9922><y_0.7828><class_Text>\n\n<x_0.3086><y_0.7797>_Ricur-Horse_, in zoology. See HIPPOPTAMUS.<x_0.96><y_0.7969><class_Text>\n\n<x_0.2715><y_0.7937>Horse is alfo ufed in the military language, to ex-\npreis the cavalry; or the body of foldiers who ferve on\nhorfeback.<x_0.9932><y_0.8383><class_Text>\n\n<x_0.2734><y_0.8352>The horfe includes horfe guards, horfe grenadiers,\nand troopers. Dragoons are alfo frequently compre-\nhended under this name, though they fight on foot :\nof thefe there are now 18 regiments; belides three re-<x_0.9902><y_0.8953><class_Text>\n\n<x_0.3076><y_0.8938>_N° 157._<x_0.4229><y_0.9102><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2857,
+   "completion_tokens": 1057,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

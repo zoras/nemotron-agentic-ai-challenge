@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "cb7a2340e841040210bf8db125ad2e0006f134c1ed369bb014cdfda8457191bb",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f480381adda240977fbb0fd65dbb3b12fee7d8c69ef6c7710cf0daaf86ad51e5",
+  "image_bytes": 2367947,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1214",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5267,
+   0.0216,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0216,
+    0.1031,
+    0.5383
+   ],
+   [
+    0.1031,
+    0.1847,
+    0.5317
+   ],
+   [
+    0.1847,
+    0.2662,
+    0.5317
+   ],
+   [
+    0.2662,
+    0.3477,
+    0.5317
+   ],
+   [
+    0.3477,
+    0.4293,
+    0.5317
+   ],
+   [
+    0.4293,
+    0.5108,
+    0.5317
+   ],
+   [
+    0.5108,
+    0.5923,
+    0.5317
+   ],
+   [
+    0.5923,
+    0.6739,
+    0.5317
+   ],
+   [
+    0.6739,
+    0.7554,
+    0.5317
+   ],
+   [
+    0.7554,
+    0.8369,
+    0.5317
+   ],
+   [
+    0.8369,
+    0.9185,
+    0.5317
+   ],
+   [
+    0.9185,
+    1.0,
+    0.5317
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2616,
+  "completion_tokens": 1072,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.62,
+ "created_at": "2026-10-18T11:19:51+00:00",
+ "content": "<x_0.0186><y_0.0055>[8] D AM<x_0.6221><y_0.025><class_Title>\n\n<x_0.0225><y_0.0266>of the atmosphere and in the mine to produce the ne-\nceffary circulation. This happens principally in the\nfpring and autumn; at which feafons it is neceflary to\nlight fires in the thafts, which are always efficacious for\nthe purposfe defined.<x_0.8311><y_0.0969><class_Text>\n\n<x_0.8428><y_0.0273>Damfel\nII Danze.<x_0.9658><y_0.0688><class_Picture>\n\n<x_0.0215><y_0.0961>Among the other ufcs to which dephlogificated air\nmight be applied, Mr Cavallo reckons that of fecuring\npeople from the dangerous effects of damps in mines,\nand other fubterraneous places. \" If a large blad-\nder,\" fays he, \" into which a folution of lime in wa-\nter is introduced, be filled with dephlogificated air,\nand a fmall wooden or glafs pipe be adapted to its\nneck, a man may hold that pipe in his mouth, and\nmay breathe the dephlogiflicted air; and thus equip-\nped he may enter into thefe fubterranean places,\namidft the various clafic fluids contained in them.\nA large bladder of dephlogificated air will ferve\nfor above a quarter of an hour, which is a length of\ntime sufficient for various purposes; belides, if longer\ntime is required to be fpent in thefe places, a per-\nfon may have two or more bladders of dephlogificated\nair along with him, and may shift as foon as the air of\none is contaminated. Without the necessity of any\nmore complicated apparatus, the bladders full of de-\nphlogificated air may be kept flopped by putting corks\ninto the glafs or wooden pipes that are tied to their\nneeks. This air might alfo be ufed for diving-bells.\"<x_0.832><y_0.4><class_Text>\n\n<x_0.0195><y_0.3992>DAMSEL, from the French _danoifel_ or _dansifeau_,\nan appellation anciently given to all young people of\neither fex, that were of noble or genteel extraction, as\nthe fons and daughters of princes, knights, and barons:\nthus we read of Damfel Pepin, Damfel Louis le Gros,\nDamfel Richard prince of Wales.<x_0.8281><y_0.482><class_Text>\n\n<x_0.0205><y_0.4828>From the fons of kings this appellation frift paffed\nto thofe of great lords and barons, and at length to\nthofe of gentlemen who were not yet knights.<x_0.8262><y_0.5242><class_Text>\n\n<x_0.0176><y_0.5234>At present damfel is applied to all maids or girls not\nyet married, provided they be not of the vulgar.<x_0.8242><y_0.5508><class_Text>\n\n<x_0.0166><y_0.5516>DAN, or JOR-DAN, which laft literally denotes \" the\nriver Dan;\" fo named from the people where it has\nits fource, which is a lake called _Phiala_, from its round\nfigure, to the north of its apparent rifing from the\nmountain Panium or Paneum, as was difcovered by\nPhilip, Tetrarch of Trachonites; for on throwing light\nbodies into the Phiala, he found them to emerge again\nat Paneum (Jofephus). From Paneum it runs in a\ndirect courte to a lake called _Samachonites_; as far as\nwhich it is called _Yordan the Left_; and thence to the\nlake Gencfareth, or of Tiberias, where it comes in-\ncreafed by the lake Samachonitis and its springs, and\nis called the _Greater Jordan_; continuing its direct\ncourfe fourthwards, till it falls into the Afphaltites.<x_0.8252><y_0.743><class_Text>\n\n<x_0.0156><y_0.7438>DAN (anc. geog.), a town to the welt of the fource\nof the Jordan; formerly called _Laii_ (Jofhua, Judges,\nJofephus). This was the north, as Beerheba was the\nfourth, boundary of the Ifraclites; as appears from the\ncommon expreflion in Scripture, from _Dan_ to _BeerIbe-\nba._ At Dan Jeroboam erected one of the golden\ncalves (1 Kings xii.).<x_0.8203><y_0.8398><class_Text>\n\n<x_0.0146><y_0.8391>DAN, the tribe, extended itself weftward of Judah,\nand was terminated by Azotus and Dora on the Medi-\nterranean (Jofepkus).<x_0.8184><y_0.882><class_Text>\n\n<x_0.0137><y_0.8805>DANAE, in antiquity, a coin fomewhat more than\nan obolus, ufed to be put into the mouths of the dead,\nto pay their paffage over the river Acheron.<x_0.8193><y_0.9242><class_Text>\n\n<x_0.6836><y_0.9211>DANAE,<x_0.8213><y_0.9367><class_Text>",
+ "reply": {
+  "id": "chatcmpl-39672de5-4c71-475e-aee6-77c9a78fcfde",
+  "object": "chat.completion",
+  "created": 1792322389,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0186><y_0.0055>[8] D AM<x_0.6221><y_0.025><class_Title>\n\n<x_0.0225><y_0.0266>of the atmosphere and in the mine to produce the ne-\nceffary circulation. This happens principally in the\nfpring and autumn; at which feafons it is neceflary to\nlight fires in the thafts, which are always efficacious for\nthe purposfe defined.<x_0.8311><y_0.0969><class_Text>\n\n<x_0.8428><y_0.0273>Damfel\nII Danze.<x_0.9658><y_0.0688><class_Picture>\n\n<x_0.0215><y_0.0961>Among the other ufcs to which dephlogificated air\nmight be applied, Mr Cavallo reckons that of fecuring\npeople from the dangerous effects of damps in mines,\nand other fubterraneous places. \" If a large blad-\nder,\" fays he, \" into which a folution of lime in wa-\nter is introduced, be filled with dephlogificated air,\nand a fmall wooden or glafs pipe be adapted to its\nneck, a man may hold that pipe in his mouth, and\nmay breathe the dephlogiflicted air; and thus equip-\nped he may enter into thefe fubterranean places,\namidft the various clafic fluids contained in them.\nA large bladder of dephlogificated air will ferve\nfor above a quarter of an hour, which is a length of\ntime sufficient for various purposes; belides, if longer\ntime is required to be fpent in thefe places, a per-\nfon may have two or more bladders of dephlogificated\nair along with him, and may shift as foon as the air of\none is contaminated. Without the necessity of any\nmore complicated apparatus, the bladders full of de-\nphlogificated air may be kept flopped by putting corks\ninto the glafs or wooden pipes that are tied to their\nneeks. This air might alfo be ufed for diving-bells.\"<x_0.832><y_0.4><class_Text>\n\n<x_0.0195><y_0.3992>DAMSEL, from the French _danoifel_ or _dansifeau_,\nan appellation anciently given to all young people of\neither fex, that were of noble or genteel extraction, as\nthe fons and daughters of princes, knights, and barons:\nthus we read of Damfel Pepin, Damfel Louis le Gros,\nDamfel Richard prince of Wales.<x_0.8281><y_0.482><class_Text>\n\n<x_0.0205><y_0.4828>From the fons of kings this appellation frift paffed\nto thofe of great lords and barons, and at length to\nthofe of gentlemen who were not yet knights.<x_0.8262><y_0.5242><class_Text>\n\n<x_0.0176><y_0.5234>At present damfel is applied to all maids or girls not\nyet married, provided they be not of the vulgar.<x_0.8242><y_0.5508><class_Text>\n\n<x_0.0166><y_0.5516>DAN, or JOR-DAN, which laft literally denotes \" the\nriver Dan;\" fo named from the people where it has\nits fource, which is a lake called _Phiala_, from its round\nfigure, to the north of its apparent rifing from the\nmountain Panium or Paneum, as was difcovered by\nPhilip, Tetrarch of Trachonites; for on throwing light\nbodies into the Phiala, he found them to emerge again\nat Paneum (Jofephus). From Paneum it runs in a\ndirect courte to a lake called _Samachonites_; as far as\nwhich it is called _Yordan the Left_; and thence to the\nlake Gencfareth, or of Tiberias, where it comes in-\ncreafed by the lake Samachonitis and its springs, and\nis called the _Greater Jordan_; continuing its direct\ncourfe fourthwards, till it falls into the Afphaltites.<x_0.8252><y_0.743><class_Text>\n\n<x_0.0156><y_0.7438>DAN (anc. geog.), a town to the welt of the fource\nof the Jordan; formerly called _Laii_ (Jofhua, Judges,\nJofephus). This was the north, as Beerheba was the\nfourth, boundary of the Ifraclites; as appears from the\ncommon expreflion in Scripture, from _Dan_ to _BeerIbe-\nba._ At Dan Jeroboam erected one of the golden\ncalves (1 Kings xii.).<x_0.8203><y_0.8398><class_Text>\n\n<x_0.0146><y_0.8391>DAN, the tribe, extended itself weftward of Judah,\nand was terminated by Azotus and Dora on the Medi-\nterranean (Jofepkus).<x_0.8184><y_0.882><class_Text>\n\n<x_0.0137><y_0.8805>DANAE, in antiquity, a coin fomewhat more than\nan obolus, ufed to be put into the mouths of the dead,\nto pay their paffage over the river Acheron.<x_0.8193><y_0.9242><class_Text>\n\n<x_0.6836><y_0.9211>DANAE,<x_0.8213><y_0.9367><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2616,
+   "completion_tokens": 1072,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

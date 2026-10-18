@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "a196ded01ddb2a2d4b54223e475cecda897d40da530f2b6dd4d83ff8a1f88008",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4af810576a33bad8c17a850cb9813c9fb6bd4586cd68694d7a3e952d0965c4ba",
+  "image_bytes": 91856,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:403",
+  "variant": "s1-wide",
+  "crop": [
+   0.0,
+   0.8718,
+   1.0,
+   0.9056
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 84,
+  "total_tokens": 197,
+  "completion_tokens": 113,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.23,
+ "created_at": "2026-10-18T11:10:14+00:00",
+ "content": "<x_0.043><y_0.0>\"We find the same observation confirmed by Heliodorus (_Ethiopica_, lib. x. p. 476.) \"The royal letters of the Ethiopians,\" says he, \"were the sacred characters of the Egyptians,\" Cassiodorus likewise assures us, \"that the letters inscribed upon the Egyptian obelisks were Chaldean.\" But recent discoveries have refuted these and other similar statements.\" Lib.tv.p. 461. Cowardors<x_0.999><y_0.9992><class_Text>",
+ "reply": {
+  "id": "chatcmpl-ca28916b-a15f-4a01-a6fb-21faaf346e8d",
+  "object": "chat.completion",
+  "created": 1792321814,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.043><y_0.0>\"We find the same observation confirmed by Heliodorus (_Ethiopica_, lib. x. p. 476.) \"The royal letters of the Ethiopians,\" says he, \"were the sacred characters of the Egyptians,\" Cassiodorus likewise assures us, \"that the letters inscribed upon the Egyptian obelisks were Chaldean.\" But recent discoveries have refuted these and other similar statements.\" Lib.tv.p. 461. Cowardors<x_0.999><y_0.9992><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 84,
+   "total_tokens": 197,
+   "completion_tokens": 113,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "request": {
+  "key": "8971914c81b7d78b84424ddd07e1ba955eeb2d9433ae9d48dc25d688914adc9b",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "b310c82f4c431e939e8c17e2c41d4040a50fbb3e405e0022baee05f17655d884",
+  "image_bytes": 1760967,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1904",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0161,
+   0.4867,
+   0.753
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0161,
+    0.098,
+    0.4817
+   ],
+   [
+    0.098,
+    0.1799,
+    0.4817
+   ],
+   [
+    0.1799,
+    0.2617,
+    0.4817
+   ],
+   [
+    0.2617,
+    0.3436,
+    0.4817
+   ],
+   [
+    0.3436,
+    0.4255,
+    0.4817
+   ],
+   [
+    0.4255,
+    0.5074,
+    0.4817
+   ],
+   [
+    0.5074,
+    0.5892,
+    0.4817
+   ],
+   [
+    0.5892,
+    0.6711,
+    0.4817
+   ],
+   [
+    0.6711,
+    0.753,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1562,
+  "total_tokens": 2337,
+  "completion_tokens": 775,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.37,
+ "created_at": "2026-10-18T11:20:27+00:00",
+ "content": "<x_0.4229><y_0.0047>L Y R [ 43<x_0.999><y_0.0359><class_Page-header>\n\n<x_0.0322><y_0.032>Lyre.<x_0.168><y_0.068><class_Caption>\n\n<x_0.1631><y_0.0336>which he ufed to frequent, at the foot of a mountain in Arcadia. Juit as he was going in, he found a tortoife feeding at the entrance of his cave: he killed the poor creature, and, perhaps, eat the fleth of it. As he was diverting himself with the fhell, he was mightily pleafed with the noife it gave from its concave figure. He had pofibly been cunning enough to find out, that a thong pulled fitrait and fattened at each end, when struck by the finger, made a fort of muufical found. However that was, he went immediately to work, and cut feveral thongs out of the hides he had lately flolen, and fattened them as tight as he could to the fhell of this tortoife; and, in playing with them, made a new kind of mufic with them to divert himself in his retreat. This, considered only as an account of the frit invention of the lyre, is not altogether fo unnatural.\"<x_0.9902><y_0.3312><class_Text>\n\n<x_0.1494><y_0.3305>- The moft ancient reprefentations of this infrument agree very well with the account of its invention: the lyre, in particular on the old celestial globes, was represented as made of one entire fhell of a tortoife; and that Amphion in the celebrated group of the Diree, or Toro, in the Famefe palace at Rome, which is of Greek feulpture, and very high antiquity, is figured in the fsame manner. See Plate CLXI. fig. 9.<x_0.9893><y_0.4781><class_Text>\n\n<x_0.1621><y_0.4773>There have, however, been many other claimants to the fever-thringed lyre. For though Mercury invent ed this infrument in the manner already related, it is faid he afterwards gave it to Apollo, who was the first that played upon it with method, and made it the conflant companion of poetry. According to Homer's account of this tranfaction, in his hymn to Mercury, it was given by that god to Apollo, as a peace offering and indemnification for the oxen which he had flolen from him:<x_0.9883><y_0.6625><class_Text>\n\n<x_0.2188><y_0.6633>To Phcebus Maia’s fan prefents the lyre, A gift intended to appeafe his ire. The god receives it gladly, and elays The novel infrument a thousand ways: With dextrous kill the plectum wields; and fings, With voice accordant to the trembling things, Such finains as gods and men approv'd, from whence The tweet alliance sprung of found and fence.<x_0.9092><y_0.7859><class_Text>\n\n<x_0.1602><y_0.7875>Diodorus informs us, that Apollo four repenting of the cruelty with which he had treated MARSYAS in conféquence of their mufical contell, broke the fringes of the lyre, and by that means put a flop for a time to any further progrefs in the practice of that new in- frument. \"The mufes (adds he) afterwards added to this infrument the firing called _mefe_; Linus, that of _lichanss_; and Orpheus and Thamyras, thofe fittings which are named _hypate_ and _parbypate_ (A).<x_0.9873><y_0.9547><class_Text>\n\n<x_0.1963><y_0.9539>Again, many ancient and respectable authors tell<x_0.9756><y_0.9773><class_Text>\n\n<x_0.4375><y_0.9766>2<x_0.4707><y_0.9906><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-eac0dea1-5ce1-4aa4-b4d2-9b160f2ca698",
+  "object": "chat.completion",
+  "created": 1792322426,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4229><y_0.0047>L Y R [ 43<x_0.999><y_0.0359><class_Page-header>\n\n<x_0.0322><y_0.032>Lyre.<x_0.168><y_0.068><class_Caption>\n\n<x_0.1631><y_0.0336>which he ufed to frequent, at the foot of a mountain in Arcadia. Juit as he was going in, he found a tortoife feeding at the entrance of his cave: he killed the poor creature, and, perhaps, eat the fleth of it. As he was diverting himself with the fhell, he was mightily pleafed with the noife it gave from its concave figure. He had pofibly been cunning enough to find out, that a thong pulled fitrait and fattened at each end, when struck by the finger, made a fort of muufical found. However that was, he went immediately to work, and cut feveral thongs out of the hides he had lately flolen, and fattened them as tight as he could to the fhell of this tortoife; and, in playing with them, made a new kind of mufic with them to divert himself in his retreat. This, considered only as an account of the frit invention of the lyre, is not altogether fo unnatural.\"<x_0.9902><y_0.3312><class_Text>\n\n<x_0.1494><y_0.3305>- The moft ancient reprefentations of this infrument agree very well with the account of its invention: the lyre, in particular on the old celestial globes, was represented as made of one entire fhell of a tortoife; and that Amphion in the celebrated group of the Diree, or Toro, in the Famefe palace at Rome, which is of Greek feulpture, and very high antiquity, is figured in the fsame manner. See Plate CLXI. fig. 9.<x_0.9893><y_0.4781><class_Text>\n\n<x_0.1621><y_0.4773>There have, however, been many other claimants to the fever-thringed lyre. For though Mercury invent ed this infrument in the manner already related, it is faid he afterwards gave it to Apollo, who was the first that played upon it with method, and made it the conflant companion of poetry. According to Homer's account of this tranfaction, in his hymn to Mercury, it was given by that god to Apollo, as a peace offering and indemnification for the oxen which he had flolen from him:<x_0.9883><y_0.6625><class_Text>\n\n<x_0.2188><y_0.6633>To Phcebus Maia’s fan prefents the lyre, A gift intended to appeafe his ire. The god receives it gladly, and elays The novel infrument a thousand ways: With dextrous kill the plectum wields; and fings, With voice accordant to the trembling things, Such finains as gods and men approv'd, from whence The tweet alliance sprung of found and fence.<x_0.9092><y_0.7859><class_Text>\n\n<x_0.1602><y_0.7875>Diodorus informs us, that Apollo four repenting of the cruelty with which he had treated MARSYAS in conféquence of their mufical contell, broke the fringes of the lyre, and by that means put a flop for a time to any further progrefs in the practice of that new in- frument. \"The mufes (adds he) afterwards added to this infrument the firing called _mefe_; Linus, that of _lichanss_; and Orpheus and Thamyras, thofe fittings which are named _hypate_ and _parbypate_ (A).<x_0.9873><y_0.9547><class_Text>\n\n<x_0.1963><y_0.9539>Again, many ancient and respectable authors tell<x_0.9756><y_0.9773><class_Text>\n\n<x_0.4375><y_0.9766>2<x_0.4707><y_0.9906><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1562,
+   "total_tokens": 2337,
+   "completion_tokens": 775,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

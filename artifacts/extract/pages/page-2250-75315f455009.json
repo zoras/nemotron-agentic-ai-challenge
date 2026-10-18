@@ -1,0 +1,612 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+ "row_index": 2250,
+ "volume_id": "144133901",
+ "filename": "page-2250-75315f455009.jpg",
+ "image_sha256": "75315f45500988daa37cc73e58bee8b227772229b576475ee23ddb584172baee",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.04706,
+  "median_grey": 212,
+  "layout_body_chars": 4652,
+  "layout_pictures": 0
+ },
+ "running_head": "B U X ( 697 ) B Y Z",
+ "layout_raw": "page-2250-75315f455009/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0466,
+    1.0,
+    0.0772
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2250-75315f455009/head.json",
+   "finish_reason": "stop",
+   "request_key": "31982fa5dcc033fac2c6157e6920e517e610ddf06864caed4e3661ffc35fee64"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0466,
+    0.485,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0466,
+     0.1333,
+     0.4783
+    ],
+    [
+     0.1333,
+     0.2199,
+     0.48
+    ],
+    [
+     0.2199,
+     0.3066,
+     0.48
+    ],
+    [
+     0.3066,
+     0.3933,
+     0.48
+    ],
+    [
+     0.3933,
+     0.48,
+     0.48
+    ],
+    [
+     0.48,
+     0.5666,
+     0.48
+    ],
+    [
+     0.5666,
+     0.6533,
+     0.48
+    ],
+    [
+     0.6533,
+     0.74,
+     0.48
+    ],
+    [
+     0.74,
+     0.8267,
+     0.48
+    ],
+    [
+     0.8267,
+     0.9133,
+     0.4783
+    ],
+    [
+     0.9133,
+     1.0,
+     0.48
+    ]
+   ],
+   "raw_path": "page-2250-75315f455009/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "55b6bb8d5e2bc7a8c2d3d7c14bf43eae76076351189758e4b949f879c64969d5"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4733,
+    0.0466,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0466,
+     0.1333,
+     0.4783
+    ],
+    [
+     0.1333,
+     0.2199,
+     0.48
+    ],
+    [
+     0.2199,
+     0.3066,
+     0.48
+    ],
+    [
+     0.3066,
+     0.3933,
+     0.48
+    ],
+    [
+     0.3933,
+     0.48,
+     0.48
+    ],
+    [
+     0.48,
+     0.5666,
+     0.48
+    ],
+    [
+     0.5666,
+     0.6533,
+     0.48
+    ],
+    [
+     0.6533,
+     0.74,
+     0.48
+    ],
+    [
+     0.74,
+     0.8267,
+     0.48
+    ],
+    [
+     0.8267,
+     0.9133,
+     0.4783
+    ],
+    [
+     0.9133,
+     1.0,
+     0.48
+    ]
+   ],
+   "raw_path": "page-2250-75315f455009/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "f72eb4134739c502187ff4bc60f69d90769096887766aad58b4e3a5efd90b420"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "B U X ( 697 ) B Y Z",
+   "bbox": [
+    0.0,
+    0.0466,
+    1.0,
+    0.0772
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2250-75315f455009:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**B U X**",
+   "bbox": [
+    0.1961,
+    0.0533,
+    0.3079,
+    0.0749
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "(_6_",
+   "bbox": [
+    0.4305,
+    0.0518,
+    0.4807,
+    0.0757
+   ],
+   "parse_class": "Caption",
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Button attempted to find out a north-welt paffage to the Eaft Indies. It lies between 80° and 100° W, long, and between 60° and 66° N. lat.",
+   "bbox": [
+    0.0625,
+    0.0763,
+    0.4732,
+    0.1218
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "BUTTRESS, a kind of butment built archwife, or a mafs of flone or brick, ferving to prop or lupport the fides of a building, wall, cc. on the outside, where it is either very high, or has any confiderable load to fulltain on the other fide, as a bank of earth, cc.",
+   "bbox": [
+    0.0493,
+    0.1173,
+    0.4746,
+    0.1888
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "Buttreflies are ufed againft the angles of ,fteeples and other buildings of ftone, cc. on the outside, and along the walls of fuch buildings as have great and heavy roofs, which would be fulject to thrull the walls out, unlefs very thick, if no buttreffes were placed against them. They are alfo placed for a lupport and butment againft the feet of fome arches, that are turned acrofs great halls in old palaces, abbeys, cc.",
+   "bbox": [
+    0.0663,
+    0.1867,
+    0.4751,
+    0.2976
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "BUTZAW, a town of Lower Saxony, in Germany; it stands upon the river Varnow, on the road from Schwerin to Roftock.",
+   "bbox": [
+    0.0497,
+    0.2953,
+    0.4741,
+    0.3379
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "BUXTON, a place in the peak of Derbyfhire, celebrated for medicinal waters; the bottelf in England, next to Bath.",
+   "bbox": [
+    0.0502,
+    0.3356,
+    0.4737,
+    0.3795
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "Buxton-wells. The frata of earth and minerals, in the parts adjacent to Buxton, are peat-mofs, blue clay, iron, and coal, mixed with fulphur and brazil. The warm waters there, at prefent, are the bath, which takes in feveral waroi springs; St Ann's well, a hot and cold spring rifling up into the fame recep tacle; and Bingham-well.",
+   "bbox": [
+    0.0507,
+    0.3788,
+    0.4755,
+    0.4749
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Thefe waters greatly promote digestion, unlefs they are drunk too long, in which cafe they relax the flo- mach, and retard digestion; they are well adapted to obltructions of every kind, whence they produce fur- prifing effects in gouty, rheumatic, athletic, and ficor butic pains. As this water is warm, highly impregnated with a mineral fleam, vapour, or spirit, it is fignally beneficial to cramps, convultions, dry afthmas, the bilious colic, fifnefs, cc.",
+   "bbox": [
+    0.0649,
+    0.4734,
+    0.476,
+    0.5963
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "They advite both drinking and bathing in the ufe of thefe waters; only the laft is of bad consequence in the gout, inward inflammations, fevers, dyfentery, large inward tumours, or in an outward preflure of the body.",
+   "bbox": [
+    0.0644,
+    0.5956,
+    0.4765,
+    0.6641
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "BUXUS, in botany, a genus of the monccia tetrandria clafs. The calix of the male confilts of three leaves; and the corolla has two petals: The calix of the female has four leaves; the petals are three; it has three flyli; and the capfule has three cells containing two feeds. There is but one species, viz, the tempervi- ens, or box-tree, a native of Britain. A decoction",
+   "bbox": [
+    0.0488,
+    0.6634,
+    0.4722,
+    0.7587
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b11"
+  },
+  {
+   "order": 12,
+   "class": "Page-footer",
+   "text": "Vol. 1. No 29.",
+   "bbox": [
+    0.0876,
+    0.7572,
+    0.2245,
+    0.7728
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b12"
+  },
+  {
+   "order": 13,
+   "class": "Caption",
+   "text": "3",
+   "bbox": [
+    0.431,
+    0.7601,
+    0.4433,
+    0.7736
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b13"
+  },
+  {
+   "order": 14,
+   "class": "Picture",
+   "text": "END OF THE F",
+   "bbox": [
+    0.2254,
+    0.8473,
+    0.484,
+    0.8681
+   ],
+   "source": "s0-col-left",
+   "id": "page-2250-75315f455009:b14"
+  },
+  {
+   "order": 15,
+   "class": "Head-fragment",
+   "text": "97 )",
+   "bbox": [
+    0.4764,
+    0.0526,
+    0.5335,
+    0.0749
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b15"
+  },
+  {
+   "order": 16,
+   "class": "Head-fragment",
+   "text": "B Y Z",
+   "bbox": [
+    0.6615,
+    0.0518,
+    0.7634,
+    0.072
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "of the leaves and wood has been recommended as a powerful fudorific; but is not now ufed by practitioners. The wood is of a hard clofe texture, and is greatly ufed by mechanics for tools of various kinds.",
+   "bbox": [
+    0.5021,
+    0.0763,
+    0.9095,
+    0.1322
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "BUYS, a town of Dauphine, in France, situated on the confines of Provence; E. long. 5° 20’, and N. lat. 44° 25'.",
+   "bbox": [
+    0.4856,
+    0.13,
+    0.9089,
+    0.1732
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "BUZZARD, in ornithology, the Englith name of fever-ral species of the hawk kind. See FALCO.",
+   "bbox": [
+    0.4862,
+    0.1724,
+    0.9085,
+    0.2008
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "BYGHOF, or BYGOW, a city of Lithuania in Poland, fituated on the river Nieper; E. long. 30°, and N. lat. 53°.",
+   "bbox": [
+    0.4867,
+    0.2,
+    0.91,
+    0.241
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "BY-LAWS, or BYE-LAWS, private and peculiar laws for the good government of a city, court, or other community, made by the general content of the members.",
+   "bbox": [
+    0.4872,
+    0.2402,
+    0.9105,
+    0.2939
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "All by-laws are to be reafonable, and for the common benefit, not private advantage of any particular perfons, and must be agreeable to the public laws in being.",
+   "bbox": [
+    0.5052,
+    0.2947,
+    0.911,
+    0.3498
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "BYRLAW, or _Byrlaw lawn_, in Scotland, are made and determined by neighbours, elected by common content in byrlaw courts. The men chofen as judges, are called byrlaw or barlaw men, and take cognizance of complaints between neighbour and neighbour.",
+   "bbox": [
+    0.4877,
+    0.349,
+    0.9115,
+    0.4205
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "BYRRHUS, in zoology, an order of infects belonging to the order of coloptera. The feelers are clavated, pretty foliid, and a little compreffed. There are five species, all of which are to be found on particular plants, and principally diflinguified from each other by the colour and figure of the clytra or crutaceous wing cafes.",
+   "bbox": [
+    0.4852,
+    0.419,
+    0.912,
+    0.5159
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b24"
+  },
+  {
+   "order": 25,
+   "class": "Text",
+   "text": "BYSSUS, in botany, a genus of moffes belonging to the cryptogamia algae. The character is taken from this circumstance, that they are covered with a timple capillary filament or down, refembling foft duft. The species are 15, all natives of Britain.",
+   "bbox": [
+    0.4846,
+    0.5143,
+    0.9126,
+    0.5837
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b25"
+  },
+  {
+   "order": 26,
+   "class": "Text",
+   "text": "BYSSUS, in antiquity, that fine Egyptian linen where of the tunics of the Jewish priefts were made.",
+   "bbox": [
+    0.4882,
+    0.5821,
+    0.9079,
+    0.6112
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b26"
+  },
+  {
+   "order": 27,
+   "class": "Text",
+   "text": "Philo fays, that the byflus is the clearell and molt beautiful, the whiteft, flrongeft, and molt glolty fort of linen; that it is not made of any thing mortal, that is to fay, of wool, or the skin of any animal, but that it comes out of the earth, and becomes always whiter, and more thinning, when it is washed as it should be.",
+   "bbox": [
+    0.5016,
+    0.6097,
+    0.9074,
+    0.7043
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b27"
+  },
+  {
+   "order": 28,
+   "class": "Text",
+   "text": "BYZANT. See BEZANT.",
+   "bbox": [
+    0.4841,
+    0.7028,
+    0.696,
+    0.7177
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b28"
+  },
+  {
+   "order": 29,
+   "class": "Text",
+   "text": "BYZANTIUM, the ancient name of Confiantinople. See CONSTANTINOPLE.",
+   "bbox": [
+    0.4831,
+    0.7169,
+    0.9044,
+    0.7453
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b29"
+  },
+  {
+   "order": 30,
+   "class": "Text",
+   "text": "BZO, a town of Africa, in the kingdom of Morocco.",
+   "bbox": [
+    0.4836,
+    0.7431,
+    0.8951,
+    0.7601
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b30"
+  },
+  {
+   "order": 31,
+   "class": "Text",
+   "text": "8 O",
+   "bbox": [
+    0.6127,
+    0.7595,
+    0.6528,
+    0.772
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b31"
+  },
+  {
+   "order": 32,
+   "class": "Page-footer",
+   "text": "IRST VOLUME",
+   "bbox": [
+    0.4748,
+    0.848,
+    0.7402,
+    0.8704
+   ],
+   "source": "s0-col-right",
+   "id": "page-2250-75315f455009:b32"
+  }
+ ]
+}

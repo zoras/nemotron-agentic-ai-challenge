@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "a8a46f40c03c10654382b52808910eba9b43046dd00f6320fe0fcf551013ff4c",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9631db7f1895fba984076ecaed0e58a173f54d9669fb1c567c92b99761d50b6a",
+  "image_bytes": 134711,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2307",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0247,
+   1.0,
+   0.0614
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 212,
+  "completion_tokens": 48,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.16,
+ "created_at": "2026-10-18T11:21:13+00:00",
+ "content": "<x_0.0><y_0.0>A L G [ 241 ] A L G\nAlgiers for their valour against the enemies of Christianity men, horses and other creatures, swimming on the Algiers.<x_0.998><y_0.9875><class_Text>",
+ "reply": {
+  "id": "chatcmpl-28599fbb-baf5-47c3-8f66-63f23f20c32f",
+  "object": "chat.completion",
+  "created": 1792322473,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>A L G [ 241 ] A L G\nAlgiers for their valour against the enemies of Christianity men, horses and other creatures, swimming on the Algiers.<x_0.998><y_0.9875><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 212,
+   "completion_tokens": 48,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

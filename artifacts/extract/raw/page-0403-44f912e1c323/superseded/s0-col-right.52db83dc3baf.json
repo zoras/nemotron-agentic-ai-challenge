@@ -1,0 +1,124 @@
+{
+ "request": {
+  "key": "52db83dc3baf2a3e3262d4bc0353eafb62668b13c8ef5fcd633a2a1bae06ce4d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "a42dac3b558d3401e4ec706a2754c4038abb36fc219988ac8e255f3a4f61f6c7",
+  "image_bytes": 2210075,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:403",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4517,
+   0.0608,
+   1.0,
+   0.8718
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0608,
+    0.1419,
+    0.4633
+   ],
+   [
+    0.1419,
+    0.223,
+    0.4633
+   ],
+   [
+    0.223,
+    0.3041,
+    0.4633
+   ],
+   [
+    0.3041,
+    0.3852,
+    0.4633
+   ],
+   [
+    0.3852,
+    0.4663,
+    0.4617
+   ],
+   [
+    0.4663,
+    0.5474,
+    0.46
+   ],
+   [
+    0.5474,
+    0.6285,
+    0.4583
+   ],
+   [
+    0.6285,
+    0.7096,
+    0.4583
+   ],
+   [
+    0.7096,
+    0.7907,
+    0.4567
+   ],
+   [
+    0.7907,
+    0.8718,
+    0.4567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 2024,
+  "total_tokens": 2971,
+  "completion_tokens": 947,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.5,
+ "created_at": "2026-10-18T11:10:14+00:00",
+ "content": "<x_0.0186><y_0.0>_περι των εν Μερογ λερων γραμματων, concerning the sacred let- ters in the island of Meroe;* and another concerning the sacred letters in Babylon. Had these books survived the ravages of time, they would, in this age of research and curiosity, have determined not only the point under our consideration, but likewise the affinity of sacred rites amongst the Chaldeans, Ethiopians, and Egyptians.<x_0.7617><y_0.1078><class_Text>\n\n<x_0.0166><y_0.1039>We have now shown that the Ethiopians were a colony of Cushites; that the Cushites were originally sovereigns of Shinar or Chaldea, and consequently spoke either Chaldaic, or a dialect of that tongue; that their colonists must have used the same language; and that the ancient Ethiopians were a people highly polished, and celebrated in the most early ages on account of their virtue and piety. It has likewise appeared that the common letters of that people were the sacred characters of the Egyptians. These letters, we im- agine, were the Cuphic; for some account of which see the section on the Arabic. When they were discarded, and the modern letters substituted in their room, cannot be deter- mined; nor is it, we apprehend, a matter of much import- ance. We shall therefore drop that part of the subject, and refer our curious and inquisitive readers to the very learned Job Ludolf’s excellent grammar and dictionary of the Abys- sinian or Geez tongue,<sup>5</sup> where they will find every thing worth knowing on that subject. We shall endeavour to gra-tify our readers with a very brief account of the modern Ethi-opic or Abyssinian tongue; for which we are principally indebted to that learned, indefatigable, and adventurous tra- veller, Bruce; who, by his observations on that country, which he made in person, often at the hazard of his life, has discovered, as it were, a new world both to Europe and Asia.<x_0.7627><y_0.4719><class_Text>\n\n<x_0.0088><y_0.468>The most ancient language of Ethiopia, which we shall now call by its modern name of Abyssinia, was, according to that gentleman, the _Geez_, which was spoken by the ancient Cushite shepherds. This, we should think, approaches nearest to the old Chaldaic. Upon a revolution in Ha- besh, the court resided many years in the province of Amhara, where the people spoke a different language, or at least a very different dialect of the same language. During this interval, the Geez, or language of the shepherds, was dropped, and retained only in writing, as a dead language; the sacred Scriptures being in that tongue only saved it from going into disuse. This dialect is exceedingly harsh and unharmonious. It is full of the letters, D and T, on which an accent is put that nearly resembles stammering. Considering the small extent of sea which divides this coun- try from Arabia, we need not wonder that it has great af- finity with the Arabic. It is not difficult to be acquired by those who understand any other of the oriental languages; and as the roots of many Hebrew words are only to be found here, it seems to be absolutely necessary to all those who wish to obtain a critical skill in that language.<x_0.7637><y_0.7914><class_Text>\n\n<x_0.0078><y_0.7875>The Ethiopic alphabet consists of twenty-six letters, each Ethiopic of which, by a _virgula_ or point annexed, varies its sound alphabet. in such a manner as that those twenty-six form as it were sixty-two distinct letters. At first they had only twenty- five of these original letters, the Latin P being wanting; so that they were obliged to substitute another letter in its place. _Paulus,_ for example, they call _Taulus, Aulus,_ or _Caulus,_ and _Petror_ they pronounced _Ketros._ At last they substituted T, and added this to the end of their alphabet; giving it the force of P, though it was really a repetition of an old character, rather than the invention of a new one. Be- sides these, there are twenty others of the nature of diph-<x_0.8545><y_0.975><class_Text>\n\n<x_0.7529><y_0.0008>Chaldaic Language, &c.<x_0.8916><y_0.0437><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-00002861-9580-430a-b895-c43c2eeb99f0",
+  "object": "chat.completion",
+  "created": 1792321813,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0186><y_0.0>_περι των εν Μερογ λερων γραμματων, concerning the sacred let- ters in the island of Meroe;* and another concerning the sacred letters in Babylon. Had these books survived the ravages of time, they would, in this age of research and curiosity, have determined not only the point under our consideration, but likewise the affinity of sacred rites amongst the Chaldeans, Ethiopians, and Egyptians.<x_0.7617><y_0.1078><class_Text>\n\n<x_0.0166><y_0.1039>We have now shown that the Ethiopians were a colony of Cushites; that the Cushites were originally sovereigns of Shinar or Chaldea, and consequently spoke either Chaldaic, or a dialect of that tongue; that their colonists must have used the same language; and that the ancient Ethiopians were a people highly polished, and celebrated in the most early ages on account of their virtue and piety. It has likewise appeared that the common letters of that people were the sacred characters of the Egyptians. These letters, we im- agine, were the Cuphic; for some account of which see the section on the Arabic. When they were discarded, and the modern letters substituted in their room, cannot be deter- mined; nor is it, we apprehend, a matter of much import- ance. We shall therefore drop that part of the subject, and refer our curious and inquisitive readers to the very learned Job Ludolf’s excellent grammar and dictionary of the Abys- sinian or Geez tongue,<sup>5</sup> where they will find every thing worth knowing on that subject. We shall endeavour to gra-tify our readers with a very brief account of the modern Ethi-opic or Abyssinian tongue; for which we are principally indebted to that learned, indefatigable, and adventurous tra- veller, Bruce; who, by his observations on that country, which he made in person, often at the hazard of his life, has discovered, as it were, a new world both to Europe and Asia.<x_0.7627><y_0.4719><class_Text>\n\n<x_0.0088><y_0.468>The most ancient language of Ethiopia, which we shall now call by its modern name of Abyssinia, was, according to that gentleman, the _Geez_, which was spoken by the ancient Cushite shepherds. This, we should think, approaches nearest to the old Chaldaic. Upon a revolution in Ha- besh, the court resided many years in the province of Amhara, where the people spoke a different language, or at least a very different dialect of the same language. During this interval, the Geez, or language of the shepherds, was dropped, and retained only in writing, as a dead language; the sacred Scriptures being in that tongue only saved it from going into disuse. This dialect is exceedingly harsh and unharmonious. It is full of the letters, D and T, on which an accent is put that nearly resembles stammering. Considering the small extent of sea which divides this coun- try from Arabia, we need not wonder that it has great af- finity with the Arabic. It is not difficult to be acquired by those who understand any other of the oriental languages; and as the roots of many Hebrew words are only to be found here, it seems to be absolutely necessary to all those who wish to obtain a critical skill in that language.<x_0.7637><y_0.7914><class_Text>\n\n<x_0.0078><y_0.7875>The Ethiopic alphabet consists of twenty-six letters, each Ethiopic of which, by a _virgula_ or point annexed, varies its sound alphabet. in such a manner as that those twenty-six form as it were sixty-two distinct letters. At first they had only twenty- five of these original letters, the Latin P being wanting; so that they were obliged to substitute another letter in its place. _Paulus,_ for example, they call _Taulus, Aulus,_ or _Caulus,_ and _Petror_ they pronounced _Ketros._ At last they substituted T, and added this to the end of their alphabet; giving it the force of P, though it was really a repetition of an old character, rather than the invention of a new one. Be- sides these, there are twenty others of the nature of diph-<x_0.8545><y_0.975><class_Text>\n\n<x_0.7529><y_0.0008>Chaldaic Language, &c.<x_0.8916><y_0.0437><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 2024,
+   "total_tokens": 2971,
+   "completion_tokens": 947,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

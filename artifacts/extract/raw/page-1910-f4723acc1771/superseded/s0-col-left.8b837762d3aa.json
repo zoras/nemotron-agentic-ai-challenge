@@ -1,0 +1,119 @@
+{
+ "request": {
+  "key": "8b837762d3aab29b80b2bbc88959a1df2ae9710f767117d0d211664573c67b1c",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "b6852d4f8d093250915129d21d7fc94c0649b81c1280e0adfaafefcfffa7ad5e",
+  "image_bytes": 2240061,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0569,
+   0.53,
+   0.8155
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0569,
+    0.1412,
+    0.525
+   ],
+   [
+    0.1412,
+    0.2255,
+    0.525
+   ],
+   [
+    0.2255,
+    0.3098,
+    0.525
+   ],
+   [
+    0.3098,
+    0.3941,
+    0.525
+   ],
+   [
+    0.3941,
+    0.4783,
+    0.525
+   ],
+   [
+    0.4783,
+    0.5626,
+    0.525
+   ],
+   [
+    0.5626,
+    0.6469,
+    0.525
+   ],
+   [
+    0.6469,
+    0.7312,
+    0.525
+   ],
+   [
+    0.7312,
+    0.8155,
+    0.525
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1778,
+  "total_tokens": 2545,
+  "completion_tokens": 767,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.23,
+ "created_at": "2026-10-18T11:11:21+00:00",
+ "content": "<x_0.0811><y_0.0>Lightning: we have feen above; it is _mathematically evident_, that, when a _returning flroke_ comes to be produced by the _fudden_ removal of the very frong clafic electrical pref- fure of the electrical atmosphere of a thunder-cloud powerfully charged; the ftrength of fuch a _returning flroke_ mult be _enormous._<x_0.9795><y_0.107><class_Text>\n\n<x_0.2139><y_0.1055>\" If indeed the quantity of electric fluid naturally contained in the body of a man, for instance, were im- menfe, or indefinite, the author’s ultimate between the effects producible by a cloud, and those canfed by a prime conductor, might be admitted. But furely an electrified cloud,--how great foeyer may be its ex- tent, and the height of its charge, when compared with the extent and charge of a prime conductor-- cannot expel from a man’s body (or any other body) more than the natural quantity of electricity which it contains. On the fudden removal, therefore, of the preffure by which this natural quantity had been ex- pelled, in consequence of the explofion of the cloud into the earth ; no more (at the utmolt) than his _whole natural flock_ of electricity can re-enter his body (c). But we have no realon to fuppofe that this quantity is fo great, as that its fudden re-entrance into his body fhould deftroy or even injure him.<x_0.9814><y_0.4242><class_Text>\n\n<x_0.2148><y_0.4234>\" In the experiment above deferibed, the infulated perfon receives into his body, at the inflant of the _re- turning flroke_, not only all that portion of his own natural electric-fire which had been expelled from it ; but likewife tranfmits through it, at the fame inflant, _in consequence of his peculiar situation_, all the electric fire of which the large fecond conductor had been robbed ; and which muft necellarily re-pafs through his body, to arrive at that conductor. To render the cafe fomewhat parallel, in _natural electricity_, the man's body muit be fo peculiarly circumflanced, fuppofing him to be in a houle, that the electric matter which has been expelled from the houte into the earth, by the preffure of an extenfive thunder-cloud, could not return back into the building, on the explofion of the cloud at a distance, without paffling through his body: a cafe not likely to happen, unlefs the houte were in- fulated (like the fecond conductor in the preceding ex-periment), and his body became the channel through which alone the houte could have its electric matter restored to it : it appears much more probable that the electric matter returns to the houte through the _fame channels_ by which it before infentibly paffled out, and with equal silence, tho' more fuddenly.<x_0.9805><y_0.8461><class_Text>\n\n<x_0.2158><y_0.8453>\" In the cafe of a man who is abroad, and in an open field, during the time of an explosion;--as he is unconnected with other mafles of matter _above him_, no more than the precife quantity of electric fire, which had been before expelled from his body, will _fuddenly_ return into it at the inflant of a diftant explosion: and that this quantity is not ufually very large, may be inferred from many confiderations.<x_0.9785><y_0.9891><class_Text>",
+ "reply": {
+  "id": "chatcmpl-a7e56870-ef24-4121-a2b4-d2a8944a970c",
+  "object": "chat.completion",
+  "created": 1792321880,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0811><y_0.0>Lightning: we have feen above; it is _mathematically evident_, that, when a _returning flroke_ comes to be produced by the _fudden_ removal of the very frong clafic electrical pref- fure of the electrical atmosphere of a thunder-cloud powerfully charged; the ftrength of fuch a _returning flroke_ mult be _enormous._<x_0.9795><y_0.107><class_Text>\n\n<x_0.2139><y_0.1055>\" If indeed the quantity of electric fluid naturally contained in the body of a man, for instance, were im- menfe, or indefinite, the author’s ultimate between the effects producible by a cloud, and those canfed by a prime conductor, might be admitted. But furely an electrified cloud,--how great foeyer may be its ex- tent, and the height of its charge, when compared with the extent and charge of a prime conductor-- cannot expel from a man’s body (or any other body) more than the natural quantity of electricity which it contains. On the fudden removal, therefore, of the preffure by which this natural quantity had been ex- pelled, in consequence of the explofion of the cloud into the earth ; no more (at the utmolt) than his _whole natural flock_ of electricity can re-enter his body (c). But we have no realon to fuppofe that this quantity is fo great, as that its fudden re-entrance into his body fhould deftroy or even injure him.<x_0.9814><y_0.4242><class_Text>\n\n<x_0.2148><y_0.4234>\" In the experiment above deferibed, the infulated perfon receives into his body, at the inflant of the _re- turning flroke_, not only all that portion of his own natural electric-fire which had been expelled from it ; but likewife tranfmits through it, at the fame inflant, _in consequence of his peculiar situation_, all the electric fire of which the large fecond conductor had been robbed ; and which muft necellarily re-pafs through his body, to arrive at that conductor. To render the cafe fomewhat parallel, in _natural electricity_, the man's body muit be fo peculiarly circumflanced, fuppofing him to be in a houle, that the electric matter which has been expelled from the houte into the earth, by the preffure of an extenfive thunder-cloud, could not return back into the building, on the explofion of the cloud at a distance, without paffling through his body: a cafe not likely to happen, unlefs the houte were in- fulated (like the fecond conductor in the preceding ex-periment), and his body became the channel through which alone the houte could have its electric matter restored to it : it appears much more probable that the electric matter returns to the houte through the _fame channels_ by which it before infentibly paffled out, and with equal silence, tho' more fuddenly.<x_0.9805><y_0.8461><class_Text>\n\n<x_0.2158><y_0.8453>\" In the cafe of a man who is abroad, and in an open field, during the time of an explosion;--as he is unconnected with other mafles of matter _above him_, no more than the precife quantity of electric fire, which had been before expelled from his body, will _fuddenly_ return into it at the inflant of a diftant explosion: and that this quantity is not ufually very large, may be inferred from many confiderations.<x_0.9785><y_0.9891><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1778,
+   "total_tokens": 2545,
+   "completion_tokens": 767,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

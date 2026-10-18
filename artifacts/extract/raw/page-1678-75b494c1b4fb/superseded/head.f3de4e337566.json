@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "f3de4e3375660d3dd6da7c9c7e749e9c4a60bf270f54fc49e9fc0bdca19ce4b1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9eb638f122d26a1bcf4aee669c7bca22dc121f30a45e4830197e95ebefe0e530",
+  "image_bytes": 132728,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1678",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0216,
+   1.0,
+   0.063
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 209,
+  "completion_tokens": 45,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.17,
+ "created_at": "2026-10-18T11:20:12+00:00",
+ "content": "<x_0.0><y_0.0>B I L B I L S03\nBilizer. Edward, had already had occasion to appreciate. Berlin. All his time was consecrated to some serious Bilirar.<x_0.999><y_0.9875><class_Text>",
+ "reply": {
+  "id": "chatcmpl-e4cece66-fa09-4460-a896-6bc04926f0bd",
+  "object": "chat.completion",
+  "created": 1792322412,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>B I L B I L S03\nBilizer. Edward, had already had occasion to appreciate. Berlin. All his time was consecrated to some serious Bilirar.<x_0.999><y_0.9875><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 209,
+   "completion_tokens": 45,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

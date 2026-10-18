@@ -1,0 +1,519 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+ "row_index": 2277,
+ "volume_id": "192545783",
+ "filename": "page-2277-cdde2fc730b9.jpg",
+ "image_sha256": "cdde2fc730b9b43e147b41385c61a207df3d0519a0ec368e9bbc3b3ecd4432de",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07451,
+  "median_grey": 218,
+  "layout_body_chars": 5263,
+  "layout_pictures": 0
+ },
+ "running_head": "Chap. VI. A N A T O M Y. 271",
+ "layout_raw": "page-2277-cdde2fc730b9/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0583,
+    1.0,
+    0.0889
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2277-cdde2fc730b9/head.json",
+   "finish_reason": "stop",
+   "request_key": "b0533a6fd077d1370e87b2453f7b9b98ca792365c84ad73af794ce24856b969f"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0583,
+    0.4517,
+    0.7468
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0583,
+     0.1444,
+     0.4433
+    ],
+    [
+     0.1444,
+     0.2304,
+     0.4467
+    ],
+    [
+     0.2304,
+     0.3165,
+     0.4467
+    ],
+    [
+     0.3165,
+     0.4026,
+     0.445
+    ],
+    [
+     0.4026,
+     0.4886,
+     0.4467
+    ],
+    [
+     0.4886,
+     0.5747,
+     0.4467
+    ],
+    [
+     0.5747,
+     0.6607,
+     0.4467
+    ],
+    [
+     0.6607,
+     0.7468,
+     0.4467
+    ]
+   ],
+   "raw_path": "page-2277-cdde2fc730b9/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "9280430e0c39a2831d3485461eccb8d58b3884d4601aca057e2d3efbe671fb3c"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4383,
+    0.0583,
+    1.0,
+    0.7468
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0583,
+     0.1444,
+     0.4433
+    ],
+    [
+     0.1444,
+     0.2304,
+     0.4467
+    ],
+    [
+     0.2304,
+     0.3165,
+     0.4467
+    ],
+    [
+     0.3165,
+     0.4026,
+     0.445
+    ],
+    [
+     0.4026,
+     0.4886,
+     0.4467
+    ],
+    [
+     0.4886,
+     0.5747,
+     0.4467
+    ],
+    [
+     0.5747,
+     0.6607,
+     0.4467
+    ],
+    [
+     0.6607,
+     0.7468,
+     0.4467
+    ]
+   ],
+   "raw_path": "page-2277-cdde2fc730b9/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "6f6fd1b599e349009788d0d9b8409cb3077e40653e3e7c2f8a620e0103b68e80"
+  },
+  {
+   "label": "s1-wide",
+   "crop": [
+    0.0,
+    0.7468,
+    1.0,
+    0.8985
+   ],
+   "scale": 2,
+   "raw_path": "page-2277-cdde2fc730b9/s1-wide.json",
+   "finish_reason": "stop",
+   "request_key": "eaba927e1496a1eb515878bda6204e44c41b24167f90758abf8ccdf8c62371f0"
+  },
+  {
+   "label": "s2-col-left",
+   "crop": [
+    0.0,
+    0.8985,
+    0.4517,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.8985,
+     1.0,
+     0.4467
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  },
+  {
+   "label": "s2-col-right",
+   "crop": [
+    0.4417,
+    0.8985,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.8985,
+     1.0,
+     0.4467
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "Chap. VI. A N A T O M Y. 271",
+   "bbox": [
+    0.0,
+    0.0583,
+    1.0,
+    0.0889
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2277-cdde2fc730b9:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**Chap. VI.**",
+   "bbox": [
+    0.0216,
+    0.0642,
+    0.109,
+    0.0847
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2277-cdde2fc730b9:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "## A N A",
+   "bbox": [
+    0.326,
+    0.0637,
+    0.4248,
+    0.0836
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2277-cdde2fc730b9:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "Of the Brain and Nerves.",
+   "bbox": [
+    0.0207,
+    0.0841,
+    0.0851,
+    0.1298
+   ],
+   "source": "s0-col-left",
+   "id": "page-2277-cdde2fc730b9:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "mufcles. 12 12, The first cervical nerves; 13 13, The feecond cervical nerves; both fpent upon the mufcles that lie on the neck, and teguments of the neck and head. 14 14. The third cervical nerves, which, after fending off (15 15, Sc.) the phrenic nerves to the diaphragm, lupply the mufcles and teguments that lie on the fide of the neck and top of the shoulder. 16 16, The brachial plexus, formed by the fourth, fifth, fixth, feverth cervicals, and frit dorial nerves,--which lupply the mufcles, and teguments of the superior extremity. 17 17, The twelve dorfal, or proper inter- cothal nerves, which are fpent upon the intercothal mufcles and fome of the large mufcles which lie upon the thorax. 18 18, The five lumbar pairs of nerves, which lupply the lumbar and abdominal muscles, and fome of the teguments and mufcles of the inferior extremity. 19 19, The facro-feiatic, or posterior crural nerve, formed by the two inferior lumbar, and three superior of the os facrum. This large nerve fuplies the greatest part of the mufcles and teguments of the inferior extremity. 20, The flomachic plexus, formed by the eighth pair. 21 21, Branches of the folar or celiac plexus, formed by the eighth pair and inter-",
+   "bbox": [
+    0.0834,
+    0.0852,
+    0.442,
+    0.374
+   ],
+   "source": "s0-col-left",
+   "id": "page-2277-cdde2fc730b9:b4"
+  },
+  {
+   "order": 5,
+   "class": "Section-header",
+   "text": "## CHAP. VI. OF THE SENSI",
+   "bbox": [
+    0.2188,
+    0.3907,
+    0.4512,
+    0.4106
+   ],
+   "source": "s0-col-left",
+   "id": "page-2277-cdde2fc730b9:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "140 IN treating of the fenfes, we mean to confine ourfelves to the external ones of _touch_, _taille, fmelling, bearing_, and _vision_. The word _fenfe_, when applied to thefe five, feems to imply not only the fenfation ex cited in the mind by certain impreditions made on the body, but likewise the organ defined to receive and transmit thefe impreditions to the fenforium. Each of thefe organs being of a peculiar structure, is fulceptible only of particular impreditions, which will be pointed out as we proceed to describe each of them fe parately.",
+   "bbox": [
+    0.0362,
+    0.4305,
+    0.4424,
+    0.5699
+   ],
+   "source": "s0-col-left",
+   "id": "page-2277-cdde2fc730b9:b6"
+  },
+  {
+   "order": 7,
+   "class": "Section-header",
+   "text": "**SECT. I.** _Of Touch._",
+   "bbox": [
+    0.1809,
+    0.5768,
+    0.3238,
+    0.5967
+   ],
+   "source": "s0-col-left",
+   "id": "page-2277-cdde2fc730b9:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "141 The fenfe of touch may be defined to be the faculty of dilinguithing certain properties of bodies by the feel. In a general acceptation, this definition might perhaps not improperly be extended to every part of the body protected of fentilbility (r), but it is commonly confined to the nervous papillae of the cutis, or true skin, which, with its appendages, and their several ufes, have been already deferred.",
+   "bbox": [
+    0.0353,
+    0.6016,
+    0.4429,
+    0.7032
+   ],
+   "source": "s0-col-left",
+   "id": "page-2277-cdde2fc730b9:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "The exterior properties of bodies, fuch as their fo-",
+   "bbox": [
+    0.0966,
+    0.7022,
+    0.4415,
+    0.7183
+   ],
+   "source": "s0-col-left",
+   "id": "page-2277-cdde2fc730b9:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "T O M Y.",
+   "bbox": [
+    0.4421,
+    0.0642,
+    0.5847,
+    0.0841
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b10"
+  },
+  {
+   "order": 11,
+   "class": "Head-fragment",
+   "text": "271",
+   "bbox": [
+    0.8278,
+    0.069,
+    0.8661,
+    0.0863
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "coftals, which fupply the flomach and chylopoietic vifcera. 22 22, Branches of the fuperior and inferior mefenteric plexules, formed by the eighth pair and in-tercoftals, which fupply the chylopoietic vifcera, with part of the organs of urine and generation. 23 23, Nerves which accompany the fpermatic cord. 24 24, The hypogattic plexus, which fupplies the organs of urine and generation within the pelvis.",
+   "bbox": [
+    0.4487,
+    0.0847,
+    0.8069,
+    0.1895
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b12"
+  },
+  {
+   "order": 13,
+   "class": "Caption",
+   "text": "FIG. 2, 3, 4, 5. Show different views of the Inferior part of the Brain, cut perpendicularly through the Middle--with the Origin and large portions of all the Nerves which pafs out through the Bones of the Cranium,—and the three frit Cervicals.",
+   "bbox": [
+    0.4514,
+    0.1949,
+    0.8091,
+    0.2606
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "A, The anterior lobe. B, The lateral lobe of the cerebrum. C, One of the lobes of the cerebellum. D, Tuber annulare. E, Corpus pyramidale, in the middle of the medulla oblongata. F, The corpus oli-vare, in the fide of the medulla oblongata. G, The medulla oblongata. H, The medulla ipinalis.",
+   "bbox": [
+    0.4493,
+    0.2589,
+    0.8074,
+    0.3348
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "NERVES.—I 2 3 4 5 6 7 8 and 9, Pairs of nerves. 10 10, Nervus accefforius, which comes from—II, 12, and 13, the three frit cervical nerves.",
+   "bbox": [
+    0.4504,
+    0.3331,
+    0.8064,
+    0.3735
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b15"
+  },
+  {
+   "order": 16,
+   "class": "Section-header",
+   "text": "S, AND THEIR ORGANS.",
+   "bbox": [
+    0.4427,
+    0.3934,
+    0.6687,
+    0.4112
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "lidity, moisture, inequality, fmoothnefs, drynefs, or fluidity, and likewife their degree of heat, feem all to be capable of making different impreflions on the paille, and consequently of exciting different ideas in the fenforium commune. But the organ of touch, like all the other fenfes, is not equally delicate in every part of the body, or in every subject, being in fome much more exquifite than it is in others.",
+   "bbox": [
+    0.4498,
+    0.4311,
+    0.808,
+    0.5349
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b17"
+  },
+  {
+   "order": 18,
+   "class": "Section-header",
+   "text": "SECT. II. _Of Tafe._",
+   "bbox": [
+    0.5546,
+    0.5429,
+    0.6983,
+    0.5612
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "The fenfe of tafte is feated chiefly in the tongue; the situation and figure of which are flufficiently known.",
+   "bbox": [
+    0.4509,
+    0.5655,
+    0.8058,
+    0.5951
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "On the upper surface of this organ we may observe a great number of papillae, which, on account of their difference in fize and shape, are commonly divided into three clafles. The largest are fituated towards the bafis of the tongue. Their number commonly varies from seven to nine, and they feem to be mucous follicles. Thofe of the second clafs are fomewhat smaller, and of a cylindrical shape. They are molt numerous about the middle of the tongue. Thofe of the third clafs are very minute, and of a conical shape. They",
+   "bbox": [
+    0.4482,
+    0.5935,
+    0.8053,
+    0.721
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b20"
+  },
+  {
+   "order": 21,
+   "class": "Page-footer",
+   "text": "142",
+   "bbox": [
+    0.8233,
+    0.5699,
+    0.8481,
+    0.5849
+   ],
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b21"
+  },
+  {
+   "order": 22,
+   "class": "Head-fragment",
+   "text": "T OM Y.",
+   "bbox": [
+    0.4383,
+    0.0664,
+    0.5837,
+    0.0836
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2277-cdde2fc730b9:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "(v) In the courfe of this article, mention has often been made of the fenlibility or infenfiblity of different parts of the body: it will therefore, perhaps, not be amifs to obferve in this place, that many parts which were formerly luppofed to poffels the molt exquifite fenfe, are now known to have but little or no feeling, at leaf in a found flate; for in an inflamed flate, even the bones, the most infenible parts of any, become susceptible of the molt painful fenfations. This curious difecovery is due to the late Baron Haller. His experiments prove, that the bones, cartilages, ligaments, tendons, epidermis, and membranes (as the pleura, pericardium, dura and pia mater, periolteum, &c), may in a healthy flate be confidered as infenible. As fenlibibility depends on the brain and nerves, of course different parts will poffels a greater or lets degree of feeling, in proportion as they are lupplied with a greater or smaller number of nerves. Upon this principle it is, that the film, mufeles, Romach, intestines, urinary bladder, ureters, uterus, vagina, penis, tongue, and retina, are extremely fenlible, while the lungs and glands have only an obfecure degree of feeling.",
+   "bbox": [
+    0.0742,
+    0.7468,
+    0.8076,
+    0.8979
+   ],
+   "source": "s1-wide",
+   "id": "page-2277-cdde2fc730b9:b23"
+  }
+ ]
+}

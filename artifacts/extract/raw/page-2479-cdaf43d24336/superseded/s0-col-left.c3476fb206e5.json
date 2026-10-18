@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "c3476fb206e55f613d7b658215148707364ccde1bfcc397cb7d6dbb8eff9349d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "14e69dcd4ef926ef598e937fa03da29ffe638c307a1f22c3aa5ddf8db78817a9",
+  "image_bytes": 2801049,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2479",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0733,
+   0.5333,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0733,
+    0.1575,
+    0.5283
+   ],
+   [
+    0.1575,
+    0.2418,
+    0.5283
+   ],
+   [
+    0.2418,
+    0.326,
+    0.5283
+   ],
+   [
+    0.326,
+    0.4103,
+    0.5283
+   ],
+   [
+    0.4103,
+    0.4945,
+    0.5283
+   ],
+   [
+    0.4945,
+    0.5788,
+    0.5283
+   ],
+   [
+    0.5788,
+    0.663,
+    0.5283
+   ],
+   [
+    0.663,
+    0.7473,
+    0.5283
+   ],
+   [
+    0.7473,
+    0.8315,
+    0.5283
+   ],
+   [
+    0.8315,
+    0.9158,
+    0.5283
+   ],
+   [
+    0.9158,
+    1.0,
+    0.5283
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2715,
+  "completion_tokens": 915,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.35,
+ "created_at": "2026-10-18T11:11:58+00:00",
+ "content": "<x_0.1768><y_0.0>extinguifiable barely by the debtor’s retiring or cancel- ling them, the purfuer, before a proof of the tenor is admitted, mult condefcend on fuch’a _cafus amiifionis_, or accident by which the writing was deltroyed, as flews it was loft when in the creditor’s poffetition ; otherwise bonds that have been cancelled by the debtor on payment, might be reared up as fill fubfitting against him: But in writings which require contrary deeds to extinguith their effect, as allignations, difpoitions, charters, Co. it is sufficient to libel that they were loft, even _cafu fortuito_.<x_0.9795><y_0.1523><class_Text>\n\n<x_0.1748><y_0.15>23. Regularly, no deed can be revived by this action, without fome adminicle in writing, referring to that which is libelled ; for no written obligation ought to be railed up barely on the teftimony of witneffes. If thefe adminicles afford sufficient conviction, that the deed li- belled did once exit, the tenor is admitted to be proved by witneffes, who muff depofe, either that they were pre- fent at figning the deed, or that they afterwards fav it duly fubberbed. Where the relative writings contain all the fubflantial claufes of that which is loft, the tenor is sometimes fuiltained without witnffes. In a writing which is libelled to have contained uncommon claufes, all thefe mull appear by the adminicles. Actions of proving the tenor are, on account of their importance, appropriated to the court of Sellon ; and, by the old form, the telti-mony of the witneffes could not be received, but in pre- fence of all the judges.<x_0.9785><y_0.407><class_Text>\n\n<x_0.1758><y_0.4047>24. The action of double or multiple poinding may be alfo reckoned declaratory. It is competent to a debtor, who is diffreffed, or threatened with diftrefs, by two or more perfons claiming right to the debt, and who therefore brings the feveral claimants into the field, in order to debate and fettle their feveral preferences, that fo he may pay fecurely to him whole right fhall be found preferable. This action is daily purified by an arreftee, in the cafe of feveral arreffments ufed in his hands for the fame debt; or by tenants in the cafe of feveral adjud- gers, all of whom claim right to the fame rents. In thefe competitions, any of the competitors may bring an action of multiple-poinding in name of the tenants, or other debtors, without their confent, or even though they should difclaim the procefs ; fince the law has introduced it as the proper remedy for getting fuch competitions determined: And while the fsubject in controversy continues _in media_, any third person who conceives he has a right to it, may, though he fhould not be cited as a defender, produce his titles, as if he were an original party to the suit, and will be admitted for his intereift in the competition.<x_0.9805><y_0.7375><class_Text>\n\n<x_0.1777><y_0.7344>25 Certain actions may be called acceffory, because they are merely preparatory or fubfervient to other ac- tions. Thus, exhibitions _ad deliberandum_, at the in- fltance of an heir againlt the creditors or cuttodiers of his anceller's writings, are intended only to pave the way for future proceffes. An action of transference is alfo of this fort, whereby an action during the pendency of which the defender happens to die, is craved to be tranf- ferred againlt his reprehensative, in the fame condition in which it flood formerly. Upon the purfuer’s death, his heir may infilt in the caule againlt the defender, upon producing, either a retour or a confirmed teltament, ac-<x_0.9814><y_0.9203><class_Text>",
+ "reply": {
+  "id": "chatcmpl-d23015a7-3cfe-4b28-91c1-570aaa5d1440",
+  "object": "chat.completion",
+  "created": 1792321917,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1768><y_0.0>extinguifiable barely by the debtor’s retiring or cancel- ling them, the purfuer, before a proof of the tenor is admitted, mult condefcend on fuch’a _cafus amiifionis_, or accident by which the writing was deltroyed, as flews it was loft when in the creditor’s poffetition ; otherwise bonds that have been cancelled by the debtor on payment, might be reared up as fill fubfitting against him: But in writings which require contrary deeds to extinguith their effect, as allignations, difpoitions, charters, Co. it is sufficient to libel that they were loft, even _cafu fortuito_.<x_0.9795><y_0.1523><class_Text>\n\n<x_0.1748><y_0.15>23. Regularly, no deed can be revived by this action, without fome adminicle in writing, referring to that which is libelled ; for no written obligation ought to be railed up barely on the teftimony of witneffes. If thefe adminicles afford sufficient conviction, that the deed li- belled did once exit, the tenor is admitted to be proved by witneffes, who muff depofe, either that they were pre- fent at figning the deed, or that they afterwards fav it duly fubberbed. Where the relative writings contain all the fubflantial claufes of that which is loft, the tenor is sometimes fuiltained without witnffes. In a writing which is libelled to have contained uncommon claufes, all thefe mull appear by the adminicles. Actions of proving the tenor are, on account of their importance, appropriated to the court of Sellon ; and, by the old form, the telti-mony of the witneffes could not be received, but in pre- fence of all the judges.<x_0.9785><y_0.407><class_Text>\n\n<x_0.1758><y_0.4047>24. The action of double or multiple poinding may be alfo reckoned declaratory. It is competent to a debtor, who is diffreffed, or threatened with diftrefs, by two or more perfons claiming right to the debt, and who therefore brings the feveral claimants into the field, in order to debate and fettle their feveral preferences, that fo he may pay fecurely to him whole right fhall be found preferable. This action is daily purified by an arreftee, in the cafe of feveral arreffments ufed in his hands for the fame debt; or by tenants in the cafe of feveral adjud- gers, all of whom claim right to the fame rents. In thefe competitions, any of the competitors may bring an action of multiple-poinding in name of the tenants, or other debtors, without their confent, or even though they should difclaim the procefs ; fince the law has introduced it as the proper remedy for getting fuch competitions determined: And while the fsubject in controversy continues _in media_, any third person who conceives he has a right to it, may, though he fhould not be cited as a defender, produce his titles, as if he were an original party to the suit, and will be admitted for his intereift in the competition.<x_0.9805><y_0.7375><class_Text>\n\n<x_0.1777><y_0.7344>25 Certain actions may be called acceffory, because they are merely preparatory or fubfervient to other ac- tions. Thus, exhibitions _ad deliberandum_, at the in- fltance of an heir againlt the creditors or cuttodiers of his anceller's writings, are intended only to pave the way for future proceffes. An action of transference is alfo of this fort, whereby an action during the pendency of which the defender happens to die, is craved to be tranf- ferred againlt his reprehensative, in the fame condition in which it flood formerly. Upon the purfuer’s death, his heir may infilt in the caule againlt the defender, upon producing, either a retour or a confirmed teltament, ac-<x_0.9814><y_0.9203><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2715,
+   "completion_tokens": 915,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

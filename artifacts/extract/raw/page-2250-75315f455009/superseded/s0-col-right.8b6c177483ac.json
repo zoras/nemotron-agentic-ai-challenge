@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "8b6c177483ac17b7b29782cbdf2eec2762d7502180b4fed0b1611d4fd5c86c53",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "2553c7b6fa131fe7080d809dd21a0a3f0bd9c6c4a1837841e26b53cdd3c31055",
+  "image_bytes": 1854093,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4733,
+   0.0772,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0772,
+    0.1611,
+    0.48
+   ],
+   [
+    0.1611,
+    0.245,
+    0.48
+   ],
+   [
+    0.245,
+    0.3289,
+    0.48
+   ],
+   [
+    0.3289,
+    0.4128,
+    0.48
+   ],
+   [
+    0.4128,
+    0.4967,
+    0.48
+   ],
+   [
+    0.4967,
+    0.5805,
+    0.48
+   ],
+   [
+    0.5805,
+    0.6644,
+    0.48
+   ],
+   [
+    0.6644,
+    0.7483,
+    0.48
+   ],
+   [
+    0.7483,
+    0.8322,
+    0.48
+   ],
+   [
+    0.8322,
+    0.9161,
+    0.4783
+   ],
+   [
+    0.9161,
+    1.0,
+    0.48
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2543,
+  "completion_tokens": 743,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.15,
+ "created_at": "2026-10-18T11:11:43+00:00",
+ "content": "<x_0.0518><y_0.0>of the leaves and wood has been recommended as a powerful fudorific; but is not now ufed by practitioners. The wood is of a hard clofe texture, and is greatly ufed by mechanics for tools of various kinds.<x_0.8311><y_0.0594><class_Text>\n\n<x_0.0254><y_0.0578>BUYS, a town of Dauphine, in France, situated on the confines of Provence; E. long. 5° 20’, and N. lat. 44° 25’.<x_0.8301><y_0.1039><class_Text>\n\n<x_0.0264><y_0.1031>BUZZARD, in ornithology, the Englith name of fever-ral species of the hawk kind. See FALCO.<x_0.8281><y_0.1336><class_Text>\n\n<x_0.0273><y_0.132>BYGHOF, or BYGOW, a city of Lithuania in Poland, fituated on the river Nieper; E. long. 30°, and N. lat. 53°.<x_0.8291><y_0.1781><class_Text>\n\n<x_0.0283><y_0.1766>BY-LAWS, or BYE-LAWS, private and peculiar laws for the good government of a city, court, or other community, made by the general content of the members.<x_0.832><y_0.2359><class_Text>\n\n<x_0.0596><y_0.2352>All by-laws are to be reafonable, and for the common benefit, not private advantage of any particular perfons, and must be agreeable to the public laws in being.<x_0.833><y_0.2953><class_Text>\n\n<x_0.0244><y_0.2938>BYRLAW, or _Pyrlaw lawn_, in Scotland, are made and determined by neighbours, elected by common content in byrlaw courts. The men chofen as judges, are called byrlaw or barlaw men, and take cognizance of complaints between neighbour and neighbour.<x_0.8271><y_0.3727><class_Text>\n\n<x_0.0234><y_0.3703>BYRRHUS, in zoology, an order of infects belonging to the order of colcoptera. The feelers are clavated, pretty folid, and a little compreffed. There are five figures, all of which are to be found on particular plants, and principally diftinguified from each other by the colour and figure of the clytra or crultaceous wing cafes.<x_0.835><y_0.475><class_Text>\n\n<x_0.0225><y_0.4727>BYSSUS, in botany; a genus of moffes belonging to the cryptogamia algae. The character is taken from this circumstance, that they are covered with a timple capillary filament or down, refembling foft duft. The species are r5, all natives of Britain.<x_0.8262><y_0.5492><class_Text>\n\n<x_0.0215><y_0.5469>BYSSUS, in antiquity, that fine Egyptian linen where- of the tunics of the Jewish prieils were made.<x_0.8252><y_0.5789><class_Text>\n\n<x_0.0527><y_0.5766>Philo fays, that the byflus is the clearell and molt beautiful, the whitelt, frongelt, and molt gloify fort of linen; that it is not made of any thing mortal, that is to lay, of wool, or the skin of any animal, but that it comes out of the earth, and becomes always whiter, and more thinning, when it is walked as it should be.<x_0.8242><y_0.6805><class_Text>\n\n<x_0.0205><y_0.6781>BYZANT. See BEZANT.<x_0.4229><y_0.6945><class_Text>\n\n<x_0.0195><y_0.693>BYZANTIUM, the ancient name of Confiantinople. See CONSTANTINOPLE.<x_0.8213><y_0.7242><class_Text>\n\n<x_0.0186><y_0.7219>BZO, a town of Africa, in the kingdom of Morocco.<x_0.79><y_0.7406><class_Text>\n\n<x_0.2666><y_0.7391>8 O.<x_0.3408><y_0.7531><class_Text>\n\n<x_0.0><y_0.8336>I R S T V OL U M E .<x_0.5127><y_0.8594><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-bfce9bab-82ed-40df-a8eb-6747652bfdcd",
+  "object": "chat.completion",
+  "created": 1792321902,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0518><y_0.0>of the leaves and wood has been recommended as a powerful fudorific; but is not now ufed by practitioners. The wood is of a hard clofe texture, and is greatly ufed by mechanics for tools of various kinds.<x_0.8311><y_0.0594><class_Text>\n\n<x_0.0254><y_0.0578>BUYS, a town of Dauphine, in France, situated on the confines of Provence; E. long. 5° 20’, and N. lat. 44° 25’.<x_0.8301><y_0.1039><class_Text>\n\n<x_0.0264><y_0.1031>BUZZARD, in ornithology, the Englith name of fever-ral species of the hawk kind. See FALCO.<x_0.8281><y_0.1336><class_Text>\n\n<x_0.0273><y_0.132>BYGHOF, or BYGOW, a city of Lithuania in Poland, fituated on the river Nieper; E. long. 30°, and N. lat. 53°.<x_0.8291><y_0.1781><class_Text>\n\n<x_0.0283><y_0.1766>BY-LAWS, or BYE-LAWS, private and peculiar laws for the good government of a city, court, or other community, made by the general content of the members.<x_0.832><y_0.2359><class_Text>\n\n<x_0.0596><y_0.2352>All by-laws are to be reafonable, and for the common benefit, not private advantage of any particular perfons, and must be agreeable to the public laws in being.<x_0.833><y_0.2953><class_Text>\n\n<x_0.0244><y_0.2938>BYRLAW, or _Pyrlaw lawn_, in Scotland, are made and determined by neighbours, elected by common content in byrlaw courts. The men chofen as judges, are called byrlaw or barlaw men, and take cognizance of complaints between neighbour and neighbour.<x_0.8271><y_0.3727><class_Text>\n\n<x_0.0234><y_0.3703>BYRRHUS, in zoology, an order of infects belonging to the order of colcoptera. The feelers are clavated, pretty folid, and a little compreffed. There are five figures, all of which are to be found on particular plants, and principally diftinguified from each other by the colour and figure of the clytra or crultaceous wing cafes.<x_0.835><y_0.475><class_Text>\n\n<x_0.0225><y_0.4727>BYSSUS, in botany; a genus of moffes belonging to the cryptogamia algae. The character is taken from this circumstance, that they are covered with a timple capillary filament or down, refembling foft duft. The species are r5, all natives of Britain.<x_0.8262><y_0.5492><class_Text>\n\n<x_0.0215><y_0.5469>BYSSUS, in antiquity, that fine Egyptian linen where- of the tunics of the Jewish prieils were made.<x_0.8252><y_0.5789><class_Text>\n\n<x_0.0527><y_0.5766>Philo fays, that the byflus is the clearell and molt beautiful, the whitelt, frongelt, and molt gloify fort of linen; that it is not made of any thing mortal, that is to lay, of wool, or the skin of any animal, but that it comes out of the earth, and becomes always whiter, and more thinning, when it is walked as it should be.<x_0.8242><y_0.6805><class_Text>\n\n<x_0.0205><y_0.6781>BYZANT. See BEZANT.<x_0.4229><y_0.6945><class_Text>\n\n<x_0.0195><y_0.693>BYZANTIUM, the ancient name of Confiantinople. See CONSTANTINOPLE.<x_0.8213><y_0.7242><class_Text>\n\n<x_0.0186><y_0.7219>BZO, a town of Africa, in the kingdom of Morocco.<x_0.79><y_0.7406><class_Text>\n\n<x_0.2666><y_0.7391>8 O.<x_0.3408><y_0.7531><class_Text>\n\n<x_0.0><y_0.8336>I R S T V OL U M E .<x_0.5127><y_0.8594><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2543,
+   "completion_tokens": 743,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

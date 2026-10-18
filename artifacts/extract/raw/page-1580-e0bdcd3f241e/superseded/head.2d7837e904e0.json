@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "2d7837e904e0f94300a1f5bc510bccdcbaca1ebd0d289e056a3bf897c6237fe7",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "41dfb7865a0d95fa07805c1db9def69259073a8204a288f78dbe931c279743d2",
+  "image_bytes": 135692,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1580",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0106,
+   1.0,
+   0.0505
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 214,
+  "completion_tokens": 50,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.15,
+ "created_at": "2026-10-18T11:20:07+00:00",
+ "content": "<x_0.0><y_0.0>TRIGONOMETRY. 909.\nb to their difference or: 1.23232 Alfo the angle C is found by the fame cafe, thus:<x_0.999><y_0.9859><class_Text>",
+ "reply": {
+  "id": "chatcmpl-0dd986c0-687d-4475-847f-97de6f6401b9",
+  "object": "chat.completion",
+  "created": 1792322407,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>TRIGONOMETRY. 909.\nb to their difference or: 1.23232 Alfo the angle C is found by the fame cafe, thus:<x_0.999><y_0.9859><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 214,
+   "completion_tokens": 50,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "070d10079bd58df1f73769a1a714f3cba721dc58c7dd0854233b07ae7161b4a0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "b7c7d6bfacdeda0be7ec5225439c2c3fded4a75f4b52d9a235edda826f972af8",
+  "image_bytes": 1153370,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1580",
+  "variant": "s0-wide.b",
+  "crop": [
+   0.0,
+   0.5244,
+   1.0,
+   1.0
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 901,
+  "total_tokens": 1786,
+  "completion_tokens": 885,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.09,
+ "created_at": "2026-10-18T11:11:04+00:00",
+ "content": "<x_0.0439><y_0.0>\\begin{tabular}{cc}\nof may be found by theorem 4. thus: & \\\\\nAs the bafe AC 185 7 & 2 26893\\\\\nTo the fum of the fides AB and BC 240 & 2 38031\\\\\nSo is the difference of the fides 72 & 1 85733\\\\\nTo the diff. of the fragments of the bafe 93 & 1.96871\\\\\nAnd having the fum of the legments _viz_. the whole bafe, and their difference, we find the legments themfelves, by theorem 3. thus: & \\\\\nTo half the fum of the legments & 92.8\\\\\nAnd half their difference & 46.5\\\\\nAnd the fum is the greater fragment AD & 139.3\\\\\nAlfo from half the fum of the legment & 92.8\\\\\nTake half their difference & 46.5\\\\\nThe remainder is the leffer segment DC & 46.3\\\\\nNow the triangle ABC is divided, by the perpendicular DB, into two right-angled triangles, ADB and DBC; in the drift of which are given the hypothenule AB=156, and the bafe AD=139.3, to find the oblique angles, for which we have (by Cafe V. of rectangular trigonometry) the following analogy, viz. & \\\\\nAs AB 156 & 2.19312\\\\\nTo AD 139 3 & 2.14395\\\\\nSo is the radius 90° & 10 00000\\\\\nTo the co-face of the angle A 26° 40' & 9.95083\\\\\n\\end{tabular}<x_0.4619><y_0.8187><class_Table>\n\n<x_0.4727><y_0.0>DEMONSTRATION. Let EDA F G (_ibid._ fig. 3.) re-prefent the eighth part of a fphere, where the quadrantal planes EDFG, EDBC, are both perpendicular to the quadrantal plane ADFB; and the quadrantal plane ADGC is perpendicular to the plane EDFG; and the spherical tri-angle ABC is right-angled at B, where CA is the hypo- thenufe, and BA, BC, are the legs.<x_0.8936><y_0.2016><class_Text>\n\n<x_0.4717><y_0.2023>To the arches GF. CB, draw the tangents HF, OB, and the fines GM CI on the radii DF DB; alfo draw BL the fine of the arch AB, and CK the fine of AC; and then join IK and OL Now HF, OB, GM, CI, are all perpendicular to the plane ADFB. And HD, GK, OL, lie all in the fame plane ADGC. Alfo FD, IK, BL, lie all in the fame plane ADGC. Therefore, the right-angled triangles HFD, CIK, ODL, having the equal angles HDF, CKI, OLB, are familiar. And CK :DG :: CI :GM; that is, as the fine of the hypothenute rad. :: fine of a leg: fine of its opposite angle. For GM is the fine of the arc GF, which measures the angle CAB. Alfo, LB: DF :: BO : FH; that is, as the fine of a leg: radius :: tangent of the other leg : tangent of its opposite angle, Q. E. D. Hence it follows, that the fines of the angles of any oblique fspherical triangle ACD (_ibid. n° 2.) are to one ano-ther, directly, as the fines of the opposite fides. Hence it alfo follows, that, in right-angled spherical triangles, having the fame perpendicular, the fines of the bafes will be to each other, inverfely, as the tangents of the angles at the bafes.<x_0.8945><y_0.8148><class_Text>\n\n<x_0.8115><y_0.8102>THISORM<x_0.8916><y_0.8422><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-c09c5791-6684-4534-9bba-25d37f188db8",
+  "object": "chat.completion",
+  "created": 1792321863,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0439><y_0.0>\\begin{tabular}{cc}\nof may be found by theorem 4. thus: & \\\\\nAs the bafe AC 185 7 & 2 26893\\\\\nTo the fum of the fides AB and BC 240 & 2 38031\\\\\nSo is the difference of the fides 72 & 1 85733\\\\\nTo the diff. of the fragments of the bafe 93 & 1.96871\\\\\nAnd having the fum of the legments _viz_. the whole bafe, and their difference, we find the legments themfelves, by theorem 3. thus: & \\\\\nTo half the fum of the legments & 92.8\\\\\nAnd half their difference & 46.5\\\\\nAnd the fum is the greater fragment AD & 139.3\\\\\nAlfo from half the fum of the legment & 92.8\\\\\nTake half their difference & 46.5\\\\\nThe remainder is the leffer segment DC & 46.3\\\\\nNow the triangle ABC is divided, by the perpendicular DB, into two right-angled triangles, ADB and DBC; in the drift of which are given the hypothenule AB=156, and the bafe AD=139.3, to find the oblique angles, for which we have (by Cafe V. of rectangular trigonometry) the following analogy, viz. & \\\\\nAs AB 156 & 2.19312\\\\\nTo AD 139 3 & 2.14395\\\\\nSo is the radius 90° & 10 00000\\\\\nTo the co-face of the angle A 26° 40' & 9.95083\\\\\n\\end{tabular}<x_0.4619><y_0.8187><class_Table>\n\n<x_0.4727><y_0.0>DEMONSTRATION. Let EDA F G (_ibid._ fig. 3.) re-prefent the eighth part of a fphere, where the quadrantal planes EDFG, EDBC, are both perpendicular to the quadrantal plane ADFB; and the quadrantal plane ADGC is perpendicular to the plane EDFG; and the spherical tri-angle ABC is right-angled at B, where CA is the hypo- thenufe, and BA, BC, are the legs.<x_0.8936><y_0.2016><class_Text>\n\n<x_0.4717><y_0.2023>To the arches GF. CB, draw the tangents HF, OB, and the fines GM CI on the radii DF DB; alfo draw BL the fine of the arch AB, and CK the fine of AC; and then join IK and OL Now HF, OB, GM, CI, are all perpendicular to the plane ADFB. And HD, GK, OL, lie all in the fame plane ADGC. Alfo FD, IK, BL, lie all in the fame plane ADGC. Therefore, the right-angled triangles HFD, CIK, ODL, having the equal angles HDF, CKI, OLB, are familiar. And CK :DG :: CI :GM; that is, as the fine of the hypothenute rad. :: fine of a leg: fine of its opposite angle. For GM is the fine of the arc GF, which measures the angle CAB. Alfo, LB: DF :: BO : FH; that is, as the fine of a leg: radius :: tangent of the other leg : tangent of its opposite angle, Q. E. D. Hence it follows, that the fines of the angles of any oblique fspherical triangle ACD (_ibid. n° 2.) are to one ano-ther, directly, as the fines of the opposite fides. Hence it alfo follows, that, in right-angled spherical triangles, having the fame perpendicular, the fines of the bafes will be to each other, inverfely, as the tangents of the angles at the bafes.<x_0.8945><y_0.8148><class_Text>\n\n<x_0.8115><y_0.8102>THISORM<x_0.8916><y_0.8422><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 901,
+   "total_tokens": 1786,
+   "completion_tokens": 885,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

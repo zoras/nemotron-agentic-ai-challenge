@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "86d50676c623a02fe4ec90fe43dfa0888ea5d1064190e9d03a183a8b77bf58ad",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "2eef4fec2fd451fcb34870041a50d8eac815b81dc3eff6deeb7edc4691f471ac",
+  "image_bytes": 2082066,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2570",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5283,
+   0.0608,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0608,
+    0.1462,
+    0.5333
+   ],
+   [
+    0.1462,
+    0.2316,
+    0.5333
+   ],
+   [
+    0.2316,
+    0.3169,
+    0.5333
+   ],
+   [
+    0.3169,
+    0.4023,
+    0.5333
+   ],
+   [
+    0.4023,
+    0.4877,
+    0.5333
+   ],
+   [
+    0.4877,
+    0.5731,
+    0.5333
+   ],
+   [
+    0.5731,
+    0.6585,
+    0.5333
+   ],
+   [
+    0.6585,
+    0.7439,
+    0.5333
+   ],
+   [
+    0.7439,
+    0.8292,
+    0.5333
+   ],
+   [
+    0.8292,
+    0.9146,
+    0.5333
+   ],
+   [
+    0.9146,
+    1.0,
+    0.5333
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2707,
+  "completion_tokens": 1035,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.63,
+ "created_at": "2026-10-18T11:12:06+00:00",
+ "content": "<x_0.0156><y_0.0>the kingdom, and was already the highest subject in it. Scarce was he seated on the throne, however, when a dangerous conspiracy was formed against him by the very persons by whom he had been placed upon it. Oustas baffled their designs, by seizing the principal conspirators before they had time to bring their schemes to a bearing: and several people of the first rank were condemned to lose their noses, or to be put to death. After this the emperor undertook an expedition a-gainst the Shangalla, according to the barbarous cus-tom of the Abyssinian monarchs, who hunt these poor people merely for the sake of making slaves; slaughtering the men without mercy, as well as many of the women, and carrying off only the boys and girls into captivity. In this he met with perfect success ; and was about to attempt the conquest of the whole coun-try, when he was called back by the news that his prime minister Tafa Christos was dead. While the emperor remained in his capital at Gondar, he was ta-ken suddenly ill ; which he imputed at first to witch-craft, and therefore used some antidotes ; among which the smoking of the palace with gunpowder was one. But this was done so carelessly by the servants, that the whole building was consumed ; an accident look-ed upon by the people in general as a very bad omen, especially as the king's complaint increased every day. At last the principal officers came to pay him a visit of condolence, as they pretended ; but in reality to ob-serve the nature of his distemper, and to consult whe-ther or not it was likely to continue till they could fall upon means to deprive him of the government. Ou-stas understood their intentions, and therefore summon-ed all his strength to assume for a moment the appear-ance of health ; so that the officers found him as usual engaged in business. Being thus disconcerted, it be-came necessary to make some apology for a visit so ex-traordinary and formal ; for which they were at first somewhat at a loss ; on recollection, however, they told him, that hearing he had been sick, which they happily found was not the case, they had come to make a proposal concerning the succession ; professing a de-sire that he would quiet the minds of his own family, and of the people in general, by appointing his son Fa-sil successor to the throne after his decease. Oustas gave them an equivocal answer; but the discourse con-cerning Fasil happening to be overheard by the sol-diers, a violent mutiny ensued, and all the officers who had come to visit Oustas were killed. Part of the town was set on fire in the confusion ; and at last a proclamation was made, that David son of Yasous was king of Abyssinia. The prince was then sent for from the mountain, and arriving at Gondar, was crowned on the 30th of January 1714. The distemper of Oustas, in the mean time continuing to increase, he died on the 10th of February the same year.<x_0.9688><y_0.7766><class_Text>\n\n<x_0.0322><y_0.7758>The new emperor was a rigid Alexandrian in principle ; but Oustas had been so far favourable to the Catholics as to entertain some of their priests, though in a private manner. As it was the custom, however, to call a convocation of the clergy on the accession of every new emperor, the monks and others insisted up-on one being called on the present occasion ; the more especially that a new Abuna was come from Egypt, and the lenity shewn to the Catholics by Oustas had excited the jealousy of the Abyssinian clergy in the<x_0.8506><y_0.9203><class_Text>\n\n<x_0.835><y_0.0>Abyssielz<x_0.9697><y_0.0148><class_Caption>\n\n<x_0.834><y_0.2383>The em- peror fall sick.<x_0.9658><y_0.2797><class_Caption>\n\n<x_0.8389><y_0.6094>Oustas de- posed, and David pro claimed emperor.<x_0.9707><y_0.6719><class_Caption>\n\n<x_0.8408><y_0.7383>Denth of Oustas<x_0.96><y_0.7656><class_Caption>\n\n<x_0.8398><y_0.7781>Reign el Reign el\nCatholies as to entertain some of their priests, though in a private manner. As it was the custom, however, to call a convocation of the clergy on the accession of every new emperor, the monks and others insisted up-on one being called on the present occasion ; the more especially that a new Abuna was come from Egypt, and the lenity shewn to the Catholics by Oustas had excited the jealousy of the Abyssinian clergy in the<x_0.9541><y_0.9336><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-b224f486-24d5-43b4-b961-fdd8f368304f",
+  "object": "chat.completion",
+  "created": 1792321925,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0156><y_0.0>the kingdom, and was already the highest subject in it. Scarce was he seated on the throne, however, when a dangerous conspiracy was formed against him by the very persons by whom he had been placed upon it. Oustas baffled their designs, by seizing the principal conspirators before they had time to bring their schemes to a bearing: and several people of the first rank were condemned to lose their noses, or to be put to death. After this the emperor undertook an expedition a-gainst the Shangalla, according to the barbarous cus-tom of the Abyssinian monarchs, who hunt these poor people merely for the sake of making slaves; slaughtering the men without mercy, as well as many of the women, and carrying off only the boys and girls into captivity. In this he met with perfect success ; and was about to attempt the conquest of the whole coun-try, when he was called back by the news that his prime minister Tafa Christos was dead. While the emperor remained in his capital at Gondar, he was ta-ken suddenly ill ; which he imputed at first to witch-craft, and therefore used some antidotes ; among which the smoking of the palace with gunpowder was one. But this was done so carelessly by the servants, that the whole building was consumed ; an accident look-ed upon by the people in general as a very bad omen, especially as the king's complaint increased every day. At last the principal officers came to pay him a visit of condolence, as they pretended ; but in reality to ob-serve the nature of his distemper, and to consult whe-ther or not it was likely to continue till they could fall upon means to deprive him of the government. Ou-stas understood their intentions, and therefore summon-ed all his strength to assume for a moment the appear-ance of health ; so that the officers found him as usual engaged in business. Being thus disconcerted, it be-came necessary to make some apology for a visit so ex-traordinary and formal ; for which they were at first somewhat at a loss ; on recollection, however, they told him, that hearing he had been sick, which they happily found was not the case, they had come to make a proposal concerning the succession ; professing a de-sire that he would quiet the minds of his own family, and of the people in general, by appointing his son Fa-sil successor to the throne after his decease. Oustas gave them an equivocal answer; but the discourse con-cerning Fasil happening to be overheard by the sol-diers, a violent mutiny ensued, and all the officers who had come to visit Oustas were killed. Part of the town was set on fire in the confusion ; and at last a proclamation was made, that David son of Yasous was king of Abyssinia. The prince was then sent for from the mountain, and arriving at Gondar, was crowned on the 30th of January 1714. The distemper of Oustas, in the mean time continuing to increase, he died on the 10th of February the same year.<x_0.9688><y_0.7766><class_Text>\n\n<x_0.0322><y_0.7758>The new emperor was a rigid Alexandrian in principle ; but Oustas had been so far favourable to the Catholics as to entertain some of their priests, though in a private manner. As it was the custom, however, to call a convocation of the clergy on the accession of every new emperor, the monks and others insisted up-on one being called on the present occasion ; the more especially that a new Abuna was come from Egypt, and the lenity shewn to the Catholics by Oustas had excited the jealousy of the Abyssinian clergy in the<x_0.8506><y_0.9203><class_Text>\n\n<x_0.835><y_0.0>Abyssielz<x_0.9697><y_0.0148><class_Caption>\n\n<x_0.834><y_0.2383>The em- peror fall sick.<x_0.9658><y_0.2797><class_Caption>\n\n<x_0.8389><y_0.6094>Oustas de- posed, and David pro claimed emperor.<x_0.9707><y_0.6719><class_Caption>\n\n<x_0.8408><y_0.7383>Denth of Oustas<x_0.96><y_0.7656><class_Caption>\n\n<x_0.8398><y_0.7781>Reign el Reign el\nCatholies as to entertain some of their priests, though in a private manner. As it was the custom, however, to call a convocation of the clergy on the accession of every new emperor, the monks and others insisted up-on one being called on the present occasion ; the more especially that a new Abuna was come from Egypt, and the lenity shewn to the Catholics by Oustas had excited the jealousy of the Abyssinian clergy in the<x_0.9541><y_0.9336><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2707,
+   "completion_tokens": 1035,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

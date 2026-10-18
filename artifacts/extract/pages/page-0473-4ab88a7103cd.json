@@ -1,0 +1,404 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:473",
+ "row_index": 473,
+ "volume_id": "192984255",
+ "filename": "page-0473-4ab88a7103cd.jpg",
+ "image_sha256": "4ab88a7103cd8f6c0c4f49cde0370890e3cbca2af72a6a90f8e7db56d053c32d",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10196,
+  "median_grey": 199,
+  "layout_body_chars": 6659,
+  "layout_pictures": 0
+ },
+ "running_head": "466 CONCHOLO GY. Chap. 1",
+ "layout_raw": "page-0473-4ab88a7103cd/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.045,
+    1.0,
+    0.071
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0473-4ab88a7103cd/head.json",
+   "finish_reason": "stop",
+   "request_key": "c498b444d91c9480ab5489cf98a4ebbd7c65317c227425c420cf3204132346a5"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.045,
+    0.5567,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.045,
+     0.1318,
+     0.5517
+    ],
+    [
+     0.1318,
+     0.2186,
+     0.5517
+    ],
+    [
+     0.2186,
+     0.3055,
+     0.5517
+    ],
+    [
+     0.3055,
+     0.3923,
+     0.5517
+    ],
+    [
+     0.3923,
+     0.4791,
+     0.5517
+    ],
+    [
+     0.4791,
+     0.5659,
+     0.5517
+    ],
+    [
+     0.5659,
+     0.6527,
+     0.5517
+    ],
+    [
+     0.6527,
+     0.7395,
+     0.5517
+    ],
+    [
+     0.7395,
+     0.8264,
+     0.5517
+    ],
+    [
+     0.8264,
+     0.9132,
+     0.5517
+    ],
+    [
+     0.9132,
+     1.0,
+     0.5517
+    ]
+   ],
+   "raw_path": "page-0473-4ab88a7103cd/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "6fbe86468821e1714fabbd7ca5128365968a35f03544345e7fbf5c242a8b2449"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5467,
+    0.045,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.045,
+     0.1318,
+     0.5517
+    ],
+    [
+     0.1318,
+     0.2186,
+     0.5517
+    ],
+    [
+     0.2186,
+     0.3055,
+     0.5517
+    ],
+    [
+     0.3055,
+     0.3923,
+     0.5517
+    ],
+    [
+     0.3923,
+     0.4791,
+     0.5517
+    ],
+    [
+     0.4791,
+     0.5659,
+     0.5517
+    ],
+    [
+     0.5659,
+     0.6527,
+     0.5517
+    ],
+    [
+     0.6527,
+     0.7395,
+     0.5517
+    ],
+    [
+     0.7395,
+     0.8264,
+     0.5517
+    ],
+    [
+     0.8264,
+     0.9132,
+     0.5517
+    ],
+    [
+     0.9132,
+     1.0,
+     0.5517
+    ]
+   ],
+   "raw_path": "page-0473-4ab88a7103cd/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "a4b6054faeceb4f814824f8dc00a666e06f87897753fd69ba001a7f573958740"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "466 CONCHOLO GY. Chap. 1",
+   "bbox": [
+    0.0,
+    0.045,
+    1.0,
+    0.071
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0473-4ab88a7103cd:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "466",
+   "bbox": [
+    0.0914,
+    0.0503,
+    0.1337,
+    0.0689
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0473-4ab88a7103cd:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "CONCH",
+   "bbox": [
+    0.4018,
+    0.051,
+    0.5431,
+    0.0704
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0473-4ab88a7103cd:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "Of the Con-\nfitcent Parts of Shells, &c.",
+   "bbox": [
+    0.0892,
+    0.0696,
+    0.1588,
+    0.1219
+   ],
+   "source": "s0-col-left",
+   "id": "page-0473-4ab88a7103cd:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Some fpecies of patella, which were brought from Madeira, were alfo tubjected to chemical examination, by the fame philofopher. When exposed to a red heat in a crucible, they emitted a perceptible fmell of horn or feathers ; and by farther examination, by folution, the proportion of carbonic matter depoifited appeared to be greater, and the proportion of carbonate of lime lefs, than what was indicated by the refult of the experiments on porcellaneous fhells. When unburnt fhells belonging to the fame fspecies, were immersed in nitric acid very much diluted, the epidermis separated, and the whole of the carbonate of lime was diffolved. A gelatinous fubflance, nearly in a liquid flate, remain ed, but it did not retain the figure of the fhell, and exhibited no appearance of a fibrous structure. Thefe fhells, therefore, contain a larger portion of gelatinous matter than the porcellancous fhells, but the other component part contilis entirely of carbonate of lime.",
+   "bbox": [
+    0.1582,
+    0.0711,
+    0.5453,
+    0.3039
+   ],
+   "source": "s0-col-left",
+   "id": "page-0473-4ab88a7103cd:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "_Shells compoefed of mother-of-pearl._--Shells of this defeription were subjected to familiar experiments with the former. When the common oyfter was expofed to a red heat, the effects were the fame as thofe which were produced by the fame procefs on the fpecies of patella from Madeira. The foliation of the unburnt fhell was alfo familiar, excepting only that the gelatinous part was of a greater conflitency. When the river muffel was burnt in a crucible, it emitted much fmoke, with a strong fmell of burnt horn or cartilage ; the fhell became of a dark gray colour, and exfoliated. By foliation in the acids, the proportion of carbonic matter feparated was greater, and that of carbonate of lime obtained was lefs, than from the other fhells on which experiments were made.",
+   "bbox": [
+    0.1577,
+    0.3047,
+    0.5447,
+    0.4979
+   ],
+   "source": "s0-col-left",
+   "id": "page-0473-4ab88a7103cd:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "When an unburnt fhell of this defeription was immerfed in diluted nitric acid, a rapid foliation and effervefence took place ; and at the end of two days, the whole of the carbonate of lime was nearly diffolved. A feries of membranes now only remained, of which the epidermis constituted the firft. Thefe membranes fill retained the figure of the fhell. The carbonate of lime was at firft readily diffused, because the acid came easily in contact with it ; but the procefs became flower, as it was more difficult for the acid to infinuate itself between the different membranes of which the shell is composed. The haliotis iris, and the turbo olearius, were found to resemble this muffel, except that the membranaceus parts were more compact and denfe.",
+   "bbox": [
+    0.1571,
+    0.4971,
+    0.5442,
+    0.6912
+   ],
+   "source": "s0-col-left",
+   "id": "page-0473-4ab88a7103cd:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "When thefe fhells are deprived by an acid of the carbonate of lime, which gives them their hardness, they appear to be formed of different membranes, applied fratum fuper fratum. Each membrane is fur nified with a corresponding coat or cruft of carbonate of lime, and it is fo lituated, that it is always between every two membranes, beginning with the epidermis, and ending with the internal membrane, which has been left formed. The animals which inhabit thefe stratified fhells, increase their habitation by the addition of a fratum of carbonate of lime, which is fe cured by a new membrane. And as every additional fratum exceeds in extent that which was previously formed, the fhell becomes stronger in proportion as it is enlarged ; and thus the growth and age of the animal may be denoted by the number of frata of which the fhell is compoiled. Similar experiments were made",
+   "bbox": [
+    0.1593,
+    0.6918,
+    0.5458,
+    0.9142
+   ],
+   "source": "s0-col-left",
+   "id": "page-0473-4ab88a7103cd:b7"
+  },
+  {
+   "order": 8,
+   "class": "Head-fragment",
+   "text": "**O LO GY.**",
+   "bbox": [
+    0.5502,
+    0.048,
+    0.6959,
+    0.0704
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0473-4ab88a7103cd:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "**Chap. 1**",
+   "bbox": [
+    0.9177,
+    0.051,
+    0.9867,
+    0.0734
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0473-4ab88a7103cd:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "on pieces of mother-of-pearl as they are imported from China, and with precisely the fame refults. They ap- peared to be compoefed of the fame gelatinous matter and carbonate of lime. In all the hells of this deferip- tion which were immersed in acids, the membranaceus parts retained the exact figure of the hell, and they appeared distinctly to be compoefed of fibres, arranged in a parallel direction, corresponding to the configura- tion of the hell.",
+   "bbox": [
+    0.5569,
+    0.0711,
+    0.9876,
+    0.1882
+   ],
+   "source": "s0-col-right",
+   "id": "page-0473-4ab88a7103cd:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "_Pearl._--The confituent parts of pearl appear to be Pearl. familiar to thofe of mother-of-pearl. They are compoefed of concentric coats of membrane and carbonate of lime, and refemble in structure the globular, calcareous con- cretions which are known by the name of _politiher._ The iridéfence and undulated appearance of pearl and mother-of- pearl, evidently depend on their lamellated structure and femitranparency.",
+   "bbox": [
+    0.5573,
+    0.189,
+    0.981,
+    0.292
+   ],
+   "source": "s0-col-right",
+   "id": "page-0473-4ab88a7103cd:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "From thefe experiments it appears, that hells are composed of carbonate of lime and gluten. In fome, as part. in the porcellaneous hells, the proportion of carbonate of lime is great, while that of the animal matter is small; and thefe may be regarded as the beginning of the feries; while hells that come under the description of mother-of- pearl are to be placed at the other extremity, having a finaler proportion of carbonate of lime, and a greater proportion of membranaceous fubflance. In the firft the carbonate of lime is merely cemented by the animal matter; in the latter the carbonate of lime ferves to harden the membranaceous fubflance. But between thefe two extremes, in the proportion of carbo- nate of lime and animal gluten, of which all teilaceous fubflances are compoefed, there are no doubt numerous intermediate gradations, arising from the nature of the animal to which they form a covering, its peculiar ha- bits, or mode of life.",
+   "bbox": [
+    0.5564,
+    0.2912,
+    0.9451,
+    0.5255
+   ],
+   "source": "s0-col-right",
+   "id": "page-0473-4ab88a7103cd:b12"
+  },
+  {
+   "order": 13,
+   "class": "Section-header",
+   "text": "## SECT. II. _Of the Formation of Shells._",
+   "bbox": [
+    0.6096,
+    0.5337,
+    0.8898,
+    0.5546
+   ],
+   "source": "s0-col-right",
+   "id": "page-0473-4ab88a7103cd:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "THE hell or covering of teffaceous animals, has been considered as in fome measure analogous to the bones of other animals, although its formation and growth are very different, since it ferves as a bafe or support to the muteles, which are attached to its inter- nal surface. The principal ufe of the hell, however, is to ferve as a covering or defence to the animal.",
+   "bbox": [
+    0.5578,
+    0.5605,
+    0.9456,
+    0.6523
+   ],
+   "source": "s0-col-right",
+   "id": "page-0473-4ab88a7103cd:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "Teltaccous animals are not only extremely different in external form, but alfo in the mode of their production. Some are viviparous, as the moft of thofe which inhabit bivalve hells, multivalves, and even fome of the univalves; while the others, which form the far greater proportion, are oviparous. In one point, how ever, they all agree, that whatever be the mode of production, whether from an egg, or directly from the uterus of the mother, the hell is formed on the body of the young animal, and is proportioned to its bulk.",
+   "bbox": [
+    0.5587,
+    0.653,
+    0.946,
+    0.7822
+   ],
+   "source": "s0-col-right",
+   "id": "page-0473-4ab88a7103cd:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "The beft observations which have yet been made, and the moft elaborate investigation which has hitherto ep- neared, concerning the formation and development of thells, are thofe of the celebrated Reaumur, which were published in the Memoirs of the Academy of Sciences for the year 1709. The fame fulgect has been profecut- ed by other authors, but their reults have been nearly the fame as thofe of this ditinguifhed naturalift. Klein is almost the only author who has advanced a different opinion. In his dissertation concerning the formation",
+   "bbox": [
+    0.5582,
+    0.7814,
+    0.9518,
+    0.9142
+   ],
+   "source": "s0-col-right",
+   "id": "page-0473-4ab88a7103cd:b16"
+  }
+ ]
+}

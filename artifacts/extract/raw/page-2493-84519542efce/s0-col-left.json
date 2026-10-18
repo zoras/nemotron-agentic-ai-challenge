@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "c99581ffde53246b41ade5d6014de3b06a3f33aa3e773fe3d319a0770a9dc172",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "682b77bd54d985e3e57e200d7e7c7d8eb68f5d82c7be540a882574f65d6b3fd8",
+  "image_bytes": 2604836,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2493",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0387,
+   0.545,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0387,
+    0.1188,
+    0.54
+   ],
+   [
+    0.1188,
+    0.1989,
+    0.5383
+   ],
+   [
+    0.1989,
+    0.279,
+    0.5383
+   ],
+   [
+    0.279,
+    0.3591,
+    0.5383
+   ],
+   [
+    0.3591,
+    0.4392,
+    0.5383
+   ],
+   [
+    0.4392,
+    0.5193,
+    0.5383
+   ],
+   [
+    0.5193,
+    0.5995,
+    0.5383
+   ],
+   [
+    0.5995,
+    0.6796,
+    0.5383
+   ],
+   [
+    0.6796,
+    0.7597,
+    0.5383
+   ],
+   [
+    0.7597,
+    0.8398,
+    0.5383
+   ],
+   [
+    0.8398,
+    0.9199,
+    0.5383
+   ],
+   [
+    0.9199,
+    1.0,
+    0.5383
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2722,
+  "completion_tokens": 1050,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.67,
+ "created_at": "2026-10-18T11:21:30+00:00",
+ "content": "<x_0.0811><y_0.0039>598<x_0.1611><y_0.025><class_Page-header>\n\n<x_0.7373><y_0.0>C H E M I<x_0.999><y_0.0234><class_Page-header>\n\n<x_0.082><y_0.0258>Magnefa,\nSec.<x_0.2168><y_0.0492><class_Text>\n\n<x_0.416><y_0.0305>## 3. Sulphite of Magnefia.<x_0.7695><y_0.0484><class_Section-header>\n\n<x_0.2158><y_0.0508>1. The compound of fulphurous acid and magnefia is formed by pafing fulphurous acid gas into two parts of water, with one of carbonate of magnefia. A violent effervefence takes place, with the evolution of heat. The fulphite of magnefia is formed, and precipitated to the bottom in the flat of powder; but with an excess of acid it is re-diffolved, and crytallizes.<x_0.9736><y_0.15><class_List-item>\n\n<x_0.2178><y_0.1484>2. The cryftals of fulphite of magnefia are in the form of depreffed tranfparent tetrahedrons. It has a mild earthy tafte, which foon becomes fentibly fulphu› recous; it has no fmell. Its fpecific gravity is 1.3802.<x_0.9746><y_0.2062><class_List-item>\n\n<x_0.2148><y_0.2047>3. It effloresces in the air, and is flowly converted into fulphate of magnefia. It is foluble in 20 parts of cold water. Boiling water diffolves a greater propor› tion, and from this it crytallizes on cooling. Expofed to heat, this fat becomes vifcid, and by calcination it lofes 0.45 of its weight. If the heat be increased, it is decompoiled; the acid is driven off, and the pure earth remains behind.<x_0.9756><y_0.3133><class_List-item>\n\n<x_0.2559><y_0.3125>The component parts of this fatt are,<x_0.7617><y_0.3297><class_Text>\n\n<x_0.46><y_0.3328>Sulphurous acid 39 Magnefia 16 Water 45<x_0.7314><y_0.3812><class_Formula>\n\n<x_0.6709><y_0.3906>100<x_0.7295><y_0.4031><class_Text>\n\n<x_0.3184><y_0.4148>4. Sulphite of Ammonia and Magnefia.<x_0.8721><y_0.4328><class_Section-header>\n\n<x_0.0898><y_0.4336>1355 _Prepara-_tion.<x_0.1943><y_0.468><class_Text>\n\n<x_0.2256><y_0.4352>1. This triple fatt is formed by decompoting the ful- phite of ammonia by magnefia, or the fulphite of mag- nefa by ammonia, in folution in the cold; or, by mixing together the folutions of the two falts.<x_0.9727><y_0.4922><class_List-item>\n\n<x_0.0908><y_0.4852>1356 Properties.<x_0.2188><y_0.5117><class_Text>\n\n<x_0.2266><y_0.4914>2. This fatt is in tranfparent crytfals, the form of which has not been determined. When it is expofed to the air, it is converted into fulphate of ammonia and magnefia. It is lefs foluble in water than either of the two fulphites of which it is formed. By the action of heat, fulphurous acid is given out, acidulous fulphite of ammonia is fublimed, and there remains behind pure<x_0.9766><y_0.5891><class_List-item>\n\n<x_0.0918><y_0.5406>1357 Action of heat.<x_0.2129><y_0.5742><class_Text>\n\n<x_0.0928><y_0.5883>† Ibid p.85. magnefia †.<x_0.3945><y_0.6039><class_Text>\n\n<x_0.4355><y_0.6047>5. Nitrate of Magnefia.<x_0.7686><y_0.6227><class_Section-header>\n\n<x_0.0947><y_0.6219>1358 History and prepara-tion.<x_0.2344><y_0.6687><class_Text>\n\n<x_0.2295><y_0.6258>1. This compound of nitric acid and magnefia was formerly called _nitre with bafe of magnefia_, and mag- neflan _foltpetre._ It is formed by the direct combina- tion of the acid with the earth. By evaporation it is crytallized.<x_0.9775><y_0.6961><class_List-item>\n\n<x_0.0967><y_0.6922>1359 Properties.<x_0.2275><y_0.7172><class_Text>\n\n<x_0.2285><y_0.6945>2. This felt crytallizes in four-fided rhomboidal prifms, whose fummits are oblique or truncated. Some- times it is in the form of final needles combined in groups. The tafte is penetrating and bitter. The fpecific gravity is 1.736.<x_0.9785><y_0.7648><class_List-item>\n\n<x_0.0957><y_0.7586>1360 Action of water.<x_0.2217><y_0.7945><class_Text>\n\n<x_0.2305><y_0.7641>3. It is deliquefectent in the air, and is foluble in its own weight of cold water. It is more foluble in boiling water, in which it crytallizes on cooling; but it can only be obtained in regular cryftals by flow evapo- ration from its folution in cold water.<x_0.9795><y_0.832><class_List-item>\n\n<x_0.0977><y_0.8266>1361 Of heat.<x_0.2061><y_0.85><class_Text>\n\n<x_0.2354><y_0.8313>4. By the action of heat it undergoes the watery fution ; the water is driven off, and it becomes dry. It is decompofed in a frong heat, gives out a little oxy- gen gas, then nitrous gas, and at latt the nitric acid. The pure earth remains behind.<x_0.9805><y_0.9><class_List-item>\n\n<x_0.2734><y_0.8992>The component parts of this fatt are, according to<x_0.959><y_0.9172><class_Text>\n\n<x_0.1025><y_0.8875>1362 Compoti-tion.<x_0.2139><y_0.925><class_Text>",
+ "reply": {
+  "id": "chatcmpl-0e2314b9-fd55-4fc8-9bff-c72f9a8f4ccd",
+  "object": "chat.completion",
+  "created": 1792322489,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0811><y_0.0039>598<x_0.1611><y_0.025><class_Page-header>\n\n<x_0.7373><y_0.0>C H E M I<x_0.999><y_0.0234><class_Page-header>\n\n<x_0.082><y_0.0258>Magnefa,\nSec.<x_0.2168><y_0.0492><class_Text>\n\n<x_0.416><y_0.0305>## 3. Sulphite of Magnefia.<x_0.7695><y_0.0484><class_Section-header>\n\n<x_0.2158><y_0.0508>1. The compound of fulphurous acid and magnefia is formed by pafing fulphurous acid gas into two parts of water, with one of carbonate of magnefia. A violent effervefence takes place, with the evolution of heat. The fulphite of magnefia is formed, and precipitated to the bottom in the flat of powder; but with an excess of acid it is re-diffolved, and crytallizes.<x_0.9736><y_0.15><class_List-item>\n\n<x_0.2178><y_0.1484>2. The cryftals of fulphite of magnefia are in the form of depreffed tranfparent tetrahedrons. It has a mild earthy tafte, which foon becomes fentibly fulphu› recous; it has no fmell. Its fpecific gravity is 1.3802.<x_0.9746><y_0.2062><class_List-item>\n\n<x_0.2148><y_0.2047>3. It effloresces in the air, and is flowly converted into fulphate of magnefia. It is foluble in 20 parts of cold water. Boiling water diffolves a greater propor› tion, and from this it crytallizes on cooling. Expofed to heat, this fat becomes vifcid, and by calcination it lofes 0.45 of its weight. If the heat be increased, it is decompoiled; the acid is driven off, and the pure earth remains behind.<x_0.9756><y_0.3133><class_List-item>\n\n<x_0.2559><y_0.3125>The component parts of this fatt are,<x_0.7617><y_0.3297><class_Text>\n\n<x_0.46><y_0.3328>Sulphurous acid 39 Magnefia 16 Water 45<x_0.7314><y_0.3812><class_Formula>\n\n<x_0.6709><y_0.3906>100<x_0.7295><y_0.4031><class_Text>\n\n<x_0.3184><y_0.4148>4. Sulphite of Ammonia and Magnefia.<x_0.8721><y_0.4328><class_Section-header>\n\n<x_0.0898><y_0.4336>1355 _Prepara-_tion.<x_0.1943><y_0.468><class_Text>\n\n<x_0.2256><y_0.4352>1. This triple fatt is formed by decompoting the ful- phite of ammonia by magnefia, or the fulphite of mag- nefa by ammonia, in folution in the cold; or, by mixing together the folutions of the two falts.<x_0.9727><y_0.4922><class_List-item>\n\n<x_0.0908><y_0.4852>1356 Properties.<x_0.2188><y_0.5117><class_Text>\n\n<x_0.2266><y_0.4914>2. This fatt is in tranfparent crytfals, the form of which has not been determined. When it is expofed to the air, it is converted into fulphate of ammonia and magnefia. It is lefs foluble in water than either of the two fulphites of which it is formed. By the action of heat, fulphurous acid is given out, acidulous fulphite of ammonia is fublimed, and there remains behind pure<x_0.9766><y_0.5891><class_List-item>\n\n<x_0.0918><y_0.5406>1357 Action of heat.<x_0.2129><y_0.5742><class_Text>\n\n<x_0.0928><y_0.5883>† Ibid p.85. magnefia †.<x_0.3945><y_0.6039><class_Text>\n\n<x_0.4355><y_0.6047>5. Nitrate of Magnefia.<x_0.7686><y_0.6227><class_Section-header>\n\n<x_0.0947><y_0.6219>1358 History and prepara-tion.<x_0.2344><y_0.6687><class_Text>\n\n<x_0.2295><y_0.6258>1. This compound of nitric acid and magnefia was formerly called _nitre with bafe of magnefia_, and mag- neflan _foltpetre._ It is formed by the direct combina- tion of the acid with the earth. By evaporation it is crytallized.<x_0.9775><y_0.6961><class_List-item>\n\n<x_0.0967><y_0.6922>1359 Properties.<x_0.2275><y_0.7172><class_Text>\n\n<x_0.2285><y_0.6945>2. This felt crytallizes in four-fided rhomboidal prifms, whose fummits are oblique or truncated. Some- times it is in the form of final needles combined in groups. The tafte is penetrating and bitter. The fpecific gravity is 1.736.<x_0.9785><y_0.7648><class_List-item>\n\n<x_0.0957><y_0.7586>1360 Action of water.<x_0.2217><y_0.7945><class_Text>\n\n<x_0.2305><y_0.7641>3. It is deliquefectent in the air, and is foluble in its own weight of cold water. It is more foluble in boiling water, in which it crytallizes on cooling; but it can only be obtained in regular cryftals by flow evapo- ration from its folution in cold water.<x_0.9795><y_0.832><class_List-item>\n\n<x_0.0977><y_0.8266>1361 Of heat.<x_0.2061><y_0.85><class_Text>\n\n<x_0.2354><y_0.8313>4. By the action of heat it undergoes the watery fution ; the water is driven off, and it becomes dry. It is decompofed in a frong heat, gives out a little oxy- gen gas, then nitrous gas, and at latt the nitric acid. The pure earth remains behind.<x_0.9805><y_0.9><class_List-item>\n\n<x_0.2734><y_0.8992>The component parts of this fatt are, according to<x_0.959><y_0.9172><class_Text>\n\n<x_0.1025><y_0.8875>1362 Compoti-tion.<x_0.2139><y_0.925><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2722,
+   "completion_tokens": 1050,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

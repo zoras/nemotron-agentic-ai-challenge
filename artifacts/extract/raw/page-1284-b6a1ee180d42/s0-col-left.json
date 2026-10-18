@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "2371f3e3c60305ee47e3f4ad3a917b771acf3fa5afee26bbb09b8666b34c67b2",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "60b176bc4b3b8262532799ebca3c5228a411ae5247493944590e30b229eae7d1",
+  "image_bytes": 2108817,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1284",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0208,
+   0.51,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0208,
+    0.1024,
+    0.505
+   ],
+   [
+    0.1024,
+    0.184,
+    0.505
+   ],
+   [
+    0.184,
+    0.2656,
+    0.505
+   ],
+   [
+    0.2656,
+    0.3472,
+    0.505
+   ],
+   [
+    0.3472,
+    0.4288,
+    0.505
+   ],
+   [
+    0.4288,
+    0.5104,
+    0.505
+   ],
+   [
+    0.5104,
+    0.592,
+    0.505
+   ],
+   [
+    0.592,
+    0.6736,
+    0.505
+   ],
+   [
+    0.6736,
+    0.7552,
+    0.505
+   ],
+   [
+    0.7552,
+    0.8368,
+    0.505
+   ],
+   [
+    0.8368,
+    0.9184,
+    0.505
+   ],
+   [
+    0.9184,
+    1.0,
+    0.505
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2545,
+  "completion_tokens": 873,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.36,
+ "created_at": "2026-10-18T11:19:53+00:00",
+ "content": "<x_0.4561><y_0.0031>S C O I 80<x_0.999><y_0.025><class_Page-header>\n\n<x_0.0781><y_0.0258>Scotland.<x_0.1963><y_0.0383><class_Caption>\n\n<x_0.2041><y_0.0242>the meaneft of the human race. To accufe me of feleming the death of the queen my filter, is to brand me with the infamy which I abhor moft. It is my nature to employ the devotions of Efther, and not the fword of Judith. Elizabeth herself will atteft, that I have often admonified her not to draw upon her head the refentment of my friends by the enormity of her cruelties to me. My innocence cannot fincerely be doubted; and it is known to the Almighty God, that I could not poflibly think to forego his mercy, and to ruin my foul, in order to compafs a tranigreffion fo horrible as that of her murder. But amidt the inclement and unprincipled pretences which my adverfaries are pleafed to invent to overwhelm me with calamities and anguifh, I can trace and difcover with eafe the real caufes of their holtility and provocation. My crimes are my birth, the injuries I have been com-pelled to endure, and my religion. I am proud of the first; I can forgive the second; and the third is a fource to me of fuch comfort and hope, that for its glory I will be contented that my blood fhall flow upon the fcaffold.\"<x_0.9805><y_0.318><class_Text>\n\n<x_0.2061><y_0.3172>To the defence of Mary, no returns were made be- fide flout and unfupported affirmations of the truth of the evidence produced to her prejudice. In the courte of the trial, however, there occurred fome incidents which deferve to be related. My lord Burleigh, who was willing to difcompofe her, charged her with a fixed refolution of conveying her claims and titles to England to the king of Spain. But though, in a difcontented humour with her fon, he had threatened to dfinherit him, and had even correponded on the subject with her felect friends, it appears that this project is to be confidered as only a transient effect of refentment and paffion. She indeed acknowledged, that the Spaniard profetled to have pretentions to the kingdom of England, and that a book in justification of them had been communicated to her. She declared, however, that he had incurred the dipleature of many by difapproving of this book; and that no conveyance of her titles to the Spaniard had been ever executed.<x_0.9814><y_0.5813><class_Text>\n\n<x_0.207><y_0.5805>The trial continued during the fpace of two days; but the commiffioners avoided to deliver their opinions. My lord Burleigh, in whole management Elizabeth chiefly confided, and whom the Scottish queen difcom- pofed in no common degree by her ability and vigour, being eager to conclude the buffinefs, demanded to know if he had any thing to add to what he had urged in her defence. She informed him, that he would be infinitely pleafed and gratified, if it should be permitted to her to be heard in her justification before a full meeting of the parliament, or before the queen and her privy-council. This intimation was unexpected; and the requell implied in it was rejected. The court, in consequence of previous instructions from Elizabeth, adjourned to a farther day, and appointed that the place of its convention thould be the flat-chamber at Wellminfter. It accordingly affembled there; and Naw and Curl, who had not been produced at Fotheringay caftle, were now called before the commiffioners. An oath to declare the truth was put to them; and they definitely affirmed and protested that the declaration they had fubberbed was in every respect juft and faithful. Nothing farther remained,<x_0.9824><y_0.8906><class_Text>\n\n<x_0.0684><y_0.6727>816<x_0.2021><y_0.7516><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-2c17bcce-7587-4a71-9946-a2341299996b",
+  "object": "chat.completion",
+  "created": 1792322392,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4561><y_0.0031>S C O I 80<x_0.999><y_0.025><class_Page-header>\n\n<x_0.0781><y_0.0258>Scotland.<x_0.1963><y_0.0383><class_Caption>\n\n<x_0.2041><y_0.0242>the meaneft of the human race. To accufe me of feleming the death of the queen my filter, is to brand me with the infamy which I abhor moft. It is my nature to employ the devotions of Efther, and not the fword of Judith. Elizabeth herself will atteft, that I have often admonified her not to draw upon her head the refentment of my friends by the enormity of her cruelties to me. My innocence cannot fincerely be doubted; and it is known to the Almighty God, that I could not poflibly think to forego his mercy, and to ruin my foul, in order to compafs a tranigreffion fo horrible as that of her murder. But amidt the inclement and unprincipled pretences which my adverfaries are pleafed to invent to overwhelm me with calamities and anguifh, I can trace and difcover with eafe the real caufes of their holtility and provocation. My crimes are my birth, the injuries I have been com-pelled to endure, and my religion. I am proud of the first; I can forgive the second; and the third is a fource to me of fuch comfort and hope, that for its glory I will be contented that my blood fhall flow upon the fcaffold.\"<x_0.9805><y_0.318><class_Text>\n\n<x_0.2061><y_0.3172>To the defence of Mary, no returns were made be- fide flout and unfupported affirmations of the truth of the evidence produced to her prejudice. In the courte of the trial, however, there occurred fome incidents which deferve to be related. My lord Burleigh, who was willing to difcompofe her, charged her with a fixed refolution of conveying her claims and titles to England to the king of Spain. But though, in a difcontented humour with her fon, he had threatened to dfinherit him, and had even correponded on the subject with her felect friends, it appears that this project is to be confidered as only a transient effect of refentment and paffion. She indeed acknowledged, that the Spaniard profetled to have pretentions to the kingdom of England, and that a book in justification of them had been communicated to her. She declared, however, that he had incurred the dipleature of many by difapproving of this book; and that no conveyance of her titles to the Spaniard had been ever executed.<x_0.9814><y_0.5813><class_Text>\n\n<x_0.207><y_0.5805>The trial continued during the fpace of two days; but the commiffioners avoided to deliver their opinions. My lord Burleigh, in whole management Elizabeth chiefly confided, and whom the Scottish queen difcom- pofed in no common degree by her ability and vigour, being eager to conclude the buffinefs, demanded to know if he had any thing to add to what he had urged in her defence. She informed him, that he would be infinitely pleafed and gratified, if it should be permitted to her to be heard in her justification before a full meeting of the parliament, or before the queen and her privy-council. This intimation was unexpected; and the requell implied in it was rejected. The court, in consequence of previous instructions from Elizabeth, adjourned to a farther day, and appointed that the place of its convention thould be the flat-chamber at Wellminfter. It accordingly affembled there; and Naw and Curl, who had not been produced at Fotheringay caftle, were now called before the commiffioners. An oath to declare the truth was put to them; and they definitely affirmed and protested that the declaration they had fubberbed was in every respect juft and faithful. Nothing farther remained,<x_0.9824><y_0.8906><class_Text>\n\n<x_0.0684><y_0.6727>816<x_0.2021><y_0.7516><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2545,
+   "completion_tokens": 873,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

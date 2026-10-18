@@ -1,0 +1,47 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2243",
+ "row_index": 2243,
+ "volume_id": "144133901",
+ "filename": "page-2243-0bd9a3e05239.jpg",
+ "image_sha256": "0bd9a3e052398fa30c19e0b42ee28f70418b570cc1039ea2a454411dedb4972d",
+ "status": "plate",
+ "status_evidence": {
+  "ink_fraction": 0.0549,
+  "median_grey": 217,
+  "layout_body_chars": 0,
+  "layout_pictures": 2
+ },
+ "running_head": "",
+ "layout_raw": "page-2243-0bd9a3e05239/layout.json",
+ "layout_finish_reason": "length",
+ "regions": [],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Picture",
+   "text": "Plate XLII\nReg. 1.\nV\nS\nH M\nC\nB\nA\nL\nE\nL X\nX\nI\nT\nK\nDos\nStake V\nT\nC\nC\nS\nA",
+   "bbox": [
+    0.0,
+    0.0063,
+    0.999,
+    0.3875
+   ],
+   "source": "layout",
+   "id": "page-2243-0bd9a3e05239:b0"
+  },
+  {
+   "order": 1,
+   "class": "Picture",
+   "text": "T\nRy. 3.\nA\nS\nW\nC\nM\nC",
+   "bbox": [
+    0.0801,
+    0.4039,
+    0.9658,
+    0.7492
+   ],
+   "source": "layout",
+   "id": "page-2243-0bd9a3e05239:b1"
+  }
+ ]
+}

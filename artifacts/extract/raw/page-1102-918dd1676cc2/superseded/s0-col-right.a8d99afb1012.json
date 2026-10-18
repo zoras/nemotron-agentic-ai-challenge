@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "a8d99afb10123ca27dc119b043c124f3b2b8011feacc7b7be22bb3038591f848",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "bbefc1bd8b9221a11520188c4588caf1d5c767ed2d65fc88629133a274c54824",
+  "image_bytes": 2085009,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1102",
+  "variant": "s0-col-right",
+  "crop": [
+   0.555,
+   0.0811,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0811,
+    0.1646,
+    0.56
+   ],
+   [
+    0.1646,
+    0.2482,
+    0.56
+   ],
+   [
+    0.2482,
+    0.3317,
+    0.56
+   ],
+   [
+    0.3317,
+    0.4152,
+    0.56
+   ],
+   [
+    0.4152,
+    0.4988,
+    0.56
+   ],
+   [
+    0.4988,
+    0.5823,
+    0.56
+   ],
+   [
+    0.5823,
+    0.6659,
+    0.56
+   ],
+   [
+    0.6659,
+    0.7494,
+    0.56
+   ],
+   [
+    0.7494,
+    0.8329,
+    0.56
+   ],
+   [
+    0.8329,
+    0.9165,
+    0.56
+   ],
+   [
+    0.9165,
+    1.0,
+    0.56
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2512,
+  "completion_tokens": 968,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.4,
+ "created_at": "2026-10-18T11:10:42+00:00",
+ "content": "<x_0.0176><y_0.0>The _comitia curiata_ owed its origin to the division which Romulus made of the people into thirty curiae, ten being contained in every tribe. The curiae answered in most respects to the parishes in our cities, being not only separated by proper bounds and limits, but distinguished too by the different places set apart in each for the celebration of religious service, which was performed by particular priests (called _curiones_), one to every curia.<x_0.8965><y_0.107><class_Text>\n\n<x_0.0166><y_0.1047>Before the institution of the comitia centuriata, all the great concerns of the state were transacted in the assembly of the curiae; as the election of kings and other chief officers, the making and abrogating of laws, and the judging of capital crimes. After the expulsion of the kings, when the commons had obtained the privilege of having tribunes and adiles, they were for some time elected at these assemblies; but that ceremony being at length transferred to the comitia tributa, the curiae were never convened to give their votes, excepting upon occasion of making some particular law, relating to adoptions, wills, and testaments, or the creation of officers for an expedition, or for electing some of the priests, as the _flamines_, and the _curio maximus_, who were themselves chosen by every particular curia. The power of calling these ass-mhlies belonged at first only to the kings; but on the establishment of the democracy, this privilege was allowed to most of the magistrates, and sometimes to the pontifices.<x_0.8975><y_0.3383><class_Text>\n\n<x_0.0146><y_0.3375>The persons who had the liberty of voting were such Roman citizens as belonged to the curiae, or actually lived in the city, and conformed to the customs and rites of their proper curiae; and all were excluded who dwelt without the bounds of the city, or retained the ceremonies of their own country, even although they had been honoured with the _jus cicitatis._ (See CITIZEN.) The place where the curiae met was the _comitium_, a part of the forum. No fixed time was appointed for holding any of the comitia, but they were convened as business required.<x_0.8955><y_0.4688><class_Text>\n\n<x_0.0127><y_0.468>The people being met together, and confirmed by the report of good omens from the augurs, which was necessary in all the assemblies, the _rogatio_ or business to be proposed to them was publicly read. After this, if none of the magisrates interposed, upon the order of him who presided in the comitia the people divided into their proper curiae, and consulted of the matter; and then the curiae on being called out, as it happened by lot, gave their votes man by man, in ancient times _vira voce_, and afterwards by tablets; the most votes in every curia going for the voice of the whole curia, and the most curiae for the general consent of the people.<x_0.8936><y_0.6242><class_Text>\n\n<x_0.0117><y_0.6234>In the time of Cicero, the comitia curiata were so much out of fashion that they were formed only by thirty licitors representing the thirty curiae; whence, in his second oration against Rullus, he calls them _comitia adumbrata_.<x_0.8916><y_0.6766><class_Text>\n\n<x_0.0088><y_0.675>The _comitia centuriata_ were instituted by Servius Tullius, who had obliged every one to give a true account of what he was worth, and divided the people, according to the returns, into six ranks or classes, which he subdivided into a hundred and ninety-three centuries. The first classis, containing the equites and richest citizens, consisted of ninety-eight centuries. The second, including the tradesmen and mechanics, consisted of twenty-two centuries; the third of twenty; the fourth of twenty-two; the fifth of thirty; and the sixth, composed of the poorer sort, of only one century; but this though it had the same name with the rest, yet was seldom regarded, and scarcely allowed any power in public matters. Hence it is common with the Roman authors, when they speak of the classes, to reckon no more than five, the sixth not being worth their notice. This last _classis_ or order was divided into two parts or orders, the _proletarii_ and the _capite censi_. The former, as their name implies, were designed purely to stock the republic with men, since they could supply it with so little money;<x_0.8926><y_0.925><class_Text>",
+ "reply": {
+  "id": "chatcmpl-3fc15d29-d260-45bc-9e98-27246728552e",
+  "object": "chat.completion",
+  "created": 1792321841,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0176><y_0.0>The _comitia curiata_ owed its origin to the division which Romulus made of the people into thirty curiae, ten being contained in every tribe. The curiae answered in most respects to the parishes in our cities, being not only separated by proper bounds and limits, but distinguished too by the different places set apart in each for the celebration of religious service, which was performed by particular priests (called _curiones_), one to every curia.<x_0.8965><y_0.107><class_Text>\n\n<x_0.0166><y_0.1047>Before the institution of the comitia centuriata, all the great concerns of the state were transacted in the assembly of the curiae; as the election of kings and other chief officers, the making and abrogating of laws, and the judging of capital crimes. After the expulsion of the kings, when the commons had obtained the privilege of having tribunes and adiles, they were for some time elected at these assemblies; but that ceremony being at length transferred to the comitia tributa, the curiae were never convened to give their votes, excepting upon occasion of making some particular law, relating to adoptions, wills, and testaments, or the creation of officers for an expedition, or for electing some of the priests, as the _flamines_, and the _curio maximus_, who were themselves chosen by every particular curia. The power of calling these ass-mhlies belonged at first only to the kings; but on the establishment of the democracy, this privilege was allowed to most of the magistrates, and sometimes to the pontifices.<x_0.8975><y_0.3383><class_Text>\n\n<x_0.0146><y_0.3375>The persons who had the liberty of voting were such Roman citizens as belonged to the curiae, or actually lived in the city, and conformed to the customs and rites of their proper curiae; and all were excluded who dwelt without the bounds of the city, or retained the ceremonies of their own country, even although they had been honoured with the _jus cicitatis._ (See CITIZEN.) The place where the curiae met was the _comitium_, a part of the forum. No fixed time was appointed for holding any of the comitia, but they were convened as business required.<x_0.8955><y_0.4688><class_Text>\n\n<x_0.0127><y_0.468>The people being met together, and confirmed by the report of good omens from the augurs, which was necessary in all the assemblies, the _rogatio_ or business to be proposed to them was publicly read. After this, if none of the magisrates interposed, upon the order of him who presided in the comitia the people divided into their proper curiae, and consulted of the matter; and then the curiae on being called out, as it happened by lot, gave their votes man by man, in ancient times _vira voce_, and afterwards by tablets; the most votes in every curia going for the voice of the whole curia, and the most curiae for the general consent of the people.<x_0.8936><y_0.6242><class_Text>\n\n<x_0.0117><y_0.6234>In the time of Cicero, the comitia curiata were so much out of fashion that they were formed only by thirty licitors representing the thirty curiae; whence, in his second oration against Rullus, he calls them _comitia adumbrata_.<x_0.8916><y_0.6766><class_Text>\n\n<x_0.0088><y_0.675>The _comitia centuriata_ were instituted by Servius Tullius, who had obliged every one to give a true account of what he was worth, and divided the people, according to the returns, into six ranks or classes, which he subdivided into a hundred and ninety-three centuries. The first classis, containing the equites and richest citizens, consisted of ninety-eight centuries. The second, including the tradesmen and mechanics, consisted of twenty-two centuries; the third of twenty; the fourth of twenty-two; the fifth of thirty; and the sixth, composed of the poorer sort, of only one century; but this though it had the same name with the rest, yet was seldom regarded, and scarcely allowed any power in public matters. Hence it is common with the Roman authors, when they speak of the classes, to reckon no more than five, the sixth not being worth their notice. This last _classis_ or order was divided into two parts or orders, the _proletarii_ and the _capite censi_. The former, as their name implies, were designed purely to stock the republic with men, since they could supply it with so little money;<x_0.8926><y_0.925><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2512,
+   "completion_tokens": 968,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

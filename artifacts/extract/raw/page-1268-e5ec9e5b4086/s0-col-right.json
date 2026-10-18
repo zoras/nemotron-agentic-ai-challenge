@@ -1,0 +1,84 @@
+{
+ "request": {
+  "key": "3418eb00bc1405a86c780da284c78b485a3717a07defb0c71ba392ee6c40a7d6",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "148c07e6dd5049ba4cac24089f9b41d18383397c8017a7d8e2844c810ae5ef41",
+  "image_bytes": 270645,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5367,
+   0.0262,
+   1.0,
+   0.1648
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0262,
+    0.0955,
+    0.5417
+   ],
+   [
+    0.0955,
+    0.1648,
+    0.5417
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 302,
+  "total_tokens": 424,
+  "completion_tokens": 122,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.24,
+ "created_at": "2026-10-18T11:19:51+00:00",
+ "content": "<x_0.0><y_0.0>N A Z\nof the service, civil and military, for one whole year, about the middle of the last war, may be estimated at about L.18,000,000. In the year 1822, according to the esti- mates which were laid before parliament, it amounted to about L.5,000,000; and in the year 1837 it has been fixed at the sum of L.4,663,000. (M.)<x_0.998><y_0.9945><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-ec7b80a0-09ef-4d86-9e42-073cb596f10d",
+  "object": "chat.completion",
+  "created": 1792322391,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>N A Z\nof the service, civil and military, for one whole year, about the middle of the last war, may be estimated at about L.18,000,000. In the year 1822, according to the esti- mates which were laid before parliament, it amounted to about L.5,000,000; and in the year 1837 it has been fixed at the sum of L.4,663,000. (M.)<x_0.998><y_0.9945><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 302,
+   "total_tokens": 424,
+   "completion_tokens": 122,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

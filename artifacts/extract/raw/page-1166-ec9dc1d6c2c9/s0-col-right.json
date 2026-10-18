@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "a226afbef57950c6323a237dead5f6a96af45f62fa094a4d45964d12705c4e55",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "2a8a4cf4dc34198c8deed4ffc11ea0a112e60f2e69337828377986c6b7593f07",
+  "image_bytes": 2632337,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1166",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4567,
+   0.0239,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0239,
+    0.1052,
+    0.4633
+   ],
+   [
+    0.1052,
+    0.1866,
+    0.4617
+   ],
+   [
+    0.1866,
+    0.2679,
+    0.4617
+   ],
+   [
+    0.2679,
+    0.3493,
+    0.4617
+   ],
+   [
+    0.3493,
+    0.4306,
+    0.4617
+   ],
+   [
+    0.4306,
+    0.512,
+    0.4617
+   ],
+   [
+    0.512,
+    0.5933,
+    0.4617
+   ],
+   [
+    0.5933,
+    0.6746,
+    0.4617
+   ],
+   [
+    0.6746,
+    0.756,
+    0.4617
+   ],
+   [
+    0.756,
+    0.8373,
+    0.4617
+   ],
+   [
+    0.8373,
+    0.9187,
+    0.4617
+   ],
+   [
+    0.9187,
+    1.0,
+    0.4617
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2558,
+  "completion_tokens": 886,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.91,
+ "created_at": "2026-10-18T11:19:50+00:00",
+ "content": "<x_0.0078><y_0.0063>THE PRESS.<x_0.3291><y_0.0266><class_Title>\n\n<x_0.8545><y_0.0117>279<x_0.9326><y_0.0297><class_Page-header>\n\n<x_0.0215><y_0.032>make them believe that they are well governed when they are ill governed, will be often presented to them.<x_0.7969><y_0.0602><class_Text>\n\n<x_0.0205><y_0.0586>One thing more is necessary, and so necessary, that if it is wanting, the other might as well be wanting also. The publication of the proceedings tells what is done. This, however, is useless, unless a correct judgment is passed upon what is done.<x_0.7959><y_0.1242><class_Text>\n\n<x_0.0186><y_0.1219>We have brought this inquiry, then, to an important point. In the article Government, we have seen that, unless the people hold in their own hands an effectual power of control on the acts of their government, the government will be inevitably vicious. We have now seen that they cannot exercise this control to any beneficial purpose, without the means of forming a correct judgment upon the conduct of their representatives. We have likewise seen, that one of the means necessary to enable them to judge correctly of the conduct of their representatives, is the liberty to every body of publishing reports of what they do. It remains to inquire by what other acts the press can be made to contribute to the same desirable end.<x_0.7949><y_0.2914><class_Text>\n\n<x_0.0137><y_0.2891>What is wanted is, that all the people, or as many of them as possible, should estimate correctly the consequences of the acts proposed or done by their representatives, and also that they should know what acts might have been proposed, if the best were not proposed, from which better consequences would have followed. This end would be accomplished most effectively, if those who are sufficiently enlightened would point out to those who are in danger of mistakes, the true conclusions; and, showing the weight of evidence to be in their favour, should obtain for them the universal assent.<x_0.793><y_0.4313><class_Text>\n\n<x_0.0127><y_0.4305>How is this to be accomplished? In what manner are those wise men to be chosen? And who are to be the choosers? Directly the object cannot be attained. There are no distinct and indubitable marks by which wisdom, and less by which integrity, is to be known. And who is to be trusted with the privilege of pointing them out? They whose judgment requires to be directed are not well qualified to determine who shall direct them. And if the rulers are to choose, they will employ none but those who will act in conformity to their views, and enable them to benefit themselves by the pillage and oppression of the people.<x_0.7891><y_0.5859><class_Text>\n\n<x_0.0117><y_0.5844>As there is no possible organ of choice, no choice whatever ought to be made. If no choice is to be made, every man that pleases ought to be allowed. All this is indu- bitable. The consequences of denying any part of it are so obvious, that hardly any man, we suppose, will risk the imputations to which such a denial would justly expose him.<x_0.7871><y_0.675><class_Text>\n\n<x_0.0098><y_0.6742>They who say that no choice ought to be made, say, in effect, that no limit whatsoever ought to be imposed upon the liberty of the press. The one of these propositions is involved in the other. To impose any restraint upon the liberty of the press, is undoubtedly to make a choice. If the restraint is imposed by the government, it is the government that chooses the directors of the public mind. If any government chooses the directors of the public mind, that government is despotic.<x_0.7822><y_0.793><class_Text>\n\n<x_0.0088><y_0.7914>Suppose that, by the restraint imposed upon the liberty of the press, all censure of the government is forbidden: here is undoubtedly a choice. The government, in this case, virtually says, the people who might attempt the task of directing the public mind are of two sorts ; one, those who would censure ; another, those who would not censure ; I choose the latter.<x_0.7812><y_0.882><class_Text>\n\n<x_0.0107><y_0.8812>Suppose that not every censure, but only such and such kinds of censure, are forbidden ; here, again, is still a choice, while confessedly there is no party to whom the power of choosing for the rest can with safety be given.<x_0.7783><y_0.9352><class_Text>\n\n<x_0.04><y_0.9328>If not every censure, but only some censures, are to be<x_0.7773><y_0.95><class_Text>",
+ "reply": {
+  "id": "chatcmpl-d96e2629-eb6a-48ed-87aa-1ae0e3c20be2",
+  "object": "chat.completion",
+  "created": 1792322389,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0063>THE PRESS.<x_0.3291><y_0.0266><class_Title>\n\n<x_0.8545><y_0.0117>279<x_0.9326><y_0.0297><class_Page-header>\n\n<x_0.0215><y_0.032>make them believe that they are well governed when they are ill governed, will be often presented to them.<x_0.7969><y_0.0602><class_Text>\n\n<x_0.0205><y_0.0586>One thing more is necessary, and so necessary, that if it is wanting, the other might as well be wanting also. The publication of the proceedings tells what is done. This, however, is useless, unless a correct judgment is passed upon what is done.<x_0.7959><y_0.1242><class_Text>\n\n<x_0.0186><y_0.1219>We have brought this inquiry, then, to an important point. In the article Government, we have seen that, unless the people hold in their own hands an effectual power of control on the acts of their government, the government will be inevitably vicious. We have now seen that they cannot exercise this control to any beneficial purpose, without the means of forming a correct judgment upon the conduct of their representatives. We have likewise seen, that one of the means necessary to enable them to judge correctly of the conduct of their representatives, is the liberty to every body of publishing reports of what they do. It remains to inquire by what other acts the press can be made to contribute to the same desirable end.<x_0.7949><y_0.2914><class_Text>\n\n<x_0.0137><y_0.2891>What is wanted is, that all the people, or as many of them as possible, should estimate correctly the consequences of the acts proposed or done by their representatives, and also that they should know what acts might have been proposed, if the best were not proposed, from which better consequences would have followed. This end would be accomplished most effectively, if those who are sufficiently enlightened would point out to those who are in danger of mistakes, the true conclusions; and, showing the weight of evidence to be in their favour, should obtain for them the universal assent.<x_0.793><y_0.4313><class_Text>\n\n<x_0.0127><y_0.4305>How is this to be accomplished? In what manner are those wise men to be chosen? And who are to be the choosers? Directly the object cannot be attained. There are no distinct and indubitable marks by which wisdom, and less by which integrity, is to be known. And who is to be trusted with the privilege of pointing them out? They whose judgment requires to be directed are not well qualified to determine who shall direct them. And if the rulers are to choose, they will employ none but those who will act in conformity to their views, and enable them to benefit themselves by the pillage and oppression of the people.<x_0.7891><y_0.5859><class_Text>\n\n<x_0.0117><y_0.5844>As there is no possible organ of choice, no choice whatever ought to be made. If no choice is to be made, every man that pleases ought to be allowed. All this is indu- bitable. The consequences of denying any part of it are so obvious, that hardly any man, we suppose, will risk the imputations to which such a denial would justly expose him.<x_0.7871><y_0.675><class_Text>\n\n<x_0.0098><y_0.6742>They who say that no choice ought to be made, say, in effect, that no limit whatsoever ought to be imposed upon the liberty of the press. The one of these propositions is involved in the other. To impose any restraint upon the liberty of the press, is undoubtedly to make a choice. If the restraint is imposed by the government, it is the government that chooses the directors of the public mind. If any government chooses the directors of the public mind, that government is despotic.<x_0.7822><y_0.793><class_Text>\n\n<x_0.0088><y_0.7914>Suppose that, by the restraint imposed upon the liberty of the press, all censure of the government is forbidden: here is undoubtedly a choice. The government, in this case, virtually says, the people who might attempt the task of directing the public mind are of two sorts ; one, those who would censure ; another, those who would not censure ; I choose the latter.<x_0.7812><y_0.882><class_Text>\n\n<x_0.0107><y_0.8812>Suppose that not every censure, but only such and such kinds of censure, are forbidden ; here, again, is still a choice, while confessedly there is no party to whom the power of choosing for the rest can with safety be given.<x_0.7783><y_0.9352><class_Text>\n\n<x_0.04><y_0.9328>If not every censure, but only some censures, are to be<x_0.7773><y_0.95><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2558,
+   "completion_tokens": 886,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

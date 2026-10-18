@@ -1,0 +1,436 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:403",
+ "row_index": 403,
+ "volume_id": "193469091",
+ "filename": "page-0403-44f912e1c323.jpg",
+ "image_sha256": "44f912e1c3237b35750b6e188e94f3a20f2af3f1dba0a4bdb630dff640ddbf3c",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.12157,
+  "median_grey": 215,
+  "layout_body_chars": 7915,
+  "layout_pictures": 0
+ },
+ "running_head": "PHILOLOGY. 375",
+ "layout_raw": "page-0403-44f912e1c323/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0294,
+    1.0,
+    0.0608
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0403-44f912e1c323/head.json",
+   "finish_reason": "stop",
+   "request_key": "140ed6ba022e4a64a449da0233bcbdfc18b50ad7b223dbb7b88e2ba1b00e2eb0"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0294,
+    0.4683,
+    0.8718
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0294,
+     0.1136,
+     0.4633
+    ],
+    [
+     0.1136,
+     0.1979,
+     0.4633
+    ],
+    [
+     0.1979,
+     0.2821,
+     0.4633
+    ],
+    [
+     0.2821,
+     0.3664,
+     0.4633
+    ],
+    [
+     0.3664,
+     0.4506,
+     0.4617
+    ],
+    [
+     0.4506,
+     0.5348,
+     0.4617
+    ],
+    [
+     0.5348,
+     0.6191,
+     0.46
+    ],
+    [
+     0.6191,
+     0.7033,
+     0.4583
+    ],
+    [
+     0.7033,
+     0.7876,
+     0.4567
+    ],
+    [
+     0.7876,
+     0.8718,
+     0.4567
+    ]
+   ],
+   "raw_path": "page-0403-44f912e1c323/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "08efdefa7fdb1eae2c9ebabf9e7bd8e5940ae16f7db4264fb418c6249523067c"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4517,
+    0.0294,
+    1.0,
+    0.8718
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0294,
+     0.1136,
+     0.4633
+    ],
+    [
+     0.1136,
+     0.1979,
+     0.4633
+    ],
+    [
+     0.1979,
+     0.2821,
+     0.4633
+    ],
+    [
+     0.2821,
+     0.3664,
+     0.4633
+    ],
+    [
+     0.3664,
+     0.4506,
+     0.4617
+    ],
+    [
+     0.4506,
+     0.5348,
+     0.4617
+    ],
+    [
+     0.5348,
+     0.6191,
+     0.46
+    ],
+    [
+     0.6191,
+     0.7033,
+     0.4583
+    ],
+    [
+     0.7033,
+     0.7876,
+     0.4567
+    ],
+    [
+     0.7876,
+     0.8718,
+     0.4567
+    ]
+   ],
+   "raw_path": "page-0403-44f912e1c323/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "e1872df79182a3362f664ee9c8f636189962fba691375fd944ed5dcf143cc7f9"
+  },
+  {
+   "label": "s1-wide",
+   "crop": [
+    0.0,
+    0.8718,
+    1.0,
+    0.9056
+   ],
+   "scale": 2,
+   "raw_path": "page-0403-44f912e1c323/s1-wide.json",
+   "finish_reason": "stop",
+   "request_key": "a196ded01ddb2a2d4b54223e475cecda897d40da530f2b6dd4d83ff8a1f88008"
+  },
+  {
+   "label": "s2-col-left",
+   "crop": [
+    0.0,
+    0.9056,
+    0.4683,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.9056,
+     1.0,
+     0.4633
+    ]
+   ],
+   "raw_path": "page-0403-44f912e1c323/s2-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "89165df995e53852b0bca34576336c3141a501cc368091af3a9b480fe9e1c90d"
+  },
+  {
+   "label": "s2-col-right",
+   "crop": [
+    0.4583,
+    0.9056,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.9056,
+     1.0,
+     0.4633
+    ]
+   ],
+   "raw_path": "page-0403-44f912e1c323/s2-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "114501833e90446c917d3c772be3b3d60c0c2c6626a32885c6dff532f7aec301"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "PHILOLOGY. 375",
+   "bbox": [
+    0.0,
+    0.0294,
+    1.0,
+    0.0608
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0403-44f912e1c323:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**PHILO**",
+   "bbox": [
+    0.3453,
+    0.0347,
+    0.4678,
+    0.0551
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-0403-44f912e1c323:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "Cushim was the same. We may therefore rest assured; that whatever changes the Ethiopian dialect may have un-dergone in the course of three thousand years, it was ori-ginally either Chaldaic, or at least a branch of that language. Scaliger informs us, that the Ethiopians call themselves Chaldeans ; and this, says he, not without reason, because of the many sacred and profane books which are extant amongst them, the most elegant and most beautiful are written in a style resembling that of the Chaldean or Assyrian. Marianus Victorius, who was the first that reduced the Ethiopic tongue to the rules of grammar, tells us, in his _Procemium_, that the Ethiopians call their tongue Chaldaic ; that it springs from the Babylonian, and is very like the Hebrew, Syriac, and Arabic ; and at the same time, he concludes, that this language may be easily learned by those who are masters of the Hebrew. The learned Bochart, and Bishop Walton in his _Prolegomena_, are clearly of the same opinion.",
+   "bbox": [
+    0.0462,
+    0.0577,
+    0.4555,
+    0.269
+   ],
+   "source": "s0-col-left",
+   "id": "page-0403-44f912e1c323:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "The vulgar letters of the Ethiopians, according to Dio-dorus Siculus, were the same with the sacred characters1 of the Egyptians.2 From this account, if the Sicilian may be trusted, the sacred letters of these people, concerning which so many vague conjectures have been formed, were actually Chaldaic. To carry on this investigation a little farther, we may observe, that Sir William Jones seems to have pro-ved, by very plausible arguments, that the Sanscrit characters were deduced from the Chaldaic. This circumstance affords a presumption that the Ethiopian Cushim were likewise concerned with the Egyptians ; who, as is remarked in the section concerning the _Sanscrit_, probably introduced the religion of the Brahmans into Hindostan. This is advanced as a conjecture only ; and yet when we consider the affinity between the Egyptian and the Gentoo religions, we are strongly inclined to believe that this surmise may one day be verified by undeniable facts.",
+   "bbox": [
+    0.0466,
+    0.2676,
+    0.4559,
+    0.4776
+   ],
+   "source": "s0-col-left",
+   "id": "page-0403-44f912e1c323:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "The original Ethiopians were a highly civilized people ; andtheir laws, their institutions, and especially their religion, were celebrated far and wide. Homer talks in raptures of the piety of the Ethiopians, and sends his gods every now and then to revel twelve days with that devout people. The Sicilian produces a number of very specious arguments to prove that these two nations originally sprung from the same stock. He mentions a similarity of features, of manners, of customs, of laws, of letters, of the fabrication of statues, and of religion, as evidences of the relation between these two neighbouring nations. There was, as every body knows, a com-munion, in regard to sacred rites, between the two countries. The Egyptians sent annually a deputation of their priests, furnished with the portable statues of their gods, to visit the fanes of the devout Ethiopians. Upon this occasion, a so-lemn religious banquet was prepared, which lasted twelve days, and of which the priests of both nations were parta-kers. It was a kind of sacramental institution, we ima-gine, by which both parties publicly avouched their agree-ment in the ceremonies of their religion respectively. These observations plainly show, that the most ancient Ethiopians were a people highly civilized ; indeed so much, that the Egyptians were at one time contented to be their scholars. The tone of their language was certainly the same with that of the Chaldeans or Arabian Cushim, from whom they are descended. We know not whether there are any books in the ancient Ethiopic now extant ; so that it is not easy to produce instances of its coincidence with the Chaldaic. But Diogenes Laertius3 informs us, that Thrasyllus, in his cata-logue of the books composed by Democritus, mentions one,",
+   "bbox": [
+    0.0453,
+    0.4763,
+    0.4564,
+    0.8514
+   ],
+   "source": "s0-col-left",
+   "id": "page-0403-44f912e1c323:b4"
+  },
+  {
+   "order": 5,
+   "class": "Footnote",
+   "text": "<sup>1</sup> Lib. iii. p. 101, _Stepb_.",
+   "bbox": [
+    0.0562,
+    0.854,
+    0.2044,
+    0.8711
+   ],
+   "source": "s0-col-left",
+   "id": "page-0403-44f912e1c323:b5"
+  },
+  {
+   "order": 6,
+   "class": "Head-fragment",
+   "text": "**LOGY.**",
+   "bbox": [
+    0.4645,
+    0.0353,
+    0.5684,
+    0.0551
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0403-44f912e1c323:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "375",
+   "bbox": [
+    0.8977,
+    0.038,
+    0.9384,
+    0.0564
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0403-44f912e1c323:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "_περι των έν Μερογ λερων γραμματών, concerning the sacred let-_\nters in the island of Meroe;t and another concerning the\nsacred letters in Babylon. Had these books survived the\nravages of time, they would, in this age of research and\ncuriosity, have determined not only the point under our\nconsideration, but likewise the affinity of sacred rites amongst\nthe Chaldeans, Ethiopians, and Egyptians.",
+   "bbox": [
+    0.4619,
+    0.0603,
+    0.8678,
+    0.1485
+   ],
+   "source": "s0-col-right",
+   "id": "page-0403-44f912e1c323:b8"
+  },
+  {
+   "order": 9,
+   "class": "Margin-note",
+   "text": "Chaldaic\nLanguage,&c.",
+   "bbox": [
+    0.8683,
+    0.061,
+    0.9406,
+    0.1084
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-0403-44f912e1c323:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "We have now shown that the Ethiopians were a colony\nof Cushites; that the Cushites were originally sovereigns of\nShinar or Chaldea, and consequently spoke either Chaldaic,\nor a dialect of that tongue; that their colonists must have\nused the same language; and that the ancient Ethiopians were\na people highly polished, and celebrated in the most early\nages on account of their virtue and piety. It has likewise\nappeared that the common letters of that people were the\nsacred characters of the Egyptians. These letters, we im-\nagine, were the Cuphic; for some account of which see the\nsection on the Arabic. When they were discarded, and the\nmodern letters substituted in their room, cannot be deter-\nmined; nor is it, we apprehend, a matter of much import-\nance. We shall therefore drop that part of the subject, and\nrefer our curious and inquisitive readers to the very learned\nJob Ludolf's excellent grammar and dictionary of the Abys-\nsinian or Geez tongue,<sup>5</sup> where they will find every thing\nworth knowing on that subject. We shall endeavour to gra-\ntify our readers with a very brief account of the modern Ethi-\nopic or Abyssinian tongue; for which we are principally in-\ndebted to that learned, indefatigable, and adventurous tra-\nveller, Bruce; who, by his observations on that country,\nwhich he made in person, often at the hazard of his life, has\ndiscovered, as it were, a new world both to Europe and Asia.",
+   "bbox": [
+    0.4597,
+    0.1466,
+    0.8693,
+    0.444
+   ],
+   "source": "s0-col-right",
+   "id": "page-0403-44f912e1c323:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "The most ancient language of Ethiopia, which we shall\nnow call by its modern name of Abyssinia, was, according\nto that gentleman, the _Geez_, which was spoken by the an-\ncient Cushite shepherds. This, we should think, approaches\nnearest to the old Chaldaic. Upon a revolution in Ha-\nbesh, the court resided many years in the province of\nAmhara, where the people spoke a different language, or at\nleast a very different dialect of the same language. During\nthis interval, the Geez, or language of the shepherds, was\ndropped, and retained only in writing, as a dead language;\nthe sacred Scriptures being in that tongue only saved it from\ngoing into disuse. This dialect is exceedingly harsh and\nunharmonious. It is full of the letters, D and T, on which\nan accent is put that nearly resembles stammering. Con-\nsidering the small extent of sea which divides this coun-\ntry from Arabia, we need not wonder that it has great af-\nfinity with the Arabic. It is not difficult to be acquired by\nthose who understand any other of the oriental languages;\nand as the roots of many Hebrew words are only to be\nfound here, it seems to be absolutely necessary to all those\nwho wish to obtain a critical skill in that language.",
+   "bbox": [
+    0.4565,
+    0.4407,
+    0.8699,
+    0.702
+   ],
+   "source": "s0-col-right",
+   "id": "page-0403-44f912e1c323:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "The Ethiopic alphabet consists of twenty-six letters, each Ethiopie\nof which, by a _virgula_ or point annexed, varies its sound\nin such a manner as that those twenty-six form as it were\nsixty-two distinct letters. At first they had only twenty-\nfive of these original letters, the Latin P being wanting;\nso that they were obliged to substitute another letter in its\nplace. _Paulus_, for example, they call _Taulus, Aulus_, or\n_Caulus_, and _Petros_ they pronounced _Ketros._ At last they\nsubstituted T, and added this to the end of their alphabet;\ngiving it the force of P, though it was really a repetition of\nan old character, rather than the invention of a new one. Be-\nsides these, there are twenty others of the nature of diph-",
+   "bbox": [
+    0.456,
+    0.7,
+    0.8688,
+    0.8514
+   ],
+   "source": "s0-col-right",
+   "id": "page-0403-44f912e1c323:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "\"We find the same observation confirmed by Heliodorus (_Ethiopica_, lib. x. p. 476.) \"The royal letters of the Ethiopians,\" says he, \"were the sacred characters of the Egyptians,\" Cassiodorus likewise assures us, \"that the letters inscribed upon the Egyptian obelisks were Chaldean.\" But recent discoveries have refuted these and other similar statements.\" Lib.tv.p. 461. Cowardors",
+   "bbox": [
+    0.043,
+    0.8718,
+    0.999,
+    0.9056
+   ],
+   "source": "s1-wide",
+   "id": "page-0403-44f912e1c323:b13"
+  },
+  {
+   "order": 14,
+   "class": "Picture",
+   "text": "Where the capital of Ethiopia was situated.\nA very learned German, who published a grammar and dictionary",
+   "bbox": [
+    0.0,
+    0.9056,
+    0.4678,
+    0.9999
+   ],
+   "source": "s2-col-left",
+   "id": "page-0403-44f912e1c323:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "of the Geez in folio-",
+   "bbox": [
+    0.4583,
+    0.9056,
+    0.9989,
+    0.9994
+   ],
+   "source": "s2-col-right",
+   "id": "page-0403-44f912e1c323:b15"
+  }
+ ]
+}

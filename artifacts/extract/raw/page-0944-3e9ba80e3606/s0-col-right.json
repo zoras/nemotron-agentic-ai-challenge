@@ -1,0 +1,84 @@
+{
+ "request": {
+  "key": "570616368e64864bb451c9eeb132555d4f7097b985a36eabb014e0ef39adb436",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9613801a38713d3d75c7298e3f2b90d8b117fec59716c6dd3e697c09d3801876",
+  "image_bytes": 432743,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:944",
+  "variant": "s0-col-right",
+  "crop": [
+   0.46,
+   0.0114,
+   1.0,
+   0.1929
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0114,
+    0.1021,
+    0.465
+   ],
+   [
+    0.1021,
+    0.1929,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 440,
+  "total_tokens": 625,
+  "completion_tokens": 185,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.32,
+ "created_at": "2026-10-18T11:19:43+00:00",
+ "content": "<x_0.0><y_0.0>**715 ] M E A**\nthe ell of Venice. At Goa, and other parts, they\nthey ufe a larger cando, equal to feventeen Dutch\nells; exceeding that of Babel and Balfora by *per*\n_centum_, and the vera by 64. In Siam, they ufe the\nken, short of three Paris feet by one inch. The ken\ncontains two folks, the fok two keubs, the keub twelve\nnious or inches, the niou to be equal to eight grains of\nrice, i. e. to about nine lines. At Camboia, they ufe\nthe hafler ; in Japan, the tatam ; and the fpan on fome\nof the coafts of Guinea.<x_0.999><y_0.9992><class_Text>",
+ "reply": {
+  "id": "chatcmpl-0f8df42a-0c4e-41f5-866c-f24db0643078",
+  "object": "chat.completion",
+  "created": 1792322382,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>**715 ] M E A**\nthe ell of Venice. At Goa, and other parts, they\nthey ufe a larger cando, equal to feventeen Dutch\nells; exceeding that of Babel and Balfora by *per*\n_centum_, and the vera by 64. In Siam, they ufe the\nken, short of three Paris feet by one inch. The ken\ncontains two folks, the fok two keubs, the keub twelve\nnious or inches, the niou to be equal to eight grains of\nrice, i. e. to about nine lines. At Camboia, they ufe\nthe hafler ; in Japan, the tatam ; and the fpan on fome\nof the coafts of Guinea.<x_0.999><y_0.9992><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 440,
+   "total_tokens": 625,
+   "completion_tokens": 185,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

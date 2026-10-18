@@ -1,0 +1,312 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1298",
+ "row_index": 1298,
+ "volume_id": "193322688",
+ "filename": "page-1298-4795a8a1d020.jpg",
+ "image_sha256": "4795a8a1d020cc79cdb250a14d1e2304e937c6cfcb49cc6664d3e8a43b8397b8",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.11765,
+  "median_grey": 212,
+  "layout_body_chars": 7834,
+  "layout_pictures": 0
+ },
+ "running_head": "452 EDWARDS",
+ "layout_raw": "page-1298-4795a8a1d020/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0419,
+    1.0,
+    0.0702
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1298-4795a8a1d020/head.json",
+   "finish_reason": "stop",
+   "request_key": "9a180abdd020c6e1e59992cf159c7f021784a1f112accc21f9824c9c90d6267a"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0419,
+    0.5617,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0419,
+     0.129,
+     0.5567
+    ],
+    [
+     0.129,
+     0.2161,
+     0.5567
+    ],
+    [
+     0.2161,
+     0.3032,
+     0.5567
+    ],
+    [
+     0.3032,
+     0.3903,
+     0.5567
+    ],
+    [
+     0.3903,
+     0.4774,
+     0.5567
+    ],
+    [
+     0.4774,
+     0.5645,
+     0.5567
+    ],
+    [
+     0.5645,
+     0.6516,
+     0.5567
+    ],
+    [
+     0.6516,
+     0.7387,
+     0.5567
+    ],
+    [
+     0.7387,
+     0.8258,
+     0.5567
+    ],
+    [
+     0.8258,
+     0.9129,
+     0.5567
+    ],
+    [
+     0.9129,
+     1.0,
+     0.5567
+    ]
+   ],
+   "raw_path": "page-1298-4795a8a1d020/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "7662882ae7be0c1d24c16be5d41acaac14b70a547bdf1abd814a5fa4fdc0f5d1"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5517,
+    0.0419,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0419,
+     0.129,
+     0.5567
+    ],
+    [
+     0.129,
+     0.2161,
+     0.5567
+    ],
+    [
+     0.2161,
+     0.3032,
+     0.5567
+    ],
+    [
+     0.3032,
+     0.3903,
+     0.5567
+    ],
+    [
+     0.3903,
+     0.4774,
+     0.5567
+    ],
+    [
+     0.4774,
+     0.5645,
+     0.5567
+    ],
+    [
+     0.5645,
+     0.6516,
+     0.5567
+    ],
+    [
+     0.6516,
+     0.7387,
+     0.5567
+    ],
+    [
+     0.7387,
+     0.8258,
+     0.5567
+    ],
+    [
+     0.8258,
+     0.9129,
+     0.5567
+    ],
+    [
+     0.9129,
+     1.0,
+     0.5567
+    ]
+   ],
+   "raw_path": "page-1298-4795a8a1d020/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "ceb325fb105ca943130f5613025d10117752d62816db9430366ed30dfb8aee92"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "452 EDWARDS",
+   "bbox": [
+    0.0,
+    0.0419,
+    1.0,
+    0.0702
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1298-4795a8a1d020:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "452",
+   "bbox": [
+    0.0829,
+    0.0494,
+    0.1201,
+    0.0659
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1298-4795a8a1d020:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "ED W A",
+   "bbox": [
+    0.4459,
+    0.0486,
+    0.5589,
+    0.0651
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1298-4795a8a1d020:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "Edwards,\nBryan.",
+   "bbox": [
+    0.0855,
+    0.0726,
+    0.1454,
+    0.0943
+   ],
+   "source": "s0-col-left",
+   "id": "page-1298-4795a8a1d020:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "but as this did not exceed L.100 per annum, he found it insufficient for the maintenance of a numerous family, and endeavoured to improve his circumstances by dealing in corn and malt. This hazardous trade proved, as it often does, only a means of more deeply involving his affairs; and he died in 1756, leaving a widow and six children in a very distressed situation. Mrs Edwards, however, had two opulent brothers in the West Indies, the eldest of whom, Zachary Bayly, possessing a princely fortune, and being of a very amiable and generous disposition, undertook the support and education of young Edwards. He had already been placed by his father at the school of Mr Foot, a dissenting clergyman at Bristol, where he had been taught the elementary branches of education; but, for some reason which he never was able to divine, that person was strictly prohibited from initiating him in any branches of classical learning. He gave a species of instruction, however, not usual in schools, and from which his pupil probably derived the greatest benefit. He was accustomed to make the boys write letters, or rather essays, on various subjects, such as the beauty and dignity of truth, the obligations to a religious life, the benefits of good education, and the like, giving them, where it appeared necessary, an outline of the arguments which might be employed on the subject. When the papers were given in, he made such observations as appeared proper, insisting at least that they should be correct in point of grammar and orthography. These exercises gave occasion to display the superior talents of Edwards, whose powers of elegant composition already began to appear. He soon became the favourite of his master, who liberally praised these youthful performances, and often transmitted them for the gratification of his parents. They were entirely satisfied; but when the care of his education devolved on his uncle, the agent employed by him at Bristol was much surprised to find an entire deficiency in classical knowledge, and, imputing the blame to the master, removed him immediately to a French boarding school in the same city. It is not said that he acquired here any great portion of Greek and Latin, but he became master of the French language, and having access to an extensive circulating library, cultivated a taste for reading which adhered to him throughout the whole of his future life.",
+   "bbox": [
+    0.1486,
+    0.0718,
+    0.5518,
+    0.5898
+   ],
+   "source": "s0-col-left",
+   "id": "page-1298-4795a8a1d020:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "In 1759, another uncle, the younger brother of him under whose care he had hitherto been, arrived in England. He, too, was possessed of an ample fortune, became member of parliament, first for Abingdon, and afterwards for his native town, and set up a splendid establishment in London. He appeared quite disposed to befriend young Edwards, and even took the latter to reside with him; but the nephew observes, that, after enumerating his external advantages, he had nothing else to say in favour of his uncle. What the bad qualities were which drew forth so unfavorable a sentence we are not informed; but in a few months they separated, and Edwards went out to his other uncle. In this friend he seems to have found every thing he could desire; the most enlightened mind, the sweetest temper, and the most generous disposition. To this was added a truly paternal regard for himself, which was returned with all the warmth of filial affection. His uncle, finding him possessed of literary talents, but deficient in classical acquirements, engaged a Mr Teale, a clergyman, and formerly master of a free grammar-school, to reside in his house, and give him the instruction of which he stood in need. This choice proved most acceptable to Edwards; he found in Mr Teale a man of extensive information, and one, too, possessing considerable taste in poetry. He viewed him, therefore, as a companion rather than as a teacher; but this relation between the tutor and pupil, however agreeable to both, was not favourable for",
+   "bbox": [
+    0.1492,
+    0.5913,
+    0.5513,
+    0.9191
+   ],
+   "source": "s0-col-left",
+   "id": "page-1298-4795a8a1d020:b5"
+  },
+  {
+   "order": 6,
+   "class": "Head-fragment",
+   "text": "**AR D S.**",
+   "bbox": [
+    0.5517,
+    0.0464,
+    0.6664,
+    0.0674
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1298-4795a8a1d020:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "instilling the dry principles of grammar and prosody. A Bwa much larger proportion of their time was spent in tasting the beauties of Dryden and Pope, and in laughing at the comic sallies of Moliere. Mr Edwards, upon the whole, acquired, during this period, small Latin and less Greek; but he continued to practise composition, both in press and verse; and the two companions sent occasional pieces to the colonial newspapers.",
+   "bbox": [
+    0.5552,
+    0.0704,
+    0.9571,
+    0.1707
+   ],
+   "source": "s0-col-right",
+   "id": "page-1298-4795a8a1d020:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "The time was now coming when Mr Edwards' talents were to be exercised in a wider sphere. His uncle dying, bequeathed to him his property ; and in 1773 he became heir to the much larger estate of Mr Hume, also of Ja-maica. His wealth and talents united, now entitled him to take a lead in the political concerns of the island. In 1784 he published _Thoughts on the Proceedings of Government respecting the Trade of the West India Islands with the United States of America._ This was followed by a speech delivered at a free conference between the Council and Assembly at Jamaica, held on the 25th of November 1789, on the subject of Mr Wilberforce's propositions in the House of Commons concerning the slave trade. It was in 1793, however, that he published his great work, on which he had been many years engaged, entitled History, Civil and Commercial, of the British Colonies in the West Indies, 2 vols. Ato. He begins the work by giving a view of the original inhabitants of the West Indies, their manners, institutions, and the means by which they have been so entirely exterminated. This was followed by a sketch of the revolutions through which these islands have passed since the first European invasion. He gives next a geographical and statistical description of each particular island. He treats finally, at great length, of the government, the social state, and above all the commerce, of this remarkable region. In the course of the discussion, he enters fully into its relations with the African coast and the negro slave trade. Mr Edwards, as a great and long-resident proprietor, was almost inevitably led to be a supporter of this traffic. He reasons, however, in a liberal and candid manner on the question, and does not even attempt to deny the extent of the evils with which it was accompanied. He only insists that these evils have been overrated ; and that Great Britain, by renounceing it whilst it was still prosecuted by the other nations of Europe, would ruin her own colonies, without doing any thing to improve the condition of the Africans. In 1796 he published, in one volume quarto, a _History of St Domingo_, an island which had excited a deep interest, in consequence of the insurrection of the slaves, and the consequent establishment of an independent negro government. In 1801 a new edition of both these works was published, in three vols. 8vo, under the general title of _History of the West Indies_. A fifth edition issued from the press in the year 1819. When Park returned from his celebrated journey, Mr Edwards, from his oral information, drew up a report of it, which was submitted to the African Society, and published in their _Transactions_. Mr Park afterwards incorporated the greater part of this into the general narrative of his _Travels_, in preparing which he availed himself much of the assistance and suggestions of Mr Edwards. It has been currently said that this narrative was entirely written by Mr Edwards ; but as this assertion has been pointedly contradicted by Park, who has elsewhere shown respectable talents for composition, it can only be understood in the limited sense which has now been stated. It appears, however, that Mr Park was induced, by Mr Edwards’ influence, to give rather a more favourable view of the trade in slaves than reflection afterwards led him to sanction.",
+   "bbox": [
+    0.5556,
+    0.1677,
+    0.9575,
+    0.8937
+   ],
+   "source": "s0-col-right",
+   "id": "page-1298-4795a8a1d020:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Mr Edwards, after his removal to England, took up his residence at Polygon, near Southampton ; and in 1796 he",
+   "bbox": [
+    0.56,
+    0.89,
+    0.9566,
+    0.9214
+   ],
+   "source": "s0-col-right",
+   "id": "page-1298-4795a8a1d020:b9"
+  }
+ ]
+}

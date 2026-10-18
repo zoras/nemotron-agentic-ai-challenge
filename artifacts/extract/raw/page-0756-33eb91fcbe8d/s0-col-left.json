@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "babdae79ecc05c8a25784af8e89b01c1812922dd9a4034362eb5f84a0b338fcc",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "a8ef5b237521bd98e6d11c7a64578ccb6393b4aac0aafe748fae7fb5e725fde2",
+  "image_bytes": 2268954,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:756",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0262,
+   0.4717,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0262,
+    0.1074,
+    0.4667
+   ],
+   [
+    0.1074,
+    0.1885,
+    0.4667
+   ],
+   [
+    0.1885,
+    0.2697,
+    0.4667
+   ],
+   [
+    0.2697,
+    0.3508,
+    0.4667
+   ],
+   [
+    0.3508,
+    0.432,
+    0.4667
+   ],
+   [
+    0.432,
+    0.5131,
+    0.4667
+   ],
+   [
+    0.5131,
+    0.5942,
+    0.4667
+   ],
+   [
+    0.5942,
+    0.6754,
+    0.4667
+   ],
+   [
+    0.6754,
+    0.7566,
+    0.4667
+   ],
+   [
+    0.7566,
+    0.8377,
+    0.4667
+   ],
+   [
+    0.8377,
+    0.9188,
+    0.465
+   ],
+   [
+    0.9188,
+    1.0,
+    0.4667
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2519,
+  "completion_tokens": 975,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.48,
+ "created_at": "2026-10-18T11:19:38+00:00",
+ "content": "<x_0.7129><y_0.0078>M A G N<x_0.9746><y_0.0281><class_Page-header>\n\n<x_0.0322><y_0.0312>43 tempered\nel nec-\nires du\nble mag\ntifm.<x_0.1387><y_0.0984><class_Caption>\n\n<x_0.1475><y_0.0297>But any degree of temper that is given to fleet makes\na very important change in this respect. In the first\nplace, it acquires magnetifm more flowly by induction\nthan an equal and similar piece of common iron, and fi-\nnally acquires lefs. Thefe differences are easily examined by the deviations which it causes in the manner's\nneedle from the magnetic meridian, and by its attractive.<x_0.9844><y_0.1391><class_Text>\n\n<x_0.1494><y_0.1383>When the inducing magnet is removed, fome mag-\nnetifm remains in the fleet bar, which retains the polarity which it had in the neighbourhood of the magnet.<x_0.9824><y_0.1812><class_Text>\n\n<x_0.1484><y_0.1805>Steel tempered to the degree fit for watch springs\nacquires a strong magnetism, which it exhibits imme-\ndiately on the removal of the magnet. But it diffipates\nvery fatt; and, in a very few minutes, it is reduced to\nlefs than one half of its intensity while in contact with\nthe magnet, and not two-thirds of what it was imme-\ndiately on removal from it. It continues to diffiplate for\nfome days, though the bar be kept with care; but the\ndiffipation diminishes fatt, and it retains at least one-\nthird of its greatest power for any length of time, unlefs\ncarelefsly kept or injudiciously treated.<x_0.9814><y_0.3305><class_Text>\n\n<x_0.1465><y_0.3297>Steel tempered for frong cutting tools, such as chifels,\npunches, and drills for metal, acquires magnetifm fill\nmore flowly by induction, and acquires lefs of it while\nin contact with the magnet; but it retains it more firm-\nly, and finally retains a greater proportion of what it\nhad acquired.<x_0.9805><y_0.4125><class_Text>\n\n<x_0.1455><y_0.4117>Steel made as hard as poffible, is much longer in ac-\nquiring all the magnetifm which limple juxtapofition\ncan give to it. It acquires lefs than the former; but it\nretains it with great firmness, and finally retains a much\ngreater proportion.<x_0.9795><y_0.4813><class_Text>\n\n<x_0.1338><y_0.4805>Such ores of iron as are futiceptible of magnetifm,\nare nearly like hard feel in their respects; that is, in\nthe time necessary for their _greatef_ impregnation, and\nin the durability of the acquired magnetifm. They\ndiffer exceedingly in respect to the degree of power\nwhich they can attain by mere juxtapolition, and the\nvarieties feem to depend on heterogeneous mixture.\nWe mult obferve, that few ores of iron are futiceptible\nof magnetifm in their natural flate. The ordinary ores,\nconfiting of the metal in the flate of an oxyd, and com-\nbined with fulphur, are not magnetizable while remain-\ning in that flate. Moft ores require roafting, and a fort\nof cementation, in contact with inflammable fubilances.\nThis matter is not well understood; but it would feem\nthat complete metallization is far from being the moft fa-\nvourable condition, and that a certain degree of oxyda-\ntion, and perhaps fome other composition, yet unknown,\nmake the best loaditones. But all this is extremely\nobcure. The late Dr Gowin Knight made a compoli-\ntion which acquired a very frorng and permanent mag-\nnetifm, but the fetret died with him. Dr Gilbert\npeaks of familiar compositions, in which ferrugineous\nclays were ingredients; but we know nothing of the flate\nof the metal in them, nor their mode of acquiring mag-\nnetifm.<x_0.9785><y_0.8211><class_Text>\n\n<x_0.1309><y_0.8203>It is of peculiar importance to remark that the ac-\nquisition of magnetifm is gradual and progreflive, and\nthat the gradation is the more perceptible in proportion\nas the feet is of a harder temper. When a magnet is\nbrought to one end of a bar of common iron, its remote\nextremity, unlefs exceedingly long, acquires its utmoft\nmagnettim immediately. But when the north pole of<x_0.9609><y_0.9187><class_Text>\n\n<x_0.0264><y_0.8125>44 duction\nmagnetic\nal and\nogreflive<x_0.1289><y_0.882><class_Caption>\n\n<x_0.1641><y_0.9172>SUPPL VOL. II. Part I.<x_0.5518><y_0.932><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-be7745cb-2cd9-428e-b591-d70ed73b225a",
+  "object": "chat.completion",
+  "created": 1792322377,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.7129><y_0.0078>M A G N<x_0.9746><y_0.0281><class_Page-header>\n\n<x_0.0322><y_0.0312>43 tempered\nel nec-\nires du\nble mag\ntifm.<x_0.1387><y_0.0984><class_Caption>\n\n<x_0.1475><y_0.0297>But any degree of temper that is given to fleet makes\na very important change in this respect. In the first\nplace, it acquires magnetifm more flowly by induction\nthan an equal and similar piece of common iron, and fi-\nnally acquires lefs. Thefe differences are easily examined by the deviations which it causes in the manner's\nneedle from the magnetic meridian, and by its attractive.<x_0.9844><y_0.1391><class_Text>\n\n<x_0.1494><y_0.1383>When the inducing magnet is removed, fome mag-\nnetifm remains in the fleet bar, which retains the polarity which it had in the neighbourhood of the magnet.<x_0.9824><y_0.1812><class_Text>\n\n<x_0.1484><y_0.1805>Steel tempered to the degree fit for watch springs\nacquires a strong magnetism, which it exhibits imme-\ndiately on the removal of the magnet. But it diffipates\nvery fatt; and, in a very few minutes, it is reduced to\nlefs than one half of its intensity while in contact with\nthe magnet, and not two-thirds of what it was imme-\ndiately on removal from it. It continues to diffiplate for\nfome days, though the bar be kept with care; but the\ndiffipation diminishes fatt, and it retains at least one-\nthird of its greatest power for any length of time, unlefs\ncarelefsly kept or injudiciously treated.<x_0.9814><y_0.3305><class_Text>\n\n<x_0.1465><y_0.3297>Steel tempered for frong cutting tools, such as chifels,\npunches, and drills for metal, acquires magnetifm fill\nmore flowly by induction, and acquires lefs of it while\nin contact with the magnet; but it retains it more firm-\nly, and finally retains a greater proportion of what it\nhad acquired.<x_0.9805><y_0.4125><class_Text>\n\n<x_0.1455><y_0.4117>Steel made as hard as poffible, is much longer in ac-\nquiring all the magnetifm which limple juxtapofition\ncan give to it. It acquires lefs than the former; but it\nretains it with great firmness, and finally retains a much\ngreater proportion.<x_0.9795><y_0.4813><class_Text>\n\n<x_0.1338><y_0.4805>Such ores of iron as are futiceptible of magnetifm,\nare nearly like hard feel in their respects; that is, in\nthe time necessary for their _greatef_ impregnation, and\nin the durability of the acquired magnetifm. They\ndiffer exceedingly in respect to the degree of power\nwhich they can attain by mere juxtapolition, and the\nvarieties feem to depend on heterogeneous mixture.\nWe mult obferve, that few ores of iron are futiceptible\nof magnetifm in their natural flate. The ordinary ores,\nconfiting of the metal in the flate of an oxyd, and com-\nbined with fulphur, are not magnetizable while remain-\ning in that flate. Moft ores require roafting, and a fort\nof cementation, in contact with inflammable fubilances.\nThis matter is not well understood; but it would feem\nthat complete metallization is far from being the moft fa-\nvourable condition, and that a certain degree of oxyda-\ntion, and perhaps fome other composition, yet unknown,\nmake the best loaditones. But all this is extremely\nobcure. The late Dr Gowin Knight made a compoli-\ntion which acquired a very frorng and permanent mag-\nnetifm, but the fetret died with him. Dr Gilbert\npeaks of familiar compositions, in which ferrugineous\nclays were ingredients; but we know nothing of the flate\nof the metal in them, nor their mode of acquiring mag-\nnetifm.<x_0.9785><y_0.8211><class_Text>\n\n<x_0.1309><y_0.8203>It is of peculiar importance to remark that the ac-\nquisition of magnetifm is gradual and progreflive, and\nthat the gradation is the more perceptible in proportion\nas the feet is of a harder temper. When a magnet is\nbrought to one end of a bar of common iron, its remote\nextremity, unlefs exceedingly long, acquires its utmoft\nmagnettim immediately. But when the north pole of<x_0.9609><y_0.9187><class_Text>\n\n<x_0.0264><y_0.8125>44 duction\nmagnetic\nal and\nogreflive<x_0.1289><y_0.882><class_Caption>\n\n<x_0.1641><y_0.9172>SUPPL VOL. II. Part I.<x_0.5518><y_0.932><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2519,
+   "completion_tokens": 975,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

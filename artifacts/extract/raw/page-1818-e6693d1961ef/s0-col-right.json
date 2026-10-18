@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "ca73d9a331d6a49045e410eaef72cb1e47f2d646fe1dd0cb0cc9c9f332dab18a",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "0dc214b7db7926caf5747ee7f70fc983ba42c10c7286191b44334f7e62076247",
+  "image_bytes": 2613403,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1818",
+  "variant": "s0-col-right",
+  "crop": [
+   0.46,
+   0.0231,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0231,
+    0.1045,
+    0.47
+   ],
+   [
+    0.1045,
+    0.1859,
+    0.465
+   ],
+   [
+    0.1859,
+    0.2673,
+    0.465
+   ],
+   [
+    0.2673,
+    0.3487,
+    0.465
+   ],
+   [
+    0.3487,
+    0.4301,
+    0.465
+   ],
+   [
+    0.4301,
+    0.5115,
+    0.465
+   ],
+   [
+    0.5115,
+    0.593,
+    0.465
+   ],
+   [
+    0.593,
+    0.6744,
+    0.465
+   ],
+   [
+    0.6744,
+    0.7558,
+    0.465
+   ],
+   [
+    0.7558,
+    0.8372,
+    0.465
+   ],
+   [
+    0.8372,
+    0.9186,
+    0.465
+   ],
+   [
+    0.9186,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2623,
+  "completion_tokens": 951,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.85,
+ "created_at": "2026-10-18T11:20:25+00:00",
+ "content": "<x_0.0166><y_0.0063>**-PIPE.**<x_0.2246><y_0.0273><class_Page-header>\n\n<x_0.8418><y_0.0117>713<x_0.9199><y_0.0312><class_Text>\n\n<x_0.0186><y_0.032>length of four or five inches, so as to be held conveniently **Blow-pipe.** in the left hand. Some blow-pipes have been made with a stand, to which they are connected by a ball and socket joint, the stand being fixed to the table by a clamp ; and this construction leaves the right hand at liberty. In reducing fragments of metallic ores by the blow-pipe, charcoal should be used as a support, for the charcoal attracts the oxygen from the metallic oxide, and reduces it to a metallic form ; and when thus reduced, the metal may be kept fused on the charcoal, which prevents or retards its again attracting oxygen. The charcoal support has likewise the advantage of increasing the heat by its incan-descence. For both these reasons, to prevent oxidation, and to increase and reverberate the heat proceeding from the jet of flame, the goldsmith who solders his small work by the blow-pipe attaches his work to a piece of charcoal, by means of wires, in the process of soldering.<x_0.7939><y_0.2547><class_Text>\n\n<x_0.0156><y_0.2508>When it is required that the fragment of a mineral Support of should be heated without the contact of charcoal, the platina. fragment is exposed to the flame in a small spoon of pla-tina, with a wooden handle, the cavity of the spoon being a hemisphere of three tenths of an inch in diameter ; or on a thin lamina of platina two or three inches long and half an inch broad, and of the thickness of common writing paper ; or it is held by a forceps, three inches long, made of thin platina. Bergman, who published his treatise on the blow-pipe in 1780, before the working of platina had come into use, employed a small gold spoon, as that metal has the quality of remaining pure and uncontaminated, whilst in contact with many of the chemical agents; but platina is preferable ; for, besides possessing the quality of resisting the action of many chemical agents, it has likewise the advantage of difficult fusibility. It has now for a good many years been wrought into various instruments both in London and Paris ; and when wrought it is sold at the price of about a guinea the ounce, which is one quarter the price of gold. Some platina workers, as Jean-etti of Paris, who was one of the first, form the crude gra-nular platina into masses, by melting it with arsenic, and subsequent heating and forging ; others dissolve the crude platina in nitro-muriatic acid, and reduce the nitro-muriate of platina to a metallic state by heat. Platina, however, although infusible alone by the heat of the common blow-pipe, will be dissolved and melted if heated along with some of the metals. Platina supports, therefore, should not be used where they are liable to be in contact with a fused metal. These effects are notable in the case of tin ; for when tin is melted in contact with a vessel of platina, the tin enters into a combination with the platina, corroding and rendering it brittle, so that pieces of the platina vessel come off on the application of a small force, and the ves-sel is thus rendered useless. Platina vessels also become unserviceable by frequent and continued exposure to great heat. Platina crucibles which are much used become brittle, and crack at the edges ; and care should be taken to cool these vessels gradually, that they may last as long as possible. A platina vessel, in which sulphuric acid was boiled for a long time, at last became perforated and un-serviceable.<x_0.7949><y_0.7922><class_Text>\n\n<x_0.0137><y_0.7914>Borax (borate of soda) is used along with the fragment Fluxes. of mineral in many cases. When exposed to the flame it becomes opaque, swells and ramifies much, in consequence of parting with its water of crystallization ; afterwards it fuses into a colourless and transparent bead. It is convenient to use calcined borax, which is borax deprived of its water of crystallization by heat in a crucible: this melts into a bead on the charcoal at once. The solubility of a mineral in borax, with effervescence or without effervescence, and the colour which the mineral communicates to the borax, are the chief distinctive characters obtained<x_0.7842><y_0.9352><class_Text>\n\n<x_0.6348><y_0.9344>4 x<x_0.6865><y_0.9469><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-0ef526f3-72e9-4424-9ab4-211019bed9bc",
+  "object": "chat.completion",
+  "created": 1792322424,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0166><y_0.0063>**-PIPE.**<x_0.2246><y_0.0273><class_Page-header>\n\n<x_0.8418><y_0.0117>713<x_0.9199><y_0.0312><class_Text>\n\n<x_0.0186><y_0.032>length of four or five inches, so as to be held conveniently **Blow-pipe.** in the left hand. Some blow-pipes have been made with a stand, to which they are connected by a ball and socket joint, the stand being fixed to the table by a clamp ; and this construction leaves the right hand at liberty. In reducing fragments of metallic ores by the blow-pipe, charcoal should be used as a support, for the charcoal attracts the oxygen from the metallic oxide, and reduces it to a metallic form ; and when thus reduced, the metal may be kept fused on the charcoal, which prevents or retards its again attracting oxygen. The charcoal support has likewise the advantage of increasing the heat by its incan-descence. For both these reasons, to prevent oxidation, and to increase and reverberate the heat proceeding from the jet of flame, the goldsmith who solders his small work by the blow-pipe attaches his work to a piece of charcoal, by means of wires, in the process of soldering.<x_0.7939><y_0.2547><class_Text>\n\n<x_0.0156><y_0.2508>When it is required that the fragment of a mineral Support of should be heated without the contact of charcoal, the platina. fragment is exposed to the flame in a small spoon of pla-tina, with a wooden handle, the cavity of the spoon being a hemisphere of three tenths of an inch in diameter ; or on a thin lamina of platina two or three inches long and half an inch broad, and of the thickness of common writing paper ; or it is held by a forceps, three inches long, made of thin platina. Bergman, who published his treatise on the blow-pipe in 1780, before the working of platina had come into use, employed a small gold spoon, as that metal has the quality of remaining pure and uncontaminated, whilst in contact with many of the chemical agents; but platina is preferable ; for, besides possessing the quality of resisting the action of many chemical agents, it has likewise the advantage of difficult fusibility. It has now for a good many years been wrought into various instruments both in London and Paris ; and when wrought it is sold at the price of about a guinea the ounce, which is one quarter the price of gold. Some platina workers, as Jean-etti of Paris, who was one of the first, form the crude gra-nular platina into masses, by melting it with arsenic, and subsequent heating and forging ; others dissolve the crude platina in nitro-muriatic acid, and reduce the nitro-muriate of platina to a metallic state by heat. Platina, however, although infusible alone by the heat of the common blow-pipe, will be dissolved and melted if heated along with some of the metals. Platina supports, therefore, should not be used where they are liable to be in contact with a fused metal. These effects are notable in the case of tin ; for when tin is melted in contact with a vessel of platina, the tin enters into a combination with the platina, corroding and rendering it brittle, so that pieces of the platina vessel come off on the application of a small force, and the ves-sel is thus rendered useless. Platina vessels also become unserviceable by frequent and continued exposure to great heat. Platina crucibles which are much used become brittle, and crack at the edges ; and care should be taken to cool these vessels gradually, that they may last as long as possible. A platina vessel, in which sulphuric acid was boiled for a long time, at last became perforated and un-serviceable.<x_0.7949><y_0.7922><class_Text>\n\n<x_0.0137><y_0.7914>Borax (borate of soda) is used along with the fragment Fluxes. of mineral in many cases. When exposed to the flame it becomes opaque, swells and ramifies much, in consequence of parting with its water of crystallization ; afterwards it fuses into a colourless and transparent bead. It is convenient to use calcined borax, which is borax deprived of its water of crystallization by heat in a crucible: this melts into a bead on the charcoal at once. The solubility of a mineral in borax, with effervescence or without effervescence, and the colour which the mineral communicates to the borax, are the chief distinctive characters obtained<x_0.7842><y_0.9352><class_Text>\n\n<x_0.6348><y_0.9344>4 x<x_0.6865><y_0.9469><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2623,
+   "completion_tokens": 951,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

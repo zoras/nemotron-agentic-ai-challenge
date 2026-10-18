@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "1cd3e56a84b5e9c8fccb2f4c5bd3418ffaf433024a05257562cff4c64dbe2fcc",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "06bdec16c90657d2b49145b4718302c0d5916977eb1fee8e6c2567f93f092b8a",
+  "image_bytes": 1668269,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2131",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0616,
+   0.4533,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0616,
+    0.1469,
+    0.4483
+   ],
+   [
+    0.1469,
+    0.2322,
+    0.4433
+   ],
+   [
+    0.2322,
+    0.3175,
+    0.4433
+   ],
+   [
+    0.3175,
+    0.4028,
+    0.4433
+   ],
+   [
+    0.4028,
+    0.4881,
+    0.4433
+   ],
+   [
+    0.4881,
+    0.5735,
+    0.4433
+   ],
+   [
+    0.5735,
+    0.6588,
+    0.4433
+   ],
+   [
+    0.6588,
+    0.7441,
+    0.4433
+   ],
+   [
+    0.7441,
+    0.8294,
+    0.4433
+   ],
+   [
+    0.8294,
+    0.9147,
+    0.4433
+   ],
+   [
+    0.9147,
+    1.0,
+    0.4433
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2651,
+  "completion_tokens": 1107,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.49,
+ "created_at": "2026-10-18T11:11:37+00:00",
+ "content": "<x_0.0><y_0.0>\\begin{tabular}{ccccc}\n**Bombay.** & \\multicolumn{2}{c}{**AUGUST.**} & \\multicolumn{2}{c}{**SEPTEMBER.**}\\\\\n & **_Days of_** _the month._** & **_Quantity of_** _rain in_ In. Tenths._ & **_Days of_** _the month._** & **_Quantity of_** _rain in_ In.Tenths._\\\\\n19 - & 0 2 & 22 - & 0 6 & \\\\\n20 - & 0 2 & 23 - & 0 3 & \\\\\n21 - & 0 1 & 24 - & 0 3 & \\\\\n22 - & 0 4 & 25 - & 0 2 & \\\\\n25 - & 0 4 & 26 - & 0 2 & \\\\\n26 - & 0 7 & 27-30 - & 1 0 & \\\\\n27 - & 0 5 & \\multicolumn{2}{c}{OCTOBER.} & \\\\\n28 - & 0 2 & 2-7 - & 2 1 & \\\\\n30 - & 0 1 & 9 - & 2 0 & \\\\\n31 - & 0 2 & 15 - & 0 3 & \\\\\n\\multicolumn{2}{c}{SEPTEMBER.} & 16, 17 - & 0 1 & \\\\\n1 - & 0 2 & 22 The air fine and clear, without a cloud, the land and fea-breczes regular. & & \\\\\n3 - & 0 3 & & & \\\\\n8 - & 0 1 & & & \\\\\n9 - & 0 4 & Whole quantity of rain in In Tenths. & & \\\\\n10 - & 0 5 & May - & 1 0 & \\\\\n11 - & 0 9 & June - & 44 7 & \\\\\n12 - & 0 4 & July - & 29 9 & \\\\\n13 - & 0 5 & Auguft - & 19 0 & \\\\\n16 - & 0 5 & September - & 11 2 & \\\\\n19 - & 0 6 & October - & 4 5 & \\\\\n20 - & 3 2 & & & \\\\\n21 - & 0 4 & Total 110 3 & & \\\\\n\\end{tabular}<x_0.9951><y_0.4055><class_Table>\n\n<x_0.1445><y_0.4047>In this journal our author makes no mention of the elephanta above mentioned from Mr Grofe as the forerunner of the rainy feafon, though he mentions a florm under that name on the 9th of October. It was an excellent hard gale, with violent thunder, lightning, and rain; of which lail there fell two inches in no more than four hours. Neither is the quantity of thunder and lightning at all comparable to what people unacquainted with hot climates might be apt to expect. The only thunder-florms mentioned in the journal were on May 31ll, June 3d, 5th, 12th, 14th; September 7th, October 9th, an elephanta; and fome thunder on the 15th of the fame month.<x_0.9766><y_0.5867><class_Text>\n\n<x_0.1455><y_0.5859>The vegetable productions of Bombay are very insignificant. Mr Ives fays, that its \" foil is fo barren as not to produce any one thing worth mentioning:\" but afterwards informs us, that its \"natural produce is the cocoa-nut tree, from which they extract a liquor called today. This is foft and mild when drunk immediately: but if it lands long, it gathers flrength, and becomes very intoxicating; whence probably arofc the term _toidy-headed._ For each tree a tax of 20s. a-year is paid to the company, which is appropriated towards maintaining the garrifon and ships of war.\"<x_0.9756><y_0.7414><class_Text>\n\n<x_0.1436><y_0.7406>Mr Grofe gives an account fomewhat different.-- \" The _carts_, or cocoa-nut groves, make the moft considerable part of the landed property, being planted wherever the situation and foil is favourable to them. When a number of thefe groves lie contiguous to each other, they form what is called the _cooofs_; through which there is a due space left for roads and path-ways, where one is pleafantly defended from the fun at all hours in the day. They are alfo thick fet with houfes belonging to the respective proprietors as well as with the huts of the poorer fort of people; but are very un-wholefome for the reafons already given. As to the<x_0.9697><y_0.907><class_Text>\n\n<x_0.1846><y_0.9062>Vol. III. Part I.<x_0.46><y_0.9211><class_Section-header>",
+ "reply": {
+  "id": "chatcmpl-be3dc7da-731b-4562-bcd0-bfdb39cadca6",
+  "object": "chat.completion",
+  "created": 1792321895,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>\\begin{tabular}{ccccc}\n**Bombay.** & \\multicolumn{2}{c}{**AUGUST.**} & \\multicolumn{2}{c}{**SEPTEMBER.**}\\\\\n & **_Days of_** _the month._** & **_Quantity of_** _rain in_ In. Tenths._ & **_Days of_** _the month._** & **_Quantity of_** _rain in_ In.Tenths._\\\\\n19 - & 0 2 & 22 - & 0 6 & \\\\\n20 - & 0 2 & 23 - & 0 3 & \\\\\n21 - & 0 1 & 24 - & 0 3 & \\\\\n22 - & 0 4 & 25 - & 0 2 & \\\\\n25 - & 0 4 & 26 - & 0 2 & \\\\\n26 - & 0 7 & 27-30 - & 1 0 & \\\\\n27 - & 0 5 & \\multicolumn{2}{c}{OCTOBER.} & \\\\\n28 - & 0 2 & 2-7 - & 2 1 & \\\\\n30 - & 0 1 & 9 - & 2 0 & \\\\\n31 - & 0 2 & 15 - & 0 3 & \\\\\n\\multicolumn{2}{c}{SEPTEMBER.} & 16, 17 - & 0 1 & \\\\\n1 - & 0 2 & 22 The air fine and clear, without a cloud, the land and fea-breczes regular. & & \\\\\n3 - & 0 3 & & & \\\\\n8 - & 0 1 & & & \\\\\n9 - & 0 4 & Whole quantity of rain in In Tenths. & & \\\\\n10 - & 0 5 & May - & 1 0 & \\\\\n11 - & 0 9 & June - & 44 7 & \\\\\n12 - & 0 4 & July - & 29 9 & \\\\\n13 - & 0 5 & Auguft - & 19 0 & \\\\\n16 - & 0 5 & September - & 11 2 & \\\\\n19 - & 0 6 & October - & 4 5 & \\\\\n20 - & 3 2 & & & \\\\\n21 - & 0 4 & Total 110 3 & & \\\\\n\\end{tabular}<x_0.9951><y_0.4055><class_Table>\n\n<x_0.1445><y_0.4047>In this journal our author makes no mention of the elephanta above mentioned from Mr Grofe as the forerunner of the rainy feafon, though he mentions a florm under that name on the 9th of October. It was an excellent hard gale, with violent thunder, lightning, and rain; of which lail there fell two inches in no more than four hours. Neither is the quantity of thunder and lightning at all comparable to what people unacquainted with hot climates might be apt to expect. The only thunder-florms mentioned in the journal were on May 31ll, June 3d, 5th, 12th, 14th; September 7th, October 9th, an elephanta; and fome thunder on the 15th of the fame month.<x_0.9766><y_0.5867><class_Text>\n\n<x_0.1455><y_0.5859>The vegetable productions of Bombay are very insignificant. Mr Ives fays, that its \" foil is fo barren as not to produce any one thing worth mentioning:\" but afterwards informs us, that its \"natural produce is the cocoa-nut tree, from which they extract a liquor called today. This is foft and mild when drunk immediately: but if it lands long, it gathers flrength, and becomes very intoxicating; whence probably arofc the term _toidy-headed._ For each tree a tax of 20s. a-year is paid to the company, which is appropriated towards maintaining the garrifon and ships of war.\"<x_0.9756><y_0.7414><class_Text>\n\n<x_0.1436><y_0.7406>Mr Grofe gives an account fomewhat different.-- \" The _carts_, or cocoa-nut groves, make the moft considerable part of the landed property, being planted wherever the situation and foil is favourable to them. When a number of thefe groves lie contiguous to each other, they form what is called the _cooofs_; through which there is a due space left for roads and path-ways, where one is pleafantly defended from the fun at all hours in the day. They are alfo thick fet with houfes belonging to the respective proprietors as well as with the huts of the poorer fort of people; but are very un-wholefome for the reafons already given. As to the<x_0.9697><y_0.907><class_Text>\n\n<x_0.1846><y_0.9062>Vol. III. Part I.<x_0.46><y_0.9211><class_Section-header>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2651,
+   "completion_tokens": 1107,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

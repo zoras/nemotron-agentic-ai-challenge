@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "b1b810576040aefe7d13713f87c6ecaf965b79a86507078ae4c0a793962c638b",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "86b5a97e51446c91a3e25570941dc8f36cc57e388a9690f7c7a97905d6ad9c45",
+  "image_bytes": 2542642,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:268",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0309,
+   0.5383,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0309,
+    0.1117,
+    0.5267
+   ],
+   [
+    0.1117,
+    0.1924,
+    0.53
+   ],
+   [
+    0.1924,
+    0.2732,
+    0.53
+   ],
+   [
+    0.2732,
+    0.3539,
+    0.5333
+   ],
+   [
+    0.3539,
+    0.4347,
+    0.5333
+   ],
+   [
+    0.4347,
+    0.5155,
+    0.5333
+   ],
+   [
+    0.5155,
+    0.5962,
+    0.5333
+   ],
+   [
+    0.5962,
+    0.677,
+    0.5333
+   ],
+   [
+    0.677,
+    0.7577,
+    0.5333
+   ],
+   [
+    0.7577,
+    0.8385,
+    0.5333
+   ],
+   [
+    0.8385,
+    0.9192,
+    0.5333
+   ],
+   [
+    0.9192,
+    1.0,
+    0.5333
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2727,
+  "completion_tokens": 927,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.53,
+ "created_at": "2026-10-18T11:19:14+00:00",
+ "content": "<x_0.4473><y_0.0039>L A U [ 60<x_0.9824><y_0.0266><class_Page-header>\n\n<x_0.1221><y_0.0273>Laurus.<x_0.248><y_0.0563><class_Caption>\n\n<x_0.2461><y_0.025>cipally the farecity of this plant which makes it valu- able.<x_0.9658><y_0.057><class_Text>\n\n<x_0.2471><y_0.0539>The _benzoin_ tree will grow to a much larger fize than the other, and its branches are more numerous. They are smooth, and of a fine light-green colour. The leaves on their upper surface are smooth and of a fine light-green colour, but their under surface is ve- nofe, and of a whitifh caft. When bruifed, they emit a fine fragrance. This tree was formerly mittaken for that which produces the drug called _benzoin_; which is now known to be obtained from a species of flyrax. See STYRAX.<x_0.9707><y_0.1969><class_Text>\n\n<x_0.25><y_0.1938>The _faffafras_ will grow to nearly the height of the others, though the branches are not fo numerous. Its bark is smooth, and of a red colour, which beautifully ditinguifhes it in winter; whilst the fine thinning green of its leaves constitutes its greatest beauty in summer. In thefe, indeed, there is a variety, and a very extraor-dinary one. Some are large, and of an oval figure; others are smaller, and of the fame shape; while o-thers again are fo divided into three lobes, as to resemble the leaves of fome forts of the fig-tree. In America, the faffafras generally flands fingle in the woods, and along the fences round the fields. It flowers in May before the leaves come out; and being entirely covered with them, it is ditinguified at a great distance by their beautiful yellow colour.<x_0.9736><y_0.4086><class_Text>\n\n<x_0.2578><y_0.4031>The root of the faffafras has a fragrant fmell, and a fweetifh, aromatic, fubacrid tafte; the bark taftes much stronger than any other part, and the fmall twigs stronger than the large pieces. It is a warm aperture and corroborant, and frequently employed with good fuccefs for purifying and fweetening the blood and juices. For thefe purposes, infusions made from the rafped root or bark may be drank as tea. In fome confitutions indeed, fuch liquors are, by their fragrance, apt, on firt taking them, to affect the head; but in fuch cafes, they may be advantageously freed from their flavour by boiling. A decoction of faffafras, boiled down to the confluence of an extract, proves firmly bitterith and fubaftringent. Hoffman affures us, that he has frequently given this extract to the quantity of a feruple at a time, with remarkable fuccefs, for strengthening the tone of the vificera in ca-chexies; as alfo in the decline of intermittent fevers, and in hypochondriacal fpafms. Saffafras yields in di-fillation an extremely fragrant oil of a penetrating pungent tafte, fo ponderous (notwithlanding the lightnefs of the drug itself) as to link in water. Rec-tified fpirit extracts the whole tafte and fmell of faffa-fras; and elevates nothing in evaporation: hence the fpirituous extract proves the moft elegant and efficacious preparation, as containing the virtue of the root entire.<x_0.9814><y_0.7711><class_Text>\n\n<x_0.2686><y_0.7641>The bark of this tree is ufed by the women in Pen-fylvania and other parts of North America in dying worfted a fine latting orange colour, which does not fade in the fun. They ufe urine infitead of alum in dying; and boil the dye in a brafs boiler, because in an iron velfel it does not yield fo fine a colour. The wood is made ufe of for polls belonging to the inclo-fures, for it is laid to latt a long time in the ground: but it is likewise fair, that there is hardly any kind of wood which is more attacked by worms than this when it is exposed to the air without cover; and that in a short time it is quite worm eaten through and through.<x_0.9912><y_0.9414><class_Text>\n\n<x_0.1436><y_0.8641>_Rale’s Travel in America._<x_0.2627><y_0.9039><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-35dfda3b-a6c6-446a-87d4-9808c705dda5",
+  "object": "chat.completion",
+  "created": 1792322353,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4473><y_0.0039>L A U [ 60<x_0.9824><y_0.0266><class_Page-header>\n\n<x_0.1221><y_0.0273>Laurus.<x_0.248><y_0.0563><class_Caption>\n\n<x_0.2461><y_0.025>cipally the farecity of this plant which makes it valu- able.<x_0.9658><y_0.057><class_Text>\n\n<x_0.2471><y_0.0539>The _benzoin_ tree will grow to a much larger fize than the other, and its branches are more numerous. They are smooth, and of a fine light-green colour. The leaves on their upper surface are smooth and of a fine light-green colour, but their under surface is ve- nofe, and of a whitifh caft. When bruifed, they emit a fine fragrance. This tree was formerly mittaken for that which produces the drug called _benzoin_; which is now known to be obtained from a species of flyrax. See STYRAX.<x_0.9707><y_0.1969><class_Text>\n\n<x_0.25><y_0.1938>The _faffafras_ will grow to nearly the height of the others, though the branches are not fo numerous. Its bark is smooth, and of a red colour, which beautifully ditinguifhes it in winter; whilst the fine thinning green of its leaves constitutes its greatest beauty in summer. In thefe, indeed, there is a variety, and a very extraor-dinary one. Some are large, and of an oval figure; others are smaller, and of the fame shape; while o-thers again are fo divided into three lobes, as to resemble the leaves of fome forts of the fig-tree. In America, the faffafras generally flands fingle in the woods, and along the fences round the fields. It flowers in May before the leaves come out; and being entirely covered with them, it is ditinguified at a great distance by their beautiful yellow colour.<x_0.9736><y_0.4086><class_Text>\n\n<x_0.2578><y_0.4031>The root of the faffafras has a fragrant fmell, and a fweetifh, aromatic, fubacrid tafte; the bark taftes much stronger than any other part, and the fmall twigs stronger than the large pieces. It is a warm aperture and corroborant, and frequently employed with good fuccefs for purifying and fweetening the blood and juices. For thefe purposes, infusions made from the rafped root or bark may be drank as tea. In fome confitutions indeed, fuch liquors are, by their fragrance, apt, on firt taking them, to affect the head; but in fuch cafes, they may be advantageously freed from their flavour by boiling. A decoction of faffafras, boiled down to the confluence of an extract, proves firmly bitterith and fubaftringent. Hoffman affures us, that he has frequently given this extract to the quantity of a feruple at a time, with remarkable fuccefs, for strengthening the tone of the vificera in ca-chexies; as alfo in the decline of intermittent fevers, and in hypochondriacal fpafms. Saffafras yields in di-fillation an extremely fragrant oil of a penetrating pungent tafte, fo ponderous (notwithlanding the lightnefs of the drug itself) as to link in water. Rec-tified fpirit extracts the whole tafte and fmell of faffa-fras; and elevates nothing in evaporation: hence the fpirituous extract proves the moft elegant and efficacious preparation, as containing the virtue of the root entire.<x_0.9814><y_0.7711><class_Text>\n\n<x_0.2686><y_0.7641>The bark of this tree is ufed by the women in Pen-fylvania and other parts of North America in dying worfted a fine latting orange colour, which does not fade in the fun. They ufe urine infitead of alum in dying; and boil the dye in a brafs boiler, because in an iron velfel it does not yield fo fine a colour. The wood is made ufe of for polls belonging to the inclo-fures, for it is laid to latt a long time in the ground: but it is likewise fair, that there is hardly any kind of wood which is more attacked by worms than this when it is exposed to the air without cover; and that in a short time it is quite worm eaten through and through.<x_0.9912><y_0.9414><class_Text>\n\n<x_0.1436><y_0.8641>_Rale’s Travel in America._<x_0.2627><y_0.9039><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2727,
+   "completion_tokens": 927,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

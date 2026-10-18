@@ -1,0 +1,499 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2473",
+ "row_index": 2473,
+ "volume_id": "144133902",
+ "filename": "page-2473-b849fb7f25f2.jpg",
+ "image_sha256": "b849fb7f25f25b39685069d12c13b17d47169beeea958446bdff439c230a0f65",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10588,
+  "median_grey": 220,
+  "layout_body_chars": 6041,
+  "layout_pictures": 0
+ },
+ "running_head": "( 5",
+ "layout_raw": "page-2473-b849fb7f25f2/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0,
+    0.4933,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.4883
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.4833
+    ],
+    [
+     0.1667,
+     0.25,
+     0.4833
+    ],
+    [
+     0.25,
+     0.3333,
+     0.4833
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.4833
+    ],
+    [
+     0.4167,
+     0.5,
+     0.4833
+    ],
+    [
+     0.5,
+     0.5833,
+     0.4833
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.4833
+    ],
+    [
+     0.6667,
+     0.75,
+     0.4833
+    ],
+    [
+     0.75,
+     0.8333,
+     0.4833
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.4833
+    ],
+    [
+     0.9167,
+     1.0,
+     0.4833
+    ]
+   ],
+   "raw_path": "page-2473-b849fb7f25f2/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "1304ff0a8b12a975fce03aa1c3a66341e6b2b89b02a599d2bae6482f28e21ebf"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4783,
+    0.0,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.4883
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.4833
+    ],
+    [
+     0.1667,
+     0.25,
+     0.4833
+    ],
+    [
+     0.25,
+     0.3333,
+     0.4833
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.4833
+    ],
+    [
+     0.4167,
+     0.5,
+     0.4833
+    ],
+    [
+     0.5,
+     0.5833,
+     0.4833
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.4833
+    ],
+    [
+     0.6667,
+     0.75,
+     0.4833
+    ],
+    [
+     0.75,
+     0.8333,
+     0.4833
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.4833
+    ],
+    [
+     0.9167,
+     1.0,
+     0.4833
+    ]
+   ],
+   "raw_path": "page-2473-b849fb7f25f2/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "dec0ccd166880f71b97c78f1ec4b3c108514517e9078aec372ef8d4d44ef65fb"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Title",
+   "text": "E R A",
+   "bbox": [
+    0.2043,
+    0.0469,
+    0.3088,
+    0.0664
+   ],
+   "source": "s0-col-left",
+   "id": "page-2473-b849fb7f25f2:b0"
+  },
+  {
+   "order": 1,
+   "class": "Page-header",
+   "text": "( 5",
+   "bbox": [
+    0.4422,
+    0.0477,
+    0.4928,
+    0.0688
+   ],
+   "source": "s0-col-left",
+   "id": "page-2473-b849fb7f25f2:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "The onager, or wild afs, has, by fome authors, been confounded with the zebra; but very improperly, for this left is a difficult species; for the onager is not freaked like this, nor is his shape fo beautiful. Wild-affes are laid to be very twift of courfe; and when they fee a man, they make a bound, and immediately fly away; infomuch, that there is no taking of them, but by traps and gins. They have much the fame fhape as common affes; but they are of a brighter colour, and there runs a white lift from the head to the tail. Of the hide of theffe affes, and particularly of that part next the rump, they make that excellent leather which we call flagreen, and which is put to fo many curious ufes.",
+   "bbox": [
+    0.0703,
+    0.0703,
+    0.4803,
+    0.2687
+   ],
+   "source": "s0-col-left",
+   "id": "page-2473-b849fb7f25f2:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "In America they have no affes at all, nor yet horfes; but they have been carried thither long ago, at firft by the Spaniards, and afterwards by other nations, where they have multiplied greatly; infomuch, that, in fome places, there are whole droves of them that run wild, and are very hard to be caught. Affes in general carry the heaviest burdens in proportion to their bulk; and, as their keeping colts little or nothing, it is a great wonder they are not put to more ufes than they generally are among us.",
+   "bbox": [
+    0.0699,
+    0.268,
+    0.4798,
+    0.4086
+   ],
+   "source": "s0-col-left",
+   "id": "page-2473-b849fb7f25f2:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "The flesh of the common afs is never eaten in thefe parts of the world; though fome pretend their colts are tender, and not difagreeable. [Plate LXXV. fig. 2.]",
+   "bbox": [
+    0.0708,
+    0.4078,
+    0.475,
+    0.4508
+   ],
+   "source": "s0-col-left",
+   "id": "page-2473-b849fb7f25f2:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "3. The zebra.—This animal has the figure and gracefulnefs of the horfe, joined to the Twiftoefs of the flag. He is about 7 feet long, from the point of the muzzle to the origin of the tail, and about 4 feet high The colour of his skin is beautiful and uniform, confining of alternate parallel rings of black and white dilpofed in the molt regular manner, as reprefented in the plate, [LXXV. fig. 3 ]. He is generally lefs than the horie, and larger than the afs.",
+   "bbox": [
+    0.0684,
+    0.45,
+    0.4755,
+    0.5766
+   ],
+   "source": "s0-col-left",
+   "id": "page-2473-b849fb7f25f2:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "the Zebra is found no where but in the eaftern and fouthern provinces of Africa, from Ethiopia to the Cape of Good Hope, and from the Cape of Good Hope to Congo. The Dutch have been at great pains to tame and ufe them for domestic purposes, but with little fuccefs. He is hard-mouthed, and kicks when any perfon attempts to touch or come near him. He is reltlefs and obfitinate as a mule: but perhaps the wild horfe is naturally as untraclable as the Zebra; for, it is probable, if he were early accultomed to obedience and a domeltic life, he would become as docile as the horfe.",
+   "bbox": [
+    0.0669,
+    0.5758,
+    0.4745,
+    0.7297
+   ],
+   "source": "s0-col-left",
+   "id": "page-2473-b849fb7f25f2:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "ERANARCHA, a public officer among the ancient Greeks, whose buffinefs was to preflide over and direct the alms and provilions made for the poor. Cornelius Nepos, in his life of Epaminondas, deferibes his office thus : when any perfon was reduced to poverty, taken captive, or had a daughter to marry, which he could not effect for want of money, _Gc_ the eranarcha called an attembly of friends and neighbours, and taxed each according to his means and elitate, to contri bute towards his relief.",
+   "bbox": [
+    0.0482,
+    0.7289,
+    0.474,
+    0.8688
+   ],
+   "source": "s0-col-left",
+   "id": "page-2473-b849fb7f25f2:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "ERANTHEMUM, in botany, a genus of the diandria monogynia clafs. The calix is divided into five tegments; the tube is filiform; and the fligma is limple. There is but one species, a native of Ethiopia.",
+   "bbox": [
+    0.0472,
+    0.8695,
+    0.4736,
+    0.9289
+   ],
+   "source": "s0-col-left",
+   "id": "page-2473-b849fb7f25f2:b8"
+  },
+  {
+   "order": 9,
+   "class": "Title",
+   "text": "E R I",
+   "bbox": [
+    0.4844,
+    0.043,
+    0.7773,
+    0.0672
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "ERASED, in heraldry. See ARRACHE.",
+   "bbox": [
+    0.4925,
+    0.0688,
+    0.8176,
+    0.0859
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "ERECTION, in a general fenfe, the art of railing or e- levating any thing, as the ereclion of a perpendicular, &c. It is alfof ufed in a figurative fenfe, as the erecction of a bithopric, marquifate, &c.",
+   "bbox": [
+    0.4921,
+    0.0844,
+    0.921,
+    0.143
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "ERECTOR CLITORIS. See ClITORIS.",
+   "bbox": [
+    0.4916,
+    0.1406,
+    0.8206,
+    0.1562
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "ERECTOR PENIS. Sce Penis.",
+   "bbox": [
+    0.491,
+    0.1547,
+    0.7397,
+    0.1695
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "EREMIT. See HERMIT.",
+   "bbox": [
+    0.4905,
+    0.1688,
+    0.7065,
+    0.1836
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "EREMITA, in zoology. See SCARABNUS.",
+   "bbox": [
+    0.49,
+    0.1828,
+    0.8467,
+    0.1992
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "ERFURT, a large and beautiful city of Upper Saxony in Germany, capital of Thuringia, and fubject to the elefor of Mentz: E. long. 11° 6', N. lat. 51°.",
+   "bbox": [
+    0.4895,
+    0.1969,
+    0.92,
+    0.2414
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "ERGOT, in farriery, is a flub, like a piece of foft horn, about the bignefs of a chefnut, placed behind and be- low the pattern-joint, and commonly hid under the tuft of the fetlock.",
+   "bbox": [
+    0.489,
+    0.2383,
+    0.9195,
+    0.2953
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "ERICA, or HEATH, in botany. a genus of the ochan- dria monogynia clafs. The calix conflts of four leaves, and the corolla of four legments; the filaments are inferred into the receptacle; the antherx are bifid; and the capfule has four cells. There are thirty-eight species, five of which are natives of Britain, viz the vulgaris, or common heath; the cinerea, or fine-leaved heath; the tetralix, or crofs-leaved heath; the cilia-ris, or rough-leaved heath; and the multiflora, or fir-leaved health.",
+   "bbox": [
+    0.4885,
+    0.2945,
+    0.9205,
+    0.4359
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "ERIDANUS, in altronomy. See Vol. I. p. 487.",
+   "bbox": [
+    0.488,
+    0.4344,
+    0.8828,
+    0.4516
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "ERIE, a vaft lake to the weflward of Penfilvania, in North America, fituated between 80° and 87° W. long, and between 41° and 42° N lat.",
+   "bbox": [
+    0.4875,
+    0.4492,
+    0.9185,
+    0.4938
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "ERIGERON, or SWEET FLA BANE, in botany, a genus of the fyngencfia polygamia fuperflua clafs. The receptacle is naked; the pappus is liairy; and the ca-dii of the corolla are linear and very narrow. There are fixteen fpecies, two of which are natives of Britain, viz. the acre, or blue-flowered flea-bane; and the ca-nadenfe, or Canada flea-bane.",
+   "bbox": [
+    0.487,
+    0.4914,
+    0.919,
+    0.5914
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "ERINACEUS, or Hedge-hog, in zoology, a genus of quadrupeds belonging to the order of ferae, the characters of which are thefe : they have two foreteeth in the upper-jaw, at a conferable diflance from one another, and two in the under jaw, lefs diflant; and they have two recumbent dog-teeth, one on each fide. There are three fpecies, viz. 1. The europeus, or common hedge-hog, with round ears, and crefted no-frils. It is about nine inches long; the upper part of the body is totally covered with sharp prickles, and the under part is covered with hair. The hedge-hog, even when flanding on his legs, has a very ugly affect. His body is an oblong mafs, convex above, terminated on the fore-part by a very harp muzzle, and mounted on four floor legs, of which nothing appears but the feet, and the tail is not discernible. His ears are broad, round, and thort; and his eyes are fmall and protuberant. The length of his body, from the point of the muzzle to the anus, is about nine inches.",
+   "bbox": [
+    0.4864,
+    0.5891,
+    0.918,
+    0.8578
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "The hedge-hog has a very uncommon method of defending himself from the attacks of other animals: being poffelfed of little strength or agility, he does not attempt to fly from or affail his enemies; but ereclts his brillies, and rolls himself up like a ball, expoing no",
+   "bbox": [
+    0.5033,
+    0.8562,
+    0.9175,
+    0.9305
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b23"
+  },
+  {
+   "order": 24,
+   "class": "Page-footer",
+   "text": "part",
+   "bbox": [
+    0.8731,
+    0.9297,
+    0.9139,
+    0.9445
+   ],
+   "source": "s0-col-right",
+   "id": "page-2473-b849fb7f25f2:b24"
+  }
+ ]
+}

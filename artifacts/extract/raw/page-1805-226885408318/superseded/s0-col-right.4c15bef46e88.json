@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "4c15bef46e88785d7fff640692896d03f1f2dcf4ea92f9b3d62aa6915319e3be",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "6fcce8a6dd97e0fd1257bce9e43098ecdb9a55da299ef254d8f2523168fca1e6",
+  "image_bytes": 2010478,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1805",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4767,
+   0.0827,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0827,
+    0.1661,
+    0.4817
+   ],
+   [
+    0.1661,
+    0.2495,
+    0.4817
+   ],
+   [
+    0.2495,
+    0.3329,
+    0.4817
+   ],
+   [
+    0.3329,
+    0.4163,
+    0.4817
+   ],
+   [
+    0.4163,
+    0.4997,
+    0.4817
+   ],
+   [
+    0.4997,
+    0.583,
+    0.4817
+   ],
+   [
+    0.583,
+    0.6664,
+    0.4817
+   ],
+   [
+    0.6664,
+    0.7498,
+    0.4817
+   ],
+   [
+    0.7498,
+    0.8332,
+    0.4817
+   ],
+   [
+    0.8332,
+    0.9166,
+    0.4817
+   ],
+   [
+    0.9166,
+    1.0,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2717,
+  "completion_tokens": 917,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.61,
+ "created_at": "2026-10-18T11:11:19+00:00",
+ "content": "<x_0.0322><y_0.0>or formed in the mind of the artift, whereby he con-ducts his work. Such is the idea of Cefar, which a painter has in his mind when he goes to make a picture of Cefar.<x_0.7305><y_0.0539><class_Text>\n\n<x_0.7314><y_0.0008>ExempliE-\ncation\nExercife.<x_0.8457><y_0.0563><class_Caption>\n\n<x_0.0332><y_0.0531>EXEMPLIFICATION _of Letters Patent_, denotes an examplan, or copy of letters patent, made from the enrolment thereof, and fealed with the great feal of England. Such exemplifications are as effectual to be thowed or pleaded, as the letters patent themselves.<x_0.7295><y_0.1242><class_Text>\n\n<x_0.0273><y_0.1227>EXEMPTION, in _Law_, a privilege to be free from fome service or appearance : thus, barons and peers of the realm are, on account of their dignity, exempted from being worn upon inquelts; and knights, clergy-men, and others, from appearing at the heriff's turn. Perfons of 70 years of age, apothecaries, &cc. are alfo by law exempted from ferving on juries; and juiltices of the peace, attorneys, &cc. from parifih offices.<x_0.7285><y_0.2352><class_Text>\n\n<x_0.0264><y_0.2328>EXERCISE, among physicians, such an agitation of the body as produces futurary effects in the animal economy.<x_0.7266><y_0.275><class_Text>\n\n<x_0.0254><y_0.2734>Exercife may be laid to be either active or palive. The active is walking, hunting, dancing, playing at bowls, and the like; as alfo freaking, and other la-bour of the body and mind. The palive is riding in a coach, on horleback, or in any other manner. Ex-ercife may be continued to a beginning of wearinels, and ought to be ufed before dinner in a pure light air; for which reafon, journeys, and going into the country, contribute greatly to preserve and re-eltablith health.<x_0.7275><y_0.4125><class_Text>\n\n<x_0.0234><y_0.4117>Exercife increases the circulation of the blood, atte-nuates and divides the fluids, and promotes a regular perpiration, as well as a due feeretion of all the hu-mours; for it accelerates the animal fpirits, and facili-tates their distribution into all the fibres of the body, ftrengthens the parts, creates an appetite, and helps di-getion. Whence it arises, that those who accullom themfelves to exercife are generally very robust, and fel-dom subject to difeafes.<x_0.7256><y_0.5375><class_Text>\n\n<x_0.0176><y_0.5352>Boerhaave recommends bodily exercise in difeafes of a weak and lax fibre. By riding on horfeback, fays his commentator, the pendulous vificera of the abdo-med are shaken every moment, and gently rubbed as it were one against another, while in the mean time the pure air acts on the lungs with greater force. But it is to be obferved that a weak man should not ride with a full stomach, but either before dinner, or after the di-getition is nearly finished; for when the flomach is di-itended, weak people do not bear thefe concullions of the horse without difficulty; but when the prime view are nearly empty, the remaining feces are discharged by this concuffion. Sailing in a hip is alfo an exercife of great use to weak people. If the veffel moves with an even motion, by increasing perfpiration it ufually ex-cites a wonderful alacrity, creates an appetite, and pro-motes digestion. These exercises are more especially serviceable to weak people; but, in order to flrengthen the body by muscular motion, running and bodily ex-ercifes are to be ufed. In these we should begin with the moft gentle, fuch as walking, and increase it by de-grees till we come to running. Those exercises of the body are more especially ferviceable which give delight to the mind at the fame time, as tennis, fencing, &cc.; for which reafon, the widdom of antiquity appointed rewards for those who excelled in thefe gymnastic ex-<x_0.7158><y_0.9117><class_Text>",
+ "reply": {
+  "id": "chatcmpl-5c17d6bf-faf7-4b1d-927e-f0dfae0e9f44",
+  "object": "chat.completion",
+  "created": 1792321878,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0322><y_0.0>or formed in the mind of the artift, whereby he con-ducts his work. Such is the idea of Cefar, which a painter has in his mind when he goes to make a picture of Cefar.<x_0.7305><y_0.0539><class_Text>\n\n<x_0.7314><y_0.0008>ExempliE-\ncation\nExercife.<x_0.8457><y_0.0563><class_Caption>\n\n<x_0.0332><y_0.0531>EXEMPLIFICATION _of Letters Patent_, denotes an examplan, or copy of letters patent, made from the enrolment thereof, and fealed with the great feal of England. Such exemplifications are as effectual to be thowed or pleaded, as the letters patent themselves.<x_0.7295><y_0.1242><class_Text>\n\n<x_0.0273><y_0.1227>EXEMPTION, in _Law_, a privilege to be free from fome service or appearance : thus, barons and peers of the realm are, on account of their dignity, exempted from being worn upon inquelts; and knights, clergy-men, and others, from appearing at the heriff's turn. Perfons of 70 years of age, apothecaries, &cc. are alfo by law exempted from ferving on juries; and juiltices of the peace, attorneys, &cc. from parifih offices.<x_0.7285><y_0.2352><class_Text>\n\n<x_0.0264><y_0.2328>EXERCISE, among physicians, such an agitation of the body as produces futurary effects in the animal economy.<x_0.7266><y_0.275><class_Text>\n\n<x_0.0254><y_0.2734>Exercife may be laid to be either active or palive. The active is walking, hunting, dancing, playing at bowls, and the like; as alfo freaking, and other la-bour of the body and mind. The palive is riding in a coach, on horleback, or in any other manner. Ex-ercife may be continued to a beginning of wearinels, and ought to be ufed before dinner in a pure light air; for which reafon, journeys, and going into the country, contribute greatly to preserve and re-eltablith health.<x_0.7275><y_0.4125><class_Text>\n\n<x_0.0234><y_0.4117>Exercife increases the circulation of the blood, atte-nuates and divides the fluids, and promotes a regular perpiration, as well as a due feeretion of all the hu-mours; for it accelerates the animal fpirits, and facili-tates their distribution into all the fibres of the body, ftrengthens the parts, creates an appetite, and helps di-getion. Whence it arises, that those who accullom themfelves to exercife are generally very robust, and fel-dom subject to difeafes.<x_0.7256><y_0.5375><class_Text>\n\n<x_0.0176><y_0.5352>Boerhaave recommends bodily exercise in difeafes of a weak and lax fibre. By riding on horfeback, fays his commentator, the pendulous vificera of the abdo-med are shaken every moment, and gently rubbed as it were one against another, while in the mean time the pure air acts on the lungs with greater force. But it is to be obferved that a weak man should not ride with a full stomach, but either before dinner, or after the di-getition is nearly finished; for when the flomach is di-itended, weak people do not bear thefe concullions of the horse without difficulty; but when the prime view are nearly empty, the remaining feces are discharged by this concuffion. Sailing in a hip is alfo an exercife of great use to weak people. If the veffel moves with an even motion, by increasing perfpiration it ufually ex-cites a wonderful alacrity, creates an appetite, and pro-motes digestion. These exercises are more especially serviceable to weak people; but, in order to flrengthen the body by muscular motion, running and bodily ex-ercifes are to be ufed. In these we should begin with the moft gentle, fuch as walking, and increase it by de-grees till we come to running. Those exercises of the body are more especially ferviceable which give delight to the mind at the fame time, as tennis, fencing, &cc.; for which reafon, the widdom of antiquity appointed rewards for those who excelled in thefe gymnastic ex-<x_0.7158><y_0.9117><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2717,
+   "completion_tokens": 917,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

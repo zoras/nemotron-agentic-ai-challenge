@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "bf1bf16963ba8508f82216fb77ca25af3ece83feae71cd3c88442b82d970edfb",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "55936c8d6b03631abac68f097442d2c5d0e02d746d7b5bec240405d4db9d247b",
+  "image_bytes": 2318025,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1680",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4783,
+   0.0608,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0608,
+    0.1462,
+    0.4833
+   ],
+   [
+    0.1462,
+    0.2316,
+    0.4833
+   ],
+   [
+    0.2316,
+    0.3169,
+    0.4833
+   ],
+   [
+    0.3169,
+    0.4023,
+    0.4833
+   ],
+   [
+    0.4023,
+    0.4877,
+    0.4833
+   ],
+   [
+    0.4877,
+    0.5731,
+    0.4833
+   ],
+   [
+    0.5731,
+    0.6585,
+    0.4833
+   ],
+   [
+    0.6585,
+    0.7439,
+    0.4833
+   ],
+   [
+    0.7439,
+    0.8292,
+    0.4833
+   ],
+   [
+    0.8292,
+    0.9146,
+    0.4833
+   ],
+   [
+    0.9146,
+    1.0,
+    0.4833
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2557,
+  "completion_tokens": 757,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.17,
+ "created_at": "2026-10-18T11:11:13+00:00",
+ "content": "<x_0.0254><y_0.0>DO and CK, and Ab is equal to the sum of DO and CK (because it is equal to Ao + Ak). The weight of the roof is equal to its vertical pressure on the walls.<x_0.7402><y_0.0555><class_Text>\n\n<x_0.0264><y_0.0547>Thus we see, that while a pressure on A, in the direction Ab, produces the strains Af and Ag, on the pieces AC and AD; it also excites a strain CI or DM in the piece DC. And this completes the mechanism of a frame ; for all derive their efficacy from the triangles of which they are composed, as will appear more clearly as we proceed.<x_0.7412><y_0.1531><class_Text>\n\n<x_0.0234><y_0.1523>But there is more to be learned from this. The consideration of the strains on the two pieces AD and AC, by the action of a force at A, only showed them as the means of propagating the same strains in their own direction to the points of support. But, by adding the strains exerted in DC, we see that the frame becomes an intermedium, by which ex- ertions may be made on other bodies, in certain directions and proportions ; so that this frame may become part of a more complicated one, and, as it were, an element of its constitution. It is worth while to ascertain the proportion of the pressures CK and DO, which are thus exerted on the walls. The similarity of triangles gives the following analogies:<x_0.7393><y_0.3602><class_Text>\n\n<x_0.1475><y_0.3641>DO : DM = Ab : bD CI, or DM : CK = Cb : Ab Therefore DO : CK = Cb : bD.<x_0.6006><y_0.4086><class_Formula>\n\n<x_0.0195><y_0.4109>Or, _the pressures on the points_ C _and_ D, _in the direc tion of the straining force Ab, are reciprocally pro portional to the portions of_ DC _intercepted by_ Ab.<x_0.7383><y_0.4555><class_Text>\n\n<x_0.0596><y_0.457>Also, since Ab is = DO + CK, we have Ab : CK = Cb + bD (or CD) : bD, and Ab : DO = CD : bC.<x_0.6729><y_0.5><class_Formula>\n\n<x_0.0225><y_0.5062>In general, any two of the three parallel forces Ab, DO, CK, are to each other in the reciprocal proportion of the parts of CD, intercepted between their directions and the direction of the third.<x_0.7422><y_0.5617><class_Text>\n\n<x_0.0244><y_0.5625>And this explains a still more important office of the frame ADC. If one of the points, such as D, be supported, an external power acting at A, in the direction Ab, and with an intensity which may be measured by Ab, may be set in equilibrio, with another acting at C, in the direction CL, opposite to CK or Ab, and with an intensity represented by CK : for since the pressure CH is partly withstood by the force IC, or the firmness of the beam DC supported at D, the force KC will complete the balance. When we do not attend to the support at D, we conceive the force Ab to be balanced by KC, or KC to be balanced by Ab. And, in like manner, we may neglect the support or force acting at A, and consider the force DO as balanced by CK.<x_0.7432><y_0.768><class_Text>\n\n<x_0.0273><y_0.7672>Thus our frame becomes a lever, and we are able to trace the interior mechanical procedure which a Lever, gives it its efficacy: it is by the intervention of the forces of cohesion, which connect the points to which the external forces are applied with the supported point or fulcrum, and with each other.<x_0.875><y_0.8508><class_Text>\n\n<x_0.0283><y_0.85>These strains or pressures Ab, DO, and CK, not being in the directions of the beams, may be called _transverse._ We see that by their means a frame of<x_0.7441><y_0.8945><class_Text>",
+ "reply": {
+  "id": "chatcmpl-574d466d-424c-4f6f-b092-1779a8a612d4",
+  "object": "chat.completion",
+  "created": 1792321872,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0254><y_0.0>DO and CK, and Ab is equal to the sum of DO and CK (because it is equal to Ao + Ak). The weight of the roof is equal to its vertical pressure on the walls.<x_0.7402><y_0.0555><class_Text>\n\n<x_0.0264><y_0.0547>Thus we see, that while a pressure on A, in the direction Ab, produces the strains Af and Ag, on the pieces AC and AD; it also excites a strain CI or DM in the piece DC. And this completes the mechanism of a frame ; for all derive their efficacy from the triangles of which they are composed, as will appear more clearly as we proceed.<x_0.7412><y_0.1531><class_Text>\n\n<x_0.0234><y_0.1523>But there is more to be learned from this. The consideration of the strains on the two pieces AD and AC, by the action of a force at A, only showed them as the means of propagating the same strains in their own direction to the points of support. But, by adding the strains exerted in DC, we see that the frame becomes an intermedium, by which ex- ertions may be made on other bodies, in certain directions and proportions ; so that this frame may become part of a more complicated one, and, as it were, an element of its constitution. It is worth while to ascertain the proportion of the pressures CK and DO, which are thus exerted on the walls. The similarity of triangles gives the following analogies:<x_0.7393><y_0.3602><class_Text>\n\n<x_0.1475><y_0.3641>DO : DM = Ab : bD CI, or DM : CK = Cb : Ab Therefore DO : CK = Cb : bD.<x_0.6006><y_0.4086><class_Formula>\n\n<x_0.0195><y_0.4109>Or, _the pressures on the points_ C _and_ D, _in the direc tion of the straining force Ab, are reciprocally pro portional to the portions of_ DC _intercepted by_ Ab.<x_0.7383><y_0.4555><class_Text>\n\n<x_0.0596><y_0.457>Also, since Ab is = DO + CK, we have Ab : CK = Cb + bD (or CD) : bD, and Ab : DO = CD : bC.<x_0.6729><y_0.5><class_Formula>\n\n<x_0.0225><y_0.5062>In general, any two of the three parallel forces Ab, DO, CK, are to each other in the reciprocal proportion of the parts of CD, intercepted between their directions and the direction of the third.<x_0.7422><y_0.5617><class_Text>\n\n<x_0.0244><y_0.5625>And this explains a still more important office of the frame ADC. If one of the points, such as D, be supported, an external power acting at A, in the direction Ab, and with an intensity which may be measured by Ab, may be set in equilibrio, with another acting at C, in the direction CL, opposite to CK or Ab, and with an intensity represented by CK : for since the pressure CH is partly withstood by the force IC, or the firmness of the beam DC supported at D, the force KC will complete the balance. When we do not attend to the support at D, we conceive the force Ab to be balanced by KC, or KC to be balanced by Ab. And, in like manner, we may neglect the support or force acting at A, and consider the force DO as balanced by CK.<x_0.7432><y_0.768><class_Text>\n\n<x_0.0273><y_0.7672>Thus our frame becomes a lever, and we are able to trace the interior mechanical procedure which a Lever, gives it its efficacy: it is by the intervention of the forces of cohesion, which connect the points to which the external forces are applied with the supported point or fulcrum, and with each other.<x_0.875><y_0.8508><class_Text>\n\n<x_0.0283><y_0.85>These strains or pressures Ab, DO, and CK, not being in the directions of the beams, may be called _transverse._ We see that by their means a frame of<x_0.7441><y_0.8945><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2557,
+   "completion_tokens": 757,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

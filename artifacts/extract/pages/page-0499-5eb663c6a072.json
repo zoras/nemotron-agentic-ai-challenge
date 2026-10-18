@@ -1,0 +1,335 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:499",
+ "row_index": 499,
+ "volume_id": "192984257",
+ "filename": "page-0499-5eb663c6a072.jpg",
+ "image_sha256": "5eb663c6a072b065f93be154549eac3fbe59f6f6b4c12a392e8f406e32a3c528",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.12941,
+  "median_grey": 206,
+  "layout_body_chars": 6786,
+  "layout_pictures": 0
+ },
+ "running_head": "I N D I A. 187",
+ "layout_raw": "page-0499-5eb663c6a072/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.027,
+    1.0,
+    0.06
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0499-5eb663c6a072/head.json",
+   "finish_reason": "stop",
+   "request_key": "dab79dc361028554c4612200e18f830634d56e336c50f86ea8ed557151b40fdc"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.027,
+    0.4817,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.027,
+     0.1081,
+     0.4767
+    ],
+    [
+     0.1081,
+     0.1892,
+     0.4683
+    ],
+    [
+     0.1892,
+     0.2702,
+     0.4683
+    ],
+    [
+     0.2702,
+     0.3513,
+     0.4683
+    ],
+    [
+     0.3513,
+     0.4324,
+     0.4683
+    ],
+    [
+     0.4324,
+     0.5135,
+     0.4683
+    ],
+    [
+     0.5135,
+     0.5946,
+     0.4683
+    ],
+    [
+     0.5946,
+     0.6757,
+     0.4683
+    ],
+    [
+     0.6757,
+     0.7567,
+     0.4683
+    ],
+    [
+     0.7567,
+     0.8378,
+     0.4667
+    ],
+    [
+     0.8378,
+     0.9189,
+     0.4667
+    ],
+    [
+     0.9189,
+     1.0,
+     0.4667
+    ]
+   ],
+   "raw_path": "page-0499-5eb663c6a072/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "e846cea74c662b4e730376dae8c2baaaf75eeac44b65185852114feb87b77ff2"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4617,
+    0.027,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.027,
+     0.1081,
+     0.4767
+    ],
+    [
+     0.1081,
+     0.1892,
+     0.4683
+    ],
+    [
+     0.1892,
+     0.2702,
+     0.4683
+    ],
+    [
+     0.2702,
+     0.3513,
+     0.4683
+    ],
+    [
+     0.3513,
+     0.4324,
+     0.4683
+    ],
+    [
+     0.4324,
+     0.5135,
+     0.4683
+    ],
+    [
+     0.5135,
+     0.5946,
+     0.4683
+    ],
+    [
+     0.5946,
+     0.6757,
+     0.4683
+    ],
+    [
+     0.6757,
+     0.7567,
+     0.4683
+    ],
+    [
+     0.7567,
+     0.8378,
+     0.4667
+    ],
+    [
+     0.8378,
+     0.9189,
+     0.4667
+    ],
+    [
+     0.9189,
+     1.0,
+     0.4667
+    ]
+   ],
+   "raw_path": "page-0499-5eb663c6a072/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "6f6840a825f57efdde35889a707499c0291515e937dc741db01e5d930e51cd58"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "I N D I A. 187",
+   "bbox": [
+    0.0,
+    0.027,
+    1.0,
+    0.06
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0499-5eb663c6a072:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "I N D",
+   "bbox": [
+    0.3796,
+    0.0346,
+    0.4812,
+    0.0543
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0499-5eb663c6a072:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "astonished that he should have given any credit), Alex-ander was the first who had invaded India. Arrian informs us that the Assaceni, and other people who inhabited the country now called _Candahar_, had been tributary first to the Assyrians and then to the Medes and Persians. As all the fertile provinces on the north-west of the Indus were anciently reckoned to be part of India, it is probable that what was levied from them is the sum mentioned in the tribute-roll from which Herodotus drew his account of the annual revenue of the Persian empire, and that none of the provinces to the south of the Indus were ever subject to the kings of Persia.\"--The Doctor differs from Mr Rennel with respect to the surprise which Alexander and his army expressed when they saw the high tides at the mouth of the Indus. This he thinks might very naturally have been the case, notwithstanding what Herodotus had written concerning the flux and reflux observable in the Red sea. All that has been mentioned by Herodotus concerning this phenomenon is, that \"in the Red sea there is a regular ebb and flow of the tide every day.\" No wonder, therefore, that the Macedonians should be surprised and terrified at the very high tides which presented themselves in the Indian ocean, which the few words of Herodotus above-mentioned had by no means led them to expect. In the like manner the Romans were surprised at the tides in the Atlantic, when they had conquered some of the countries bordering upon that ocean. Cesar describes the astonishment of his soldiers at a spring tide in Britain which greatly damaged his fleet ; and, indeed, considering the very little rise of the tide in the Mediterranean, to which alone the Greeks and Romans had access, we may reckon the account given us by Arrian highly probable.",
+   "bbox": [
+    0.079,
+    0.0559,
+    0.4629,
+    0.5234
+   ],
+   "source": "s0-col-left",
+   "id": "page-0499-5eb663c6a072:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "The country on each side the Indus was found, in the time of Alexander, to be in no degree inferior in population to the kingdom of Porus already mentioned. The climate, soil, and productions of India, as well as the manners and customs of the inhabitants, are exactly described, and the descriptions found to correspond in a surprising manner with modern accounts. The stated change of seasons now known by the name of _montoons_, the periodical rains, the swellings and inundations of the rivers, with the appearance of the country during the time they continue, are particularly described. The descriptions of the inhabitants are equally particular ; their living entirely upon vegetable food, their division into tribes or casts, with many of the particularities related under the article HINDOO, are to be met with in the accounts of Alexander's expedition. His military operations, however, extended but a very little way into India properly so called ; no farther indeed than the modern province of Lahor, and the countries on the banks of the Indus from Moultan to the sea ; though, had he lived to undertake another expedition as he intended, it is very probable that he would have subdued a vastly greater tract of country ; nor indeed could any thing probably have set bounds to his conquests but death or revolts in distant provinces of his empire. In order to secure the obedience of those countries he subdued, Alexander found it necessary to build a number of fortified cities ; and the farther eastward he extended his conquests, the more necessary did he find this task. Three he built in India itself ; two",
+   "bbox": [
+    0.0748,
+    0.5219,
+    0.4586,
+    0.9255
+   ],
+   "source": "s0-col-left",
+   "id": "page-0499-5eb663c6a072:b3"
+  },
+  {
+   "order": 4,
+   "class": "Head-fragment",
+   "text": "I A.",
+   "bbox": [
+    0.4953,
+    0.0354,
+    0.5642,
+    0.0559
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0499-5eb663c6a072:b4"
+  },
+  {
+   "order": 5,
+   "class": "Head-fragment",
+   "text": "187",
+   "bbox": [
+    0.8891,
+    0.0414,
+    0.9285,
+    0.0612
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0499-5eb663c6a072:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "on the banks of the Hydaspes, and a third on the Ace- sines, both navigable rivers, falling into the Indus af- ter they have united their streams. By means of these cities he intended not only to keep the adjacent coun- tries in awe, but to promote a commercial intercourse betwixt different parts both by land and water. With this view, also, on his return to Susa, be surveyed in person the course of the Euphrates and Tigris, causing the cataracts or dams to be removed which the Persian monarchs had built to obstruct the navigation of these rivers, in conformity to a maxim of their superstition, that it was unlawful to defile any of the elements, which they imagined was done by navigators. After the navigation was opened in this manner, he proposed that the valuable commodities of India should be imported into the other parts of his dominions by means of the Persian gulf; while through the Red sea they were con- veyed to Alexandria in Egypt, and thence dispersed all over Europe.",
+   "bbox": [
+    0.4743,
+    0.0574,
+    0.857,
+    0.3143
+   ],
+   "source": "s0-col-right",
+   "id": "page-0499-5eb663c6a072:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "The death of Alexander having put an end to all his great schemes, the eastern part of his dominions devolved first on Pytho the son of Agenor, and after- wards on Seleucus. The latter was very sensible of the advantages to be derived from keeping India in subjection. With this view he undertook an expedition into that country, partly to establish his authority more perfectly, and partly to defend the Macedonian territories against Sandracottus king of the Prasii, who threatened to attack them. The particulars of his expedition are very little known ; Justin being the only author that mentions them, and his authority is but of little weight, unless corroborated by the testimony of other historians. Plutarch, who tells us that Seleucus carried his arms farther into In- dia than Alexander, is subject to an imputation of the samo kind ; but Pliny, whose authority is of considerably greater weight, corroborates the testimony of Plu-tarch in this instance, though his words are so obscure, that learned men differ in opinion concerning their meaning. Bayer thinks they imply that Seleucus marched from the Hyphasis, the boundary of Alexander’s conquests, to the Hysudrus, from thence to Palibothra, and then to the mouth of the Ganges ; the distances of the principal stations being marked, and amounting in all to 2244 Roman miles. Notwithstanding this authority, however, Dr Robertson thinks it very improbable that the expedition of Seleucus should have continued so long, as in that case \"the ancient would have had a more accurate knowledge of that part of the country than they seem ever to have possessed.\"",
+   "bbox": [
+    0.4685,
+    0.3105,
+    0.856,
+    0.7286
+   ],
+   "source": "s0-col-right",
+   "id": "page-0499-5eb663c6a072:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "The career of Seleucus in the east was stopped by Antigonus, who prepared to invade the western part of his dominions. The former was therefore obliged to conclude a treaty with Sandracottus, whom he allowed to remain in quiet possession of his territories: but Dr Robertson is of opinion, that during the life- time of Seleucus, which continued 42 years after the death of Alexander, no diminution of the Macedo- nian territories took place. With a view of keeping up a friendly intercourse with the Indian prince, Se- leucus sent Megasthenes, one of Alexander's officers to Palibothra, capital of the kingdom of the Prasii, situated on the banks of the Ganges. This city is by Dr Robertson supposed to be the modern Allahabad, seated at the conflux of the Jumna and Ganges, con-",
+   "bbox": [
+    0.4649,
+    0.7233,
+    0.8465,
+    0.9278
+   ],
+   "source": "s0-col-right",
+   "id": "page-0499-5eb663c6a072:b8"
+  },
+  {
+   "order": 9,
+   "class": "Caption",
+   "text": "Expedition of Seleucus to India.",
+   "bbox": [
+    0.8518,
+    0.3668,
+    0.9217,
+    0.4108
+   ],
+   "source": "s0-col-right",
+   "id": "page-0499-5eb663c6a072:b9"
+  },
+  {
+   "order": 10,
+   "class": "Caption",
+   "text": "Conjectures concerning the situa- tion of Pa- libothra.",
+   "bbox": [
+    0.8434,
+    0.8236,
+    0.9169,
+    0.8898
+   ],
+   "source": "s0-col-right",
+   "id": "page-0499-5eb663c6a072:b10"
+  }
+ ]
+}

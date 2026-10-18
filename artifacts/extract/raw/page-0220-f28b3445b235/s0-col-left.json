@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "49eefbc2043d69793bb5f0887c0ddb4b1677bf62c0e5be84686115ce8b3b8920",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f5154dcc36351b6649db8af5969d827720ea029efe8b970a0adcf99d4ee0faea",
+  "image_bytes": 2015197,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:220",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.052,
+   0.515,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.052,
+    0.1382,
+    0.51
+   ],
+   [
+    0.1382,
+    0.2244,
+    0.51
+   ],
+   [
+    0.2244,
+    0.3105,
+    0.51
+   ],
+   [
+    0.3105,
+    0.3967,
+    0.51
+   ],
+   [
+    0.3967,
+    0.4829,
+    0.51
+   ],
+   [
+    0.4829,
+    0.5691,
+    0.51
+   ],
+   [
+    0.5691,
+    0.6553,
+    0.51
+   ],
+   [
+    0.6553,
+    0.7415,
+    0.51
+   ],
+   [
+    0.7415,
+    0.8276,
+    0.51
+   ],
+   [
+    0.8276,
+    0.9138,
+    0.51
+   ],
+   [
+    0.9138,
+    1.0,
+    0.51
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2718,
+  "completion_tokens": 918,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.42,
+ "created_at": "2026-10-18T11:19:06+00:00",
+ "content": "<x_0.4834><y_0.0039>F U R T 5<x_0.9902><y_0.0273><class_Page-header>\n\n<x_0.1338><y_0.025>**Forr.** and called by him Queen Charlotte’s Sound, the latitude of which is 51 degrees north, longitude 128 well. The fnow Lark, Captain Peters, of 220 tons and 40 men, failed from Macao in July 1786. Her deltiination was Kamtfchatka (for which fue was provided with a fuitable cargo of arrack, tea, etc). Copper Iflands, and the N. W. coaft. Captain Peters was directed to make his paffage between Japan and Corea, and examine the iflands to the north of Japan, laid to be inhabited by hairy people; which, if Captain Cook had lived, would not have been left to the French to determine. No account having been received of this veffel fince her departure, there is every reafon to fear the has perifined.<x_0.9844><y_0.2219><class_Text>\n\n<x_0.2646><y_0.2227>In the beginning of 1786, two coppered veffels were fitted out at Bombay, under the direction of James Strange, Efq; who was himself a principal owner. Thefe veffels were, the fnow Captain Cook of 300 tons, and fnow Experiment of 100 tons. They proceeded in company from the Malabar coach to Batavia; paffed through the Straits of Macaffar, where the Experiment was run upon a reef, and was obliged to haul afhore upon Borneo to repair; from thence they fleered to the eastward of the Palaos Islands; made Sulphur Ifland; and arrived at Nootka the end of June following. From Nootka, where they left their furgeon's mate (Mackay) to learn the language and collect kins against their intended return (but who was brought away in the Imperial Eagle the following year), they proceeded along the coast to Queen Charlotte’s Sound, of which they were the first dicoverers; from thence in a direct courte to Prince William’s Sound. After fome day there, the Experiment proceeded to Macao (their veffels being provided with paffes by the governor general of Goa): the Captain Cook endeavoured to get to Copper Ifland, but without fuccefs, being prevented by constant weft winds.<x_0.9834><y_0.5391><class_Text>\n\n<x_0.2656><y_0.5398>Two coppered veffels were alfo fitted out by a foicity of gentlemen in Bengal, viz the fnow Nootka of 200 tons, and the fnow Sea Otter of 100 tons, commanded by John Mcares and William Tipping, lieutenants in the royal navy. The Nootka failed in March 1786 from Bengal; came through the China Seas; touched at the Balhees, where they were very civilly treated by the Spaniards, who have taken polfeffion of thefe iflands; arrived at Oonalatka the beginning of August; found there a Ruffian gallot and fome turriers; difecovered accidentally near Cape Greville a new limit into Cook's River, 15 leagues wide and 30 long; few fome Ruffian hunters in a small bay between Cape Elizabeth and Cape Bear; and arrived in Prince William's Sound the end of September. They determined wintering in Snug Corner Cove, lat. 60. 30. in preference to going to the Sandwich Iflands, which item placed by Providence for the comfort and refreshment of the adventurers in this trade, and were frozen up in this gloomy and frightful spot from the end of November to the end of May. By the feverny of the winter they loft their third and four h mates, furgeon, boatfwain, carpenter, and cooper, and twelve of the fore-maft men; and the remainder were to enfechled as to be under the necessity of applying to the commanders of the King George and Queen Charlotte, who jull at this time arrived in the found, for home hands to affit in carrying the vef-<x_0.9854><y_0.925><class_Text>\n\n<x_0.3027><y_0.9242>N° 133.<x_0.418><y_0.9414><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-f0126cbf-4cf4-48ce-8919-dcf678b583d7",
+  "object": "chat.completion",
+  "created": 1792322345,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4834><y_0.0039>F U R T 5<x_0.9902><y_0.0273><class_Page-header>\n\n<x_0.1338><y_0.025>**Forr.** and called by him Queen Charlotte’s Sound, the latitude of which is 51 degrees north, longitude 128 well. The fnow Lark, Captain Peters, of 220 tons and 40 men, failed from Macao in July 1786. Her deltiination was Kamtfchatka (for which fue was provided with a fuitable cargo of arrack, tea, etc). Copper Iflands, and the N. W. coaft. Captain Peters was directed to make his paffage between Japan and Corea, and examine the iflands to the north of Japan, laid to be inhabited by hairy people; which, if Captain Cook had lived, would not have been left to the French to determine. No account having been received of this veffel fince her departure, there is every reafon to fear the has perifined.<x_0.9844><y_0.2219><class_Text>\n\n<x_0.2646><y_0.2227>In the beginning of 1786, two coppered veffels were fitted out at Bombay, under the direction of James Strange, Efq; who was himself a principal owner. Thefe veffels were, the fnow Captain Cook of 300 tons, and fnow Experiment of 100 tons. They proceeded in company from the Malabar coach to Batavia; paffed through the Straits of Macaffar, where the Experiment was run upon a reef, and was obliged to haul afhore upon Borneo to repair; from thence they fleered to the eastward of the Palaos Islands; made Sulphur Ifland; and arrived at Nootka the end of June following. From Nootka, where they left their furgeon's mate (Mackay) to learn the language and collect kins against their intended return (but who was brought away in the Imperial Eagle the following year), they proceeded along the coast to Queen Charlotte’s Sound, of which they were the first dicoverers; from thence in a direct courte to Prince William’s Sound. After fome day there, the Experiment proceeded to Macao (their veffels being provided with paffes by the governor general of Goa): the Captain Cook endeavoured to get to Copper Ifland, but without fuccefs, being prevented by constant weft winds.<x_0.9834><y_0.5391><class_Text>\n\n<x_0.2656><y_0.5398>Two coppered veffels were alfo fitted out by a foicity of gentlemen in Bengal, viz the fnow Nootka of 200 tons, and the fnow Sea Otter of 100 tons, commanded by John Mcares and William Tipping, lieutenants in the royal navy. The Nootka failed in March 1786 from Bengal; came through the China Seas; touched at the Balhees, where they were very civilly treated by the Spaniards, who have taken polfeffion of thefe iflands; arrived at Oonalatka the beginning of August; found there a Ruffian gallot and fome turriers; difecovered accidentally near Cape Greville a new limit into Cook's River, 15 leagues wide and 30 long; few fome Ruffian hunters in a small bay between Cape Elizabeth and Cape Bear; and arrived in Prince William's Sound the end of September. They determined wintering in Snug Corner Cove, lat. 60. 30. in preference to going to the Sandwich Iflands, which item placed by Providence for the comfort and refreshment of the adventurers in this trade, and were frozen up in this gloomy and frightful spot from the end of November to the end of May. By the feverny of the winter they loft their third and four h mates, furgeon, boatfwain, carpenter, and cooper, and twelve of the fore-maft men; and the remainder were to enfechled as to be under the necessity of applying to the commanders of the King George and Queen Charlotte, who jull at this time arrived in the found, for home hands to affit in carrying the vef-<x_0.9854><y_0.925><class_Text>\n\n<x_0.3027><y_0.9242>N° 133.<x_0.418><y_0.9414><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2718,
+   "completion_tokens": 918,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

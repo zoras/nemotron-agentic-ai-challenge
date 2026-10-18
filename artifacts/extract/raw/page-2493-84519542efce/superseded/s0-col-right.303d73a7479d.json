@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "303d73a7479d95f530e0cfdac0807a4d3ab3372bf4204f32c4daa777b794512e",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "6d87d290063dad86c235166a4d24e6776d378c50908e2ba63a8a72faf27d9692",
+  "image_bytes": 2258496,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2493",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5333,
+   0.0655,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0655,
+    0.1505,
+    0.5383
+   ],
+   [
+    0.1505,
+    0.2354,
+    0.5383
+   ],
+   [
+    0.2354,
+    0.3204,
+    0.5383
+   ],
+   [
+    0.3204,
+    0.4053,
+    0.5383
+   ],
+   [
+    0.4053,
+    0.4903,
+    0.5383
+   ],
+   [
+    0.4903,
+    0.5752,
+    0.5383
+   ],
+   [
+    0.5752,
+    0.6602,
+    0.5383
+   ],
+   [
+    0.6602,
+    0.7451,
+    0.5383
+   ],
+   [
+    0.7451,
+    0.8301,
+    0.5383
+   ],
+   [
+    0.8301,
+    0.915,
+    0.5383
+   ],
+   [
+    0.915,
+    1.0,
+    0.5383
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2460,
+  "completion_tokens": 916,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.27,
+ "created_at": "2026-10-18T11:12:01+00:00",
+ "content": "<x_0.1992><y_0.0>\\begin{tabular}{ccc}\n & **Bergman.** & **Kirwan.** & **Magec**\\\\\nAcid & 43 & 46 & \\&c\\\\\nMagnefia & 27 & 22 & \\\\\nWater & 30 & 32 & \\\\\n100 & 100 & & \\\\\n\\end{tabular}<x_0.9717><y_0.0805><class_Table>\n\n<x_0.1367><y_0.0859>6. Nitrate of Ammonia and Magnefia.<x_0.7607><y_0.1039><class_Section-header>\n\n<x_0.0186><y_0.1078>1. This triple falt is formed, either by the direct prepain combination of the folutions of nitrate of ammonia, tion and nitrate of magnefia, by which the falt is obtained pure and cryftallized; or, by partially decompoing the nitrate of ammonia by magnefia, or the nitrate of mag-nefia by ammonia.<x_0.8906><y_0.1938><class_Text>\n\n<x_0.0195><y_0.193>2. The cryftals of this falt are in the form of fine prifms. It has a bitter, acrid, and ammoniacal tafte. It is lefs deliquefcent in the air than either of the confli- tuent falts, and lefs foluble in water. It requires 11 parts of cold water to diffolve it, but lefs of boiling water. It cryftallizes on cooling.<x_0.8916><y_0.2781><class_Text>\n\n<x_0.0205><y_0.2773>When it is rapidly heated, it inflames fpontaneoufly. After When flowly heated in clofe veffels, it gives out oxy- heat gen gas, azotic gas, a greater proportion of water than it contains, nitrous gas, and nitric acid, without the finalleft trace of ammonia; which fhows that it is de- compofed, that the hydrogen combines with the oxygen of the acid, and forms water.<x_0.9766><y_0.3773><class_Text>\n\n<x_0.0625><y_0.3766>The component parts of this falt are,<x_0.6631><y_0.393><class_Text>\n\n<x_0.2607><y_0.3937>Nitrate of magnefia 78 ammonia 22<x_0.6582><y_0.4258><class_Picture>\n\n<x_0.583><y_0.4375>100 *.<x_0.6943><y_0.4523><class_Text>\n\n<x_0.2588><y_0.4578>7. Nitrite of Magnefia.<x_0.6436><y_0.4758><class_Section-header>\n\n<x_0.0645><y_0.4766>Nothing is known of the properties of this falt.<x_0.8027><y_0.4945><class_Text>\n\n<x_0.2578><y_0.4969>8. Muriate of Magnefia.<x_0.6611><y_0.5148><class_Section-header>\n\n<x_0.0234><y_0.5164>1. This compound of muriatic acid and magnefia was formerly called _marine falt of magnefia_, and was convounded with the muriate of lime, with which it is frequently accompanied. The difference between thefe two falts was firft pointed out by Dr Black, and Bergman afterwards examined the nature and properties of muriate of magnefia. The falt is obtained by diffolving magnefia in muriatic acid till they are fatu- rated, and then evaporating the foliation. Small irregu- lar cryftals are obtained. This falt exifts in the waters of the ocean, and in mineral waters, along with the mu- riates of foda and lime.<x_0.9775><y_0.6859><class_Text>\n\n<x_0.0322><y_0.6852>2. It is extremely difficult to obtain the muriate of Properti magnefia in any regular form. It is either in the flate of powder, or very fmall regular needles, or in a kind of jelly. It has a difagreeable bitter tafte. The fpe- cific gravity is 1.601.<x_0.9785><y_0.757><class_Text>\n\n<x_0.0332><y_0.7562>3. It is very deliquefcent in the air. Cold water readily diflolves its own weight, and it is fill more fo- luble in boiling water.<x_0.8955><y_0.7992><class_Text>\n\n<x_0.0342><y_0.7984>4. It is completely decompoed by heat; the acid is driven off, and the pure earth remains behind?.<x_0.9814><y_0.8281><class_Text>\n\n<x_0.1904><y_0.8289>\\begin{tabular}{ccc}\n & **Bergman.** & **Kirwan.**\\\\\nAcid & 34 & 34.59\\\\\nMagnefia & 41 & 31.07\\\\\nWater & 25 & 34.38\\\\\n100 & 100.04 †. & 100.04 †.\\\\\n\\end{tabular}<x_0.9863><y_0.9156><class_Table>\n\n<x_0.7197><y_0.9109>9. Muriate<x_0.8926><y_0.9297><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-072b98a2-37c2-4f66-b9ca-49eafd5be71e",
+  "object": "chat.completion",
+  "created": 1792321920,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1992><y_0.0>\\begin{tabular}{ccc}\n & **Bergman.** & **Kirwan.** & **Magec**\\\\\nAcid & 43 & 46 & \\&c\\\\\nMagnefia & 27 & 22 & \\\\\nWater & 30 & 32 & \\\\\n100 & 100 & & \\\\\n\\end{tabular}<x_0.9717><y_0.0805><class_Table>\n\n<x_0.1367><y_0.0859>6. Nitrate of Ammonia and Magnefia.<x_0.7607><y_0.1039><class_Section-header>\n\n<x_0.0186><y_0.1078>1. This triple falt is formed, either by the direct prepain combination of the folutions of nitrate of ammonia, tion and nitrate of magnefia, by which the falt is obtained pure and cryftallized; or, by partially decompoing the nitrate of ammonia by magnefia, or the nitrate of mag-nefia by ammonia.<x_0.8906><y_0.1938><class_Text>\n\n<x_0.0195><y_0.193>2. The cryftals of this falt are in the form of fine prifms. It has a bitter, acrid, and ammoniacal tafte. It is lefs deliquefcent in the air than either of the confli- tuent falts, and lefs foluble in water. It requires 11 parts of cold water to diffolve it, but lefs of boiling water. It cryftallizes on cooling.<x_0.8916><y_0.2781><class_Text>\n\n<x_0.0205><y_0.2773>When it is rapidly heated, it inflames fpontaneoufly. After When flowly heated in clofe veffels, it gives out oxy- heat gen gas, azotic gas, a greater proportion of water than it contains, nitrous gas, and nitric acid, without the finalleft trace of ammonia; which fhows that it is de- compofed, that the hydrogen combines with the oxygen of the acid, and forms water.<x_0.9766><y_0.3773><class_Text>\n\n<x_0.0625><y_0.3766>The component parts of this falt are,<x_0.6631><y_0.393><class_Text>\n\n<x_0.2607><y_0.3937>Nitrate of magnefia 78 ammonia 22<x_0.6582><y_0.4258><class_Picture>\n\n<x_0.583><y_0.4375>100 *.<x_0.6943><y_0.4523><class_Text>\n\n<x_0.2588><y_0.4578>7. Nitrite of Magnefia.<x_0.6436><y_0.4758><class_Section-header>\n\n<x_0.0645><y_0.4766>Nothing is known of the properties of this falt.<x_0.8027><y_0.4945><class_Text>\n\n<x_0.2578><y_0.4969>8. Muriate of Magnefia.<x_0.6611><y_0.5148><class_Section-header>\n\n<x_0.0234><y_0.5164>1. This compound of muriatic acid and magnefia was formerly called _marine falt of magnefia_, and was convounded with the muriate of lime, with which it is frequently accompanied. The difference between thefe two falts was firft pointed out by Dr Black, and Bergman afterwards examined the nature and properties of muriate of magnefia. The falt is obtained by diffolving magnefia in muriatic acid till they are fatu- rated, and then evaporating the foliation. Small irregu- lar cryftals are obtained. This falt exifts in the waters of the ocean, and in mineral waters, along with the mu- riates of foda and lime.<x_0.9775><y_0.6859><class_Text>\n\n<x_0.0322><y_0.6852>2. It is extremely difficult to obtain the muriate of Properti magnefia in any regular form. It is either in the flate of powder, or very fmall regular needles, or in a kind of jelly. It has a difagreeable bitter tafte. The fpe- cific gravity is 1.601.<x_0.9785><y_0.757><class_Text>\n\n<x_0.0332><y_0.7562>3. It is very deliquefcent in the air. Cold water readily diflolves its own weight, and it is fill more fo- luble in boiling water.<x_0.8955><y_0.7992><class_Text>\n\n<x_0.0342><y_0.7984>4. It is completely decompoed by heat; the acid is driven off, and the pure earth remains behind?.<x_0.9814><y_0.8281><class_Text>\n\n<x_0.1904><y_0.8289>\\begin{tabular}{ccc}\n & **Bergman.** & **Kirwan.**\\\\\nAcid & 34 & 34.59\\\\\nMagnefia & 41 & 31.07\\\\\nWater & 25 & 34.38\\\\\n100 & 100.04 †. & 100.04 †.\\\\\n\\end{tabular}<x_0.9863><y_0.9156><class_Table>\n\n<x_0.7197><y_0.9109>9. Muriate<x_0.8926><y_0.9297><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2460,
+   "completion_tokens": 916,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

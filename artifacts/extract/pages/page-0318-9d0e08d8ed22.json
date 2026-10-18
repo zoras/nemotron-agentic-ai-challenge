@@ -1,0 +1,347 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:318",
+ "row_index": 318,
+ "volume_id": "191253835",
+ "filename": "page-0318-9d0e08d8ed22.jpg",
+ "image_sha256": "9d0e08d8ed22f5b38cf346df295e4940256ee6904fa14f8fb66cb815b7d8a1d6",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10588,
+  "median_grey": 205,
+  "layout_body_chars": 6395,
+  "layout_pictures": 0
+ },
+ "running_head": "N I L [ 75 J N I L",
+ "layout_raw": "page-0318-9d0e08d8ed22/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0192,
+    1.0,
+    0.0514
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0318-9d0e08d8ed22/head.json",
+   "finish_reason": "stop",
+   "request_key": "a6d31f0a9bf81a441cc796a0e229ccb351a4e38c4f43202af9bc0d4dc2f33e1e"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0192,
+    0.4783,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0192,
+     0.1009,
+     0.4733
+    ],
+    [
+     0.1009,
+     0.1827,
+     0.4667
+    ],
+    [
+     0.1827,
+     0.2644,
+     0.4667
+    ],
+    [
+     0.2644,
+     0.3461,
+     0.4667
+    ],
+    [
+     0.3461,
+     0.4279,
+     0.4667
+    ],
+    [
+     0.4279,
+     0.5096,
+     0.4667
+    ],
+    [
+     0.5096,
+     0.5913,
+     0.4667
+    ],
+    [
+     0.5913,
+     0.6731,
+     0.4633
+    ],
+    [
+     0.6731,
+     0.7548,
+     0.4617
+    ],
+    [
+     0.7548,
+     0.8365,
+     0.46
+    ],
+    [
+     0.8365,
+     0.9183,
+     0.4583
+    ],
+    [
+     0.9183,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-0318-9d0e08d8ed22/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "10d2f0561fc53df9966b40d21a2dd302215cadcb4dce2a18f4336d604316cea0"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4533,
+    0.0192,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0192,
+     0.1009,
+     0.4733
+    ],
+    [
+     0.1009,
+     0.1827,
+     0.4667
+    ],
+    [
+     0.1827,
+     0.2644,
+     0.4667
+    ],
+    [
+     0.2644,
+     0.3461,
+     0.4667
+    ],
+    [
+     0.3461,
+     0.4279,
+     0.4667
+    ],
+    [
+     0.4279,
+     0.5096,
+     0.4667
+    ],
+    [
+     0.5096,
+     0.5913,
+     0.4667
+    ],
+    [
+     0.5913,
+     0.6731,
+     0.4633
+    ],
+    [
+     0.6731,
+     0.7548,
+     0.4617
+    ],
+    [
+     0.7548,
+     0.8365,
+     0.46
+    ],
+    [
+     0.8365,
+     0.9183,
+     0.4583
+    ],
+    [
+     0.9183,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-0318-9d0e08d8ed22/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "4f095949999f9387ce6b8d8810b4863f9b4e56e1e2c04b14d1c9c22896fe0a5c"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "N I L [ 75 J N I L",
+   "bbox": [
+    0.0,
+    0.0192,
+    1.0,
+    0.0514
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0318-9d0e08d8ed22:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**N I L [ 7**",
+   "bbox": [
+    0.1981,
+    0.0238,
+    0.4778,
+    0.0483
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-0318-9d0e08d8ed22:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "**Nile.** or White River, which, according to the accounts given by the Galla, our author fuppofes to take its rife in about 5° north latitude.",
+   "bbox": [
+    0.0289,
+    0.0453,
+    0.4717,
+    0.0889
+   ],
+   "source": "s0-col-left",
+   "id": "page-0318-9d0e08d8ed22:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "The rains therefore precede the fun only about 5°; but they continue and increase after he has paffed it. In April all the rivers in the fouthern parts of Abyf- finia begin to fwell, and greatly augment the Nile, which is now alfo farther augmented by the vaft quan-tity of water poured into the lake Tzana. On the first days of May, the fun paffes the village of Gerri, which is the limit of the tropical rains; and it is very remarkable, that, though the fun fill continues to operate with unabated vigour. all his influence cannot bring the clouds farther northward than this village; the reafon of which Mr Bruce, with great reafon, fup-pofes to be the want of mountains to the northward. In confirmation of this opinion, he obferves, that the tropical rains flop at the latitude of 14° inflead of 16° in the weftern part of the continent. All this time, however, they continue violent in Abyffinia; and in the beginning of June the rivers are all full, and continue fo while the fun remains stationary in the tropic of Cancer.",
+   "bbox": [
+    0.0715,
+    0.0882,
+    0.4671,
+    0.3609
+   ],
+   "source": "s0-col-left",
+   "id": "page-0318-9d0e08d8ed22:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "This executive rain, which would fweep off the whole foil of Egypt into the fea were it to continue with- out intermillion, begins to abate as the fun turns fouthward; and on his arrival at the zenith of each place, on his paffage towards that quarter, they cease entirely: the reason of which is no lefs difficult to be dif- covered than that of their coming on when he arrives at the zenith in his paffage northward. Be the rea- fon what it will, however, the fact is certain; and not only fo, but the time of the rains ceafing is exact to a fingle day; infomuch, that on the 25th of September the Nile is generally found to be at its highest at Cairo, and begins to diminish every day after. Immediately after the fun has paffed the line, he begins the rainy reafon to the fouthward; the rains conflantly coming on with violence as he approaches the ze- nith of each place; but the inundation is now pro- moted in a different manner, according to the differ-ence of circumstances in the situation of the places. From about 6° S. Lat. a chain of high mountains runs all the way along the middle of the continent towards the Cape of Good Hope, and interfects the fouthern part of the peninfula nearly in the fame manner that the Nile does the northern. A strong wind from the fourth, flopping the progrefs of the condenfed vapours, dashes them against the cold fummits of this ridge of mountains, and forms many rivers, which escape in the direction either of call or well as the level prefents itself. If this is towards the weft, they fall down the tides of the mountains into the Atlantic, and if on the caft into the Indian ocean. \" The clouds (fays Mr Bruce), drawn by the violent action of the fun, are condenfed, then broken and fall as rain on the top of this high ridge, and fwell every river; while a wind from the ocean on the caft blows like a monsoon up each of thefe streams, in a direction contrary to their current, during the whole time of the inundation; and this enables boats to affected into the weftern parts of Sofala, and the interior country to the mountains, where lies the gold. The fame effect, from the fame caufe, is produced on the weftern tide towards the Atlantic; the high ridge of mountains being placed be-",
+   "bbox": [
+    0.0574,
+    0.3594,
+    0.4675,
+    0.9349
+   ],
+   "source": "s0-col-left",
+   "id": "page-0318-9d0e08d8ed22:b4"
+  },
+  {
+   "order": 5,
+   "class": "Head-fragment",
+   "text": "5 J N I L",
+   "bbox": [
+    0.4699,
+    0.023,
+    0.7443,
+    0.0483
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0318-9d0e08d8ed22:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "tween the different countries weft and eaft, is at once \nthe fource of their riches, and of thofe rivers which \nconduct to the treafures, which would be otherwise in- acceffible, in the eastern parts of the kingdoms of Be- nin, Congo, and Angola.",
+   "bbox": [
+    0.4789,
+    0.0453,
+    0.8761,
+    0.1211
+   ],
+   "source": "s0-col-right",
+   "id": "page-0318-9d0e08d8ed22:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "\" There are three remarkable appearances attend- ing the inundation of the Nile. Every morning in Abyffinia is clear, and the fun hines. About nine, a fmali cloud, not above four feet broad, appears in the eaft, whirling violently round as if upon an axis; but, arrived near the zenith, it firft abates its motion, then lofes its form,and extends itself greatly, and feems to call up vapours from all the opposite quarters Thefe clouds having attained nearly the fame height, ruth againt each other with greet violence, and put me always in mind of Elifha foretelling rain on mount Car- mel. The air impelled before the heaviest mafs, or fwiftelt mover, makes an impreffion of its form on the collection of clouds oppofite; and the moment it has taken poffeffion of the fpace made to receive it, the moft violent thunder poflible to be conceived infantly follows, with rain: after fome hours the fly again clears, with a wind at north; and it is always difa- greeably cold when the thermometer is below 63°.",
+   "bbox": [
+    0.4709,
+    0.115,
+    0.8708,
+    0.3801
+   ],
+   "source": "s0-col-right",
+   "id": "page-0318-9d0e08d8ed22:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "\"The second thing remarkable is the variation of the thermometer. When the fun is in the fouthern tropic, 36° distant from the zenith of Gondar,it is fel- dom lower than 72°; but it falls to 60°, and 63°, when the fun is immediately vertical; fo happily does the approach of rain compenfate the heat of a too forching fun.",
+   "bbox": [
+    0.4661,
+    0.3732,
+    0.866,
+    0.4744
+   ],
+   "source": "s0-col-right",
+   "id": "page-0318-9d0e08d8ed22:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "\" The third is that remarkable flop in the extent of the rain northward, when the fun, that has con- ducted the vapours from the line, and fhould feem now more than ever to be in poffeffion of them, ia here over-ruled fuddenly; till, on its return to Gorri, again it refumes the abfolute command over the rain, and reconducts it to the Line, to furnish difant de- luges to the fouthward.\"",
+   "bbox": [
+    0.4635,
+    0.4682,
+    0.8612,
+    0.5832
+   ],
+   "source": "s0-col-right",
+   "id": "page-0318-9d0e08d8ed22:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "With regard to the Nile itself, it has been laid that the quantity of earth brought down by it from Abyf- finia is fo great, that the whole land of Egypt is pro-duced from it. This quellion, however, is dicuffed under the article EGYPT, where it is fhown that this cannot pofibbly be the cafe.—Among other authori- ties there quoted was that of Mr Volney, who ftrenu- oufly argues against the opinion of Mr Savary and others, who have maintained that Egypt is the gift of the Nile. Notwiththanding this, however, we find him afferting that the foil of Egypt has undoubtedly been augmented by the Nile: in which cafe it is not unrefonable to fuppofe that it has been produced by it altogether — \"The reader (fays he) will conclude, doubtlefs, from what I have said, that writers have flattered themselves too much in fuppofing they could fix the precife limits of the enlargement and rifle of the Delta. But, though I would reject all illulory cir- cumfitances, I am far from denying the fact to be well founded; it is too plain from realon, and an examination of the country. The rifle of the ground appears to me demonstrated by an observation on which little firefs has been laid. In going from Rofetta to Cairo, when the waters are low, as in the month of March, we may remark, as we go up the river, that the force rifles gradually above the water; fo thattif it overflowed",
+   "bbox": [
+    0.4533,
+    0.577,
+    0.8553,
+    0.9379
+   ],
+   "source": "s0-col-right",
+   "id": "page-0318-9d0e08d8ed22:b10"
+  },
+  {
+   "order": 11,
+   "class": "Page-footer",
+   "text": "K 2",
+   "bbox": [
+    0.6348,
+    0.9318,
+    0.6732,
+    0.9471
+   ],
+   "source": "s0-col-right",
+   "id": "page-0318-9d0e08d8ed22:b11"
+  }
+ ]
+}

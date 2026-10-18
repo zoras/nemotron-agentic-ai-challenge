@@ -1,0 +1,79 @@
+{
+ "request": {
+  "key": "a69668a656aa59cdf31023c4227aa3ef089c48fd66f7eb3ebfa84ef3338cd841",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "1edb0a1c74fe4ef1773d25e5b333c1163f380b5fe36df932275547087ebc09bb",
+  "image_bytes": 233631,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0616,
+   0.5467,
+   0.1648
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0616,
+    0.1648,
+    0.5417
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 264,
+  "total_tokens": 347,
+  "completion_tokens": 83,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.24,
+ "created_at": "2026-10-18T11:10:45+00:00",
+ "content": "<x_0.0><y_0.0>Naxia Nazareth. Thus all the classes of officers, seamen, and marines, who have faithfully served in the navy, are provided for by the state; and the children of such as may be in indigent circumstances receive an education at the public expense, suited to their condition in life. The total expense of the navy, including every branch<x_0.999><y_0.9938><class_Text>",
+ "reply": {
+  "id": "chatcmpl-ffb968b3-3149-4dd3-866f-8adb6c1af5d7",
+  "object": "chat.completion",
+  "created": 1792321845,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>Naxia Nazareth. Thus all the classes of officers, seamen, and marines, who have faithfully served in the navy, are provided for by the state; and the children of such as may be in indigent circumstances receive an education at the public expense, suited to their condition in life. The total expense of the navy, including every branch<x_0.999><y_0.9938><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 264,
+   "total_tokens": 347,
+   "completion_tokens": 83,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

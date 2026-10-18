@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "a01b237355516411b2d05bc3085441c5b4d5a0a33ec0e86c7244b15e0c1284d9",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "15e95934794a036ce6484f41a20bf015b7b8035a92ddda9fde8fd744a3a18c68",
+  "image_bytes": 2202421,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1614",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0444,
+   0.5317,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0444,
+    0.1313,
+    0.5267
+   ],
+   [
+    0.1313,
+    0.2181,
+    0.5267
+   ],
+   [
+    0.2181,
+    0.305,
+    0.5267
+   ],
+   [
+    0.305,
+    0.3919,
+    0.5267
+   ],
+   [
+    0.3919,
+    0.4788,
+    0.5267
+   ],
+   [
+    0.4788,
+    0.5656,
+    0.5267
+   ],
+   [
+    0.5656,
+    0.6525,
+    0.5267
+   ],
+   [
+    0.6525,
+    0.7394,
+    0.5267
+   ],
+   [
+    0.7394,
+    0.8263,
+    0.5267
+   ],
+   [
+    0.8263,
+    0.9131,
+    0.5267
+   ],
+   [
+    0.9131,
+    1.0,
+    0.5267
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2740,
+  "completion_tokens": 940,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.6,
+ "created_at": "2026-10-18T11:11:06+00:00",
+ "content": "<x_0.2256><y_0.0>fhire, fituated on the river Swale, fixteen miles north- weft of York. It fends two members to parliament.<x_0.9707><y_0.0289><class_Text>\n\n<x_0.1963><y_0.0281>THIRST, an uneafy fenfation, arising from a deficiency in the falliva to moiften the inward parts of the mouth; hence arifes a frong defire for drink: it is a symptom ge- nerally attending feverifi dforders.<x_0.9746><y_0.0859><class_Text>\n\n<x_0.1973><y_0.0852>THISTLE, in botany. See CARDUUS.<x_0.7637><y_0.1008><class_Text>\n\n<x_0.1953><y_0.1>_Order of the_ THISTLE, or of St ANDREW, a military order of knighthood in Scotland, the rife and infiltration whereof is varioully related by different authors. Lekey, bifhop of Rofs, reports, that the night before the battle between Athelllan king of Northumberland, and Hungus king of the Picts, a bright crofs, in form of that where- on St Andrew (the tutelar faint of Scotland) foffered martyrdom, appeared to Hungus ; who having gained the victory, ever after bore the figure of that crols on his banners. Others affert, that Achaius king of Scotland firt infiltrated this order, after having made the famous league offensive and defensive with Charlemagne king of France. But although the thiffle had been acknowledged as the fymbol of the kingdom of Scotland from the reign of Achaius, yet fome refer the beginning of this order to Charles VII, of France. Others place the foundation of it as low as the year 1500.<x_0.9775><y_0.343><class_Text>\n\n<x_0.2246><y_0.3422>The chief and principal enfign is a gold collar compo- fed of thillles and fprigs of rue interlinked with amulets of gold, having pendent thereunto the image of St Andrew with his crois, and the motto, NEMO ME IMPUNE LA CESSET.<x_0.9785><y_0.4133><class_Text>\n\n<x_0.2236><y_0.4141>The ordinary or common enfign worn by the knights, is a flat of four filver points, and over them a green cir-cle, bordered and fettered with gold, containing the faid motto, and in the centre is a thiffle proper ; all which is embroidered on their left breast, and worn with the collar, with a green ribband over the left shoulder, and brought under the right arm ; pendent thereto is the image of St Andrew, with his crofs, in a purple robe, within an oval of gold enameled vert, with the former motto : but fometimes they wear, encircled in the fame manner, a thiffle crowned.<x_0.9795><y_0.5703><class_Text>\n\n<x_0.2227><y_0.5695>About the time of the reformation, this order was dropped, till James II. of England refumed it, by creating eight knights: however, the revolution unfettled it again, and it lay neglected till queen Anne, in 1703, restored it to the primitive design, of twelve knights of St Andrew.<x_0.9766><y_0.6555><class_Text>\n\n<x_0.1924><y_0.6547>THLASPI, in botany, a genus of the tetradynamia flicu- lofa clafs. The pod is emarginated, heart-shaped, con-taining many feeds. There are ten fpecies, fix of them natives of Britain, viz. the campefire, or mithridate ; the arvenfe, or treacle-muflard ; the perfoliatum, or perfoliate treacle-muflard ; the furtum, or perennial mithridate muflard ; the montanum, or mountain mithridate-muflard ; and the burfa paltoris, or thepherd's purfe.<x_0.9756><y_0.7828><class_Text>\n\n<x_0.1934><y_0.782>THOM EANS, THOMISTS, or _Chritians of St_ THOMAS, a people of the Eaft-Indies, who, according to the tradition, received the Golpel from St Thomas. Upon the arrival of the Portuguese at Calicut, in their first voyage to the Indier, they met with ancient Christians, who pretended to be defended from those converted by St Thomas. The Thomazas being informed of a new people arrived among them, who bore a particular veneration for the<x_0.9805><y_0.8992><class_Text>",
+ "reply": {
+  "id": "chatcmpl-b9a79c83-d827-40f5-bf19-0ffbfd98940d",
+  "object": "chat.completion",
+  "created": 1792321864,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.2256><y_0.0>fhire, fituated on the river Swale, fixteen miles north- weft of York. It fends two members to parliament.<x_0.9707><y_0.0289><class_Text>\n\n<x_0.1963><y_0.0281>THIRST, an uneafy fenfation, arising from a deficiency in the falliva to moiften the inward parts of the mouth; hence arifes a frong defire for drink: it is a symptom ge- nerally attending feverifi dforders.<x_0.9746><y_0.0859><class_Text>\n\n<x_0.1973><y_0.0852>THISTLE, in botany. See CARDUUS.<x_0.7637><y_0.1008><class_Text>\n\n<x_0.1953><y_0.1>_Order of the_ THISTLE, or of St ANDREW, a military order of knighthood in Scotland, the rife and infiltration whereof is varioully related by different authors. Lekey, bifhop of Rofs, reports, that the night before the battle between Athelllan king of Northumberland, and Hungus king of the Picts, a bright crofs, in form of that where- on St Andrew (the tutelar faint of Scotland) foffered martyrdom, appeared to Hungus ; who having gained the victory, ever after bore the figure of that crols on his banners. Others affert, that Achaius king of Scotland firt infiltrated this order, after having made the famous league offensive and defensive with Charlemagne king of France. But although the thiffle had been acknowledged as the fymbol of the kingdom of Scotland from the reign of Achaius, yet fome refer the beginning of this order to Charles VII, of France. Others place the foundation of it as low as the year 1500.<x_0.9775><y_0.343><class_Text>\n\n<x_0.2246><y_0.3422>The chief and principal enfign is a gold collar compo- fed of thillles and fprigs of rue interlinked with amulets of gold, having pendent thereunto the image of St Andrew with his crois, and the motto, NEMO ME IMPUNE LA CESSET.<x_0.9785><y_0.4133><class_Text>\n\n<x_0.2236><y_0.4141>The ordinary or common enfign worn by the knights, is a flat of four filver points, and over them a green cir-cle, bordered and fettered with gold, containing the faid motto, and in the centre is a thiffle proper ; all which is embroidered on their left breast, and worn with the collar, with a green ribband over the left shoulder, and brought under the right arm ; pendent thereto is the image of St Andrew, with his crofs, in a purple robe, within an oval of gold enameled vert, with the former motto : but fometimes they wear, encircled in the fame manner, a thiffle crowned.<x_0.9795><y_0.5703><class_Text>\n\n<x_0.2227><y_0.5695>About the time of the reformation, this order was dropped, till James II. of England refumed it, by creating eight knights: however, the revolution unfettled it again, and it lay neglected till queen Anne, in 1703, restored it to the primitive design, of twelve knights of St Andrew.<x_0.9766><y_0.6555><class_Text>\n\n<x_0.1924><y_0.6547>THLASPI, in botany, a genus of the tetradynamia flicu- lofa clafs. The pod is emarginated, heart-shaped, con-taining many feeds. There are ten fpecies, fix of them natives of Britain, viz. the campefire, or mithridate ; the arvenfe, or treacle-muflard ; the perfoliatum, or perfoliate treacle-muflard ; the furtum, or perennial mithridate muflard ; the montanum, or mountain mithridate-muflard ; and the burfa paltoris, or thepherd's purfe.<x_0.9756><y_0.7828><class_Text>\n\n<x_0.1934><y_0.782>THOM EANS, THOMISTS, or _Chritians of St_ THOMAS, a people of the Eaft-Indies, who, according to the tradition, received the Golpel from St Thomas. Upon the arrival of the Portuguese at Calicut, in their first voyage to the Indier, they met with ancient Christians, who pretended to be defended from those converted by St Thomas. The Thomazas being informed of a new people arrived among them, who bore a particular veneration for the<x_0.9805><y_0.8992><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2740,
+   "completion_tokens": 940,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

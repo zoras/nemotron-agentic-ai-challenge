@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "ce773f7178dea18797b4a7b8a5d6e85a9b72587c2793e5f1e97aec5b899ea1fa",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "5dad9e5c716fbf0e61b93ef2d1a6869f684c3fb5912e0129a06c33e07879f016",
+  "image_bytes": 2347905,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2402",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4733,
+   0.0302,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0302,
+    0.111,
+    0.4783
+   ],
+   [
+    0.111,
+    0.1918,
+    0.4817
+   ],
+   [
+    0.1918,
+    0.2727,
+    0.4817
+   ],
+   [
+    0.2727,
+    0.3535,
+    0.4817
+   ],
+   [
+    0.3535,
+    0.4343,
+    0.4817
+   ],
+   [
+    0.4343,
+    0.5151,
+    0.4817
+   ],
+   [
+    0.5151,
+    0.5959,
+    0.4817
+   ],
+   [
+    0.5959,
+    0.6767,
+    0.4817
+   ],
+   [
+    0.6767,
+    0.7575,
+    0.4817
+   ],
+   [
+    0.7575,
+    0.8384,
+    0.4817
+   ],
+   [
+    0.8384,
+    0.9192,
+    0.4817
+   ],
+   [
+    0.9192,
+    1.0,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2970,
+  "completion_tokens": 1170,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.98,
+ "created_at": "2026-10-18T11:21:21+00:00",
+ "content": "<x_0.0><y_0.0047>TOMY. 3<x_0.916><y_0.0258><class_Page-header>\n\n<x_0.0254><y_0.0305>garded as _lumbo-coccygeal_; and their number is estimated by deducting that of the cervical and costal from the total number. The following table, which shows the number of the costal, the lumbo-coccygeal, and the total number of vertebrae, indicates that their number varies much in various _genera_ of this family.<x_0.7891><y_0.1109><class_Text>\n\n<x_0.0273><y_0.1094>\\begin{tabular}{cccccc}\n & **d.** & **Le.** & **t.** & & **d.** & **l.e.** & **t.**\\\\\nLamantin.....16 & 24 & 46 & Porpoise.....13 & 40 & 60 & \\\\\nDugong .....18 & 23 & 46 & Narwal.....12 & 35 & 54 & \\\\\nDolphin.....13 & 47 & 67 & Hyperodon.....9 & 29 & 45 & \\\\\nTursio.....13 & 33 & 58 & Cachalot or White & & & \\\\\nD. Globiceps.....11 & 37 & 56 & Whale.....14-15 & 39 & 60 & \\\\\nD. Griseus.....12 & 42 & 61 & Greenland Whale...15 & 37 & 59 & \\\\\nD. Gangeticus.....11 & 23 & 46 & Rorquhal.....14 & 31 & 52 & \\\\\n\\end{tabular}<x_0.79><y_0.2016><class_Table>\n\n<x_0.0264><y_0.2008>In general, however, if we reckon the first 2, 3, or 5 ver- tebra after the costal as lumbar, it may be said that the caudal vertebra of the CetACEA vary from 22 or 25, which are the numbers respectively in the lamantin and dugong, to 34, 38, and 42, at which they may be estimated in the dolphin. We shall see that, in the dugong at least, we are guided in this estimate by the rudimental bones of the pelvis.<x_0.7881><y_0.307><class_Text>\n\n<x_0.0244><y_0.3047>The coccygeal or caudal vertebra of the MAMMALIA may be distinguished into two kinds: those which contain a canal in continuity with that of the vertebral co- lumn and sacrum, and those in which the pieces are solid. The first, which are next the sacrum, have articular, transverse, and spinous processes, distinct in proportion as the animals move their tails. The latter are generally prismatic in shape, diminish in size towards the extremity, and have only slight tubercles for muscular attachments. Animals with prehensile tails, as the American ape (_sapajous_), have above, at the base of the body of each vertebra, two small tubercles, between which pass the tendons of the flexor muscles. By means of this mechanism these animals can twine the tail round the branch of a tree with sufficient force to support the weight of the body.<x_0.7871><y_0.5148><class_Text>\n\n<x_0.0186><y_0.5133>The MAMMALIA with long mobile tails have often two or three small supernumerary bones placed on the lower surface of the junctions of several of the coccygeal vertebrae, from the 3d or 4th to the 7th or 8th. These sesamoid bones give attachment to muscles. In the beaver, which employs its tail as a trowel, the transverse processes are remarkable for size, while the lower spinous processes are larger than the upper ones,—an arrangement which enables it to depress the tail forcibly when it beats the ground.<x_0.7861><y_0.6445><class_Text>\n\n<x_0.0166><y_0.643>The shape of the chest in the MAMMALIA varies in The chest. general as the clavicles are present or wanting. In ani- mals provided with clavicles, as the QUADRUMANA, bats, the squirrel, beaver, mole, ant-eater, hedgehog, and sloth, the shape of the chest approaches to the human, or is conoidal, and flattened before and behind. In those void of clavicles it is compressed laterally, from the smaller incurvation of the ribs; and the sternum makes a remark- The sterable prominence, so that the transverse or intercostal dia-mmeter is less proportionally, and the sterno-vertebral is greater proportionally, than in man and the claviculated animals. In the long-legged animals, as the giraffe and those of the stag kind, this prominence of the sternum is sufficient to give it a kecil-like appearance (_thoraz carina-tus_). In the carnivorous animals the chest presents its greatest longitudinal extent.<x_0.8965><y_0.8531><class_Text>\n\n<x_0.0156><y_0.8516>The number and shape of the ribs varies in the differ- The ribs. ent tribes. In number, indeed, the ribs always correspond with that of the costal vertebrae. Thus, in the QUADRUMANA, ZOOPHAGA, RODENTIA, EDENTATA, and RUMINANTIA, they vary from 12 to 15 pair, with only three exceptions, the glutton, hyena, and ant-eater. In the Chinese monkey, common bat, and armadillo, they are a pair less than in<x_0.8848><y_0.9453><class_Text>",
+ "reply": {
+  "id": "chatcmpl-2e37d17b-7302-412c-8178-51a79fef4adc",
+  "object": "chat.completion",
+  "created": 1792322479,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0047>TOMY. 3<x_0.916><y_0.0258><class_Page-header>\n\n<x_0.0254><y_0.0305>garded as _lumbo-coccygeal_; and their number is estimated by deducting that of the cervical and costal from the total number. The following table, which shows the number of the costal, the lumbo-coccygeal, and the total number of vertebrae, indicates that their number varies much in various _genera_ of this family.<x_0.7891><y_0.1109><class_Text>\n\n<x_0.0273><y_0.1094>\\begin{tabular}{cccccc}\n & **d.** & **Le.** & **t.** & & **d.** & **l.e.** & **t.**\\\\\nLamantin.....16 & 24 & 46 & Porpoise.....13 & 40 & 60 & \\\\\nDugong .....18 & 23 & 46 & Narwal.....12 & 35 & 54 & \\\\\nDolphin.....13 & 47 & 67 & Hyperodon.....9 & 29 & 45 & \\\\\nTursio.....13 & 33 & 58 & Cachalot or White & & & \\\\\nD. Globiceps.....11 & 37 & 56 & Whale.....14-15 & 39 & 60 & \\\\\nD. Griseus.....12 & 42 & 61 & Greenland Whale...15 & 37 & 59 & \\\\\nD. Gangeticus.....11 & 23 & 46 & Rorquhal.....14 & 31 & 52 & \\\\\n\\end{tabular}<x_0.79><y_0.2016><class_Table>\n\n<x_0.0264><y_0.2008>In general, however, if we reckon the first 2, 3, or 5 ver- tebra after the costal as lumbar, it may be said that the caudal vertebra of the CetACEA vary from 22 or 25, which are the numbers respectively in the lamantin and dugong, to 34, 38, and 42, at which they may be estimated in the dolphin. We shall see that, in the dugong at least, we are guided in this estimate by the rudimental bones of the pelvis.<x_0.7881><y_0.307><class_Text>\n\n<x_0.0244><y_0.3047>The coccygeal or caudal vertebra of the MAMMALIA may be distinguished into two kinds: those which contain a canal in continuity with that of the vertebral co- lumn and sacrum, and those in which the pieces are solid. The first, which are next the sacrum, have articular, transverse, and spinous processes, distinct in proportion as the animals move their tails. The latter are generally prismatic in shape, diminish in size towards the extremity, and have only slight tubercles for muscular attachments. Animals with prehensile tails, as the American ape (_sapajous_), have above, at the base of the body of each vertebra, two small tubercles, between which pass the tendons of the flexor muscles. By means of this mechanism these animals can twine the tail round the branch of a tree with sufficient force to support the weight of the body.<x_0.7871><y_0.5148><class_Text>\n\n<x_0.0186><y_0.5133>The MAMMALIA with long mobile tails have often two or three small supernumerary bones placed on the lower surface of the junctions of several of the coccygeal vertebrae, from the 3d or 4th to the 7th or 8th. These sesamoid bones give attachment to muscles. In the beaver, which employs its tail as a trowel, the transverse processes are remarkable for size, while the lower spinous processes are larger than the upper ones,—an arrangement which enables it to depress the tail forcibly when it beats the ground.<x_0.7861><y_0.6445><class_Text>\n\n<x_0.0166><y_0.643>The shape of the chest in the MAMMALIA varies in The chest. general as the clavicles are present or wanting. In ani- mals provided with clavicles, as the QUADRUMANA, bats, the squirrel, beaver, mole, ant-eater, hedgehog, and sloth, the shape of the chest approaches to the human, or is conoidal, and flattened before and behind. In those void of clavicles it is compressed laterally, from the smaller incurvation of the ribs; and the sternum makes a remark- The sterable prominence, so that the transverse or intercostal dia-mmeter is less proportionally, and the sterno-vertebral is greater proportionally, than in man and the claviculated animals. In the long-legged animals, as the giraffe and those of the stag kind, this prominence of the sternum is sufficient to give it a kecil-like appearance (_thoraz carina-tus_). In the carnivorous animals the chest presents its greatest longitudinal extent.<x_0.8965><y_0.8531><class_Text>\n\n<x_0.0156><y_0.8516>The number and shape of the ribs varies in the differ- The ribs. ent tribes. In number, indeed, the ribs always correspond with that of the costal vertebrae. Thus, in the QUADRUMANA, ZOOPHAGA, RODENTIA, EDENTATA, and RUMINANTIA, they vary from 12 to 15 pair, with only three exceptions, the glutton, hyena, and ant-eater. In the Chinese monkey, common bat, and armadillo, they are a pair less than in<x_0.8848><y_0.9453><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2970,
+   "completion_tokens": 1170,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

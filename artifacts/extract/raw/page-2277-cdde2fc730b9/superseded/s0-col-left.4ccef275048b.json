@@ -1,0 +1,114 @@
+{
+ "request": {
+  "key": "4ccef275048ba248e2064c1f87bd770bb20c9f736613043cb0556c40de0d8ccc",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "a67ea30a2b73311320321d19bc2bf32db78ee8335f578db74a34d0f6a5c3c031",
+  "image_bytes": 1355550,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0889,
+   0.4517,
+   0.7468
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0889,
+    0.1711,
+    0.4467
+   ],
+   [
+    0.1711,
+    0.2534,
+    0.4467
+   ],
+   [
+    0.2534,
+    0.3356,
+    0.4467
+   ],
+   [
+    0.3356,
+    0.4179,
+    0.445
+   ],
+   [
+    0.4179,
+    0.5001,
+    0.4467
+   ],
+   [
+    0.5001,
+    0.5823,
+    0.4467
+   ],
+   [
+    0.5823,
+    0.6646,
+    0.4467
+   ],
+   [
+    0.6646,
+    0.7468,
+    0.4467
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1269,
+  "total_tokens": 1973,
+  "completion_tokens": 704,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.14,
+ "created_at": "2026-10-18T11:11:43+00:00",
+ "content": "<x_0.0488><y_0.0>Of the Brain and Nerves.<x_0.1885><y_0.0625><class_Caption>\n\n<x_0.1846><y_0.0>mufcles. 12 12, The hrit cervical nerves; 13 13, The second cervical nerves; both fpent upon the mufcles that lie on the neck, and teguments of the neck and head. 14 14, The third cervical nerves, which, after fending off (15 15, Sco) the phrenic nerves to the diaphragm, lupply the mufcles and teguments that lie on the fide of the neck and top of the shoulder. 16 16, The brachial plexus, formed by the fourth, fifth, fixth, feventh cervicals, and frit dorial nerves,--which lupply the mufcles, and teguments of the superior extremity. 17 17, The twelve dorfal, or proper inter- coftal nerves, which are fpent upon the intercoftal mufcles and fome of the large mufcles which lie upon the thorax. 18 18, The five lumbar pairs of nerves, which lupply the lumbar and abdominal mufcles, and fome of the teguments and mufcles of the inferior extremity. 19 19, The facro-feiatic, or poferior crural nerve, formed by the two inferior lumbar, and three superior of the os facrum. This large nerve fuplplies the greatest part of the mufles and teguments of the inferior extremity. 20, The flomachic plexus, formed by the eighth pair. 21 21, Branches of the folar or celiac plexus, formed by the eighth pair and inter-<x_0.9795><y_0.4313><class_Text>\n\n<x_0.4863><y_0.4602>## CHAP. VI. OF THE SENSI<x_0.999><y_0.4898><class_Section-header>\n\n<x_0.1807><y_0.5172>IN treating of the fenfes, we mean to confine ourfelves to the external ones of _touch_, _taffe_, _fmelling_, _bearing_, and _vijion_. The word _fenfe_, when applied to their five, feems to imply not only the fenfation ex cited in the mind by certain imprellions made on the body, but likewife the organ defined to receive and transmit thefe imprellions to the fenforium. Each of thefe organs being of a peculiar structure, is futeeptible only of particular imprellions, which will be pointed out as we proceed to deferibe each of them ferparately.<x_0.9785><y_0.7312><class_Text>\n\n<x_0.4004><y_0.743>**SECT. I.** _Of Touch._<x_0.7168><y_0.7711><class_Section-header>\n\n<x_0.1787><y_0.7789>THE fenfe of touch may be defined to be the faculty of diltinguithing certain properties of bodies by the feel. In a general acceptation, this definition might perhaps not improperly be extended to every part of the body potleefed of fenlibility (r), but it is commonly confined to the nervous papillae of the cutis, or true skin, which, with its appendages, and their several ufes, have been already defecribed.<x_0.9775><y_0.932><class_Text>\n\n<x_0.2139><y_0.9313>The exterior properties of bodies, fuch as their fo-<x_0.9609><y_0.9563><class_Text>\n\n<x_0.0869><y_0.5195>140<x_0.1445><y_0.543><class_Caption>\n\n<x_0.0859><y_0.7891>141<x_0.1426><y_0.8094><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-c9aec2c3-2bbb-4375-8c94-27daf0443210",
+  "object": "chat.completion",
+  "created": 1792321902,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0488><y_0.0>Of the Brain and Nerves.<x_0.1885><y_0.0625><class_Caption>\n\n<x_0.1846><y_0.0>mufcles. 12 12, The hrit cervical nerves; 13 13, The second cervical nerves; both fpent upon the mufcles that lie on the neck, and teguments of the neck and head. 14 14, The third cervical nerves, which, after fending off (15 15, Sco) the phrenic nerves to the diaphragm, lupply the mufcles and teguments that lie on the fide of the neck and top of the shoulder. 16 16, The brachial plexus, formed by the fourth, fifth, fixth, feventh cervicals, and frit dorial nerves,--which lupply the mufcles, and teguments of the superior extremity. 17 17, The twelve dorfal, or proper inter- coftal nerves, which are fpent upon the intercoftal mufcles and fome of the large mufcles which lie upon the thorax. 18 18, The five lumbar pairs of nerves, which lupply the lumbar and abdominal mufcles, and fome of the teguments and mufcles of the inferior extremity. 19 19, The facro-feiatic, or poferior crural nerve, formed by the two inferior lumbar, and three superior of the os facrum. This large nerve fuplplies the greatest part of the mufles and teguments of the inferior extremity. 20, The flomachic plexus, formed by the eighth pair. 21 21, Branches of the folar or celiac plexus, formed by the eighth pair and inter-<x_0.9795><y_0.4313><class_Text>\n\n<x_0.4863><y_0.4602>## CHAP. VI. OF THE SENSI<x_0.999><y_0.4898><class_Section-header>\n\n<x_0.1807><y_0.5172>IN treating of the fenfes, we mean to confine ourfelves to the external ones of _touch_, _taffe_, _fmelling_, _bearing_, and _vijion_. The word _fenfe_, when applied to their five, feems to imply not only the fenfation ex cited in the mind by certain imprellions made on the body, but likewife the organ defined to receive and transmit thefe imprellions to the fenforium. Each of thefe organs being of a peculiar structure, is futeeptible only of particular imprellions, which will be pointed out as we proceed to deferibe each of them ferparately.<x_0.9785><y_0.7312><class_Text>\n\n<x_0.4004><y_0.743>**SECT. I.** _Of Touch._<x_0.7168><y_0.7711><class_Section-header>\n\n<x_0.1787><y_0.7789>THE fenfe of touch may be defined to be the faculty of diltinguithing certain properties of bodies by the feel. In a general acceptation, this definition might perhaps not improperly be extended to every part of the body potleefed of fenlibility (r), but it is commonly confined to the nervous papillae of the cutis, or true skin, which, with its appendages, and their several ufes, have been already defecribed.<x_0.9775><y_0.932><class_Text>\n\n<x_0.2139><y_0.9313>The exterior properties of bodies, fuch as their fo-<x_0.9609><y_0.9563><class_Text>\n\n<x_0.0869><y_0.5195>140<x_0.1445><y_0.543><class_Caption>\n\n<x_0.0859><y_0.7891>141<x_0.1426><y_0.8094><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1269,
+   "total_tokens": 1973,
+   "completion_tokens": 704,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

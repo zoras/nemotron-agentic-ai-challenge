@@ -1,0 +1,458 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:383",
+ "row_index": 383,
+ "volume_id": "191689062",
+ "filename": "page-0383-018fb71412b2.jpg",
+ "image_sha256": "018fb71412b2c0c66f9e9afefa55448a8bc9910b962f68d60bceb3b17b3b8161",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07451,
+  "median_grey": 215,
+  "layout_body_chars": 6387,
+  "layout_pictures": 0
+ },
+ "running_head": "POLITICAL ECONOMY. Chap. II.",
+ "layout_raw": "page-0383-018fb71412b2/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.052,
+    1.0,
+    0.1241
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0383-018fb71412b2/head.json",
+   "finish_reason": "stop",
+   "request_key": "cea53cedb8828fb44a112b1432d1356a15d141ad312b2a146d1fbdddcca60229"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.052,
+    0.5217,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.052,
+     0.1382,
+     0.5167
+    ],
+    [
+     0.1382,
+     0.2244,
+     0.5167
+    ],
+    [
+     0.2244,
+     0.3105,
+     0.5167
+    ],
+    [
+     0.3105,
+     0.3967,
+     0.5167
+    ],
+    [
+     0.3967,
+     0.4829,
+     0.5167
+    ],
+    [
+     0.4829,
+     0.5691,
+     0.5167
+    ],
+    [
+     0.5691,
+     0.6553,
+     0.5167
+    ],
+    [
+     0.6553,
+     0.7415,
+     0.5167
+    ],
+    [
+     0.7415,
+     0.8276,
+     0.5167
+    ],
+    [
+     0.8276,
+     0.9138,
+     0.5167
+    ],
+    [
+     0.9138,
+     1.0,
+     0.5167
+    ]
+   ],
+   "raw_path": "page-0383-018fb71412b2/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "695743239575e23394fc677fb1ebd134a85378943bc6ebea5a7291af703534b4"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5117,
+    0.052,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.052,
+     0.1382,
+     0.5167
+    ],
+    [
+     0.1382,
+     0.2244,
+     0.5167
+    ],
+    [
+     0.2244,
+     0.3105,
+     0.5167
+    ],
+    [
+     0.3105,
+     0.3967,
+     0.5167
+    ],
+    [
+     0.3967,
+     0.4829,
+     0.5167
+    ],
+    [
+     0.4829,
+     0.5691,
+     0.5167
+    ],
+    [
+     0.5691,
+     0.6553,
+     0.5167
+    ],
+    [
+     0.6553,
+     0.7415,
+     0.5167
+    ],
+    [
+     0.7415,
+     0.8276,
+     0.5167
+    ],
+    [
+     0.8276,
+     0.9138,
+     0.5167
+    ],
+    [
+     0.9138,
+     1.0,
+     0.5167
+    ]
+   ],
+   "raw_path": "page-0383-018fb71412b2/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "6810922ee8537e0014062ac86af8532ad51eacc01271664027672af0f0896017"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Picture",
+   "text": "POLITICAL ECONOMY. Chap. II.",
+   "bbox": [
+    0.0,
+    0.052,
+    1.0,
+    0.1241
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0383-018fb71412b2:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "110",
+   "bbox": [
+    0.0494,
+    0.0586,
+    0.0922,
+    0.0742
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "POLITICAL",
+   "bbox": [
+    0.3205,
+    0.052,
+    0.5084,
+    0.0697
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b2"
+  },
+  {
+   "order": 3,
+   "class": "Head-fragment",
+   "text": "Nature of Wealth, &c",
+   "bbox": [
+    0.055,
+    0.0757,
+    0.1177,
+    0.112
+   ],
+   "parse_class": "Caption",
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "The fecond fort is of thofe which human indultry can multiply in proportion to the demand. Where the commodity, as corn, is fuch as cannot be produced but by human indultry, the price is more uniform than in almost any other cafe. The increasing fearcity and confrequently value of land, tends indeed to raife it; but this is counteracted by the invention of machinery, and improved methods of labour. The opposite agency of thefe two causes has a constant tendency to preserve uniformity in the value of grain ; though we cannot, with Smith, confer this uniformity as likely to be fo complete, as to render the price of grain a furie flandard for the value of filver.",
+   "bbox": [
+    0.1172,
+    0.0712,
+    0.5064,
+    0.2519
+   ],
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "There are other commodities, however, which nature produces in abundance, or which, where land is plentiful, can be multiplied with little or no cultivation. Of thefe the principal is butcher meat. Lands can be covered with cattle or fleep by the labour of few hands, and fometimes without any labour at all. Hence, in rude times, butcher meat is always cheaper than corn; in improved periods, the reverfe is the cafe. For a long time the price continues confiantly to rifle, as we have feen it do throughout Great Britain, the pasture lands being more and more converted into arable. At left, however, it becomes fo high as to make it an object for the farmer to fall his cattle, and to cultivate ground for the purpofe of feeding them. After this era, the price is likely to experience a certain diminution, from the improved modes of feeding and rearing, which, in consequence of this new attention, are likely to be dif-covered and adopted.",
+   "bbox": [
+    0.1182,
+    0.2468,
+    0.5079,
+    0.4941
+   ],
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "There are certain animals, as hogs, poultry, Sec. which are fed on mere offals, and in a rude fate, therefore, are fill cheaper than butcher meat. In an improved plate they are dearer; for they have not as yet, at least in this country, become an object of separate cultivation.",
+   "bbox": [
+    0.1248,
+    0.4883,
+    0.509,
+    0.5734
+   ],
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "The third fort conflicts of thofe, in the multiplication of which the power of man is either limited or uncertain. In thefe the rule is various. Some commodities are not cultivated on their own account, but are appen-dages to others; as wool and hides to the carcafe of the ox or fleep. Both these commodities are much more portable, and more easily preferred, than the flesh of the animals from which they are taken; the market for them is thus much more extensive, and the demand more equal at all times. Hence, in rude periods, when the flesh of animals, from its abundance, is of small value, thefe appendages equal or furpafs it in price. At Buenos Ayres frequently, and fometimes even in Spain, an ox is killed for the fake of the hide and tallow. In an improved flato of society, on the contrary, the hide and fleece become confiderably inferior in value to the carcafe.",
+   "bbox": [
+    0.1253,
+    0.5689,
+    0.5105,
+    0.8022
+   ],
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "_Fifb_ is an article, the fupply of which is confiderably limited, as man has no power of production in respect to it, though, by the exertion of indultry, he can collect a greater quantity. Shoals of filh are generally co- pions, but uncertain.",
+   "bbox": [
+    0.1284,
+    0.797,
+    0.512,
+    0.8712
+   ],
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Metals and minerals are articles, the fupply of which is not precisely limited, but extremely uncertain. The difcovery of new mines, or the continuance of fertility in the old, are equally beyond the reach of calcula-tion.",
+   "bbox": [
+    0.1289,
+    0.8652,
+    0.5151,
+    0.9386
+   ],
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b9"
+  },
+  {
+   "order": 10,
+   "class": "Page-footer",
+   "text": "2",
+   "bbox": [
+    0.3276,
+    0.9371,
+    0.3408,
+    0.9481
+   ],
+   "source": "s0-col-left",
+   "id": "page-0383-018fb71412b2:b10"
+  },
+  {
+   "order": 11,
+   "class": "Head-fragment",
+   "text": "ECONOMY.",
+   "bbox": [
+    0.5198,
+    0.052,
+    0.6857,
+    0.0697
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b11"
+  },
+  {
+   "order": 12,
+   "class": "Head-fragment",
+   "text": "**Chap. II.** _Source of_ _Wealth._",
+   "bbox": [
+    0.8722,
+    0.052,
+    0.9671,
+    0.1112
+   ],
+   "parse_class": "Caption",
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b12"
+  },
+  {
+   "order": 13,
+   "class": "Head-fragment",
+   "text": "**CHAP.II.** _Of the Sources of Wealth._",
+   "bbox": [
+    0.5732,
+    0.0809,
+    0.8441,
+    0.1031
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "ALL wealth arifes from three fources; it is either produced by the fpontaneous bounty of nature, or it is the fruit of human indultry, or it is generated by the judicious employment of a quantity of wealth previously accumulated. To thefe three heads then of _land, la-bour_, and _capital_, all national wealth may be re-ferred.",
+   "bbox": [
+    0.5155,
+    0.1076,
+    0.9022,
+    0.206
+   ],
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "Smith has treated of the revenue derived from thefe three fources as forming the constituent parts of the price of commodities; and with regard to labour in particular, repeatedly confiders it as the only fource of wealth\\*. According to the view, however, given above, the price of all commodities depends entirely on the proportion between the demand and the supply. Labour, therefore, (and the fame may be laid of land and capi-tal), is only a means of furnishing or increasing a lupply of thofe articles for which there already exilisa demand, and unlefs it be fuccefslul in lo doing, the moft levere labours will meet with no remuneration whatever. We shall therefore proceed to consider the revenue which arises from thefe different fources, and the circumstances by which it is increased or diminished.",
+   "bbox": [
+    0.5179,
+    0.2045,
+    0.9027,
+    0.409
+   ],
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b15"
+  },
+  {
+   "order": 16,
+   "class": "Caption",
+   "text": "Book i. cb. v. vi. via",
+   "bbox": [
+    0.9089,
+    0.2616,
+    0.9676,
+    0.2882
+   ],
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b16"
+  },
+  {
+   "order": 17,
+   "class": "Section-header",
+   "text": "SECT. I. _Land._",
+   "bbox": [
+    0.651,
+    0.4127,
+    0.7654,
+    0.4297
+   ],
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "All land which is not naturally barren, and is cultivated with any cafe, affords something more than is necellary to pay the expense of labouring it. This furplus goes as a rent to the landlord, who, in confidera-tion of receiving it without rifk or trouble, relinquifies to the farmer the profits of cultivation.",
+   "bbox": [
+    0.5222,
+    0.429,
+    0.9061,
+    0.5149
+   ],
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "The proportion of the produce of a field which is to go for rent, varies with different circumstances. The chief of thefe is the fertility of the foil, the extent of the market, which enables the produce to be difpofed of to greater advantage, the profperity or poverty of the country, which causes a greater or less demand for that produce, and the average fill and activity of the farmers, which will enable them to turn the fertility of the ground to better account. It is almost needless to obferve, were it not for the vague language often made ufe of upon this subject, that the rate at which farms let, mult, like all other commodities, depend altogether upon the demand and the lupply. If much is to be made by farming, many will bid for farms, and the rent will be railed by their competition, and _vice verfu._ The idea that all the landlords of an extensive country may combine to raife their rents, is altogether chimeri-cal. Even could it take place, it could be accomplished only by a certain number of them allowing their lands to lie wafte, which, diminishing the lupply, would doubtlefs raife the rent of the cultivated lands. But we need not fear that any landlord should leave his lands in this condition, from a culpable scheme of agrandizing the reft of his body at his own expence, as well as that of the public.",
+   "bbox": [
+    0.5227,
+    0.5112,
+    0.9108,
+    0.8512
+   ],
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "Land which produces food for man will at all times afford rent to the landlord, in proportion to its fertility, and the other circumstances mentioned above. Men multiply in proportion to the means of fubifference; they have even a constant tendency to multiply beyond the means; hence there is always a full demand for this species",
+   "bbox": [
+    0.5284,
+    0.8475,
+    0.9113,
+    0.9474
+   ],
+   "source": "s0-col-right",
+   "id": "page-0383-018fb71412b2:b20"
+  }
+ ]
+}

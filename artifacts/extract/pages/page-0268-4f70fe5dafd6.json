@@ -1,0 +1,360 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:268",
+ "row_index": 268,
+ "volume_id": "149982181",
+ "filename": "page-0268-4f70fe5dafd6.jpg",
+ "image_sha256": "4f70fe5dafd60ccb4d258630071448612eebe999713dac3954c2011faacf3929",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.11765,
+  "median_grey": 228,
+  "layout_body_chars": 6727,
+  "layout_pictures": 0
+ },
+ "running_head": "L A U [ 602 ] L A U",
+ "layout_raw": "page-0268-4f70fe5dafd6/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0309,
+    1.0,
+    0.0577
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0268-4f70fe5dafd6/head.json",
+   "finish_reason": "stop",
+   "request_key": "7c29b432fbb3e8e0a0b4ad8bb243c566c1e6e23f9d21d6d5029c0edc274b36cb"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0309,
+    0.5383,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0309,
+     0.1117,
+     0.5267
+    ],
+    [
+     0.1117,
+     0.1924,
+     0.53
+    ],
+    [
+     0.1924,
+     0.2732,
+     0.53
+    ],
+    [
+     0.2732,
+     0.3539,
+     0.5333
+    ],
+    [
+     0.3539,
+     0.4347,
+     0.5333
+    ],
+    [
+     0.4347,
+     0.5155,
+     0.5333
+    ],
+    [
+     0.5155,
+     0.5962,
+     0.5333
+    ],
+    [
+     0.5962,
+     0.677,
+     0.5333
+    ],
+    [
+     0.677,
+     0.7577,
+     0.5333
+    ],
+    [
+     0.7577,
+     0.8385,
+     0.5333
+    ],
+    [
+     0.8385,
+     0.9192,
+     0.5333
+    ],
+    [
+     0.9192,
+     1.0,
+     0.5333
+    ]
+   ],
+   "raw_path": "page-0268-4f70fe5dafd6/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "b1b810576040aefe7d13713f87c6ecaf965b79a86507078ae4c0a793962c638b"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5217,
+    0.0309,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0309,
+     0.1117,
+     0.5267
+    ],
+    [
+     0.1117,
+     0.1924,
+     0.53
+    ],
+    [
+     0.1924,
+     0.2732,
+     0.53
+    ],
+    [
+     0.2732,
+     0.3539,
+     0.5333
+    ],
+    [
+     0.3539,
+     0.4347,
+     0.5333
+    ],
+    [
+     0.4347,
+     0.5155,
+     0.5333
+    ],
+    [
+     0.5155,
+     0.5962,
+     0.5333
+    ],
+    [
+     0.5962,
+     0.677,
+     0.5333
+    ],
+    [
+     0.677,
+     0.7577,
+     0.5333
+    ],
+    [
+     0.7577,
+     0.8385,
+     0.5333
+    ],
+    [
+     0.8385,
+     0.9192,
+     0.5333
+    ],
+    [
+     0.9192,
+     1.0,
+     0.5333
+    ]
+   ],
+   "raw_path": "page-0268-4f70fe5dafd6/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "79e4cc937679bfd861df143a7908913fe0eab7857a1724f4f40ec9c20d139cc7"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "L A U [ 602 ] L A U",
+   "bbox": [
+    0.0,
+    0.0309,
+    1.0,
+    0.0577
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0268-4f70fe5dafd6:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "L A U [ 60",
+   "bbox": [
+    0.2408,
+    0.0347,
+    0.5288,
+    0.0567
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0268-4f70fe5dafd6:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Laurus.",
+   "bbox": [
+    0.0657,
+    0.0574,
+    0.1335,
+    0.0855
+   ],
+   "source": "s0-col-left",
+   "id": "page-0268-4f70fe5dafd6:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "cipally the farecity of this plant which makes it valu- able.",
+   "bbox": [
+    0.1325,
+    0.0551,
+    0.5199,
+    0.0861
+   ],
+   "source": "s0-col-left",
+   "id": "page-0268-4f70fe5dafd6:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "The _benzoin_ tree will grow to a much larger fize than the other, and its branches are more numerous. They are smooth, and of a fine light-green colour. The leaves on their upper surface are smooth and of a fine light-green colour, but their under surface is ve- nofe, and of a whitifh caft. When bruifed, they emit a fine fragrance. This tree was formerly mittaken for that which produces the drug called _benzoin_; which is now known to be obtained from a species of flyrax. See STYRAX.",
+   "bbox": [
+    0.133,
+    0.0831,
+    0.5225,
+    0.2217
+   ],
+   "source": "s0-col-left",
+   "id": "page-0268-4f70fe5dafd6:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "The _faffafras_ will grow to nearly the height of the others, though the branches are not fo numerous. Its bark is smooth, and of a red colour, which beautifully ditinguifhes it in winter; whilst the fine thinning green of its leaves constitutes its greatest beauty in summer. In thefe, indeed, there is a variety, and a very extraor-dinary one. Some are large, and of an oval figure; others are smaller, and of the fame shape; while o-thers again are fo divided into three lobes, as to resemble the leaves of fome forts of the fig-tree. In America, the faffafras generally flands fingle in the woods, and along the fences round the fields. It flowers in May before the leaves come out; and being entirely covered with them, it is ditinguified at a great distance by their beautiful yellow colour.",
+   "bbox": [
+    0.1346,
+    0.2187,
+    0.5241,
+    0.4269
+   ],
+   "source": "s0-col-left",
+   "id": "page-0268-4f70fe5dafd6:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "The root of the faffafras has a fragrant fmell, and a fweetifh, aromatic, fubacrid tafte; the bark taftes much stronger than any other part, and the fmall twigs stronger than the large pieces. It is a warm aperture and corroborant, and frequently employed with good fuccefs for purifying and fweetening the blood and juices. For thefe purposes, infusions made from the rafped root or bark may be drank as tea. In fome confitutions indeed, fuch liquors are, by their fragrance, apt, on firt taking them, to affect the head; but in fuch cafes, they may be advantageously freed from their flavour by boiling. A decoction of faffafras, boiled down to the confluence of an extract, proves firmly bitterith and fubaftringent. Hoffman affures us, that he has frequently given this extract to the quantity of a feruple at a time, with remarkable fuccefs, for strengthening the tone of the vificera in ca-chexies; as alfo in the decline of intermittent fevers, and in hypochondriacal fpafms. Saffafras yields in di-fillation an extremely fragrant oil of a penetrating pungent tafte, fo ponderous (notwithlanding the lightnefs of the drug itself) as to link in water. Rec-tified fpirit extracts the whole tafte and fmell of faffa-fras; and elevates nothing in evaporation: hence the fpirituous extract proves the moft elegant and efficacious preparation, as containing the virtue of the root entire.",
+   "bbox": [
+    0.1388,
+    0.4215,
+    0.5283,
+    0.7782
+   ],
+   "source": "s0-col-left",
+   "id": "page-0268-4f70fe5dafd6:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "The bark of this tree is ufed by the women in Pen-fylvania and other parts of North America in dying worfted a fine latting orange colour, which does not fade in the fun. They ufe urine infitead of alum in dying; and boil the dye in a brafs boiler, because in an iron velfel it does not yield fo fine a colour. The wood is made ufe of for polls belonging to the inclo-fures, for it is laid to latt a long time in the ground: but it is likewise fair, that there is hardly any kind of wood which is more attacked by worms than this when it is exposed to the air without cover; and that in a short time it is quite worm eaten through and through.",
+   "bbox": [
+    0.1446,
+    0.7714,
+    0.5336,
+    0.9432
+   ],
+   "source": "s0-col-left",
+   "id": "page-0268-4f70fe5dafd6:b7"
+  },
+  {
+   "order": 8,
+   "class": "Caption",
+   "text": "_Rale’s Travel in America._",
+   "bbox": [
+    0.0773,
+    0.8683,
+    0.1414,
+    0.9069
+   ],
+   "source": "s0-col-left",
+   "id": "page-0268-4f70fe5dafd6:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "2 J L A U",
+   "bbox": [
+    0.5254,
+    0.0347,
+    0.7982,
+    0.0536
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0268-4f70fe5dafd6:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "On cutting fome part of the faffafras tree, or its fhoots, and holding it to the nofe, it has a frong but pleafant fmell. Some people peel the root, and boil the peel with the beer which they are brewing, because they believe it wholefome. For the fame reafon, the peel is put into brandy either whill it is diffilling or after it is made. Profeffor Kalm informs us, that a de-coction of the root of faffafras in water, drank every morning, is ufed with fuccefs in the dropty. -When part of a wood is defined for cultivation, the faffafras trees are commonly left upon it, because they have a very thick foliage, and afford a cool shade to the cattle during the great heats. Some people get their best-poffs made of faffafras wood, in order to expel the bugs; for its frong feent, it is laid, prevents those vermin from fettling in them. For two or three years together this has the defined effect, or about as long as the wood keeps its frong aromatic fmell; but after that time it has been obferved to lofe its effect. In Penflyvania fome people put chips of faffafras into their chefts, where they keep all forts of woollen fluffs, in order to expel the moths (or larvae or caterpillars of moths or tinies) which commonly fettle in them in fummer. The root keeps its fmell for a long while: Profeffor Kalm fav one which had lain five or fix years in the drawer of a table, and fill preferred the strength of its feent. The people alfo gather its flowers, and ufe it as tea.",
+   "bbox": [
+    0.5259,
+    0.0551,
+    0.915,
+    0.436
+   ],
+   "source": "s0-col-right",
+   "id": "page-0268-4f70fe5dafd6:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "The _perfea_, or _alligator_ pear tree, is cultivated univerfally in the Well Indies by all ranks of people. The fruit is pear-shaped, and from one to two pounds in weight. On removing a green skin or covering, we come to a yellow butyracaceous fublance; and in the heart find a large round feed or flone, which is unequal in the fur- face, and exceedingly hard and woody. This fruit is ripe in Auguilt and September, and confitutes one of the moft agreeable articles of diet for fix or eight weeks to the negroes. Thefe pears, with a little fall and a plantain or two, afford a hearty meal. They are alfo ferved up at the tables of white people as choice fruit. When the pear is ripe, the yellow or eatable fubflance is firmer than butter, and tales fomewhat like butter or marrow : hence it is called by fome the _vegetable marrow._ But however excellent this fruit is when ripe, it is very dangerous when pulled and eaten before maturity. Dr Wright fays, he has repeatedly known it to produce fever and dyfentery, which were removed with difficulty.-- The leaves of this tree and thofe of the bead-vine or wild liquorice are made into pectoral decoctions by the common people.-- The large flone is ufed for marking linen. The clothis tied or held over the flone, and the letters are pricked out by a needle through the cloth and into the feed. The plain is a reddish brown, which never wafhes out.-- The buds of the alligator tree are faid to be ufed with fuccefs in pitfans against the venereal difeafe. An infusion of them in water, drank in the morning fatling, is strongly recommended for diflodging coagula- ted blood in the stomach produced by a fall or a fevere broke on that important entrail. \" The wild hoars in the Eaft Indics (fays Labat) eat greedily of the mammeces and avocado pears, which give their fleth a lufcious and moft agreeable favour.\"",
+   "bbox": [
+    0.5329,
+    0.4344,
+    0.9243,
+    0.9084
+   ],
+   "source": "s0-col-right",
+   "id": "page-0268-4f70fe5dafd6:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "_Caffia._ The bark of this species is known in the hops by the name of _caffia lignea._ This bark, which",
+   "bbox": [
+    0.5427,
+    0.9061,
+    0.9253,
+    0.9372
+   ],
+   "source": "s0-col-right",
+   "id": "page-0268-4f70fe5dafd6:b12"
+  }
+ ]
+}

@@ -1,0 +1,518 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2448",
+ "row_index": 2448,
+ "volume_id": "144133902",
+ "filename": "page-2448-f5e4884f245d.jpg",
+ "image_sha256": "f5e4884f245dcd6ad7cc397797014544877dd30c843c6dde29d97203b6b52245",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10588,
+  "median_grey": 215,
+  "layout_body_chars": 6088,
+  "layout_pictures": 1
+ },
+ "running_head": "C O M (255 ) C O M",
+ "layout_raw": "page-2448-f5e4884f245d/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0255,
+    1.0,
+    0.0514
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2448-f5e4884f245d/head.json",
+   "finish_reason": "stop",
+   "request_key": "f31678c7fb7f38fa3f1cf263baa5120cd057e3c0d9867fb42205830bed7a8e1a"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0255,
+    0.485,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0255,
+     0.1067,
+     0.465
+    ],
+    [
+     0.1067,
+     0.1879,
+     0.48
+    ],
+    [
+     0.1879,
+     0.2691,
+     0.465
+    ],
+    [
+     0.2691,
+     0.3503,
+     0.465
+    ],
+    [
+     0.3503,
+     0.4315,
+     0.4667
+    ],
+    [
+     0.4315,
+     0.5128,
+     0.465
+    ],
+    [
+     0.5128,
+     0.594,
+     0.4667
+    ],
+    [
+     0.594,
+     0.6752,
+     0.465
+    ],
+    [
+     0.6752,
+     0.7564,
+     0.465
+    ],
+    [
+     0.7564,
+     0.8376,
+     0.4617
+    ],
+    [
+     0.8376,
+     0.9188,
+     0.4617
+    ],
+    [
+     0.9188,
+     1.0,
+     0.4767
+    ]
+   ],
+   "raw_path": "page-2448-f5e4884f245d/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "affdd6fe72168de13f7ca0ab6988b66950c0e0489694a1f2761d6f83c9acd6da"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4567,
+    0.0255,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0255,
+     0.1067,
+     0.465
+    ],
+    [
+     0.1067,
+     0.1879,
+     0.48
+    ],
+    [
+     0.1879,
+     0.2691,
+     0.465
+    ],
+    [
+     0.2691,
+     0.3503,
+     0.465
+    ],
+    [
+     0.3503,
+     0.4315,
+     0.4667
+    ],
+    [
+     0.4315,
+     0.5128,
+     0.465
+    ],
+    [
+     0.5128,
+     0.594,
+     0.4667
+    ],
+    [
+     0.594,
+     0.6752,
+     0.465
+    ],
+    [
+     0.6752,
+     0.7564,
+     0.465
+    ],
+    [
+     0.7564,
+     0.8376,
+     0.4617
+    ],
+    [
+     0.8376,
+     0.9188,
+     0.4617
+    ],
+    [
+     0.9188,
+     1.0,
+     0.4767
+    ]
+   ],
+   "raw_path": "page-2448-f5e4884f245d/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "bb3e4030f50ea7683780b29bce732487c5bcc24d615169153994a336a05d9583"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "C O M (255 ) C O M",
+   "bbox": [
+    0.0,
+    0.0255,
+    1.0,
+    0.0514
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2448-f5e4884f245d:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "C O M",
+   "bbox": [
+    0.1767,
+    0.0293,
+    0.2913,
+    0.0491
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "( 25",
+   "bbox": [
+    0.4088,
+    0.0301,
+    0.4675,
+    0.0514
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "makes one of a group, and thinks in wretched unanimity with the throng. Incumbered with the notions of others; and impoverified by their abundance, he conceives not the leaft embryo of new thought ; opens not the leaft vifta through the gloom of ordinary writers, into the bright walks of rare imagination, and fingular design; while the true genius is croffing all public roads into fresh untrodden ground, he. up to the knees in antiqui- ty, is treading the facred foottleps of great examples, with the blind veneration of a bigot faluting the papal toe; comfortably hoping full abfolution for the fins of his own understanding, from the powerful charm of touching his idol's infallibility.",
+   "bbox": [
+    0.0251,
+    0.0521,
+    0.4552,
+    0.2334
+   ],
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Such meannefs of mind, fuch profitration of our own powers, proceeds from too great admiration of others. Admiration has generally a degree of two very bad ingredients in it; of ignorance, and of fear; and does mifchief in compoffition, and in life. Proud as the world is, there is more fuperiority in it given, than af-fumed: and its grandees of all kinds owe more of their elevation to the littlenefs of others minds, than to the greatness of their own. Were not profitrate fpirits their voluntary pedeftals, the figure they make among man-kind would not fitand fo high. _Imitators_ and _trafla-tors_ are fomewhat of the pedeftal-kind, and fometimes rather raife their _original’s_ reputation, by showing him to be by them inimitable, than their own. Homer has been tranlated into moft languages; ELIan tells us, that the Indians, (hopeful tutors!) have taught him to fpeak their tongue. What expect we from them? Not Ho-mer's Achilles; but fomething, which, like Patroclus, affumes his name, and, at its peril, appears in his fead; nor expect we Homer's Ulyflies gloriously burting out of his cloud into royal grandeur, but an Ulyflies under dif-guife, and a beggar to the left. Such is that inimitable father of poetry, and oracle of all the wife, whom Lycurgus trancribed ; and for an annual public recital of whole works Solon enacted a law; that it is much to be feared, that his fo numerous translations are but as the published tellimonials of fo many nations, and ages, that this author fo divine is untranslated filll.",
+   "bbox": [
+    0.026,
+    0.2326,
+    0.4547,
+    0.6186
+   ],
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "But here,",
+   "bbox": [
+    0.0493,
+    0.6178,
+    0.1231,
+    0.6315
+   ],
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "_Gynthia aurem Vellit,_ VIRG. and demands justice for his favourite, and ours. Great things he has done; but he might have done greater. What a fall is it from Homer's numbers, free as air, lofty and harmonious as the fpheres, into childbirth hackles, and tinkling founds! But,-in his fall, he is fill great;",
+   "bbox": [
+    0.0635,
+    0.6308,
+    0.4509,
+    0.7458
+   ],
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "_Nor appears_ _Left than archangel ruin'd, and the excerfs_ _Of glory chjcur'd._ MILT.",
+   "bbox": [
+    0.2752,
+    0.742,
+    0.4348,
+    0.7861
+   ],
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "Had Milton never wrote, Pope had been lefs to blame: but when in Milton's genius, Homer, as it were, perfo- nally rofe to forbid Britons doing him that ignoble wrong; it is lefs pardonable, by that _effeminate_ decoration, to put Achilles in petticoats a fecond time. How much nobler had it been, if his numbers had rolled on in full flow, through the various modulations of mafeculine melody, into thofe grandeurs of folemn found, which are in-",
+   "bbox": [
+    0.0256,
+    0.7823,
+    0.4495,
+    0.8965
+   ],
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b8"
+  },
+  {
+   "order": 9,
+   "class": "Page-footer",
+   "text": "VOL. II. No. 40.",
+   "bbox": [
+    0.0663,
+    0.8934,
+    0.2169,
+    0.9102
+   ],
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b9"
+  },
+  {
+   "order": 10,
+   "class": "Page-footer",
+   "text": "3",
+   "bbox": [
+    0.3969,
+    0.8987,
+    0.4102,
+    0.9132
+   ],
+   "source": "s0-col-left",
+   "id": "page-2448-f5e4884f245d:b10"
+  },
+  {
+   "order": 11,
+   "class": "Head-fragment",
+   "text": "5 )",
+   "bbox": [
+    0.462,
+    0.0285,
+    0.5129,
+    0.0506
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b11"
+  },
+  {
+   "order": 12,
+   "class": "Head-fragment",
+   "text": "C O M",
+   "bbox": [
+    0.6307,
+    0.0277,
+    0.74,
+    0.0468
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "difpenfibly demanded by the native dignity of heroic fong? How much nobler, if he had reflted the temptation of that Gothic demon, which modern poefy talking, became mortal? O how unlike the deathlefs, divine harony of three great names (how juffly joined!) of _Mil-n, Greece_, and _Rome?_ His verfe, but for his little eck of mortality, in its extreme parts, as his hero had his heel; like him, had been invulnerable, and immorl. But, unfortunately, _that_ was undipt in Helicon ; this in Styx. Harmony as well as cloquence is effential to poefy; and a murder of his mufic is putting half Homer to death. _Blank_ is a term of diminution ; what we mean by blank verfe is, verfe unfallen, uncurft ; verfe reclaimed, reinthroned in the true _language of the gods_; who never thundered, nor fluffered their Homer to thunder in rhime.",
+   "bbox": [
+    0.4609,
+    0.0499,
+    0.8875,
+    0.2737
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "But fuppofing Pope’s Iliad to have been perfect in its kind ; yet it is a _travfliation_ fill ; which differs as much from an _original_, as the moon from the fun.",
+   "bbox": [
+    0.4615,
+    0.2729,
+    0.8865,
+    0.3163
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "But as nothing is more cafy than to write originally wrong ; originals are not here recommended, but under the throng guard of the firft rule,-- _Know thyfelf._ Lucian, who was an original, neglected not this rule, if we may judge by his reply to one who took fome freedom with him. He was at firft an apprentice to a flatuary; and when he was reflected on as fuch, by being called _Prometheus_, he replied, \" I am indeed the inventor of a new work, the model of which I owe to none; and, if I do not execute it well, I deferve to be torn by twelve vultures, instead of one.\"",
+   "bbox": [
+    0.4625,
+    0.3148,
+    0.887,
+    0.4678
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "Bacon fays, \" Men feek not to know their own flock, and abilities ; but fancy their pollefilions to be greater, and their abilities lefs, than they really are.\" Which is in effect faying, \" That we ought to exert more than we do ; and that, on exertion, our probability of fuccefs is greater than we conceive.\"",
+   "bbox": [
+    0.4631,
+    0.4663,
+    0.8859,
+    0.5523
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "Nor have we Bacon's opinion only, but his affluence too, in favour of originals. His mighty mind travelled round the intellectual world; and, with a more than eagle's eye, faw, and has pointed out, blank fpaces, or dark fpots in it, on which the human mind never flone: fome of thefe have been enlightened fince; fome are benighted fill.",
+   "bbox": [
+    0.4636,
+    0.5493,
+    0.8854,
+    0.6368
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "Moreover, fo boundlefs are the bold excursions of the human mind, that in the vaft void beyond real exiffence, it can call forth shadowy beings, and unknown worlds, as numerous, as bright, and perhaps as laffing as the flars ; fuch quite-original beauties we may call paradi faical,",
+   "bbox": [
+    0.4625,
+    0.633,
+    0.8849,
+    0.7191
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b18"
+  },
+  {
+   "order": 19,
+   "class": "Section-header",
+   "text": "_Natos fine femine floorer._",
+   "bbox": [
+    0.5013,
+    0.716,
+    0.6822,
+    0.7336
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b19"
+  },
+  {
+   "order": 20,
+   "class": "Section-header",
+   "text": "OVID.",
+   "bbox": [
+    0.8074,
+    0.7183,
+    0.8631,
+    0.7343
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "When fuch an ample area for renowned adventure in _original_ attempts lies before us, fhall we be as mere leaden pipes, conveying to the prefent age fmall fireams of excellence from its grand reservoir in antiquity; and thofe too perhaps mudded in the pafs ? Originals fhine like co- mets ; have no peer in their path ; are rivalled by none, and the gaze of all : all other compotitions (if they hine at all) hine in clufters ; like the flars in the galaxy ; where, like bad neighbours, all suffer from all ; each particular being diminified, and almoft loft in the throng.",
+   "bbox": [
+    0.4599,
+    0.729,
+    0.8843,
+    0.8752
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "If thoughts of this nature prevailed ; if ancients and moderns were no longer confidered as matters and pupils,",
+   "bbox": [
+    0.4594,
+    0.869,
+    0.8817,
+    0.9018
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b22"
+  },
+  {
+   "order": 23,
+   "class": "Page-footer",
+   "text": "3 T",
+   "bbox": [
+    0.6493,
+    0.898,
+    0.6907,
+    0.914
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "but",
+   "bbox": [
+    0.852,
+    0.901,
+    0.8806,
+    0.9163
+   ],
+   "source": "s0-col-right",
+   "id": "page-2448-f5e4884f245d:b24"
+  }
+ ]
+}

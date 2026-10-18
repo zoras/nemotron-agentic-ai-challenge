@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "e746153d4643d3bf6e82bb858e560842b04fac5283aee9c7e2f6ce733f28efbc",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "6590ca5d06be04b7f76e9c34b48822377ed855151d0cbe9be998f5d8bfe44934",
+  "image_bytes": 2064598,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:261",
+  "variant": "s0-col-right",
+  "crop": [
+   0.52,
+   0.0473,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0473,
+    0.1339,
+    0.525
+   ],
+   [
+    0.1339,
+    0.2205,
+    0.53
+   ],
+   [
+    0.2205,
+    0.3071,
+    0.53
+   ],
+   [
+    0.3071,
+    0.3937,
+    0.53
+   ],
+   [
+    0.3937,
+    0.4803,
+    0.53
+   ],
+   [
+    0.4803,
+    0.567,
+    0.53
+   ],
+   [
+    0.567,
+    0.6536,
+    0.53
+   ],
+   [
+    0.6536,
+    0.7402,
+    0.53
+   ],
+   [
+    0.7402,
+    0.8268,
+    0.53
+   ],
+   [
+    0.8268,
+    0.9134,
+    0.53
+   ],
+   [
+    0.9134,
+    1.0,
+    0.53
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2452,
+  "completion_tokens": 780,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.26,
+ "created_at": "2026-10-18T11:19:13+00:00",
+ "content": "<x_0.0078><y_0.0>LEO I.  gentle sudorific ; thorax marked with a large depressed circular spot ; abdomen oval ; legs equal.<x_0.8203><y_0.0437><class_Text>\n\n<x_0.2402><y_0.0445>7. _Eyes placed thus,_ :<x_0.6064><y_0.0641><class_Section-header>\n\n<x_0.0264><y_0.0695>Black, thorax marked with a white line on the back. * dorsal: 79. A native of Britain.<x_0.9434><y_0.1039><class_Text>\n\n<x_0.0273><y_0.0992>Marked with triangular black spots on the back of tarantula, the abdomen ; the legs spotted with black. 34. A native of the south of Europe, particularly Italy and Barbary. It is found in caverus in argillaceous soil ; its bite was formerly supposed to be curable by nothing but music ; though it occasions a great deal of pain, it is almost never fatal.<x_0.9502><y_0.2016><class_Text>\n\n<x_0.252><y_0.2031>8. _Eyes placed thus,_ ...<x_0.6348><y_0.2273><class_Section-header>\n\n<x_0.0322><y_0.2297>Oval and oblong ; thorax hairy, white ; abdomen and pulchra. legs black, marked with yellow bands. 32. A native of Europe.<x_0.9355><y_0.2789><class_Text>\n\n<x_0.2188><y_0.2883>9. _Eyes placed thus,_<x_0.5205><y_0.307><class_Section-header>\n\n<x_0.0352><y_0.3219>Black, abdomen oval, forehead white, and leaps on goezii. its prey. 84. It is to be found frequently in woods about Vienna ; abdomen marked with two compressed dots.<x_0.9209><y_0.3828><class_Text>\n\n<x_0.248><y_0.3797>10. _Eyes placed thus,_ :<x_0.6357><y_0.4><class_Section-header>\n\n<x_0.041><y_0.4055>Thorax orbicular and convex, with a transverse cen-aviculartral excavation. 31. It is a native of South America, among trees, where it preys upon the larger insects, and even small birds, dropping into their nests, and sucking their blood and eggs ; it is of so enormous a size, that its fangs may be compared to the talons of a hawk, and its eyes are very large.<x_0.958><y_0.5117><class_Text>\n\n<x_0.2529><y_0.5203>11. _Eyes placed thus,_ ...<x_0.625><y_0.5391><class_Section-header>\n\n<x_0.0469><y_0.5531>Of a grayish rusty colour, and slightly clouded ; tho-truncate. rax globular, and slightly heart-shaped ; abdomen some-what triangular, and marked with a faint longitudinal cross. 85. A native of Europe, on oak and other trees ; abdomen marked with four impressed dots on the back ; papillae three.<x_0.9551><y_0.6445><class_Text>\n\n<x_0.2559><y_0.6539>12. _Eyes placed thus,_ :<x_0.6484><y_0.6727><class_Section-header>\n\n<x_0.0518><y_0.6797>Abdomen oval, obtusely conic behind, variegated convica. with brown and white ; beneath black. 86. A native of Europe, among bushes ; it spins and spreads out a web, to the surface of which it attaches the insects it has ensnared, after it has sucked out their juice. Tho-rax black, slightly tinged with rusty colour, and nearly double behind ; legs gray, marked with brown rings ; abdomen marked with a whitish spot, beneath resem-bling a horse shoe ; papillae four.<x_0.9346><y_0.8148><class_Text>\n\n<x_0.2178><y_0.8211>13. _Eyes placed thus,_ ...<x_0.5273><y_0.8406><class_Section-header>\n\n<x_0.0547><y_0.8398>Hairy ; body oval, black, variegated with brown. albifras. 99. A native of Europe.<x_0.9639><y_0.8773><class_Text>\n\n<x_0.2344><y_0.8797>B. _Eyes six, placed thus,_ ...<x_0.6807><y_0.8984><class_Section-header>\n\n<x_0.0586><y_0.8992>Abdomen greenish, the sides yellow. 30. A na- somies lata.<x_0.9629><y_0.9344><class_Text>\n\n<x_0.7354><y_0.9273>C. _Eyes_<x_0.8506><y_0.9445><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-223889ad-886f-47f3-a218-4c70910817c5",
+  "object": "chat.completion",
+  "created": 1792322352,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0>LEO I.  gentle sudorific ; thorax marked with a large depressed circular spot ; abdomen oval ; legs equal.<x_0.8203><y_0.0437><class_Text>\n\n<x_0.2402><y_0.0445>7. _Eyes placed thus,_ :<x_0.6064><y_0.0641><class_Section-header>\n\n<x_0.0264><y_0.0695>Black, thorax marked with a white line on the back. * dorsal: 79. A native of Britain.<x_0.9434><y_0.1039><class_Text>\n\n<x_0.0273><y_0.0992>Marked with triangular black spots on the back of tarantula, the abdomen ; the legs spotted with black. 34. A native of the south of Europe, particularly Italy and Barbary. It is found in caverus in argillaceous soil ; its bite was formerly supposed to be curable by nothing but music ; though it occasions a great deal of pain, it is almost never fatal.<x_0.9502><y_0.2016><class_Text>\n\n<x_0.252><y_0.2031>8. _Eyes placed thus,_ ...<x_0.6348><y_0.2273><class_Section-header>\n\n<x_0.0322><y_0.2297>Oval and oblong ; thorax hairy, white ; abdomen and pulchra. legs black, marked with yellow bands. 32. A native of Europe.<x_0.9355><y_0.2789><class_Text>\n\n<x_0.2188><y_0.2883>9. _Eyes placed thus,_<x_0.5205><y_0.307><class_Section-header>\n\n<x_0.0352><y_0.3219>Black, abdomen oval, forehead white, and leaps on goezii. its prey. 84. It is to be found frequently in woods about Vienna ; abdomen marked with two compressed dots.<x_0.9209><y_0.3828><class_Text>\n\n<x_0.248><y_0.3797>10. _Eyes placed thus,_ :<x_0.6357><y_0.4><class_Section-header>\n\n<x_0.041><y_0.4055>Thorax orbicular and convex, with a transverse cen-aviculartral excavation. 31. It is a native of South America, among trees, where it preys upon the larger insects, and even small birds, dropping into their nests, and sucking their blood and eggs ; it is of so enormous a size, that its fangs may be compared to the talons of a hawk, and its eyes are very large.<x_0.958><y_0.5117><class_Text>\n\n<x_0.2529><y_0.5203>11. _Eyes placed thus,_ ...<x_0.625><y_0.5391><class_Section-header>\n\n<x_0.0469><y_0.5531>Of a grayish rusty colour, and slightly clouded ; tho-truncate. rax globular, and slightly heart-shaped ; abdomen some-what triangular, and marked with a faint longitudinal cross. 85. A native of Europe, on oak and other trees ; abdomen marked with four impressed dots on the back ; papillae three.<x_0.9551><y_0.6445><class_Text>\n\n<x_0.2559><y_0.6539>12. _Eyes placed thus,_ :<x_0.6484><y_0.6727><class_Section-header>\n\n<x_0.0518><y_0.6797>Abdomen oval, obtusely conic behind, variegated convica. with brown and white ; beneath black. 86. A native of Europe, among bushes ; it spins and spreads out a web, to the surface of which it attaches the insects it has ensnared, after it has sucked out their juice. Tho-rax black, slightly tinged with rusty colour, and nearly double behind ; legs gray, marked with brown rings ; abdomen marked with a whitish spot, beneath resem-bling a horse shoe ; papillae four.<x_0.9346><y_0.8148><class_Text>\n\n<x_0.2178><y_0.8211>13. _Eyes placed thus,_ ...<x_0.5273><y_0.8406><class_Section-header>\n\n<x_0.0547><y_0.8398>Hairy ; body oval, black, variegated with brown. albifras. 99. A native of Europe.<x_0.9639><y_0.8773><class_Text>\n\n<x_0.2344><y_0.8797>B. _Eyes six, placed thus,_ ...<x_0.6807><y_0.8984><class_Section-header>\n\n<x_0.0586><y_0.8992>Abdomen greenish, the sides yellow. 30. A na- somies lata.<x_0.9629><y_0.9344><class_Text>\n\n<x_0.7354><y_0.9273>C. _Eyes_<x_0.8506><y_0.9445><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2452,
+   "completion_tokens": 780,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

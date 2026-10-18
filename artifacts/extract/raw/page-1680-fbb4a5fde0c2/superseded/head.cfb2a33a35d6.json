@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "cfb2a33a35d6caaeb74c1cf1512db8115a9bd544d9e25b4d528639de952898f0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "44d859e35963459d7b3b90eb640a612922c5526f18d7d59a08808354ff0c4f76",
+  "image_bytes": 143158,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1680",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0302,
+   1.0,
+   0.0708
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 179,
+  "completion_tokens": 15,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.11,
+ "created_at": "2026-10-18T11:20:14+00:00",
+ "content": "<x_0.0><y_0.0>CARPENTRY. 631<x_0.999><y_0.9875><class_Page-header>",
+ "reply": {
+  "id": "chatcmpl-bc012ca3-664a-4105-bf90-dbec0a462989",
+  "object": "chat.completion",
+  "created": 1792322414,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>CARPENTRY. 631<x_0.999><y_0.9875><class_Page-header>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 179,
+   "completion_tokens": 15,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

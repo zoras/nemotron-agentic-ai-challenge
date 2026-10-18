@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "1b73f83f0f85959fc960f0d76a98519a0edd4033303cc492224a116f27e76e54",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "1b00903258a15ba4bb07f259377245c551bc908a0d74dd6604f1a34b1a68694b",
+  "image_bytes": 1692872,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:611",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.052,
+   0.5133,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.052,
+    0.1382,
+    0.5083
+   ],
+   [
+    0.1382,
+    0.2244,
+    0.5083
+   ],
+   [
+    0.2244,
+    0.3105,
+    0.5083
+   ],
+   [
+    0.3105,
+    0.3967,
+    0.5083
+   ],
+   [
+    0.3967,
+    0.4829,
+    0.5083
+   ],
+   [
+    0.4829,
+    0.5691,
+    0.5083
+   ],
+   [
+    0.5691,
+    0.6553,
+    0.5083
+   ],
+   [
+    0.6553,
+    0.7415,
+    0.5083
+   ],
+   [
+    0.7415,
+    0.8276,
+    0.5083
+   ],
+   [
+    0.8276,
+    0.9138,
+    0.5083
+   ],
+   [
+    0.9138,
+    1.0,
+    0.5083
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2744,
+  "completion_tokens": 944,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.5,
+ "created_at": "2026-10-18T11:19:33+00:00",
+ "content": "<x_0.5098><y_0.0055>R E S  [ 7<x_0.9912><y_0.0297><class_Page-header>\n\n<x_0.1543><y_0.025>Refinance, curvature will be infenfible, and the fluid included in the space ZYHQ will move uniformly as if the fold body were not there. The motions on the other fide of the axis AC will be the fame; and we need only at- tend to one half, and we shall confider thefe as in a state of permanency.<x_0.9863><y_0.1094><class_Text>\n\n<x_0.2695><y_0.107>No body changes either its direction or velocity other- wife than by infenible degrees: therefore the particle which is moving in the axis will not reach the vertex A of the body, where it behoved to detect infantane- oufly at right angles. It will therefore begin to be de- flected at fome point F a-head of the body, and will de- feribe a curve FM, touching the axis in F, and the bo- dy in M; and then, gliding along the body, will quit it at fome point L, describing a tangent curve, which will join the axis again (touching it) in R; and thus there will be a quantity of flagnant water FAM before or a-head of the body, and another LCR behind or aftern of it.<x_0.9844><y_0.2797><class_Text>\n\n<x_0.2686><y_0.2789>Let _a_ be the velocity of a particle of the fluid in any infant, and _a_’ its velocity in the next infant. The velocity _a_ may be considered as compounded of _a_’ and _a_’. If the particles tended to move with the velocities _a_’ only, the whole fluid would be in equilibrio (general principle), and the preffure of the fluid would be the flame as if all were flagrant, and each particle were urged by a force \\(\\frac{a'}{t}\\), _r_ exprefling an indefinitely fmall moment of time. (N. B. \\(\\frac{a'}{c}\\) is the proper expreffion of the accelerating force, which, by acting during the mo- ment _r_, would generate the velocity _a_’; and _a_’ is fup- pofed an indeterminate quantity, different perhaps for each particle). Now let _a_ be fuppofed confiant, or _a=a_’. In this cafe _a\"=o_. That is to fay, no preffure whatever will be exerted on the folid body unlets there happen changes in the velocities or directions of the particles.<x_0.9824><y_0.5359><class_Text>\n\n<x_0.2646><y_0.5352>Let _a_ and _a_’ then be the motions of the particles in two consecutive infants. They would be in equilibrio if urged only by the forces \\(\\frac{a'}{t}\\). Therefore if y be the point where the particles which deferibe the curve FM begin to change their velocity, the preffure in D would be equal to the preffure which the fluid contained in the canal y FMD would exert, if each particle were folicited by its force \\(\\frac{a''}{t}\\). The question is therefore reduced to the finding the curvature in the canal y FMD, and the accelerating forces \\(\\frac{a''}{t}\\) in its different parts.<x_0.9814><y_0.7164><class_Text>\n\n<x_0.251><y_0.7156>It appears, in the first place, that no preffure is ex- erted by any of the particles along the curve FM: for fuppofs that the particle _a_ (fig. 19.) describes the in- definitely fmall straight line _ab_ in the firft infant, and _bc_ in the fecond infant; produce _ab_ till _bd=ab_, and joining _dc_, the motion _ab_ or _bd_ may be confidered as compofed of _bc_, which the particle really takes in the next infant, and a motion _dc_ which should be deflroy- cd. Draw _bi_ parallel to _dc_, and _ic_ perpendicular to _bc_. It is plain that the particle _b_, follicited by the forces _bc_, _ei_ (equivalent to _dc_) should be in equilibrio. This being established, _be_ mult be = _o_, that is, there will be no accelerating or retarding force at _b_; for if there<x_0.9658><y_0.8922><class_Text>\n\n<x_0.1328><y_0.7414>Fig. 19.<x_0.2217><y_0.757><class_Caption>\n\n<x_0.5449><y_0.893>4<x_0.5703><y_0.9039><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-7c892ddf-3fd7-4195-8a13-01e194c05aa6",
+  "object": "chat.completion",
+  "created": 1792322372,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.5098><y_0.0055>R E S  [ 7<x_0.9912><y_0.0297><class_Page-header>\n\n<x_0.1543><y_0.025>Refinance, curvature will be infenfible, and the fluid included in the space ZYHQ will move uniformly as if the fold body were not there. The motions on the other fide of the axis AC will be the fame; and we need only at- tend to one half, and we shall confider thefe as in a state of permanency.<x_0.9863><y_0.1094><class_Text>\n\n<x_0.2695><y_0.107>No body changes either its direction or velocity other- wife than by infenible degrees: therefore the particle which is moving in the axis will not reach the vertex A of the body, where it behoved to detect infantane- oufly at right angles. It will therefore begin to be de- flected at fome point F a-head of the body, and will de- feribe a curve FM, touching the axis in F, and the bo- dy in M; and then, gliding along the body, will quit it at fome point L, describing a tangent curve, which will join the axis again (touching it) in R; and thus there will be a quantity of flagnant water FAM before or a-head of the body, and another LCR behind or aftern of it.<x_0.9844><y_0.2797><class_Text>\n\n<x_0.2686><y_0.2789>Let _a_ be the velocity of a particle of the fluid in any infant, and _a_’ its velocity in the next infant. The velocity _a_ may be considered as compounded of _a_’ and _a_’. If the particles tended to move with the velocities _a_’ only, the whole fluid would be in equilibrio (general principle), and the preffure of the fluid would be the flame as if all were flagrant, and each particle were urged by a force \\(\\frac{a'}{t}\\), _r_ exprefling an indefinitely fmall moment of time. (N. B. \\(\\frac{a'}{c}\\) is the proper expreffion of the accelerating force, which, by acting during the mo- ment _r_, would generate the velocity _a_’; and _a_’ is fup- pofed an indeterminate quantity, different perhaps for each particle). Now let _a_ be fuppofed confiant, or _a=a_’. In this cafe _a\"=o_. That is to fay, no preffure whatever will be exerted on the folid body unlets there happen changes in the velocities or directions of the particles.<x_0.9824><y_0.5359><class_Text>\n\n<x_0.2646><y_0.5352>Let _a_ and _a_’ then be the motions of the particles in two consecutive infants. They would be in equilibrio if urged only by the forces \\(\\frac{a'}{t}\\). Therefore if y be the point where the particles which deferibe the curve FM begin to change their velocity, the preffure in D would be equal to the preffure which the fluid contained in the canal y FMD would exert, if each particle were folicited by its force \\(\\frac{a''}{t}\\). The question is therefore reduced to the finding the curvature in the canal y FMD, and the accelerating forces \\(\\frac{a''}{t}\\) in its different parts.<x_0.9814><y_0.7164><class_Text>\n\n<x_0.251><y_0.7156>It appears, in the first place, that no preffure is ex- erted by any of the particles along the curve FM: for fuppofs that the particle _a_ (fig. 19.) describes the in- definitely fmall straight line _ab_ in the firft infant, and _bc_ in the fecond infant; produce _ab_ till _bd=ab_, and joining _dc_, the motion _ab_ or _bd_ may be confidered as compofed of _bc_, which the particle really takes in the next infant, and a motion _dc_ which should be deflroy- cd. Draw _bi_ parallel to _dc_, and _ic_ perpendicular to _bc_. It is plain that the particle _b_, follicited by the forces _bc_, _ei_ (equivalent to _dc_) should be in equilibrio. This being established, _be_ mult be = _o_, that is, there will be no accelerating or retarding force at _b_; for if there<x_0.9658><y_0.8922><class_Text>\n\n<x_0.1328><y_0.7414>Fig. 19.<x_0.2217><y_0.757><class_Caption>\n\n<x_0.5449><y_0.893>4<x_0.5703><y_0.9039><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2744,
+   "completion_tokens": 944,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

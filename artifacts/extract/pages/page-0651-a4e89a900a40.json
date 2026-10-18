@@ -1,0 +1,177 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:651",
+ "row_index": 651,
+ "volume_id": "192692192",
+ "filename": "page-0651-a4e89a900a40.jpg",
+ "image_sha256": "a4e89a900a4041b934828dcc5c677df6edf0de903ab97d097948b7b17427da7d",
+ "status": "plate",
+ "status_evidence": {
+  "ink_fraction": 0.07843,
+  "median_grey": 211,
+  "layout_body_chars": 0,
+  "layout_pictures": 5
+ },
+ "running_head": "HELMINTHOLOGY. Plate CCLI",
+ "layout_raw": "page-0651-a4e89a900a40/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Page-header",
+   "text": "HELMINTHOLOGY. Plate CCLI",
+   "bbox": [
+    0.3906,
+    0.0836,
+    0.9102,
+    0.0945
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b0"
+  },
+  {
+   "order": 1,
+   "class": "Caption",
+   "text": "Fig 1",
+   "bbox": [
+    0.4502,
+    0.1078,
+    0.5215,
+    0.1391
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Fig.2.",
+   "bbox": [
+    0.4492,
+    0.2094,
+    0.542,
+    0.2437
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b2"
+  },
+  {
+   "order": 3,
+   "class": "Picture",
+   "text": "Fig.2.",
+   "bbox": [
+    0.0977,
+    0.0773,
+    0.9004,
+    0.3125
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b3"
+  },
+  {
+   "order": 4,
+   "class": "Caption",
+   "text": "Fig.1.",
+   "bbox": [
+    0.4453,
+    0.3359,
+    0.543,
+    0.3695
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b4"
+  },
+  {
+   "order": 5,
+   "class": "Picture",
+   "text": "O",
+   "bbox": [
+    0.0879,
+    0.4797,
+    0.2939,
+    0.643
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b5"
+  },
+  {
+   "order": 6,
+   "class": "Picture",
+   "text": "Fig.3. Fig.3.",
+   "bbox": [
+    0.5928,
+    0.4133,
+    0.9053,
+    0.5406
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b6"
+  },
+  {
+   "order": 7,
+   "class": "Picture",
+   "text": "Fig.8.",
+   "bbox": [
+    0.6094,
+    0.5461,
+    0.8896,
+    0.6523
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b7"
+  },
+  {
+   "order": 8,
+   "class": "Caption",
+   "text": "Fig.7.",
+   "bbox": [
+    0.4336,
+    0.6766,
+    0.5322,
+    0.7141
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b8"
+  },
+  {
+   "order": 9,
+   "class": "Picture",
+   "text": "Fig.9.",
+   "bbox": [
+    0.1045,
+    0.7094,
+    0.9111,
+    0.7781
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b9"
+  },
+  {
+   "order": 10,
+   "class": "Caption",
+   "text": "Fig.9.",
+   "bbox": [
+    0.4375,
+    0.7891,
+    0.5342,
+    0.8273
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b10"
+  },
+  {
+   "order": 11,
+   "class": "Page-footer",
+   "text": "Sthold Owner Walls Instagram from",
+   "bbox": [
+    0.6602,
+    0.9172,
+    0.8838,
+    0.9375
+   ],
+   "source": "layout",
+   "id": "page-0651-a4e89a900a40:b11"
+  }
+ ]
+}

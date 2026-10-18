@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "a7981dde73de8d400cc5d46bfba6512e4a611fec13a473ea4e6e1c2e1728fd3b",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "c87103daaec86db7e6f8b13b38147fa4354c38e7cde5fb9d0d4dd7c8fd5860a6",
+  "image_bytes": 1788204,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:257",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5217,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.5283
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.5267
+   ],
+   [
+    0.1667,
+    0.25,
+    0.5283
+   ],
+   [
+    0.25,
+    0.3333,
+    0.5283
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.5283
+   ],
+   [
+    0.4167,
+    0.5,
+    0.5283
+   ],
+   [
+    0.5,
+    0.5833,
+    0.5283
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.5283
+   ],
+   [
+    0.6667,
+    0.75,
+    0.5283
+   ],
+   [
+    0.75,
+    0.8333,
+    0.5283
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.5283
+   ],
+   [
+    0.9167,
+    1.0,
+    0.5283
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2497,
+  "completion_tokens": 953,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.65,
+ "created_at": "2026-10-18T11:10:03+00:00",
+ "content": "<x_0.0078><y_0.0156>3 I S WI<x_0.5625><y_0.0375><class_Title>\n\n<x_0.002><y_0.0352>pamphlet from that of his other works, he was told that he was \"a very politive young man,\" as no perfon in England but bibhop Burnet was capable of writing it. Upon which Swift replied, with fome indigation, I am to affure your lordhip, however, that bilhop Burnet did not write the pamphlet, for I wrote it myfelt. And thus was he forced in the heat of argument to avow what otherwise he would have for ever concealed.<x_0.8721><y_0.1461><class_Text>\n\n<x_0.0088><y_0.1422>Early in the enfuing fpring king William died; and Swift, on his next visit to London found queen Anne upon the throne. It was generally thought, upon this event, that the Tory party would have had the ascendant: but, contrary to all expectation, the Whigs had managed matters fo well as to yet entirely into the queen's confidence, and to have the whole administration of affairs in their hands. Swift's friends were now in power; and the Whigs in general, knowing him to be the author of the Difcouffe on the Contells, &e, which was written in defence of King William and his minifiers against the violent proceedings of the house of commons, confidered themselves as much obliged to him, and looked upon him as fail to their party. But Swift thought with the Whigs only in the flat ; for with respect to the church his principles were always those of a Tony. He therefore declined any intimate connection with the leaders of the party, who at that time profelled what was called _low church principles_. But what above all hocked him, fays Mr Sheridan, was their inviting Delits, Freethinkers, Atheists, Jews, and Infields to be of their party, under pretence of moderation, and allowing a general liberty of conference. As Swift was in his heart a man of true religion, he could not have borne, even in his private character, to have mixed with such a motely crew. But when we confer his principles in his political capacity, that he looked upon the church of England, as by law established, to be the main pillar of our newly erected confirmation, he could not, confilently with the character of a good citizen, join with those who considered it more as an ornament than a support to the edifice; and could therefore look on with compofore while it was undermining, or could even open the gate to a blind multitude, to try, like Sampfon, their strength again if, and confident it only as part. With such a party, neither his religious nor political principles would suffer him to join; and with regard to the l'ories, as is uful in the violence of factions, they had run into opposite extremes, equally dangerous to the flat. He was therefore during the earlier part of the queen's reign of no party, but employed himself in discharging the duties of his function, and in publishing from time to time fuch tracts as he thought might be useful. In the year 1704 he published the _Tale of a Tub_, which, confidered merely as a work of genius, is unquestionably the greatest which he ever produced; but the levity with which religion was thought to be there treated, railed up enemies to him among all parties, and eventually precluded him from a bihopric. From that period till the year 1708, he feems to have employed himself in folitary fludy; but he then gave focceffively to the pub-lic _The Sentiments of a Church of England man_, the ridicule of altrology under the name of _Bickerflafi_, the _Argument against abolishing Christianity_, and the defence of the _Sacra- mental Tell_.<x_0.8926><y_0.8375><class_Text>\n\n<x_0.0234><y_0.8336>Soon after began the buy and important part of Swift's life. He was employed (1710) by the primate of Ireland to folicit the queen for a remillion of the frit fruits and twentieth parts to the Trith clergy. This introduced him to Mr Harley, afterwards carl of Oxford, who, though a Whig himself, was at the head of the Tory ministry, and in great need of an auxiliary fo able as Swift, by whose pen he and the other minifiers might be fupported in Pamphlets,<x_0.8955><y_0.9445><class_Text>",
+ "reply": {
+  "id": "chatcmpl-83bf3f76-60a1-49ec-a19a-716994d01aa3",
+  "object": "chat.completion",
+  "created": 1792321802,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0156>3 I S WI<x_0.5625><y_0.0375><class_Title>\n\n<x_0.002><y_0.0352>pamphlet from that of his other works, he was told that he was \"a very politive young man,\" as no perfon in England but bibhop Burnet was capable of writing it. Upon which Swift replied, with fome indigation, I am to affure your lordhip, however, that bilhop Burnet did not write the pamphlet, for I wrote it myfelt. And thus was he forced in the heat of argument to avow what otherwise he would have for ever concealed.<x_0.8721><y_0.1461><class_Text>\n\n<x_0.0088><y_0.1422>Early in the enfuing fpring king William died; and Swift, on his next visit to London found queen Anne upon the throne. It was generally thought, upon this event, that the Tory party would have had the ascendant: but, contrary to all expectation, the Whigs had managed matters fo well as to yet entirely into the queen's confidence, and to have the whole administration of affairs in their hands. Swift's friends were now in power; and the Whigs in general, knowing him to be the author of the Difcouffe on the Contells, &e, which was written in defence of King William and his minifiers against the violent proceedings of the house of commons, confidered themselves as much obliged to him, and looked upon him as fail to their party. But Swift thought with the Whigs only in the flat ; for with respect to the church his principles were always those of a Tony. He therefore declined any intimate connection with the leaders of the party, who at that time profelled what was called _low church principles_. But what above all hocked him, fays Mr Sheridan, was their inviting Delits, Freethinkers, Atheists, Jews, and Infields to be of their party, under pretence of moderation, and allowing a general liberty of conference. As Swift was in his heart a man of true religion, he could not have borne, even in his private character, to have mixed with such a motely crew. But when we confer his principles in his political capacity, that he looked upon the church of England, as by law established, to be the main pillar of our newly erected confirmation, he could not, confilently with the character of a good citizen, join with those who considered it more as an ornament than a support to the edifice; and could therefore look on with compofore while it was undermining, or could even open the gate to a blind multitude, to try, like Sampfon, their strength again if, and confident it only as part. With such a party, neither his religious nor political principles would suffer him to join; and with regard to the l'ories, as is uful in the violence of factions, they had run into opposite extremes, equally dangerous to the flat. He was therefore during the earlier part of the queen's reign of no party, but employed himself in discharging the duties of his function, and in publishing from time to time fuch tracts as he thought might be useful. In the year 1704 he published the _Tale of a Tub_, which, confidered merely as a work of genius, is unquestionably the greatest which he ever produced; but the levity with which religion was thought to be there treated, railed up enemies to him among all parties, and eventually precluded him from a bihopric. From that period till the year 1708, he feems to have employed himself in folitary fludy; but he then gave focceffively to the pub-lic _The Sentiments of a Church of England man_, the ridicule of altrology under the name of _Bickerflafi_, the _Argument against abolishing Christianity_, and the defence of the _Sacra- mental Tell_.<x_0.8926><y_0.8375><class_Text>\n\n<x_0.0234><y_0.8336>Soon after began the buy and important part of Swift's life. He was employed (1710) by the primate of Ireland to folicit the queen for a remillion of the frit fruits and twentieth parts to the Trith clergy. This introduced him to Mr Harley, afterwards carl of Oxford, who, though a Whig himself, was at the head of the Tory ministry, and in great need of an auxiliary fo able as Swift, by whose pen he and the other minifiers might be fupported in Pamphlets,<x_0.8955><y_0.9445><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2497,
+   "completion_tokens": 953,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

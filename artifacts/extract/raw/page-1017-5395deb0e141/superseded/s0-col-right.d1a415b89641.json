@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "d1a415b896415fe58610259ee35e226fd347ec186ae5862a83d471e4de3c38c9",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "da0d142aa728a2e6c1fac074a42e102ce132056f8c8484bfb83f0de5ff63a1c9",
+  "image_bytes": 2207494,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1017",
+  "variant": "s0-col-right",
+  "crop": [
+   0.48,
+   0.0538,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0538,
+    0.1398,
+    0.485
+   ],
+   [
+    0.1398,
+    0.2258,
+    0.485
+   ],
+   [
+    0.2258,
+    0.3119,
+    0.485
+   ],
+   [
+    0.3119,
+    0.3979,
+    0.485
+   ],
+   [
+    0.3979,
+    0.4839,
+    0.485
+   ],
+   [
+    0.4839,
+    0.5699,
+    0.485
+   ],
+   [
+    0.5699,
+    0.6559,
+    0.485
+   ],
+   [
+    0.6559,
+    0.7419,
+    0.485
+   ],
+   [
+    0.7419,
+    0.828,
+    0.485
+   ],
+   [
+    0.828,
+    0.914,
+    0.485
+   ],
+   [
+    0.914,
+    1.0,
+    0.485
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2611,
+  "completion_tokens": 939,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.49,
+ "created_at": "2026-10-18T11:10:38+00:00",
+ "content": "<x_0.0498><y_0.0>pelago to Confantinople. It is now called the Darda- nelles, and is about two miles wide.<x_0.8047><y_0.0281><class_Text>\n\n<x_0.0146><y_0.0273>HELM _of a/hip_, is a piece of timber faffened into the rudder, which comes forward into the fleerage, or place where the perfon at the helm fleers the fhip, by holding the whipflaff in his hand, which is joined to the helm. They begin however to be left off, fleering- wheels being ufed in their room.<x_0.8057><y_0.1164><class_Text>\n\n<x_0.041><y_0.1141>There are feveral terms in the fea-language relating to the helm; as, _bear up the helm_; that is, let the flip go more large before the wind. _Helm a mid fhip_, or _right the helm_; that is, keep it even with the middle of the fhip. _Port the helm_, put it over the the left fide of the fhip. _Starboard the helm_, put it on the right fide of the fhip.<x_0.8037><y_0.2164><class_Text>\n\n<x_0.0127><y_0.2141>HELMET, an ancient defenlive armour worn by horfemen both in war and in tournaments. It covered both the head and face, only leaving an aperture in the front fecured by bars, which was called the vifor.<x_0.8027><y_0.2734><class_Text>\n\n<x_0.0117><y_0.2719>HELMINTHOLITHUS, in natural hilftory, a name given by Linnaeus to petrified bodies refembling worms. Of thefe he reckons four genera. 1. Petrified li- thophyta, found in the mountains of Sweden. 2. Pe- trifled hells. 3. Petrified zoophytes. 4. Petrified reptiles.<x_0.8008><y_0.3594><class_Text>\n\n<x_0.0137><y_0.3578>HELMONT, a town of the Netherlands, in the province of Dutch Brabant, fituated on the river Aa: E. long. 5° 40', N. lat. 51° 30'.<x_0.8018><y_0.4023><class_Text>\n\n<x_0.0107><y_0.4008>HELMSTAT, a town of Germany, in the circle of Lower Saxony, and dukedom of Brunfwie: E. long. 11° 15', N. lat. 52° 20'.<x_0.8066><y_0.4453><class_Text>\n\n<x_0.0098><y_0.4437>HELOTS, in Grecian antiquity, the inhabitants of Helos, a town of Laconia, conquered by the Spartans; who made them all prifoners of war, and reduced them into the condition of flaves.<x_0.8076><y_0.5016><class_Text>\n\n<x_0.0488><y_0.5008>The freemen of Sparta were forbidden the exercife of any mean or mechanical employment, and therefore the whole care of lupplying the city with necellaries devolved upon the Helots.<x_0.8047><y_0.5594><class_Text>\n\n<x_0.0088><y_0.5578>HELSINGFORD a port-town of Sweden, fituated on the gulph of Finland, in 24° 6′ E. long. and 60° 8′ N. lat.<x_0.7998><y_0.6008><class_Text>\n\n<x_0.0078><y_0.6>HELSINGIA, a province of Sweden, bounded by the Bothnie gulph on the eaft, and by Dalecarlia on the weft.<x_0.7988><y_0.6438><class_Text>\n\n<x_0.0068><y_0.643>HELSINGIC CHARACTER, a peculiar kind of character, found infcribed on flones in the province of Helingia : the Runic and Helfingic characters may be cafily tranformed into each other.<x_0.7979><y_0.7016><class_Text>\n\n<x_0.0059><y_0.7008>HELSTON, a borough of Cornwall, nine miles fouth- weft of Falmouth: it fends two members to parlia- ment.<x_0.7969><y_0.7445><class_Text>\n\n<x_0.0078><y_0.7438>HELVOETSLUYS, a port-town of the united Nether- lands, fituated in the ifland of Voorn, in the province of Holland, five miles fouth of the Briel: it is one of the belt harbours in Holland, and that to which the Englih packet alway goes.<x_0.8086><y_0.8172><class_Text>\n\n<x_0.0156><y_0.8156>HEMEROBIUS, in zoology, a genus of infects of the neuroptera order, the characters of which are thefe: The mouth is furnished with two teeth; the palpi are four; the wings are deflected, but not plaited; and † . 8 L<x_0.8135><y_0.8906><class_Text>",
+ "reply": {
+  "id": "chatcmpl-3706e0bb-d1d8-4120-a169-35e6cc276997",
+  "object": "chat.completion",
+  "created": 1792321837,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0498><y_0.0>pelago to Confantinople. It is now called the Darda- nelles, and is about two miles wide.<x_0.8047><y_0.0281><class_Text>\n\n<x_0.0146><y_0.0273>HELM _of a/hip_, is a piece of timber faffened into the rudder, which comes forward into the fleerage, or place where the perfon at the helm fleers the fhip, by holding the whipflaff in his hand, which is joined to the helm. They begin however to be left off, fleering- wheels being ufed in their room.<x_0.8057><y_0.1164><class_Text>\n\n<x_0.041><y_0.1141>There are feveral terms in the fea-language relating to the helm; as, _bear up the helm_; that is, let the flip go more large before the wind. _Helm a mid fhip_, or _right the helm_; that is, keep it even with the middle of the fhip. _Port the helm_, put it over the the left fide of the fhip. _Starboard the helm_, put it on the right fide of the fhip.<x_0.8037><y_0.2164><class_Text>\n\n<x_0.0127><y_0.2141>HELMET, an ancient defenlive armour worn by horfemen both in war and in tournaments. It covered both the head and face, only leaving an aperture in the front fecured by bars, which was called the vifor.<x_0.8027><y_0.2734><class_Text>\n\n<x_0.0117><y_0.2719>HELMINTHOLITHUS, in natural hilftory, a name given by Linnaeus to petrified bodies refembling worms. Of thefe he reckons four genera. 1. Petrified li- thophyta, found in the mountains of Sweden. 2. Pe- trifled hells. 3. Petrified zoophytes. 4. Petrified reptiles.<x_0.8008><y_0.3594><class_Text>\n\n<x_0.0137><y_0.3578>HELMONT, a town of the Netherlands, in the province of Dutch Brabant, fituated on the river Aa: E. long. 5° 40', N. lat. 51° 30'.<x_0.8018><y_0.4023><class_Text>\n\n<x_0.0107><y_0.4008>HELMSTAT, a town of Germany, in the circle of Lower Saxony, and dukedom of Brunfwie: E. long. 11° 15', N. lat. 52° 20'.<x_0.8066><y_0.4453><class_Text>\n\n<x_0.0098><y_0.4437>HELOTS, in Grecian antiquity, the inhabitants of Helos, a town of Laconia, conquered by the Spartans; who made them all prifoners of war, and reduced them into the condition of flaves.<x_0.8076><y_0.5016><class_Text>\n\n<x_0.0488><y_0.5008>The freemen of Sparta were forbidden the exercife of any mean or mechanical employment, and therefore the whole care of lupplying the city with necellaries devolved upon the Helots.<x_0.8047><y_0.5594><class_Text>\n\n<x_0.0088><y_0.5578>HELSINGFORD a port-town of Sweden, fituated on the gulph of Finland, in 24° 6′ E. long. and 60° 8′ N. lat.<x_0.7998><y_0.6008><class_Text>\n\n<x_0.0078><y_0.6>HELSINGIA, a province of Sweden, bounded by the Bothnie gulph on the eaft, and by Dalecarlia on the weft.<x_0.7988><y_0.6438><class_Text>\n\n<x_0.0068><y_0.643>HELSINGIC CHARACTER, a peculiar kind of character, found infcribed on flones in the province of Helingia : the Runic and Helfingic characters may be cafily tranformed into each other.<x_0.7979><y_0.7016><class_Text>\n\n<x_0.0059><y_0.7008>HELSTON, a borough of Cornwall, nine miles fouth- weft of Falmouth: it fends two members to parlia- ment.<x_0.7969><y_0.7445><class_Text>\n\n<x_0.0078><y_0.7438>HELVOETSLUYS, a port-town of the united Nether- lands, fituated in the ifland of Voorn, in the province of Holland, five miles fouth of the Briel: it is one of the belt harbours in Holland, and that to which the Englih packet alway goes.<x_0.8086><y_0.8172><class_Text>\n\n<x_0.0156><y_0.8156>HEMEROBIUS, in zoology, a genus of infects of the neuroptera order, the characters of which are thefe: The mouth is furnished with two teeth; the palpi are four; the wings are deflected, but not plaited; and † . 8 L<x_0.8135><y_0.8906><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2611,
+   "completion_tokens": 939,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

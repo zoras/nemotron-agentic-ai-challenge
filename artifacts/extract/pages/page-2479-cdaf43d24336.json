@@ -1,0 +1,365 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2479",
+ "row_index": 2479,
+ "volume_id": "144133902",
+ "filename": "page-2479-cdaf43d24336.jpg",
+ "image_sha256": "cdaf43d2433627837ca31a4db92739a8fdb6045d1d0abc637abfebf2fc448f9a",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.12549,
+  "median_grey": 222,
+  "layout_body_chars": 6591,
+  "layout_pictures": 0
+ },
+ "running_head": "948 L A W.",
+ "layout_raw": "page-2479-cdaf43d24336/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0458,
+    1.0,
+    0.0733
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2479-cdaf43d24336/head.json",
+   "finish_reason": "stop",
+   "request_key": "9bdbc167e51576f8ff950de56f213d18ffbf95af4d76ca69df47472b95bad15a"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0458,
+    0.5333,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0458,
+     0.1325,
+     0.52
+    ],
+    [
+     0.1325,
+     0.2193,
+     0.5283
+    ],
+    [
+     0.2193,
+     0.306,
+     0.5283
+    ],
+    [
+     0.306,
+     0.3928,
+     0.5283
+    ],
+    [
+     0.3928,
+     0.4795,
+     0.5283
+    ],
+    [
+     0.4795,
+     0.5663,
+     0.5283
+    ],
+    [
+     0.5663,
+     0.653,
+     0.5283
+    ],
+    [
+     0.653,
+     0.7398,
+     0.5283
+    ],
+    [
+     0.7398,
+     0.8265,
+     0.5283
+    ],
+    [
+     0.8265,
+     0.9133,
+     0.5283
+    ],
+    [
+     0.9133,
+     1.0,
+     0.5283
+    ]
+   ],
+   "raw_path": "page-2479-cdaf43d24336/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "a6068b5b506e4ce5b3ac622c1308058c050445512823d7e818dbec53fdee3582"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.515,
+    0.0458,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0458,
+     0.1325,
+     0.52
+    ],
+    [
+     0.1325,
+     0.2193,
+     0.5283
+    ],
+    [
+     0.2193,
+     0.306,
+     0.5283
+    ],
+    [
+     0.306,
+     0.3928,
+     0.5283
+    ],
+    [
+     0.3928,
+     0.4795,
+     0.5283
+    ],
+    [
+     0.4795,
+     0.5663,
+     0.5283
+    ],
+    [
+     0.5663,
+     0.653,
+     0.5283
+    ],
+    [
+     0.653,
+     0.7398,
+     0.5283
+    ],
+    [
+     0.7398,
+     0.8265,
+     0.5283
+    ],
+    [
+     0.8265,
+     0.9133,
+     0.5283
+    ],
+    [
+     0.9133,
+     1.0,
+     0.5283
+    ]
+   ],
+   "raw_path": "page-2479-cdaf43d24336/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "fa3ca31b414c1656893193abc2341dacd41fc188e5fdde5e7e393f2e03d79bc6"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "948 L A W.",
+   "bbox": [
+    0.0,
+    0.0458,
+    1.0,
+    0.0733
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2479-cdaf43d24336:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "948",
+   "bbox": [
+    0.0964,
+    0.0525,
+    0.1375,
+    0.0712
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2479-cdaf43d24336:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "L",
+   "bbox": [
+    0.3416,
+    0.0503,
+    0.3625,
+    0.0681
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-2479-cdaf43d24336:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "extinguifhable barely by the debtor’s retiring or cancel- ling them, the purfuer, before a proof of the tenor is admitted, mult condefcend on fuch a _cafus amiffionis_, or accident by which the writing was deltroyed, as thews it was loft when in the creditor’s poffetition ; otherwise bonds that have been cancelled by the debtor on payment, might be reared up as fill fullfitting against him: But in writings which require contrary deeds to extinguifi their effect, as affignations, difpositions, charters, &c. it is sufficient to libel that they were loft, even _cafu fortuito_.",
+   "bbox": [
+    0.0943,
+    0.0718,
+    0.5203,
+    0.2143
+   ],
+   "source": "s0-col-left",
+   "id": "page-2479-cdaf43d24336:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "23. Regularly, no deed can be revived by this action, without fome adminicle in writing, referring to that which is libelled ; for no written obligation ought to be railed up barely on the teftimony of witneffes. If thefe adminicles afford sufficient conviction, that the deed li- belled did once exit, the tenor is admitted to be proved by witneffes, who muff depofe, either that they were pre- fent at figning the deed, or that they afterwards faw it duly fubferibed. Where the relative writings contain all the fubflantial claufes of that which is loft, the tenor is fometimes fuiltained without witnffes. In a writing which is libelled to have contained uncommon claufes, all thefe mull appear by the adminicles. Actions of proving the tenor are, on account of their importance, appropriated to the court of Sellon ; and, by the old form, the telli-mony of the witneffes could not be received, but in pre- fence of all the judges.",
+   "bbox": [
+    0.0948,
+    0.2128,
+    0.5208,
+    0.4506
+   ],
+   "source": "s0-col-left",
+   "id": "page-2479-cdaf43d24336:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "24. The action of double or multiple poinding may be alfo reckoned declaratory. It is competent to a debtor, who is diffreffed, or threatened with diffrets, by two or more perfons claiming right to the debt, and who there- fore brings the feveral claimants into the field, in order to debate and fettle their feveral preferences, that fo he may pay fecurely to him whole right fhall be found prefe- rable. This action is daily purified by an arreftee, in the cafe of feveral arreffments ufed in his hands for the fame debt; or by tenants in the cafe of feveral adjud- gers, all of whom claim right to the fame rents. In thefe competitions, any of the competitors may bring an action of multiple-poinding in name of the tenants, or other debtors, without their confent, or even though they fhould difclaim the procefs ; fince the law has introduced it as the proper remedy for getting fuch competitions determined: And while the fsubject in controversy continues _in media_, any third person who conceives he has a right to it, may, though he fhould not be cited as a defender, produce his titles, as if he were an original party to the suit, and will be admitted for his interelt in the competition.",
+   "bbox": [
+    0.0953,
+    0.4491,
+    0.5213,
+    0.7577
+   ],
+   "source": "s0-col-left",
+   "id": "page-2479-cdaf43d24336:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "25. Certain actions may be called acceffory, because they are merely preparatory or fubfervient to other actions. Thus, exhibitions _ad deliberandum_, at the influence of an heir againft the creditors or cuttodiers of hisancefor's writings, are intended only to pave the way for future proceffes. An action of transference is alfo of this fort, whereby an action during the pendency of which the defender happens to die, is craved to be tranf- ferred against his reprefentative, in the fame condition in which it flood formerly. Upon the purfuer’s death, his Heir may infilt in the caufe againft the defender, upon producing, either a retour or a confirmed teltamment, ac-",
+   "bbox": [
+    0.0958,
+    0.754,
+    0.5218,
+    0.9269
+   ],
+   "source": "s0-col-left",
+   "id": "page-2479-cdaf43d24336:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "A",
+   "bbox": [
+    0.5188,
+    0.0503,
+    0.5392,
+    0.0667
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-2479-cdaf43d24336:b7"
+  },
+  {
+   "order": 8,
+   "class": "Head-fragment",
+   "text": "## W.",
+   "bbox": [
+    0.6978,
+    0.0495,
+    0.7338,
+    0.0675
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2479-cdaf43d24336:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "cording as the fulject is heritable or moveable. Tranf- ferences being but incidental to other actions, can be pro- nounced by that inferior judge alone before whom the principal caule depended; but, where the reprefentatives of the deceafed live in another territory, it is the fupreme court which mult transfer. Obligations may be now regiltred fummarily after the creditor's death ; which be- fore was not admitted, without a separate procefs of re- giltration, to which the granter was necellarily to be made a party.",
+   "bbox": [
+    0.5311,
+    0.0718,
+    0.955,
+    0.2143
+   ],
+   "source": "s0-col-right",
+   "id": "page-2479-cdaf43d24336:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "26. A proceeds of wakening is likewise accelory. An action is laid to fleep, when it lies over, not inflicted in for a year, in which cafe its effect is fufpended ; but e- ven then it may, at any time within the years of prefcrip- tion, be revived or wakened by a fummons, in which the purfuer recites the laft leop of the procels, and concludes that it may be again carried on as if it had not been dif- continued. An action that stands upon any of the inner- houfe rolls cannot fleep ; nor an action in which decree is pronounced, because it has got its full completion: Conféquently the decree may be extracted after the year, without the neceflity of a wakening.",
+   "bbox": [
+    0.5306,
+    0.2128,
+    0.9545,
+    0.3813
+   ],
+   "source": "s0-col-right",
+   "id": "page-2479-cdaf43d24336:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "27. An action of tranfumpt falls under the fame clats. It is competent to thofe, who have a partial interest in writings that are not in their own culbody, against the poffeffors thereof, for exhibiting them, that they may be tranfumed for their behoof. Though the ordinary title in this process be an obligation by the defender to grant tranfumpts to the purfuer, it is sufficient if the purfuer can how that he has an interelt in the writings ; but, in this cafe, he mult tranfume them on his own char-ges. Actions of tranfumpt may be purified before any judge-ordinary. After the writings to be tranfumed are exhibited, full duplicates are made out, collated, and figned, by one of the clerks of court, which are called tranfumpts, and are as effected as an extract from the register.",
+   "bbox": [
+    0.5316,
+    0.3798,
+    0.9541,
+    0.5885
+   ],
+   "source": "s0-col-right",
+   "id": "page-2479-cdaf43d24336:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "28. Actions proceeded anciently upon brieves iffing from the chancery, directed to the judiciary or judge-or- dinary, who tried the matter by a jury, upon whole ver- did judgment was pronounced: And to this day, we retain certain brieves, as of _inqueft_, terce, ideotry, tutory, perambulation, and perhaps two or three others: But fummontes were, immediately upon the infiltration of the College of Jutitice, introduced in the place of brieves. A fummons, when applied to actions purfused before the fel- tion, is a writ in the King's name, iffuing from his fig- net upon the purfuer's complaint, authorifing meffengers to cite the defender to appear before the court, and make his defences ; with certification if he fail to appear, that decree will be pronounced against him in terms of the cer- tification of the fummons.",
+   "bbox": [
+    0.5321,
+    0.5878,
+    0.9536,
+    0.7957
+   ],
+   "source": "s0-col-right",
+   "id": "page-2479-cdaf43d24336:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "29. The days indulged by law to a defender, between his citation and appearance, to prepare for his defence, are called _inducia legales_. If he is within the kingdom, twenty one and fix days, for the firt and fecond diets of appearance, mult be allowed him for that purpose ; and if out of it, fixty and fifteen. Defenders refiding in Orkney or Zetland mult be cited on forty days. In cer-tain fummontes which are priviledged, the _inducie_ are shortened: Spuilzies and ejections proceed on fifteen days ; wakenings",
+   "bbox": [
+    0.5325,
+    0.7965,
+    0.9531,
+    0.9359
+   ],
+   "source": "s0-col-right",
+   "id": "page-2479-cdaf43d24336:b13"
+  }
+ ]
+}

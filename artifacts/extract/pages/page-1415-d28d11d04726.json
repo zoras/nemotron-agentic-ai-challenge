@@ -1,0 +1,322 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1415",
+ "row_index": 1415,
+ "volume_id": "149979622",
+ "filename": "page-1415-d28d11d04726.jpg",
+ "image_sha256": "d28d11d047269c4378e2a038829a2e80312fca36533bc35728f3c45768d0fb89",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09804,
+  "median_grey": 224,
+  "layout_body_chars": 6938,
+  "layout_pictures": 0
+ },
+ "running_head": "E T H [ 797 ] E T H",
+ "layout_raw": "page-1415-d28d11d04726/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0538
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1415-d28d11d04726/head.json",
+   "finish_reason": "stop",
+   "request_key": "1cbbd37949811741ecc6e45d086c97f31d685f95519963937a84946f5c001a4a"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0247,
+    0.495,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.4883
+    ],
+    [
+     0.106,
+     0.1872,
+     0.49
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.49
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.49
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.49
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.49
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.49
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.49
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.49
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.49
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.49
+    ],
+    [
+     0.9187,
+     1.0,
+     0.49
+    ]
+   ],
+   "raw_path": "page-1415-d28d11d04726/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "40f2f965e526c0d96b9ab1bc4c3d21e9bb2b0c675ae27d47a806f9c7e98b5ba8"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4833,
+    0.0247,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.4883
+    ],
+    [
+     0.106,
+     0.1872,
+     0.49
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.49
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.49
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.49
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.49
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.49
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.49
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.49
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.49
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.49
+    ],
+    [
+     0.9187,
+     1.0,
+     0.49
+    ]
+   ],
+   "raw_path": "page-1415-d28d11d04726/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "c6057733fa8d1905800796506fe376e5ff60d26d731eb559aadd4aaca1b41443"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "E T H [ 797 ] E T H",
+   "bbox": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0538
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1415-d28d11d04726:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**E T H [ 7**",
+   "bbox": [
+    0.2001,
+    0.0293,
+    0.4901,
+    0.0506
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1415-d28d11d04726:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "**Ethiopia.**",
+   "bbox": [
+    0.0343,
+    0.0491,
+    0.0972,
+    0.0796
+   ],
+   "source": "s0-col-left",
+   "id": "page-1415-d28d11d04726:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "make a very beautiful appearance. The whole plant is full of a very acrid and cauftic milk. 7. Rack is a large tree, growing not only in Abyffinia but in many places of Arabia Felix. Its wood is fo hard and bitter, that no worm will touch it; for which reafon it is ufed by the Arabs for confrutting their boats. It grows, like the mangrove, among the falt-water of the fea, or about falt springs. 8. Gir-gir, or gefne-el-aube; n kind of grafs found about Ras-el-Feel, growing to the height of about three feet four inches. 9. The kantuffa. a very noxious species of thorn, much more troublefome than any with which we are acquainted, and growing to the height of eight or more feet. The flowers have a frong finell like the flower migni-onct. 10. The gaguedi, is a short tree only about nine feet high, a native of Lamalmon. The flowers, which are yellow and very beautiful, turn towards the fun like thofe of the helianthus. 11. The wanfey, a tree common throughout all Abyffinia; flowers exactly on the firft day the rains cease. It grows to the height of 18 or 20 feet; having a thick bark and clofe heavy wood; the firft part of which is white, but the refl of a dark colour. The flowers are of a beautiful white colour; but it does not appear to poffels any other remarkable property, though it is held in great estimation by the Abyffinians, and is even worshipped by the Galla. 12. The farek, or Bauhinia acuminata, grows in the country immediately adjacent to the fources of the Nile; being found by Mr Bruce ficarce 400 yards difant from the fountain. 13. Kuara, is a beautiful tree, growing in the fouth and fouthwelt parts of Abyffinia. It has a fruit like a bean, of a red colour, which in the early ages was made ufe of as a weight for gold and diamonds; and hence Mr Bruce is of opinion that the name of the imaginary weight carat is derived. 14. The walkufa, grows in the hottell parts of Echiopia. It is a flowering tree, with beautiful white bloffoms, which do not appear till towards the middle of January. The flowers have no finell, and are accounted pernicious to bees. The wood is very heavy. 15. The wooginoos, or Brucea anidyfenterica, is common throughout the whole empire, but principally on the fides of the valleys. It is a lovereign remedy against the dyfentery, a very common and fatal dificafe in hot countries. Mr Bruce had experimental proof of its antidyfenteric viruses. 16. Cuffo, or Bankfia anthelmintica, is a very beautiful and ufeful tree, being a strong anthelmintic, and ufed as fuch by the Abyffinians. Every perfon there, whether male or female, is troubled with that kind of worm called _afcarider_; a great number of which are evacuated every month, and the evacuation is promoted by an infusion of this plant. While taking this medicine, the patients fequeftrate themselves from all their acquaintance, and keep clofe at home. It is faid, that the want of this medicine in other countries is the reafon why the Abyffinians do not go out of their own country; or, if they do, that they are flort-lived. 17. Teff, is a kind of grain fown generally throughout Abyffinia; and conflicting the bread commonly made ufe of by the inhabitants. They have indeed plenty of wheat, and are as filiful in forming it into bread as the Europeans; but this is only made ufe of by people of the firft rank: however, the teff is fometimes of fuch an excellent quality, that the bread made from it is held in equal elimination with the finest wheat. From the bread made of this",
+   "bbox": [
+    0.1005,
+    0.0499,
+    0.4858,
+    0.9406
+   ],
+   "source": "s0-col-left",
+   "id": "page-1415-d28d11d04726:b3"
+  },
+  {
+   "order": 4,
+   "class": "Head-fragment",
+   "text": "97 | E TH",
+   "bbox": [
+    0.4833,
+    0.0277,
+    0.7785,
+    0.0513
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1415-d28d11d04726:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "grain a fourifh liquor called _bonza_ is prepared, which is ufed for common drink like our fmall beer. A liquor of the fame kind, but of inferior quality, is made from barley cakes. Some have been of opinion, that the ufe of teff occasions the worms above mentioned; but this is controverted by Mr Bruce. Nook, a plant not to be diftinguished from our marigold either in shape, fize, or foliage, is alfo fown very generally over the country, and furnishes all Abyffinia with oil for the kitchen and other ufes.",
+   "bbox": [
+    0.4929,
+    0.0506,
+    0.8799,
+    0.1854
+   ],
+   "source": "s0-col-right",
+   "id": "page-1415-d28d11d04726:b5"
+  },
+  {
+   "order": 6,
+   "class": "Margin-note",
+   "text": "Ethiopia.",
+   "bbox": [
+    0.8754,
+    0.0483,
+    0.9445,
+    0.0757
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-1415-d28d11d04726:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Abyffinia abounds with a valt variety of quadrupeds both wild and tame. Immenfe numbers of cattle every where prefent themfelves, fome of them the molt beautiful in the world. Some have monftrous horns, fail to be capable of holding 10 quarts each; but this, as our author informs us, is a difeafe which proves fatal to them. Buffalos are here met with in great numbers, and are very fierce and untractable; but there are no fuch animals as carnivorous bulls, which have been faid to exit in this and other internal parts of Africa. Antelopes and other wild animals are met with in great numbers in the uncultivated parts; feeding chiefly on the leaves of trees. They abound moft of all, however, in thofe parts which have been once cultivated, but fince defolated by the calamities of war; and where wild oats abound in fuch quantities as to hide them from purfuit. Hyzenas, lions, foxes, jackals, wild boars, &c. are alfo found, as well as the elephant, rhinoceros, camelopard, and others of the larger and more uncommon kinds. Great havock is made in the cultivated fields by multitudes of baboons, apes, rats, and mice. There is plenty of hares; but thefe being reckoned unclean, as well as wild boars, are not ufed as food. The rivers abound with crocodiles and hippopotami, at least the Nile, and thofe large fireams which flow into it: but a great number have water in them only during the rainy feafon, and thefe have neither fish nor any animal that feeds upon them.",
+   "bbox": [
+    0.4924,
+    0.1847,
+    0.8779,
+    0.5603
+   ],
+   "source": "s0-col-right",
+   "id": "page-1415-d28d11d04726:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "The number of birds in this country is immenfe; nor are thofe of the carnivorous kind at all deficient. Great numbers of eagles, vultures, hawks, and others of that kind, are met with, and come punctually every year after the tropical rains have ceased. They feed at first upon the hell-fifth which are met with in great quantities on the edges of the defects, where they had lived in the fall springs; but, being forced from their natural habitations when thefe Springs were fwelled by the rains, are afterwards left to perifh on dry land. When thefe fail, their next refource is from the carcafes of the large animals, fuch as the elephant and rbinoceros, which are killed in the flat country by the hunters. Their next fupply is the multitude of rats and field-mice which infelt the coun try after harvest. The vaft slaughter of cattle made by the Abyffinian armies, the multitude of persons killed whole bodies are allowed to rot on the field of battle, &c. furnish them alfo with another refource. Thefe fupplies, however, all fail at the beginning of the rainy feafon, when the hunters and armies return home, and the vaft quantity of water which continually overflows the ground renders it impoflible for them to find any other food.",
+   "bbox": [
+    0.4878,
+    0.5596,
+    0.8784,
+    0.8675
+   ],
+   "source": "s0-col-right",
+   "id": "page-1415-d28d11d04726:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "There are other birds which feed upon infects, and multitudes which live on grain or feeds of various kinds; all of which are amply fupplied by the immense quantity of fruits and berries which grow in Abyffinia, and are ripe at all feafons of the year. A very remarkable",
+   "bbox": [
+    0.4873,
+    0.8667,
+    0.8789,
+    0.9352
+   ],
+   "source": "s0-col-right",
+   "id": "page-1415-d28d11d04726:b9"
+  }
+ ]
+}

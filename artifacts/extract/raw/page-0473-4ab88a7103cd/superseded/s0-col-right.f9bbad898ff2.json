@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "f9bbad898ff248705cc22cb14fa7938f4a71ab6fbfb5d02326e5abbbbc67761a",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9652dad6724b5301216e947ef4f87cedc1014c8467964a3baf7692938050aa3c",
+  "image_bytes": 2015393,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:473",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5467,
+   0.071,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.071,
+    0.1555,
+    0.5517
+   ],
+   [
+    0.1555,
+    0.2399,
+    0.5517
+   ],
+   [
+    0.2399,
+    0.3244,
+    0.5517
+   ],
+   [
+    0.3244,
+    0.4088,
+    0.5517
+   ],
+   [
+    0.4088,
+    0.4933,
+    0.5517
+   ],
+   [
+    0.4933,
+    0.5777,
+    0.5517
+   ],
+   [
+    0.5777,
+    0.6622,
+    0.5517
+   ],
+   [
+    0.6622,
+    0.7466,
+    0.5517
+   ],
+   [
+    0.7466,
+    0.8311,
+    0.5517
+   ],
+   [
+    0.8311,
+    0.9155,
+    0.5517
+   ],
+   [
+    0.9155,
+    1.0,
+    0.5517
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2394,
+  "completion_tokens": 850,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.5,
+ "created_at": "2026-10-18T11:10:16+00:00",
+ "content": "<x_0.0234><y_0.0>on pieces of mother-of-pearl as they are imported from China, and with precifely the fame refults. They ap peared to be compoefed of the fame gelatinous matter and carbonate of lime. In all the hells of this defeription which were immersed in acids, the membranaceus parts retained the exact figure of the hell, and they appeared difíncly to be compoefed of fibres, arranged in a parallel direction, corresponding to the configura tion of the hell.<x_0.8809><y_0.1273><class_Text>\n\n<x_0.0225><y_0.1266>_Pearl._--The confituent parts of pearl appear to be Pearl. familiar to thofe of mother-of-pearl. They are compoefed of concentric coats of membrane and carbonate of lime, and refemble in fructure the globular, calcareous con cretions which are known by the name of _pfoliither._ The iridefence and undulated appearance of pearl and mother-of-pearl, evidently depend on their lamellated fructure and femitranfarecry.<x_0.8799><y_0.2383><class_Text>\n\n<x_0.0215><y_0.2375>From thefe experiments it appears, that hells are compoefed of carbonate of lime and gluten. In fome, as partn in the porcellaneous hells, the proportion of carbonate of lime is great, while that of the animal matter is final; and thefe may be regarded as the beginning of the feries; while hells that come under the deferription of mother-of-pearl are to be placed at the other extremity, having a finalfer proportion of carbonate of lime, and a greater proportion of membranaceous fubflance. In the firft the carbonate of lime is merely cemented by the animal matter ; in the latter the carbonate of lime ferves to harden the membranaceous fubflance. But between thefe two extremes, in the proportion of carbo nate of lime and animal gluten, of which all teilaccous fubflances are compoefed, there are no doubt numerous intermediate gradations, arising from the nature of the animal to which they form a covering, its peculiar ha bits, or mode of life.<x_0.8818><y_0.4898><class_Text>\n\n<x_0.1387><y_0.4984>## SECT. II. _Of the Formation of Shells._<x_0.7588><y_0.5188><class_Section-header>\n\n<x_0.0244><y_0.5266>THE hell or covering of teffaccoons animals, has been considered as in fome measure analogous to the bones of other animals, although its formation and growth are very different, since it serves as a bafe or support to the mueles, which are attached to its inter nal surface. The principal ufe of the hell, however, is to ferve as a covering or defence to the animal.<x_0.8828><y_0.6258><class_Text>\n\n<x_0.0254><y_0.625>Teftaccoons animals are not only extremely different in external form, but alfo in the mode of their production. Some are viviparous, as the moft of thofe which inhabit bivalve shells, multivalves, and even fome of the univalves ; while the others, which form the far greater proportion, are oviparous. In one point, how ever, they all agree, that whatever be the mode of production, whether from an egg, or directly from the uterus of the mother, the hell is formed on the body of the young animal, and is proportioned to its bulk.<x_0.8838><y_0.7648><class_Text>\n\n<x_0.0264><y_0.7641>The best observations which have yet been made, and the moft elaborate investigation which has hitherto ap- neared, concerning the formation and development of thells, are thofe of the celebrated Reaumur, which were published in the Memoirs of the Academy of Sciences for the year 1709. The fame fulject has been profecut ed by other authors, but their refults have been nearly the fame as thofe of this ditinguified naturalift. Klein is almost the only author who has advanced a different opinion. In his dissertation concerning the formation<x_0.8955><y_0.907><class_Text>",
+ "reply": {
+  "id": "chatcmpl-9f604ccd-22d0-4562-a333-3d019db9cd1d",
+  "object": "chat.completion",
+  "created": 1792321815,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0234><y_0.0>on pieces of mother-of-pearl as they are imported from China, and with precifely the fame refults. They ap peared to be compoefed of the fame gelatinous matter and carbonate of lime. In all the hells of this defeription which were immersed in acids, the membranaceus parts retained the exact figure of the hell, and they appeared difíncly to be compoefed of fibres, arranged in a parallel direction, corresponding to the configura tion of the hell.<x_0.8809><y_0.1273><class_Text>\n\n<x_0.0225><y_0.1266>_Pearl._--The confituent parts of pearl appear to be Pearl. familiar to thofe of mother-of-pearl. They are compoefed of concentric coats of membrane and carbonate of lime, and refemble in fructure the globular, calcareous con cretions which are known by the name of _pfoliither._ The iridefence and undulated appearance of pearl and mother-of-pearl, evidently depend on their lamellated fructure and femitranfarecry.<x_0.8799><y_0.2383><class_Text>\n\n<x_0.0215><y_0.2375>From thefe experiments it appears, that hells are compoefed of carbonate of lime and gluten. In fome, as partn in the porcellaneous hells, the proportion of carbonate of lime is great, while that of the animal matter is final; and thefe may be regarded as the beginning of the feries; while hells that come under the deferription of mother-of-pearl are to be placed at the other extremity, having a finalfer proportion of carbonate of lime, and a greater proportion of membranaceous fubflance. In the firft the carbonate of lime is merely cemented by the animal matter ; in the latter the carbonate of lime ferves to harden the membranaceous fubflance. But between thefe two extremes, in the proportion of carbo nate of lime and animal gluten, of which all teilaccous fubflances are compoefed, there are no doubt numerous intermediate gradations, arising from the nature of the animal to which they form a covering, its peculiar ha bits, or mode of life.<x_0.8818><y_0.4898><class_Text>\n\n<x_0.1387><y_0.4984>## SECT. II. _Of the Formation of Shells._<x_0.7588><y_0.5188><class_Section-header>\n\n<x_0.0244><y_0.5266>THE hell or covering of teffaccoons animals, has been considered as in fome measure analogous to the bones of other animals, although its formation and growth are very different, since it serves as a bafe or support to the mueles, which are attached to its inter nal surface. The principal ufe of the hell, however, is to ferve as a covering or defence to the animal.<x_0.8828><y_0.6258><class_Text>\n\n<x_0.0254><y_0.625>Teftaccoons animals are not only extremely different in external form, but alfo in the mode of their production. Some are viviparous, as the moft of thofe which inhabit bivalve shells, multivalves, and even fome of the univalves ; while the others, which form the far greater proportion, are oviparous. In one point, how ever, they all agree, that whatever be the mode of production, whether from an egg, or directly from the uterus of the mother, the hell is formed on the body of the young animal, and is proportioned to its bulk.<x_0.8838><y_0.7648><class_Text>\n\n<x_0.0264><y_0.7641>The best observations which have yet been made, and the moft elaborate investigation which has hitherto ap- neared, concerning the formation and development of thells, are thofe of the celebrated Reaumur, which were published in the Memoirs of the Academy of Sciences for the year 1709. The fame fulject has been profecut ed by other authors, but their refults have been nearly the fame as thofe of this ditinguified naturalift. Klein is almost the only author who has advanced a different opinion. In his dissertation concerning the formation<x_0.8955><y_0.907><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2394,
+   "completion_tokens": 850,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

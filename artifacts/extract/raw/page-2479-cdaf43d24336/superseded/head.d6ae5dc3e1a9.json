@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "d6ae5dc3e1a940f4a22816ec1febea7b9df6f8e96c76220a3f1be021415972d6",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ffd375356e373d772e2bd28f77724470100aacd70c60832e6d8113ce1cde6222",
+  "image_bytes": 132722,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2479",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0458,
+   1.0,
+   0.0833
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 211,
+  "completion_tokens": 47,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.22,
+ "created_at": "2026-10-18T11:21:25+00:00",
+ "content": "<x_0.0><y_0.0>948 L A V.\nextinguifhable, hardly by the debtor's retiring or cancel, cording as the fubie2 is heritable or morable. The6<x_0.999><y_0.9867><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-bfbc536d-381a-4b13-8951-37bd14ff9127",
+  "object": "chat.completion",
+  "created": 1792322485,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>948 L A V.\nextinguifhable, hardly by the debtor's retiring or cancel, cording as the fubie2 is heritable or morable. The6<x_0.999><y_0.9867><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 211,
+   "completion_tokens": 47,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

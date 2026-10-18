@@ -1,0 +1,360 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:217",
+ "row_index": 217,
+ "volume_id": "149981189",
+ "filename": "page-0217-7dc36e3a55f8.jpg",
+ "image_sha256": "7dc36e3a55f8250a0b4a7854c3ac1ca73e4bfb1ae457129c889057610a8084e7",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09412,
+  "median_grey": 225,
+  "layout_body_chars": 6800,
+  "layout_pictures": 0
+ },
+ "running_head": "F A R [ 107 ] F A R",
+ "layout_raw": "page-0217-7dc36e3a55f8/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.027,
+    1.0,
+    0.0553
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0217-7dc36e3a55f8/head.json",
+   "finish_reason": "stop",
+   "request_key": "e6612d046d5dd0e2aaef0217fe6a543172a6281e8ad465380c4e61ca90b3681c"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.027,
+    0.485,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.027,
+     0.1081,
+     0.475
+    ],
+    [
+     0.1081,
+     0.1892,
+     0.48
+    ],
+    [
+     0.1892,
+     0.2702,
+     0.48
+    ],
+    [
+     0.2702,
+     0.3513,
+     0.48
+    ],
+    [
+     0.3513,
+     0.4324,
+     0.48
+    ],
+    [
+     0.4324,
+     0.5135,
+     0.48
+    ],
+    [
+     0.5135,
+     0.5946,
+     0.48
+    ],
+    [
+     0.5946,
+     0.6757,
+     0.48
+    ],
+    [
+     0.6757,
+     0.7567,
+     0.48
+    ],
+    [
+     0.7567,
+     0.8378,
+     0.48
+    ],
+    [
+     0.8378,
+     0.9189,
+     0.48
+    ],
+    [
+     0.9189,
+     1.0,
+     0.48
+    ]
+   ],
+   "raw_path": "page-0217-7dc36e3a55f8/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "dd02b3a308cca511f9805dfe780e232f8b0de19e3b097491b409f9015435bada"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.47,
+    0.027,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.027,
+     0.1081,
+     0.475
+    ],
+    [
+     0.1081,
+     0.1892,
+     0.48
+    ],
+    [
+     0.1892,
+     0.2702,
+     0.48
+    ],
+    [
+     0.2702,
+     0.3513,
+     0.48
+    ],
+    [
+     0.3513,
+     0.4324,
+     0.48
+    ],
+    [
+     0.4324,
+     0.5135,
+     0.48
+    ],
+    [
+     0.5135,
+     0.5946,
+     0.48
+    ],
+    [
+     0.5946,
+     0.6757,
+     0.48
+    ],
+    [
+     0.6757,
+     0.7567,
+     0.48
+    ],
+    [
+     0.7567,
+     0.8378,
+     0.48
+    ],
+    [
+     0.8378,
+     0.9189,
+     0.48
+    ],
+    [
+     0.9189,
+     1.0,
+     0.48
+    ]
+   ],
+   "raw_path": "page-0217-7dc36e3a55f8/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "a16724317fedc15ff11f7787aa033a0ac59bac0470026e1c56858621fb926045"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "F A R [ 107 ] F A R",
+   "bbox": [
+    0.0,
+    0.027,
+    1.0,
+    0.0553
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0217-7dc36e3a55f8:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**F A R [ r**",
+   "bbox": [
+    0.2103,
+    0.0316,
+    0.4793,
+    0.0529
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0217-7dc36e3a55f8:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Farm.",
+   "bbox": [
+    0.0336,
+    0.0536,
+    0.0961,
+    0.0772
+   ],
+   "source": "s0-col-left",
+   "id": "page-0217-7dc36e3a55f8:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "the country in their time was entirely cleared, or di- flinctly divided; the fields were furrounded by woods, not by hedges; and if a confiderable tract of improved land lay together, it fill was not feparated into a number of inclofures. The subjects, therefore, proper to receive this character, are thofe in which cultivation teams to have encroached on the wild, not to have fubdued it; as the bottom of a valley in corn, while the tides are fill overgrown with wood; and the outline of that wood indented by the tillage creeping more or lefs up the hill. But a glade of grafs, thus circumflanced, does not peculiarly belong to the species: that may occur in a park or pattoral farm; in this, the patures should rather border on a wafte or a common: if large, they may be broken by flaggling buthes, thickets, or coppices; and the scattered trees should be beefet with brambles and briars. All thefe are circumstances which improve the beauty of the place; yet appear to be only remains of the wild, not intended for embellishment. Such interruptions mult, however, be lefs frequent in the arable parts of the farm; but there the opening may be divided into feveral lands, ditinguilh ed, ns in common fields, only by different forts of grain. Thefe will sufficiently break the famenefs of the space; and tillage does not furnish a more plealing fence, than fuch a fpace fo broken, if the extent be moderate, and the boundary beautiful.",
+   "bbox": [
+    0.0966,
+    0.0543,
+    0.476,
+    0.4154
+   ],
+   "source": "s0-col-left",
+   "id": "page-0217-7dc36e3a55f8:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "As much wood is effential to the character, a fpot may easily be found, where turrets rifling above the covert, or fome arches feet within it, may have the resemblance of a cattle or an abbey. The partial concealment is almost necessary to both; for to accord with the age, the buildings mult feem to be entire; the ruins of them belong to later days: the diffguife is, however, advantageous to them as objects; none can be imagined more picturefque, than a tower boformed in trees, or a clutter appearing between the items and the branches. But the fupertitions of the times further other objects which are more within compafs: hermitages were then real; folitary chapels were common; many of the springs of the country being deemed holy wells, were dittinguithed by little Gothic domes built over them; and every hamlet had its crofs; even this, when perfect, fet on a little ruffic pillar, and that raifed upon a safe of circular fleps, may in fome fences be confiderable: if a situation can be found for a Maypole, whence it would not obtrude itself on every view, that alfo might not be improper; and an ancient church, however unwelcome it may be when it breaks into the design of a park or a garden, in fuch a farm as this would be a fortunate accident: nor would the old yew in the church-yard be indifferent; it would be a memorial of the times when it was nfcful.",
+   "bbox": [
+    0.0957,
+    0.4146,
+    0.4755,
+    0.7613
+   ],
+   "source": "s0-col-left",
+   "id": "page-0217-7dc36e3a55f8:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "Many other objects, significant of the manners of our ancestors, might perhaps, upon recollection, occur; but thefe are simply sufficient for a place of considerable extent; and cottages mult abound in every age and every country; they may therefore be introduced in different forms and poitions. Large pieces of water are alfo particularly proper; and all the varieties of rills are confident with every fpecies of farm. From the concurrence of fo many agreeable circumstances in this, be the force or the effect of the character what it may, a number of pleading fences may be exhibited either in a walk or riding, to be contrafted to thofe",
+   "bbox": [
+    0.0952,
+    0.7621,
+    0.4751,
+    0.9232
+   ],
+   "source": "s0-col-left",
+   "id": "page-0217-7dc36e3a55f8:b5"
+  },
+  {
+   "order": 6,
+   "class": "Page-footer",
+   "text": "5",
+   "bbox": [
+    0.1322,
+    0.9255,
+    0.1449,
+    0.9369
+   ],
+   "source": "s0-col-left",
+   "id": "page-0217-7dc36e3a55f8:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "07 I FA R",
+   "bbox": [
+    0.47,
+    0.03,
+    0.7521,
+    0.0529
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0217-7dc36e3a55f8:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "which in another part of the place may be formed on Areadian ideas; or even to be fulltituted in their feed, if they are omitted.",
+   "bbox": [
+    0.4871,
+    0.0521,
+    0.8623,
+    0.0939
+   ],
+   "source": "s0-col-right",
+   "id": "page-0217-7dc36e3a55f8:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "3: A part may alfo be free from either of thefe imita-tive characters, and laid out in a common limple farm, Some of the greatest beauties of nature are to be found in the fields, and attend an ordinary fate of cultiva-tion : wood and water may there be exhibited in fever-ral forms and difpoitions; we may enlarge or divide the inclofures; and give them fuch shapes and boundaries as we pleafe; every one may be an agreeable foot; together, they may compofe beautiful views; the arable, the pattern, and the mead, may succeed one another; and now and then a little wild may be intermixed with-out impropriety; every beauty, in short, which is not unusual in an included country, whether it arife from neglect or improvement, is here in its place.",
+   "bbox": [
+    0.4824,
+    0.0932,
+    0.8628,
+    0.2824
+   ],
+   "source": "s0-col-right",
+   "id": "page-0217-7dc36e3a55f8:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "The buildings, alfo, which are frequent in fuch a country, are often beautiful objects; the church and the manfion are confiderable; the farm-yard itself, if an advantageous situation be chosen for it; if the ricks, and the barns, and the out-houfes, are ranged with any design to form them into groups, and if they are properly blended with trees; may be made a pictureque composition. Many of them may be detached from the groupe, and disperfed about the grounds: the dove-cote, or the diary, may be separated from the rest; they may be elegant in their forms, and placed wherever they will have the best effect. A common barn, accompanied by a clump, is fometimes placing at a distance; a Dutch barn is fo when near; and an hay-flack is generally an agreeable circumference in any potition. Each of these may be fingle; and belides thefe, all kinds of cottages are proper. Among fo many buildings, fome may be converted to other purposes than their construction denotes; and, whatever be their exterior, may within be made agreeable retreats, for refreshment, indulgence, or shelter.",
+   "bbox": [
+    0.4829,
+    0.2809,
+    0.8613,
+    0.5606
+   ],
+   "source": "s0-col-right",
+   "id": "page-0217-7dc36e3a55f8:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "With fuch opportunities of improvement, even to decoration within itself, and with advantages of pro-fpect into the country about it, a limple farm may undoubtedly be delightful. It will be particularly acceptable to the owner, if it be clofe to his park or his garden; the objects which constantly remind him of his rank, impole a kind of confrontant; and he feels himself relieved, by retiring fometimes from the fplen-dor of a feat into the limplicity of a farm; it is more than a variety of feane; it is a temporary change of situation in life, which has all the charms of novelty, eafe, and tranquillity, to recommend it. A place, therefore, can hardly be deemed perfect, which is not provided with fuch a retreat. But if it be the whole of the place, it feems inadequate to the manfion: a visitor is difappointed; the matter is diffusified; he is not sufficiently diltinguished from his tenants; he miffes the appendages incidental to his feat and his fortune; and is hurt at the familiarity of his grounds with the country about them. A paltoral or an ancient farm is a little above the common level; but even thefe, if brought clofe up at the door, fet the houle in a field, where it always appears to be neglected and naked. Some degree of polith and ornament is expected in its immediate environs; and a garden, though it be but a final one, should be interpoded between the manfion and any species of farm.",
+   "bbox": [
+    0.4819,
+    0.5599,
+    0.8598,
+    0.9202
+   ],
+   "source": "s0-col-right",
+   "id": "page-0217-7dc36e3a55f8:b11"
+  },
+  {
+   "order": 12,
+   "class": "Page-footer",
+   "text": "02 4. A",
+   "bbox": [
+    0.6532,
+    0.9187,
+    0.8576,
+    0.9362
+   ],
+   "source": "s0-col-right",
+   "id": "page-0217-7dc36e3a55f8:b12"
+  }
+ ]
+}

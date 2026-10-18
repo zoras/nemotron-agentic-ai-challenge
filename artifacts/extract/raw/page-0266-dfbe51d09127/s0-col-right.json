@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "42500e955ffdfb9625dda35b9e9138a5189ec4904b4a0383fe7ad27a7cf5aef3",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "cbea53ff0a594476c6a39c76e8efc1b862f8056c5eb4dcdec03e94532a777646",
+  "image_bytes": 2149676,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:266",
+  "variant": "s0-col-right",
+  "crop": [
+   0.445,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.45
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.4567
+   ],
+   [
+    0.1667,
+    0.25,
+    0.4567
+   ],
+   [
+    0.25,
+    0.3333,
+    0.4567
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.4567
+   ],
+   [
+    0.4167,
+    0.5,
+    0.4567
+   ],
+   [
+    0.5,
+    0.5833,
+    0.4567
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.4567
+   ],
+   [
+    0.6667,
+    0.75,
+    0.4567
+   ],
+   [
+    0.75,
+    0.8333,
+    0.4567
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.4567
+   ],
+   [
+    0.9167,
+    1.0,
+    0.4567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2777,
+  "completion_tokens": 977,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.64,
+ "created_at": "2026-10-18T11:10:07+00:00",
+ "content": "<x_0.0><y_0.032>A W. 655 Law of Scotland.<x_0.8545><y_0.0555><class_Page-header>\n\n<x_0.0215><y_0.0539>hufband’s giving them to the wife, at or before marriage; but they are paraphernal only in regard to that hufsand who gave them as fuch, and are elecemed common moveables, if the wife, whofe _parapherna-_ his they were, be afterwards married to a second hufband: unlefs he fall in the fame manner appropriate them to her.<x_0.7236><y_0.1531><class_Text>\n\n<x_0.0234><y_0.1508>9. The right of the hufband to the wife’s moveable burdens afellate, is burdened with the moveable debts contracted feeling the by her before marriage: and as his right is universal, just mariti. To alfo is his burden; for it reaches to her whole moveable debts, though they thould far exceed her moveable elate. Yet the hufband is not conilidered as the true debtor in his wife’s debts. In all actions for payment, the is the proper defender: the hufband is only cited for his interelt, that is, as curator to her, and adminilitrator of the fociety-goods. As foon therefore as the marriage is diffolved, and the fociety goods thereby suffer a divifion, the hufband is no further concerned in the flare belonging to his deceased, wife; and consequently is no longer liable to pay her debts, which must be recovered from her reprefentatives, or her separate elate.<x_0.7246><y_0.3695><class_List-item>\n\n<x_0.0225><y_0.368>10. This obligation upon the hufband is, however, perpetuated against him (1.) Where his proper elate, real or perfonal, has been affected, during the marriage, gainft the by complete legal diligence; in which cafe, the hufband band muit, by the common rules of law, relieve his property from the burden with which it floods charged; but the utmoft diligence againl his perfon is not fuficient to perpetuate the obligation; nor even incomplete diligence againl his elate. (2.) The hufband continues liable, even after the wife’s death, in fo far as he is lucratus or profited by her elate : Still, however, the law does not confider a hufband who has got but a moderate tocher with the wife as lucratus by the marriage; it is the excess only which it confiders as lucrum, and that muit be eliminated by the quality of the parties and their condition of life.—As he was at no time the proper debtor in his wife’s moveable debts; therefore, though he thould be lucratus, he is, after the diffolution, only liable for them _fulfidiarie_, i. e. if her own feparate elate is not sufficient to pay them off.<x_0.7256><y_0.6531><class_List-item>\n\n<x_0.0205><y_0.6523>11. Where the wife is debtor in that fort of debt, which, if it had been due to her, would have excluded the _jus mariti_, e. g. in bonds bearing interest, which, as we shall afterwards fee (clxiii. 4.), continues heritable as to the rights of hufband and wife, notwithstanding of the enactment of the flatute 1661, which renders them moveable in certain other respects, the hufband is liable only for the bygone interrelts, and those that may grow upon the debt during the marriage; because his obligation for her debts mult be communicated to the interelt he has in her elate. It is the hufband alone who is liable in perfonal diligence for his wife’s debts, while the marriage fulbills: the wife, who is the proper debtor, is free from all perfonal execution upon them while the is _vefita vivo_.<x_0.7227><y_0.8562><class_List-item>\n\n<x_0.0195><y_0.8547>12. The hufband by marriage becomes the perpe-tual curator of the wife. From this right it arises, 1. That no fruit can proceed against the wife till the hufband be cited for his interelt. 2. All deeds, done by a wife without the hufband’s content, are null; nei-ther can flee fue in any action without the hufband’s<x_0.7139><y_0.9414><class_List-item>\n\n<x_0.708><y_0.8578>The H8 band is the wife’s curator.<x_0.8633><y_0.9039><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-795cb14e-1dc8-4a0f-a246-f8b706cbd6ce",
+  "object": "chat.completion",
+  "created": 1792321806,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.032>A W. 655 Law of Scotland.<x_0.8545><y_0.0555><class_Page-header>\n\n<x_0.0215><y_0.0539>hufband’s giving them to the wife, at or before marriage; but they are paraphernal only in regard to that hufsand who gave them as fuch, and are elecemed common moveables, if the wife, whofe _parapherna-_ his they were, be afterwards married to a second hufband: unlefs he fall in the fame manner appropriate them to her.<x_0.7236><y_0.1531><class_Text>\n\n<x_0.0234><y_0.1508>9. The right of the hufband to the wife’s moveable burdens afellate, is burdened with the moveable debts contracted feeling the by her before marriage: and as his right is universal, just mariti. To alfo is his burden; for it reaches to her whole moveable debts, though they thould far exceed her moveable elate. Yet the hufband is not conilidered as the true debtor in his wife’s debts. In all actions for payment, the is the proper defender: the hufband is only cited for his interelt, that is, as curator to her, and adminilitrator of the fociety-goods. As foon therefore as the marriage is diffolved, and the fociety goods thereby suffer a divifion, the hufband is no further concerned in the flare belonging to his deceased, wife; and consequently is no longer liable to pay her debts, which must be recovered from her reprefentatives, or her separate elate.<x_0.7246><y_0.3695><class_List-item>\n\n<x_0.0225><y_0.368>10. This obligation upon the hufband is, however, perpetuated against him (1.) Where his proper elate, real or perfonal, has been affected, during the marriage, gainft the by complete legal diligence; in which cafe, the hufband band muit, by the common rules of law, relieve his property from the burden with which it floods charged; but the utmoft diligence againl his perfon is not fuficient to perpetuate the obligation; nor even incomplete diligence againl his elate. (2.) The hufband continues liable, even after the wife’s death, in fo far as he is lucratus or profited by her elate : Still, however, the law does not confider a hufband who has got but a moderate tocher with the wife as lucratus by the marriage; it is the excess only which it confiders as lucrum, and that muit be eliminated by the quality of the parties and their condition of life.—As he was at no time the proper debtor in his wife’s moveable debts; therefore, though he thould be lucratus, he is, after the diffolution, only liable for them _fulfidiarie_, i. e. if her own feparate elate is not sufficient to pay them off.<x_0.7256><y_0.6531><class_List-item>\n\n<x_0.0205><y_0.6523>11. Where the wife is debtor in that fort of debt, which, if it had been due to her, would have excluded the _jus mariti_, e. g. in bonds bearing interest, which, as we shall afterwards fee (clxiii. 4.), continues heritable as to the rights of hufband and wife, notwithstanding of the enactment of the flatute 1661, which renders them moveable in certain other respects, the hufband is liable only for the bygone interrelts, and those that may grow upon the debt during the marriage; because his obligation for her debts mult be communicated to the interelt he has in her elate. It is the hufband alone who is liable in perfonal diligence for his wife’s debts, while the marriage fulbills: the wife, who is the proper debtor, is free from all perfonal execution upon them while the is _vefita vivo_.<x_0.7227><y_0.8562><class_List-item>\n\n<x_0.0195><y_0.8547>12. The hufband by marriage becomes the perpe-tual curator of the wife. From this right it arises, 1. That no fruit can proceed against the wife till the hufband be cited for his interelt. 2. All deeds, done by a wife without the hufband’s content, are null; nei-ther can flee fue in any action without the hufband’s<x_0.7139><y_0.9414><class_List-item>\n\n<x_0.708><y_0.8578>The H8 band is the wife’s curator.<x_0.8633><y_0.9039><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2777,
+   "completion_tokens": 977,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

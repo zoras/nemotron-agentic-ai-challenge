@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "05371b7d8694d3d48e70f076c327e0bfd116bc524860375bc9bfe4375b9b1bfc",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "b419ff216b653aca6863d81504eac74c943a641afe9a054dffc4b34df1519b61",
+  "image_bytes": 2188082,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1344",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5117,
+   0.0153,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0153,
+    0.0974,
+    0.5317
+   ],
+   [
+    0.0974,
+    0.1794,
+    0.5167
+   ],
+   [
+    0.1794,
+    0.2615,
+    0.5167
+   ],
+   [
+    0.2615,
+    0.3435,
+    0.5167
+   ],
+   [
+    0.3435,
+    0.4256,
+    0.5167
+   ],
+   [
+    0.4256,
+    0.5076,
+    0.5167
+   ],
+   [
+    0.5076,
+    0.5897,
+    0.5167
+   ],
+   [
+    0.5897,
+    0.6718,
+    0.5167
+   ],
+   [
+    0.6718,
+    0.7538,
+    0.5167
+   ],
+   [
+    0.7538,
+    0.8359,
+    0.5167
+   ],
+   [
+    0.8359,
+    0.9179,
+    0.5167
+   ],
+   [
+    0.9179,
+    1.0,
+    0.5167
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2651,
+  "completion_tokens": 979,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.85,
+ "created_at": "2026-10-18T11:20:00+00:00",
+ "content": "<x_0.0518><y_0.0039>I H O R<x_0.5459><y_0.0273><class_Title>\n\n<x_0.04><y_0.0266>ments of dragoon-guards raifed in 1685. See GRA- ADIER, DRAGOONS, and GUARDS.<x_0.7822><y_0.0555><class_Text>\n\n<x_0.0508><y_0.0539>_Maffer of the Horse._ See MASTER.<x_0.5674><y_0.0695><class_Text>\n\n<x_0.0176><y_0.068>_Light-Horse_, are regiments of cavalry, mounted on light fwift horles, whose men are fmall and lightly ac- coutred. They were frit raised in 1757. The deno- mination arofe hence, that anciently they were lightly armed, in comparison of the royal guards, which were armed at all points.<x_0.7891><y_0.1508><class_Text>\n\n<x_0.0527><y_0.15>_Hungarian Horse._ See Hussars.<x_0.5479><y_0.1648><class_Text>\n\n<x_0.0186><y_0.1633>Horse is alfo a term ufed in various arts and manu- factories, for fomething that helps to fuftain their work from the ground, for the more commodious working at it.<x_0.79><y_0.2188><class_Text>\n\n<x_0.0195><y_0.2172>The horfe ufed by tanners and lkinners, alfo called the _lg_, is a piece of wood cut hollow and roundifft, four or five feet long, and placed aflope; upon which they pare their flains to get off the dirt, hair, flefh, &c.<x_0.7881><y_0.2734><class_Text>\n\n<x_0.0205><y_0.2719>HORSE is alfo ufed in carpentry, for a piece of wood jointed scrofs two other perpendicular ones. to fuftain the boards, planks, &c. which make bridges over fmall rivers; and on divers other occasions.<x_0.7871><y_0.3266><class_Text>\n\n<x_0.0215><y_0.325>HORSE, in fea language, is the name of a rope reach- ing from the middle of a yard,to its extremity, or what is called the _yard-arm_, and depending about two or three feet under the yard, for the failors to tread upon whilst they are loofing, reefing, or furling the fails, rig- ging out the fludding-fail booms, &c. In order, there- fore, to keep the horfe more parallel to the yard, it is ufually fufpended to it at proper distances, by certain ropes called Hirrups, which hang about two feet under the yard, having an eye in their lower ends through which the horfe paffes.<x_0.791><y_0.4758><class_Text>\n\n<x_0.0225><y_0.4742>HORSE is alfo a thick rope, extended in a perpendicular direction near the fore or after-fide of a maft, for the purpofe of hoiting or extending foime fail upon it. When it is fixed before a maft, it is calculated for the ufe of a fail called the _fquare-fail_, whole yard being attached to the horfe, by means of a traveller or bull's eye, which flides up and down occasionally, is retained in a deady potition; either when the fail is fet, or whilt it is hoitting or lowering. When the horfe is placed abaft or behind a maft, it is intended for the try-fail of a flow, and is accordingly very rarely fixed in this potition, except in thofe floops of war which oc- cationally affume the form of finows, in order to de- ceive the enemy.<x_0.792><y_0.6641><class_Text>\n\n<x_0.0234><y_0.6633>HORSE is alfo a cant name introduced into the na- nagement of lotteries, for the chance or benefit of a ticket or number for one or more days, upon condi- tion. if it be drawn a prize within the time covenanted for, of returning to the feller an undrawn ticket.-- I'0 determine the value of a horfe; multiply the amount of the prizes in the lottery by the time the horfe is hi- red for; and from the product futbraci the amount of the number of prizes by the value of an undrawn tic- ket into the time of the horfe: the remainder being divided by the number of tickets into the whole time of drawing, the quotient is the value of the horfe. See LOTTERY.<x_0.793><y_0.8398><class_Text>\n\n<x_0.0635><y_0.8391>_Horse-Bread._ See BREAD.<x_0.4639><y_0.8539><class_Text>\n\n<x_0.0332><y_0.8523>_Horse-Dung_, in gardening, is of great ufe in ma- king hot-beds, for the raifing all forts of early crops; as fallading, cucumbers, melons, afparagus, &c. for<x_0.7939><y_0.8969><class_Text>\n\n<x_0.6982><y_0.8938>which<x_0.7861><y_0.9078><class_Text>",
+ "reply": {
+  "id": "chatcmpl-aced114b-68c0-4597-ac02-88e7fa0f32ed",
+  "object": "chat.completion",
+  "created": 1792322398,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0518><y_0.0039>I H O R<x_0.5459><y_0.0273><class_Title>\n\n<x_0.04><y_0.0266>ments of dragoon-guards raifed in 1685. See GRA- ADIER, DRAGOONS, and GUARDS.<x_0.7822><y_0.0555><class_Text>\n\n<x_0.0508><y_0.0539>_Maffer of the Horse._ See MASTER.<x_0.5674><y_0.0695><class_Text>\n\n<x_0.0176><y_0.068>_Light-Horse_, are regiments of cavalry, mounted on light fwift horles, whose men are fmall and lightly ac- coutred. They were frit raised in 1757. The deno- mination arofe hence, that anciently they were lightly armed, in comparison of the royal guards, which were armed at all points.<x_0.7891><y_0.1508><class_Text>\n\n<x_0.0527><y_0.15>_Hungarian Horse._ See Hussars.<x_0.5479><y_0.1648><class_Text>\n\n<x_0.0186><y_0.1633>Horse is alfo a term ufed in various arts and manu- factories, for fomething that helps to fuftain their work from the ground, for the more commodious working at it.<x_0.79><y_0.2188><class_Text>\n\n<x_0.0195><y_0.2172>The horfe ufed by tanners and lkinners, alfo called the _lg_, is a piece of wood cut hollow and roundifft, four or five feet long, and placed aflope; upon which they pare their flains to get off the dirt, hair, flefh, &c.<x_0.7881><y_0.2734><class_Text>\n\n<x_0.0205><y_0.2719>HORSE is alfo ufed in carpentry, for a piece of wood jointed scrofs two other perpendicular ones. to fuftain the boards, planks, &c. which make bridges over fmall rivers; and on divers other occasions.<x_0.7871><y_0.3266><class_Text>\n\n<x_0.0215><y_0.325>HORSE, in fea language, is the name of a rope reach- ing from the middle of a yard,to its extremity, or what is called the _yard-arm_, and depending about two or three feet under the yard, for the failors to tread upon whilst they are loofing, reefing, or furling the fails, rig- ging out the fludding-fail booms, &c. In order, there- fore, to keep the horfe more parallel to the yard, it is ufually fufpended to it at proper distances, by certain ropes called Hirrups, which hang about two feet under the yard, having an eye in their lower ends through which the horfe paffes.<x_0.791><y_0.4758><class_Text>\n\n<x_0.0225><y_0.4742>HORSE is alfo a thick rope, extended in a perpendicular direction near the fore or after-fide of a maft, for the purpofe of hoiting or extending foime fail upon it. When it is fixed before a maft, it is calculated for the ufe of a fail called the _fquare-fail_, whole yard being attached to the horfe, by means of a traveller or bull's eye, which flides up and down occasionally, is retained in a deady potition; either when the fail is fet, or whilt it is hoitting or lowering. When the horfe is placed abaft or behind a maft, it is intended for the try-fail of a flow, and is accordingly very rarely fixed in this potition, except in thofe floops of war which oc- cationally affume the form of finows, in order to de- ceive the enemy.<x_0.792><y_0.6641><class_Text>\n\n<x_0.0234><y_0.6633>HORSE is alfo a cant name introduced into the na- nagement of lotteries, for the chance or benefit of a ticket or number for one or more days, upon condi- tion. if it be drawn a prize within the time covenanted for, of returning to the feller an undrawn ticket.-- I'0 determine the value of a horfe; multiply the amount of the prizes in the lottery by the time the horfe is hi- red for; and from the product futbraci the amount of the number of prizes by the value of an undrawn tic- ket into the time of the horfe: the remainder being divided by the number of tickets into the whole time of drawing, the quotient is the value of the horfe. See LOTTERY.<x_0.793><y_0.8398><class_Text>\n\n<x_0.0635><y_0.8391>_Horse-Bread._ See BREAD.<x_0.4639><y_0.8539><class_Text>\n\n<x_0.0332><y_0.8523>_Horse-Dung_, in gardening, is of great ufe in ma- king hot-beds, for the raifing all forts of early crops; as fallading, cucumbers, melons, afparagus, &c. for<x_0.7939><y_0.8969><class_Text>\n\n<x_0.6982><y_0.8938>which<x_0.7861><y_0.9078><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2651,
+   "completion_tokens": 979,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

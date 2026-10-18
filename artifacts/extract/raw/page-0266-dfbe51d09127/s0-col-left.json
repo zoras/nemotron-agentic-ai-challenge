@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "5309084ac048f366f3db53cd68ea4325f7b38f6734e82388ff285064568a7f98",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "cfd68f76f289f8315dbdedcd20eefae60c0ae37cc9acee0c3c645994932806b9",
+  "image_bytes": 1875153,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:266",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0,
+   0.4617,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.45
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.4567
+   ],
+   [
+    0.1667,
+    0.25,
+    0.4567
+   ],
+   [
+    0.25,
+    0.3333,
+    0.4567
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.4567
+   ],
+   [
+    0.4167,
+    0.5,
+    0.4567
+   ],
+   [
+    0.5,
+    0.5833,
+    0.4567
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.4567
+   ],
+   [
+    0.6667,
+    0.75,
+    0.4567
+   ],
+   [
+    0.75,
+    0.8333,
+    0.4567
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.4567
+   ],
+   [
+    0.9167,
+    1.0,
+    0.4567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2454,
+  "completion_tokens": 910,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.29,
+ "created_at": "2026-10-18T11:10:06+00:00",
+ "content": "<x_0.0234><y_0.0359>art III.<x_0.1924><y_0.0563><class_Title>\n\n<x_0.1445><y_0.0555>4. Marriage is forbidden within certain degrees of blood. By the law of Mofes ( Levitticus xviii,), which, by the act 1567. c. 15. has been adopted by us, fe- conds in blood, and all remoter degrees, may all lawfully marry. By feconds in blood are meant first cou- fins. Marriage in the direct line is forbidden in infi- niture; as it is alfo in the collateral line in the special cafe where one of the parties is _loo parents_ to the other, as grand-uncle, great grand-uncle, &c. with re- fpect to his grand niece, &c. The fame degrees that are prohibited in confanguinity, are prohibited in af- finity; which is the tie arising from marriage, betwixt one of the married pair, and the blood relations of the other. Marriage alfo, where either of the parties is naturally unfit for generation, or hands already mar-ried to a third person, is _ipfo jure_ null.<x_0.9785><y_0.2766><class_Text>\n\n<x_0.1436><y_0.2742>5. To prevent bigamy and incelluous marriages, the church has introduced proclamation of banns; which is the ceremony of publishing the names and delignations of thofe who intend to intermarry, in the churches where the bride and bridegroom refide, after the congregation is affembled for divine service; that all persons who know any objection to the marriage may offer it. When the order of the church is ob- ferved, the marriage is called regular; when otherwise, cland offline. Marriage is valid when entered into in either of thefe ways; but when clandeline, there are certain penalties imposed upon the parties as well as the celebrator and witneffes.<x_0.9795><y_0.4508><class_Text>\n\n<x_0.1426><y_0.4492>6. By marriage, a fociety is created between the married pair, which draws after it a mutual communi- cation of their civil interefts, in as far as is necessary for maintaining it. As the fociety lafts only for the joint lives of the focii; therefore rights that have the nature of a perpetuity, which our law flyles _heritable_, are not brought under the partnership or communion of goods; as a land-ellate, or bonds bearing a yearly interest: it is only moveable subjects, or the fruits produced by heritable subjects during the marriage, that become common to man and wife.<x_0.9775><y_0.6><class_Text>\n\n<x_0.1416><y_0.5984>7. The hufband, as the head of the wife, has the fole right of managing the goods in communion, which is called _jus mariti._ This right is fo abfolute, that it bears but little resemblance to a right of adminiftering a common subject. For the hufband can, in virtue thereof, fell, or even gift, at his pleasure, the whole goods falling under communion; and his creditors may affect them for the payment of his proper debts: fo that the _jus mariti_ carries all the characters of an affiliation, by the wife to her hufband, of her moveable eliate. It arites _ipfo jure_ from the marriage; and therefore needs no other conflution. But a stranger may convey an eliate to a wife, fo as it shall not be subject to the hufband's administration; or the huf- band himself may, in the marriage-contract, renounce his _jus mariti_ in all or any part of his wife’s moveable elate.<x_0.9766><y_0.8297><class_Text>\n\n<x_0.1455><y_0.8289>8. From this right are excepted paraphernal goods, which, as the word is understood in our law, compre- hends the wife’s wearing apparel, and the ornaments proper to her perfon; as necklaces, ear-rings, break or arm jewels, buckles, &c. There are neither alic- nable by the hufband, nor affectable by his creditors. Things of promificous ufc to hufband and wife, as plate, medals, &c. may become paraphernal, by the<x_0.9756><y_0.9414><class_Text>",
+ "reply": {
+  "id": "chatcmpl-9432559e-1bbe-4735-a85a-e819eabb4934",
+  "object": "chat.completion",
+  "created": 1792321805,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0234><y_0.0359>art III.<x_0.1924><y_0.0563><class_Title>\n\n<x_0.1445><y_0.0555>4. Marriage is forbidden within certain degrees of blood. By the law of Mofes ( Levitticus xviii,), which, by the act 1567. c. 15. has been adopted by us, fe- conds in blood, and all remoter degrees, may all lawfully marry. By feconds in blood are meant first cou- fins. Marriage in the direct line is forbidden in infi- niture; as it is alfo in the collateral line in the special cafe where one of the parties is _loo parents_ to the other, as grand-uncle, great grand-uncle, &c. with re- fpect to his grand niece, &c. The fame degrees that are prohibited in confanguinity, are prohibited in af- finity; which is the tie arising from marriage, betwixt one of the married pair, and the blood relations of the other. Marriage alfo, where either of the parties is naturally unfit for generation, or hands already mar-ried to a third person, is _ipfo jure_ null.<x_0.9785><y_0.2766><class_Text>\n\n<x_0.1436><y_0.2742>5. To prevent bigamy and incelluous marriages, the church has introduced proclamation of banns; which is the ceremony of publishing the names and delignations of thofe who intend to intermarry, in the churches where the bride and bridegroom refide, after the congregation is affembled for divine service; that all persons who know any objection to the marriage may offer it. When the order of the church is ob- ferved, the marriage is called regular; when otherwise, cland offline. Marriage is valid when entered into in either of thefe ways; but when clandeline, there are certain penalties imposed upon the parties as well as the celebrator and witneffes.<x_0.9795><y_0.4508><class_Text>\n\n<x_0.1426><y_0.4492>6. By marriage, a fociety is created between the married pair, which draws after it a mutual communi- cation of their civil interefts, in as far as is necessary for maintaining it. As the fociety lafts only for the joint lives of the focii; therefore rights that have the nature of a perpetuity, which our law flyles _heritable_, are not brought under the partnership or communion of goods; as a land-ellate, or bonds bearing a yearly interest: it is only moveable subjects, or the fruits produced by heritable subjects during the marriage, that become common to man and wife.<x_0.9775><y_0.6><class_Text>\n\n<x_0.1416><y_0.5984>7. The hufband, as the head of the wife, has the fole right of managing the goods in communion, which is called _jus mariti._ This right is fo abfolute, that it bears but little resemblance to a right of adminiftering a common subject. For the hufband can, in virtue thereof, fell, or even gift, at his pleasure, the whole goods falling under communion; and his creditors may affect them for the payment of his proper debts: fo that the _jus mariti_ carries all the characters of an affiliation, by the wife to her hufband, of her moveable eliate. It arites _ipfo jure_ from the marriage; and therefore needs no other conflution. But a stranger may convey an eliate to a wife, fo as it shall not be subject to the hufband's administration; or the huf- band himself may, in the marriage-contract, renounce his _jus mariti_ in all or any part of his wife’s moveable elate.<x_0.9766><y_0.8297><class_Text>\n\n<x_0.1455><y_0.8289>8. From this right are excepted paraphernal goods, which, as the word is understood in our law, compre- hends the wife’s wearing apparel, and the ornaments proper to her perfon; as necklaces, ear-rings, break or arm jewels, buckles, &c. There are neither alic- nable by the hufband, nor affectable by his creditors. Things of promificous ufc to hufband and wife, as plate, medals, &c. may become paraphernal, by the<x_0.9756><y_0.9414><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2454,
+   "completion_tokens": 910,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "1304ff0a8b12a975fce03aa1c3a66341e6b2b89b02a599d2bae6482f28e21ebf",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4a26a5c255980db8fa072366e451553144d0f6fb9a1b2b7243c609160baf8dde",
+  "image_bytes": 2343075,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2473",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0,
+   0.4933,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.4883
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.4833
+   ],
+   [
+    0.1667,
+    0.25,
+    0.4833
+   ],
+   [
+    0.25,
+    0.3333,
+    0.4833
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.4833
+   ],
+   [
+    0.4167,
+    0.5,
+    0.4833
+   ],
+   [
+    0.5,
+    0.5833,
+    0.4833
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.4833
+   ],
+   [
+    0.6667,
+    0.75,
+    0.4833
+   ],
+   [
+    0.75,
+    0.8333,
+    0.4833
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.4833
+   ],
+   [
+    0.9167,
+    1.0,
+    0.4833
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2429,
+  "completion_tokens": 885,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.47,
+ "created_at": "2026-10-18T11:11:56+00:00",
+ "content": "<x_0.4141><y_0.0469>E R A<x_0.626><y_0.0664><class_Title>\n\n<x_0.8965><y_0.0477>( 5<x_0.999><y_0.0688><class_Page-header>\n\n<x_0.1426><y_0.0703>The onager, or wild afs, has, by fome authors, been confounded with the zebra; but very improperly, for this left is a difficult species; for the onager is not freaked like this, nor is his shape fo beautiful. Wild-affes are laid to be very twift of courfe; and when they fee a man, they make a bound, and immediately fly away; infomuch, that there is no taking of them, but by traps and gins. They have much the fame fhape as common affes; but they are of a brighter colour, and there runs a white lift from the head to the tail. Of the hide of theffe affes, and particularly of that part next the rump, they make that excellent leather which we call flagreen, and which is put to fo many curious ufes.<x_0.9736><y_0.2687><class_Text>\n\n<x_0.1416><y_0.268>In America they have no affes at all, nor yet horfes; but they have been carried thither long ago, at firft by the Spaniards, and afterwards by other nations, where they have multiplied greatly; infomuch, that, in fome places, there are whole droves of them that run wild, and are very hard to be caught. Affes in general carry the heaviest burdens in proportion to their bulk; and, as their keeping colts little or nothing, it is a great wonder they are not put to more ufes than they generally are among us.<x_0.9727><y_0.4086><class_Text>\n\n<x_0.1436><y_0.4078>The flesh of the common afs is never eaten in thefe parts of the world; though fome pretend their colts are tender, and not difagreeable. [Plate LXXV. fig. 2.]<x_0.9629><y_0.4508><class_Text>\n\n<x_0.1387><y_0.45>3. The zebra.—This animal has the figure and gracefulnefs of the horfe, joined to the Twiftoefs of the flag. He is about 7 feet long, from the point of the muzzle to the origin of the tail, and about 4 feet high The colour of his skin is beautiful and uniform, confining of alternate parallel rings of black and white dilpofed in the molt regular manner, as reprefented in the plate, [LXXV. fig. 3 ]. He is generally lefs than the horie, and larger than the afs.<x_0.9639><y_0.5766><class_Text>\n\n<x_0.1357><y_0.5758>the Zebra is found no where but in the eaftern and fouthern provinces of Africa, from Ethiopia to the Cape of Good Hope, and from the Cape of Good Hope to Congo. The Dutch have been at great pains to tame and ufe them for domestic purposes, but with little fuccefs. He is hard-mouthed, and kicks when any perfon attempts to touch or come near him. He is reltlefs and obfitinate as a mule: but perhaps the wild horfe is naturally as untraclable as the Zebra; for, it is probable, if he were early accultomed to obedience and a domeltic life, he would become as docile as the horfe.<x_0.9619><y_0.7297><class_Text>\n\n<x_0.0977><y_0.7289>ERANARCHA, a public officer among the ancient Greeks, whose buffinefs was to preflide over and direct the alms and provilions made for the poor. Cornelius Nepos, in his life of Epaminondas, deferibes his office thus : when any perfon was reduced to poverty, taken captive, or had a daughter to marry, which he could not effect for want of money, _Gc_ the eranarcha called an attembly of friends and neighbours, and taxed each according to his means and elitate, to contri bute towards his relief.<x_0.9609><y_0.8688><class_Text>\n\n<x_0.0957><y_0.8695>ERANTHEMUM, in botany, a genus of the diandria monogynia clafs. The calix is divided into five tegments; the tube is filiform; and the fligma is limple. There is but one species, a native of Ethiopia.<x_0.96><y_0.9289><class_Text>",
+ "reply": {
+  "id": "chatcmpl-286bdd48-1b87-481a-a126-205deb503d3a",
+  "object": "chat.completion",
+  "created": 1792321915,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4141><y_0.0469>E R A<x_0.626><y_0.0664><class_Title>\n\n<x_0.8965><y_0.0477>( 5<x_0.999><y_0.0688><class_Page-header>\n\n<x_0.1426><y_0.0703>The onager, or wild afs, has, by fome authors, been confounded with the zebra; but very improperly, for this left is a difficult species; for the onager is not freaked like this, nor is his shape fo beautiful. Wild-affes are laid to be very twift of courfe; and when they fee a man, they make a bound, and immediately fly away; infomuch, that there is no taking of them, but by traps and gins. They have much the fame fhape as common affes; but they are of a brighter colour, and there runs a white lift from the head to the tail. Of the hide of theffe affes, and particularly of that part next the rump, they make that excellent leather which we call flagreen, and which is put to fo many curious ufes.<x_0.9736><y_0.2687><class_Text>\n\n<x_0.1416><y_0.268>In America they have no affes at all, nor yet horfes; but they have been carried thither long ago, at firft by the Spaniards, and afterwards by other nations, where they have multiplied greatly; infomuch, that, in fome places, there are whole droves of them that run wild, and are very hard to be caught. Affes in general carry the heaviest burdens in proportion to their bulk; and, as their keeping colts little or nothing, it is a great wonder they are not put to more ufes than they generally are among us.<x_0.9727><y_0.4086><class_Text>\n\n<x_0.1436><y_0.4078>The flesh of the common afs is never eaten in thefe parts of the world; though fome pretend their colts are tender, and not difagreeable. [Plate LXXV. fig. 2.]<x_0.9629><y_0.4508><class_Text>\n\n<x_0.1387><y_0.45>3. The zebra.—This animal has the figure and gracefulnefs of the horfe, joined to the Twiftoefs of the flag. He is about 7 feet long, from the point of the muzzle to the origin of the tail, and about 4 feet high The colour of his skin is beautiful and uniform, confining of alternate parallel rings of black and white dilpofed in the molt regular manner, as reprefented in the plate, [LXXV. fig. 3 ]. He is generally lefs than the horie, and larger than the afs.<x_0.9639><y_0.5766><class_Text>\n\n<x_0.1357><y_0.5758>the Zebra is found no where but in the eaftern and fouthern provinces of Africa, from Ethiopia to the Cape of Good Hope, and from the Cape of Good Hope to Congo. The Dutch have been at great pains to tame and ufe them for domestic purposes, but with little fuccefs. He is hard-mouthed, and kicks when any perfon attempts to touch or come near him. He is reltlefs and obfitinate as a mule: but perhaps the wild horfe is naturally as untraclable as the Zebra; for, it is probable, if he were early accultomed to obedience and a domeltic life, he would become as docile as the horfe.<x_0.9619><y_0.7297><class_Text>\n\n<x_0.0977><y_0.7289>ERANARCHA, a public officer among the ancient Greeks, whose buffinefs was to preflide over and direct the alms and provilions made for the poor. Cornelius Nepos, in his life of Epaminondas, deferibes his office thus : when any perfon was reduced to poverty, taken captive, or had a daughter to marry, which he could not effect for want of money, _Gc_ the eranarcha called an attembly of friends and neighbours, and taxed each according to his means and elitate, to contri bute towards his relief.<x_0.9609><y_0.8688><class_Text>\n\n<x_0.0957><y_0.8695>ERANTHEMUM, in botany, a genus of the diandria monogynia clafs. The calix is divided into five tegments; the tube is filiform; and the fligma is limple. There is but one species, a native of Ethiopia.<x_0.96><y_0.9289><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2429,
+   "completion_tokens": 885,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "7caf7d80ed332c9c65d7d69ca32a3330ff659330117e18467f1cedbeae805391",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4d0dc48cf871f5ada4a97a1bc43a0bed19c74370640b6ff0852e9f1f31b680a0",
+  "image_bytes": 2176521,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1466",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0262,
+   0.4633,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0262,
+    0.1074,
+    0.4583
+   ],
+   [
+    0.1074,
+    0.1885,
+    0.4517
+   ],
+   [
+    0.1885,
+    0.2697,
+    0.4517
+   ],
+   [
+    0.2697,
+    0.3508,
+    0.4517
+   ],
+   [
+    0.3508,
+    0.432,
+    0.4517
+   ],
+   [
+    0.432,
+    0.5131,
+    0.4517
+   ],
+   [
+    0.5131,
+    0.5942,
+    0.4517
+   ],
+   [
+    0.5942,
+    0.6754,
+    0.4517
+   ],
+   [
+    0.6754,
+    0.7566,
+    0.4517
+   ],
+   [
+    0.7566,
+    0.8377,
+    0.4517
+   ],
+   [
+    0.8377,
+    0.9188,
+    0.4517
+   ],
+   [
+    0.9188,
+    1.0,
+    0.4517
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2423,
+  "completion_tokens": 879,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.77,
+ "created_at": "2026-10-18T11:20:05+00:00",
+ "content": "<x_0.4141><y_0.0047>E S S |  7<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.1572><y_0.0266>weighed, and made of paper not impregnated with alum. It is to be dried at firft with a gentle heat, but afterwards expofed for five minutes to a heat of 100%. On cooling, it is to be weighed together with the filter; the known weight of which muit afterwards be fubtracted. The fediment is belt wahed in a bottle; for a filter when once impregnated with false matter cannot be freed from it again without great difficulty, especially if an interval of fome hours intervenes.<x_0.9795><y_0.1531><class_Text>\n\n<x_0.127><y_0.1516>The alkali made ufe of in Mr Bergman's experiments, was that of folla faturated with aerial acid. His phlogificated alkali is made by deflagrating equal weights of pure nitre and cream of tartar intimately mixed together; the reidium is the common white flux. Half an ounce of this is diffused in half a quadrans of diffilled water. To this he adds, in a digelting heat, two ounces of Pruflian blue, carefully avoiding such an effervefence as may throw any thing over, which cafily happens if the quantity be too large. The pigment foon lofes its beautiful blue colour, growing not red but black; which flows that a decomposition has taken place. The Pruflian blue ufed in his experiments contained in 100 parts only 23 of the pigment and 77 of the clay; fo that if we employ the blue made without any alum, 221 grains of it will saturate the half ounce of alkaline fat more completely than the two ounces of the kind already described. But in whatever manner the operation is performed, after the addition of the left quantity, the whole muit be ex- pofed to a stronger digelting heat, and flirred with a wooden fpatula. If the liquor be too much diminifhed by evaporation, the defect muff be fuplplied by adding more water. When the liquor becomes clear, the reiduum muit be collected upon filtering paper, and gradually waffed with warm water until all the foluble part is extracted; when, if the operation has been properly conducted, the filtered liquor amounts to a whole quadrans, of a brownish yellow colour, and fo well faturated with colouring matter, that it does not change the colour of paper tinged with Brafil wood. This lixivium, however, contains a fmall quantity of Pruflian blue, about 4 lb.to a cwt. of the alkali. Thefe should be previously separated by an acid, or, which is better, corrected by fubtracting from the weight of the fediment16 effay pounds for each quadrans of the lixivium. When we wish to examine the colour of the precipitate exactly, however, the lixivium we employ muit necellarily be well depurated; for by neglecting this precaution we may easily perfuade ourselves that any metal precipitated by the lixivium has a blue colour. When we only wish to afcertain the weight, the lixivium, having the fmall proportion of Pruflian blue intermixed, may be employed: but fill the proper correction mult ultimately be made ufe of; for the precipitating acid is wont to impair the qualities of the lixivium, and even to destroy them altogether, efpecially in a warm temperature. Calcareous earth, whether in its mild or cauftic fate, is alfo capable of abbracting a coloured fubblance from iron and other metals.<x_0.9775><y_0.8531><class_Text>\n\n<x_0.1377><y_0.8523>In the precipitation of metals by metals, it is to be obferved, that the acid of the foliation ought to be fomewhat predominant’s, but any confiderable excess muff be corrected occasionally, either by alkali, water, or fpirit of wine.<x_0.959><y_0.9219><class_Text>\n\n<x_0.1748><y_0.9227>VOL. VI. Part II.<x_0.4629><y_0.9367><class_Caption>\n\n<x_0.0><y_0.8469>8 low to precipitate metals by metals.<x_0.126><y_0.9078><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-e6045fa8-9185-43ef-87e3-d7c632e95cee",
+  "object": "chat.completion",
+  "created": 1792322404,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4141><y_0.0047>E S S |  7<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.1572><y_0.0266>weighed, and made of paper not impregnated with alum. It is to be dried at firft with a gentle heat, but afterwards expofed for five minutes to a heat of 100%. On cooling, it is to be weighed together with the filter; the known weight of which muit afterwards be fubtracted. The fediment is belt wahed in a bottle; for a filter when once impregnated with false matter cannot be freed from it again without great difficulty, especially if an interval of fome hours intervenes.<x_0.9795><y_0.1531><class_Text>\n\n<x_0.127><y_0.1516>The alkali made ufe of in Mr Bergman's experiments, was that of folla faturated with aerial acid. His phlogificated alkali is made by deflagrating equal weights of pure nitre and cream of tartar intimately mixed together; the reidium is the common white flux. Half an ounce of this is diffused in half a quadrans of diffilled water. To this he adds, in a digelting heat, two ounces of Pruflian blue, carefully avoiding such an effervefence as may throw any thing over, which cafily happens if the quantity be too large. The pigment foon lofes its beautiful blue colour, growing not red but black; which flows that a decomposition has taken place. The Pruflian blue ufed in his experiments contained in 100 parts only 23 of the pigment and 77 of the clay; fo that if we employ the blue made without any alum, 221 grains of it will saturate the half ounce of alkaline fat more completely than the two ounces of the kind already described. But in whatever manner the operation is performed, after the addition of the left quantity, the whole muit be ex- pofed to a stronger digelting heat, and flirred with a wooden fpatula. If the liquor be too much diminifhed by evaporation, the defect muff be fuplplied by adding more water. When the liquor becomes clear, the reiduum muit be collected upon filtering paper, and gradually waffed with warm water until all the foluble part is extracted; when, if the operation has been properly conducted, the filtered liquor amounts to a whole quadrans, of a brownish yellow colour, and fo well faturated with colouring matter, that it does not change the colour of paper tinged with Brafil wood. This lixivium, however, contains a fmall quantity of Pruflian blue, about 4 lb.to a cwt. of the alkali. Thefe should be previously separated by an acid, or, which is better, corrected by fubtracting from the weight of the fediment16 effay pounds for each quadrans of the lixivium. When we wish to examine the colour of the precipitate exactly, however, the lixivium we employ muit necellarily be well depurated; for by neglecting this precaution we may easily perfuade ourselves that any metal precipitated by the lixivium has a blue colour. When we only wish to afcertain the weight, the lixivium, having the fmall proportion of Pruflian blue intermixed, may be employed: but fill the proper correction mult ultimately be made ufe of; for the precipitating acid is wont to impair the qualities of the lixivium, and even to destroy them altogether, efpecially in a warm temperature. Calcareous earth, whether in its mild or cauftic fate, is alfo capable of abbracting a coloured fubblance from iron and other metals.<x_0.9775><y_0.8531><class_Text>\n\n<x_0.1377><y_0.8523>In the precipitation of metals by metals, it is to be obferved, that the acid of the foliation ought to be fomewhat predominant’s, but any confiderable excess muff be corrected occasionally, either by alkali, water, or fpirit of wine.<x_0.959><y_0.9219><class_Text>\n\n<x_0.1748><y_0.9227>VOL. VI. Part II.<x_0.4629><y_0.9367><class_Caption>\n\n<x_0.0><y_0.8469>8 low to precipitate metals by metals.<x_0.126><y_0.9078><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2423,
+   "completion_tokens": 879,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,304 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:513",
+ "row_index": 513,
+ "volume_id": "144850375",
+ "filename": "page-0513-b5d3417f845a.jpg",
+ "image_sha256": "b5d3417f845a088da08dc55efa1095633fe0e0decb3d4cfae4b1d30692eb61e6",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10588,
+  "median_grey": 214,
+  "layout_body_chars": 6830,
+  "layout_pictures": 1
+ },
+ "running_head": "E N G | 27",
+ "layout_raw": "page-0513-b5d3417f845a/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0,
+    0.515,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.505
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.51
+    ],
+    [
+     0.1667,
+     0.25,
+     0.51
+    ],
+    [
+     0.25,
+     0.3333,
+     0.51
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.51
+    ],
+    [
+     0.4167,
+     0.5,
+     0.51
+    ],
+    [
+     0.5,
+     0.5833,
+     0.51
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.51
+    ],
+    [
+     0.6667,
+     0.75,
+     0.51
+    ],
+    [
+     0.75,
+     0.8333,
+     0.51
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.51
+    ],
+    [
+     0.9167,
+     1.0,
+     0.51
+    ]
+   ],
+   "raw_path": "page-0513-b5d3417f845a/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "3abaf5684deeb9991d0ab1ec3daa5be32ed0697589e804183f4a5c5c9772bcf5"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5,
+    0.0,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.505
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.51
+    ],
+    [
+     0.1667,
+     0.25,
+     0.51
+    ],
+    [
+     0.25,
+     0.3333,
+     0.51
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.51
+    ],
+    [
+     0.4167,
+     0.5,
+     0.51
+    ],
+    [
+     0.5,
+     0.5833,
+     0.51
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.51
+    ],
+    [
+     0.6667,
+     0.75,
+     0.51
+    ],
+    [
+     0.75,
+     0.8333,
+     0.51
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.51
+    ],
+    [
+     0.9167,
+     1.0,
+     0.51
+    ]
+   ],
+   "raw_path": "page-0513-b5d3417f845a/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "f59512f0b11bf1827de5e21d8dc8697294734a37be3a02beeb89bbb17cd13a20"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Page-header",
+   "text": "E N G | 27",
+   "bbox": [
+    0.2243,
+    0.0234,
+    0.51,
+    0.0477
+   ],
+   "source": "s0-col-left",
+   "id": "page-0513-b5d3417f845a:b0"
+  },
+  {
+   "order": 1,
+   "class": "Caption",
+   "text": "England.",
+   "bbox": [
+    0.0271,
+    0.0437,
+    0.0991,
+    0.0625
+   ],
+   "source": "s0-col-left",
+   "id": "page-0513-b5d3417f845a:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "conquett. William earl of Poichiers and duke of Gui- enne had relolved upon an expedition to the holy land; and, for this purpofe, had put himself at the head of a vaft multitude, conflicting, according to fome hiltorians, of 60,000 horfe, and a much greater number of foot. Like Robert of Normandy, he offered to mortgage his dominions for money sufficient to conduct this multitude into Afia. The king accepted his offer; and had prepared a fleet and army to take poffeffion of thefe dominions, when an unfortunate accident put an end to his projects and his life. He was engaged in hunting, the fole amufement, and indeed the principal occupation, of princes in thofe rude times. Walter Tyrrel, a French gentleman remarkable for his fill in archery, attended him in this recreation, of which the new forelt was the feene. William had difmount after a chace; and Tyrrel, impatient to flew his dexterity, let fly an arrow at a flag which fuddenly started before him. The arrow glanced from a tree, and struck the king to the heart. He infantly fell down dead; and Tyrrel, terrified at the accident, clapt fpurs to his horfe, haltened to the fea-fhore, and embarked for France, where he joined the crufade that was fetting out from that country. This happened on the 2d of Augull 1100, after the king had reigned 13 years, and lived about 40. His body was found in the woods by the country-people, and buried without ceremony at Winchefter.",
+   "bbox": [
+    0.0996,
+    0.0469,
+    0.5039,
+    0.4258
+   ],
+   "source": "s0-col-left",
+   "id": "page-0513-b5d3417f845a:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "After the death of William, the crown of right devolved to Robert his eldeft brother; for William had no legitimate children. But what Robert had formerly loft by his indolence, he was again deprived of by his abfence at the holy war. Prince Henry was in the forelt with William Rufus at the time the latter was killed. He no fooner heard the important news, than he hurried to Winchefter, and secured the royal trea- fure. William de Breteuil, keeper of the treafure, arrived almost the fame infant, and oppofed his pre- tentions; telling him, that the treafure belonged to his elder brother, who was now his fovereign, and for whom he was determined to keep it. But Henry, drawing his fword, threatened him with infant death if he dared to difobey him; and others of the late king's retinue, who came every moment to Winchefter, joining the prince’s party, he was obliged to defift. Henry loft no time in fully accomplishing his purpose. In lefs than three days he got himself crowned king of England, by Maurice bifhop of London. Prefent poffeffion fupplied every deficiency of title; and no one dared to appear in defence of the abfent prince.",
+   "bbox": [
+    0.1011,
+    0.4266,
+    0.5044,
+    0.7234
+   ],
+   "source": "s0-col-left",
+   "id": "page-0513-b5d3417f845a:b3"
+  },
+  {
+   "order": 4,
+   "class": "Caption",
+   "text": "His charter in favour of the people.",
+   "bbox": [
+    0.0332,
+    0.7219,
+    0.1131,
+    0.7578
+   ],
+   "source": "s0-col-left",
+   "id": "page-0513-b5d3417f845a:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "The beginning of King Henry’s reign promised to be favourable to the Englith liberty; owing chiefly to his fear of his brother. To conciliate the affec- tions of his subjects, he paffed a charter calculated to remove many of the grievous opprefitions which had been complained of during the reigns of his father and brother. He promised, that, at the death of any ab- bot or bifhop, he never would feize the revenues of the fee or abbey during the vacancy, but would leave the whole to be reaped by the fucceffor; and that he would never let to farm any ecelefialical benefice, or difpofe of it for money. To the laity he promised, that, up- on the death of any earl, baron, or military tenant, his heir should be admitted to the poffeffion of his eflate, on paying a juft and lawful relief; without being ex-",
+   "bbox": [
+    0.1086,
+    0.7227,
+    0.505,
+    0.9289
+   ],
+   "source": "s0-col-left",
+   "id": "page-0513-b5d3417f845a:b5"
+  },
+  {
+   "order": 6,
+   "class": "Title",
+   "text": "56 ] ENG",
+   "bbox": [
+    0.5039,
+    0.025,
+    0.7905,
+    0.0469
+   ],
+   "source": "s0-col-right",
+   "id": "page-0513-b5d3417f845a:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "pofed to thofe enormous exactions which had been formerly required. He remitted the wardfhip of minors; and allowed guardians to be appointed, who should be anfwerable for the truth. He promised not to difpofe of any heirefs in marriage but by advice of all the barons; and if any baron intended to give his daughter, filter, niece, or kinfwoman, in marriage, it should only be neceflary for him to confult the king, who promised to take no money for his content, nor ever to refute permillion, unlefs the perfon to whom it was propofed to marry her fhoul happen to be his enemy. He granted his barons and military tenants the power of bequeathing by will their money or personal elates; and if they neglected to make a will, he promised that their heirs fhould facceed to them. He renounced the right of impoiling moneyage, and of leaving taxes at pleasure, on the farms which the barons kept in their own hands. He made fome general pro-feffions of moderating fines; he offered a pardon for all offences; and remitted all debts due to the crown. He alfo required, that the vaffals of the barons fhoul enjoy the fame privileges which he granted to his own barons; and he promised a general confirmation and obfervance of the _laws of king Edward \\*_. To give greater authenticity to thefe conceflions, a copy of the Syfem, charter was lodged in fome abbey of each county.",
+   "bbox": [
+    0.5132,
+    0.0477,
+    0.9175,
+    0.3992
+   ],
+   "source": "s0-col-right",
+   "id": "page-0513-b5d3417f845a:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "King Henry, farther to increase his popularity, degraded and committed to prifon Ralph Flambard bi-hop of Durham, who had been the chief infrument of opprellion under his brother. He fent for Anfelm who was then at Lyons, inviting him to return and take poffellion of his dignities. Anfelm returned; but when Henry propofed to him to do the fame homage to him which he had done to his brother, the king met with an abfolute refuful. During his exile, Anfelm had afflicted at the council of Bari; where, beides fixing the controversy between the Greek and Latin churches concerning the proceflion of the Holy Ghost, the right of election to church-preferments was declared to belong to the clergy alone, and fpiritual cenfures were denounced against all ecelefialtics who did homage to laymen for their fees or benefices, and on all laymen who exacted it. The rite of homage + by the feudal cultoms was, that the vaffal fhoul throw himself on his knees, put his joined hands between thofe of his superior, and fhould in that poture fwear fealty to him. But the council declared it executable, that pure hands, which could create God, and offer him up for the falvation of mankind, fhould be put, after this humiliating manner, between profane hands, which, besides being injured to rapine and bloodfhed, were employed day and night in impure purposes and obfcene contacts. To this decree therefore Anfelm appealed; and declared, that fo far from doing homage for his spiritual dignity, he would not even communicate with any ecelefialtic who paid that fubmiffon, or who accepted of investitures from laymen. Henry durft not infilt; and therefore defined that the controversy might be fufpended, and that meffengers might be fent to Rome to accommodate matters with the Pope, and to obtain his confirmation of the laws and customs of England.",
+   "bbox": [
+    0.5137,
+    0.3984,
+    0.9995,
+    0.8844
+   ],
+   "source": "s0-col-right",
+   "id": "page-0513-b5d3417f845a:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Henry now took another flep which feemed capable of confirming his claims to the crown without any danger of a rival. The Engliith remembered with regret their",
+   "bbox": [
+    0.52,
+    0.8852,
+    0.9219,
+    0.9398
+   ],
+   "source": "s0-col-right",
+   "id": "page-0513-b5d3417f845a:b9"
+  }
+ ]
+}

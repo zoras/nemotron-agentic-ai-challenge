@@ -1,0 +1,361 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1945",
+ "row_index": 1945,
+ "volume_id": "144850379",
+ "filename": "page-1945-d877e2c0e7d6.jpg",
+ "image_sha256": "d877e2c0e7d6979331208cad696389c92af546a9707a21816f1962452815285f",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.1098,
+  "median_grey": 218,
+  "layout_body_chars": 6823,
+  "layout_pictures": 0
+ },
+ "running_head": "Part III. O P T I C S. 5605",
+ "layout_raw": "page-1945-d877e2c0e7d6/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0546
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1945-d877e2c0e7d6/head.json",
+   "finish_reason": "stop",
+   "request_key": "0a334223e48e385d493f611ab5a701aae88ce1e16d2512233886a31896c2c515"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0247,
+    0.4967,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.4917
+    ],
+    [
+     0.106,
+     0.1872,
+     0.4917
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.4917
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.4917
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.4917
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.4917
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.4917
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.4917
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.4917
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.4917
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.4917
+    ],
+    [
+     0.9187,
+     1.0,
+     0.4917
+    ]
+   ],
+   "raw_path": "page-1945-d877e2c0e7d6/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "4569830878a6fa565effd61509ca2e0d3db6b1a917ce936921b8b55380f5eff5"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4867,
+    0.0247,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.4917
+    ],
+    [
+     0.106,
+     0.1872,
+     0.4917
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.4917
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.4917
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.4917
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.4917
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.4917
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.4917
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.4917
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.4917
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.4917
+    ],
+    [
+     0.9187,
+     1.0,
+     0.4917
+    ]
+   ],
+   "raw_path": "page-1945-d877e2c0e7d6/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "3631c28006efc5446f8921c18268734c9880efb29b4d10e7ed889a100846bb1f"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "Part III. O P T I C S. 5605",
+   "bbox": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0546
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1945-d877e2c0e7d6:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "Part III.",
+   "bbox": [
+    0.0214,
+    0.0315,
+    0.114,
+    0.0521
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-1945-d877e2c0e7d6:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "OP T",
+   "bbox": [
+    0.374,
+    0.0308,
+    0.4846,
+    0.0513
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1945-d877e2c0e7d6:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Optical frerver hath not any mark to direct him: hence after- nomers are obliged to enlighten the crofs-hairs artificially, in order to render them vifible, and this with out letting the luminous body interfere with the object which they intend to view; and, for doing this, two ways are propofed.",
+   "bbox": [
+    0.0077,
+    0.0537,
+    0.4875,
+    0.136
+   ],
+   "source": "s0-col-left",
+   "id": "page-1945-d877e2c0e7d6:b3"
+  },
+  {
+   "order": 4,
+   "class": "List-item",
+   "text": "**1.** The object-glafs of the telescope may be obliquely enlightened by placing a candle near to it in an oblique fituation, fo that its fmoke or flame may not interfere with the object. But if the object-glafs should happen to be pretty deep in the tube, it cannot be sufficiently enlightened by this means; and befides, if the telescope is above fix feet long, there will be a confiderable difficulty in throwing a sufficient quantity of light upon the crofs hairs.",
+   "bbox": [
+    0.0815,
+    0.1344,
+    0.488,
+    0.2556
+   ],
+   "source": "s0-col-left",
+   "id": "page-1945-d877e2c0e7d6:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "## 2. By fome an opening is made in the fide of the tube near the focus of the object-glafs, through which the crofs hairs are illuminated by means of a candle. But this method alfo is attended with inconveniences; for the obferver is incommoded by the light being fo near his eyes, and the hairs themselves become liable to accidents through their expofed situation. An error alfo attends this method; which is, that, according to the position of the light illuminating thefe hairs, they will appear in different situations. For example, when the horizontal hair is enlightened above, we perceive a luminous line which may be taken for the hair itself, and which appears at its upper superficies. On the other hand, when the hair is enlightened underneath, the luminous line will appear at the under surface of it; and the error will be the diameter of the hair, which often amounts to more than fixeconds. M. de la Hire, however, found a remedy for this inconvenience. He often observed, that in moon-fhine nights, when the weather was a little foggy, the crofs hairs were diftiently feen; but when the heavens were ferene, they could scarcely be perceived : he therefore covered with a piece of gauze, or fine filk-crape, that end of the tube next the object-glafs; and this method succeeded fo well, that a link placed at a good distance from the telefcope fo enlightened the crape, that the crafs-hairs diffirectly appeared, and the fight of the flars was by no means obscured.",
+   "bbox": [
+    0.081,
+    0.2548,
+    0.487,
+    0.6305
+   ],
+   "source": "s0-col-left",
+   "id": "page-1945-d877e2c0e7d6:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "In making foliar observations, a fmoked glafs muit be ufed for preferving the eyes; and which may be thus prepared. Take two equal and well polished round pieces of flat glafs; upon the surface of one of which, all round its limb, glue a paleboard ring: then put the other piece of glafs into the fmoke of a lamp, taking it feveral times out, and putting it in again, left the heat fhould break it, until the fmoke be fo thick, that the lamp can fearcely be feen through it: but the fmoke muft not be all over of the fame thickness, that fo a place may be chosen anfwering to the fplendour of the fun. This being done, the glafs, thus blackened, must be glued to the paiteboard ring abovementioned, with its black fide next to the other glafs, that the fmoke may not be rubbed off.",
+   "bbox": [
+    0.082,
+    0.6297,
+    0.4865,
+    0.8316
+   ],
+   "source": "s0-col-left",
+   "id": "page-1945-d877e2c0e7d6:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "There are two kinds of observations relating to the flars: one is, when they are in the meridian; the other, when they are in vertical circles. If the position of the meridian be known, the quadrant with which the observation is made, must be placed in the plane of that circle, and then the meridian altitudes are easily observed by means of the plumb-line. The meridian",
+   "bbox": [
+    0.0825,
+    0.8309,
+    0.486,
+    0.9276
+   ],
+   "source": "s0-col-left",
+   "id": "page-1945-d877e2c0e7d6:b7"
+  },
+  {
+   "order": 8,
+   "class": "Head-fragment",
+   "text": "I C S.",
+   "bbox": [
+    0.4987,
+    0.0301,
+    0.61,
+    0.0506
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1945-d877e2c0e7d6:b8"
+  },
+  {
+   "order": 9,
+   "class": "Caption",
+   "text": "5605 Optical Instruments",
+   "bbox": [
+    0.9003,
+    0.0331,
+    0.979,
+    0.0819
+   ],
+   "source": "s0-col-right",
+   "id": "page-1945-d877e2c0e7d6:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "altitude of a flat may likewise be had by a pendulum clock, if the exact time of the flat's paffing by the meridian be known. It must be observed, however, that-flars have the fame altitude a minute before and after their paffing the meridian, if they be not in or near the zenith; but if they be, their altitudes must be taken every minute when they are in or near the meridian, and then their greatest or lealt altitudes will be those in question. The position of a given vertical circle must be found by the following method. t. The quadrant and telescope remaining in the fame situation wherein it was when the altitude of a flat, together with the time of its paffage by the interfection of the crofs hairs in the focus of the object-glafs, was taken, we observe the time when the fun, or fome fixed flat, whose longitude and latitude is known, arrives to the vertical hair in the telescope ; and from thence the position of the field vertical circle will be had, and alto the observed flat's true place. But if the fun, or fome other flat, does not pafs by the mouth of the tube ; and if a meridian line be otherwise well drawn upon a floor, or very level ground, in the place of observation ; a plumb-line must be fufpended from a fixed place, at about 18 or 20 feet from the quadrant ; under which a mark must be made on the floor, in a right line with the plumb-line. You must next put a thin piece of brafs or pafteboard very near the object-glafs, in the middle of which there is a fit vertically placed, and paffing through the centre of the circular figure of the object-glafs. Now, by means of this fit, the before-mentioned plumb-line may be perceived through the telefcope, which before could not be seen, because of its nearnefs. Then the plumb-line must be removed and fufpended, fo that it be perceived in a right line with the vertical hair in the focus of the object-glafs, and a point marked on the floor directly under it. And if a right-line be drawn through this point, and that marked under the plumb-line before it was removed, the laid line will meet the meridian drawn upon the floor ; and fo we shall have the potion of the vertical circle in which the observed flat is, with respect to the meridian, the angle whereof may be measured in afkuming known lengths upon the two lines from the point of concourfe ; for if, through the extremities of thefe known lengths, a line or bafe be drawn, we shall have a triangle, whoe three fides being known, the angle at the vertex may be found, which will be the angle made by the vertical circle and meridian.",
+   "bbox": [
+    0.4942,
+    0.0513,
+    0.9018,
+    0.6982
+   ],
+   "source": "s0-col-right",
+   "id": "page-1945-d877e2c0e7d6:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "Under the article QUADRANT, is thewn the proper method of fixing that instrument exactly in the meridian: but where the obferver has no convenience of this kind, it will be proper to ufe a portable quadrant; by means of which the altitude of a flat must be observed a little before its paffage over the meridian, every minute, if profible, until its greateft or lealt altitude be had ; by which means; though we have not the true polition of the meridian, yet we know the meridian altitude of the flat. But although this method is very good, yet if a flat paffes by the meridian near the zenith, we cannot have its meridian altitude by repeated observations every minute, unlefs by chance ; becaufe in every minute of an hour, the altitude augments 15 minutes of a degree ; and in thefe kind of observations, the inconvenient filtration of the obferver, the variation of the flat's azimuth several de",
+   "bbox": [
+    0.4932,
+    0.6968,
+    0.9012,
+    0.9269
+   ],
+   "source": "s0-col-right",
+   "id": "page-1945-d877e2c0e7d6:b11"
+  },
+  {
+   "order": 12,
+   "class": "Page-footer",
+   "text": "grees",
+   "bbox": [
+    0.8496,
+    0.9261,
+    0.8967,
+    0.9413
+   ],
+   "source": "s0-col-right",
+   "id": "page-1945-d877e2c0e7d6:b12"
+  }
+ ]
+}

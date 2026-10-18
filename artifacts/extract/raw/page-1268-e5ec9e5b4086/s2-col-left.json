@@ -1,0 +1,114 @@
+{
+ "request": {
+  "key": "7334fc7809481be9167dc6d49f9fed16d770a959dbb890204a17bb4d5fc2707d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "447982362ed05b193d6655e461751056dfa487567e0f98b232e9fc6424acef7c",
+  "image_bytes": 1354916,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+  "variant": "s2-col-left",
+  "crop": [
+   0.0,
+   0.3345,
+   0.565,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.3345,
+    0.4177,
+    0.5533
+   ],
+   [
+    0.4177,
+    0.5009,
+    0.5533
+   ],
+   [
+    0.5009,
+    0.5841,
+    0.5533
+   ],
+   [
+    0.5841,
+    0.6673,
+    0.5533
+   ],
+   [
+    0.6673,
+    0.7504,
+    0.555
+   ],
+   [
+    0.7504,
+    0.8336,
+    0.5583
+   ],
+   [
+    0.8336,
+    0.9168,
+    0.56
+   ],
+   [
+    0.9168,
+    1.0,
+    0.5533
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1592,
+  "total_tokens": 2334,
+  "completion_tokens": 742,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.11,
+ "created_at": "2026-10-18T11:10:47+00:00",
+ "content": "<x_0.2783><y_0.0>NAXOS, or NAXIA, a considerable town, and capital of the Isle of Naxos, opposite the Isle of Paros, with a castle and two archbishops' sees, the one Greek and the other Latin. The greater part of the inhabitants are Greeks. Long. 25. 51. E. Lat. 37. 8. N.<x_0.9707><y_0.0922><class_Text>\n\n<x_0.2803><y_0.0828>NAYO, a small island in the Eastern Seas, near to the north coast of Celebes. Long. 124. 24. E. Lat. 1. 24. N.<x_0.9717><y_0.1289><class_Text>\n\n<x_0.2852><y_0.118>NAYRES are the nobility of the Malabar coast. We may with truth affirm that they are the oldest nobility in the world: for the most ancient writers mention them, and quote the law which permits the Nayre ladies to have several husbands, every one being allowed four.<x_0.9736><y_0.2219><class_Text>\n\n<x_0.2861><y_0.2102>NAZARETH, a town or village of Palestine, celebrat- ed in holy writ as the residence of our Saviour. It is si- tuated in a deep valley, on the side of a high hill, nearer to its summit than its base, and having a rocky eminence along it. It contains about 250 buildings of stone, a material always at hand. They are flat-roofed, generally of only one story, but sufficiently spacious for the accommodation of the numerous poor families by whom they are in-habited. The streets are steep and narrow, and, from the looseness of the soil, exceedingly dirty. Of the public buildings the mosque is the most conspicuous, and is a neat edifice. It is enclosed with a good wall of masonry, so that Mr Buckingham, who visited it, could only see one of its sides, on which there were five arches. It has a plain whitened minaret, surrounded by a gallery, and sur-mounted by a crescent. The Greeks have a church on the south-eastern edge of the town, at the foot of a hill; and the Maronites have also a church in front of a Fran-ciscan convent. This convent, Mr Buckingham mentions, is one of the largest and most commodious he had seen anywhere, being superior to those of Smyrna, Alexandria, or Cairo. It is still adorned with some precious remains of antiquity. Two antique shafts of red granite columns are used as portals to the door-way. Within is a court, and near the gate at its further extremity is the fragment of a shaft of another granite column, lying on the ground. White pillars form the portals of entrance to the original building, destroyed by the Turks ; and of these the remains are still to be seen. On the wall, both within and without, there are worked into the masonry several pieces of the old ruins, containing delicate sculptures of frize, cornices, capi-tals, &c. The gate leads to a large paved square, in which there are two wells, surmounted by the cross; and on the right hand is the hall for the reception of strangers and visitors. The interior is furnished with every convenience, in staircases, galleries, and apartments. Mr Buckingham mentions, that he supped in a hall below, of considerabl<x_0.999><y_0.9055><class_Text>",
+ "reply": {
+  "id": "chatcmpl-5d683f16-60b1-4303-9547-af3c30b174a4",
+  "object": "chat.completion",
+  "created": 1792321846,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.2783><y_0.0>NAXOS, or NAXIA, a considerable town, and capital of the Isle of Naxos, opposite the Isle of Paros, with a castle and two archbishops' sees, the one Greek and the other Latin. The greater part of the inhabitants are Greeks. Long. 25. 51. E. Lat. 37. 8. N.<x_0.9707><y_0.0922><class_Text>\n\n<x_0.2803><y_0.0828>NAYO, a small island in the Eastern Seas, near to the north coast of Celebes. Long. 124. 24. E. Lat. 1. 24. N.<x_0.9717><y_0.1289><class_Text>\n\n<x_0.2852><y_0.118>NAYRES are the nobility of the Malabar coast. We may with truth affirm that they are the oldest nobility in the world: for the most ancient writers mention them, and quote the law which permits the Nayre ladies to have several husbands, every one being allowed four.<x_0.9736><y_0.2219><class_Text>\n\n<x_0.2861><y_0.2102>NAZARETH, a town or village of Palestine, celebrat- ed in holy writ as the residence of our Saviour. It is si- tuated in a deep valley, on the side of a high hill, nearer to its summit than its base, and having a rocky eminence along it. It contains about 250 buildings of stone, a material always at hand. They are flat-roofed, generally of only one story, but sufficiently spacious for the accommodation of the numerous poor families by whom they are in-habited. The streets are steep and narrow, and, from the looseness of the soil, exceedingly dirty. Of the public buildings the mosque is the most conspicuous, and is a neat edifice. It is enclosed with a good wall of masonry, so that Mr Buckingham, who visited it, could only see one of its sides, on which there were five arches. It has a plain whitened minaret, surrounded by a gallery, and sur-mounted by a crescent. The Greeks have a church on the south-eastern edge of the town, at the foot of a hill; and the Maronites have also a church in front of a Fran-ciscan convent. This convent, Mr Buckingham mentions, is one of the largest and most commodious he had seen anywhere, being superior to those of Smyrna, Alexandria, or Cairo. It is still adorned with some precious remains of antiquity. Two antique shafts of red granite columns are used as portals to the door-way. Within is a court, and near the gate at its further extremity is the fragment of a shaft of another granite column, lying on the ground. White pillars form the portals of entrance to the original building, destroyed by the Turks ; and of these the remains are still to be seen. On the wall, both within and without, there are worked into the masonry several pieces of the old ruins, containing delicate sculptures of frize, cornices, capi-tals, &c. The gate leads to a large paved square, in which there are two wells, surmounted by the cross; and on the right hand is the hall for the reception of strangers and visitors. The interior is furnished with every convenience, in staircases, galleries, and apartments. Mr Buckingham mentions, that he supped in a hall below, of considerabl<x_0.999><y_0.9055><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1592,
+   "total_tokens": 2334,
+   "completion_tokens": 742,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

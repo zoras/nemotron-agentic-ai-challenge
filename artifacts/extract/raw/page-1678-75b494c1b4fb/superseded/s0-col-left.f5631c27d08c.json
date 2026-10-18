@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "f5631c27d08cd0466ee763988a3fee013b9876602246cd96d663f11ca8665db5",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "8a027a1161254a22763b74225b99e4b11ab34a22ee93cadb2fbce16b09ea06b9",
+  "image_bytes": 2036710,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1678",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.053,
+   0.4567,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.053,
+    0.1391,
+    0.4517
+   ],
+   [
+    0.1391,
+    0.2252,
+    0.4517
+   ],
+   [
+    0.2252,
+    0.3113,
+    0.4517
+   ],
+   [
+    0.3113,
+    0.3974,
+    0.4517
+   ],
+   [
+    0.3974,
+    0.4835,
+    0.4517
+   ],
+   [
+    0.4835,
+    0.5695,
+    0.4517
+   ],
+   [
+    0.5695,
+    0.6556,
+    0.4517
+   ],
+   [
+    0.6556,
+    0.7417,
+    0.4517
+   ],
+   [
+    0.7417,
+    0.8278,
+    0.4517
+   ],
+   [
+    0.8278,
+    0.9139,
+    0.4517
+   ],
+   [
+    0.9139,
+    1.0,
+    0.4517
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2057,
+  "completion_tokens": 513,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.78,
+ "created_at": "2026-10-18T11:11:08+00:00",
+ "content": "<x_0.0><y_0.0>Bilfinger. Edward, had already had occasion to appreciate his talents, and put them to use. At the time when he carried on the war in Servia, he maintained a regular correspondence with Bilfinger, who had long been known as an able Engineer, and had, indeed, made some improvements of value in the received system of Fortification. After his return to Tubingen, he had frequent conversations with the Professor on different subjects of administration, and appointed him, in 1735, Privy-Counselor. This nomination was not a simple honorary title. Bilfinger saw himself raised at once to a power almost unlimited. He resisted some time a promotion, which he did not think himself qualified to sustain. In accepting office, his first care was to acquire all the knowledge necessary to the discharge of its duties. He employed almost two years in assiduous labour to instruct himself thoroughly in the statistics of the country, in considering its political situation, its constitution, its interests, and became, at the end of all this study, one of the most enlightened mini-sters that his country had yet produced. Bilfinger was placed in a situation too elevated not to excite jealousy and hatred. He felt it, and wished to quit the ministry; but the court refused to receive his resignation, soon after the tender of which, the Duke died. Bilfinger experienced from his successor all the consideration and all the friendship which he had experienced in the beginning of his career. Received into a confidence without bounds, he had the power to realize, without obstacle, those plans of administration with which the most enlightened patriotism had inspired him. Wurtemberg still feels the happy influence of his ministry. Commerce, public instruction, agriculture, were protected and ame- liorated by his cares. The culture of the vine, of so much importance in this country, was one of the principal objects of his attention. We ought not to forget that he was the original author of that strict union which has long united Wurtemberg and Prussia, and of the importance to which the hereditary Prince of Wurtemberg was raised at the court of Berlin. In 1737, the Duke nominated him President of his consistory, and Secretary of the grand Order of the Chace. He was also Curator of the University of Tubingen, and member of the Royal Academy of<x_0.999><y_0.6438><class_Text>",
+ "reply": {
+  "id": "chatcmpl-1b3820cf-d93e-45cd-ba28-66d63620fb6f",
+  "object": "chat.completion",
+  "created": 1792321868,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>Bilfinger. Edward, had already had occasion to appreciate his talents, and put them to use. At the time when he carried on the war in Servia, he maintained a regular correspondence with Bilfinger, who had long been known as an able Engineer, and had, indeed, made some improvements of value in the received system of Fortification. After his return to Tubingen, he had frequent conversations with the Professor on different subjects of administration, and appointed him, in 1735, Privy-Counselor. This nomination was not a simple honorary title. Bilfinger saw himself raised at once to a power almost unlimited. He resisted some time a promotion, which he did not think himself qualified to sustain. In accepting office, his first care was to acquire all the knowledge necessary to the discharge of its duties. He employed almost two years in assiduous labour to instruct himself thoroughly in the statistics of the country, in considering its political situation, its constitution, its interests, and became, at the end of all this study, one of the most enlightened mini-sters that his country had yet produced. Bilfinger was placed in a situation too elevated not to excite jealousy and hatred. He felt it, and wished to quit the ministry; but the court refused to receive his resignation, soon after the tender of which, the Duke died. Bilfinger experienced from his successor all the consideration and all the friendship which he had experienced in the beginning of his career. Received into a confidence without bounds, he had the power to realize, without obstacle, those plans of administration with which the most enlightened patriotism had inspired him. Wurtemberg still feels the happy influence of his ministry. Commerce, public instruction, agriculture, were protected and ame- liorated by his cares. The culture of the vine, of so much importance in this country, was one of the principal objects of his attention. We ought not to forget that he was the original author of that strict union which has long united Wurtemberg and Prussia, and of the importance to which the hereditary Prince of Wurtemberg was raised at the court of Berlin. In 1737, the Duke nominated him President of his consistory, and Secretary of the grand Order of the Chace. He was also Curator of the University of Tubingen, and member of the Royal Academy of<x_0.999><y_0.6438><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2057,
+   "completion_tokens": 513,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

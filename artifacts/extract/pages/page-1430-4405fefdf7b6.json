@@ -1,0 +1,322 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1430",
+ "row_index": 1430,
+ "volume_id": "149979622",
+ "filename": "page-1430-4405fefdf7b6.jpg",
+ "image_sha256": "4405fefdf7b68a3c6472787e25922ed5125f57c753e650518ecdaaf630f59566",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09412,
+  "median_grey": 223,
+  "layout_body_chars": 6679,
+  "layout_pictures": 0
+ },
+ "running_head": "E G Y [ 368 ] E G Y",
+ "layout_raw": "page-1430-4405fefdf7b6/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0309,
+    1.0,
+    0.0624
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1430-4405fefdf7b6/head.json",
+   "finish_reason": "stop",
+   "request_key": "79fdedc901cd2670252932a370b2eb0cc56e85ebc8d1d364235422b21ff4963b"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0309,
+    0.5133,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0309,
+     0.1117,
+     0.5067
+    ],
+    [
+     0.1117,
+     0.1924,
+     0.5083
+    ],
+    [
+     0.1924,
+     0.2732,
+     0.5083
+    ],
+    [
+     0.2732,
+     0.3539,
+     0.5083
+    ],
+    [
+     0.3539,
+     0.4347,
+     0.5083
+    ],
+    [
+     0.4347,
+     0.5155,
+     0.5083
+    ],
+    [
+     0.5155,
+     0.5962,
+     0.5083
+    ],
+    [
+     0.5962,
+     0.677,
+     0.5083
+    ],
+    [
+     0.677,
+     0.7577,
+     0.5083
+    ],
+    [
+     0.7577,
+     0.8385,
+     0.5083
+    ],
+    [
+     0.8385,
+     0.9192,
+     0.5083
+    ],
+    [
+     0.9192,
+     1.0,
+     0.5083
+    ]
+   ],
+   "raw_path": "page-1430-4405fefdf7b6/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "d74b69850670293c6bbd3d872094d60b80ba8028e6997126f65fa725fbdcd36c"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5017,
+    0.0309,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0309,
+     0.1117,
+     0.5067
+    ],
+    [
+     0.1117,
+     0.1924,
+     0.5083
+    ],
+    [
+     0.1924,
+     0.2732,
+     0.5083
+    ],
+    [
+     0.2732,
+     0.3539,
+     0.5083
+    ],
+    [
+     0.3539,
+     0.4347,
+     0.5083
+    ],
+    [
+     0.4347,
+     0.5155,
+     0.5083
+    ],
+    [
+     0.5155,
+     0.5962,
+     0.5083
+    ],
+    [
+     0.5962,
+     0.677,
+     0.5083
+    ],
+    [
+     0.677,
+     0.7577,
+     0.5083
+    ],
+    [
+     0.7577,
+     0.8385,
+     0.5083
+    ],
+    [
+     0.8385,
+     0.9192,
+     0.5083
+    ],
+    [
+     0.9192,
+     1.0,
+     0.5083
+    ]
+   ],
+   "raw_path": "page-1430-4405fefdf7b6/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "d429c5e799f3f440b382075e29a0d43d80706f90cf6c7ad970c8c7fed57e942f"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Picture",
+   "text": "E G Y [ 368 ] E G Y",
+   "bbox": [
+    0.0,
+    0.0309,
+    1.0,
+    0.0624
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1430-4405fefdf7b6:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**EG Y** [ 36",
+   "bbox": [
+    0.2226,
+    0.037,
+    0.5083,
+    0.0597
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1430-4405fefdf7b6:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "_Egypt._",
+   "bbox": [
+    0.0446,
+    0.0581,
+    0.1093,
+    0.0855
+   ],
+   "source": "s0-col-left",
+   "id": "page-1430-4405fefdf7b6:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "over the continent, they had become a great and powerful people; and from their opposite difpositions and manners, became very frequently enemies to the Egyptians. To one Salatis our author afcribes the deftruction of Thebes in Upper Egypt, fo much celebrated by Homer for its magnificence. But this certainly cannot be the cafe; for Homer wrote long after the time of Jofeph: and we find that even then the Egyptians had the fhepherds in abhorrence, in all probability because they had been grievoufly oppreffed by them. Mr Bruce counts three invalions of thefe people; the first, that of Salatis already mentioned, who overthrew the first dynasty of Egyptian kings from Mesnes, and defroyed Thebes: the second was that of Sabasco or So; for according to him this was not the name of a fingle prince, but of a people, and figni-fics _fhepherds_ and the third, after the building of Memphis, where 240,000 of them were belieged as above mentioned. But accounts of this kind are evidently inconflitent in the highest degree; for how is it possible that the _third_ invasion, antecedent to the building of Jerufalem, could be polterior to the _fecond_, if the latter happened only in the days of Hezekiah?",
+   "bbox": [
+    0.1103,
+    0.0589,
+    0.4997,
+    0.3723
+   ],
+   "source": "s0-col-left",
+   "id": "page-1430-4405fefdf7b6:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "In thefe early ages, however, it would feem that the kingdom of Egypt had been very powerful and its dominion very widely extended; since we find it laid, that the _Batrians_ revolted from Olymandyas, another Egyptian king of very high antiquity, and of whole wealth the moti marvellous accounts are given.",
+   "bbox": [
+    0.1113,
+    0.3709,
+    0.5003,
+    0.4533
+   ],
+   "source": "s0-col-left",
+   "id": "page-1430-4405fefdf7b6:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "After an unknown interval of time from this monarch, reigned Sefotris. He was the first great warrior whose conquetis are recorded with any degree of difficultnefs. In what age of the world he lived, is uncertain. Some chronologers, among whom is Sir Haac Newton, are of opinion, that he is the Seface or Shihak, who took Jerufalem in the reign of Rehoboam the fan of Solomon. Others, however, place him much earlier; and Mr Whifton will have him to be the Pharaoh who refuted to part with the Ifraelites, and was at last drowned in the Red Sea. Mr Bryant endeavours to prove that no fuch perfon ever exilted; but that in his hiflory, as well as that of many ancient heroes, we have an abridgement of that of the Cufhites or Babylonians, who spread themselves over great part of the known world, and every where brought the people in fubjection to them. His reign is reckoned the most extraordinary part of the Egyptian history; and the following feems to be the lealt fabulous account that can be got of it. The father of Sefotris was told in a dream, by the god Vulcan, that his fon, who was then newly born, or perhaps fill unborn, should be lord of the whole earth. His father, upon the credit of this vifion, got together all the males in the land of Egypt that were born on the fame day with Sefotris; appointed nurties and proper perfons to take care of them, and had them treat ed like his own child; being perluaded that they who had been the confiant companions of his youth would prove the molt faithful miniliters and foldiers. As they grew up, they were injured to laborious exercises; and, in particular, were never permitted to take any food till they had performed a courte of 180 furlongs, upwards of 22 of our miles. When the old king imagined they were fufficiently educated in the martial way he deligued them to follow, they were fent by way No 110.",
+   "bbox": [
+    0.1108,
+    0.4519,
+    0.5088,
+    0.9545
+   ],
+   "source": "s0-col-left",
+   "id": "page-1430-4405fefdf7b6:b5"
+  },
+  {
+   "order": 6,
+   "class": "Head-fragment",
+   "text": "8 J E G Y",
+   "bbox": [
+    0.5056,
+    0.0362,
+    0.7796,
+    0.0581
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1430-4405fefdf7b6:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "of trial of their abilities against the Arabians. In this expedition Sefoftris proved fuccefsful, and in the end fubdued that people who had never before been conquered. He was sent to the weftward, and conquered the greatest part of Africa; nor could he be flopped in his career till he arrived at the Atlantic ocean. Whilst he was on this expedition, his father died; and then Sefoftris relolved to fulfil the prediction of Vulcan, by actually conquering the whole world. As he knew that this muft take up a long time, he prepared for his journey in the best manner poflible. The kingdom he divided into 36 provinces, and endeavoured to secure the affections of the people by gifts both of money and land. He forgave all who had been guilty of offences, and discharged the debts of all his foldiers. He then conflituted his brother Arais the fupreme regent; but forbad him to ufe the diadem, and commanded him to offer no injury to the queen or her children, and to abitain from the royal concu- bines. His army conflict of 600,000 foot, 24,000 horfe, and 27,000 chariots. Befides thefe land-forces, he had at fea two mighty fleets; one, according to Dio- dorus, of 400 fail. Of thefe fleets, one was deligned to make conquelts in the weft, and the other in the caft; and therefore the one was built on the Mediterranean and the other on the Red Sea. The first of thefe conquered Cyprus, the coaft of Phœnicia, and several of the islands called Cyclades: the other conquered all the coafts of the Red Sea; but its progrefs was flopped by floals and difficult places which the navigators could not pafs, fo that he feems not to have made many conquelts by fea.",
+   "bbox": [
+    0.5061,
+    0.0589,
+    0.8969,
+    0.4928
+   ],
+   "source": "s0-col-right",
+   "id": "page-1430-4405fefdf7b6:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "With the land-forces Sefoftris marched againlt the Ethiopians and Troglodites; whom he overcame, and obliged them to pay him a tribute of gold, cbony, and ivory. From thence he proceeded as far as the pro- montory of Dira, which lay near the fruits of Babel- mandel, where he fet up a pillar with an infeription in faced characters. He then marched on to the country where cinnamon grows, or at least to fome country where cinnamon at that time was brought, probably fome place in India; and here he in like manner fet up pillars, which were to be feen for many ages after. As to his farther conquelts, it is agreed by almost all authors of antiquity, that he over-ran and pillaged the whole continent of Afia, and fome part of Europe. He croffed the Ganges, and erected pillars on its banks; and from thence he is laid to have marched eastward to the very extremity of the Afiatic continent. Returning from thence, he invaded the Sey- thians and Thracians; but all authors do not agree that he conquered them. Some even affirm, that he was overthrown by them with great slaughter, and obliged to abandon a great part of his booty and military forces. But whether he had good or bad fuc- cefs in thefe parts, it is a common opinion that he feltled a colony in Colchis. Herodotus, however, who gives the most particular account of the conquelts of this monarch, does not fay whether the colony was delignedly planted by Sefoftris; or whether part of his army loitered behind the reft, and took up their residence in that region. From his own knowledge, he affects, that the inhabitants of that country were undoubtedly of Egyptian defecent. This was evident from the perfonal refemblance they bore to the Egyp",
+   "bbox": [
+    0.5119,
+    0.492,
+    0.8997,
+    0.9387
+   ],
+   "source": "s0-col-right",
+   "id": "page-1430-4405fefdf7b6:b8"
+  },
+  {
+   "order": 9,
+   "class": "Margin-note",
+   "text": "Egypt.",
+   "bbox": [
+    0.8886,
+    0.0574,
+    0.9635,
+    0.0847
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-1430-4405fefdf7b6:b9"
+  }
+ ]
+}

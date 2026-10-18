@@ -1,0 +1,385 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2524",
+ "row_index": 2524,
+ "volume_id": "193638940",
+ "filename": "page-2524-beb66523a80a.jpg",
+ "image_sha256": "beb66523a80a02350493c079931f33a6d09311680beafefe622c7f08c04a74c3",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.11765,
+  "median_grey": 219,
+  "layout_body_chars": 7534,
+  "layout_pictures": 0
+ },
+ "running_head": "408 HINDUSTAN.",
+ "layout_raw": "page-2524-beb66523a80a/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0216,
+    1.0,
+    0.0507
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2524-beb66523a80a/head.json",
+   "finish_reason": "stop",
+   "request_key": "920ccc07695070e35c2c8a38fe7a1edc787a16a15c82b2bb694b2a6e524a8654"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0216,
+    0.545,
+    0.8062
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0216,
+     0.1088,
+     0.54
+    ],
+    [
+     0.1088,
+     0.196,
+     0.5333
+    ],
+    [
+     0.196,
+     0.2831,
+     0.5333
+    ],
+    [
+     0.2831,
+     0.3703,
+     0.5333
+    ],
+    [
+     0.3703,
+     0.4575,
+     0.5333
+    ],
+    [
+     0.4575,
+     0.5447,
+     0.5333
+    ],
+    [
+     0.5447,
+     0.6318,
+     0.5333
+    ],
+    [
+     0.6318,
+     0.719,
+     0.5333
+    ],
+    [
+     0.719,
+     0.8062,
+     0.5333
+    ]
+   ],
+   "raw_path": "page-2524-beb66523a80a/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "1bbf85d3db3461af04f97e8b95b7c632ddcb9c751964f0c37a9d06fe0dd525d3"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5283,
+    0.0216,
+    1.0,
+    0.8062
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0216,
+     0.1088,
+     0.54
+    ],
+    [
+     0.1088,
+     0.196,
+     0.5333
+    ],
+    [
+     0.196,
+     0.2831,
+     0.5333
+    ],
+    [
+     0.2831,
+     0.3703,
+     0.5333
+    ],
+    [
+     0.3703,
+     0.4575,
+     0.5333
+    ],
+    [
+     0.4575,
+     0.5447,
+     0.5333
+    ],
+    [
+     0.5447,
+     0.6318,
+     0.5333
+    ],
+    [
+     0.6318,
+     0.719,
+     0.5333
+    ],
+    [
+     0.719,
+     0.8062,
+     0.5333
+    ]
+   ],
+   "raw_path": "page-2524-beb66523a80a/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "09d68abd8a9d453ace6f14e10f6d554ae1f6df41e77dcb44329512418b4ed7ec"
+  },
+  {
+   "label": "s1-wide",
+   "crop": [
+    0.0,
+    0.8062,
+    1.0,
+    0.9298
+   ],
+   "scale": 2,
+   "raw_path": "page-2524-beb66523a80a/s1-wide.json",
+   "finish_reason": "stop",
+   "request_key": "5e5a001a68d78780694809b810e5caf86d689bfd25fc9da71f77227b7d7af7b5"
+  },
+  {
+   "label": "s2-col-left",
+   "crop": [
+    0.0,
+    0.9298,
+    0.5383,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.9298,
+     1.0,
+     0.5333
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  },
+  {
+   "label": "s2-col-right",
+   "crop": [
+    0.5283,
+    0.9298,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.9298,
+     1.0,
+     0.5333
+    ]
+   ],
+   "raw_path": "page-2524-beb66523a80a/s2-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "fd9a79bb36b0da6540d79979fef65256a2f32887e79cf6730b04cd21e0d03644"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "408 HINDUSTAN.",
+   "bbox": [
+    0.0,
+    0.0216,
+    1.0,
+    0.0507
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2524-beb66523a80a:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "408",
+   "bbox": [
+    0.0516,
+    0.0283,
+    0.0953,
+    0.0467
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2524-beb66523a80a:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "**HINDU**",
+   "bbox": [
+    0.4125,
+    0.0265,
+    0.5445,
+    0.0486
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-2524-beb66523a80a:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "**Hindustan** as the most shocking of crimes, by burning on a heated plate of iron; or against the lower tribes, in whom adultery with a Brahmin woman is considered as the climax of human depravity, scarcely to be avenged by any punishment, however dreadful. On the other hand, crimes committed by the higher classes against the lower are very slightly punished; the scale of punishment being in all cases graduated in an inverse ratio to the rank of the of- fenders.",
+   "bbox": [
+    0.0511,
+    0.051,
+    0.5317,
+    0.1626
+   ],
+   "source": "s0-col-left",
+   "id": "page-2524-beb66523a80a:b3"
+  },
+  {
+   "order": 4,
+   "class": "Caption",
+   "text": "Architecture.",
+   "bbox": [
+    0.0537,
+    0.1632,
+    0.1171,
+    0.1871
+   ],
+   "source": "s0-col-left",
+   "id": "page-2524-beb66523a80a:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "In architecture, in the fine arts, in painting and music, the Hindus are greatly inferior to the Europeans. The pagodas, the tombs, and other structures, the only remaining specimens of their architecture, are, according to some, more remarkable for the magnitude of their dimensions than for their just proportions or fine taste. \"The columns and pillars,\" says Tennant, \" which adorn their immense pagodas, are destitute of any fixed proportions ; and the edifices themselves are subjected to no rules of architecture.\" He afterwards adds, that the celebrated mausoleum at Agra has little to boast of either in simplicity or elegance of design. \"The immensity of its size, its costly ornaments, and the minute exactness of its decorations in particular parts, are worthy of notice; but they afford much stronger proofs of the wealth and magnificence of Shah Jehan, than the correctness of its taste.\" The tombs and religious edifices of Hindustan are, on the other hand, highly commended by Bishop Heber for delicacy, beauty, and taste. The mausoleum at Agra he celebrates as the most splendid building, in its way, that he had seen in India.' Humaion's tomb at Delhi he also praises as a noble building of granite, inlaid with marble, and in a very chaste and simple style of Gothic architecture; and of the imanbara or cathedral at Lucknow he remarks, \"The whole is in a very noble style of eastern Gothic, and, when taken in conjunction with the Roumi Durwazu which adjoins it, I have never seen an architectural view which pleased me more, from its richness and variety, as well as the proportions and general good taste of its principal features.\"2 There seems no doubt, from the splendid structures that are still found in different parts of Hindustan, that architecture and the kindred arts had flourished amongst the Hindus of a remoter age; though it is mentioned by Colonel Todd, that very few good specimens of the art have been executed within the last 700 years. His description, however, of the splendid Jain temples at Ajmeer and other parts, some of them erected long prior to the Christian era, and distinguished alike by chasteness and beauty of design, and by rich and exquisite finishing, must convince the most incredulous, that in these remote times the arts had made great progress in Hindustan. These structures are not merely monuments of labour, but of taste; they evince the perfection of art; and in symmetry, beauty of proportion, unity of design, and splendid ornament, they rival the noblest productions of classical Europe. The history of the people who have raised these structures presents a wide field for antiquarian research, on which Colonel Todd has entered with the brilliant promise of interesting results; and to his learned inquiries and cloquent and poetical descriptions",
+   "bbox": [
+    0.1166,
+    0.162,
+    0.5327,
+    0.7872
+   ],
+   "source": "s0-col-left",
+   "id": "page-2524-beb66523a80a:b5"
+  },
+  {
+   "order": 6,
+   "class": "Head-fragment",
+   "text": "ST A N.",
+   "bbox": [
+    0.5472,
+    0.0271,
+    0.6568,
+    0.0486
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2524-beb66523a80a:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "we refer for a further account of those ancient monuments Hindus of Hindu art.<sup>3</sup>",
+   "bbox": [
+    0.5384,
+    0.0498,
+    0.9871,
+    0.0792
+   ],
+   "source": "s0-col-right",
+   "id": "page-2524-beb66523a80a:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "Of the Hindu paintings the chief merit is brilliancy of Painth colour, rather than taste in the design or liveliness of expression. They imitate most exactly, and are excellent draughtsmen; and they draw specimens of natural history with much neatness and accuracy. \"The laborious exactness with which they imitate every feather of a bird,\" says Tennant, \"or the smallest fibre on the leaf of a plant, renders them valuable assistants in this department; but farther than this they cannot advance one step. If your bird is to be placed on a rock or upon the branch of a tree, the draughtsman is at a stand ; the object is not before him, and he can' supply nothing.\" Since this period, however, the Hindus have made great advances in the art of painting ; and some of their portraits display taste and expression that would not discredit European artists.",
+   "bbox": [
+    0.5371,
+    0.0743,
+    0.9447,
+    0.2619
+   ],
+   "source": "s0-col-right",
+   "id": "page-2524-beb66523a80a:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "The music of the Hindus is rude and inharmonious. Music They have numerous instruments, but those are preferred which make most noise; the beating of the great drum is reckoned an emblem of sovereign power.",
+   "bbox": [
+    0.5375,
+    0.2576,
+    0.9438,
+    0.311
+   ],
+   "source": "s0-col-right",
+   "id": "page-2524-beb66523a80a:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "The literature of the Hindus has been generally rated Literat very low by European writers, and has been represented as consisting in long desultory poems, inflated and extrava-gant in their style, containing, under the idea of a history, a tissue of absurd fables, interspersed with passages or episodes that are tender and passionate, and possess all the sweetness of pastoral poetry. They are said to be totally destitute of historical annals, and their geogra-phy is a mass of errors. Nor has their astronomy those claims to antiquity which were at first allowed. Accurate inquiry has proved this science to be in its infancy amongst them.<sup>5</sup> The want of historical records by the Hindus is strongly denied by Colonel Todd, who has himself composed a history of the Rajpoots from native works, which he found in the libraries of their princes, and he asserts that in those depositories of Hindu literature many more works exist, which would reward the researches of the learned. \"The works of the native bards,\" he observes, \" afford many valuable data in facts, incidents, religious opinions, and traits of manners.\" \" In the heroic history of Pirthi-raj, by Chund,\" he adds, \" there occur many geographical as well as historical details, in the description of his sovereign's wars, of which the bard was an eye-witness, having been his friend, his herald, his ambas-sador, and finally discharging the melancholy office of accessory to his death, that he might save him from disho-nour.\" The Brahminical accounts of the endowments of temples, of their dilapidation and repairs, supply historical and chronological details; also the legends respecting places of pilgrimage and religious resort. Much historial information lies hid in the controversial records of the Jains; and, says Colonel Todd, \" those different records, works of mixed historical and geographical character, which I know to exist, _rasahs_ or poetical legends of princes, which are common, local _puranas_, religious comments and traditionary couplets, with authorities of less dubious character, namely, inscriptions cut on rocks, coins, copperplate grants, containing charters of immunities, and expressing many singular features of civil government,",
+   "bbox": [
+    0.532,
+    0.3073,
+    0.9442,
+    0.7896
+   ],
+   "source": "s0-col-right",
+   "id": "page-2524-beb66523a80a:b10"
+  },
+  {
+   "order": 11,
+   "class": "Footnote",
+   "text": "1 The following is his description of this monument of Hindu art :-\" It stands in a square area of about forty English acres, en- closed by an embattled wall, with octagonal towers at the angles, surmounted by open pavilions, and four very noble gateways of red granite, the principal of which is inland with white marble, and has four high marble minarets. The space within is planted with trees, and divided into green alleys, leading to the central building, which is a sort of solid pyramid, surrounded externally with clois- ters, galleries, and domes, diminishing gradually in ascending it, till it ends in a square platform of white marble, surrounded by most elaborate lattice work of the same material, in the centre of which is a small altar tomb, also of white marble, carved with a delicacy and beauty which do full justice to the material, and to the graceful forms of Arabic characters, which form the chief ema- ment.\"",
+   "bbox": [
+    0.1123,
+    0.8062,
+    0.9404,
+    0.9292
+   ],
+   "source": "s1-wide",
+   "id": "page-2524-beb66523a80a:b11"
+  },
+  {
+   "order": 12,
+   "class": "Picture",
+   "text": "",
+   "bbox": [
+    0.5283,
+    0.9298,
+    0.9991,
+    0.9996
+   ],
+   "source": "s2-col-right",
+   "id": "page-2524-beb66523a80a:b12"
+  }
+ ]
+}

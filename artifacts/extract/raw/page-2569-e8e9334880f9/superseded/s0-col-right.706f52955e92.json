@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "706f52955e92a61831ffdf99754290866c7178457c506bcf83b04bad49c769b4",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9451d1e51f14d0abb7ad7c1ff6b36446a7ce283161f6ea21adab7f9ab571742e",
+  "image_bytes": 2297372,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2569",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4633,
+   0.0702,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0702,
+    0.1547,
+    0.4767
+   ],
+   [
+    0.1547,
+    0.2393,
+    0.4767
+   ],
+   [
+    0.2393,
+    0.3238,
+    0.4767
+   ],
+   [
+    0.3238,
+    0.4083,
+    0.4767
+   ],
+   [
+    0.4083,
+    0.4928,
+    0.4767
+   ],
+   [
+    0.4928,
+    0.5774,
+    0.4767
+   ],
+   [
+    0.5774,
+    0.6619,
+    0.475
+   ],
+   [
+    0.6619,
+    0.7464,
+    0.47
+   ],
+   [
+    0.7464,
+    0.8309,
+    0.47
+   ],
+   [
+    0.8309,
+    0.9155,
+    0.4683
+   ],
+   [
+    0.9155,
+    1.0,
+    0.4783
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2817,
+  "completion_tokens": 889,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.59,
+ "created_at": "2026-10-18T11:12:04+00:00",
+ "content": "<x_0.0186><y_0.0>dag already mentioned, we meet with nothing re- markable in the Ethiopic history. He engaged in a war with the Homerites or Sabeans in Arabia Felix, whom he overthrow in battle, and put an end to their kingdom; after which he embraced the Christian religion in token of gratitude for the success he had met with. In the time of this prince a violent persecution of the Christians took place in Arabia. The Jewish religion had now spread itself far into that peninsula; and in many places the professors of it were become absolute masters of the country, insomuch that several Jewish principalities had been erected, the sovereigns of which commenced a severe persecution against the Christians. Among the rest, one Phineas distinguished himself by his cruelty, having prepared a great number of furnaces or pits filled with fire, into which he threw those who refused to renounce Christianity. The Christians applied for relief to the emperor Justin; but he being at that time engaged in a war with the Persians, could not interfere; however, in the year 522, he sent an embassy to Elesban, who was now also a member of the Greek church, intreating him to exert himself for the relief of the Christians of Ara- bia. On this the emperor commanded his general A- breha, governor of the Arabian province Yemen, to march to the assistance of Aretas, son to a prince of the same name whom Phineas had burnt; while he himself prepared to follow with a more considerable force. But before the arrival of the Ethiopian mo- narch, young Aretas had marched against Phineas, and entirely defeated him. In a short time afterwards the emperor himself arrived, and gave Phineas a second defeat; but notwithstanding these misfortunes, it does not appear that either the principality of Phineas or any of the other Jewish ones, was at this time overturned, though it seems to be certain, that at the time we speak of, the Ethiopians possessed part of the Arabian peninsula. According to the Arabian historians, the war of the elephant, with the miraculous destruction of the Ethiopian army, already mentioned, took place in the reign of Elesbaan.<x_0.8457><y_0.5781><class_Text>\n\n<x_0.0117><y_0.5758>Some historians mention, that the Ethiopian monarchs embraced the doctrines of Mahomet soon after the impostor made his appearance; but this seems not to be well-founded; though it is certain that the Na- jashi or Ethiopian governor of Yemen embraced Ma- hometanism, and that he was related to the royal family. On this occasion, however, the Ethiopians lost all the footing they once had in Arabia; the governors being expelled by Mahomet and his successors. They fled to the African side of the Red sea with numbers of their subjects, where they erected several small king- doms, as Adel, Wypo, Hadea, Mara, and others, which still continue.<x_0.7295><y_0.7617><class_Text>\n\n<x_0.0059><y_0.7609>During the conquests of the caliphs, the Jews were for some time everywhere driven out of their domi- nions, or oppressed to such a degree that they voluntarily left them. Ethiopia offered them an asylum: and in this country they became so powerful, that a revolution in favour of Judaism seemed ready to take place. One family had always preserved an indepen dent sovereignty on a mountain called Samen, the royal residence being on the top of a high rock; and several other high and rugged mountains were used by hat people as natural fortresses. Becoming by de-<x_0.7158><y_0.9219><class_Text>\n\n<x_0.7324><y_0.0>Abyssinia. Reconver- sion to Christianity under Eles- baan. Christians persecuted in Arabia.<x_0.8701><y_0.1195><class_Caption>\n\n<x_0.7314><y_0.1781>Cruelty of Phineas a Jewish prince.<x_0.8525><y_0.2297><class_Caption>\n\n<x_0.7256><y_0.3922>He is de- feated.<x_0.8438><y_0.4219><class_Text>\n\n<x_0.7217><y_0.7109>Ethiopians driven out of Arabic.<x_0.8467><y_0.7516><class_Caption>\n\n<x_0.7139><y_0.807>Number of Jews in Ethiopia inc created.<x_0.8447><y_0.8594><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-fdec37d6-fd4f-4544-9688-671cfea8d24f",
+  "object": "chat.completion",
+  "created": 1792321923,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0186><y_0.0>dag already mentioned, we meet with nothing re- markable in the Ethiopic history. He engaged in a war with the Homerites or Sabeans in Arabia Felix, whom he overthrow in battle, and put an end to their kingdom; after which he embraced the Christian religion in token of gratitude for the success he had met with. In the time of this prince a violent persecution of the Christians took place in Arabia. The Jewish religion had now spread itself far into that peninsula; and in many places the professors of it were become absolute masters of the country, insomuch that several Jewish principalities had been erected, the sovereigns of which commenced a severe persecution against the Christians. Among the rest, one Phineas distinguished himself by his cruelty, having prepared a great number of furnaces or pits filled with fire, into which he threw those who refused to renounce Christianity. The Christians applied for relief to the emperor Justin; but he being at that time engaged in a war with the Persians, could not interfere; however, in the year 522, he sent an embassy to Elesban, who was now also a member of the Greek church, intreating him to exert himself for the relief of the Christians of Ara- bia. On this the emperor commanded his general A- breha, governor of the Arabian province Yemen, to march to the assistance of Aretas, son to a prince of the same name whom Phineas had burnt; while he himself prepared to follow with a more considerable force. But before the arrival of the Ethiopian mo- narch, young Aretas had marched against Phineas, and entirely defeated him. In a short time afterwards the emperor himself arrived, and gave Phineas a second defeat; but notwithstanding these misfortunes, it does not appear that either the principality of Phineas or any of the other Jewish ones, was at this time overturned, though it seems to be certain, that at the time we speak of, the Ethiopians possessed part of the Arabian peninsula. According to the Arabian historians, the war of the elephant, with the miraculous destruction of the Ethiopian army, already mentioned, took place in the reign of Elesbaan.<x_0.8457><y_0.5781><class_Text>\n\n<x_0.0117><y_0.5758>Some historians mention, that the Ethiopian monarchs embraced the doctrines of Mahomet soon after the impostor made his appearance; but this seems not to be well-founded; though it is certain that the Na- jashi or Ethiopian governor of Yemen embraced Ma- hometanism, and that he was related to the royal family. On this occasion, however, the Ethiopians lost all the footing they once had in Arabia; the governors being expelled by Mahomet and his successors. They fled to the African side of the Red sea with numbers of their subjects, where they erected several small king- doms, as Adel, Wypo, Hadea, Mara, and others, which still continue.<x_0.7295><y_0.7617><class_Text>\n\n<x_0.0059><y_0.7609>During the conquests of the caliphs, the Jews were for some time everywhere driven out of their domi- nions, or oppressed to such a degree that they voluntarily left them. Ethiopia offered them an asylum: and in this country they became so powerful, that a revolution in favour of Judaism seemed ready to take place. One family had always preserved an indepen dent sovereignty on a mountain called Samen, the royal residence being on the top of a high rock; and several other high and rugged mountains were used by hat people as natural fortresses. Becoming by de-<x_0.7158><y_0.9219><class_Text>\n\n<x_0.7324><y_0.0>Abyssinia. Reconver- sion to Christianity under Eles- baan. Christians persecuted in Arabia.<x_0.8701><y_0.1195><class_Caption>\n\n<x_0.7314><y_0.1781>Cruelty of Phineas a Jewish prince.<x_0.8525><y_0.2297><class_Caption>\n\n<x_0.7256><y_0.3922>He is de- feated.<x_0.8438><y_0.4219><class_Text>\n\n<x_0.7217><y_0.7109>Ethiopians driven out of Arabic.<x_0.8467><y_0.7516><class_Caption>\n\n<x_0.7139><y_0.807>Number of Jews in Ethiopia inc created.<x_0.8447><y_0.8594><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2817,
+   "completion_tokens": 889,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

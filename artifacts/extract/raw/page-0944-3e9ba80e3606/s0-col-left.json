@@ -1,0 +1,84 @@
+{
+ "request": {
+  "key": "5d21292a243cd21e43862ecf0b17ba0c58d4ce81daf839e16a09ffae149be765",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "0023d84cab9f0a3869df1f7aae39d275c27efb0bf64ded3229f740e4637e29cb",
+  "image_bytes": 408040,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:944",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0114,
+   0.47,
+   0.1929
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0114,
+    0.1021,
+    0.465
+   ],
+   [
+    0.1021,
+    0.1929,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 386,
+  "total_tokens": 561,
+  "completion_tokens": 175,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.3,
+ "created_at": "2026-10-18T11:19:42+00:00",
+ "content": "<x_0.0><y_0.0>M E A I\n\nMeafure. cobre; ten whereof are equal to three Paris ells. In Perfia, and fome parts of the Indies, the gueze, whereof there are two kinds; the royal gueze, called alfo the _gueze monkelfer_, containing two Paris feet ten inches eleven lines, or four-fifths of the Paris cll; and the thorter gueze, called limply _gueze_, only two thirds of the former. At Goa and Ormuz, the meafure is the vara, the fame with that of the Portuguefe, having been introduced by them. In Pegu, and fome other parts of the Indies, the cando or candi, equal to<x_0.999><y_0.9992><class_Text>",
+ "reply": {
+  "id": "chatcmpl-74d33536-2c4c-4be8-ada1-082887f20ef6",
+  "object": "chat.completion",
+  "created": 1792322382,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>M E A I\n\nMeafure. cobre; ten whereof are equal to three Paris ells. In Perfia, and fome parts of the Indies, the gueze, whereof there are two kinds; the royal gueze, called alfo the _gueze monkelfer_, containing two Paris feet ten inches eleven lines, or four-fifths of the Paris cll; and the thorter gueze, called limply _gueze_, only two thirds of the former. At Goa and Ormuz, the meafure is the vara, the fame with that of the Portuguefe, having been introduced by them. In Pegu, and fome other parts of the Indies, the cando or candi, equal to<x_0.999><y_0.9992><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 386,
+   "total_tokens": 561,
+   "completion_tokens": 175,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

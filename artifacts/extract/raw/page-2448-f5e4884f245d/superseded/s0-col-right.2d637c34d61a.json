@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "2d637c34d61a7c0c49d14962dd3704391974bfa70c22323efedd1f269ee42ec8",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "a10fae4f0582e2bf81ee3ea18959722077d1271139558777abb8668ae133ede2",
+  "image_bytes": 2432172,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2448",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4567,
+   0.0514,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0514,
+    0.1376,
+    0.465
+   ],
+   [
+    0.1376,
+    0.2239,
+    0.48
+   ],
+   [
+    0.2239,
+    0.3101,
+    0.465
+   ],
+   [
+    0.3101,
+    0.3963,
+    0.4667
+   ],
+   [
+    0.3963,
+    0.4826,
+    0.465
+   ],
+   [
+    0.4826,
+    0.5688,
+    0.4783
+   ],
+   [
+    0.5688,
+    0.6551,
+    0.465
+   ],
+   [
+    0.6551,
+    0.7413,
+    0.465
+   ],
+   [
+    0.7413,
+    0.8275,
+    0.4617
+   ],
+   [
+    0.8275,
+    0.9138,
+    0.4617
+   ],
+   [
+    0.9138,
+    1.0,
+    0.4767
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2763,
+  "completion_tokens": 963,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.61,
+ "created_at": "2026-10-18T11:11:55+00:00",
+ "content": "<x_0.0088><y_0.0>difpenfibly demanded by the native dignity of heroic fong? How much nobler, if he had reflted the temptation of that Gothic demon, which modern poefy tafing, became mortal? O how unlike the deathlefs, divine harmony of three great names (how juffly joined!) of Milton, Greece, and Rome? His verfe, but for his little eck of mortality, in its extreme parts, as his hero had his heel; like him, had been invulnerable, and immorl. But, unfortunately, that was undipt in Helicon ; this in Styx. Harmony as well as cloquence is effenal to poefy; and a murder of his mufic is putting half oomer to death. _Blank_ is a term of diminution ; what we mean by blank verfe is, verfe unfallen, uncurft ; verfe reclaimed, reinthroned in the true _language of the gods_; who never thundered, nor fluffered their Homer to thunder in rhime.<x_0.793><y_0.2336><class_Text>\n\n<x_0.0117><y_0.2328>But fuppofing Pope’s Iliad to have been perfect in its kind ; yet it is a _travflation_ filll; which differs as much from an _original_, as the moon from the fun.<x_0.79><y_0.2797><class_Text>\n\n<x_0.0127><y_0.2773>But as nothing is more cafy than to write originally wrong; originals are not here recommended, but under the throng guard of the firlt rule,--_Know thyfel._ Lu-cian, who was an original, neglected not this rule, if we may judge by his reply to one who took fome freedom with him. He was at firt an apprentice to a flatuary; and when he was reflected on as fuch, by being called _Prometheus_, he replied, \"I am indeed the inventor of a new work, the model of which I owe to none; and, if I do not execute it well, I deferve to be torn by twelve vultures, inflead of one.\"<x_0.791><y_0.4391><class_Text>\n\n<x_0.0322><y_0.4375>Bacon fays, \" Men feck not to know their own flock, and abilities ; but fancy their pollefilions to be greater, and their abilities lefs, than they really are.\" Which in effect faying, \" That we ought to exert more than we do; and that, on exertion, our probability of fuccefs a greater than we conceive.\"<x_0.7891><y_0.5281><class_Text>\n\n<x_0.0137><y_0.525>Nor have we Bacon's opinion only, but his affiitance too, a favour of originals. His mighty mind travelled round the intellectual world; and, with a more than eagle's eye, flaw, and has pointed out, blank spaces, or dark fpots in it, on which the human mind never flone: fome of thefe have been enlightened fince; fome are benighted filll.<x_0.7881><y_0.6172><class_Text>\n\n<x_0.0107><y_0.6133>Moreover, fo boundlefs are the bold excursions of the human mind, that in the vaft void beyond real exiffence, it can call forth shadowy beings, and unknown worlds, as numerous, as bright, and perhaps as lafling as the stars ; fuch quite-original beauties we may call paradical,<x_0.7871><y_0.7031><class_Text>\n\n<x_0.083><y_0.7008>_Natos fine femine floorer._<x_0.4229><y_0.7188><class_Section-header>\n\n<x_0.6484><y_0.7039>OVID.<x_0.7461><y_0.7195><class_Section-header>\n\n<x_0.0078><y_0.7141>When fuch an ample area for renowned adventure in _original_ attempts lies before us, fhall we be as mere leaden pipes, conveying to the prefent age fmall fireams of excellence from its grand reservoir in antiquity; and thofe too perhaps mudded in the pafs? Originals hine like co- mets ; have no peer in their path ; are rivalled by none, and the gaze of all : all other compotitions (if they hine at all) hine in clufters ; like the flars in the galaxy ; where, like bad neighbours, all suffer from all ; each particular being diminified, and almofl loft in the throng.<x_0.7822><y_0.8672><class_Text>\n\n<x_0.0068><y_0.8609>If thoughts of this nature prevailed ; if ancients and moderos were no longer confidered as matters and pupils,<x_0.7812><y_0.8969><class_Text>\n\n<x_0.3545><y_0.893>3 T<x_0.4209><y_0.9094><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-51337cef-abc7-42f9-ae4e-d7cdd5aaaaf9",
+  "object": "chat.completion",
+  "created": 1792321913,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0088><y_0.0>difpenfibly demanded by the native dignity of heroic fong? How much nobler, if he had reflted the temptation of that Gothic demon, which modern poefy tafing, became mortal? O how unlike the deathlefs, divine harmony of three great names (how juffly joined!) of Milton, Greece, and Rome? His verfe, but for his little eck of mortality, in its extreme parts, as his hero had his heel; like him, had been invulnerable, and immorl. But, unfortunately, that was undipt in Helicon ; this in Styx. Harmony as well as cloquence is effenal to poefy; and a murder of his mufic is putting half oomer to death. _Blank_ is a term of diminution ; what we mean by blank verfe is, verfe unfallen, uncurft ; verfe reclaimed, reinthroned in the true _language of the gods_; who never thundered, nor fluffered their Homer to thunder in rhime.<x_0.793><y_0.2336><class_Text>\n\n<x_0.0117><y_0.2328>But fuppofing Pope’s Iliad to have been perfect in its kind ; yet it is a _travflation_ filll; which differs as much from an _original_, as the moon from the fun.<x_0.79><y_0.2797><class_Text>\n\n<x_0.0127><y_0.2773>But as nothing is more cafy than to write originally wrong; originals are not here recommended, but under the throng guard of the firlt rule,--_Know thyfel._ Lu-cian, who was an original, neglected not this rule, if we may judge by his reply to one who took fome freedom with him. He was at firt an apprentice to a flatuary; and when he was reflected on as fuch, by being called _Prometheus_, he replied, \"I am indeed the inventor of a new work, the model of which I owe to none; and, if I do not execute it well, I deferve to be torn by twelve vultures, inflead of one.\"<x_0.791><y_0.4391><class_Text>\n\n<x_0.0322><y_0.4375>Bacon fays, \" Men feck not to know their own flock, and abilities ; but fancy their pollefilions to be greater, and their abilities lefs, than they really are.\" Which in effect faying, \" That we ought to exert more than we do; and that, on exertion, our probability of fuccefs a greater than we conceive.\"<x_0.7891><y_0.5281><class_Text>\n\n<x_0.0137><y_0.525>Nor have we Bacon's opinion only, but his affiitance too, a favour of originals. His mighty mind travelled round the intellectual world; and, with a more than eagle's eye, flaw, and has pointed out, blank spaces, or dark fpots in it, on which the human mind never flone: fome of thefe have been enlightened fince; fome are benighted filll.<x_0.7881><y_0.6172><class_Text>\n\n<x_0.0107><y_0.6133>Moreover, fo boundlefs are the bold excursions of the human mind, that in the vaft void beyond real exiffence, it can call forth shadowy beings, and unknown worlds, as numerous, as bright, and perhaps as lafling as the stars ; fuch quite-original beauties we may call paradical,<x_0.7871><y_0.7031><class_Text>\n\n<x_0.083><y_0.7008>_Natos fine femine floorer._<x_0.4229><y_0.7188><class_Section-header>\n\n<x_0.6484><y_0.7039>OVID.<x_0.7461><y_0.7195><class_Section-header>\n\n<x_0.0078><y_0.7141>When fuch an ample area for renowned adventure in _original_ attempts lies before us, fhall we be as mere leaden pipes, conveying to the prefent age fmall fireams of excellence from its grand reservoir in antiquity; and thofe too perhaps mudded in the pafs? Originals hine like co- mets ; have no peer in their path ; are rivalled by none, and the gaze of all : all other compotitions (if they hine at all) hine in clufters ; like the flars in the galaxy ; where, like bad neighbours, all suffer from all ; each particular being diminified, and almofl loft in the throng.<x_0.7822><y_0.8672><class_Text>\n\n<x_0.0068><y_0.8609>If thoughts of this nature prevailed ; if ancients and moderos were no longer confidered as matters and pupils,<x_0.7812><y_0.8969><class_Text>\n\n<x_0.3545><y_0.893>3 T<x_0.4209><y_0.9094><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2763,
+   "completion_tokens": 963,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

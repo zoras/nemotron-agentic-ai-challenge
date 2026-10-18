@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "0528f99b10e0fad253397bc936c0a57d37b587b1f75aaa448115abe9dd837726",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "c37fa12fb90014d23a75dc82c94cd572f81a5bae112f65f3962bf551608e4995",
+  "image_bytes": 1720367,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:115",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5217,
+   0.0598,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0598,
+    0.1453,
+    0.5317
+   ],
+   [
+    0.1453,
+    0.2307,
+    0.5267
+   ],
+   [
+    0.2307,
+    0.3162,
+    0.5267
+   ],
+   [
+    0.3162,
+    0.4017,
+    0.5267
+   ],
+   [
+    0.4017,
+    0.4872,
+    0.5267
+   ],
+   [
+    0.4872,
+    0.5726,
+    0.5267
+   ],
+   [
+    0.5726,
+    0.6581,
+    0.5267
+   ],
+   [
+    0.6581,
+    0.7436,
+    0.5267
+   ],
+   [
+    0.7436,
+    0.8291,
+    0.5267
+   ],
+   [
+    0.8291,
+    0.9145,
+    0.5267
+   ],
+   [
+    0.9145,
+    1.0,
+    0.5267
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2608,
+  "completion_tokens": 936,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.97,
+ "created_at": "2026-10-18T11:19:05+00:00",
+ "content": "<x_0.0605><y_0.0086>**H I N G.**<x_0.3574><y_0.0297><class_Title>\n\n<x_0.7764><y_0.0117>**Part II.**<x_0.918><y_0.0305><class_Section-header>\n\n<x_0.0254><y_0.0312>larger portions as cannot pafs through the neck. But this inconvenience is not likely to happen, unlefs the quantity of water left added be too final, and the re-fidues have been left undisturbed for several days. The fame obfervation is applicable to that kind of incrufta-tion which is formed by the murat, if not properly pulverified, dried, or mixed ; this cannot be separated from the bottom of the retort, but by means of hot water poured at different fucceftive times. It is like-wife effential to leave no cruit or depoition of murat, or other matter, in the veffels which are emptied, un-lefs the fame be moveable, in which cafe the rifk is lefs. But if the urgency of bufinefs thould then re-quire that the fame veffels be ufed without entirely clearing them, it will be necessary to range this refi-dual matter on one ride, where it will be lefs exposed to the heat, and will afford a greater degree of facility for the nitric acid to act upon it.<x_0.7822><y_0.2695><class_Text>\n\n<x_0.0186><y_0.2672>\" In order that the vapour which exhales from the diftilling veffels may not prove inconvenient, it is necefary to pour in a small quantity of alkaline lixivium in the first place, which infantly deftroys the fmell. This may be done immediately after the end of the diftillation, and the weak alkaline folution may fupply the place of the water ufed for diluting the refidues. At the infant of pouring this lixivial water, a strong effectence takes place ; for which reason it is pro-per to pour it in by several fucceftive portions, waiting a little between each time \\*.\"<x_0.7754><y_0.4117><class_Text>\n\n<x_0.0166><y_0.4125>252. The oxygenated liquor prepared in this way is very effective in bleaching the fluffs which are immerfed in it, but it at the fame time poffees an odour fo futifocating as to render its ufe unpleasant and even injurious to the workmen employed in the process, should any of it escape. \"I have witneffed, (fays O'Reilly) in an extenfive manufaclory near Paris, the cruel bufferings experienced by the wretched workmen, from thefe futifocating vapours ; I have fen them rolling on the ground in the excess of agony. Frequently even fevere diforders are the consequence of the firft effects produced by the oxygenated liquor+.\" De + O Reilly Charmes gives a long account of the sufferings which he underwent in his courte of experiments with this acid. It produces symptoms completely refreshling those of a violent cold, but which go off in a day or two after having defitted from the ufe of the liquor.<x_0.7734><y_0.6359><class_Text>\n\n<x_0.0508><y_0.6344>This inconvenience may be avoided in two ways ;<x_0.7383><y_0.6484><class_Text>\n\n<x_0.0146><y_0.6477>1/l, By rendering the veffels for immersion to tight as to prevent the profilibility of the efcape of the gas, 2dly, By diffusing in the water fome fubtance which has the property of lo far neutralizing the acid as to connect its odour without destroying its bleaching quality to any confiderable degree.<x_0.7705><y_0.7273><class_Text>\n\n<x_0.0137><y_0.7266>253. Mr Rupp of Manchelter contrived a tub for immersion, which is admirably adapted to anfwer the first purpose. Its contribution is limple, and not ex-penfive.<x_0.7715><y_0.7797><class_Text>\n\n<x_0.0127><y_0.7789>\"It would, therefore, bedefirable to have an apparatus for the ufe of the pure oxygenated muriatic acid firmly dissolved in water, which is at once the cheapest and bett vehicle for it. This apparatus must be limple in its construction, and obtainable at a moderate expense; it muft confine the liquor in fuch a manner as to pre-vent the efcape of the oxygenated muriatic acid gas, which is not only a lofs of power, but alfo an inconve-<x_0.7773><y_0.8867><class_Text>\n\n<x_0.7881><y_0.0328>Vegetable Substances<x_0.915><y_0.0672><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-697a64cd-3598-4a34-94e4-147374321866",
+  "object": "chat.completion",
+  "created": 1792322343,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0605><y_0.0086>**H I N G.**<x_0.3574><y_0.0297><class_Title>\n\n<x_0.7764><y_0.0117>**Part II.**<x_0.918><y_0.0305><class_Section-header>\n\n<x_0.0254><y_0.0312>larger portions as cannot pafs through the neck. But this inconvenience is not likely to happen, unlefs the quantity of water left added be too final, and the re-fidues have been left undisturbed for several days. The fame obfervation is applicable to that kind of incrufta-tion which is formed by the murat, if not properly pulverified, dried, or mixed ; this cannot be separated from the bottom of the retort, but by means of hot water poured at different fucceftive times. It is like-wife effential to leave no cruit or depoition of murat, or other matter, in the veffels which are emptied, un-lefs the fame be moveable, in which cafe the rifk is lefs. But if the urgency of bufinefs thould then re-quire that the fame veffels be ufed without entirely clearing them, it will be necessary to range this refi-dual matter on one ride, where it will be lefs exposed to the heat, and will afford a greater degree of facility for the nitric acid to act upon it.<x_0.7822><y_0.2695><class_Text>\n\n<x_0.0186><y_0.2672>\" In order that the vapour which exhales from the diftilling veffels may not prove inconvenient, it is necefary to pour in a small quantity of alkaline lixivium in the first place, which infantly deftroys the fmell. This may be done immediately after the end of the diftillation, and the weak alkaline folution may fupply the place of the water ufed for diluting the refidues. At the infant of pouring this lixivial water, a strong effectence takes place ; for which reason it is pro-per to pour it in by several fucceftive portions, waiting a little between each time \\*.\"<x_0.7754><y_0.4117><class_Text>\n\n<x_0.0166><y_0.4125>252. The oxygenated liquor prepared in this way is very effective in bleaching the fluffs which are immerfed in it, but it at the fame time poffees an odour fo futifocating as to render its ufe unpleasant and even injurious to the workmen employed in the process, should any of it escape. \"I have witneffed, (fays O'Reilly) in an extenfive manufaclory near Paris, the cruel bufferings experienced by the wretched workmen, from thefe futifocating vapours ; I have fen them rolling on the ground in the excess of agony. Frequently even fevere diforders are the consequence of the firft effects produced by the oxygenated liquor+.\" De + O Reilly Charmes gives a long account of the sufferings which he underwent in his courte of experiments with this acid. It produces symptoms completely refreshling those of a violent cold, but which go off in a day or two after having defitted from the ufe of the liquor.<x_0.7734><y_0.6359><class_Text>\n\n<x_0.0508><y_0.6344>This inconvenience may be avoided in two ways ;<x_0.7383><y_0.6484><class_Text>\n\n<x_0.0146><y_0.6477>1/l, By rendering the veffels for immersion to tight as to prevent the profilibility of the efcape of the gas, 2dly, By diffusing in the water fome fubtance which has the property of lo far neutralizing the acid as to connect its odour without destroying its bleaching quality to any confiderable degree.<x_0.7705><y_0.7273><class_Text>\n\n<x_0.0137><y_0.7266>253. Mr Rupp of Manchelter contrived a tub for immersion, which is admirably adapted to anfwer the first purpose. Its contribution is limple, and not ex-penfive.<x_0.7715><y_0.7797><class_Text>\n\n<x_0.0127><y_0.7789>\"It would, therefore, bedefirable to have an apparatus for the ufe of the pure oxygenated muriatic acid firmly dissolved in water, which is at once the cheapest and bett vehicle for it. This apparatus must be limple in its construction, and obtainable at a moderate expense; it muft confine the liquor in fuch a manner as to pre-vent the efcape of the oxygenated muriatic acid gas, which is not only a lofs of power, but alfo an inconve-<x_0.7773><y_0.8867><class_Text>\n\n<x_0.7881><y_0.0328>Vegetable Substances<x_0.915><y_0.0672><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2608,
+   "completion_tokens": 936,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

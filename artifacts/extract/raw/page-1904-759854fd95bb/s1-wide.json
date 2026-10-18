@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "eee087dd45b67d2934d736daae8b0c0d5c60d57a020bf0f4584143c661318a98",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "96dd5cbb89972b144bcb327285942b1978ce9f90646178c96f21e8624c6ec7ee",
+  "image_bytes": 486440,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1904",
+  "variant": "s1-wide",
+  "crop": [
+   0.0,
+   0.753,
+   1.0,
+   0.9298
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 350,
+  "total_tokens": 788,
+  "completion_tokens": 438,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.84,
+ "created_at": "2026-10-18T11:09:01+00:00",
+ "content": "<x_0.0><y_0.0>(A) It has been already related, that the lyre invented by the Egyptian Mercury had but three fittings; and by put- ting thefe two circumstances together, Dr Burney observes, we may perhaps acquire fome knowledge of the progrefs of mufic, or, at leaft, of the extention of its feale, in the highest antiquity. _Mefe_, in the Greek mufic, is the fourth found of the feecond tetrachord of the great fyftem, and firft tetrachord in- vented by the ancients, anfwering to our A, on the fifth line in the bafe. If this found then was added to the former three, it proves two important points: firft, that the moft ancient tetrachord was that from E in the bafe to A; and that the three original frings in the Mercurian and Apollonian lyre were tuned E, F, G, which the Greeks called _Hy- pate Mefon, Parhypate Mefon, Mefon Diatonor._ The addition therefore of _Mefe_ to thefe, completed the firft and moft ancient tetrachord, E, F, G, A. The firing _licbanon_, then, being added to thefe, and anfwering to our D on the third line in the bafe, extended the compafs downwards, and gave the ancient lyre a regular feries of five founds in the Dorian mode, the moft ancient of all the Greek modes; and the two fritings called _Hypate_ and _Parhypate_, correponding with our B and C in the bafe, completed the heptachord, or fevern founds, B, C, D, E, F, G, A, a compafs that received no addition till after the time of Pindar, who calls the infrument then in ufe the _feven-tongued lyre._<x_0.999><y_0.9961><class_Text>",
+ "reply": {
+  "id": "chatcmpl-04e4ceb1-759c-41ea-a731-7776f6379df9",
+  "object": "chat.completion",
+  "created": 1792321740,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>(A) It has been already related, that the lyre invented by the Egyptian Mercury had but three fittings; and by put- ting thefe two circumstances together, Dr Burney observes, we may perhaps acquire fome knowledge of the progrefs of mufic, or, at leaft, of the extention of its feale, in the highest antiquity. _Mefe_, in the Greek mufic, is the fourth found of the feecond tetrachord of the great fyftem, and firft tetrachord in- vented by the ancients, anfwering to our A, on the fifth line in the bafe. If this found then was added to the former three, it proves two important points: firft, that the moft ancient tetrachord was that from E in the bafe to A; and that the three original frings in the Mercurian and Apollonian lyre were tuned E, F, G, which the Greeks called _Hy- pate Mefon, Parhypate Mefon, Mefon Diatonor._ The addition therefore of _Mefe_ to thefe, completed the firft and moft ancient tetrachord, E, F, G, A. The firing _licbanon_, then, being added to thefe, and anfwering to our D on the third line in the bafe, extended the compafs downwards, and gave the ancient lyre a regular feries of five founds in the Dorian mode, the moft ancient of all the Greek modes; and the two fritings called _Hypate_ and _Parhypate_, correponding with our B and C in the bafe, completed the heptachord, or fevern founds, B, C, D, E, F, G, A, a compafs that received no addition till after the time of Pindar, who calls the infrument then in ufe the _feven-tongued lyre._<x_0.999><y_0.9961><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 350,
+   "total_tokens": 788,
+   "completion_tokens": 438,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

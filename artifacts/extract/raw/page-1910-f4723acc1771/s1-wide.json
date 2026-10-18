@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "b88308e1211270c78c6fee4df86f25fa33d6914cb0829fd5f93351d39c98779f",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "5728e9351718dae2aa4a246ccdf501beeb1323cffb29a94c23512f92502d13de",
+  "image_bytes": 348468,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+  "variant": "s1-wide",
+  "crop": [
+   0.0,
+   0.8155,
+   1.0,
+   0.9446
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 274,
+  "total_tokens": 561,
+  "completion_tokens": 287,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.73,
+ "created_at": "2026-10-18T11:11:23+00:00",
+ "content": "<x_0.1143><y_0.0>(c) \" We fuppofe the perfon not to be fo fituated, that the _returning fire_ of other bodies mult necefarily pafs through his body.\"<x_0.9326><y_0.2523><class_Text>\n\n<x_0.1152><y_0.2414>(p) \" The author does indeed produce a _living_ evidence, in the cafe of a perfor at Vienna, who, he has been credi-bly informed, received an electrical shock, by having held one hand accidentally in contact with an _interrupted_ metallic conducting rod, at the infant that a thunder-cloud exploded at the distance, as was conjectured, of above half an English mile. He likewise observes, that a ' very frong, bright, and fudden _//roke_ ’ (or (park) of electrical fire has been feen, by fevers electricians, to pafs in the interval, or interruption, purposely left in the conducting rod of a houte at the infant of a distant explosion; and ' when it was fully proved, by the sharp point of the conductor not being melted, or even tinged,' that the conductor itself had not been struck.--Thefe observations, however, do not by any means prove the _magnitude_, or danger, of the returning broke, but merely its _extijencei_ which we do not contelt.\"<x_0.9336><y_0.9953><class_Text>",
+ "reply": {
+  "id": "chatcmpl-740785c0-6974-4acf-8132-84c7b89c9f95",
+  "object": "chat.completion",
+  "created": 1792321883,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1143><y_0.0>(c) \" We fuppofe the perfon not to be fo fituated, that the _returning fire_ of other bodies mult necefarily pafs through his body.\"<x_0.9326><y_0.2523><class_Text>\n\n<x_0.1152><y_0.2414>(p) \" The author does indeed produce a _living_ evidence, in the cafe of a perfor at Vienna, who, he has been credi-bly informed, received an electrical shock, by having held one hand accidentally in contact with an _interrupted_ metallic conducting rod, at the infant that a thunder-cloud exploded at the distance, as was conjectured, of above half an English mile. He likewise observes, that a ' very frong, bright, and fudden _//roke_ ’ (or (park) of electrical fire has been feen, by fevers electricians, to pafs in the interval, or interruption, purposely left in the conducting rod of a houte at the infant of a distant explosion; and ' when it was fully proved, by the sharp point of the conductor not being melted, or even tinged,' that the conductor itself had not been struck.--Thefe observations, however, do not by any means prove the _magnitude_, or danger, of the returning broke, but merely its _extijencei_ which we do not contelt.\"<x_0.9336><y_0.9953><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 274,
+   "total_tokens": 561,
+   "completion_tokens": 287,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

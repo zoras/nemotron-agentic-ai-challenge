@@ -1,0 +1,411 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+ "row_index": 1910,
+ "volume_id": "144850377",
+ "filename": "page-1910-f4723acc1771.jpg",
+ "image_sha256": "f4723acc17718590625f337a0d5ddeef3e257ff963f793fe287f0f0cb81834ee",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09804,
+  "median_grey": 208,
+  "layout_body_chars": 6888,
+  "layout_pictures": 0
+ },
+ "running_head": "L I G [ 4230 ] L I G",
+ "layout_raw": "page-1910-f4723acc1771/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0302,
+    1.0,
+    0.0569
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1910-f4723acc1771/head.json",
+   "finish_reason": "stop",
+   "request_key": "946b81656f5bc7c3a7f5a2e35282879e5ace29eac0f79f80481eddfab78ff17f"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0302,
+    0.53,
+    0.8155
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0302,
+     0.1175,
+     0.525
+    ],
+    [
+     0.1175,
+     0.2047,
+     0.525
+    ],
+    [
+     0.2047,
+     0.292,
+     0.525
+    ],
+    [
+     0.292,
+     0.3792,
+     0.525
+    ],
+    [
+     0.3792,
+     0.4665,
+     0.525
+    ],
+    [
+     0.4665,
+     0.5537,
+     0.525
+    ],
+    [
+     0.5537,
+     0.641,
+     0.525
+    ],
+    [
+     0.641,
+     0.7282,
+     0.525
+    ],
+    [
+     0.7282,
+     0.8155,
+     0.525
+    ]
+   ],
+   "raw_path": "page-1910-f4723acc1771/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "71492590a3037d099d66c1c274208427d0780af3a034fc89163ae7450bd25bc2"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.52,
+    0.0302,
+    1.0,
+    0.8155
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0302,
+     0.1175,
+     0.525
+    ],
+    [
+     0.1175,
+     0.2047,
+     0.525
+    ],
+    [
+     0.2047,
+     0.292,
+     0.525
+    ],
+    [
+     0.292,
+     0.3792,
+     0.525
+    ],
+    [
+     0.3792,
+     0.4665,
+     0.525
+    ],
+    [
+     0.4665,
+     0.5537,
+     0.525
+    ],
+    [
+     0.5537,
+     0.641,
+     0.525
+    ],
+    [
+     0.641,
+     0.7282,
+     0.525
+    ],
+    [
+     0.7282,
+     0.8155,
+     0.525
+    ]
+   ],
+   "raw_path": "page-1910-f4723acc1771/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "03cbe8d68f41bf63f2bf2cc833f88b8d46005ab5dab06a2264dcc80bce556734"
+  },
+  {
+   "label": "s1-wide",
+   "crop": [
+    0.0,
+    0.8155,
+    1.0,
+    0.9446
+   ],
+   "scale": 2,
+   "raw_path": "page-1910-f4723acc1771/s1-wide.json",
+   "finish_reason": "stop",
+   "request_key": "b88308e1211270c78c6fee4df86f25fa33d6914cb0829fd5f93351d39c98779f"
+  },
+  {
+   "label": "s2-col-left",
+   "crop": [
+    0.0,
+    0.9446,
+    0.53,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.9446,
+     1.0,
+     0.525
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  },
+  {
+   "label": "s2-col-right",
+   "crop": [
+    0.52,
+    0.9446,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.9446,
+     1.0,
+     0.525
+    ]
+   ],
+   "raw_path": "page-1910-f4723acc1771/s2-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "dc3f4c4e6e202f882a7978eb2eb3a27bcc7102231f60901dc591340a90acc8a4"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "L I G [ 4230 ] L I G",
+   "bbox": [
+    0.0,
+    0.0302,
+    1.0,
+    0.0569
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1910-f4723acc1771:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "L I G [ 42",
+   "bbox": [
+    0.2469,
+    0.0339,
+    0.5295,
+    0.0572
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1910-f4723acc1771:b1"
+  },
+  {
+   "order": 2,
+   "class": "Margin-note",
+   "text": "Lightning.",
+   "bbox": [
+    0.0414,
+    0.0547,
+    0.116,
+    0.0713
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-left",
+   "id": "page-1910-f4723acc1771:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "we have feen above; it is _mathematically evident_, that, when a _returning stroke_ comes to be produced by the _fudden_ removal of the very frong claftic electrical pref- fure of the electrical atmosphere of a thunder-cloud powerfully charged; the strength of fuch a _returning stroke_ mult be _enormous._\"",
+   "bbox": [
+    0.1134,
+    0.0553,
+    0.5191,
+    0.1376
+   ],
+   "source": "s0-col-left",
+   "id": "page-1910-f4723acc1771:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "\" If indeed the quantity of electric fluid naturally contained in the body of a man, for instance, were im- mente, or indefinite, the author’s eliminate between the effects producible by a cloud, and those canfed by a prime conductor, might be admitted. But furely an electrified cloud,--how great foeyer may be its ex- tent, and the height of its charge, when compared with the extent and charge of a prime conductor-- cannot expel from a man’s body (or any other body) more than the natural quantity of electricity which it contains. On the fudden removal, therefore, of the preffure by which this natural quantity had been ex- pelled, in consequence of the explofion of the cloud into the earth; no more (at the utmolt) than his _whole natural flock_ of electricity can re-enter his body (c). But we have no realon to fuppofe that this quantity is fo great, as that its fudden re-entrance into his body should deftroy or even injure him.",
+   "bbox": [
+    0.1138,
+    0.1369,
+    0.5197,
+    0.3781
+   ],
+   "source": "s0-col-left",
+   "id": "page-1910-f4723acc1771:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "\" In the experiment above deferibed, the infulated perfon receives into his body, at the infant of the _re- turning Stroke_, not only all that portion of his own natural electric-fire which had been expelled from it; but likewife tranfmits through it, at the fame inflant, _in consequence of his peculiar situation_, all the electric fire of which the large fecond conductor had been robbed; and which muft necellarily re-pals through his body, to arrive at that conductor. To render the cafe fomewhat parallel, in _natural electricity_, the man's body muft be fo peculiarly circumflanced, fuppofing him to be in a houle, that the electric matter which has been expelled from the houte into the earth, by the preffure of an extenfive thunder-cloud, could not return back into the building, on the explofion of the cloud at a distance, without paffing through his body: a cafe not likely to happen, unlefs the houle were in- fulated (like the fecond conductor in the preceding experiment), and his body became the channel through which alone the houle could have its electric matter restored to it : it appears much more probable that the electric matter returns to the houle through the _fame channels_ by which it before infentibly paffed out, and with equal silence, tho' more fuddenly.",
+   "bbox": [
+    0.1128,
+    0.3775,
+    0.5201,
+    0.699
+   ],
+   "source": "s0-col-left",
+   "id": "page-1910-f4723acc1771:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "\" In the cafe of a man who is abroad, and in an open field, during the time of an explosion;--as he is unconnected with other mafles of matter _above him_, no more than the precife quantity of electric fire, which had been before expelled from his body, will _fuddenly_ return into it at the inflant of a diftant explosion: and that this quantity is not ufually very large, may be inferred from many confiderations.",
+   "bbox": [
+    0.1123,
+    0.6983,
+    0.5207,
+    0.8081
+   ],
+   "source": "s0-col-left",
+   "id": "page-1910-f4723acc1771:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "30 | L I G",
+   "bbox": [
+    0.52,
+    0.0333,
+    0.7942,
+    0.0553
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1910-f4723acc1771:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "\" When a perfon standing on the ground holds a pair of Mr Canton’s balls in his hand, while a highly charged thunder-cloud is fufpended over his head; the angle made by the balls indicates the electrical flate of that perfon, or the quantity of natural electricity of which his body is at that time deprived, by the action of the (pofitively) charged cloud hanging over him. But we have never feen the repullion of the balls fo confiderable, as to furnish any jult apprehensions that the return of his natural electric matter, however fudden, could be attended with injury to him: nor would he be fentible of any commotion on the balls fuddenly coming together; tho' a fpark might undoubtedly be perceived, at that infant, were he infu-lated, and placed in the fame manner with the author when he tried the above-related experiment.",
+   "bbox": [
+    0.5261,
+    0.0547,
+    0.9334,
+    0.2701
+   ],
+   "source": "s0-col-right",
+   "id": "page-1910-f4723acc1771:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "\" The author nevertheless observes, that \" there have been inflances of perfons who have been killed by natural electricity, having been found with their _floes torn_, and with their feet damaged by the electri-cal fire; but who have not had, over their whole body, any other apparent marks of having been struck with lightning.\" He adds, \" if a man walking out of doors were to be killed by a returning stroke, the electrical fire would ruh into that man's body thro' his feet, and his feet only ; which would not be the cafe, were he to be killed by any main stroke of explosion, either poitive or negative.\"",
+   "bbox": [
+    0.5256,
+    0.2695,
+    0.933,
+    0.432
+   ],
+   "source": "s0-col-right",
+   "id": "page-1910-f4723acc1771:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "\" It would be no difficult talk, we think, to account for thefe appearances in a different manner ; were all the circumstances attending the cafe minutely afcertained: but without interrogating the dead on this subject, we may more satisfactorily appeal to the experience of the living (b), to thew, that though the returning stroke must take place, in all thunder-itorms, in some degree or other ; yet it is not of that alarming magnitude which the author aferibes to it. If, in any particular thunder-form, a man in the open fields could be killed, at the infant of a distant exploration, merely by the return of his own electric fire, which had before been driven out of his body ; furely numerous observations of perfons who had experienced the returning stroke, in flighter degrees, would be familiar ; and fearce a great thunder-form must have occurred, in which one perlon or another muft not, at the infant of an explosion, have felt the effects of the returning stroke, in force degree or other— from that of a violent concuffon, to that of a flight and almost imperceptible pollution. But no observations of this kind are known to us ; nor have we ever heard of any person's experiencing any kind of electrical connection in a thunder-form, except such as have either been directly fruck, or have happened to be in the very near neighbourhood of the spot where the explotion took place.",
+   "bbox": [
+    0.5266,
+    0.4309,
+    0.9339,
+    0.7928
+   ],
+   "source": "s0-col-right",
+   "id": "page-1910-f4723acc1771:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "\" The author has been aware of this objection, which",
+   "bbox": [
+    0.5481,
+    0.7897,
+    0.9311,
+    0.8149
+   ],
+   "source": "s0-col-right",
+   "id": "page-1910-f4723acc1771:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "(c) \" We fuppofe the perfon not to be fo fituated, that the _returning fire_ of other bodies mult necefarily pafs through his body.\"",
+   "bbox": [
+    0.1143,
+    0.8155,
+    0.9326,
+    0.8481
+   ],
+   "source": "s1-wide",
+   "id": "page-1910-f4723acc1771:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "(p) \" The author does indeed produce a _living_ evidence, in the cafe of a perfor at Vienna, who, he has been credi-bly informed, received an electrical shock, by having held one hand accidentally in contact with an _interrupted_ metallic conducting rod, at the infant that a thunder-cloud exploded at the distance, as was conjectured, of above half an English mile. He likewise observes, that a ' very frong, bright, and fudden _//roke_ ’ (or (park) of electrical fire has been feen, by fevers electricians, to pafs in the interval, or interruption, purposely left in the conducting rod of a houte at the infant of a distant explosion; and ' when it was fully proved, by the sharp point of the conductor not being melted, or even tinged,' that the conductor itself had not been struck.--Thefe observations, however, do not by any means prove the _magnitude_, or danger, of the returning broke, but merely its _extijencei_ which we do not contelt.\"",
+   "bbox": [
+    0.1152,
+    0.8467,
+    0.9336,
+    0.944
+   ],
+   "source": "s1-wide",
+   "id": "page-1910-f4723acc1771:b13"
+  },
+  {
+   "order": 14,
+   "class": "Picture",
+   "text": "",
+   "bbox": [
+    0.52,
+    0.9446,
+    0.999,
+    0.9996
+   ],
+   "source": "s2-col-right",
+   "id": "page-1910-f4723acc1771:b14"
+  }
+ ]
+}

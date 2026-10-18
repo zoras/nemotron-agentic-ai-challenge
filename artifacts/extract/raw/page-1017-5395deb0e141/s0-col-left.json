@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "a3dca9a3c87764623fcc71fb5d122975cd428bd7366e1258774794ffd5efda6e",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "13ee9ced7f4229e7c5a74b52f17c7e7412b8c293c2fddd90c2d741ea23b8e654",
+  "image_bytes": 2292913,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1017",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0247,
+   0.4917,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0247,
+    0.106,
+    0.4867
+   ],
+   [
+    0.106,
+    0.1872,
+    0.485
+   ],
+   [
+    0.1872,
+    0.2685,
+    0.485
+   ],
+   [
+    0.2685,
+    0.3498,
+    0.485
+   ],
+   [
+    0.3498,
+    0.4311,
+    0.485
+   ],
+   [
+    0.4311,
+    0.5124,
+    0.485
+   ],
+   [
+    0.5124,
+    0.5936,
+    0.485
+   ],
+   [
+    0.5936,
+    0.6749,
+    0.485
+   ],
+   [
+    0.6749,
+    0.7562,
+    0.485
+   ],
+   [
+    0.7562,
+    0.8375,
+    0.485
+   ],
+   [
+    0.8375,
+    0.9187,
+    0.485
+   ],
+   [
+    0.9187,
+    1.0,
+    0.485
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2449,
+  "completion_tokens": 905,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.42,
+ "created_at": "2026-10-18T11:19:45+00:00",
+ "content": "<x_0.4336><y_0.0063>II E L<x_0.6377><y_0.0266><class_Title>\n\n<x_0.8672><y_0.007>( 78<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.1709><y_0.0297>the fixth for the pagans, and the feventh for the hy-pocrites of all religions.<x_0.9707><y_0.0586><class_Text>\n\n<x_0.1631><y_0.0578>Among Chrillians, there are two controverted queltions in regard to hell; the one concerns locality, the other the duration of its torments. The locality of hell, and the reality of its fire, began firft to be controverted by Origen. That father, interpreting the fcripture account metaphorically, makes hell to conflt not in external punifhments, but in a confcioufnefs or fenfe of guilt, and a remembrance of paft pleafures. Among the moderns, Mr Whilton advanced a new hypothetis. According to him, the comets are fo many hells appointed in their orbits alternately to carry the damned into the confined of the fun, there to be forced by its violent heat, and then to return with them beyond the orb of Saturn, there to flarve them in thefe cold and difmal regions. Another modern author, not fatisified with any hypothesis hitherto advanced, affigns the fun to be the local hell. As to the fecond question, _viz._ the duration of hell-torments, we have Origen again at the head of thofe who deny that they are eternal; it being that father’s opinion, that not only men, but devils, after a due courfe of punishment fuitable to their respective crimes, shall be pardoned and reltoored to heaven. The chief principle upon which Origen built his opinion, was the nature of punifhment, which he took to be emendatory, applied only as phytic for the recovery of the patient’s health. The chief objection to the eternity of hell torments among modern writers, is the dilproportion between temporary crimes and eternal punifhments. Thofe who maintain the affirmative, ground their opinions on fcripture accounts, which reprefent the pains of hell under the figure of a worm which never dies, and a fire which is not quenched; as alfo upon the words, \"Thefe hall go away into everlasting punishment, but \" the righteous into life eternal.<x_0.9746><y_0.5453><class_Text>\n\n<x_0.1318><y_0.5437>HELLEBORUS, HELLEBORE, in botany, a genus of the polyandria polygynia clafs. It has no calix; the pe- tals are five or more; the nectarium is tubular and bila- biated; and the capfule contains many feeds. There are five species, two of them natives of Britain, _viz._ the fætidus, or great baffard black hellebore; and the viridis, or wild black hellebore. The hellebore, when taken in large quantities, is poifonous; but the root, in fmall dofes, is fuppofed to attenuate the humours, and to promote urinary and uterine discharges.<x_0.9736><y_0.6836><class_Text>\n\n<x_0.1309><y_0.6828>HELLENISM, in matters of language, a phrafe in the idiom, genius, or conflruction of the Greek tongue. This word is only ufed when speaking of the authors who, writing in a different language, exprefs themselves in a phrafeology peculiar to the Greek.<x_0.9727><y_0.7531><class_Text>\n\n<x_0.1299><y_0.7523>HELLENISTIC, OF HELENISTIC LANGUAGE, that u- fed by the Grecian Jews who lived in Egypt and other parts where the Greek tongue prevailed. In this lan-guage it is faid the Septuagint was written, and alfo the books of the New Teflament; and that it was thus denominated to fhew that it was Greek filled with He- braifms and Syriacifms.<x_0.9717><y_0.85><class_Text>\n\n<x_0.1289><y_0.8492>HELLESPONT, the entrance of the fleights which divides Afia from Europe, and paffes from the Archi- VOL. II. No. 59.<x_0.9697><y_0.8945><class_Text>",
+ "reply": {
+  "id": "chatcmpl-67e211e0-35f3-48ea-b10f-b6b7d0dcef17",
+  "object": "chat.completion",
+  "created": 1792322383,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4336><y_0.0063>II E L<x_0.6377><y_0.0266><class_Title>\n\n<x_0.8672><y_0.007>( 78<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.1709><y_0.0297>the fixth for the pagans, and the feventh for the hy-pocrites of all religions.<x_0.9707><y_0.0586><class_Text>\n\n<x_0.1631><y_0.0578>Among Chrillians, there are two controverted queltions in regard to hell; the one concerns locality, the other the duration of its torments. The locality of hell, and the reality of its fire, began firft to be controverted by Origen. That father, interpreting the fcripture account metaphorically, makes hell to conflt not in external punifhments, but in a confcioufnefs or fenfe of guilt, and a remembrance of paft pleafures. Among the moderns, Mr Whilton advanced a new hypothetis. According to him, the comets are fo many hells appointed in their orbits alternately to carry the damned into the confined of the fun, there to be forced by its violent heat, and then to return with them beyond the orb of Saturn, there to flarve them in thefe cold and difmal regions. Another modern author, not fatisified with any hypothesis hitherto advanced, affigns the fun to be the local hell. As to the fecond question, _viz._ the duration of hell-torments, we have Origen again at the head of thofe who deny that they are eternal; it being that father’s opinion, that not only men, but devils, after a due courfe of punishment fuitable to their respective crimes, shall be pardoned and reltoored to heaven. The chief principle upon which Origen built his opinion, was the nature of punifhment, which he took to be emendatory, applied only as phytic for the recovery of the patient’s health. The chief objection to the eternity of hell torments among modern writers, is the dilproportion between temporary crimes and eternal punifhments. Thofe who maintain the affirmative, ground their opinions on fcripture accounts, which reprefent the pains of hell under the figure of a worm which never dies, and a fire which is not quenched; as alfo upon the words, \"Thefe hall go away into everlasting punishment, but \" the righteous into life eternal.<x_0.9746><y_0.5453><class_Text>\n\n<x_0.1318><y_0.5437>HELLEBORUS, HELLEBORE, in botany, a genus of the polyandria polygynia clafs. It has no calix; the pe- tals are five or more; the nectarium is tubular and bila- biated; and the capfule contains many feeds. There are five species, two of them natives of Britain, _viz._ the fætidus, or great baffard black hellebore; and the viridis, or wild black hellebore. The hellebore, when taken in large quantities, is poifonous; but the root, in fmall dofes, is fuppofed to attenuate the humours, and to promote urinary and uterine discharges.<x_0.9736><y_0.6836><class_Text>\n\n<x_0.1309><y_0.6828>HELLENISM, in matters of language, a phrafe in the idiom, genius, or conflruction of the Greek tongue. This word is only ufed when speaking of the authors who, writing in a different language, exprefs themselves in a phrafeology peculiar to the Greek.<x_0.9727><y_0.7531><class_Text>\n\n<x_0.1299><y_0.7523>HELLENISTIC, OF HELENISTIC LANGUAGE, that u- fed by the Grecian Jews who lived in Egypt and other parts where the Greek tongue prevailed. In this lan-guage it is faid the Septuagint was written, and alfo the books of the New Teflament; and that it was thus denominated to fhew that it was Greek filled with He- braifms and Syriacifms.<x_0.9717><y_0.85><class_Text>\n\n<x_0.1289><y_0.8492>HELLESPONT, the entrance of the fleights which divides Afia from Europe, and paffes from the Archi- VOL. II. No. 59.<x_0.9697><y_0.8945><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2449,
+   "completion_tokens": 905,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "c105b0d1cce5ecac5873152e4e2bb4fd41156433ce04a7aacb3008aa449fa184",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "149117c4b397587a2bcd47680c9adadf966fd404541cae17d922be9463a48d2f",
+  "image_bytes": 2424234,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:604",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0356,
+   0.4667,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0356,
+    0.116,
+    0.4617
+   ],
+   [
+    0.116,
+    0.1963,
+    0.4617
+   ],
+   [
+    0.1963,
+    0.2767,
+    0.4617
+   ],
+   [
+    0.2767,
+    0.3571,
+    0.4617
+   ],
+   [
+    0.3571,
+    0.4374,
+    0.4617
+   ],
+   [
+    0.4374,
+    0.5178,
+    0.46
+   ],
+   [
+    0.5178,
+    0.5982,
+    0.4583
+   ],
+   [
+    0.5982,
+    0.6785,
+    0.4583
+   ],
+   [
+    0.6785,
+    0.7589,
+    0.455
+   ],
+   [
+    0.7589,
+    0.8393,
+    0.455
+   ],
+   [
+    0.8393,
+    0.9196,
+    0.4517
+   ],
+   [
+    0.9196,
+    1.0,
+    0.4617
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2569,
+  "completion_tokens": 1025,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.51,
+ "created_at": "2026-10-18T11:19:31+00:00",
+ "content": "<x_0.4482><y_0.0039>T H O<x_0.6787><y_0.0234><class_Title>\n\n<x_0.0264><y_0.0273>_Thou._ attended, walking as mourners. The queen and princesses also assisted at the ceremony, and the concourse of people, including the public bodies, municipal and academical, amounted to many thousands. An interesting part of the ceremony was the performance of a _requiem_ written by the sculptor’s intimate and dear friend Ehlenschlager.<x_0.9814><y_0.107><class_Text>\n\n<x_0.127><y_0.1047>Thorwaldsen was rather above the middle height, firmly built, with broad shoulders. The outline of his face was rather square. His general expression was calm and thoughtful, and very pleasing. His eyes were light and penetrating ; his mouth wide and usually closely shut. He wore his hair, which had grown nearly white, in large masses divided over his fine broad forehead, and falling on each side, something like a lion's mane, nearly to his shoulders.<x_0.9785><y_0.207><class_Text>\n\n<x_0.1182><y_0.2055>Thorwaldsen will always take rank with Canova and Flaxman as one of the great regenerators of Sculpture. The former, his elders, were almost the first to break through the miserable routine of the worst mixed Italian and French art which had descended from Bernini and his school. Thorwaldsen nobly aided in advancing this revolution, and with them assisted in establishing the practice of sculpture upon true principles. (R. w-r.)<x_0.9766><y_0.3086><class_Text>\n\n<x_0.0977><y_0.3055>THOU, JACQUES AUGUSTE DE, or, as his name is frequently written in its Latinized form, JACOBUS AUGUSTUS THUAANUS, was a distinguished French historian, and was born at Paris on the 8th of October 1553. In his infancy he was very weak and sickly, and infirmity of health clung to him into man's years. Indisposed to play like other boys by reason of his frail health, he cultivated a taste for drawing and reading when he should have been engaged in the boyish amusements peculiar to his years. De Thou was originally designed for the church, but he allowed his mind to take a much wider course in its thirst for knowledge than was fairly consistent with an aspirant after priest's orders. He greedily studied literature and science, and contracted so great a liking for Cujus, the celebrated jurist, that he set out for Valence in Dauphiné, and attended his lectures on Papinian. Here he formed the acquaintance of Joseph Scaliger, who remained one of his constant friends through-out life. De Thou returned to Paris in 1572 after a year's absence, to witness the marriage of Henry of Navarre ; to see the dead body of Coligny hanging from the gibbet; and to be a spectator of the horrible massacre of St Bartholomew. Next year he went to Italy as an attendant of Paul de Foix ; he visited Flanders and Holland in 1576, and in 1578 he accepted, with reluctance, the office of an ecclesiastical councillor of the parlement of Paris. In 1582, while on a visit to Bordeaux, he formed the friendship of honest, garrulous old Montaigne, whose character and genius he has warmly praised. His father, Christophe de Thou, first president of the parlement of Paris, having died during the same year, and both his elder and younger brothers being now dead, it was deemed advisable for De Thou to cease to be an ecclesiastic. He accordingly resigned that profession soon after, and accepted the office of Master of Requests, and was appointed to his uncle's place of _pré-_sident du mortier to the parlement of Paris. The De Thous had always remained firm adherents of royalty, and the most illustrious of them would not disgrace his ancestry. He was admitted a counsellor of state to Henry III. at Chartres, and was engaged in various delicate and important missions for Henry III. during the succeeding years. He visited Blois, Paris, Germany, and Italy, all in the royal cause. The death of Henry reached him in Venice in 1589. De Thou immediately set out for France by way of Switzerland, and was received very graciously by Henry IV. at Châteaudun. Henceforward he became a very useful servant to the crown. He was made keeper of the Royal Library on the death of Bishop Amyot in 1591, and in 1593 he commenced his great work _Historia Sui Temporis_, on which he had meditated for fifteen years.<x_0.9746><y_0.9352><class_Text>",
+ "reply": {
+  "id": "chatcmpl-7c21d7ea-7574-4823-bcdc-d48f9f2a7764",
+  "object": "chat.completion",
+  "created": 1792322370,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4482><y_0.0039>T H O<x_0.6787><y_0.0234><class_Title>\n\n<x_0.0264><y_0.0273>_Thou._ attended, walking as mourners. The queen and princesses also assisted at the ceremony, and the concourse of people, including the public bodies, municipal and academical, amounted to many thousands. An interesting part of the ceremony was the performance of a _requiem_ written by the sculptor’s intimate and dear friend Ehlenschlager.<x_0.9814><y_0.107><class_Text>\n\n<x_0.127><y_0.1047>Thorwaldsen was rather above the middle height, firmly built, with broad shoulders. The outline of his face was rather square. His general expression was calm and thoughtful, and very pleasing. His eyes were light and penetrating ; his mouth wide and usually closely shut. He wore his hair, which had grown nearly white, in large masses divided over his fine broad forehead, and falling on each side, something like a lion's mane, nearly to his shoulders.<x_0.9785><y_0.207><class_Text>\n\n<x_0.1182><y_0.2055>Thorwaldsen will always take rank with Canova and Flaxman as one of the great regenerators of Sculpture. The former, his elders, were almost the first to break through the miserable routine of the worst mixed Italian and French art which had descended from Bernini and his school. Thorwaldsen nobly aided in advancing this revolution, and with them assisted in establishing the practice of sculpture upon true principles. (R. w-r.)<x_0.9766><y_0.3086><class_Text>\n\n<x_0.0977><y_0.3055>THOU, JACQUES AUGUSTE DE, or, as his name is frequently written in its Latinized form, JACOBUS AUGUSTUS THUAANUS, was a distinguished French historian, and was born at Paris on the 8th of October 1553. In his infancy he was very weak and sickly, and infirmity of health clung to him into man's years. Indisposed to play like other boys by reason of his frail health, he cultivated a taste for drawing and reading when he should have been engaged in the boyish amusements peculiar to his years. De Thou was originally designed for the church, but he allowed his mind to take a much wider course in its thirst for knowledge than was fairly consistent with an aspirant after priest's orders. He greedily studied literature and science, and contracted so great a liking for Cujus, the celebrated jurist, that he set out for Valence in Dauphiné, and attended his lectures on Papinian. Here he formed the acquaintance of Joseph Scaliger, who remained one of his constant friends through-out life. De Thou returned to Paris in 1572 after a year's absence, to witness the marriage of Henry of Navarre ; to see the dead body of Coligny hanging from the gibbet; and to be a spectator of the horrible massacre of St Bartholomew. Next year he went to Italy as an attendant of Paul de Foix ; he visited Flanders and Holland in 1576, and in 1578 he accepted, with reluctance, the office of an ecclesiastical councillor of the parlement of Paris. In 1582, while on a visit to Bordeaux, he formed the friendship of honest, garrulous old Montaigne, whose character and genius he has warmly praised. His father, Christophe de Thou, first president of the parlement of Paris, having died during the same year, and both his elder and younger brothers being now dead, it was deemed advisable for De Thou to cease to be an ecclesiastic. He accordingly resigned that profession soon after, and accepted the office of Master of Requests, and was appointed to his uncle's place of _pré-_sident du mortier to the parlement of Paris. The De Thous had always remained firm adherents of royalty, and the most illustrious of them would not disgrace his ancestry. He was admitted a counsellor of state to Henry III. at Chartres, and was engaged in various delicate and important missions for Henry III. during the succeeding years. He visited Blois, Paris, Germany, and Italy, all in the royal cause. The death of Henry reached him in Venice in 1589. De Thou immediately set out for France by way of Switzerland, and was received very graciously by Henry IV. at Châteaudun. Henceforward he became a very useful servant to the crown. He was made keeper of the Royal Library on the death of Bishop Amyot in 1591, and in 1593 he commenced his great work _Historia Sui Temporis_, on which he had meditated for fifteen years.<x_0.9746><y_0.9352><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2569,
+   "completion_tokens": 1025,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

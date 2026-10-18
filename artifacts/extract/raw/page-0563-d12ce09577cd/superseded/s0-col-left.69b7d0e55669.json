@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "69b7d0e55669f655d38303f5497761443000dd78fa0040e9186d5f6ed6a4e9d2",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "748983b4861a84a4ad1f61e4ae1aad283b5019900d80a2d36683edfeda8e4f16",
+  "image_bytes": 1766941,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:563",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0546,
+   0.47,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0546,
+    0.1405,
+    0.4517
+   ],
+   [
+    0.1405,
+    0.2265,
+    0.455
+   ],
+   [
+    0.2265,
+    0.3124,
+    0.4583
+   ],
+   [
+    0.3124,
+    0.3984,
+    0.46
+   ],
+   [
+    0.3984,
+    0.4843,
+    0.46
+   ],
+   [
+    0.4843,
+    0.5703,
+    0.46
+   ],
+   [
+    0.5703,
+    0.6562,
+    0.46
+   ],
+   [
+    0.6562,
+    0.7422,
+    0.46
+   ],
+   [
+    0.7422,
+    0.8281,
+    0.46
+   ],
+   [
+    0.8281,
+    0.9141,
+    0.4633
+   ],
+   [
+    0.9141,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2639,
+  "completion_tokens": 967,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.5,
+ "created_at": "2026-10-18T11:10:24+00:00",
+ "content": "<x_0.126><y_0.0>**ACROTELEUTIC, among ecclefialic writers, an appellation given to any thing added to the end of a plain; as the Gloria Patri, or Doxology.**<x_0.9385><y_0.0492><class_Text>\n\n<x_0.127><y_0.0414>ACROTERIA, in architecture, fmall pedeftals, ufully without bafes, anciently placed at the middle or two extremes of pediments or frontifpieces, ferving to support the flatues, &c. It alfo signifies the figures placed as ornaments on the tops of churches, and the sharp pinnacles that fland in ranges about flat buildings with rails and ballutters.<x_0.9463><y_0.15><class_Text>\n\n<x_0.1367><y_0.1437>Among ancient physicians, it fignified the larger extremities of the body, as the head, hands, and feet. It has alfo been ufed for the tips of the fingers, and fometimes for the eminences or proceffes of bones<x_0.9453><y_0.2078><class_Text>\n\n<x_0.1396><y_0.2016>ACROTHYMION, from _excreme_, and _toucet,_ _thyme._ A fort of wart described by Celfus as hard, rough, with a narrow bañs and broad top ; the top is of the colour of thyme, it easily splits and bleeds. This tumour is alfo called _thymus._<x_0.9521><y_0.2797><class_Text>\n\n<x_0.1475><y_0.2734>ACT, in general, denotes the exertion of power; and differs from power, as the effect from the caulfe.<x_0.9512><y_0.3086><class_Text>\n\n<x_0.1484><y_0.3031>Act, in logic, is particularly underltood of an ope- ration of the human mind. Thus to discern and examine, are acts of the understanding: to judge and af- firm, are acts of the will. There are voluntary and fpontaneous acts; the former are produced by the operation of the foul, the latter without its privity or participation.<x_0.9619><y_0.4102><class_Text>\n\n<x_0.1494><y_0.4039>Act, in the univerities, fignifies a thefs maintained in public by a candidate for a degree ; or to how the capacity and proficiency of a student. The candidates for a degree of bachelor and matter of arts are to hold philofophical Acts ; and thofe for bachelor of divinity, theological Acts, &c. At Oxford, the time when ma- fiers or doctors complete their degrees is alfo called the **all**; which is held with great folemnity. At Cam- bridge, they call it the _commencement_.<x_0.9658><y_0.5398><class_Text>\n\n<x_0.1602><y_0.5336>_Acr of Faith, Auto da Fe_, in the Romih church is a folemn day held by the inquifition, for the punifh ment of heretics, and the abfolution of the innocent ac- cufed \\*. They ufually contrive the _Auto_ to fall on fome great fetival, that the execution may pafs with the more awe and regard; at least it is always on a Sunday.<x_0.9668><y_0.6266><class_Text>\n\n<x_0.1631><y_0.6211>The Auto da Fe may be called the laft act of the inquifitorial tragedy ; it is a kind of goal-delivery, ap- pointed as oft as a competent number of prifoners in the inquifition are convicted of herefly, either by their own voluntary, or extorted confeffion, or on the evidence of certain witnefles. The proceeds is thus: in the morning they are brought into a great hall, where they have certain habits put on, which they are to wear in the proceffion. The proceffion is led up by domi- nican frars; after which come the penitents, fome with fan-benitoes, and fome without, according to the nature of their crimes ; being all in black coats without sleeves, and bare footed, with a wax candle in their hands. There are followed by the penitents who have narrowly escaped being burnt, who over their black coats have flames painted with their points turned down- wards, _Feugo revolto_. Next come the negative, and relapfed, who are to be burnt, having flames on their habits pointing upwards. After there come fuch as pro- fefs doctrines contrary to the faith of Rome, who, be- fides flames pointing upwards, have their picture paint- ed on their breaths, with dogs, ferpents, and devils, all<x_0.9951><y_0.943><class_Text>\n\n<x_0.2227><y_0.9398>Vol. I. Part I.<x_0.4541><y_0.957><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-461675e2-8ace-40dc-b2e1-ed28aaaa48f3",
+  "object": "chat.completion",
+  "created": 1792321823,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.126><y_0.0>**ACROTELEUTIC, among ecclefialic writers, an appellation given to any thing added to the end of a plain; as the Gloria Patri, or Doxology.**<x_0.9385><y_0.0492><class_Text>\n\n<x_0.127><y_0.0414>ACROTERIA, in architecture, fmall pedeftals, ufully without bafes, anciently placed at the middle or two extremes of pediments or frontifpieces, ferving to support the flatues, &c. It alfo signifies the figures placed as ornaments on the tops of churches, and the sharp pinnacles that fland in ranges about flat buildings with rails and ballutters.<x_0.9463><y_0.15><class_Text>\n\n<x_0.1367><y_0.1437>Among ancient physicians, it fignified the larger extremities of the body, as the head, hands, and feet. It has alfo been ufed for the tips of the fingers, and fometimes for the eminences or proceffes of bones<x_0.9453><y_0.2078><class_Text>\n\n<x_0.1396><y_0.2016>ACROTHYMION, from _excreme_, and _toucet,_ _thyme._ A fort of wart described by Celfus as hard, rough, with a narrow bañs and broad top ; the top is of the colour of thyme, it easily splits and bleeds. This tumour is alfo called _thymus._<x_0.9521><y_0.2797><class_Text>\n\n<x_0.1475><y_0.2734>ACT, in general, denotes the exertion of power; and differs from power, as the effect from the caulfe.<x_0.9512><y_0.3086><class_Text>\n\n<x_0.1484><y_0.3031>Act, in logic, is particularly underltood of an ope- ration of the human mind. Thus to discern and examine, are acts of the understanding: to judge and af- firm, are acts of the will. There are voluntary and fpontaneous acts; the former are produced by the operation of the foul, the latter without its privity or participation.<x_0.9619><y_0.4102><class_Text>\n\n<x_0.1494><y_0.4039>Act, in the univerities, fignifies a thefs maintained in public by a candidate for a degree ; or to how the capacity and proficiency of a student. The candidates for a degree of bachelor and matter of arts are to hold philofophical Acts ; and thofe for bachelor of divinity, theological Acts, &c. At Oxford, the time when ma- fiers or doctors complete their degrees is alfo called the **all**; which is held with great folemnity. At Cam- bridge, they call it the _commencement_.<x_0.9658><y_0.5398><class_Text>\n\n<x_0.1602><y_0.5336>_Acr of Faith, Auto da Fe_, in the Romih church is a folemn day held by the inquifition, for the punifh ment of heretics, and the abfolution of the innocent ac- cufed \\*. They ufually contrive the _Auto_ to fall on fome great fetival, that the execution may pafs with the more awe and regard; at least it is always on a Sunday.<x_0.9668><y_0.6266><class_Text>\n\n<x_0.1631><y_0.6211>The Auto da Fe may be called the laft act of the inquifitorial tragedy ; it is a kind of goal-delivery, ap- pointed as oft as a competent number of prifoners in the inquifition are convicted of herefly, either by their own voluntary, or extorted confeffion, or on the evidence of certain witnefles. The proceeds is thus: in the morning they are brought into a great hall, where they have certain habits put on, which they are to wear in the proceffion. The proceffion is led up by domi- nican frars; after which come the penitents, fome with fan-benitoes, and fome without, according to the nature of their crimes ; being all in black coats without sleeves, and bare footed, with a wax candle in their hands. There are followed by the penitents who have narrowly escaped being burnt, who over their black coats have flames painted with their points turned down- wards, _Feugo revolto_. Next come the negative, and relapfed, who are to be burnt, having flames on their habits pointing upwards. After there come fuch as pro- fefs doctrines contrary to the faith of Rome, who, be- fides flames pointing upwards, have their picture paint- ed on their breaths, with dogs, ferpents, and devils, all<x_0.9951><y_0.943><class_Text>\n\n<x_0.2227><y_0.9398>Vol. I. Part I.<x_0.4541><y_0.957><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2639,
+   "completion_tokens": 967,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,531 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1614",
+ "row_index": 1614,
+ "volume_id": "144133903",
+ "filename": "page-1614-ea352b487d65.jpg",
+ "image_sha256": "ea352b487d650c713a3e6bdd8e4bc1ded85e0d7558c3fa1d9cdbce89abc38ca3",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10196,
+  "median_grey": 212,
+  "layout_body_chars": 6321,
+  "layout_pictures": 1
+ },
+ "running_head": "T H O ( 896 ) T H O",
+ "layout_raw": "page-1614-ea352b487d65/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0169,
+    1.0,
+    0.0444
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1614-ea352b487d65/head.json",
+   "finish_reason": "stop",
+   "request_key": "63d2e8f5ca5b0a12641a5ac1c7ae26533d0cb55b22ce54e9dfd934843b90d768"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0169,
+    0.5317,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0169,
+     0.0988,
+     0.5267
+    ],
+    [
+     0.0988,
+     0.1807,
+     0.5267
+    ],
+    [
+     0.1807,
+     0.2627,
+     0.5267
+    ],
+    [
+     0.2627,
+     0.3446,
+     0.5267
+    ],
+    [
+     0.3446,
+     0.4265,
+     0.5267
+    ],
+    [
+     0.4265,
+     0.5084,
+     0.5267
+    ],
+    [
+     0.5084,
+     0.5904,
+     0.5267
+    ],
+    [
+     0.5904,
+     0.6723,
+     0.5267
+    ],
+    [
+     0.6723,
+     0.7542,
+     0.5267
+    ],
+    [
+     0.7542,
+     0.8362,
+     0.5267
+    ],
+    [
+     0.8362,
+     0.9181,
+     0.5267
+    ],
+    [
+     0.9181,
+     1.0,
+     0.5267
+    ]
+   ],
+   "raw_path": "page-1614-ea352b487d65/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "b9c4aaab494c6bc94fd6a5650b1922b7bbe31f82b646133a1ce12afda89c16f8"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5217,
+    0.0169,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0169,
+     0.0988,
+     0.5267
+    ],
+    [
+     0.0988,
+     0.1807,
+     0.5267
+    ],
+    [
+     0.1807,
+     0.2627,
+     0.5267
+    ],
+    [
+     0.2627,
+     0.3446,
+     0.5267
+    ],
+    [
+     0.3446,
+     0.4265,
+     0.5267
+    ],
+    [
+     0.4265,
+     0.5084,
+     0.5267
+    ],
+    [
+     0.5084,
+     0.5904,
+     0.5267
+    ],
+    [
+     0.5904,
+     0.6723,
+     0.5267
+    ],
+    [
+     0.6723,
+     0.7542,
+     0.5267
+    ],
+    [
+     0.7542,
+     0.8362,
+     0.5267
+    ],
+    [
+     0.8362,
+     0.9181,
+     0.5267
+    ],
+    [
+     0.9181,
+     1.0,
+     0.5267
+    ]
+   ],
+   "raw_path": "page-1614-ea352b487d65/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "b7dc5695012d39594e64ce75ab521aed96aac40e8fee30b0886bdf4a09913005"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "T H O ( 896 ) T H O",
+   "bbox": [
+    0.0,
+    0.0169,
+    1.0,
+    0.0444
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1614-ea352b487d65:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "T H O",
+   "bbox": [
+    0.2596,
+    0.0215,
+    0.3609,
+    0.0407
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "( 8",
+   "bbox": [
+    0.4824,
+    0.0223,
+    0.5312,
+    0.0415
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "fhire, fituated on the river Swale, fixteen miles north- welf of York. It fends two members to parliament.",
+   "bbox": [
+    0.12,
+    0.0437,
+    0.5167,
+    0.0722
+   ],
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "THIRST, an uneafy fenfation, arising from a deficiency in the falliva to moiften the inward parts of the mouth; hence arifes a frong defire for drink: it is a symptom ge- nerally attending feverifi dforders.",
+   "bbox": [
+    0.1054,
+    0.0715,
+    0.5187,
+    0.1267
+   ],
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "THISTLE, in botany. See CARDUS.",
+   "bbox": [
+    0.1049,
+    0.1275,
+    0.4024,
+    0.1414
+   ],
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "_Order of the_ THISTLE, or of St ANDREW, a military order of knighthood in Scotland, the rife and institution whereof is varioully related by different authors. Lekey, bithop of Rofs, reports, that the night before the battle between Athelllan king of Northumberland, and Hungus king of the Piets, a bright crofs, in form of that where- on St Andrew (the tutelar faint of Scotland) suffered martyrdom, appeared to Hungus; who having gained the victory, ever after bore the figure of that crols on his banners. Others affert, that Achaius king of Scotland sirft infiltrated this order, after having made the famous league offenfive and definitive with Charlemagne king of France. But although the thiffle had been acknowledged as the fymbol of the kingdom of Scotland from the reign of Achaius, yet fome refer the beginning of this order to Charles VII, of France. Others place the foundation of it as low as the year 1500.",
+   "bbox": [
+    0.1044,
+    0.1406,
+    0.5193,
+    0.3725
+   ],
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "The chief and principal enfign is a gold collar compo- fed of thillles and lprigs of rue interlinked with amulets of gold, having pendent thereunto the image of St Andrew with his crofs, and the motto, NEMO ME IMPUNE LA- CESSET.",
+   "bbox": [
+    0.1194,
+    0.3717,
+    0.5197,
+    0.4393
+   ],
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "The ordinary or common enfign worn by the knights, is a flat of four silver points, and over them a green cir- cle, bordered and lettered with gold, containing the faid motto, and in the centre is a thiffle proper ; all which is embroidered on their left breast, and worn with the collar, with a green ribband over the left shoulder, and brought under the right arm ; pendent thereto is the i- mage of St Andrew, with his crofs, in a purple robe, within an oval of gold enameled vert, with the former motto: but fometimes they wear, encircled in the fame manner, a thiffle crowned.",
+   "bbox": [
+    0.1205,
+    0.4401,
+    0.5203,
+    0.5891
+   ],
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "About the time of the reformation, this order was dropped, till James II. of England refumed it, by crea-ting eight knights: however, the revolution unfettled it again, and it lay neglected till queen Anne, in 1703, restored it to the primitive design, of twelve knights of St Andrew.",
+   "bbox": [
+    0.1189,
+    0.5899,
+    0.5208,
+    0.6705
+   ],
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "THL ASPI, in botany, a genus of the tetradynamia filiculofa clafs. The pod is emarginated, heart-shaped, containing many feeds. There are ten figures, fix of them natives of Britain, viz. the campetire, or mithridate; the arvenfe, or treacle-muflard ; the perfoliatum, or perfoliate treacle-muflard ; the furtum, or perennial mithridate muflard ; the montanum, or mountain mithridate-muflard ; and the burfa paltoris, or flhepherd's purfe.",
+   "bbox": [
+    0.1033,
+    0.6698,
+    0.5213,
+    0.7927
+   ],
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "THOM EANS, THOMISTS, or _Chritians of St_ THOMAS, a people of the Eaft-Indies, who, according to the tradition, received the Golpel from St Thomas. Upon the arrival of the Portuguese at Calicut, in their first voyage to the Indies, they met with ancient Christians, who pretended to be defended from those converted by St Thomas. The Thomazas being informed of a new people arrived among them, who bore a particular veneration for the",
+   "bbox": [
+    0.1038,
+    0.7919,
+    0.5218,
+    0.9047
+   ],
+   "source": "s0-col-left",
+   "id": "page-1614-ea352b487d65:b11"
+  },
+  {
+   "order": 12,
+   "class": "Head-fragment",
+   "text": "96 )",
+   "bbox": [
+    0.5254,
+    0.0223,
+    0.5834,
+    0.0437
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b12"
+  },
+  {
+   "order": 13,
+   "class": "Head-fragment",
+   "text": "T H O",
+   "bbox": [
+    0.7071,
+    0.0215,
+    0.809,
+    0.0431
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "crofs, fent emballadors to them, to make an alliance with them, and to follicit their affiitance against the Gentile princes, by whom they were greatly oppreffed. A mix-ture of opinions, with a total interruption of pallors, fometimes for feveral years together,' occaftoned that horrible chaos their religion was in at the arrival of the Portuguese ; for a fpecimen whereof we thall add their manner of celebrating the eucharift: Over their altar was a kind of gallery; and while the prieft was laying the beginning of the office below, a cake of flour of rice was trying in oil, or butter, above ; when enough, the cake was let down in a basket upon the altar, where the priest confecrated it: as to the other species, for wine they ufed a kind of brandy or arrack, varioufly prepared in that country. Nor was their ordination much more regular ; the archdeacon, who was fometimes more rejected than the bithop himself, frequently ordained prietis: their other abufes were infinite. The Portuguese, for thefe two laft centuries, have laboured the reforma-tion of this church, and have employed both the eccle-fialic and fecular power therein : for this end they have called the Thomzan bifhops to the council at Goa, have infruited, charged them, cc, and even fent them for infiltration to Portugal and Rome ; but finding that they were till apt to relapfe at their return, and that no good was like to be done with them, they refolved to exclude them once for all, and to appoint an European bilhop in their room. Thefe proceedings have rendered the Portuguese infinitely odious to the Thomazans.",
+   "bbox": [
+    0.545,
+    0.0445,
+    0.9482,
+    0.4393
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b14"
+  },
+  {
+   "order": 15,
+   "class": "List-item",
+   "text": "_St_ THOMAS, a city of the hither India, on the coalt of Coromandel, three miles fouth of Fort St George ; fubject to the Portuguese.",
+   "bbox": [
+    0.5306,
+    0.4386,
+    0.9453,
+    0.48
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b15"
+  },
+  {
+   "order": 16,
+   "class": "List-item",
+   "text": "_St_ THOMAS is alfo an illand in the Atlantic ocean, fituated under the equator, in 8° E. long.",
+   "bbox": [
+    0.5301,
+    0.4793,
+    0.9444,
+    0.5084
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b16"
+  },
+  {
+   "order": 17,
+   "class": "List-item",
+   "text": "_St_ THOMAS is alfo a town of Guiana, in South America, situated on the river Oronoko ; fobject to Spain.",
+   "bbox": [
+    0.5296,
+    0.5069,
+    0.9439,
+    0.5353
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b17"
+  },
+  {
+   "order": 18,
+   "class": "List-item",
+   "text": "_St_ THOMAS’s DAY, a festival of the Christian church, obferved on Dec. 21. in commemoration of St Thomas the apotile.",
+   "bbox": [
+    0.5292,
+    0.5338,
+    0.9449,
+    0.5753
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b18"
+  },
+  {
+   "order": 19,
+   "class": "List-item",
+   "text": "_St_ THOMAS _of Canterbury's day_, a festival of the Romilh church, observed on Dec. 29. in memory of Thomas Becket archbiflhop of Canterbury, who was murdered, or, as the Romanilis fay, martyred, in the reign of King Henry II.",
+   "bbox": [
+    0.5287,
+    0.5737,
+    0.9435,
+    0.6436
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b19"
+  },
+  {
+   "order": 20,
+   "class": "List-item",
+   "text": "THOMISM, the doctrine of St Thomas Aquinas, and his followers the Thomifts, chiefly with regard to predeflina-tion and grace. There is fome doubt what the true genuine thomifm is, but there are authors who dliftinguih the thomifm of St Thomas from that of the dominicans. Others again make thomifm no other than a kind of janfenifm dilguifed : but janfenifm, it is known, has been condemned by the popes, which pure thomifm never was: in effect, the writings of Alvarez and Lemos, who were appointed by their order to lay down and defend, before the holy fee, the dogmata of their school, have since been reputed the rule of pure thomifm.",
+   "bbox": [
+    0.5283,
+    0.6421,
+    0.9458,
+    0.8064
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b20"
+  },
+  {
+   "order": 21,
+   "class": "List-item",
+   "text": "THOMISTS, a fact of fchool-divines, who maintain tho-mifm. See the preceding article.",
+   "bbox": [
+    0.5278,
+    0.8034,
+    0.9463,
+    0.8334
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b21"
+  },
+  {
+   "order": 22,
+   "class": "List-item",
+   "text": "THORACIC DUCT. See ANATOMY, p. 282.",
+   "bbox": [
+    0.5273,
+    0.831,
+    0.8734,
+    0.8471
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b22"
+  },
+  {
+   "order": 23,
+   "class": "List-item",
+   "text": "THORAX, in anatomy. See ANATOMY, p. 277.",
+   "bbox": [
+    0.5268,
+    0.8449,
+    0.8996,
+    0.861
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b23"
+  },
+  {
+   "order": 24,
+   "class": "List-item",
+   "text": "THORN, a city of Poland, in the province of regal Praffis, lituated on the river Viltula: E. long. 19%, and N. lat. 520 40'.",
+   "bbox": [
+    0.5264,
+    0.8579,
+    0.9468,
+    0.9033
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b24"
+  },
+  {
+   "order": 25,
+   "class": "Page-footer",
+   "text": "THORN-",
+   "bbox": [
+    0.8669,
+    0.8963,
+    0.943,
+    0.9124
+   ],
+   "source": "s0-col-right",
+   "id": "page-1614-ea352b487d65:b25"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "4569830878a6fa565effd61509ca2e0d3db6b1a917ce936921b8b55380f5eff5",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9fe7c0dd41a9517b6e5cedc3c145d30a25bf941afd0534b5f9d901138ed2e837",
+  "image_bytes": 2421667,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1945",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0247,
+   0.4967,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0247,
+    0.106,
+    0.4917
+   ],
+   [
+    0.106,
+    0.1872,
+    0.4917
+   ],
+   [
+    0.1872,
+    0.2685,
+    0.4917
+   ],
+   [
+    0.2685,
+    0.3498,
+    0.4917
+   ],
+   [
+    0.3498,
+    0.4311,
+    0.4917
+   ],
+   [
+    0.4311,
+    0.5124,
+    0.4917
+   ],
+   [
+    0.5124,
+    0.5936,
+    0.4917
+   ],
+   [
+    0.5936,
+    0.6749,
+    0.4917
+   ],
+   [
+    0.6749,
+    0.7562,
+    0.4917
+   ],
+   [
+    0.7562,
+    0.8375,
+    0.4917
+   ],
+   [
+    0.8375,
+    0.9187,
+    0.4917
+   ],
+   [
+    0.9187,
+    1.0,
+    0.4917
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2428,
+  "completion_tokens": 884,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.28,
+ "created_at": "2026-10-18T11:20:39+00:00",
+ "content": "<x_0.043><y_0.007>Part III.<x_0.2295><y_0.0281><class_Title>\n\n<x_0.7529><y_0.0063>OP T<x_0.9756><y_0.0273><class_Page-header>\n\n<x_0.0156><y_0.0297>Optical frerver hath not any mark to direct him: hence after- nomers are obliged to enlighten the crofs-hairs artificially, in order to render them vifible, and this with out letting the luminous body interfere with the object which they intend to view; and, for doing this, two ways are propofed.<x_0.9814><y_0.1141><class_Text>\n\n<x_0.1641><y_0.1125>**1.** The object-glafs of the telescope may be obliquely enlightened by placing a candle near to it in an oblique fituation, fo that its fmoke or flame may not interfere with the object. But if the object-glafs should happen to be pretty deep in the tube, it cannot be sufficiently enlightened by this means; and befides, if the telescope is above fix feet long, there will be a confiderable difficulty in throwing a sufficient quantity of light upon the crofs hairs.<x_0.9824><y_0.2367><class_List-item>\n\n<x_0.1631><y_0.2359>## 2. By fome an opening is made in the fide of the tube near the focus of the object-glafs, through which the crofs hairs are illuminated by means of a candle. But this method alfo is attended with inconveniences; for the obferver is incommoded by the light being fo near his eyes, and the hairs themselves become liable to accidents through their expofed situation. An error alfo attends this method; which is, that, according to the position of the light illuminating thefe hairs, they will appear in different situations. For example, when the horizontal hair is enlightened above, we perceive a luminous line which may be taken for the hair itself, and which appears at its upper superficies. On the other hand, when the hair is enlightened underneath, the luminous line will appear at the under surface of it; and the error will be the diameter of the hair, which often amounts to more than fixeconds. M. de la Hire, however, found a remedy for this inconvenience. He often observed, that in moon-fhine nights, when the weather was a little foggy, the crofs hairs were diftiently feen; but when the heavens were ferene, they could scarcely be perceived : he therefore covered with a piece of gauze, or fine filk-crape, that end of the tube next the object-glafs; and this method succeeded fo well, that a link placed at a good distance from the telefcope fo enlightened the crape, that the crafs-hairs diffirectly appeared, and the fight of the flars was by no means obscured.<x_0.9805><y_0.6211><class_Text>\n\n<x_0.165><y_0.6203>In making foliar observations, a fmoked glafs muit be ufed for preferving the eyes; and which may be thus prepared. Take two equal and well polished round pieces of flat glafs; upon the surface of one of which, all round its limb, glue a paleboard ring: then put the other piece of glafs into the fmoke of a lamp, taking it feveral times out, and putting it in again, left the heat fhould break it, until the fmoke be fo thick, that the lamp can fearcely be feen through it: but the fmoke muft not be all over of the fame thickness, that fo a place may be chosen anfwering to the fplendour of the fun. This being done, the glafs, thus blackened, must be glued to the paiteboard ring abovementioned, with its black fide next to the other glafs, that the fmoke may not be rubbed off.<x_0.9795><y_0.8273><class_Text>\n\n<x_0.166><y_0.8266>There are two kinds of observations relating to the flars: one is, when they are in the meridian; the other, when they are in vertical circles. If the position of the meridian be known, the quadrant with which the observation is made, must be placed in the plane of that circle, and then the meridian altitudes are easily observed by means of the plumb-line. The meridian<x_0.9785><y_0.9258><class_Text>",
+ "reply": {
+  "id": "chatcmpl-0941123e-b090-4d50-a190-4ae008459412",
+  "object": "chat.completion",
+  "created": 1792322438,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.043><y_0.007>Part III.<x_0.2295><y_0.0281><class_Title>\n\n<x_0.7529><y_0.0063>OP T<x_0.9756><y_0.0273><class_Page-header>\n\n<x_0.0156><y_0.0297>Optical frerver hath not any mark to direct him: hence after- nomers are obliged to enlighten the crofs-hairs artificially, in order to render them vifible, and this with out letting the luminous body interfere with the object which they intend to view; and, for doing this, two ways are propofed.<x_0.9814><y_0.1141><class_Text>\n\n<x_0.1641><y_0.1125>**1.** The object-glafs of the telescope may be obliquely enlightened by placing a candle near to it in an oblique fituation, fo that its fmoke or flame may not interfere with the object. But if the object-glafs should happen to be pretty deep in the tube, it cannot be sufficiently enlightened by this means; and befides, if the telescope is above fix feet long, there will be a confiderable difficulty in throwing a sufficient quantity of light upon the crofs hairs.<x_0.9824><y_0.2367><class_List-item>\n\n<x_0.1631><y_0.2359>## 2. By fome an opening is made in the fide of the tube near the focus of the object-glafs, through which the crofs hairs are illuminated by means of a candle. But this method alfo is attended with inconveniences; for the obferver is incommoded by the light being fo near his eyes, and the hairs themselves become liable to accidents through their expofed situation. An error alfo attends this method; which is, that, according to the position of the light illuminating thefe hairs, they will appear in different situations. For example, when the horizontal hair is enlightened above, we perceive a luminous line which may be taken for the hair itself, and which appears at its upper superficies. On the other hand, when the hair is enlightened underneath, the luminous line will appear at the under surface of it; and the error will be the diameter of the hair, which often amounts to more than fixeconds. M. de la Hire, however, found a remedy for this inconvenience. He often observed, that in moon-fhine nights, when the weather was a little foggy, the crofs hairs were diftiently feen; but when the heavens were ferene, they could scarcely be perceived : he therefore covered with a piece of gauze, or fine filk-crape, that end of the tube next the object-glafs; and this method succeeded fo well, that a link placed at a good distance from the telefcope fo enlightened the crape, that the crafs-hairs diffirectly appeared, and the fight of the flars was by no means obscured.<x_0.9805><y_0.6211><class_Text>\n\n<x_0.165><y_0.6203>In making foliar observations, a fmoked glafs muit be ufed for preferving the eyes; and which may be thus prepared. Take two equal and well polished round pieces of flat glafs; upon the surface of one of which, all round its limb, glue a paleboard ring: then put the other piece of glafs into the fmoke of a lamp, taking it feveral times out, and putting it in again, left the heat fhould break it, until the fmoke be fo thick, that the lamp can fearcely be feen through it: but the fmoke muft not be all over of the fame thickness, that fo a place may be chosen anfwering to the fplendour of the fun. This being done, the glafs, thus blackened, must be glued to the paiteboard ring abovementioned, with its black fide next to the other glafs, that the fmoke may not be rubbed off.<x_0.9795><y_0.8273><class_Text>\n\n<x_0.166><y_0.8266>There are two kinds of observations relating to the flars: one is, when they are in the meridian; the other, when they are in vertical circles. If the position of the meridian be known, the quadrant with which the observation is made, must be placed in the plane of that circle, and then the meridian altitudes are easily observed by means of the plumb-line. The meridian<x_0.9785><y_0.9258><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2428,
+   "completion_tokens": 884,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

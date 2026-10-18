@@ -1,0 +1,337 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:220",
+ "row_index": 220,
+ "volume_id": "149981189",
+ "filename": "page-0220-f28b3445b235.jpg",
+ "image_sha256": "f28b3445b2354a93e2efbd2647cb2058637dea9d7c095bb9c2e239624ac95565",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.08627,
+  "median_grey": 217,
+  "layout_body_chars": 6488,
+  "layout_pictures": 0
+ },
+ "running_head": "FUR [ 512 ] FUR",
+ "layout_raw": "page-0220-f28b3445b235/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.052,
+    1.0,
+    0.0796
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0220-f28b3445b235/head.json",
+   "finish_reason": "stop",
+   "request_key": "f6db9298bf1405b7ec7dfb906699d620ccc13b14e8e66c6539c239bf57974fa9"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.052,
+    0.515,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.052,
+     0.1382,
+     0.51
+    ],
+    [
+     0.1382,
+     0.2244,
+     0.51
+    ],
+    [
+     0.2244,
+     0.3105,
+     0.51
+    ],
+    [
+     0.3105,
+     0.3967,
+     0.51
+    ],
+    [
+     0.3967,
+     0.4829,
+     0.51
+    ],
+    [
+     0.4829,
+     0.5691,
+     0.51
+    ],
+    [
+     0.5691,
+     0.6553,
+     0.51
+    ],
+    [
+     0.6553,
+     0.7415,
+     0.51
+    ],
+    [
+     0.7415,
+     0.8276,
+     0.51
+    ],
+    [
+     0.8276,
+     0.9138,
+     0.51
+    ],
+    [
+     0.9138,
+     1.0,
+     0.51
+    ]
+   ],
+   "raw_path": "page-0220-f28b3445b235/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "49eefbc2043d69793bb5f0887c0ddb4b1677bf62c0e5be84686115ce8b3b8920"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.505,
+    0.052,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.052,
+     0.1382,
+     0.51
+    ],
+    [
+     0.1382,
+     0.2244,
+     0.51
+    ],
+    [
+     0.2244,
+     0.3105,
+     0.51
+    ],
+    [
+     0.3105,
+     0.3967,
+     0.51
+    ],
+    [
+     0.3967,
+     0.4829,
+     0.51
+    ],
+    [
+     0.4829,
+     0.5691,
+     0.51
+    ],
+    [
+     0.5691,
+     0.6553,
+     0.51
+    ],
+    [
+     0.6553,
+     0.7415,
+     0.51
+    ],
+    [
+     0.7415,
+     0.8276,
+     0.51
+    ],
+    [
+     0.8276,
+     0.9138,
+     0.51
+    ],
+    [
+     0.9138,
+     1.0,
+     0.51
+    ]
+   ],
+   "raw_path": "page-0220-f28b3445b235/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "3e752aec403be9dd413039fa9611f8c3b85ae83a8dadcf21c67800bdfcd2e70c"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "FUR [ 512 ] FUR",
+   "bbox": [
+    0.0,
+    0.052,
+    1.0,
+    0.0796
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0220-f28b3445b235:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "F U R T 5",
+   "bbox": [
+    0.249,
+    0.0557,
+    0.51,
+    0.0779
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0220-f28b3445b235:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "**Forr.** and called by him Queen Charlotte’s Sound, the latitude of which is 51 degrees north, longitude 128 well. The fnow Lark, Captain Peters, of 220 tons and 40 men, failed from Macao in July 1786. Her deltiination was Kamtfchatka (for which fue was provided with a fuitable cargo of arrack, tea, etc). Copper Iflands, and the N. W. coaft. Captain Peters was directed to make his paffage between Japan and Corea, and examine the iflands to the north of Japan, laid to be inhabited by hairy people; which, if Captain Cook had lived, would not have been left to the French to determine. No account having been received of this veffel fince her departure, there is every reafon to fear the has perifined.",
+   "bbox": [
+    0.0689,
+    0.0757,
+    0.507,
+    0.2624
+   ],
+   "source": "s0-col-left",
+   "id": "page-0220-f28b3445b235:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "In the beginning of 1786, two coppered veffels were fitted out at Bombay, under the direction of James Strange, Efq; who was himself a principal owner. Thefe veffels were, the fnow Captain Cook of 300 tons, and fnow Experiment of 100 tons. They proceeded in company from the Malabar coach to Batavia; paffed through the Straits of Macaffar, where the Experiment was run upon a reef, and was obliged to haul afhore upon Borneo to repair; from thence they fleered to the eastward of the Palaos Islands; made Sulphur Ifland; and arrived at Nootka the end of June following. From Nootka, where they left their furgeon's mate (Mackay) to learn the language and collect kins against their intended return (but who was brought away in the Imperial Eagle the following year), they proceeded along the coast to Queen Charlotte’s Sound, of which they were the first dicoverers; from thence in a direct courte to Prince William’s Sound. After fome day there, the Experiment proceeded to Macao (their veffels being provided with paffes by the governor general of Goa): the Captain Cook endeavoured to get to Copper Ifland, but without fuccefs, being prevented by constant weft winds.",
+   "bbox": [
+    0.1363,
+    0.2631,
+    0.5065,
+    0.5631
+   ],
+   "source": "s0-col-left",
+   "id": "page-0220-f28b3445b235:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Two coppered veffels were alfo fitted out by a foicity of gentlemen in Bengal, viz the fnow Nootka of 200 tons, and the fnow Sea Otter of 100 tons, commanded by John Mcares and William Tipping, lieutenants in the royal navy. The Nootka failed in March 1786 from Bengal; came through the China Seas; touched at the Balhees, where they were very civilly treated by the Spaniards, who have taken polfeffion of thefe iflands; arrived at Oonalatka the beginning of August; found there a Ruffian gallot and fome turriers; difecovered accidentally near Cape Greville a new limit into Cook's River, 15 leagues wide and 30 long; few fome Ruffian hunters in a small bay between Cape Elizabeth and Cape Bear; and arrived in Prince William's Sound the end of September. They determined wintering in Snug Corner Cove, lat. 60. 30. in preference to going to the Sandwich Iflands, which item placed by Providence for the comfort and refreshment of the adventurers in this trade, and were frozen up in this gloomy and frightful spot from the end of November to the end of May. By the feverny of the winter they loft their third and four h mates, furgeon, boatfwain, carpenter, and cooper, and twelve of the fore-maft men; and the remainder were to enfechled as to be under the necessity of applying to the commanders of the King George and Queen Charlotte, who jull at this time arrived in the found, for home hands to affit in carrying the vef-",
+   "bbox": [
+    0.1368,
+    0.5637,
+    0.5075,
+    0.9289
+   ],
+   "source": "s0-col-left",
+   "id": "page-0220-f28b3445b235:b4"
+  },
+  {
+   "order": 5,
+   "class": "Page-footer",
+   "text": "N° 133.",
+   "bbox": [
+    0.1559,
+    0.9281,
+    0.2153,
+    0.9444
+   ],
+   "source": "s0-col-left",
+   "id": "page-0220-f28b3445b235:b5"
+  },
+  {
+   "order": 6,
+   "class": "Head-fragment",
+   "text": "12 ] FUR",
+   "bbox": [
+    0.5089,
+    0.0565,
+    0.7776,
+    0.0772
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0220-f28b3445b235:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "fel to the Sandwich Iflands, where, giving over all further thoughts of trade, they determined (after getting a fea-ftock of filh off Cape Edgecumbe) immediately to proceed. The Nootka arrived at Macao the end of October 1787.",
+   "bbox": [
+    0.5132,
+    0.0779,
+    0.8796,
+    0.1453
+   ],
+   "source": "s0-col-right",
+   "id": "page-0220-f28b3445b235:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "The Imperial Eagle, Captain Barkley, fitted out by a fociety of gentlemen at Ollend, failed from Ollend the latter end of November 1786; went into the bay of All Saints; from thence, without touching any where, to the Sandwich Iflands, and arrived at Nootka the beginning of June; from thence to the fourth, as far as 47° 30’, in which space he difovered fome good and fpacious harbours. In the lat. of 47° 46, loft his second mate, purfer, and two feamen, who were upon a trading party with the long-boat, and imprudently trulling themfelves afore unarmed, were cut off by the natives. This place feems to be the fame that Don Antonio Mourelle calls the _Ilba de los Delores_, where the Spaniards going adhere to water, were alfo attacked and cut off.",
+   "bbox": [
+    0.5137,
+    0.1446,
+    0.8801,
+    0.3401
+   ],
+   "source": "s0-col-right",
+   "id": "page-0220-f28b3445b235:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "The King George of 320, and the Queen Charlotte of 200 tons, commanded by Captains Portlock and Dixon, who ferved under Captain Cook in his left voyage, were fitted out by a fociety of gentlemen in England, who obtained a privilege to trade to the north-welt coaft of America, from the South-Sea and East India companies.",
+   "bbox": [
+    0.5142,
+    0.3409,
+    0.8806,
+    0.4327
+   ],
+   "source": "s0-col-right",
+   "id": "page-0220-f28b3445b235:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "Thofe veffels failed from England the beginning of September 1785; touched at the Falkland Iflands, Sandwich Iflands, and arrived in Cook's River in the month of August. From thence, after collecting a few furrs, they fleered in the end of September for Prince William's Sound, intending, it is laid, to winter there; but were prevented entering, by heavy florms and extreme bad weather, which obliged them to bear away, and feel foine other part of the coaft to winter at. The florms and bad weather accompanied them till they arrived off Nootka Sound, when they were fo near the shore, that a canoe came off to them: but though thus near accomplishing their purpose, a fresh storm came on, and obliged them finally to bear away for the Sandwich Iflands, where they remained the winter months; and returning again to the coaft, arrived in Prince William's Sound the middle of May. The King George remained in Prince William's Sound; and during her, flay, her long-boat discovered a new paffage from the Sound into Cook's River. The Queen Charlotte proceeded along the coaft to the fourth; looked into Behring's Bay, where the Ruffians have now a fettlement; examined that part of the coaft from 56 to 50%, which was not feen by Captain Cook, and which conflicts of a chutter of illands, called by Captain Dixon _Queen Charlotte's IJlands_, at a considerable distance from the Main, which is thus removed farther to the callward than it was fuppofed to be: fome part of the continent may, however, be feen from the caft ride of thefe illands; and it is probable, the diffance does not any where exceed 50 leagues. On this eti mation, Hudson's Houfe, lat. 53° long. 106' 27' well, will not be more than 800 miles distant from that part of this coaft in the fame parallel. It is therefore not improbable, that the enterprising fpirit of our Cana dian furriers may penetrate to this coaft (the com munication with which is probably much facilitated by lakes or rivers), and add to the comforts and luxus",
+   "bbox": [
+    0.5127,
+    0.432,
+    0.8811,
+    0.9297
+   ],
+   "source": "s0-col-right",
+   "id": "page-0220-f28b3445b235:b10"
+  },
+  {
+   "order": 11,
+   "class": "Page-footer",
+   "text": "rice",
+   "bbox": [
+    0.8535,
+    0.9281,
+    0.8815,
+    0.9407
+   ],
+   "source": "s0-col-right",
+   "id": "page-0220-f28b3445b235:b11"
+  }
+ ]
+}

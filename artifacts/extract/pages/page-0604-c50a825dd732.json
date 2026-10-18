@@ -1,0 +1,374 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:604",
+ "row_index": 604,
+ "volume_id": "193819047",
+ "filename": "page-0604-c50a825dd732.jpg",
+ "image_sha256": "c50a825dd732a96ef099cb60b5160d5fadaf7974163160bf5a2ac4446c70b631",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.12549,
+  "median_grey": 217,
+  "layout_body_chars": 7885,
+  "layout_pictures": 0
+ },
+ "running_head": "T H O T H R 239",
+ "layout_raw": "page-0604-c50a825dd732/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0356,
+    1.0,
+    0.0663
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0604-c50a825dd732/head.json",
+   "finish_reason": "stop",
+   "request_key": "e2c882e030536d040a463763e766c54f92457bd0ab075acd241ec5ec4f03cd38"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0356,
+    0.4667,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0356,
+     0.116,
+     0.4617
+    ],
+    [
+     0.116,
+     0.1963,
+     0.4617
+    ],
+    [
+     0.1963,
+     0.2767,
+     0.4617
+    ],
+    [
+     0.2767,
+     0.3571,
+     0.4617
+    ],
+    [
+     0.3571,
+     0.4374,
+     0.4617
+    ],
+    [
+     0.4374,
+     0.5178,
+     0.46
+    ],
+    [
+     0.5178,
+     0.5982,
+     0.4583
+    ],
+    [
+     0.5982,
+     0.6785,
+     0.4583
+    ],
+    [
+     0.6785,
+     0.7589,
+     0.455
+    ],
+    [
+     0.7589,
+     0.8393,
+     0.455
+    ],
+    [
+     0.8393,
+     0.9196,
+     0.4517
+    ],
+    [
+     0.9196,
+     1.0,
+     0.4617
+    ]
+   ],
+   "raw_path": "page-0604-c50a825dd732/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "c105b0d1cce5ecac5873152e4e2bb4fd41156433ce04a7aacb3008aa449fa184"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4467,
+    0.0356,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0356,
+     0.116,
+     0.4617
+    ],
+    [
+     0.116,
+     0.1963,
+     0.4617
+    ],
+    [
+     0.1963,
+     0.2767,
+     0.4617
+    ],
+    [
+     0.2767,
+     0.3571,
+     0.4617
+    ],
+    [
+     0.3571,
+     0.4374,
+     0.4617
+    ],
+    [
+     0.4374,
+     0.5178,
+     0.46
+    ],
+    [
+     0.5178,
+     0.5982,
+     0.4583
+    ],
+    [
+     0.5982,
+     0.6785,
+     0.4583
+    ],
+    [
+     0.6785,
+     0.7589,
+     0.455
+    ],
+    [
+     0.7589,
+     0.8393,
+     0.455
+    ],
+    [
+     0.8393,
+     0.9196,
+     0.4517
+    ],
+    [
+     0.9196,
+     1.0,
+     0.4617
+    ]
+   ],
+   "raw_path": "page-0604-c50a825dd732/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "426b03ec90ccad625e75b2bf2e7261af7f9e844266853342657cb64518459166"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "T H O T H R 239",
+   "bbox": [
+    0.0,
+    0.0356,
+    1.0,
+    0.0663
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0604-c50a825dd732:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "T H O",
+   "bbox": [
+    0.2092,
+    0.0394,
+    0.3167,
+    0.0582
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-0604-c50a825dd732:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "_Thou._ attended, walking as mourners. The queen and princesses also assisted at the ceremony, and the concourse of people, including the public bodies, municipal and academical, amounted to many thousands. An interesting part of the ceremony was the performance of a _requiem_ written by the sculptor’s intimate and dear friend Ehlenschlager.",
+   "bbox": [
+    0.0123,
+    0.0619,
+    0.458,
+    0.1388
+   ],
+   "source": "s0-col-left",
+   "id": "page-0604-c50a825dd732:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Thorwaldsen was rather above the middle height, firmly built, with broad shoulders. The outline of his face was rather square. His general expression was calm and thoughtful, and very pleasing. His eyes were light and penetrating ; his mouth wide and usually closely shut. He wore his hair, which had grown nearly white, in large masses divided over his fine broad forehead, and falling on each side, something like a lion's mane, nearly to his shoulders.",
+   "bbox": [
+    0.0593,
+    0.1366,
+    0.4567,
+    0.2352
+   ],
+   "source": "s0-col-left",
+   "id": "page-0604-c50a825dd732:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Thorwaldsen will always take rank with Canova and Flaxman as one of the great regenerators of Sculpture. The former, his elders, were almost the first to break through the miserable routine of the worst mixed Italian and French art which had descended from Bernini and his school. Thorwaldsen nobly aided in advancing this revolution, and with them assisted in establishing the practice of sculpture upon true principles. (R. w-r.)",
+   "bbox": [
+    0.0552,
+    0.2338,
+    0.4558,
+    0.3332
+   ],
+   "source": "s0-col-left",
+   "id": "page-0604-c50a825dd732:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "THOU, JACQUES AUGUSTE DE, or, as his name is frequently written in its Latinized form, JACOBUS AUGUSTUS THUAANUS, was a distinguished French historian, and was born at Paris on the 8th of October 1553. In his infancy he was very weak and sickly, and infirmity of health clung to him into man's years. Indisposed to play like other boys by reason of his frail health, he cultivated a taste for drawing and reading when he should have been engaged in the boyish amusements peculiar to his years. De Thou was originally designed for the church, but he allowed his mind to take a much wider course in its thirst for knowledge than was fairly consistent with an aspirant after priest's orders. He greedily studied literature and science, and contracted so great a liking for Cujus, the celebrated jurist, that he set out for Valence in Dauphiné, and attended his lectures on Papinian. Here he formed the acquaintance of Joseph Scaliger, who remained one of his constant friends through-out life. De Thou returned to Paris in 1572 after a year's absence, to witness the marriage of Henry of Navarre ; to see the dead body of Coligny hanging from the gibbet; and to be a spectator of the horrible massacre of St Bartholomew. Next year he went to Italy as an attendant of Paul de Foix ; he visited Flanders and Holland in 1576, and in 1578 he accepted, with reluctance, the office of an ecclesiastical councillor of the parlement of Paris. In 1582, while on a visit to Bordeaux, he formed the friendship of honest, garrulous old Montaigne, whose character and genius he has warmly praised. His father, Christophe de Thou, first president of the parlement of Paris, having died during the same year, and both his elder and younger brothers being now dead, it was deemed advisable for De Thou to cease to be an ecclesiastic. He accordingly resigned that profession soon after, and accepted the office of Master of Requests, and was appointed to his uncle's place of _pré-_sident du mortier to the parlement of Paris. The De Thous had always remained firm adherents of royalty, and the most illustrious of them would not disgrace his ancestry. He was admitted a counsellor of state to Henry III. at Chartres, and was engaged in various delicate and important missions for Henry III. during the succeeding years. He visited Blois, Paris, Germany, and Italy, all in the royal cause. The death of Henry reached him in Venice in 1589. De Thou immediately set out for France by way of Switzerland, and was received very graciously by Henry IV. at Châteaudun. Henceforward he became a very useful servant to the crown. He was made keeper of the Royal Library on the death of Bishop Amyot in 1591, and in 1593 he commenced his great work _Historia Sui Temporis_, on which he had meditated for fifteen years.",
+   "bbox": [
+    0.0456,
+    0.3302,
+    0.4548,
+    0.9375
+   ],
+   "source": "s0-col-left",
+   "id": "page-0604-c50a825dd732:b5"
+  },
+  {
+   "order": 6,
+   "class": "Head-fragment",
+   "text": "T H R",
+   "bbox": [
+    0.6126,
+    0.0424,
+    0.7179,
+    0.0635
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0604-c50a825dd732:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "239",
+   "bbox": [
+    0.8876,
+    0.0506,
+    0.9292,
+    0.0672
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0604-c50a825dd732:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "From this period until his death his time was much occu-\npled in the composition of his history; and except the\narrangement of the Edict of Nantes, in which he had an\nimportant share, he engaged very little in public business.\nThe death of Henry in 1610 virtually brought his political\nlife to a termination. Soured with public disappointments,\nand torn by private griefs, caused mainly by the death of\nhis second wife, he died at Paris on the 7th of May 1617,\nin his sixty-fourth year. A son of De Thou's by his\nsecond wife, François August, fell a sacrifice to the inexor-\nable vengeance of Cardinal Richelieu on the 12th of Sep-\ntember 1642.",
+   "bbox": [
+    0.4651,
+    0.0642,
+    0.8654,
+    0.2157
+   ],
+   "source": "s0-col-right",
+   "id": "page-0604-c50a825dd732:b8"
+  },
+  {
+   "order": 9,
+   "class": "Caption",
+   "text": "Thouroat\nThrapton.",
+   "bbox": [
+    0.8665,
+    0.0725,
+    0.9314,
+    0.1079
+   ],
+   "source": "s0-col-right",
+   "id": "page-0604-c50a825dd732:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "From 1604, when the first eighteen books of De Thou’s _History_ appeared, the author was received with acclamation\nby all the reading public of Europe, as the first historian of\nthe age. During his life there appeared eighty books of it\nin all, and the remainder, forming in all one hundred and\nthirty-eight books, were published in 1620. The space\nover which his record extends, is from the year 1544 to\n1607; from the closing years of Francis I. till nearly the\ncompletion of the reign of Henry IV. It has all the liveli-\nness and freshness of a narrative, written by a man who\nwas a principal actor in the scenes which it is his business\nto chronicle; it has, besides, the rare merit of being singu-\nlarly impartial, the author recognising with uncommon\nfrankness the excellence and even occasional superiority of\nstatesmen and citizens who were avowed rivals to the\nnation which it was both his duty and his pride to honour\nand exalt. But it is much more upon the excellence of\nthe workmanship that De Thou’s _History_ lives, than upon\nthe comparative accuracy and faithfulness of its recorded\nfacts. While the style of the work certainly displays\nabundance of easy, flowing eloquence, it is perhaps defi-\ncient in the higher quality of vivid picturesqueness. The\nlanguage in which it was written was Latin ; and the author\nhas spared neither time nor labour to make it severely\nclassical. That it does not come quite up to this ideal is,\nperhaps, not to be wondered at. The best English edition\nof De Thou’s _History_ is that in 7 vols. by Samuel Buckley,\n1733. De Thou likewise wrote a number of Latin poems,\none of which, entitled _De Re Accipitraria_ (On Hawking),\nappeared in 1584. The _Life_ of this author has been fre-\nquently written. The above notice has been gathered from\nhis autobiography, which terminates in 1601, and from Col-\nlinson’s _Life of Thuanus_, London, 1807.",
+   "bbox": [
+    0.4559,
+    0.2103,
+    0.8633,
+    0.6195
+   ],
+   "source": "s0-col-right",
+   "id": "page-0604-c50a825dd732:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "THOUROUT, a town of Belgium, capital of a canton\nin the province of West Flanders, 11 miles S.W. of Bruges.\nIt has a fine church, a town-hall, several schools, and bene-\nvolent institutions. Linen, hats, leather, cordage, earthen-\nware, soap, tobacco, and other goods are made here. In\nthe vicinity are the remains of an old castle, once the resi-\ndence of the Counts of Flanders. Pop. 8405.",
+   "bbox": [
+    0.4548,
+    0.6158,
+    0.8519,
+    0.7054
+   ],
+   "source": "s0-col-right",
+   "id": "page-0604-c50a825dd732:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "THRACE, the ancient name of a country in the S.E.\nof Europe, now forming part of European Turkey. In the\nearliest times the name was used in a very vague sense,\nand applied to the whole region north of the Egean Sea,\nincluding Macedonia and even Scythia; but when this\ncountry became better known to the Greeks, Thrace was\nconfined within narrower and more definite limits. It was\nbounded on the N. by the Danube, E. by the Euxine and\nthe Bosphorus, S. by the Propontis and the Egean, and\nW. by the Strymon, or, at a later period, by the Nestus,\nwhich separated it from Macedonia. After the Roman\nconquest, its size was still further reduced by the chain of\nHæmus being made its northern boundary. It corresponds\npartly with the modern Rumili, which also includes part of\nMacedonia and Thessaly. (See RUMIL)",
+   "bbox": [
+    0.451,
+    0.7016,
+    0.8514,
+    0.887
+   ],
+   "source": "s0-col-right",
+   "id": "page-0604-c50a825dd732:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "THRAPSTON, a market-town of England, in the\ncounty and 18 miles N.N.E. of Northampton, on the Nen,\nwhich is here crossed by a bridge. The parish church is\ncruciform building with a tower and spire; and there are",
+   "bbox": [
+    0.4516,
+    0.8848,
+    0.8503,
+    0.9375
+   ],
+   "source": "s0-col-right",
+   "id": "page-0604-c50a825dd732:b13"
+  }
+ ]
+}

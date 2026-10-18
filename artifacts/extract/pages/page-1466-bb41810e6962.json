@@ -1,0 +1,477 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1466",
+ "row_index": 1466,
+ "volume_id": "149979622",
+ "filename": "page-1466-bb41810e6962.jpg",
+ "image_sha256": "bb41810e69624a12ba0855ee98b3a60633979581d1be11f1b33bdaf7f1fba919",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.1098,
+  "median_grey": 224,
+  "layout_body_chars": 6700,
+  "layout_pictures": 0
+ },
+ "running_head": "E S S [ 729 ] E S S",
+ "layout_raw": "page-1466-bb41810e6962/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0262,
+    1.0,
+    0.0546
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1466-bb41810e6962/head.json",
+   "finish_reason": "stop",
+   "request_key": "eb2c4ee9a5fce4cac2b0028b621ce73fac4e75c06d989261b93cf63c49ae2833"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0262,
+    0.4633,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0262,
+     0.1074,
+     0.4583
+    ],
+    [
+     0.1074,
+     0.1885,
+     0.4517
+    ],
+    [
+     0.1885,
+     0.2697,
+     0.4517
+    ],
+    [
+     0.2697,
+     0.3508,
+     0.4517
+    ],
+    [
+     0.3508,
+     0.432,
+     0.4517
+    ],
+    [
+     0.432,
+     0.5131,
+     0.4517
+    ],
+    [
+     0.5131,
+     0.5942,
+     0.4517
+    ],
+    [
+     0.5942,
+     0.6754,
+     0.4517
+    ],
+    [
+     0.6754,
+     0.7566,
+     0.4517
+    ],
+    [
+     0.7566,
+     0.8377,
+     0.4517
+    ],
+    [
+     0.8377,
+     0.9188,
+     0.4517
+    ],
+    [
+     0.9188,
+     1.0,
+     0.4517
+    ]
+   ],
+   "raw_path": "page-1466-bb41810e6962/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "7caf7d80ed332c9c65d7d69ca32a3330ff659330117e18467f1cedbeae805391"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4467,
+    0.0262,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0262,
+     0.1074,
+     0.4583
+    ],
+    [
+     0.1074,
+     0.1885,
+     0.4517
+    ],
+    [
+     0.1885,
+     0.2697,
+     0.4517
+    ],
+    [
+     0.2697,
+     0.3508,
+     0.4517
+    ],
+    [
+     0.3508,
+     0.432,
+     0.4517
+    ],
+    [
+     0.432,
+     0.5131,
+     0.4517
+    ],
+    [
+     0.5131,
+     0.5942,
+     0.4517
+    ],
+    [
+     0.5942,
+     0.6754,
+     0.4517
+    ],
+    [
+     0.6754,
+     0.7566,
+     0.4517
+    ],
+    [
+     0.7566,
+     0.8377,
+     0.4517
+    ],
+    [
+     0.8377,
+     0.9188,
+     0.4517
+    ],
+    [
+     0.9188,
+     1.0,
+     0.4517
+    ]
+   ],
+   "raw_path": "page-1466-bb41810e6962/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "f6b915e4a79849d82a3a58b6c27d124c2dc8f63188fce1887130d6def22bee64"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "E S S [ 729 ] E S S",
+   "bbox": [
+    0.0,
+    0.0262,
+    1.0,
+    0.0546
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1466-bb41810e6962:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "E S S |  7",
+   "bbox": [
+    0.1919,
+    0.0308,
+    0.4628,
+    0.0536
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1466-bb41810e6962:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "weighed, and made of paper not impregnated with alum. It is to be dried at firft with a gentle heat, but afterwards expofed for five minutes to a heat of 100%. On cooling, it is to be weighed together with the filter; the known weight of which muit afterwards be fubtracted. The fediment is belt wahed in a bottle; for a filter when once impregnated with false matter cannot be freed from it again without great difficulty, especially if an interval of fome hours intervenes.",
+   "bbox": [
+    0.0728,
+    0.0521,
+    0.4538,
+    0.1753
+   ],
+   "source": "s0-col-left",
+   "id": "page-1466-bb41810e6962:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "The alkali made ufe of in Mr Bergman's experiments, was that of folla faturated with aerial acid. His phlogificated alkali is made by deflagrating equal weights of pure nitre and cream of tartar intimately mixed together; the reidium is the common white flux. Half an ounce of this is diffused in half a quadrans of diffilled water. To this he adds, in a digelting heat, two ounces of Pruflian blue, carefully avoiding such an effervefence as may throw any thing over, which cafily happens if the quantity be too large. The pigment foon lofes its beautiful blue colour, growing not red but black; which flows that a decomposition has taken place. The Pruflian blue ufed in his experiments contained in 100 parts only 23 of the pigment and 77 of the clay; fo that if we employ the blue made without any alum, 221 grains of it will saturate the half ounce of alkaline fat more completely than the two ounces of the kind already described. But in whatever manner the operation is performed, after the addition of the left quantity, the whole muit be ex- pofed to a stronger digelting heat, and flirred with a wooden fpatula. If the liquor be too much diminifhed by evaporation, the defect muff be fuplplied by adding more water. When the liquor becomes clear, the reiduum muit be collected upon filtering paper, and gradually waffed with warm water until all the foluble part is extracted; when, if the operation has been properly conducted, the filtered liquor amounts to a whole quadrans, of a brownish yellow colour, and fo well faturated with colouring matter, that it does not change the colour of paper tinged with Brafil wood. This lixivium, however, contains a fmall quantity of Pruflian blue, about 4 lb.to a cwt. of the alkali. Thefe should be previously separated by an acid, or, which is better, corrected by fubtracting from the weight of the fediment16 effay pounds for each quadrans of the lixivium. When we wish to examine the colour of the precipitate exactly, however, the lixivium we employ muit necellarily be well depurated; for by neglecting this precaution we may easily perfuade ourselves that any metal precipitated by the lixivium has a blue colour. When we only wish to afcertain the weight, the lixivium, having the fmall proportion of Pruflian blue intermixed, may be employed: but fill the proper correction mult ultimately be made ufe of; for the precipitating acid is wont to impair the qualities of the lixivium, and even to destroy them altogether, efpecially in a warm temperature. Calcareous earth, whether in its mild or cauftic fate, is alfo capable of abbracting a coloured fubblance from iron and other metals.",
+   "bbox": [
+    0.0588,
+    0.1738,
+    0.4529,
+    0.8569
+   ],
+   "source": "s0-col-left",
+   "id": "page-1466-bb41810e6962:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "In the precipitation of metals by metals, it is to be obferved, that the acid of the foliation ought to be fomewhat predominant’s, but any confiderable excess muff be corrected occasionally, either by alkali, water, or fpirit of wine.",
+   "bbox": [
+    0.0638,
+    0.8562,
+    0.4443,
+    0.9239
+   ],
+   "source": "s0-col-left",
+   "id": "page-1466-bb41810e6962:b4"
+  },
+  {
+   "order": 5,
+   "class": "Caption",
+   "text": "VOL. VI. Part II.",
+   "bbox": [
+    0.081,
+    0.9247,
+    0.2145,
+    0.9384
+   ],
+   "source": "s0-col-left",
+   "id": "page-1466-bb41810e6962:b5"
+  },
+  {
+   "order": 6,
+   "class": "Caption",
+   "text": "8 low to precipitate metals by metals.",
+   "bbox": [
+    0.0,
+    0.8509,
+    0.0584,
+    0.9102
+   ],
+   "source": "s0-col-left",
+   "id": "page-1466-bb41810e6962:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "29 | ES S",
+   "bbox": [
+    0.4553,
+    0.03,
+    0.7385,
+    0.0521
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "In the following experiments an effay cwt. was al- ways employed, unlefs where it is exprefsly mentioned otherwife: conclusions sufficiently accurate may indeed be obtained from 25 lb. may fometimes from finaler quantities. In thefe cafes our author mentions the ufual quantity; applying to them thofe formule of calculation which are founded on the mutual proportions of the proximate principles conflicting metallic salts. By an easy fubflitution, the fame formula may be ufed by thofe who employ or cwt. We now come to describe the method of effaying the ores of the particular metals.",
+   "bbox": [
+    0.4596,
+    0.0513,
+    0.846,
+    0.2134
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "1. _Ores of Gold._ This metal occurs in the bowels of the earth native, poffelling a complete metallic form, although in general the final particles of it are fo in terperfed in various matrices, that they are entirely invifible. It is also found mineralized, or united with fulphur by means of iron or fome other metal. Thefe two species of ore we shall confer separately.",
+   "bbox": [
+    0.4591,
+    0.2126,
+    0.8439,
+    0.3214
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "Native gold is very feldom, if ever, free from heterogencous matters; the moft ufual mixtures are cop per, filver, and fometimes iron. The first of thefe remains in the menfruum, and may be feparately collected by differing the gold in aqua-regia, and precipitating it by martial vitriol : the second falls during the folution, yielding a fallited silver; which, being washed and dried, flows the weight of the filter contained; and the iron may be difcovered by phlogifficated alkali. The precipitate occasioned by martial vi triol is pure gold in its metallic flate, but very fubtilely divided, and therefore its weight requires no correction.",
+   "bbox": [
+    0.4586,
+    0.3206,
+    0.8411,
+    0.4819
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "Hence it appears how small a portion of gold inherent in the ores of other metals may be extracted; befides, a foliation containing the moft minute particole of gold inflantly produces the purple precipi tate of Caffius, with a foliation of tin properly prepared.",
+   "bbox": [
+    0.457,
+    0.4804,
+    0.8395,
+    0.5618
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "As to the ore which contains gold adhering to and furrounded by flony particles, r. We mult reduce a deter mined weight to an impalpable powder by triture and elutriation. Then let the powder, weighed aecondtime, be boiled in aqua regia, as long as any thing is taken up by the menfruum; after which, let the exhausted ore, well wafhed, be collected, exfcicated to ignition, and weighed. Let the clear folution (the colour of which, in fome degree, affords a method of judging) be precipitated in the ufual way by martial vitriol; the precipitate well wafhed, dried, and weighed, flows the gold, which, added to the weight of the exhaufted ore, ought to be equal to the original weight, unlefs fomewhat has been difperfed by the pulverifation, or unlefs fome of the matrice has entered the menfruum. The former of thefe is difovered by comparing the weights before and after pulverifation; the latter by precipitants.",
+   "bbox": [
+    0.4532,
+    0.561,
+    0.839,
+    0.8022
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "When grains of gold are mixed with loofe earthy particles, they are fometimes easily feparated by mechanical application of water.",
+   "bbox": [
+    0.4526,
+    0.8014,
+    0.8352,
+    0.8425
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "When the metal is mineralified by fulphur, as in the golden pyrites, let one or more effay cwts. reduced to powder be gently boiled in the nitrous acid, or rather digested in a heat of 50°—80°, left the fulphur should be defroyded. It is even necellary to employ a more gentle heat for this purpofs, that the fulphurcous par-",
+   "bbox": [
+    0.4521,
+    0.8433,
+    0.8347,
+    0.9254
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b14"
+  },
+  {
+   "order": 15,
+   "class": "Caption",
+   "text": "Effaying<sup>∗</sup>",
+   "bbox": [
+    0.8476,
+    0.0505,
+    0.9152,
+    0.0764
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b15"
+  },
+  {
+   "order": 16,
+   "class": "Caption",
+   "text": "9 Weights\nufed in Mr Bergman's experientents.",
+   "bbox": [
+    0.8422,
+    0.0771,
+    0.9146,
+    0.1457
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b16"
+  },
+  {
+   "order": 17,
+   "class": "Caption",
+   "text": "How to ef- fay the ores of gold.",
+   "bbox": [
+    0.8406,
+    0.2103,
+    0.9141,
+    0.2567
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b17"
+  },
+  {
+   "order": 18,
+   "class": "Caption",
+   "text": "Iz Native gold.",
+   "bbox": [
+    0.84,
+    0.3138,
+    0.8855,
+    0.348
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b18"
+  },
+  {
+   "order": 19,
+   "class": "Caption",
+   "text": "Iz Ores of this metal pro- perly to cal- led.",
+   "bbox": [
+    0.8384,
+    0.5557,
+    0.9087,
+    0.6105
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b19"
+  },
+  {
+   "order": 20,
+   "class": "Caption",
+   "text": "I3 Gold mine- realized by fulphur.",
+   "bbox": [
+    0.8298,
+    0.8395,
+    0.9038,
+    0.8851
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b20"
+  },
+  {
+   "order": 21,
+   "class": "Page-footer",
+   "text": "4 Z",
+   "bbox": [
+    0.6342,
+    0.9232,
+    0.6688,
+    0.9384
+   ],
+   "source": "s0-col-right",
+   "id": "page-1466-bb41810e6962:b21"
+  }
+ ]
+}

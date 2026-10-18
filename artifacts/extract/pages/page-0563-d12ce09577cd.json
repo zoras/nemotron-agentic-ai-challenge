@@ -1,0 +1,412 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:563",
+ "row_index": 563,
+ "volume_id": "191253801",
+ "filename": "page-0563-d12ce09577cd.jpg",
+ "image_sha256": "d12ce09577cd595ffccb50fb02c3988a960dc48cddaf8a615756fb5f60aaa587",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.08627,
+  "median_grey": 213,
+  "layout_body_chars": 6815,
+  "layout_pictures": 0
+ },
+ "running_head": "A C T [ 97 ] A C T",
+ "layout_raw": "page-0563-d12ce09577cd/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0546
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0563-d12ce09577cd/head.json",
+   "finish_reason": "stop",
+   "request_key": "0a674efa880c0d195f10ddf951cdfb346446bf143d2f0e3c66067e50b8e82654"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0247,
+    0.47,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.45
+    ],
+    [
+     0.106,
+     0.1872,
+     0.4533
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.4567
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.46
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.46
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.46
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.46
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.46
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.46
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.46
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.4633
+    ],
+    [
+     0.9187,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-0563-d12ce09577cd/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "c435143292db052fac5ec6338d805ba3aa04f96142e3012ab0b1ade83f5d8f97"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.445,
+    0.0247,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.45
+    ],
+    [
+     0.106,
+     0.1872,
+     0.4533
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.4567
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.46
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.46
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.46
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.46
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.46
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.46
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.46
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.4633
+    ],
+    [
+     0.9187,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-0563-d12ce09577cd/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "718f620c248e1c6ecb21d0d43bf2095bc11a11c0e31e226ead166d5440d3856c"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "A C T [ 97 ] A C T",
+   "bbox": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0546
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0563-d12ce09577cd:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**A C T [ 9**",
+   "bbox": [
+    0.1762,
+    0.0308,
+    0.4539,
+    0.0583
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "ACROTELEUTIC, among ecelefialic writers, an appellation given to any thing added to the end of a palm; as the Gloria Patri. or Doxology.",
+   "bbox": [
+    0.0587,
+    0.0537,
+    0.4411,
+    0.1017
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "ACROTERIA, in architecture, final pedeftals, ufully without bafes, anciently placed at the middle or two extremes of pediments or frontifpieces, ferving to support the flatues, &c. It alfo signifies the figures placed as ornaments on the tops of churches, and the sharp pinnacles that fland in ranges about flat buildings with rails and ballufters.",
+   "bbox": [
+    0.0597,
+    0.0948,
+    0.4475,
+    0.1969
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Among ancient physicians, it fignified the larger extremities of the body, as the head, hands, and feet. It has alfo been used for the tips of the fingers, and fometimes for the eminences or proceffes of bones",
+   "bbox": [
+    0.0652,
+    0.19,
+    0.448,
+    0.251
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "ACROTHYMION, from _axe_, _extreme_, and _toucer_, _thyme._ A fort of wart deferibed by Celfus as hard, rough, with a narrow bafs and broad top; the top is of the colour of thyme, it easily fplits and bleeds. This tumour is alfo called _thymus._",
+   "bbox": [
+    0.067,
+    0.2441,
+    0.4484,
+    0.3189
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "ACT, in general, denotes the exertion of power; and differs from power, as the effect from the caulfe.",
+   "bbox": [
+    0.0679,
+    0.3135,
+    0.4489,
+    0.3455
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Act, in logic, is particularly underflood of an operation of the human mind. Thus to discern and examine, are acts of the understanding: to judge and afirm, are acts of the will. There are voluntary and fpontaneous acts; the former are produced by the operation of the foul, the latter without its privity or participation.",
+   "bbox": [
+    0.0684,
+    0.3409,
+    0.4521,
+    0.4422
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "Act, in the univertitics, fignifies a thefts maintained in public by a candidate for a degree; or to flow the capacity and proficiency of a fludent. The candidates for a degree of bachelor and matter of arts are to hold philofophical Acts; and thofe for bachelor of divinity, theological Acts, &c. At Oxford, the time when matters or doctors complete their degrees is alfo called the _all_; which is held with great folemnity. At Cambridge, they call it the _commencement_.",
+   "bbox": [
+    0.0693,
+    0.4362,
+    0.4562,
+    0.5641
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "_Acr of Faith, Auto da Fe,_ in the Romith church is a folemn day held by the inquition, for the punifh ment of heretics, and the abfolution of the innocent ac- cuffed\\*. They ufually contrive the _Auto_ to fall on fome great fetilval, that the execution may pafs with the more awe and regard; at least it is always on a Sunday.",
+   "bbox": [
+    0.0734,
+    0.5589,
+    0.4567,
+    0.6465
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "The Auto da Fe may be called the left act of the inquilitorial tragedy; it is a kind of goal-delivery, appointed as oft as a competent number of prifoners in the inquilition are convicted of herefly, either by their own voluntary, or extorted confection, or on the evidence of certain witnefiles. The proceeds is thus: in the morning they are brought into a great hall, where they have certain habits put on, which they are to wear in the proceffion. The proceffion is led up by domi- nican frars; after which come the penitents, fome with fan-benitoes, and fome without, according to the nature of their crimes; being all in black coats without fleeves, and bare footed, with a wax candle in their hands. There are followed by the penitents who have narrowly escaped being burnt, who over their black coats have flames painted with their points turned downwards, _Feugo revolto._ Next come the negative, and relapfed, who are to be burnt, having flames on their habits pointing upwards. After thefe come fuch as pro- fefs doctrines contrary to the faith of Rome, who, besides flames pointing upwards, have their picture paint- ed on their breaths, with dogs, ferpents, and devils, all",
+   "bbox": [
+    0.0753,
+    0.6419,
+    0.4677,
+    0.9459
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b10"
+  },
+  {
+   "order": 11,
+   "class": "Page-footer",
+   "text": "Vol. I. Part I.",
+   "bbox": [
+    0.1047,
+    0.9428,
+    0.2116,
+    0.9596
+   ],
+   "source": "s0-col-left",
+   "id": "page-0563-d12ce09577cd:b11"
+  },
+  {
+   "order": 12,
+   "class": "Head-fragment",
+   "text": "7 I A C T",
+   "bbox": [
+    0.4483,
+    0.0285,
+    0.7214,
+    0.0513
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0563-d12ce09577cd:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "open-mouthed, about it. Each prifoner is attended with a familiar of the inquition ; and thofe to be burnt have alfo a Jefuit on each hand, who are continually preaching to them to abjure. After the prifoners, comes a troop of familiars on horfeback ; and after them the inquilitors, and other officers of the court, on mules ; laft of all, the inquilitor general on a white horse, led by two men with black hats and green hat-bands. A feaffold is erected in the _Terriero de Paio_, big enough for two or three thousand people ; at one end of which are the prifoners, at the other the inquilitors. After a fermon made up of encomiums of the inquilition, and invectives against herctics, a priet afcends a defk near the middle of the feaffold, and having taken the abjura tion of the penitents, recites the final fentence of thofe who are to be put to death ; and delivers them to the fecular arm, earnestly befecching at the fame time the fecular power not to touch their blood, or put their lives in danger. The prifoners being thus in the hands of the civil magiltrate, are preferably loaded with chains, and carried first to the fecular goal, and from thence in an hour or two brought before the civil judge; who, after afking in what religion they intend to die, pronounces fentence, on fuch as declare they die in the communion of the church of Rome, that they shall be first litrangled, and then burnt to athes ; on fuch as die in any other faith, that they be burnt alive. Both are immediately carried to the Ribera, the place of execution ; where there are as many flakes fet up as there are prifoners to be burnt, with a quantity of dry furze a bout them. The flakes of the profelled, that is, fuch as perfilt in their herefly, are about four yards high, having a small board towards the top for the prifoner to be feated on. The negative and relapfed being firft flrangled and burnt, the profelled mount their flakes by a ladder ; and the Jefuits, after feveral repeated exhortations to be reconciled to the church, part with them, telling them they leave them to the devil, who is standing at their elbow to receive their fouls, and carry them with him into the flames of hell. On this a great fhout is raified ; and the cry is, Let the dogs beards be made ; which is done by thrufling flaming furzes fattened to long poles againlt their faces, till their faces are burnt to a coal, which is accompanied with the loudeft acclamations of joy. At left, fire is fet to the furze at the bottom of the lake, over which the profelled are chained fo high, that the top of the flame feldom reaches higher than the feat they lit on ; fo that they rather feem roafted than burnt. There cannot be a more lamentable fpeclacle ; the fufferers continually cry out, while they are able, _Mifericordia per amor de Dios_, \"Pity for the love of God!\" yet it is beheld by all fexes, and ages, with tranfports of joy and satisfaction.",
+   "bbox": [
+    0.4493,
+    0.0475,
+    0.8542,
+    0.7775
+   ],
+   "source": "s0-col-right",
+   "id": "page-0563-d12ce09577cd:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "Acr, in dramatic poetry, fignifies a certain divi- fion, or part, of a play, deligned to give fome refpite both to the actors and fpectators. The Romans were the frit who divided their theatrical pieces into acts ; for no fuch divifions appear in the works of the frit dramatic poets. Their pieces indeed confilled of fever- ral parts or divifions, which they called _protafis, epi- tafis, catafiafis_, and _catafirophe_; but thefe divillions were not marked by any real interruptions on the theatre. Nor does Arillotle mention any thing of acts in his Art of Poetry. But, in the time of Horace, all regular and finished pieces were divided into five acts.",
+   "bbox": [
+    0.4716,
+    0.7722,
+    0.858,
+    0.9413
+   ],
+   "source": "s0-col-right",
+   "id": "page-0563-d12ce09577cd:b14"
+  },
+  {
+   "order": 15,
+   "class": "Page-footer",
+   "text": "N",
+   "bbox": [
+    0.6558,
+    0.9368,
+    0.6748,
+    0.9512
+   ],
+   "source": "s0-col-right",
+   "id": "page-0563-d12ce09577cd:b15"
+  },
+  {
+   "order": 16,
+   "class": "Page-footer",
+   "text": "_Neuro_",
+   "bbox": [
+    0.8103,
+    0.933,
+    0.8612,
+    0.9505
+   ],
+   "source": "s0-col-right",
+   "id": "page-0563-d12ce09577cd:b16"
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "89f5f79e5966562146ad3fff5ded572dca32daf580e45f6c7ba4f5837dc548db",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f9adfc2f533840efa493817bfd616e8fe5e0f9773222b24d7462fde30e38ee2b",
+  "image_bytes": 2330999,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2087",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4417,
+   0.0749,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0749,
+    0.159,
+    0.4467
+   ],
+   [
+    0.159,
+    0.2431,
+    0.4467
+   ],
+   [
+    0.2431,
+    0.3272,
+    0.4467
+   ],
+   [
+    0.3272,
+    0.4113,
+    0.4467
+   ],
+   [
+    0.4113,
+    0.4954,
+    0.4467
+   ],
+   [
+    0.4954,
+    0.5795,
+    0.4467
+   ],
+   [
+    0.5795,
+    0.6636,
+    0.4467
+   ],
+   [
+    0.6636,
+    0.7477,
+    0.4467
+   ],
+   [
+    0.7477,
+    0.8318,
+    0.4467
+   ],
+   [
+    0.8318,
+    0.9159,
+    0.4467
+   ],
+   [
+    0.9159,
+    1.0,
+    0.4467
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2799,
+  "completion_tokens": 871,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.49,
+ "created_at": "2026-10-18T11:11:35+00:00",
+ "content": "<x_0.0078><y_0.0>had been guilty of the original aggression in the war, and contended that the British government had engaged in it unnecessarily, and persisted in it without necessity. Mr Pitt, on the other hand, affirmed that the French leaders had themselves begun the war, on the principle that it was necessary to consolidate the revolution. With regard to the proposal to negociate with their present leader, it was impossible to discuss fairly its propriety, without taking into consideration his personal character and conduct. Mr Pitt then expatiated on the conduct of Bonaparte at Campo Formio, in the Milanese, Genoa, Modena, Tus-cany, Rome, Venice, Switzerland, and Egypt. His arts of perfidy, he said, were commensurate with the number of treatics; and if we traced the history of the men in this revolution whose conduct had been marked by the most atrocious cruelty, the name of Bonaparte would be found allied to more of them than that of any other within these ten eventful and disastrous years. From these facts the house might judge what reliance might reasonably be placed on this conqueror, and what degree of credit might be given to his professions. It had been observed, indeed, that whatever had been his character, he had now an interest in making and preserving peace. This was a doubtful proposition. That it was his interest to negociate, would be readily acknowledged, and to negociate with this coun- try separately, in order to dissolve the whole system of the confederacy on the Continent; to paralyse at once the arms of Russia, of Austria, or of any other country which might look to us for support; and then either to break off his separate treaty, or, if he should have concluded it, to apply the lesson taught in his school of policy in Egypt, and to revive at his pleasure those claims of indemnification which may have been reserved to some happier period. Under all these circumstances of his personal character and his newly acquired power, what security had he for retaining that power but the sword? His hold upon France was the sword, and he had no other. But was the inference to be drawn from these considerations, that we ought in no case to treat with Bonaparte? No ; but we ought to wait for the evidence of facts. At present there was nothing from which we could presage a favourable disposition in the French consuls. There was the greatest reason to rely on powerful co-operation from our allies; the strongest indication in the interior of France of a disposition to resist this new tyranny; and every ground to believe, that if we were disappointed of complete success, the continuance of the contest, instead of making our situation comparatively worse, would make it comparatively better. With regard to the negotiation at Lisle in 1797, to which allusions had been made, the Jacobin system of prodigality and bloodshed, by which the efforts of France had been supported, had at that period driven us to ex- ertions which had exhausted the ordinary means of defraying our immense expenditure, and led many who were convinced of the necessity of the war to doubt the possibility of persisting in it. Under this impression we negotiated, not from the sanguine hope that its result would be permanent security, but from the persuasion that the danger arising from peace in these circumstances would be less than the continuance of war with inadequate means. Mr Fox was decidedly of opinion that France, at the commencement of the war, was the defending party. The aggressions of Austria and Prussia could not be denied by any impartial person ; nothing could be more decidedly hostile than their proceedings; they scrupled not to declare to France that it was her internal concerns, not her outward actions, which provoked them to confederate against her; they did not pretend to fear her ambition, her conquests, her troubling her neighbours; but they accused her of new-modelling her own government. In all this he<x_0.6865><y_0.8875><class_Text>\n\n<x_0.6816><y_0.0008>Reign of George III.<x_0.8008><y_0.0258><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-4113e5cb-32c2-48c4-aea0-50cbeff147cf",
+  "object": "chat.completion",
+  "created": 1792321894,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0>had been guilty of the original aggression in the war, and contended that the British government had engaged in it unnecessarily, and persisted in it without necessity. Mr Pitt, on the other hand, affirmed that the French leaders had themselves begun the war, on the principle that it was necessary to consolidate the revolution. With regard to the proposal to negociate with their present leader, it was impossible to discuss fairly its propriety, without taking into consideration his personal character and conduct. Mr Pitt then expatiated on the conduct of Bonaparte at Campo Formio, in the Milanese, Genoa, Modena, Tus-cany, Rome, Venice, Switzerland, and Egypt. His arts of perfidy, he said, were commensurate with the number of treatics; and if we traced the history of the men in this revolution whose conduct had been marked by the most atrocious cruelty, the name of Bonaparte would be found allied to more of them than that of any other within these ten eventful and disastrous years. From these facts the house might judge what reliance might reasonably be placed on this conqueror, and what degree of credit might be given to his professions. It had been observed, indeed, that whatever had been his character, he had now an interest in making and preserving peace. This was a doubtful proposition. That it was his interest to negociate, would be readily acknowledged, and to negociate with this coun- try separately, in order to dissolve the whole system of the confederacy on the Continent; to paralyse at once the arms of Russia, of Austria, or of any other country which might look to us for support; and then either to break off his separate treaty, or, if he should have concluded it, to apply the lesson taught in his school of policy in Egypt, and to revive at his pleasure those claims of indemnification which may have been reserved to some happier period. Under all these circumstances of his personal character and his newly acquired power, what security had he for retaining that power but the sword? His hold upon France was the sword, and he had no other. But was the inference to be drawn from these considerations, that we ought in no case to treat with Bonaparte? No ; but we ought to wait for the evidence of facts. At present there was nothing from which we could presage a favourable disposition in the French consuls. There was the greatest reason to rely on powerful co-operation from our allies; the strongest indication in the interior of France of a disposition to resist this new tyranny; and every ground to believe, that if we were disappointed of complete success, the continuance of the contest, instead of making our situation comparatively worse, would make it comparatively better. With regard to the negotiation at Lisle in 1797, to which allusions had been made, the Jacobin system of prodigality and bloodshed, by which the efforts of France had been supported, had at that period driven us to ex- ertions which had exhausted the ordinary means of defraying our immense expenditure, and led many who were convinced of the necessity of the war to doubt the possibility of persisting in it. Under this impression we negotiated, not from the sanguine hope that its result would be permanent security, but from the persuasion that the danger arising from peace in these circumstances would be less than the continuance of war with inadequate means. Mr Fox was decidedly of opinion that France, at the commencement of the war, was the defending party. The aggressions of Austria and Prussia could not be denied by any impartial person ; nothing could be more decidedly hostile than their proceedings; they scrupled not to declare to France that it was her internal concerns, not her outward actions, which provoked them to confederate against her; they did not pretend to fear her ambition, her conquests, her troubling her neighbours; but they accused her of new-modelling her own government. In all this he<x_0.6865><y_0.8875><class_Text>\n\n<x_0.6816><y_0.0008>Reign of George III.<x_0.8008><y_0.0258><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2799,
+   "completion_tokens": 871,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "8e98761b89ea24b9ab1b97c79277086ab0970c87032f38a3812e5b27354ee580",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "49eed51d80103fc2cc6e34303724361fd7e0d4e4278ba81e1e2019073aeb8281",
+  "image_bytes": 1982191,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:914",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5233,
+   0.0616,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0616,
+    0.1469,
+    0.5283
+   ],
+   [
+    0.1469,
+    0.2322,
+    0.5317
+   ],
+   [
+    0.2322,
+    0.3175,
+    0.535
+   ],
+   [
+    0.3175,
+    0.4028,
+    0.5383
+   ],
+   [
+    0.4028,
+    0.4881,
+    0.54
+   ],
+   [
+    0.4881,
+    0.5735,
+    0.54
+   ],
+   [
+    0.5735,
+    0.6588,
+    0.54
+   ],
+   [
+    0.6588,
+    0.7441,
+    0.54
+   ],
+   [
+    0.7441,
+    0.8294,
+    0.5433
+   ],
+   [
+    0.8294,
+    0.9147,
+    0.5517
+   ],
+   [
+    0.9147,
+    1.0,
+    0.5433
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2462,
+  "completion_tokens": 918,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.35,
+ "created_at": "2026-10-18T11:10:36+00:00",
+ "content": "<x_0.0><y_0.0>their wildom and integrity; their influence was divided with their patrimony: and the feeptre was transferred from the uncles of the prophet to a younger branch of the tribe of Koreifh. On folemn occasions they convened the affembly of the people; and, fince mankind mult bei-ther compelled or perluaded to obey, the ufe and repu-tation of oratory among the ancient Arabs is the clear-elt evidence of public freedom. But their limple free-dom was of a very different caft from the nice and artificial machinery of the Greek and Roman republics, in which each member poffelled an undivided thare of the civil and political rights of the community. In the more limple flate of the Arabs, the nation is free, because each of her fons difdains a bafe fubmilion to the will of a matter. His breast is fortified with the aufere virtues of courage, patience, and fobriety: the love of independence prompts him to exercife the habits of felt-command ; and the fear of dilhonour guards him from the meaner apprehension of pain, of danger, and of death. The gravity and firmnefs of the mind is confpicuous in its outward demeanor: his fpeech is flow, weighty, and concife ; he is feldom provoked to laughter; his only gesture is that of froaking his beard, the venerable fymbol of manhood ; and the fenfe of his own importance teaches him to accoft his equals with-out levity, and his fuperiors without awe. The liberty of the Saracens furvived their conquelts: the firlt kha-lifs indulged the bold and familiar language of their subjects: they attended the pulpit to perluade and edi-fy the congregation ; nor was it before the feat of empire was removed to the Tigris, that the Abbaffides adopted the proud and pompous ceremonial of the Per-fian and Byzantine courts.<x_0.9062><y_0.4633><class_Text>\n\n<x_0.041><y_0.4562>\"In the fluidy of nations and men, we may obferve the caufes that render them hoftile or friendly to eachand other, that tend to narrow or enlarge, to mollify or exafperate, the facial character. The separation of the Arabs from the reft of mankind has accultomed them to confound the ideas of franger and enemy ; and the poverty of the land has introduced a maxim of jurisprudence, which they believe and practife to the prefent hour. They pretend, that in the divifion of the earth the rich and fertile climates were aligned to the other branches of the human family ; and that the potlerity of the outlaw Iimael might recover, by fraud or force, the portion of inheritance of which he had been unjustly deprived. According to the remark of Pliny, the Arabian tribes are equally addicted to theft and merchandife: the caravans that traverfe the defart are ranfomed or pillaged ; and their neighbours fince the remote times of Job and Sefoltris, have been the victims of their rapacious spirit. If a Bedoween dificovers from afar a solitary traveller, he rides furiously against him, crying, with a loud voice, \" Undrefs thyfelf, thy aunt (my wife) is without a garment.\" A ready fubmilition intitles him to mercy ; refillance will provoke the aggreffor, and his own blood mult expiate the blood which he prefumes to fled in legitimate defence. A fingle robber, or a few allocates, are brand-ed with their genuine name ; but the exploits of a numerous band allume the character of lawful and honourable war. The temper of a people, thus armed againlt mankind, was doubly inflamed by the domellic licence of rapine, murder, and revenge. In the con-fitution of Europe, the right of peace and war is<x_0.999><y_0.9328><class_Text>",
+ "reply": {
+  "id": "chatcmpl-7858c327-05ad-4f54-b46d-0ad52b035cf1",
+  "object": "chat.completion",
+  "created": 1792321835,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>their wildom and integrity; their influence was divided with their patrimony: and the feeptre was transferred from the uncles of the prophet to a younger branch of the tribe of Koreifh. On folemn occasions they convened the affembly of the people; and, fince mankind mult bei-ther compelled or perluaded to obey, the ufe and repu-tation of oratory among the ancient Arabs is the clear-elt evidence of public freedom. But their limple free-dom was of a very different caft from the nice and artificial machinery of the Greek and Roman republics, in which each member poffelled an undivided thare of the civil and political rights of the community. In the more limple flate of the Arabs, the nation is free, because each of her fons difdains a bafe fubmilion to the will of a matter. His breast is fortified with the aufere virtues of courage, patience, and fobriety: the love of independence prompts him to exercife the habits of felt-command ; and the fear of dilhonour guards him from the meaner apprehension of pain, of danger, and of death. The gravity and firmnefs of the mind is confpicuous in its outward demeanor: his fpeech is flow, weighty, and concife ; he is feldom provoked to laughter; his only gesture is that of froaking his beard, the venerable fymbol of manhood ; and the fenfe of his own importance teaches him to accoft his equals with-out levity, and his fuperiors without awe. The liberty of the Saracens furvived their conquelts: the firlt kha-lifs indulged the bold and familiar language of their subjects: they attended the pulpit to perluade and edi-fy the congregation ; nor was it before the feat of empire was removed to the Tigris, that the Abbaffides adopted the proud and pompous ceremonial of the Per-fian and Byzantine courts.<x_0.9062><y_0.4633><class_Text>\n\n<x_0.041><y_0.4562>\"In the fluidy of nations and men, we may obferve the caufes that render them hoftile or friendly to eachand other, that tend to narrow or enlarge, to mollify or exafperate, the facial character. The separation of the Arabs from the reft of mankind has accultomed them to confound the ideas of franger and enemy ; and the poverty of the land has introduced a maxim of jurisprudence, which they believe and practife to the prefent hour. They pretend, that in the divifion of the earth the rich and fertile climates were aligned to the other branches of the human family ; and that the potlerity of the outlaw Iimael might recover, by fraud or force, the portion of inheritance of which he had been unjustly deprived. According to the remark of Pliny, the Arabian tribes are equally addicted to theft and merchandife: the caravans that traverfe the defart are ranfomed or pillaged ; and their neighbours fince the remote times of Job and Sefoltris, have been the victims of their rapacious spirit. If a Bedoween dificovers from afar a solitary traveller, he rides furiously against him, crying, with a loud voice, \" Undrefs thyfelf, thy aunt (my wife) is without a garment.\" A ready fubmilition intitles him to mercy ; refillance will provoke the aggreffor, and his own blood mult expiate the blood which he prefumes to fled in legitimate defence. A fingle robber, or a few allocates, are brand-ed with their genuine name ; but the exploits of a numerous band allume the character of lawful and honourable war. The temper of a people, thus armed againlt mankind, was doubly inflamed by the domellic licence of rapine, murder, and revenge. In the con-fitution of Europe, the right of peace and war is<x_0.999><y_0.9328><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2462,
+   "completion_tokens": 918,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

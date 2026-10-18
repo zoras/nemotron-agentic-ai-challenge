@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "385cd465aaa0d07bce1dab4d8419312b30315973e8c5aa6296ad14610657106f",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "55853de2d123429525d582a7659ba2d3bf644e5305ab050f3f992d0d59bc9a06",
+  "image_bytes": 2023495,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0325,
+   0.4767,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0325,
+    0.1131,
+    0.4717
+   ],
+   [
+    0.1131,
+    0.1938,
+    0.4717
+   ],
+   [
+    0.1938,
+    0.2744,
+    0.4717
+   ],
+   [
+    0.2744,
+    0.355,
+    0.4717
+   ],
+   [
+    0.355,
+    0.4356,
+    0.4717
+   ],
+   [
+    0.4356,
+    0.5162,
+    0.4717
+   ],
+   [
+    0.5162,
+    0.5969,
+    0.4717
+   ],
+   [
+    0.5969,
+    0.6775,
+    0.4717
+   ],
+   [
+    0.6775,
+    0.7581,
+    0.4717
+   ],
+   [
+    0.7581,
+    0.8387,
+    0.4717
+   ],
+   [
+    0.8387,
+    0.9194,
+    0.4717
+   ],
+   [
+    0.9194,
+    1.0,
+    0.4717
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2428,
+  "completion_tokens": 884,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.46,
+ "created_at": "2026-10-18T11:21:26+00:00",
+ "content": "<x_0.3857><y_0.0039>C A B<x_0.6035><y_0.0242><class_Title>\n\n<x_0.8945><y_0.0047>( 2<x_0.999><y_0.0234><class_Page-header>\n\n<x_0.1074><y_0.0273>which compofe it: this cabbala is divided into three kinds, the gematrie, the notaricon, and the temura or themurah. The frit whereof conflits in taking the letters of a Hebrew word for ciphers or arithmetical numbers, and explaining every word by the arithmeti- cal value of the letters whereof it is compofed. The second fort of cabbala, called notaricon, conflits in taking every particular letter of a word for an entire diction; and the third, called themurah, i. e. change, conflits in making different tranfpolitions or changes of letters, placing one for the other, or one before the other.<x_0.9736><y_0.2031><class_Text>\n\n<x_0.1084><y_0.2039>Among the Christians likewise, a certain fort of magic is, by miftake, called cabbala, which conflits in ufing improperly certain passages of scripture for magic operations, or in forming magic characters or figures with flars and talifmans.<x_0.9727><y_0.2766><class_Text>\n\n<x_0.1094><y_0.2773>Some vitionaries, among the Jews, believe, that Jefus Chrift wrought his miracles by virtue of the my-feries of the cabbala.<x_0.9717><y_0.3187><class_Text>\n\n<x_0.0801><y_0.3195>CABBALISTS, the Jewish doctors who profels the fluidy of the cabbala.<x_0.9697><y_0.3492><class_List-item>\n\n<x_0.1064><y_0.35>In the opinion of thefe men, there is not a word, letter, or accent in the law, without fome mystery in it. The Jews are divided into two general facts; the karaites, who refufe to receive either tradition or the talmud, or any thing but the pure text of scripture; and the rabbinilts, or talmudifts, who, beides this, receive the traditions of the ancients, and follow the talmud.<x_0.9746><y_0.4641><class_Text>\n\n<x_0.1055><y_0.4648>The latter are again divided into two other feats; pure rabbinilts, who explain the scripture, in its natural fenfe, by grammar, hifory, and tradition; and cabbalilis, who, to difcover hidden mythical fenfes, which they fuppofe God to have couched therein, make ufe of the cabbala, and the mystical methods above mentioned.<x_0.9756><y_0.5664><class_Text>\n\n<x_0.082><y_0.5656>CABECA, or CARESSE, a name given to the finest filks in the East Indies, as thofe from 15 to 20 per cent. inferior to them are called barina. The Indian workmen endeavour to pafs them off one with the other; for which reafon, the more experienced European merchants take care to open the bales, and to examine all the fkains one after another. The Dutch diltinguih two forts of cabecas; namely, the moor ca-beca, and the common cabeca. The former is fold at Amiterdam for about 214 fehellinghen Elemith, and the other for about 184.<x_0.9775><y_0.7266><class_List-item>\n\n<x_0.0947><y_0.7258>CABENDA, a port-town of Congo, in Africa, and fubied to the Portuguese: E. long, 12°, and S. lat. 4°.<x_0.9766><y_0.7562><class_List-item>\n\n<x_0.0957><y_0.7555>CABIDOS, or CAVIDOS, a long measure ufed at Goa, and in other places of the East Indies belonging to the Portuguese, to measure fluffs, linens, Ge, and equal to 4 of the Paris eli.<x_0.9785><y_0.8133><class_List-item>\n\n<x_0.0967><y_0.8141>CABIN, in the fea-language, a fmall room, or apartment, whereof there are a great many in feveral parts of a hip; particularly on the quarter-deck, and on each side of the fleerage, for the officers of the flip to lie in.<x_0.9795><y_0.8867><class_List-item>\n\n<x_0.1328><y_0.8859>The great cabin is the chief of all, and that which properly belongs to the captain or chief commander.<x_0.9805><y_0.9203><class_Text>",
+ "reply": {
+  "id": "chatcmpl-272ef305-e82a-49dd-bf8f-694d378e056c",
+  "object": "chat.completion",
+  "created": 1792322485,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.3857><y_0.0039>C A B<x_0.6035><y_0.0242><class_Title>\n\n<x_0.8945><y_0.0047>( 2<x_0.999><y_0.0234><class_Page-header>\n\n<x_0.1074><y_0.0273>which compofe it: this cabbala is divided into three kinds, the gematrie, the notaricon, and the temura or themurah. The frit whereof conflits in taking the letters of a Hebrew word for ciphers or arithmetical numbers, and explaining every word by the arithmeti- cal value of the letters whereof it is compofed. The second fort of cabbala, called notaricon, conflits in taking every particular letter of a word for an entire diction; and the third, called themurah, i. e. change, conflits in making different tranfpolitions or changes of letters, placing one for the other, or one before the other.<x_0.9736><y_0.2031><class_Text>\n\n<x_0.1084><y_0.2039>Among the Christians likewise, a certain fort of magic is, by miftake, called cabbala, which conflits in ufing improperly certain passages of scripture for magic operations, or in forming magic characters or figures with flars and talifmans.<x_0.9727><y_0.2766><class_Text>\n\n<x_0.1094><y_0.2773>Some vitionaries, among the Jews, believe, that Jefus Chrift wrought his miracles by virtue of the my-feries of the cabbala.<x_0.9717><y_0.3187><class_Text>\n\n<x_0.0801><y_0.3195>CABBALISTS, the Jewish doctors who profels the fluidy of the cabbala.<x_0.9697><y_0.3492><class_List-item>\n\n<x_0.1064><y_0.35>In the opinion of thefe men, there is not a word, letter, or accent in the law, without fome mystery in it. The Jews are divided into two general facts; the karaites, who refufe to receive either tradition or the talmud, or any thing but the pure text of scripture; and the rabbinilts, or talmudifts, who, beides this, receive the traditions of the ancients, and follow the talmud.<x_0.9746><y_0.4641><class_Text>\n\n<x_0.1055><y_0.4648>The latter are again divided into two other feats; pure rabbinilts, who explain the scripture, in its natural fenfe, by grammar, hifory, and tradition; and cabbalilis, who, to difcover hidden mythical fenfes, which they fuppofe God to have couched therein, make ufe of the cabbala, and the mystical methods above mentioned.<x_0.9756><y_0.5664><class_Text>\n\n<x_0.082><y_0.5656>CABECA, or CARESSE, a name given to the finest filks in the East Indies, as thofe from 15 to 20 per cent. inferior to them are called barina. The Indian workmen endeavour to pafs them off one with the other; for which reafon, the more experienced European merchants take care to open the bales, and to examine all the fkains one after another. The Dutch diltinguih two forts of cabecas; namely, the moor ca-beca, and the common cabeca. The former is fold at Amiterdam for about 214 fehellinghen Elemith, and the other for about 184.<x_0.9775><y_0.7266><class_List-item>\n\n<x_0.0947><y_0.7258>CABENDA, a port-town of Congo, in Africa, and fubied to the Portuguese: E. long, 12°, and S. lat. 4°.<x_0.9766><y_0.7562><class_List-item>\n\n<x_0.0957><y_0.7555>CABIDOS, or CAVIDOS, a long measure ufed at Goa, and in other places of the East Indies belonging to the Portuguese, to measure fluffs, linens, Ge, and equal to 4 of the Paris eli.<x_0.9785><y_0.8133><class_List-item>\n\n<x_0.0967><y_0.8141>CABIN, in the fea-language, a fmall room, or apartment, whereof there are a great many in feveral parts of a hip; particularly on the quarter-deck, and on each side of the fleerage, for the officers of the flip to lie in.<x_0.9795><y_0.8867><class_List-item>\n\n<x_0.1328><y_0.8859>The great cabin is the chief of all, and that which properly belongs to the captain or chief commander.<x_0.9805><y_0.9203><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2428,
+   "completion_tokens": 884,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

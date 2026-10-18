@@ -1,0 +1,370 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+ "row_index": 1268,
+ "volume_id": "194474782",
+ "filename": "page-1268-e5ec9e5b4086.jpg",
+ "image_sha256": "e5ec9e5b4086576d908e749cf55ee5aa6db8079444bb0961627c9475b434ca7e",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09804,
+  "median_grey": 223,
+  "layout_body_chars": 7445,
+  "layout_pictures": 0
+ },
+ "running_head": "66 N A Z N A Z N A Z",
+ "layout_raw": "page-1268-e5ec9e5b4086/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0262,
+    1.0,
+    0.0616
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1268-e5ec9e5b4086/head.json",
+   "finish_reason": "stop",
+   "request_key": "2008d471dabf5c393d9787b7b59e95a55fcf75dd3acf8b5d4a0a7562434f67a0"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0262,
+    0.5467,
+    0.1648
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0262,
+     0.0955,
+     0.5417
+    ],
+    [
+     0.0955,
+     0.1648,
+     0.5417
+    ]
+   ],
+   "raw_path": "page-1268-e5ec9e5b4086/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "9410eb2310a24353aa5fd4a1a649fe9ec2dc885620b49ecd14940b3f9a0b2adc"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5367,
+    0.0262,
+    1.0,
+    0.1648
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0262,
+     0.0955,
+     0.5417
+    ],
+    [
+     0.0955,
+     0.1648,
+     0.5417
+    ]
+   ],
+   "raw_path": "page-1268-e5ec9e5b4086/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "3418eb00bc1405a86c780da284c78b485a3717a07defb0c71ba392ee6c40a7d6"
+  },
+  {
+   "label": "s1-wide",
+   "crop": [
+    0.0,
+    0.1648,
+    1.0,
+    0.3345
+   ],
+   "scale": 2,
+   "raw_path": "page-1268-e5ec9e5b4086/s1-wide.json",
+   "finish_reason": "stop",
+   "request_key": "4215794fce97371c3c0d41015aac412f15a626033e4ece92f0a8eb038b9b580c"
+  },
+  {
+   "label": "s2-col-left",
+   "crop": [
+    0.0,
+    0.3345,
+    0.565,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.3345,
+     0.4177,
+     0.5533
+    ],
+    [
+     0.4177,
+     0.5009,
+     0.5533
+    ],
+    [
+     0.5009,
+     0.5841,
+     0.5533
+    ],
+    [
+     0.5841,
+     0.6673,
+     0.5533
+    ],
+    [
+     0.6673,
+     0.7504,
+     0.555
+    ],
+    [
+     0.7504,
+     0.8336,
+     0.5583
+    ],
+    [
+     0.8336,
+     0.9168,
+     0.56
+    ],
+    [
+     0.9168,
+     1.0,
+     0.5533
+    ]
+   ],
+   "raw_path": "page-1268-e5ec9e5b4086/s2-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "7334fc7809481be9167dc6d49f9fed16d770a959dbb890204a17bb4d5fc2707d"
+  },
+  {
+   "label": "s2-col-right",
+   "crop": [
+    0.5483,
+    0.3345,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.3345,
+     0.4177,
+     0.5533
+    ],
+    [
+     0.4177,
+     0.5009,
+     0.5533
+    ],
+    [
+     0.5009,
+     0.5841,
+     0.5533
+    ],
+    [
+     0.5841,
+     0.6673,
+     0.5533
+    ],
+    [
+     0.6673,
+     0.7504,
+     0.555
+    ],
+    [
+     0.7504,
+     0.8336,
+     0.5583
+    ],
+    [
+     0.8336,
+     0.9168,
+     0.56
+    ],
+    [
+     0.9168,
+     1.0,
+     0.5533
+    ]
+   ],
+   "raw_path": "page-1268-e5ec9e5b4086/s2-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "3126f415cd6682dc7c555c2bf3e6e4a435cf849d723771ff1a0f6d88b304a4ff"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "66 N A Z N A Z N A Z",
+   "bbox": [
+    0.0,
+    0.0262,
+    1.0,
+    0.0616
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1268-e5ec9e5b4086:b0"
+  },
+  {
+   "order": 1,
+   "class": "Text",
+   "text": "66 N A Z **Naxia** Thus all the classes of officers, seamen, and marines, who have faithfully served in the navy, are provided for by the state; and the children of such as may be in indigent circumstances receive an education at the public expense, suited to their condition in life. The total expense of the navy, including every branch",
+   "bbox": [
+    0.0785,
+    0.0262,
+    0.5462,
+    0.1639
+   ],
+   "source": "s0-col-left",
+   "id": "page-1268-e5ec9e5b4086:b1"
+  },
+  {
+   "order": 2,
+   "class": "Picture",
+   "text": "N A Z\nof the service, civil and military, for one whole year, about the middle of the last war, may be estimated at about L.18,000,000. In the year 1822, according to the esti- mates which were laid before parliament, it amounted to about L.5,000,000; and in the year 1837 it has been fixed at the sum of L.4,663,000. (M.)",
+   "bbox": [
+    0.5367,
+    0.0262,
+    0.9991,
+    0.164
+   ],
+   "source": "s0-col-right",
+   "id": "page-1268-e5ec9e5b4086:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "NAXIA, the ancient Naxos, is one of the largest and most fertile of the islands in the Archipelago, known as the Cyclades. Its greatest length from north to south is seventeen miles, and its greatest breadth about twelve miles. The north point is in latitude 37. 12. Although the rocks are of a most repulsive appearance, yet the island is diversified by hills, valleys, and plains, and is well wooded and watered. Besides the city of its name, it contains thirty- five villages, and a population of about 17,000 persons. It produces corn equal to six months' consumption, and a surplus of oil, fruits, and cheese. Large quantities of oranges and lemons are exported. There is no port on the island for ships to enter.",
+   "bbox": [
+    0.1494,
+    0.1648,
+    0.5488,
+    0.3344
+   ],
+   "source": "s1-wide",
+   "id": "page-1268-e5ec9e5b4086:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "size. The table service consisted altogether of pewter, but every thing was extremely clean, and the provisions were excellent, particularly fine wheaten bread, and wine from Mount Lebanon, not inferior to the wines of France. The church belonging to the monastery is erected over a grot- to, which is believed to have belonged to the Virgin Mary. In this place are shown her kitchen and fire-place; and by way of miracle a pillar is exhibited, the capital of which, separated from the shaft, is represented as self-supported in the air. Dr Clarke, however, soon observed that it was fastened into the wall above. Mr Buckingham was shown a second grotto, or a continuation of the first, with two red granite pillars, of about two feet in diameter at its entrance; and he was told that the one marked the spot where the",
+   "bbox": [
+    0.5439,
+    0.1648,
+    0.9453,
+    0.3338
+   ],
+   "source": "s1-wide",
+   "id": "page-1268-e5ec9e5b4086:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "NAXOS, or NAXIA, a considerable town, and capital of the Isle of Naxos, opposite the Isle of Paros, with a castle and two archbishops' sees, the one Greek and the other Latin. The greater part of the inhabitants are Greeks. Long. 25. 51. E. Lat. 37. 8. N.",
+   "bbox": [
+    0.1572,
+    0.3345,
+    0.5484,
+    0.3959
+   ],
+   "source": "s2-col-left",
+   "id": "page-1268-e5ec9e5b4086:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "NAYO, a small island in the Eastern Seas, near to the north coast of Celebes. Long. 124. 24. E. Lat. 1. 24. N.",
+   "bbox": [
+    0.1584,
+    0.3896,
+    0.549,
+    0.4203
+   ],
+   "source": "s2-col-left",
+   "id": "page-1268-e5ec9e5b4086:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "NAYRES are the nobility of the Malabar coast. We may with truth affirm that they are the oldest nobility in the world: for the most ancient writers mention them, and quote the law which permits the Nayre ladies to have several husbands, every one being allowed four.",
+   "bbox": [
+    0.1611,
+    0.413,
+    0.5501,
+    0.4822
+   ],
+   "source": "s2-col-left",
+   "id": "page-1268-e5ec9e5b4086:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "NAZARETH, a town or village of Palestine, celebrat- ed in holy writ as the residence of our Saviour. It is si- tuated in a deep valley, on the side of a high hill, nearer to its summit than its base, and having a rocky eminence along it. It contains about 250 buildings of stone, a material always at hand. They are flat-roofed, generally of only one story, but sufficiently spacious for the accommodation of the numerous poor families by whom they are in-habited. The streets are steep and narrow, and, from the looseness of the soil, exceedingly dirty. Of the public buildings the mosque is the most conspicuous, and is a neat edifice. It is enclosed with a good wall of masonry, so that Mr Buckingham, who visited it, could only see one of its sides, on which there were five arches. It has a plain whitened minaret, surrounded by a gallery, and sur-mounted by a crescent. The Greeks have a church on the south-eastern edge of the town, at the foot of a hill; and the Maronites have also a church in front of a Fran-ciscan convent. This convent, Mr Buckingham mentions, is one of the largest and most commodious he had seen anywhere, being superior to those of Smyrna, Alexandria, or Cairo. It is still adorned with some precious remains of antiquity. Two antique shafts of red granite columns are used as portals to the door-way. Within is a court, and near the gate at its further extremity is the fragment of a shaft of another granite column, lying on the ground. White pillars form the portals of entrance to the original building, destroyed by the Turks ; and of these the remains are still to be seen. On the wall, both within and without, there are worked into the masonry several pieces of the old ruins, containing delicate sculptures of frize, cornices, capi-tals, &c. The gate leads to a large paved square, in which there are two wells, surmounted by the cross; and on the right hand is the hall for the reception of strangers and visitors. The interior is furnished with every convenience, in staircases, galleries, and apartments. Mr Buckingham mentions, that he supped in a hall below, of considerabl",
+   "bbox": [
+    0.1616,
+    0.4744,
+    0.5644,
+    0.9371
+   ],
+   "source": "s2-col-left",
+   "id": "page-1268-e5ec9e5b4086:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "and he was told that the one marked the 1 Virgin rested, the other where the angel stood when he appeared to Mary. The church erected over this sacred spot is large, and well furnished with paintings, mostly gaudy, though there were a few not altogether devoid of merit. The synagogue in which Jesus read and expound­ed the prophet Esaias is shown here within the town; the precipice from which his enemies would have thrown him down is also pointed out; and, according to Mr Buck­ingham, it is not improbable that this precipice, which overlooks the town, was the scene of this outrage. But the most venerated relic is a stone called the table of Christ, from which he is asserted to have eaten before and after his resurrection. Nazareth forms part of the pachalik of Acre, and was reduced to indigence and mi-sery by the oppression of Djezzar Pasha. Many of the wretched people emigrated in consequence; and several of the neighbouring Arabs said to Dr Clarke, that the beg­gars in England were better and happier than they. The stationary inhabitants are about 2000, of whom 500 are Catholic Christians, about 300 Maronites, and 200 Ma­hommedans, the rest being schismatic Greeks. Nazareth is fifty miles north from Jerusalem.",
+   "bbox": [
+    0.5518,
+    0.3345,
+    0.951,
+    0.6105
+   ],
+   "source": "s2-col-right",
+   "id": "page-1268-e5ec9e5b4086:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "NAZARITE, or NAZAREAN, or _Nazarene_, a term which signifies one who is of Nazareth, or any native of the city of Nazareth. It was given to Jesus Christ and his disci­ples, and is commonly employed in a sense of derision and contempt by those authors who have written against Chris­tianity. It has also been applied to a sect of heretics called Nazarenes; and sometimes it means a Nazarite, or one who has laid himself under the obligation of a vow to observe the rules of Nazariteship, whether it be for his whole life, as Samson and John the Baptist, or only for a time, as in the case of those mentioned in Numbers (vi. 18, 19, 20) and Amos (ii. 11, 12). Lastly, the name of Nazarite, in some passages of Scripture, denotes a man of particular distinction and great dignity in the court of some prince. Of these several sorts of Nazarites we shall now give some account.",
+   "bbox": [
+    0.5633,
+    0.6044,
+    0.9568,
+    0.8055
+   ],
+   "source": "s2-col-right",
+   "id": "page-1268-e5ec9e5b4086:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "The name of Nazarene belongs to Jesus Christ, not only because of his having lived the greater part of his life at Nazareth, and because this city has always been consider­ed as his country, but also because the prophets had fore­told that he should be called a Nazarene (Matth. ii. 23). \" And he came and dwelt in a city called Nazareth, that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.\" We find no particular passage in the prophets where it is said that the Messiah should be called a Nazarene; and St Matthew only quotes",
+   "bbox": [
+    0.5712,
+    0.8003,
+    0.9585,
+    0.9303
+   ],
+   "source": "s2-col-right",
+   "id": "page-1268-e5ec9e5b4086:b11"
+  }
+ ]
+}

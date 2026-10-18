@@ -1,0 +1,119 @@
+{
+ "request": {
+  "key": "03cbe8d68f41bf63f2bf2cc833f88b8d46005ab5dab06a2264dcc80bce556734",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "dd1d0cd65bf4147fb0599a492f314a643bf059924934fc05cff8855a8679719c",
+  "image_bytes": 2107139,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+  "variant": "s0-col-right",
+  "crop": [
+   0.52,
+   0.0302,
+   1.0,
+   0.8155
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0302,
+    0.1175,
+    0.525
+   ],
+   [
+    0.1175,
+    0.2047,
+    0.525
+   ],
+   [
+    0.2047,
+    0.292,
+    0.525
+   ],
+   [
+    0.292,
+    0.3792,
+    0.525
+   ],
+   [
+    0.3792,
+    0.4665,
+    0.525
+   ],
+   [
+    0.4665,
+    0.5537,
+    0.525
+   ],
+   [
+    0.5537,
+    0.641,
+    0.525
+   ],
+   [
+    0.641,
+    0.7282,
+    0.525
+   ],
+   [
+    0.7282,
+    0.8155,
+    0.525
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1716,
+  "total_tokens": 2417,
+  "completion_tokens": 701,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.24,
+ "created_at": "2026-10-18T11:20:32+00:00",
+ "content": "<x_0.0><y_0.0039>30 | L I G<x_0.5713><y_0.032><class_Title>\n\n<x_0.0127><y_0.0312>\" When a perfon standing on the ground holds a pair of Mr Canton’s balls in his hand, while a highly charged thunder-cloud is fufpended over his head; the angle made by the balls indicates the electrical flate of that perfon, or the quantity of natural electricity of which his body is at that time deprived, by the action of the (pofitively) charged cloud hanging over him. But we have never feen the repullion of the balls fo confiderable, as to furnish any jult apprehensions that the return of his natural electric matter, however fudden, could be attended with injury to him: nor would he be fentible of any commotion on the balls fuddenly coming together; tho' a fpark might undoubtedly be perceived, at that infant, were he infu-lated, and placed in the fame manner with the author when he tried the above-related experiment.<x_0.8613><y_0.3055><class_Text>\n\n<x_0.0117><y_0.3047>\" The author nevertheless observes, that \" there have been inflances of perfons who have been killed by natural electricity, having been found with their _floes torn_, and with their feet damaged by the electri-cal fire; but who have not had, over their whole body, any other apparent marks of having been struck with lightning.\" He adds, \" if a man walking out of doors were to be killed by a returning stroke, the electrical fire would ruh into that man's body thro' his feet, and his feet only ; which would not be the cafe, were he to be killed by any main stroke of explosion, either poitive or negative.\"<x_0.8604><y_0.5117><class_Text>\n\n<x_0.0137><y_0.5102>\" It would be no difficult talk, we think, to account for thefe appearances in a different manner ; were all the circumstances attending the cafe minutely afcertained: but without interrogating the dead on this subject, we may more satisfactorily appeal to the experience of the living (b), to thew, that though the returning stroke must take place, in all thunder-itorms, in some degree or other ; yet it is not of that alarming magnitude which the author aferibes to it. If, in any particular thunder-form, a man in the open fields could be killed, at the infant of a distant exploration, merely by the return of his own electric fire, which had before been driven out of his body ; furely numerous observations of perfons who had experienced the returning stroke, in flighter degrees, would be familiar ; and fearce a great thunder-form must have occurred, in which one perlon or another muft not, at the infant of an explosion, have felt the effects of the returning stroke, in force degree or other— from that of a violent concuffon, to that of a flight and almost imperceptible pollution. But no observations of this kind are known to us ; nor have we ever heard of any person's experiencing any kind of electrical connection in a thunder-form, except such as have either been directly fruck, or have happened to be in the very near neighbourhood of the spot where the explotion took place.<x_0.8623><y_0.9711><class_Text>\n\n<x_0.0586><y_0.9672>\" The author has been aware of this objection, which<x_0.8564><y_0.9992><class_Text>",
+ "reply": {
+  "id": "chatcmpl-15a6de99-aed7-4fd0-a65d-d7bcbb63d73f",
+  "object": "chat.completion",
+  "created": 1792322431,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0039>30 | L I G<x_0.5713><y_0.032><class_Title>\n\n<x_0.0127><y_0.0312>\" When a perfon standing on the ground holds a pair of Mr Canton’s balls in his hand, while a highly charged thunder-cloud is fufpended over his head; the angle made by the balls indicates the electrical flate of that perfon, or the quantity of natural electricity of which his body is at that time deprived, by the action of the (pofitively) charged cloud hanging over him. But we have never feen the repullion of the balls fo confiderable, as to furnish any jult apprehensions that the return of his natural electric matter, however fudden, could be attended with injury to him: nor would he be fentible of any commotion on the balls fuddenly coming together; tho' a fpark might undoubtedly be perceived, at that infant, were he infu-lated, and placed in the fame manner with the author when he tried the above-related experiment.<x_0.8613><y_0.3055><class_Text>\n\n<x_0.0117><y_0.3047>\" The author nevertheless observes, that \" there have been inflances of perfons who have been killed by natural electricity, having been found with their _floes torn_, and with their feet damaged by the electri-cal fire; but who have not had, over their whole body, any other apparent marks of having been struck with lightning.\" He adds, \" if a man walking out of doors were to be killed by a returning stroke, the electrical fire would ruh into that man's body thro' his feet, and his feet only ; which would not be the cafe, were he to be killed by any main stroke of explosion, either poitive or negative.\"<x_0.8604><y_0.5117><class_Text>\n\n<x_0.0137><y_0.5102>\" It would be no difficult talk, we think, to account for thefe appearances in a different manner ; were all the circumstances attending the cafe minutely afcertained: but without interrogating the dead on this subject, we may more satisfactorily appeal to the experience of the living (b), to thew, that though the returning stroke must take place, in all thunder-itorms, in some degree or other ; yet it is not of that alarming magnitude which the author aferibes to it. If, in any particular thunder-form, a man in the open fields could be killed, at the infant of a distant exploration, merely by the return of his own electric fire, which had before been driven out of his body ; furely numerous observations of perfons who had experienced the returning stroke, in flighter degrees, would be familiar ; and fearce a great thunder-form must have occurred, in which one perlon or another muft not, at the infant of an explosion, have felt the effects of the returning stroke, in force degree or other— from that of a violent concuffon, to that of a flight and almost imperceptible pollution. But no observations of this kind are known to us ; nor have we ever heard of any person's experiencing any kind of electrical connection in a thunder-form, except such as have either been directly fruck, or have happened to be in the very near neighbourhood of the spot where the explotion took place.<x_0.8623><y_0.9711><class_Text>\n\n<x_0.0586><y_0.9672>\" The author has been aware of this objection, which<x_0.8564><y_0.9992><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1716,
+   "total_tokens": 2417,
+   "completion_tokens": 701,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

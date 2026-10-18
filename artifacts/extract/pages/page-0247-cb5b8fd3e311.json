@@ -1,0 +1,440 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:247",
+ "row_index": 247,
+ "volume_id": "149981189",
+ "filename": "page-0247-cb5b8fd3e311.jpg",
+ "image_sha256": "cb5b8fd3e311a9bed8b2fe35f9cf9ede4c3a49a0b0e651afa8f9c811fd0e0534",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07843,
+  "median_grey": 224,
+  "layout_body_chars": 7002,
+  "layout_pictures": 0
+ },
+ "running_head": "E T N [ 3 ] E T N",
+ "layout_raw": "page-0247-cb5b8fd3e311/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0325,
+    1.0,
+    0.0655
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0247-cb5b8fd3e311/head.json",
+   "finish_reason": "stop",
+   "request_key": "33bdffcaab30b5f7e112332c320ef8a7cc0f1c09bef7f0b9d91bed3ab68389b8"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0325,
+    0.5333,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0325,
+     0.1131,
+     0.5283
+    ],
+    [
+     0.1131,
+     0.1938,
+     0.5283
+    ],
+    [
+     0.1938,
+     0.2744,
+     0.5283
+    ],
+    [
+     0.2744,
+     0.355,
+     0.5283
+    ],
+    [
+     0.355,
+     0.4356,
+     0.5283
+    ],
+    [
+     0.4356,
+     0.5162,
+     0.5283
+    ],
+    [
+     0.5162,
+     0.5969,
+     0.5283
+    ],
+    [
+     0.5969,
+     0.6775,
+     0.5283
+    ],
+    [
+     0.6775,
+     0.7581,
+     0.5283
+    ],
+    [
+     0.7581,
+     0.8387,
+     0.5283
+    ],
+    [
+     0.8387,
+     0.9194,
+     0.5283
+    ],
+    [
+     0.9194,
+     1.0,
+     0.5283
+    ]
+   ],
+   "raw_path": "page-0247-cb5b8fd3e311/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "619c749803b73df0e4f7217d4bf9479f395a3fd6f7112d233394ffc37b468908"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5233,
+    0.0325,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0325,
+     0.1131,
+     0.5283
+    ],
+    [
+     0.1131,
+     0.1938,
+     0.5283
+    ],
+    [
+     0.1938,
+     0.2744,
+     0.5283
+    ],
+    [
+     0.2744,
+     0.355,
+     0.5283
+    ],
+    [
+     0.355,
+     0.4356,
+     0.5283
+    ],
+    [
+     0.4356,
+     0.5162,
+     0.5283
+    ],
+    [
+     0.5162,
+     0.5969,
+     0.5283
+    ],
+    [
+     0.5969,
+     0.6775,
+     0.5283
+    ],
+    [
+     0.6775,
+     0.7581,
+     0.5283
+    ],
+    [
+     0.7581,
+     0.8387,
+     0.5283
+    ],
+    [
+     0.8387,
+     0.9194,
+     0.5283
+    ],
+    [
+     0.9194,
+     1.0,
+     0.5283
+    ]
+   ],
+   "raw_path": "page-0247-cb5b8fd3e311/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "a81be85ce0e2a0237a95a6602b6f7ee83263ba52fbcb749edc0e25f2fc490697"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Text",
+   "text": "E T N [ 3 ] E T N",
+   "bbox": [
+    0.0,
+    0.0325,
+    1.0,
+    0.0655
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0247-cb5b8fd3e311:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**ET N [ - 8**",
+   "bbox": [
+    0.2614,
+    0.0386,
+    0.5328,
+    0.0612
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0247-cb5b8fd3e311:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Etna.",
+   "bbox": [
+    0.0771,
+    0.0627,
+    0.138,
+    0.0892
+   ],
+   "source": "s0-col-left",
+   "id": "page-0247-cb5b8fd3e311:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "(our author fays) it would be difficult to make people, who have never engaged in fuch enterprifes, compre-hend all the obflacies they had to encounter. This cone (the little mountain mentioned by Sir William Hamilton) is compofed of afhes, fand, and pozzolano, thrown up at different times by the volcano. The materials are fo loofe, that the adventurous traveller finks about mid-leg at every flep, and is in constant terror of being fwallowed up. At left, when the fummit is reached, the fulphureous exhalations, which are con- tinually emitted from the pores of the mountain, threaten luffocation, and irritate the fauces and lungs in fuch a manner as to produce a very troublefome and incefant cough. The loofenefs of the foil, which gives way under the feet, obliges the traveller, every now and then. to throw himself flat on his belly, that fo he may be in lefs danger of linking. In this pollure our author viewed the wide unfathomable gulph in the middle of the crater; but could difcover nothing except a cloud of frooke, which ifued from a number of small apertures scattered all around, and accompanied with a kind of noife. Another and more dreadful found, however, ifues from the bowels of the volcano, and which, according to our author, \"flrikes the heart with terror, fo that all the strength of reafon is necef- fary to prevent the obferver from flying with preci- pitation from fuch a dreadful place.\" Several travel-lers who had vifited this cone before him, were fo ter- rified by thefe dreadful founds, that they fled with the utmoft hafle till they arrived at the foot of the mountain.",
+   "bbox": [
+    0.1437,
+    0.062,
+    0.5234,
+    0.4709
+   ],
+   "source": "s0-col-left",
+   "id": "page-0247-cb5b8fd3e311:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Our author compares thefe founds to a discharge of cannon in the wide abyfs; the noife of which is rebellowed throughout all the caverns, and produce a found perhaps the moft alarming that can be imagined; and during the short space in which he lifted, fever-ral of thefe discharges were heard to follow one another almost uninterruptedly.",
+   "bbox": [
+    0.1453,
+    0.4716,
+    0.5239,
+    0.5654
+   ],
+   "source": "s0-col-left",
+   "id": "page-0247-cb5b8fd3e311:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "This dreadful noite, our author, with very great probability, fuppofes to be occasioned by the explo-tions of the internal fire, or, as he calls it, the _focus_ of the volcano; which, friking against the fides of thefe immente caverns, the founds produced are re-echoed through their cavities, and probably multiplied in an extraordinary manner; fo that what would be only a flight explosion in the open air, occasions a found more tremendous than the loudest thunder. To fuch as are convinced of this, and have sufficient courage to rent the firft imprellionswhich thefe founds muft unavoidably occasion, they will in a short time not only appear exceedingly fublime, but, by their variety, even fome- what agreeable. \"They enable us (fays our author) to form fome conception of the fpace through which they muft pafs before they reach the ear, and of the valt extent and width of the hollows of the mountain.\"",
+   "bbox": [
+    0.1458,
+    0.5646,
+    0.5229,
+    0.7899
+   ],
+   "source": "s0-col-left",
+   "id": "page-0247-cb5b8fd3e311:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "Having for fome time contemplated this awful fpec- tacle, our author wifhed to measure the crater by walk- ing round it; but found this impoffible. On the north ride the surface is hard and fmooth, the afhes having been fo far diffolved by the moifture depoitted by the fnoke as to cement into one uniform mafs. This is fometimes diffolved even into a fluid plate, in fuch a manner as to run down the files of the cone; fo that after several attempts, he was at laft obliged to abandon his design.",
+   "bbox": [
+    0.1463,
+    0.7891,
+    0.5224,
+    0.9213
+   ],
+   "source": "s0-col-left",
+   "id": "page-0247-cb5b8fd3e311:b6"
+  },
+  {
+   "order": 7,
+   "class": "Caption",
+   "text": "4T Impofilie to walk round the crater.",
+   "bbox": [
+    0.0797,
+    0.777,
+    0.1427,
+    0.8307
+   ],
+   "source": "s0-col-left",
+   "id": "page-0247-cb5b8fd3e311:b7"
+  },
+  {
+   "order": 8,
+   "class": "Caption",
+   "text": "Plate CLXXXIV.",
+   "bbox": [
+    0.0823,
+    0.9146,
+    0.1416,
+    0.9373
+   ],
+   "source": "s0-col-left",
+   "id": "page-0247-cb5b8fd3e311:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Fig. 2. exhibits a view of the crater of Etna taken No 121.",
+   "bbox": [
+    0.164,
+    0.9199,
+    0.5218,
+    0.9471
+   ],
+   "source": "s0-col-left",
+   "id": "page-0247-cb5b8fd3e311:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "I E T N",
+   "bbox": [
+    0.5247,
+    0.0355,
+    0.7859,
+    0.062
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0247-cb5b8fd3e311:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "on the brink of the eaft fide. The fore-ground (_aa_) of the figure is one divifion of the crater. Beyond it are two eminences _b_ and _c_, higher than that on which fome human figures are reprefented. All the three form a triangle nearly equilateral; but, when viewed from any confiderable diflance, only two of them can be feen; for crater. which reafon the Sicilians have termed the mountain bicorne, or double-horned.",
+   "bbox": [
+    0.527,
+    0.0612,
+    0.9088,
+    0.1685
+   ],
+   "source": "s0-col-right",
+   "id": "page-0247-cb5b8fd3e311:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "The fmoke, as reprefented in the figure, ifues from all quarters, either from chinks or holes scattered over the whole crater. But the situation of the principal mouth is in the midft of the three eminences. Its diameter, when our author vifted this mountain, was only about 60 feet, and fo filled with fmoke that nothing remarkable could be discovered. From the height _d_, the rock fituated on the left fide of the print, and on which the human figures are reprefented, all the way to the rock _e_ on the right, the diflance is no more than 900 feet. Our author obferted that the cone is not exactly in the middle of the plain, but is fituated more towards the north than the fourth. He did not attempt to crofs the central valley _f_, on account of the loofenefs of the ground, and that there was no object apparently worthy of the rifk he muft run in fo doing. At the nearelt view he took, it was only observed that there was flow lying in feveral parts of it, though the heat which otherwife prevailed feemed to be very intense.",
+   "bbox": [
+    0.5289,
+    0.1678,
+    0.913,
+    0.421
+   ],
+   "source": "s0-col-right",
+   "id": "page-0247-cb5b8fd3e311:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "The fmoke which ifues from the crater of Etna is generally carried in a direction from south to north; and, as it brings along with it a considerable quantity of water, the latter, condenfed by the cold winds, runs down the fide of the mountain in plentiful fireams, and often leaves pretty permanent marks of its courfe. In this manner he accounts for the great eruption of water in 1755, which he fuppofes to have been oc- cationed only by an unufual quantity of water falling into the burning focus of the mountain, there rarefied into steam, and afterwards condenfed by the coldnefs of the atmosphere.",
+   "bbox": [
+    0.5294,
+    0.4203,
+    0.9125,
+    0.5789
+   ],
+   "source": "s0-col-right",
+   "id": "page-0247-cb5b8fd3e311:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "Like other travellers to mount Etns, this gentleman found the wind blowing from the fuuth; and he is of opinion, that a fouthwind blows here more frequently than any other, as he did not observe any channels cut by the water on any other fide than the north. He had several opportunities of making this observation, having frequently vifited the top of Etna, and always paid attention to the crater. The fand on the call and weft fides was always loofe, while that on the north was compacted into a fold body. The three fummits were of a later date than the refl of the crater, having been probably thrown up by fome eruption which had burlt it afunder. The black fpots on the fore-ground represent a number of hillocks about the fize of mole-hills, from which a fulphureous vapour conflantly ifues, and by which the adjacent ground is tinged of an ochery colour. This vapour ifues from the crevices with a kind of hollow whiffling noife: which with the volca- nic thunder, fmoke, and noxious fnell, render it very difagreeable to ilay here even for a few moments.",
+   "bbox": [
+    0.5298,
+    0.5797,
+    0.9134,
+    0.845
+   ],
+   "source": "s0-col-right",
+   "id": "page-0247-cb5b8fd3e311:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "The fmoke is reprefented in the figure precifely as it did on the day that he ascended, which was very warm. But it does not always rife in this manner; for when the cold is very intensfe, it collects into a body, and thickens around the edge of the crater: on which oc- cations it is condenfed into water, which diffuites itself around the edge of the crater, and mixing with the",
+   "bbox": [
+    0.5303,
+    0.8443,
+    0.9139,
+    0.9388
+   ],
+   "source": "s0-col-right",
+   "id": "page-0247-cb5b8fd3e311:b15"
+  },
+  {
+   "order": 16,
+   "class": "Picture",
+   "text": "Etna. 42 Explina- tion of the figureofthe conferablerable diflance, only two of them can be feen; for crater.",
+   "bbox": [
+    0.9059,
+    0.0597,
+    0.9809,
+    0.1693
+   ],
+   "source": "s0-col-right",
+   "id": "page-0247-cb5b8fd3e311:b16"
+  },
+  {
+   "order": 17,
+   "class": "Margin-note",
+   "text": "43 Exruption of water in 1755 ac- counted for.",
+   "bbox": [
+    0.9064,
+    0.4943,
+    0.9828,
+    0.5783
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-0247-cb5b8fd3e311:b17"
+  },
+  {
+   "order": 18,
+   "class": "Margin-note",
+   "text": "South wind generally prevalent on the top Etna.",
+   "bbox": [
+    0.9069,
+    0.5805,
+    0.9818,
+    0.6342
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-0247-cb5b8fd3e311:b18"
+  }
+ ]
+}

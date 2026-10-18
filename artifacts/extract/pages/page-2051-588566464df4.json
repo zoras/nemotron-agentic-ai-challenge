@@ -1,0 +1,408 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2051",
+ "row_index": 2051,
+ "volume_id": "192545785",
+ "filename": "page-2051-588566464df4.jpg",
+ "image_sha256": "588566464df4b426ffc48c73095181f8040fb4c5dfb1bf3ef4738390589d2302",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.12157,
+  "median_grey": 220,
+  "layout_body_chars": 6565,
+  "layout_pictures": 0
+ },
+ "running_head": "L O M [ 16 | 8 J",
+ "layout_raw": "page-2051-588566464df4/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0,
+    0.5533,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.5483
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.5483
+    ],
+    [
+     0.1667,
+     0.25,
+     0.5483
+    ],
+    [
+     0.25,
+     0.3333,
+     0.5483
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.5483
+    ],
+    [
+     0.4167,
+     0.5,
+     0.5483
+    ],
+    [
+     0.5,
+     0.5833,
+     0.5483
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.5483
+    ],
+    [
+     0.6667,
+     0.75,
+     0.5483
+    ],
+    [
+     0.75,
+     0.8333,
+     0.5483
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.5483
+    ],
+    [
+     0.9167,
+     1.0,
+     0.5483
+    ]
+   ],
+   "raw_path": "page-2051-588566464df4/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "58cfa21c00e7878f2875b73535d50c96180593becb0e86cd372797247b2b0fc0"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5433,
+    0.0,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.5483
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.5483
+    ],
+    [
+     0.1667,
+     0.25,
+     0.5483
+    ],
+    [
+     0.25,
+     0.3333,
+     0.5483
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.5483
+    ],
+    [
+     0.4167,
+     0.5,
+     0.5483
+    ],
+    [
+     0.5,
+     0.5833,
+     0.5483
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.5483
+    ],
+    [
+     0.6667,
+     0.75,
+     0.5483
+    ],
+    [
+     0.75,
+     0.8333,
+     0.5483
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.5483
+    ],
+    [
+     0.9167,
+     1.0,
+     0.5483
+    ]
+   ],
+   "raw_path": "page-2051-588566464df4/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "12049d92259c3e70f4891a1266b3bba4164786205d44124f4775da7183babf78"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Page-header",
+   "text": "L O M [ 16",
+   "bbox": [
+    0.2837,
+    0.0617,
+    0.5527,
+    0.0836
+   ],
+   "source": "s0-col-left",
+   "id": "page-2051-588566464df4:b0"
+  },
+  {
+   "order": 1,
+   "class": "Text",
+   "text": "Lombards, judging that a favourable opportunity now offered of making himself king of Italy by her means, imparted his design to her, and declared his intention to marry her, provided, by fome means or other, the defpatehed Helmichild.-Rofamund, highly pleafed with the pro- pofal, reloived to fatisfy her ambition by getting rid of the perfon whom he had married in order to gra- tify her revenge. Accordingly, having prepared a fitong poifon, the mixed it with wine, and gave it to her husband as he came out of the bath, and called for drink, according to his cuftom. Helmichild had not half emptied the cup, when, by the fudden and flrange operation which he felt in his bowels, he concluded what it was; and, with his fword pointed at the queen’s breast, compelled her to drink the refl. The poifon had the fame effect on both; for they died in a few hours. Longinus, on the death of the queen, laid afide all thoughts of making himself king of Italy, and fent the king’s treasure to Confantinople, together with Albifoinda, the daughter of Alboinus by Rofa- mund, whom he had brought alone with her.",
+   "bbox": [
+    0.1162,
+    0.0813,
+    0.5409,
+    0.343
+   ],
+   "source": "s0-col-left",
+   "id": "page-2051-588566464df4:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "After the death of Alboinus, the Lombards chofe Clephis, one of the nobility, for their king. He was murdered after a short reign of 18 months; upon which enfued an interregnum of 10 years, as related under the article ITALY, No 32. During this time, they extended their conquefts in that country; but at left the Romans, jealous of their progrefs, reloived to put a flop to their victories, and, if polible, to drive them quite out. For this purpose, they deligned not only to employ their own force, but entered into alliance with the Franks; which fo alarmed the Lombards that they re-established the monarchical form of go- vernment among themfelves, and chofe Autharis the fon of Clephis for their king. This monarch, confi- dering that the power of the dukes, who had governed Lombardy for the space of 10 years, was during that length of time very much eflablified, and that they would not probably be willing to part with the au- thority which they had fo long enjoyed, allowed them to continue in their government; but obliged them to contribute one moiety of their revenues towards the maintenance and support of his royal dignity, fuffer ing them to difpofe of the other as they thought pro- per. He referred to himself the fupreme dominion and authority; and took an oath of the dukes, that in time of war, they would readily affit him to the utmost of their power. Though he could remove the dukes at pleasure, yet he deprived none of them of their dukedoms, except in cafes of treaton; nor gave them to others, except when their male illue failed. Having fettled matters in this manner with the dukes, he enacted several wholefome laws against theft, ra- pine, murder, adultery, and other vices which prevailed among his subjects, and was the frit of the Lombard kings who embraced Christianity. Moft of his subjects followed the example of their monarch; but as they were all infructed by Arian bithops, they continued long infected with that herefly; which occasional great dilputes between them and the orthodox bithops of the cities subject to them.",
+   "bbox": [
+    0.1783,
+    0.3422,
+    0.5414,
+    0.8336
+   ],
+   "source": "s0-col-left",
+   "id": "page-2051-588566464df4:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "8 Her death",
+   "bbox": [
+    0.114,
+    0.2586,
+    0.1772,
+    0.257
+   ],
+   "source": "s0-col-left",
+   "id": "page-2051-588566464df4:b3"
+  },
+  {
+   "order": 4,
+   "class": "Caption",
+   "text": "7 Monarchy abolished.",
+   "bbox": [
+    0.1135,
+    0.3797,
+    0.1745,
+    0.4148
+   ],
+   "source": "s0-col-left",
+   "id": "page-2051-588566464df4:b4"
+  },
+  {
+   "order": 5,
+   "class": "Caption",
+   "text": "8 Reftored.",
+   "bbox": [
+    0.1129,
+    0.4914,
+    0.1718,
+    0.5148
+   ],
+   "source": "s0-col-left",
+   "id": "page-2051-588566464df4:b5"
+  },
+  {
+   "order": 6,
+   "class": "Caption",
+   "text": "9 Written laws when first introduced.",
+   "bbox": [
+    0.1145,
+    0.8258,
+    0.1788,
+    0.8781
+   ],
+   "source": "s0-col-left",
+   "id": "page-2051-588566464df4:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "From the re-establishment of the monarchy under Autharis, to the reign of Rotharis in 636, the history of the Lombards affords nothing memorable. This period is remarkable for the introduction of written",
+   "bbox": [
+    0.1826,
+    0.8344,
+    0.542,
+    0.8867
+   ],
+   "source": "s0-col-left",
+   "id": "page-2051-588566464df4:b7"
+  },
+  {
+   "order": 8,
+   "class": "Page-footer",
+   "text": "2",
+   "bbox": [
+    0.3642,
+    0.8852,
+    0.3782,
+    0.8953
+   ],
+   "source": "s0-col-left",
+   "id": "page-2051-588566464df4:b8"
+  },
+  {
+   "order": 9,
+   "class": "Page-header",
+   "text": "8 J",
+   "bbox": [
+    0.546,
+    0.0633,
+    0.5928,
+    0.0836
+   ],
+   "source": "s0-col-right",
+   "id": "page-2051-588566464df4:b9"
+  },
+  {
+   "order": 10,
+   "class": "Title",
+   "text": "L O M",
+   "bbox": [
+    0.6999,
+    0.0625,
+    0.8047,
+    0.0813
+   ],
+   "source": "s0-col-right",
+   "id": "page-2051-588566464df4:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "laws among thefe people. Before his time they had been governed only by tradition: but Rotharis, in imitation of the Romans and Goths, undertook the publishing of written laws; and to those which he enacted, many were added by the fucceeding princes. Grotius prefers the method which the Lombards followed in making laws, to that which was practised by the Romans themselves. Among the latter the emperor was the fole lawgiver; fo that whatever pleafed him had the force of a law. But the Lombard kings did not allume that power to themfelves, fince their laws were enacted in public affemblies, convened for that purpose, after they had been maturely examined and approved of by all the lords of the kingdom. From these affemblies were excluded the ecclefialtic order, and the people: fo that the legilative power was lodged in the king and nobles alone.",
+   "bbox": [
+    0.5522,
+    0.0844,
+    0.9121,
+    0.2938
+   ],
+   "source": "s0-col-right",
+   "id": "page-2051-588566464df4:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "The reign of Rotharis is remarkable, not only for his introducing written laws among his subjects, but for the conquefts he made, and the fucceful wars carried on with the search of Ravenna, whom he totally defeated in several engagements, and made himself matter of fome part of his territories. This monarch died in 652; and the affairs of the Lombards went on profperouly, till the ambition of Luitprand laid the foundation of the total ruin of his kingdom.",
+   "bbox": [
+    0.5518,
+    0.293,
+    0.9126,
+    0.4055
+   ],
+   "source": "s0-col-right",
+   "id": "page-2051-588566464df4:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "He afended the throne of Lombardy in 711, and watched all opportunities of enlarging his dominions at the expence of the emperor's. Of this, a fair opportunity offered in 716: for the emperor Leo Ifauricus, who at that time reigned in the eaft, having, by his famous edict, forbidden the worship of images, and ordered them to be everywhere pulled down, the people were fo provoked at that innovation, that, in several places, they openly revolted, and, falling up on the emperor's officers, drove them out of the cities. In the eaft, Germanus, patriarch of Conflantinople, oppofed the emperor's design with great warmth; but Leo caufed him to be depofed, and Anaitafius to be railed to that fee in his room, ordering at the fame time all the images in the imperial city to be pulled down and publicly burnt. He firstly enjoined his officers in the weft, especially the exarch of Ravenna, to fee his edit punctually obeyed in their respective governments. In compliance with thefe orders, Schoulticus, then exarch, began to pull down the images in all the churches and public places in Ravenna; which incenfed the fuperftitious multitude to fuch a degree, that taking arms, they openly declared they would rather renounce their allegiance to the emperor than the worthy of images.",
+   "bbox": [
+    0.5513,
+    0.4039,
+    0.913,
+    0.7109
+   ],
+   "source": "s0-col-right",
+   "id": "page-2051-588566464df4:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "Thus a kind of civil war being kindled in the city, Luitprand thought he had now a favourable opportunity of making himself mafter of the feat of the exarch, not doubting but the conqueft of fuch an important place would be followed by that of the whole ex-archate. Having therefore drawn together all his forces, he unexpectedly appeared before Ravenna, and clofely belieged it. The exarch little expected fuch a furprife, as a friendly correfpondence had been maintained for many years between the exarchs and the Lombard kings. However, he defended the place with fuch courage and refolution, that Luitprand, defpairing of fuccefs, broke up the flege and led his army against Claffis, at a small distance from Ravenna,",
+   "bbox": [
+    0.5527,
+    0.7102,
+    0.9117,
+    0.8867
+   ],
+   "source": "s0-col-right",
+   "id": "page-2051-588566464df4:b14"
+  },
+  {
+   "order": 15,
+   "class": "Caption",
+   "text": "Lombards.",
+   "bbox": [
+    0.9113,
+    0.0852,
+    0.9737,
+    0.1047
+   ],
+   "source": "s0-col-right",
+   "id": "page-2051-588566464df4:b15"
+  },
+  {
+   "order": 16,
+   "class": "Caption",
+   "text": "to Luitprand's ambition.",
+   "bbox": [
+    0.9099,
+    0.3969,
+    0.9728,
+    0.4281
+   ],
+   "source": "s0-col-right",
+   "id": "page-2051-588566464df4:b16"
+  },
+  {
+   "order": 17,
+   "class": "Caption",
+   "text": "H Be belieges and at last takes Ravenna.",
+   "bbox": [
+    0.909,
+    0.7656,
+    0.9755,
+    0.8164
+   ],
+   "source": "s0-col-right",
+   "id": "page-2051-588566464df4:b17"
+  }
+ ]
+}

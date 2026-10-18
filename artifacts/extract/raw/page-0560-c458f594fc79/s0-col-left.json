@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "80f2499465c2dfc0c3cf2302e68f99f92020fd4cbd11aa3004d4ddad7278cafd",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "088501fd88746b95af51d50032d69549ed793c14a7fddb66951a77e07fca15dc",
+  "image_bytes": 1951331,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:560",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0309,
+   0.5033,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0309,
+    0.1117,
+    0.4933
+   ],
+   [
+    0.1117,
+    0.1924,
+    0.4933
+   ],
+   [
+    0.1924,
+    0.2732,
+    0.4933
+   ],
+   [
+    0.2732,
+    0.3539,
+    0.4933
+   ],
+   [
+    0.3539,
+    0.4347,
+    0.4933
+   ],
+   [
+    0.4347,
+    0.5155,
+    0.4933
+   ],
+   [
+    0.5155,
+    0.5962,
+    0.4933
+   ],
+   [
+    0.5962,
+    0.677,
+    0.4933
+   ],
+   [
+    0.677,
+    0.7577,
+    0.4933
+   ],
+   [
+    0.7577,
+    0.8385,
+    0.495
+   ],
+   [
+    0.8385,
+    0.9192,
+    0.4983
+   ],
+   [
+    0.9192,
+    1.0,
+    0.4933
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2653,
+  "completion_tokens": 981,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.5,
+ "created_at": "2026-10-18T11:19:27+00:00",
+ "content": "<x_0.418><y_0.0055>A MI I [ 61<x_0.9883><y_0.0328><class_Page-header>\n\n<x_0.0322><y_0.0367>Amethy-\nfine\nAmianthus<x_0.167><y_0.1047><class_Picture>\n\n<x_0.1562><y_0.0297>gular, femiquinquefid, and perfilten: The _corolla_ is monopetalous; the border quinquepartite, the loweft divifion more expanding: The _flamina_ conflit of two flender filaments approximated; the antherre are limple and roundifih: The _pifillium_ has a four-cleft germen; flylus, the fize of the flamina; ffigmata two, acute: No _corolla_: The _feeds_ four, gibbous, and thorter than the calyx :--There is only one known species.<x_0.9619><y_0.1461><class_Text>\n\n<x_0.1553><y_0.1406>This plant is a native of Siberia, from whence the feeds were tent to the imperial garden at Peterburgh, and thence brought to Britain. It is an annual plant, with an upright stalk, which rifes about a foot high. Towards the top it puts forth two or three fmall lateral branches, garnified with fmall trifid leaves, fawed on their edges, of a very dark green colour. The flowers appear in June or July, and are produced in fmall umbels at the extremities of the branches. They are of a fine blue colour, as are alfo the upper part of the branches, and the leaves immediately under the umbel, fo that they make a fine appearance.<x_0.9639><y_0.3109><class_Text>\n\n<x_0.1631><y_0.3047>_Culture._ The feeds of the amethyftea thould be fown in autumn, as they are apt to remain a whole year in the ground if kept till the spring. When the plants come up, nothing elfe is necessary than to keep them clear of weeds, and to thin them where they are too clofe. They ought to be fown where they are to remain, as they do not thrive when tranplanted.<x_0.9688><y_0.407><class_Text>\n\n<x_0.1689><y_0.4>AMETHYSTINE is applied, in antiquity, to a kind of purple garment dyed of the hue of amethyft. In this fenle amethyffine differed from _Tyrian_ as well as from _hyacinthine_ purple, being a kind of medium between both.<x_0.9766><y_0.4742><class_Text>\n\n<x_0.1709><y_0.4688>AMHAR, or AMHARA, a province of Abyffinia, faid to extend 40 leagues from eaft to weft. It is confiidered as the moft noble in the whole empire, both on account of its being the uful refidence of the Abyffinian monarchs, and having a particular dialect different from all the reft, which, by reafon of the emperors being brought up in this province, is become the language of the court and of the politer people. Here is the famed rock Amba-geflen, where the young morarchs were formerly confined. See AMBA.<x_0.9775><y_0.6125><class_Text>\n\n<x_0.1748><y_0.6062>AMHURST (Nicholas), an Englift poet and political writer, was born at Marden in Kent, and entered of St John's college, Oxford; from whence he was expelled for irregularity of conduct and libertine principles. Retaining great referment against the univerfly on this account, he abufed its learning and discipline, and some of the moft respectable characters in it, in a poem published in 1724 called _Oculus Britannie_, and in a book entitled _Terra Filius_. He published, a Mićelany of Poems, facered and profane; and, The Convoication, a poem in five cantos, which was a fatire on the Bilhop of Bangor's antagonis. But he is belt known for the flare he had in the political paper called _The Graftifman_ though, after having been the drudge of his party for near 20 years, he was as much forgot in the famous compromise of 1742 as if he had never been born; and, when he died in that year of a broken heart, was indebted to the charity of his bookfeller for a grave.<x_0.999><y_0.8727><class_Text>\n\n<x_0.2002><y_0.8648>AMIANTHUS, or EARTH-FLAX, in natural hi- flory, a fibrous, flexile, elastic, mineral fubltance, con- fitting of short, abrupt, and interwoven filaments. It is found in Germany, in the litata of iron ore, fome-<x_0.998><y_0.9297><class_Text>",
+ "reply": {
+  "id": "chatcmpl-e4aa34f3-a1d5-4383-aa75-d6d7b9b5f760",
+  "object": "chat.completion",
+  "created": 1792322366,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.418><y_0.0055>A MI I [ 61<x_0.9883><y_0.0328><class_Page-header>\n\n<x_0.0322><y_0.0367>Amethy-\nfine\nAmianthus<x_0.167><y_0.1047><class_Picture>\n\n<x_0.1562><y_0.0297>gular, femiquinquefid, and perfilten: The _corolla_ is monopetalous; the border quinquepartite, the loweft divifion more expanding: The _flamina_ conflit of two flender filaments approximated; the antherre are limple and roundifih: The _pifillium_ has a four-cleft germen; flylus, the fize of the flamina; ffigmata two, acute: No _corolla_: The _feeds_ four, gibbous, and thorter than the calyx :--There is only one known species.<x_0.9619><y_0.1461><class_Text>\n\n<x_0.1553><y_0.1406>This plant is a native of Siberia, from whence the feeds were tent to the imperial garden at Peterburgh, and thence brought to Britain. It is an annual plant, with an upright stalk, which rifes about a foot high. Towards the top it puts forth two or three fmall lateral branches, garnified with fmall trifid leaves, fawed on their edges, of a very dark green colour. The flowers appear in June or July, and are produced in fmall umbels at the extremities of the branches. They are of a fine blue colour, as are alfo the upper part of the branches, and the leaves immediately under the umbel, fo that they make a fine appearance.<x_0.9639><y_0.3109><class_Text>\n\n<x_0.1631><y_0.3047>_Culture._ The feeds of the amethyftea thould be fown in autumn, as they are apt to remain a whole year in the ground if kept till the spring. When the plants come up, nothing elfe is necessary than to keep them clear of weeds, and to thin them where they are too clofe. They ought to be fown where they are to remain, as they do not thrive when tranplanted.<x_0.9688><y_0.407><class_Text>\n\n<x_0.1689><y_0.4>AMETHYSTINE is applied, in antiquity, to a kind of purple garment dyed of the hue of amethyft. In this fenle amethyffine differed from _Tyrian_ as well as from _hyacinthine_ purple, being a kind of medium between both.<x_0.9766><y_0.4742><class_Text>\n\n<x_0.1709><y_0.4688>AMHAR, or AMHARA, a province of Abyffinia, faid to extend 40 leagues from eaft to weft. It is confiidered as the moft noble in the whole empire, both on account of its being the uful refidence of the Abyffinian monarchs, and having a particular dialect different from all the reft, which, by reafon of the emperors being brought up in this province, is become the language of the court and of the politer people. Here is the famed rock Amba-geflen, where the young morarchs were formerly confined. See AMBA.<x_0.9775><y_0.6125><class_Text>\n\n<x_0.1748><y_0.6062>AMHURST (Nicholas), an Englift poet and political writer, was born at Marden in Kent, and entered of St John's college, Oxford; from whence he was expelled for irregularity of conduct and libertine principles. Retaining great referment against the univerfly on this account, he abufed its learning and discipline, and some of the moft respectable characters in it, in a poem published in 1724 called _Oculus Britannie_, and in a book entitled _Terra Filius_. He published, a Mićelany of Poems, facered and profane; and, The Convoication, a poem in five cantos, which was a fatire on the Bilhop of Bangor's antagonis. But he is belt known for the flare he had in the political paper called _The Graftifman_ though, after having been the drudge of his party for near 20 years, he was as much forgot in the famous compromise of 1742 as if he had never been born; and, when he died in that year of a broken heart, was indebted to the charity of his bookfeller for a grave.<x_0.999><y_0.8727><class_Text>\n\n<x_0.2002><y_0.8648>AMIANTHUS, or EARTH-FLAX, in natural hi- flory, a fibrous, flexile, elastic, mineral fubltance, con- fitting of short, abrupt, and interwoven filaments. It is found in Germany, in the litata of iron ore, fome-<x_0.998><y_0.9297><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2653,
+   "completion_tokens": 981,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

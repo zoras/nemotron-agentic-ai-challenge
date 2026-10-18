@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "db6daffa4967d84234fda391779f362ca191321585c8645f61c2d2c95426c5b6",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "bde363b26bc5800403310ef8cc26d8180cb3d55be57cba170c638c90f9ca80a7",
+  "image_bytes": 1698872,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2131",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0325,
+   0.4533,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0325,
+    0.1131,
+    0.4483
+   ],
+   [
+    0.1131,
+    0.1938,
+    0.4433
+   ],
+   [
+    0.1938,
+    0.2744,
+    0.4433
+   ],
+   [
+    0.2744,
+    0.355,
+    0.4433
+   ],
+   [
+    0.355,
+    0.4356,
+    0.4433
+   ],
+   [
+    0.4356,
+    0.5162,
+    0.4433
+   ],
+   [
+    0.5162,
+    0.5969,
+    0.4433
+   ],
+   [
+    0.5969,
+    0.6775,
+    0.4433
+   ],
+   [
+    0.6775,
+    0.7581,
+    0.4433
+   ],
+   [
+    0.7581,
+    0.8387,
+    0.4433
+   ],
+   [
+    0.8387,
+    0.9194,
+    0.4433
+   ],
+   [
+    0.9194,
+    1.0,
+    0.4433
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2627,
+  "completion_tokens": 1083,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 11.1,
+ "created_at": "2026-10-18T11:20:59+00:00",
+ "content": "<x_0.0><y_0.0>BOM [ 3<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.1445><y_0.4219>In this journal our author makes no mention of the elephanta above mentioned from Mr Grofe as the forerunner of the rainy feafon, though he mentions a form under that name on the 9th of October. It was an excellent hard gale, with violent thunder, lightning, and rain; of which left there fell two inches in no more than four hours. Neither is the quantity of thunder and lightning at all comparable to what people unacquainted with hot climates might be apt to expect. The only thunder-forms mentioned in the journal were on May 31ll, June 3d, 5th, 12th, 14th; September 7th, October 9th, an elephant; and fome thunder on the 15th of the fame month.<x_0.9756><y_0.5992><class_Text>\n\n<x_0.1436><y_0.5977>The vegetable productions of Bombay are very insignificant. Mr Ives fays, that its \" foil is fo barren as not to produce any one thing worth mentioning:\" but afterwards informs us, that its \"natural produce is the cocoa-nut tree, from which they extract a liquor called today. This is foft and mild when drunk immediately: but if it lands long, it gathers flrength, and becomes very intoxicating; whence probably arofe the term _toidy-headed_. For each tree a tax of 20s, a-year is paid to the company, which is appropriated towards maintaining the garrifon and ships of war.”<x_0.9727><y_0.7484><class_Text>\n\n<x_0.1426><y_0.7477>Mr Grofe gives an account fornewhat different.-- \"The carts, or cocoa-nut groves, make the moft con- tiderable part of the landed property, being planted wherever the situation and foil is favourable to them. When a number of thefe groves lie contiguous to each other, they form what is called the novels; through which there is a due space left for roads and path-ways, where one is pleafantly defended from the fun at all hours in the day. They are alfo thick fet with houfes belonging to the respective proprietors as well as with the huts of the poorer fort of people; but are very un- wholefome for the reafons already given. As to the<x_0.9697><y_0.9102><class_Text>\n\n<x_0.1836><y_0.9094>Vol. III. Part I.<x_0.46><y_0.9234><class_Page-footer>\n\n<x_0.1396><y_0.0375>\\begin{tabular}{cccc}\n**Days of the month.** & **Quantity of rain in In. Tentbs.** & **Days of the month.** & **Quantity of rain in In.Tentbs.**\\\\\n19 — 0 & 2 & 22 — 0 & 6\\\\\n20 — 0 & 2 & 23 — 0 & 3\\\\\n21 — 0 & 1 & 24 — 0 & 3\\\\\n22 — 0 & 4 & 25 — 0 & 2\\\\\n25 — 0 & 4 & 26 — 0 & 2\\\\\n26 — 0 & 7 & 27—30 — 1 & 0\\\\\n27 — 0 & 5 & \\multicolumn{2}{c}{OCTOBER.}\\\\\n28 — 0 & 2 & 2—7 — 2 & 1\\\\\n30 — 0 & 1 & 9 — 2 & 0\\\\\n31 — 0 & 2 & 15 — 0 & 3\\\\\n\\multicolumn{2}{c}{SEPTEMBER.} & 16, 17 — 0 & 1\\\\\n1 — 0 & 2 & 22 The air fine and clear, without a cloud, the land and fea-breezes regular. & \\\\\n3 — 0 & 3 & \\multicolumn{2}{c}{Whole quantity of rain in In Tentbs.}\\\\\n8 — 0 & 1 & \\multicolumn{2}{c}{In Tentbs.}\\\\\n9 — 0 & 4 & \\multicolumn{2}{c}{}\\\\\n10 — 0 & 5 & \\multicolumn{2}{c}{}\\\\\n11 — 0 & 9 & \\multicolumn{2}{c}{}\\\\\n12 — 0 & 2 & May - & 1 0\\\\\n13 — 0 & 5 & June - & 44 7\\\\\n16 — 0 & 4 & July - & 29 9\\\\\n17 — 0 & 4 & Auguft - & 19 0\\\\\n18 — 0 & 5 & September - & 11 2\\\\\n19 — 0 & 6 & October - & 4 5\\\\\n20 — 3 & 2 & Total & 110 3\\\\\n\\end{tabular}<x_0.9912><y_0.4227><class_Table>",
+ "reply": {
+  "id": "chatcmpl-80ec03c7-8c56-4068-aa28-1846218aa470",
+  "object": "chat.completion",
+  "created": 1792322457,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>BOM [ 3<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.1445><y_0.4219>In this journal our author makes no mention of the elephanta above mentioned from Mr Grofe as the forerunner of the rainy feafon, though he mentions a form under that name on the 9th of October. It was an excellent hard gale, with violent thunder, lightning, and rain; of which left there fell two inches in no more than four hours. Neither is the quantity of thunder and lightning at all comparable to what people unacquainted with hot climates might be apt to expect. The only thunder-forms mentioned in the journal were on May 31ll, June 3d, 5th, 12th, 14th; September 7th, October 9th, an elephant; and fome thunder on the 15th of the fame month.<x_0.9756><y_0.5992><class_Text>\n\n<x_0.1436><y_0.5977>The vegetable productions of Bombay are very insignificant. Mr Ives fays, that its \" foil is fo barren as not to produce any one thing worth mentioning:\" but afterwards informs us, that its \"natural produce is the cocoa-nut tree, from which they extract a liquor called today. This is foft and mild when drunk immediately: but if it lands long, it gathers flrength, and becomes very intoxicating; whence probably arofe the term _toidy-headed_. For each tree a tax of 20s, a-year is paid to the company, which is appropriated towards maintaining the garrifon and ships of war.”<x_0.9727><y_0.7484><class_Text>\n\n<x_0.1426><y_0.7477>Mr Grofe gives an account fornewhat different.-- \"The carts, or cocoa-nut groves, make the moft con- tiderable part of the landed property, being planted wherever the situation and foil is favourable to them. When a number of thefe groves lie contiguous to each other, they form what is called the novels; through which there is a due space left for roads and path-ways, where one is pleafantly defended from the fun at all hours in the day. They are alfo thick fet with houfes belonging to the respective proprietors as well as with the huts of the poorer fort of people; but are very un- wholefome for the reafons already given. As to the<x_0.9697><y_0.9102><class_Text>\n\n<x_0.1836><y_0.9094>Vol. III. Part I.<x_0.46><y_0.9234><class_Page-footer>\n\n<x_0.1396><y_0.0375>\\begin{tabular}{cccc}\n**Days of the month.** & **Quantity of rain in In. Tentbs.** & **Days of the month.** & **Quantity of rain in In.Tentbs.**\\\\\n19 — 0 & 2 & 22 — 0 & 6\\\\\n20 — 0 & 2 & 23 — 0 & 3\\\\\n21 — 0 & 1 & 24 — 0 & 3\\\\\n22 — 0 & 4 & 25 — 0 & 2\\\\\n25 — 0 & 4 & 26 — 0 & 2\\\\\n26 — 0 & 7 & 27—30 — 1 & 0\\\\\n27 — 0 & 5 & \\multicolumn{2}{c}{OCTOBER.}\\\\\n28 — 0 & 2 & 2—7 — 2 & 1\\\\\n30 — 0 & 1 & 9 — 2 & 0\\\\\n31 — 0 & 2 & 15 — 0 & 3\\\\\n\\multicolumn{2}{c}{SEPTEMBER.} & 16, 17 — 0 & 1\\\\\n1 — 0 & 2 & 22 The air fine and clear, without a cloud, the land and fea-breezes regular. & \\\\\n3 — 0 & 3 & \\multicolumn{2}{c}{Whole quantity of rain in In Tentbs.}\\\\\n8 — 0 & 1 & \\multicolumn{2}{c}{In Tentbs.}\\\\\n9 — 0 & 4 & \\multicolumn{2}{c}{}\\\\\n10 — 0 & 5 & \\multicolumn{2}{c}{}\\\\\n11 — 0 & 9 & \\multicolumn{2}{c}{}\\\\\n12 — 0 & 2 & May - & 1 0\\\\\n13 — 0 & 5 & June - & 44 7\\\\\n16 — 0 & 4 & July - & 29 9\\\\\n17 — 0 & 4 & Auguft - & 19 0\\\\\n18 — 0 & 5 & September - & 11 2\\\\\n19 — 0 & 6 & October - & 4 5\\\\\n20 — 3 & 2 & Total & 110 3\\\\\n\\end{tabular}<x_0.9912><y_0.4227><class_Table>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2627,
+   "completion_tokens": 1083,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

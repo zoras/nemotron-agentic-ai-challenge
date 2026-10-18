@@ -1,0 +1,1605 @@
+{
+ "stage": "extract",
+ "created_at": "2026-10-18T11:23:49+00:00",
+ "code_revision": "baaeb0cbf6b20e21ea1517ea60bda8b2d6392077+dirty",
+ "parse_model": "nvidia/nemotron-3.5-parse",
+ "parse_prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+ "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+ "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+ "manifest_sha256": "779542e078756874f23fa6971d7d8a2d8635ad6d9d9484e1deb607d94a28e396",
+ "method": {
+  "layout_pass": "full page at source resolution",
+  "region_pass": "masked two-column crops between full-width blocks, otherwise full-width tiles",
+  "column_scale": 3,
+  "tile_scale": 2,
+  "split_on_length": 2
+ },
+ "coverage": {
+  "pages": 100,
+  "by_status": {
+   "text": 88,
+   "plate": 9,
+   "cover": 2,
+   "blank": 1
+  },
+  "region_replies": 285,
+  "superseded_regions": 0,
+  "unfinished_regions": 0,
+  "parse_requests_this_run": 0
+ },
+ "pages": [
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+   "filename": "page-0013-50049db49e8b.jpg",
+   "status": "text",
+   "running_head": "292 SHIP-BUILDING.",
+   "blocks": 21,
+   "body_chars": 8051,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:104",
+   "filename": "page-0104-9aaa833a4643.jpg",
+   "status": "text",
+   "running_head": "WEIGHTS AND MEASURES. 853",
+   "blocks": 23,
+   "body_chars": 9785,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:115",
+   "filename": "page-0115-9730fa72203a.jpg",
+   "status": "text",
+   "running_head": "690 B L E A C H I N G. Part II",
+   "blocks": 20,
+   "body_chars": 6860,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:217",
+   "filename": "page-0217-7dc36e3a55f8.jpg",
+   "status": "text",
+   "running_head": "F A R [ 107 ] F A R",
+   "blocks": 13,
+   "body_chars": 6860,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:220",
+   "filename": "page-0220-f28b3445b235.jpg",
+   "status": "text",
+   "running_head": "FUR [ 512 ] FUR",
+   "blocks": 12,
+   "body_chars": 6622,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:247",
+   "filename": "page-0247-cb5b8fd3e311.jpg",
+   "status": "text",
+   "running_head": "E T N [ 3 ] E T N",
+   "blocks": 19,
+   "body_chars": 7105,
+   "margin_notes": 2,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:251",
+   "filename": "page-0251-69952e7c4a0f.jpg",
+   "status": "text",
+   "running_head": "S W I [ 248 ] S Y D",
+   "blocks": 19,
+   "body_chars": 7614,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:257",
+   "filename": "page-0257-012cf5a82a33.jpg",
+   "status": "text",
+   "running_head": "S W I | 24",
+   "blocks": 11,
+   "body_chars": 7840,
+   "margin_notes": 0,
+   "regions": [
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:258",
+   "filename": "page-0258-631a7ae7df34.jpg",
+   "status": "text",
+   "running_head": "W I L.  | 8 | 50 WILL",
+   "blocks": 12,
+   "body_chars": 7464,
+   "margin_notes": 0,
+   "regions": [
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:261",
+   "filename": "page-0261-881563669b04.jpg",
+   "status": "text",
+   "running_head": "222 ENTOMOLOGI.",
+   "blocks": 48,
+   "body_chars": 4819,
+   "margin_notes": 7,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:266",
+   "filename": "page-0266-dfbe51d09127.jpg",
+   "status": "text",
+   "running_head": "A W. 655 Law of Scotland.",
+   "blocks": 13,
+   "body_chars": 6819,
+   "margin_notes": 0,
+   "regions": [
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:268",
+   "filename": "page-0268-4f70fe5dafd6.jpg",
+   "status": "text",
+   "running_head": "L A U [ 602 ] L A U",
+   "blocks": 13,
+   "body_chars": 6875,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:270",
+   "filename": "page-0270-6831cc1f149b.jpg",
+   "status": "plate",
+   "running_head": "",
+   "blocks": 1,
+   "body_chars": 28,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:318",
+   "filename": "page-0318-9d0e08d8ed22.jpg",
+   "status": "text",
+   "running_head": "N I L [ 75 J N I L",
+   "blocks": 12,
+   "body_chars": 6779,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:374",
+   "filename": "page-0374-2b13c7e2a0e0.jpg",
+   "status": "plate",
+   "running_head": "",
+   "blocks": 1,
+   "body_chars": 0,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:383",
+   "filename": "page-0383-018fb71412b2.jpg",
+   "status": "text",
+   "running_head": "POLITICAL ECONOMY. Chap. II.",
+   "blocks": 21,
+   "body_chars": 6502,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:403",
+   "filename": "page-0403-44f912e1c323.jpg",
+   "status": "text",
+   "running_head": "PHILOLOGY. 375",
+   "blocks": 16,
+   "body_chars": 8060,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right",
+    "s1-wide",
+    "s2-col-left",
+    "s2-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:452",
+   "filename": "page-0452-233256cb3c3c.jpg",
+   "status": "cover",
+   "running_head": "",
+   "blocks": 0,
+   "body_chars": 0,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:473",
+   "filename": "page-0473-4ab88a7103cd.jpg",
+   "status": "text",
+   "running_head": "466 CONCHOLO GY. Chap. 1",
+   "blocks": 17,
+   "body_chars": 6762,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:493",
+   "filename": "page-0493-29246f4d055a.jpg",
+   "status": "text",
+   "running_head": "I L A [ 159 ] I L A",
+   "blocks": 12,
+   "body_chars": 6425,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:499",
+   "filename": "page-0499-5eb663c6a072.jpg",
+   "status": "text",
+   "running_head": "I N D I A. 187",
+   "blocks": 11,
+   "body_chars": 6918,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:513",
+   "filename": "page-0513-b5d3417f845a.jpg",
+   "status": "text",
+   "running_head": "E N G | 27",
+   "blocks": 10,
+   "body_chars": 6819,
+   "margin_notes": 0,
+   "regions": [
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:523",
+   "filename": "page-0523-a583606e375a.jpg",
+   "status": "text",
+   "running_head": "E N G [ 2729 ] E N G",
+   "blocks": 32,
+   "body_chars": 6407,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:546",
+   "filename": "page-0546-7c6f39d92d2b.jpg",
+   "status": "cover",
+   "running_head": "",
+   "blocks": 0,
+   "body_chars": 0,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:560",
+   "filename": "page-0560-c458f594fc79.jpg",
+   "status": "text",
+   "running_head": "A M I [ 619 ] A M I",
+   "blocks": 25,
+   "body_chars": 6502,
+   "margin_notes": 2,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:563",
+   "filename": "page-0563-d12ce09577cd.jpg",
+   "status": "text",
+   "running_head": "A C T [ 97 ] A C T",
+   "blocks": 17,
+   "body_chars": 6950,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:604",
+   "filename": "page-0604-c50a825dd732.jpg",
+   "status": "text",
+   "running_head": "T H O T H R 239",
+   "blocks": 14,
+   "body_chars": 7990,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:611",
+   "filename": "page-0611-4a137a2c6b07.jpg",
+   "status": "text",
+   "running_head": "R E S [ 752 J R E S",
+   "blocks": 17,
+   "body_chars": 6616,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:651",
+   "filename": "page-0651-a4e89a900a40.jpg",
+   "status": "plate",
+   "running_head": "HELMINTHOLOGY. Plate CCLI",
+   "blocks": 12,
+   "body_chars": 61,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:681",
+   "filename": "page-0681-c2be06f2d615.jpg",
+   "status": "text",
+   "running_head": "O P T I C S. 427",
+   "blocks": 18,
+   "body_chars": 6219,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:713",
+   "filename": "page-0713-3db0c66f81f4.jpg",
+   "status": "text",
+   "running_head": "OVI (447) OUS",
+   "blocks": 29,
+   "body_chars": 6571,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:756",
+   "filename": "page-0756-33eb91fcbe8d.jpg",
+   "status": "text",
+   "running_head": "MAGNETISM. 129",
+   "blocks": 21,
+   "body_chars": 6883,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:851",
+   "filename": "page-0851-6e2a0b999324.jpg",
+   "status": "text",
+   "running_head": "5550 O P T I C S. Part II.",
+   "blocks": 21,
+   "body_chars": 6400,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:914",
+   "filename": "page-0914-28ee06f6b377.jpg",
+   "status": "text",
+   "running_head": "A R A [ 152 ] A R A",
+   "blocks": 7,
+   "body_chars": 6911,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:944",
+   "filename": "page-0944-3e9ba80e3606.jpg",
+   "status": "text",
+   "running_head": "M E A [ 715 ] M E A",
+   "blocks": 9,
+   "body_chars": 2626,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right",
+    "s1-wide",
+    "s2-col-left",
+    "s2-col-right",
+    "s3-wide",
+    "s4-col-left",
+    "s4-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:948",
+   "filename": "page-0948-7daaf1d3d872.jpg",
+   "status": "plate",
+   "running_head": "",
+   "blocks": 1,
+   "body_chars": 20,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1017",
+   "filename": "page-1017-5395deb0e141.jpg",
+   "status": "text",
+   "running_head": "H EYL (781) H E M",
+   "blocks": 26,
+   "body_chars": 5946,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1032",
+   "filename": "page-1032-e28420685b47.jpg",
+   "status": "text",
+   "running_head": "H E A ( 776 ) H E A",
+   "blocks": 11,
+   "body_chars": 4123,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-wide",
+    "s1-wide.a",
+    "s1-wide.b",
+    "s2-wide"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1102",
+   "filename": "page-1102-918dd1676cc2.jpg",
+   "status": "text",
+   "running_head": "182 C O M C O M",
+   "blocks": 17,
+   "body_chars": 8130,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1166",
+   "filename": "page-1166-ec9dc1d6c2c9.jpg",
+   "status": "text",
+   "running_head": "LIBERTY OF THE PRESS. 279",
+   "blocks": 22,
+   "body_chars": 7538,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1214",
+   "filename": "page-1214-17d180a99e0a.jpg",
+   "status": "text",
+   "running_head": "D A M [ 658 ] D A M",
+   "blocks": 19,
+   "body_chars": 6639,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1250",
+   "filename": "page-1250-2e0c75f85418.jpg",
+   "status": "text",
+   "running_head": "COI [ 130 ]",
+   "blocks": 21,
+   "body_chars": 6353,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+   "filename": "page-1268-e5ec9e5b4086.jpg",
+   "status": "text",
+   "running_head": "66 N A Z N A Z N A Z",
+   "blocks": 12,
+   "body_chars": 7616,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right",
+    "s1-wide",
+    "s2-col-left",
+    "s2-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1284",
+   "filename": "page-1284-b6a1ee180d42.jpg",
+   "status": "text",
+   "running_head": "S CO [ 8065 ] SCO",
+   "blocks": 15,
+   "body_chars": 6830,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1298",
+   "filename": "page-1298-4795a8a1d020.jpg",
+   "status": "text",
+   "running_head": "452 EDWARDS",
+   "blocks": 10,
+   "body_chars": 7838,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1324",
+   "filename": "page-1324-2cfbaa25a150.jpg",
+   "status": "text",
+   "running_head": "H E D [ 38",
+   "blocks": 12,
+   "body_chars": 6907,
+   "margin_notes": 0,
+   "regions": [
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1327",
+   "filename": "page-1327-7d41b1db21d5.jpg",
+   "status": "text",
+   "running_head": "H U E [ 70",
+   "blocks": 17,
+   "body_chars": 6396,
+   "margin_notes": 1,
+   "regions": [
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1344",
+   "filename": "page-1344-b5c2505d4784.jpg",
+   "status": "text",
+   "running_head": "H O R [ 664 ] H O R",
+   "blocks": 26,
+   "body_chars": 6445,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1400",
+   "filename": "page-1400-2d754e996979.jpg",
+   "status": "plate",
+   "running_head": "",
+   "blocks": 1,
+   "body_chars": 49,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1415",
+   "filename": "page-1415-d28d11d04726.jpg",
+   "status": "text",
+   "running_head": "E T H [ 797 ] E T H",
+   "blocks": 10,
+   "body_chars": 7035,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1422",
+   "filename": "page-1422-8d39d99af992.jpg",
+   "status": "text",
+   "running_head": "E D U [ 353 I E D U",
+   "blocks": 18,
+   "body_chars": 6780,
+   "margin_notes": 2,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1430",
+   "filename": "page-1430-4405fefdf7b6.jpg",
+   "status": "text",
+   "running_head": "E G Y [ 368 ] E G Y",
+   "blocks": 10,
+   "body_chars": 6778,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1466",
+   "filename": "page-1466-bb41810e6962.jpg",
+   "status": "text",
+   "running_head": "E S S [ 729 ] E S S",
+   "blocks": 22,
+   "body_chars": 6862,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1473",
+   "filename": "page-1473-b3b602ef6a3d.jpg",
+   "status": "text",
+   "running_head": "ESC 1723 I ESC",
+   "blocks": 15,
+   "body_chars": 6512,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1580",
+   "filename": "page-1580-e0bdcd3f241e.jpg",
+   "status": "text",
+   "running_head": "T R I G O N O M E T R Y. 909",
+   "blocks": 14,
+   "body_chars": 5424,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-wide.a",
+    "s0-wide.b"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1614",
+   "filename": "page-1614-ea352b487d65.jpg",
+   "status": "text",
+   "running_head": "T H O ( 896 ) T H O",
+   "blocks": 26,
+   "body_chars": 6448,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1615",
+   "filename": "page-1615-664ff8d7d9b2.jpg",
+   "status": "blank",
+   "running_head": "",
+   "blocks": 0,
+   "body_chars": 0,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1649",
+   "filename": "page-1649-e6a1fc569876.jpg",
+   "status": "text",
+   "running_head": "C H I [ 697 ]",
+   "blocks": 17,
+   "body_chars": 6892,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1670",
+   "filename": "page-1670-ced69857efba.jpg",
+   "status": "text",
+   "running_head": "C A P [ 141 ] C A P",
+   "blocks": 21,
+   "body_chars": 6345,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1678",
+   "filename": "page-1678-75b494c1b4fb.jpg",
+   "status": "text",
+   "running_head": "B I L B I L S03",
+   "blocks": 22,
+   "body_chars": 4422,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1680",
+   "filename": "page-1680-fbb4a5fde0c2.jpg",
+   "status": "text",
+   "running_head": "CARPENTRY. 631",
+   "blocks": 20,
+   "body_chars": 6167,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1722",
+   "filename": "page-1722-bda8f6e99dca.jpg",
+   "status": "text",
+   "running_head": "A R S [ 354 ] A R S",
+   "blocks": 17,
+   "body_chars": 7184,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1765",
+   "filename": "page-1765-1e78e19e88aa.jpg",
+   "status": "text",
+   "running_head": "K A L [ 421 ] K A L",
+   "blocks": 14,
+   "body_chars": 6705,
+   "margin_notes": 2,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1803",
+   "filename": "page-1803-0b6da50e5c8a.jpg",
+   "status": "text",
+   "running_head": "ENG [ 141 J ENG",
+   "blocks": 19,
+   "body_chars": 6319,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right",
+    "s1-wide",
+    "s2-col-left",
+    "s2-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1805",
+   "filename": "page-1805-226885408318.jpg",
+   "status": "text",
+   "running_head": "E X E [ 375 J E X E",
+   "blocks": 26,
+   "body_chars": 6447,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1818",
+   "filename": "page-1818-e6693d1961ef.jpg",
+   "status": "text",
+   "running_head": "BLOW-PIPE. 713",
+   "blocks": 15,
+   "body_chars": 7881,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1828",
+   "filename": "page-1828-9ca50fbf1eeb.jpg",
+   "status": "text",
+   "running_head": "BEAUTV. 489",
+   "blocks": 14,
+   "body_chars": 7855,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1845",
+   "filename": "page-1845-a758ad9d45a7.jpg",
+   "status": "plate",
+   "running_head": "",
+   "blocks": 1,
+   "body_chars": 5,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1904",
+   "filename": "page-1904-759854fd95bb.jpg",
+   "status": "text",
+   "running_head": "L Y R [ 4329 ] L Y R",
+   "blocks": 17,
+   "body_chars": 6790,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right",
+    "s1-wide",
+    "s2-col-left",
+    "s2-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+   "filename": "page-1910-f4723acc1771.jpg",
+   "status": "text",
+   "running_head": "L I G [ 4230 ] L I G",
+   "blocks": 15,
+   "body_chars": 6940,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right",
+    "s1-wide",
+    "s2-col-left",
+    "s2-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1933",
+   "filename": "page-1933-ae507137e9dc.jpg",
+   "status": "text",
+   "running_head": "5706 O R A T O R Y. Part III.",
+   "blocks": 22,
+   "body_chars": 6479,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1939",
+   "filename": "page-1939-0f50bb0b2f40.jpg",
+   "status": "text",
+   "running_head": "6056 PHARMACY. Part II.",
+   "blocks": 28,
+   "body_chars": 6329,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1942",
+   "filename": "page-1942-99b5dc3b4c6c.jpg",
+   "status": "text",
+   "running_head": "6046 PHARMACY. Part II.",
+   "blocks": 33,
+   "body_chars": 6038,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1945",
+   "filename": "page-1945-d877e2c0e7d6.jpg",
+   "status": "text",
+   "running_head": "Part III. O P T I C S. 5605",
+   "blocks": 13,
+   "body_chars": 6922,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2001",
+   "filename": "page-2001-93040a5ab362.jpg",
+   "status": "text",
+   "running_head": "S I L [ 355 ] S I L",
+   "blocks": 13,
+   "body_chars": 6828,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2051",
+   "filename": "page-2051-588566464df4.jpg",
+   "status": "text",
+   "running_head": "L O M [ 16 | 8 J",
+   "blocks": 18,
+   "body_chars": 6849,
+   "margin_notes": 0,
+   "regions": [
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2077",
+   "filename": "page-2077-b2d54e4a68a4.jpg",
+   "status": "plate",
+   "running_head": "",
+   "blocks": 1,
+   "body_chars": 0,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2087",
+   "filename": "page-2087-4b834c6b315d.jpg",
+   "status": "text",
+   "running_head": "BRITAIN. 571",
+   "blocks": 8,
+   "body_chars": 7945,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2093",
+   "filename": "page-2093-4b43bdcc663f.jpg",
+   "status": "text",
+   "running_head": "S' E N [ 151 J S E N",
+   "blocks": 15,
+   "body_chars": 7012,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2108",
+   "filename": "page-2108-6874128a519b.jpg",
+   "status": "text",
+   "running_head": "B R I [ 645 ] B R t",
+   "blocks": 11,
+   "body_chars": 6657,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-wide.a",
+    "s0-wide.b"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2131",
+   "filename": "page-2131-f30c24bfdf3b.jpg",
+   "status": "text",
+   "running_head": "B O M [ 353 ] B O M",
+   "blocks": 15,
+   "body_chars": 6296,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2155",
+   "filename": "page-2155-e6a255b57f58.jpg",
+   "status": "text",
+   "running_head": "B L I 301 B L",
+   "blocks": 31,
+   "body_chars": 4741,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2171",
+   "filename": "page-2171-f8869fa95f19.jpg",
+   "status": "text",
+   "running_head": "A S T [ 852 ] A S T",
+   "blocks": 22,
+   "body_chars": 6478,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2209",
+   "filename": "page-2209-1ee9bc409f67.jpg",
+   "status": "plate",
+   "running_head": "",
+   "blocks": 1,
+   "body_chars": 11,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2243",
+   "filename": "page-2243-0bd9a3e05239.jpg",
+   "status": "plate",
+   "running_head": "",
+   "blocks": 2,
+   "body_chars": 90,
+   "margin_notes": 0,
+   "regions": [],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+   "filename": "page-2250-75315f455009.jpg",
+   "status": "text",
+   "running_head": "B U X ( 697 ) B Y Z",
+   "blocks": 33,
+   "body_chars": 4686,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+   "filename": "page-2277-cdde2fc730b9.jpg",
+   "status": "text",
+   "running_head": "Chap. VI. A N A T O M Y. 271",
+   "blocks": 24,
+   "body_chars": 5698,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right",
+    "s1-wide",
+    "s2-col-left",
+    "s2-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2296",
+   "filename": "page-2296-487afb796c01.jpg",
+   "status": "text",
+   "running_head": "POL [ 93 ] POL",
+   "blocks": 15,
+   "body_chars": 7073,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2307",
+   "filename": "page-2307-4ce2ea50e9d2.jpg",
+   "status": "text",
+   "running_head": "A L G [ 241 ] A L G",
+   "blocks": 19,
+   "body_chars": 7037,
+   "margin_notes": 4,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2402",
+   "filename": "page-2402-5030b31ea901.jpg",
+   "status": "text",
+   "running_head": "A N A T O M Y. 3",
+   "blocks": 17,
+   "body_chars": 7857,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2424",
+   "filename": "page-2424-dd2506be16cf.jpg",
+   "status": "text",
+   "running_head": "AGRICULTURE. 345",
+   "blocks": 23,
+   "body_chars": 7628,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2446",
+   "filename": "page-2446-692d680df6a9.jpg",
+   "status": "text",
+   "running_head": "C H E M3 I SM T R Y. 177",
+   "blocks": 15,
+   "body_chars": 6383,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2448",
+   "filename": "page-2448-f5e4884f245d.jpg",
+   "status": "text",
+   "running_head": "C O M (255 ) C O M",
+   "blocks": 25,
+   "body_chars": 6303,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+   "filename": "page-2464-24f450326eee.jpg",
+   "status": "text",
+   "running_head": "C A B (2) C A B",
+   "blocks": 30,
+   "body_chars": 5720,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2473",
+   "filename": "page-2473-b849fb7f25f2.jpg",
+   "status": "text",
+   "running_head": "( 5",
+   "blocks": 25,
+   "body_chars": 6077,
+   "margin_notes": 0,
+   "regions": [
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2479",
+   "filename": "page-2479-cdaf43d24336.jpg",
+   "status": "text",
+   "running_head": "948 L A W.",
+   "blocks": 14,
+   "body_chars": 6710,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2493",
+   "filename": "page-2493-84519542efce.jpg",
+   "status": "text",
+   "running_head": "598 CHEMISTRY.",
+   "blocks": 47,
+   "body_chars": 5399,
+   "margin_notes": 9,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2524",
+   "filename": "page-2524-beb66523a80a.jpg",
+   "status": "text",
+   "running_head": "408 HINDUSTAN.",
+   "blocks": 13,
+   "body_chars": 7636,
+   "margin_notes": 0,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right",
+    "s1-wide",
+    "s2-col-left",
+    "s2-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2569",
+   "filename": "page-2569-e8e9334880f9.jpg",
+   "status": "text",
+   "running_head": "ABYSSINIA. 57",
+   "blocks": 19,
+   "body_chars": 6983,
+   "margin_notes": 1,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  },
+  {
+   "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2570",
+   "filename": "page-2570-364adfefc0b1.jpg",
+   "status": "text",
+   "running_head": "88 ABYSSINIA.",
+   "blocks": 20,
+   "body_chars": 6772,
+   "margin_notes": 11,
+   "regions": [
+    "head",
+    "s0-col-left",
+    "s0-col-right"
+   ],
+   "unfinished_regions": [],
+   "error": null
+  }
+ ]
+}

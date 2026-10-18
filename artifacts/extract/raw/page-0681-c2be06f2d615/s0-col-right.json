@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "4346d6027e08ac9b74f58f68a94513c4c3fa054b508923e1b43bb0c7c3e9ee65",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "5aab634cc11110562faafc1d71fa53c585720fab361c06a48ad72b370f804d3f",
+  "image_bytes": 2721267,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:681",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4517,
+   0.0106,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0106,
+    0.093,
+    0.4583
+   ],
+   [
+    0.093,
+    0.1755,
+    0.4567
+   ],
+   [
+    0.1755,
+    0.258,
+    0.4583
+   ],
+   [
+    0.258,
+    0.3404,
+    0.4567
+   ],
+   [
+    0.3404,
+    0.4229,
+    0.4583
+   ],
+   [
+    0.4229,
+    0.5053,
+    0.4617
+   ],
+   [
+    0.5053,
+    0.5877,
+    0.4617
+   ],
+   [
+    0.5877,
+    0.6702,
+    0.4633
+   ],
+   [
+    0.6702,
+    0.7527,
+    0.4567
+   ],
+   [
+    0.7527,
+    0.8351,
+    0.4583
+   ],
+   [
+    0.8351,
+    0.9175,
+    0.4583
+   ],
+   [
+    0.9175,
+    1.0,
+    0.4617
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2476,
+  "completion_tokens": 804,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.45,
+ "created_at": "2026-10-18T11:19:36+00:00",
+ "content": "<x_0.0371><y_0.0047>I C S. 427<x_0.8076><y_0.0266><class_Page-header>\n\n<x_0.0078><y_0.0273>object at _fg_ upon a white wall, a fheet or a fcreen of white paper, provided the object is farther from the lens than its principal focus. To make this picture appear distinct and bright, it must have no other light fall up- on it but what comes through the lens _kl_; and for this reafon the whole apparatus is to be placed in a dark room EFGH. The lens _kl_ mult be very convex, fo that the object de may be very near to it, and yet not be near- than its principal focus: for by this means, as the object is near to the lens, the picture _fg_ will be at a great distance from it, and consequently the picture will be much bigger than the object. Since the picture is inverted in respect of the object, in order to make the picture appear with the right end upwards, it is neceflary that the object de should be placed with the wrong end upwards.<x_0.7998><y_0.2508><class_Text>\n\n<x_0.041><y_0.2531>_Of the_ DIFFERENT REFRANGIBILITY OF LIGHT.<x_0.7588><y_0.2719><class_Section-header>\n\n<x_0.0068><y_0.2734>We have hitherto fuppofed that a particle of light, as it comes from the fun, is the leaft particle into which light can be separated. But we muft now correct this lup- pofition, by flewing, that a particle of light, as it comes from the fun, is, properly speaking, a bundle of rays, which may be feparated from one another. Therefore, for the future, by a ray of light we mult be underflood to mean, not that collection of particles which we have hitherto called by this name, but the lealt particles in- to which light can be feparated.<x_0.7988><y_0.4141><class_Text>\n\n<x_0.04><y_0.418>_Rays of light are faid to, be differently refrangible, when at the fame or equal angles of incidence forms are more turned out of the way than others._<x_0.7959><y_0.4617><class_Text>\n\n<x_0.042><y_0.4656>_Rays are faid to be differently reflexible, if fome are more easily reflected than others._<x_0.793><y_0.4961><class_Text>\n\n<x_0.043><y_0.4992>_Light is called homogeneous, when all the rays are equally refrangible : it is called heterogeneous, when fome rays are more refrangible than others._<x_0.7939><y_0.5445><class_Text>\n\n<x_0.0439><y_0.5469>_The colours of homogeneous light are called primary or simple colours; and thofe of heterogenous light are called secondary or mixed._<x_0.7949><y_0.5914><class_Text>\n\n<x_0.0391><y_0.5945>_The rays of the fun are not all equally refrangible: and thofe rays, which have a different degree of refrangibility, have likewise a different colour._<x_0.791><y_0.6391><class_Text>\n\n<x_0.0059><y_0.6422>If a beam of light SF, (No. 32.) that comes from the fun, paffes into a dark room through F a round hole in a window flutter EG ; this beam proceeding straight forwards, and falling upon a paper at Y, would there make a round picture of the fun. This picture would be a confufed one indeed, if the hole is a large one and there is no lens in the hole. However, as this round fpot of light is a picture of the fun, we shall hereafter, notwithlanding its confusion, call it by this name. Now if a glats prifm ABC is placed between the hole in the window- flutter and the paper at Y, the rays of this beam, by the refraction which they fuffer in the prifm, will be bent from their fitat courte, and instead of going on fo as to fall upon the paper at Y, they will be turned upwards, and the picture of the fun produced by them will fall up- on a paper MN that is placed above Y. If all the rays<x_0.7979><y_0.8656><class_Text>",
+ "reply": {
+  "id": "chatcmpl-927a3d64-bcf6-4dc4-9e76-9a2f73d621a0",
+  "object": "chat.completion",
+  "created": 1792322375,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0371><y_0.0047>I C S. 427<x_0.8076><y_0.0266><class_Page-header>\n\n<x_0.0078><y_0.0273>object at _fg_ upon a white wall, a fheet or a fcreen of white paper, provided the object is farther from the lens than its principal focus. To make this picture appear distinct and bright, it must have no other light fall up- on it but what comes through the lens _kl_; and for this reafon the whole apparatus is to be placed in a dark room EFGH. The lens _kl_ mult be very convex, fo that the object de may be very near to it, and yet not be near- than its principal focus: for by this means, as the object is near to the lens, the picture _fg_ will be at a great distance from it, and consequently the picture will be much bigger than the object. Since the picture is inverted in respect of the object, in order to make the picture appear with the right end upwards, it is neceflary that the object de should be placed with the wrong end upwards.<x_0.7998><y_0.2508><class_Text>\n\n<x_0.041><y_0.2531>_Of the_ DIFFERENT REFRANGIBILITY OF LIGHT.<x_0.7588><y_0.2719><class_Section-header>\n\n<x_0.0068><y_0.2734>We have hitherto fuppofed that a particle of light, as it comes from the fun, is the leaft particle into which light can be separated. But we muft now correct this lup- pofition, by flewing, that a particle of light, as it comes from the fun, is, properly speaking, a bundle of rays, which may be feparated from one another. Therefore, for the future, by a ray of light we mult be underflood to mean, not that collection of particles which we have hitherto called by this name, but the lealt particles in- to which light can be feparated.<x_0.7988><y_0.4141><class_Text>\n\n<x_0.04><y_0.418>_Rays of light are faid to, be differently refrangible, when at the fame or equal angles of incidence forms are more turned out of the way than others._<x_0.7959><y_0.4617><class_Text>\n\n<x_0.042><y_0.4656>_Rays are faid to be differently reflexible, if fome are more easily reflected than others._<x_0.793><y_0.4961><class_Text>\n\n<x_0.043><y_0.4992>_Light is called homogeneous, when all the rays are equally refrangible : it is called heterogeneous, when fome rays are more refrangible than others._<x_0.7939><y_0.5445><class_Text>\n\n<x_0.0439><y_0.5469>_The colours of homogeneous light are called primary or simple colours; and thofe of heterogenous light are called secondary or mixed._<x_0.7949><y_0.5914><class_Text>\n\n<x_0.0391><y_0.5945>_The rays of the fun are not all equally refrangible: and thofe rays, which have a different degree of refrangibility, have likewise a different colour._<x_0.791><y_0.6391><class_Text>\n\n<x_0.0059><y_0.6422>If a beam of light SF, (No. 32.) that comes from the fun, paffes into a dark room through F a round hole in a window flutter EG ; this beam proceeding straight forwards, and falling upon a paper at Y, would there make a round picture of the fun. This picture would be a confufed one indeed, if the hole is a large one and there is no lens in the hole. However, as this round fpot of light is a picture of the fun, we shall hereafter, notwithlanding its confusion, call it by this name. Now if a glats prifm ABC is placed between the hole in the window- flutter and the paper at Y, the rays of this beam, by the refraction which they fuffer in the prifm, will be bent from their fitat courte, and instead of going on fo as to fall upon the paper at Y, they will be turned upwards, and the picture of the fun produced by them will fall up- on a paper MN that is placed above Y. If all the rays<x_0.7979><y_0.8656><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2476,
+   "completion_tokens": 804,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

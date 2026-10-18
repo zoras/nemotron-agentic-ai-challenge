@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "6fbe86468821e1714fabbd7ca5128365968a35f03544345e7fbf5c242a8b2449",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "bc63c57a641ed01558d98320b8d35664b6554ed952ddcdf7dd01250894c81566",
+  "image_bytes": 2177554,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:473",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.045,
+   0.5567,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.045,
+    0.1318,
+    0.5517
+   ],
+   [
+    0.1318,
+    0.2186,
+    0.5517
+   ],
+   [
+    0.2186,
+    0.3055,
+    0.5517
+   ],
+   [
+    0.3055,
+    0.3923,
+    0.5517
+   ],
+   [
+    0.3923,
+    0.4791,
+    0.5517
+   ],
+   [
+    0.4791,
+    0.5659,
+    0.5517
+   ],
+   [
+    0.5659,
+    0.6527,
+    0.5517
+   ],
+   [
+    0.6527,
+    0.7395,
+    0.5517
+   ],
+   [
+    0.7395,
+    0.8264,
+    0.5517
+   ],
+   [
+    0.8264,
+    0.9132,
+    0.5517
+   ],
+   [
+    0.9132,
+    1.0,
+    0.5517
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2648,
+  "completion_tokens": 848,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.38,
+ "created_at": "2026-10-18T11:19:21+00:00",
+ "content": "<x_0.1641><y_0.0055>466<x_0.2402><y_0.025><class_Page-header>\n\n<x_0.7217><y_0.0063>CONCH<x_0.9756><y_0.0266><class_Page-header>\n\n<x_0.1602><y_0.0258>Of the Con-\nfitcent Parts of Shells, &c.<x_0.2852><y_0.0805><class_Caption>\n\n<x_0.2842><y_0.0273>Some fpecies of patella, which were brought from Madeira, were alfo tubjected to chemical examination, by the fame philofopher. When exposed to a red heat in a crucible, they emitted a perceptible fmell of horn or feathers ; and by farther examination, by folution, the proportion of carbonic matter depoifited appeared to be greater, and the proportion of carbonate of lime lefs, than what was indicated by the refult of the experiments on porcellaneous fhells. When unburnt fhells belonging to the fame fspecies, were immersed in nitric acid very much diluted, the epidermis separated, and the whole of the carbonate of lime was diffolved. A gelatinous fubflance, nearly in a liquid flate, remain ed, but it did not retain the figure of the fhell, and exhibited no appearance of a fibrous structure. Thefe fhells, therefore, contain a larger portion of gelatinous matter than the porcellancous fhells, but the other component part contilis entirely of carbonate of lime.<x_0.9795><y_0.2711><class_Text>\n\n<x_0.2832><y_0.2719>_Shells compoefed of mother-of-pearl._--Shells of this defeription were subjected to familiar experiments with the former. When the common oyfter was expofed to a red heat, the effects were the fame as thofe which were produced by the fame procefs on the fpecies of patella from Madeira. The foliation of the unburnt fhell was alfo familiar, excepting only that the gelatinous part was of a greater conflitency. When the river muffel was burnt in a crucible, it emitted much fmoke, with a strong fmell of burnt horn or cartilage ; the fhell became of a dark gray colour, and exfoliated. By foliation in the acids, the proportion of carbonic matter feparated was greater, and that of carbonate of lime obtained was lefs, than from the other fhells on which experiments were made.<x_0.9785><y_0.4742><class_Text>\n\n<x_0.2822><y_0.4734>When an unburnt fhell of this defeription was immerfed in diluted nitric acid, a rapid foliation and effervefence took place ; and at the end of two days, the whole of the carbonate of lime was nearly diffolved. A feries of membranes now only remained, of which the epidermis constituted the firft. Thefe membranes fill retained the figure of the fhell. The carbonate of lime was at firft readily diffused, because the acid came easily in contact with it ; but the procefs became flower, as it was more difficult for the acid to infinuate itself between the different membranes of which the shell is composed. The haliotis iris, and the turbo olearius, were found to resemble this muffel, except that the membranaceus parts were more compact and denfe.<x_0.9775><y_0.6766><class_Text>\n\n<x_0.2861><y_0.6773>When thefe fhells are deprived by an acid of the carbonate of lime, which gives them their hardness, they appear to be formed of different membranes, applied fratum fuper fratum. Each membrane is fur nified with a corresponding coat or cruft of carbonate of lime, and it is fo lituated, that it is always between every two membranes, beginning with the epidermis, and ending with the internal membrane, which has been left formed. The animals which inhabit thefe stratified fhells, increase their habitation by the addition of a fratum of carbonate of lime, which is fe cured by a new membrane. And as every additional fratum exceeds in extent that which was previously formed, the fhell becomes stronger in proportion as it is enlarged ; and thus the growth and age of the animal may be denoted by the number of frata of which the fhell is compoiled. Similar experiments were made<x_0.9805><y_0.9102><class_Text>",
+ "reply": {
+  "id": "chatcmpl-2a9959c6-47ef-4823-aa38-770c50fc1b14",
+  "object": "chat.completion",
+  "created": 1792322360,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1641><y_0.0055>466<x_0.2402><y_0.025><class_Page-header>\n\n<x_0.7217><y_0.0063>CONCH<x_0.9756><y_0.0266><class_Page-header>\n\n<x_0.1602><y_0.0258>Of the Con-\nfitcent Parts of Shells, &c.<x_0.2852><y_0.0805><class_Caption>\n\n<x_0.2842><y_0.0273>Some fpecies of patella, which were brought from Madeira, were alfo tubjected to chemical examination, by the fame philofopher. When exposed to a red heat in a crucible, they emitted a perceptible fmell of horn or feathers ; and by farther examination, by folution, the proportion of carbonic matter depoifited appeared to be greater, and the proportion of carbonate of lime lefs, than what was indicated by the refult of the experiments on porcellaneous fhells. When unburnt fhells belonging to the fame fspecies, were immersed in nitric acid very much diluted, the epidermis separated, and the whole of the carbonate of lime was diffolved. A gelatinous fubflance, nearly in a liquid flate, remain ed, but it did not retain the figure of the fhell, and exhibited no appearance of a fibrous structure. Thefe fhells, therefore, contain a larger portion of gelatinous matter than the porcellancous fhells, but the other component part contilis entirely of carbonate of lime.<x_0.9795><y_0.2711><class_Text>\n\n<x_0.2832><y_0.2719>_Shells compoefed of mother-of-pearl._--Shells of this defeription were subjected to familiar experiments with the former. When the common oyfter was expofed to a red heat, the effects were the fame as thofe which were produced by the fame procefs on the fpecies of patella from Madeira. The foliation of the unburnt fhell was alfo familiar, excepting only that the gelatinous part was of a greater conflitency. When the river muffel was burnt in a crucible, it emitted much fmoke, with a strong fmell of burnt horn or cartilage ; the fhell became of a dark gray colour, and exfoliated. By foliation in the acids, the proportion of carbonic matter feparated was greater, and that of carbonate of lime obtained was lefs, than from the other fhells on which experiments were made.<x_0.9785><y_0.4742><class_Text>\n\n<x_0.2822><y_0.4734>When an unburnt fhell of this defeription was immerfed in diluted nitric acid, a rapid foliation and effervefence took place ; and at the end of two days, the whole of the carbonate of lime was nearly diffolved. A feries of membranes now only remained, of which the epidermis constituted the firft. Thefe membranes fill retained the figure of the fhell. The carbonate of lime was at firft readily diffused, because the acid came easily in contact with it ; but the procefs became flower, as it was more difficult for the acid to infinuate itself between the different membranes of which the shell is composed. The haliotis iris, and the turbo olearius, were found to resemble this muffel, except that the membranaceus parts were more compact and denfe.<x_0.9775><y_0.6766><class_Text>\n\n<x_0.2861><y_0.6773>When thefe fhells are deprived by an acid of the carbonate of lime, which gives them their hardness, they appear to be formed of different membranes, applied fratum fuper fratum. Each membrane is fur nified with a corresponding coat or cruft of carbonate of lime, and it is fo lituated, that it is always between every two membranes, beginning with the epidermis, and ending with the internal membrane, which has been left formed. The animals which inhabit thefe stratified fhells, increase their habitation by the addition of a fratum of carbonate of lime, which is fe cured by a new membrane. And as every additional fratum exceeds in extent that which was previously formed, the fhell becomes stronger in proportion as it is enlarged ; and thus the growth and age of the animal may be denoted by the number of frata of which the fhell is compoiled. Similar experiments were made<x_0.9805><y_0.9102><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2648,
+   "completion_tokens": 848,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

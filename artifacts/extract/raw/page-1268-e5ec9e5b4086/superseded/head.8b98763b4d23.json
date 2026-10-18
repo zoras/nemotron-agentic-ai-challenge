@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "8b98763b4d2323fd84f9e786fb4fee0c4ee9cc698a52609187ff75776ed0e0cc",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "54198868b02cfbbca40aceb5108802847054ff470c1f9878e00d0eb81d72b88e",
+  "image_bytes": 142329,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0262,
+   1.0,
+   0.0716
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 190,
+  "total_tokens": 239,
+  "completion_tokens": 49,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.19,
+ "created_at": "2026-10-18T11:19:51+00:00",
+ "content": "<x_0.0><y_0.0>66 N A Z N A Z\nNaria. Thus all the classes of officers, seamen, and marines, who of the service, civil and military, for one whole year, about Nazana<x_0.999><y_0.9891><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-62e50acc-7194-4381-b89c-6cdb5f9d395e",
+  "object": "chat.completion",
+  "created": 1792322391,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>66 N A Z N A Z\nNaria. Thus all the classes of officers, seamen, and marines, who of the service, civil and military, for one whole year, about Nazana<x_0.999><y_0.9891><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 190,
+   "total_tokens": 239,
+   "completion_tokens": 49,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "90abeb0959b234ebb8128f20f66c4e91df5c632bfa6c6b944b95247e2ae99f3b",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "63d7af5b5c5d1417574179645a658efa9bafb088ce463c9e06cd71f0c2606c46",
+  "image_bytes": 2171867,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1415",
+  "variant": "s0-col-right",
+  "crop": [
+   0.485,
+   0.0538,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0538,
+    0.1398,
+    0.49
+   ],
+   [
+    0.1398,
+    0.2258,
+    0.49
+   ],
+   [
+    0.2258,
+    0.3119,
+    0.49
+   ],
+   [
+    0.3119,
+    0.3979,
+    0.49
+   ],
+   [
+    0.3979,
+    0.4839,
+    0.49
+   ],
+   [
+    0.4839,
+    0.5699,
+    0.49
+   ],
+   [
+    0.5699,
+    0.6559,
+    0.49
+   ],
+   [
+    0.6559,
+    0.7419,
+    0.49
+   ],
+   [
+    0.7419,
+    0.828,
+    0.49
+   ],
+   [
+    0.828,
+    0.914,
+    0.49
+   ],
+   [
+    0.914,
+    1.0,
+    0.49
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2719,
+  "completion_tokens": 919,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.4,
+ "created_at": "2026-10-18T11:10:57+00:00",
+ "content": "<x_0.0166><y_0.0>grain a fourifh liquor called _bouza_ is prepared, which  is ufed for common drink like our fmall beer. A liquor of the fame kind, but of inferior quality, is made from barley cakes. Some have been of opinion, that the ufe of teff occasions the worms above mentioned; but this is controverted by Mr Bruce. Nook, a plant not to be ditinguiffed from our marigold either in shape, fize, or foliage, is alfo fown very generally over the country, and furnishes all Abyffinia with oil for the kitchen and other ufes.<x_0.7676><y_0.1391><class_Text>\n\n<x_0.7568><y_0.0>Ethiopia.<x_0.8965><y_0.0219><class_Page-header>\n\n<x_0.0146><y_0.1375>Abyffinia abounds with a valt variety of quadrupeds both wild and tame. Immenfe numbers of cattle every where prefent themfelves, fome of them the most beautiful in the world. Some have monftrous horns, fail to be capable of holding 10 quarts each; but this, as our author informs us, is a difeafe which proves fatal to them. Buffalos are here met with in great numbers, and are very fierce and untractable; but there are no fuch animals as carnivorous bulls, which have been faid to exit in this and other internal parts of Africa. Antelopes and other wild animals are met with in great numbers in the uncultivated parts; feeding chiefly on the leaves of trees. They abound moft of all, however, in thofe parts which have been once cultivated, but fince defolated by the calamities of war; and where wild oats abound in fuch quantities as to hide them from purfuit. Hyænas, lions, foxes, jackals, wild boars, &c. are alfo found, as well as the elephant, rhinoceros, cameleopard, and others of the larger and more uncommon kinds. Great havock is made in the cultivated fields by multitudes of baboons, apes, rats, and mice. There is plenty of hares; but thefe being reckoned unclean, as well as wild boar's, are not ufed as food. The rivers abound with crocodiles and hippopotami, at leaf the Nile, and thofe large fireams which flow into it: but a great number have water in them only during the rainy feafon, and thefe have neither fish nor any animal that feeds upon them.<x_0.7646><y_0.5352><class_Text>\n\n<x_0.0107><y_0.5336>The number of birds in this country is immenfe: nor are thofe of the carnivorous kind at all deficient. Great numbers of eagles, voltures, hawks, and others of that kind, are met with, and come punctually every year after the tropical rains have ceased. They feed at first upon the hell-fifth which are met with in great quantities on the edges of the defects, where they had lived in the fall springs; but, being forced from their natural habitations when thefe Springs were fwelled by the rains, are afterwards left to perish on dry land. When thefe fail, their next refource is from the carcafes of the large animals, fuch as the elephant and rhinoceros, which are killed in the flat country by the hunters. Their next puppy is the multitude of rats and field-mice which infelt the country after harvest. The vaft slaughter of cattle made by the Abyffinian armies, the multitude of persons killed whole bodies are allowed to rot on the field of battle, &c. furnish them alfo with another refource. Thefe fuplies, however, all fail at the beginning of the rainy feafon, when the hunters and armies return home, and the vaft quantity of water which continually overflows the ground renders it impoffible for them to find any other food.<x_0.7637><y_0.8594><class_Text>\n\n<x_0.0088><y_0.8602>There are other birds which feed upon infects, and multitudes which live on grain or feeds of various kinds; all of which are amply fuplplied by the immense quantity of fruits and berries which grow in Abyffinia, and are ripe at all feafons of the year. A very remarkable<x_0.7627><y_0.932><class_Text>",
+ "reply": {
+  "id": "chatcmpl-530b494c-0c7d-4f3c-ba3a-e6770ec31aa4",
+  "object": "chat.completion",
+  "created": 1792321856,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0166><y_0.0>grain a fourifh liquor called _bouza_ is prepared, which  is ufed for common drink like our fmall beer. A liquor of the fame kind, but of inferior quality, is made from barley cakes. Some have been of opinion, that the ufe of teff occasions the worms above mentioned; but this is controverted by Mr Bruce. Nook, a plant not to be ditinguiffed from our marigold either in shape, fize, or foliage, is alfo fown very generally over the country, and furnishes all Abyffinia with oil for the kitchen and other ufes.<x_0.7676><y_0.1391><class_Text>\n\n<x_0.7568><y_0.0>Ethiopia.<x_0.8965><y_0.0219><class_Page-header>\n\n<x_0.0146><y_0.1375>Abyffinia abounds with a valt variety of quadrupeds both wild and tame. Immenfe numbers of cattle every where prefent themfelves, fome of them the most beautiful in the world. Some have monftrous horns, fail to be capable of holding 10 quarts each; but this, as our author informs us, is a difeafe which proves fatal to them. Buffalos are here met with in great numbers, and are very fierce and untractable; but there are no fuch animals as carnivorous bulls, which have been faid to exit in this and other internal parts of Africa. Antelopes and other wild animals are met with in great numbers in the uncultivated parts; feeding chiefly on the leaves of trees. They abound moft of all, however, in thofe parts which have been once cultivated, but fince defolated by the calamities of war; and where wild oats abound in fuch quantities as to hide them from purfuit. Hyænas, lions, foxes, jackals, wild boars, &c. are alfo found, as well as the elephant, rhinoceros, cameleopard, and others of the larger and more uncommon kinds. Great havock is made in the cultivated fields by multitudes of baboons, apes, rats, and mice. There is plenty of hares; but thefe being reckoned unclean, as well as wild boar's, are not ufed as food. The rivers abound with crocodiles and hippopotami, at leaf the Nile, and thofe large fireams which flow into it: but a great number have water in them only during the rainy feafon, and thefe have neither fish nor any animal that feeds upon them.<x_0.7646><y_0.5352><class_Text>\n\n<x_0.0107><y_0.5336>The number of birds in this country is immenfe: nor are thofe of the carnivorous kind at all deficient. Great numbers of eagles, voltures, hawks, and others of that kind, are met with, and come punctually every year after the tropical rains have ceased. They feed at first upon the hell-fifth which are met with in great quantities on the edges of the defects, where they had lived in the fall springs; but, being forced from their natural habitations when thefe Springs were fwelled by the rains, are afterwards left to perish on dry land. When thefe fail, their next refource is from the carcafes of the large animals, fuch as the elephant and rhinoceros, which are killed in the flat country by the hunters. Their next puppy is the multitude of rats and field-mice which infelt the country after harvest. The vaft slaughter of cattle made by the Abyffinian armies, the multitude of persons killed whole bodies are allowed to rot on the field of battle, &c. furnish them alfo with another refource. Thefe fuplies, however, all fail at the beginning of the rainy feafon, when the hunters and armies return home, and the vaft quantity of water which continually overflows the ground renders it impoffible for them to find any other food.<x_0.7637><y_0.8594><class_Text>\n\n<x_0.0088><y_0.8602>There are other birds which feed upon infects, and multitudes which live on grain or feeds of various kinds; all of which are amply fuplplied by the immense quantity of fruits and berries which grow in Abyffinia, and are ripe at all feafons of the year. A very remarkable<x_0.7627><y_0.932><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2719,
+   "completion_tokens": 919,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

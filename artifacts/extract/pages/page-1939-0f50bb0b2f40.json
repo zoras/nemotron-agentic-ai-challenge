@@ -1,0 +1,557 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1939",
+ "row_index": 1939,
+ "volume_id": "144850379",
+ "filename": "page-1939-0f50bb0b2f40.jpg",
+ "image_sha256": "0f50bb0b2f406428516bb469f72abc9fc9fa54cdb87fbdff0adae232ef9c2384",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.1098,
+  "median_grey": 219,
+  "layout_body_chars": 6245,
+  "layout_pictures": 0
+ },
+ "running_head": "6056 PHARMACY. Part II.",
+ "layout_raw": "page-1939-0f50bb0b2f40/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0403,
+    1.0,
+    0.0694
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1939-0f50bb0b2f40/head.json",
+   "finish_reason": "stop",
+   "request_key": "d2a80ca5228528d867555b26f3891ed3ffbc15dc9866ae57f437dd4dff72654b"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0403,
+    0.5283,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0403,
+     0.1203,
+     0.5233
+    ],
+    [
+     0.1203,
+     0.2003,
+     0.5233
+    ],
+    [
+     0.2003,
+     0.2802,
+     0.5233
+    ],
+    [
+     0.2802,
+     0.3602,
+     0.5233
+    ],
+    [
+     0.3602,
+     0.4402,
+     0.5233
+    ],
+    [
+     0.4402,
+     0.5202,
+     0.5233
+    ],
+    [
+     0.5202,
+     0.6001,
+     0.5233
+    ],
+    [
+     0.6001,
+     0.6801,
+     0.5233
+    ],
+    [
+     0.6801,
+     0.7601,
+     0.5233
+    ],
+    [
+     0.7601,
+     0.8401,
+     0.5233
+    ],
+    [
+     0.8401,
+     0.92,
+     0.5233
+    ],
+    [
+     0.92,
+     1.0,
+     0.5233
+    ]
+   ],
+   "raw_path": "page-1939-0f50bb0b2f40/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "947e01efd20108feacc0a5fd230f0001291798e41aecd4dff4df4d8bb8e2df4a"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5183,
+    0.0403,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0403,
+     0.1203,
+     0.5233
+    ],
+    [
+     0.1203,
+     0.2003,
+     0.5233
+    ],
+    [
+     0.2003,
+     0.2802,
+     0.5233
+    ],
+    [
+     0.2802,
+     0.3602,
+     0.5233
+    ],
+    [
+     0.3602,
+     0.4402,
+     0.5233
+    ],
+    [
+     0.4402,
+     0.5202,
+     0.5233
+    ],
+    [
+     0.5202,
+     0.6001,
+     0.5233
+    ],
+    [
+     0.6001,
+     0.6801,
+     0.5233
+    ],
+    [
+     0.6801,
+     0.7601,
+     0.5233
+    ],
+    [
+     0.7601,
+     0.8401,
+     0.5233
+    ],
+    [
+     0.8401,
+     0.92,
+     0.5233
+    ],
+    [
+     0.92,
+     1.0,
+     0.5233
+    ]
+   ],
+   "raw_path": "page-1939-0f50bb0b2f40/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "1505d2dd42bf3b62cf22a12ab8a703b0a52a67e88158370c3cc3d9b150b306c3"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Text",
+   "text": "6056 PHARMACY. Part II.",
+   "bbox": [
+    0.0,
+    0.0403,
+    1.0,
+    0.0694
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1939-0f50bb0b2f40:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "6056",
+   "bbox": [
+    0.0423,
+    0.0448,
+    0.1026,
+    0.0651
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "P H A R",
+   "bbox": [
+    0.3978,
+    0.0403,
+    0.5159,
+    0.0605
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "_Prepara-tions._",
+   "bbox": [
+    0.0413,
+    0.0658,
+    0.1016,
+    0.092
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "flower. When in perfection, it is very light and thin; pale, and almoft colourlefs ; of great fragrancy, tho’ not quite fo agreeable as the rofemary itself. It is recommended, in the dofe of a few drops, in nervous and hyfferic complaints. Boerhaave holds it in great efterm againt epilepties, and fuppreflions of the uterine purgations, occasioned by weaknefs and inactivity.",
+   "bbox": [
+    0.1073,
+    0.0613,
+    0.5144,
+    0.1738
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b4"
+  },
+  {
+   "order": 5,
+   "class": "Section-header",
+   "text": "## _535. Effential oil of rue-leaves._ L.",
+   "bbox": [
+    0.1744,
+    0.1723,
+    0.4458,
+    0.191
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "The oil of rue has a very acrid tafte, and a pene-trating fmell, refembling that of the herb, but rather more unpleasant. It is fometimes made ufe of in hyfteric diforders, and as an anthelmintic ; as alfo in epileptics proceeding from a relaxed flate of the nerves.",
+   "bbox": [
+    0.1109,
+    0.1872,
+    0.5149,
+    0.2675
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Rue yields its oil very fararingly. The largeft quantity is obtained from it when the flowers are ready to fall off, and the feeds begin to flow themfelves: fuitable maceration, previous to the diftillation, is here extremely necelitary.",
+   "bbox": [
+    0.1114,
+    0.2653,
+    0.5154,
+    0.3349
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b7"
+  },
+  {
+   "order": 8,
+   "class": "Section-header",
+   "text": "_536. Effential oil of favin leaves._ L. E.",
+   "bbox": [
+    0.1615,
+    0.3365,
+    0.471,
+    0.353
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "This oil is a celebrated uterine and emmenagogue ; in cold phlegmatic habits, it is undoubtedly a medicine of good service, though not capable of performing what it has been utually reprefented to do. The dofe is, two or three drops or more.",
+   "bbox": [
+    0.1119,
+    0.3507,
+    0.5169,
+    0.4204
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b9"
+  },
+  {
+   "order": 10,
+   "class": "Section-header",
+   "text": "### _537. Effential oil of faffafras._ L. E.",
+   "bbox": [
+    0.1713,
+    0.422,
+    0.4561,
+    0.4384
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "This is the moft ponderous of all the known effenial oils, but rifes in diftillation with sufficient cafe: it appears limpid as water, has a moderately pungent tafte, a very fragrant fmell, exactly refembling that of the faffafras. It stands greatly commended as a fudo-rific, and for purifying the blood and juices: it is likewise fuppofed to be of service in humoural athmas and coughs. The dofe is from one drop to eight or ten ; though Geoffroy goes as far as 20.",
+   "bbox": [
+    0.113,
+    0.4362,
+    0.5231,
+    0.5561
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "The decoction remaining after the diftillation of the oil, affords, by infipillation, an ufeful extract, of a mild, bitterith, fubatringent tafte. Hoffman fays, he has given it with great benefit, in dofes of a feruple, as a corroborant in cachectic cafes, in the decline of intermitting fevers, and for abating hypochondriacal fpafms.",
+   "bbox": [
+    0.114,
+    0.5546,
+    0.5237,
+    0.6491
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b12"
+  },
+  {
+   "order": 13,
+   "class": "Section-header",
+   "text": "## _538. Oil of turpentine._ L. E.",
+   "bbox": [
+    0.2033,
+    0.6506,
+    0.4385,
+    0.6678
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "This is distilled in the fame manner as the foregoing oils, and is strictly an effectual one, though not usually ranked in this clafs : it is commonly, but improperly, called _fpirit of turpentine._ It is employed in large quantities for fome mechanic purposes, and hence the distillation of it is become a particular buffeneris.",
+   "bbox": [
+    0.1192,
+    0.6649,
+    0.5242,
+    0.7579
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "This oil is a very hot, filmulating medicine. It is fometimes given as a fudorific and diuretic, in the dofe of two or three drops: in larger dofes, it is apt to greatly heat the body, occasion pain of the head, an effusion of the femen and liquor of the prottate glands. It has neverthelefs been of late taken in confiderable dofes (along with honey or other convenient vehicles) against the feiatica ; and, as is laid, with good fuccefs. Some have recommended it againt venereal runnings: but here it has produced mif-chievous consequences, inflaming the parts and aggravating the diforder. Externally it is not unfre",
+   "bbox": [
+    0.1197,
+    0.7563,
+    0.5278,
+    0.9198
+   ],
+   "source": "s0-col-left",
+   "id": "page-1939-0f50bb0b2f40:b15"
+  },
+  {
+   "order": 16,
+   "class": "Head-fragment",
+   "text": "M A C Y.",
+   "bbox": [
+    0.5225,
+    0.0403,
+    0.6496,
+    0.0582
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b16"
+  },
+  {
+   "order": 17,
+   "class": "Head-fragment",
+   "text": "Part II.",
+   "bbox": [
+    0.9078,
+    0.0403,
+    0.9882,
+    0.056
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "uently employed against rheumatic pains, aches, fprains, for dificuffing cold tumours, and refraining hermor- rhages.",
+   "bbox": [
+    0.5211,
+    0.059,
+    0.9233,
+    0.104
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b18"
+  },
+  {
+   "order": 19,
+   "class": "Caption",
+   "text": "Prepara-tions.",
+   "bbox": [
+    0.9262,
+    0.0598,
+    0.9972,
+    0.0853
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b19"
+  },
+  {
+   "order": 20,
+   "class": "List-item",
+   "text": "539. After the diftillation of the turpentine, there remains in the fill a brittle refinous fubltance, of a yellow colour, called _yellow refin_ [L.]",
+   "bbox": [
+    0.5244,
+    0.1078,
+    0.9289,
+    0.1512
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "The only ufe of this is in external applications, for giving confidence to platters, and the like purpoies.",
+   "bbox": [
+    0.5258,
+    0.1505,
+    0.9299,
+    0.1805
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "540. Moft of the foregoing oils are drawn by our chemifts, and easily procurable in a tolerable degree of perfection; thofe of cinnamon, cloves, nutmeggs, and mace, excepted. Thefe are usually imported from abroad; and are for the moft part fo much adulturated, that it is difficult to meet with fuch as are at all fit for ufe.",
+   "bbox": [
+    0.5253,
+    0.1813,
+    0.9304,
+    0.2727
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "Nor are the adulterations of thefe kinds of prepara- tions easily difcoverable. The groffer abufes indeed may be readily detected: thus if the oil is mixed with fpirit of wine, it will turn milky on the addition of water ; if with expreffed oils, rectified fpirit will differ the eftiential, and leave the other behind; if with oil of turpentine, on dipping a piece of paper in the mixture, and drying it with a gentle heat, the turpen- tine will be betrayed by its fmell. But the more subtle artifacts have contrived other methods of fophification, which elude all trials of this kind.",
+   "bbox": [
+    0.5273,
+    0.2735,
+    0.9318,
+    0.4175
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "Some have looked upon the specific gravity of oils, as a certain criterion of their genuinenefs. This, however, is not to be abfolutely depended on ; for the genuine oils, obtained from the fame subject, oftentimes differ in gravity as much as those drawn from different ones. Cinnamon and cloves, whose oils ufually link in water, yield, if flowly and wavily distilled, an oil of great fragrancy, which is nevertheless specifically lighter than the aqueous fluid employed in the distillation of it ; whilst, on the other hand, the left runnings of fome of the lighter oils prove fome times fo ponderous as to link in water.",
+   "bbox": [
+    0.5291,
+    0.4167,
+    0.9332,
+    0.5756
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b24"
+  },
+  {
+   "order": 25,
+   "class": "Text",
+   "text": "As all effential oils agree in the general properties of folubility in fpirit of wine, indiffolubility in water, mifcibility with water by the intervention of certain intermedia, volatility in the heat of boiling water, &c. it is plain that they may be varioufly mixed with one another, or the dearer fophifficated with the cheaper, without any poflibility of dicovering the abufe by any trials of this kind. And indeed, it would not be of much advantage to the purchafer if he had infalible criteria of the genuinenefs of every individual oil. It is of as much importance, that they may be _good_, as that they may be _genuine_ ; for we have often been genuine oils, from incautious distillation, and long and carelefs keeping, weaker both in fmell and tafte than the common fophifficated ones.",
+   "bbox": [
+    0.5338,
+    0.5749,
+    0.936,
+    0.7721
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b25"
+  },
+  {
+   "order": 26,
+   "class": "Text",
+   "text": "The fmell and tafte feem to be the only certain tefts that the nature of the thing will admit of. If a bark should have in every respect the appearance of good cinnamon, and should be proved indifputably to be the genuine bark of the cinnamon tree; yet, if it wants the cinnamon flavour, or has it but in a low degree, we reject it : and the cafe is the fame with the oil. It is only from ufe and habit, or comparison with specimens of known quality, that we can judge of the goodness, either of the drugs themselves, or of their oils.",
+   "bbox": [
+    0.5376,
+    0.7713,
+    0.9384,
+    0.916
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b26"
+  },
+  {
+   "order": 27,
+   "class": "Page-footer",
+   "text": "Moft",
+   "bbox": [
+    0.8984,
+    0.9153,
+    0.9374,
+    0.9302
+   ],
+   "source": "s0-col-right",
+   "id": "page-1939-0f50bb0b2f40:b27"
+  }
+ ]
+}

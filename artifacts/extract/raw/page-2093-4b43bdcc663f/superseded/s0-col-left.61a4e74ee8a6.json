@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "61a4e74ee8a6fe980efd1450e500af755a96a1f7707626a991147a513bbb5480",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "17a3d0e8bc13822be6d3e129b2f35e02a28292fb509506477ea8a169376679b4",
+  "image_bytes": 1642483,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2093",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0827,
+   0.455,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0827,
+    0.1661,
+    0.45
+   ],
+   [
+    0.1661,
+    0.2495,
+    0.45
+   ],
+   [
+    0.2495,
+    0.3329,
+    0.45
+   ],
+   [
+    0.3329,
+    0.4163,
+    0.45
+   ],
+   [
+    0.4163,
+    0.4997,
+    0.45
+   ],
+   [
+    0.4997,
+    0.583,
+    0.45
+   ],
+   [
+    0.583,
+    0.6664,
+    0.45
+   ],
+   [
+    0.6664,
+    0.7498,
+    0.45
+   ],
+   [
+    0.7498,
+    0.8332,
+    0.45
+   ],
+   [
+    0.8332,
+    0.9166,
+    0.45
+   ],
+   [
+    0.9166,
+    1.0,
+    0.45
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2638,
+  "completion_tokens": 966,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.52,
+ "created_at": "2026-10-18T11:11:35+00:00",
+ "content": "<x_0.0508><y_0.0>Scofer,<x_0.2002><y_0.0266><class_Picture>\n\n<x_0.1895><y_0.0>we doubt the truths of fuch facts, we must at least ac- knowledge their probability, since we meet every day with a number of familiar examples. When we fee a chefs-player fo deeply immersed in thought as to be in a manner loft to his outward fenfes, should we not imagine him to be wholly engroffed with the care of his own private affairs, or of the public weak? but the objet of all this profound meditation is the pleasure of ex- ercifing the mind by the movement of a piece of ivory. From this exercise of the mind also arises the pleasure we forestimes take in refined and delicate fentiments, which, after the manner of Virgil’s thepherds, (Et fugit ad fulicer, fed fe cupit ante vaderi), are fometimes artfully concealed, but fo as to afford us the pleasure of discovering them \".\"<x_0.9814><y_0.2023><class_Text>\n\n<x_0.0488><y_0.1867>_Theorie des Sensitiments agréable._<x_0.21><y_0.2375><class_Caption>\n\n<x_0.1904><y_0.2>From home of the foregoing remarks we alfo fee that nature points out to us the superiority and excellence of our mental faculties, thus fuggeting to us that we ought to cultivate them moft, as being our better and our no-bler part, to the cultivation of which that of our femlitive faculties should be merely fubfervient. But, although our pleafures are thus by nature rendered in a great degree independent of ourselves, fill we have it in our power to make them all more durable, by vary- ing and mixing them with one another, or by interpo- fing between those that are very agreeable others that are less pleafing, fo as that no individual pleasure shall be in excels.<x_0.9805><y_0.3742><class_Text>\n\n<x_0.1875><y_0.3734>Befides the circumstances already noticed, there are others of a very different kind, which have alfo confi- derable influence on the pleafures of the fenfes; fuch as different conditions of the whole body, particularly of the nerves, or of certain organs or functions, to which functions fome organs of fenfe, and perhaps even the fenfation of thefe, are in a great measure fubfervient. This is one of the causes why many pleafures, which we cultivate with all our might, cannot be immortal. If a person be thirly, fpring water is nectar to him ; if hungry, any kind of food is agreeable, even the smell of food is grateful. To a man in a heat, or in a fever, cold is pleafing ; and to one in a cold fit nothing is fo agreeable as heat. To thefe fame perfons, at other times, fo far are thefe things from being agreeable, that they are often difgulting. The molt decided glutton cannot always relih a fumptuous feaft.<x_0.9795><y_0.6023><class_Text>\n\n<x_0.1846><y_0.6016>Befides the fenfations excited by external objects, there are others alfo which cause pain and pleasure. If the action of the mulches be frong, easy, and cheerful, and not continued fo as to fatigue us, it causes pleasure. On the contrary, when this action is attended with a fenfe of liftlethefs, latitude, difficulty, and debility, it can- fes pain more or lefs. In fine, various flates and affections of the mind, fuch as the exercife of memory, imagination, and judgement, nearly for familiar reasons, are fometimes painful, at other times agreeable. “ Animi affectus, qui modici grated excitant, vehementes, aut graves et dinturni, bujus pariter ac corporis vires frangunt ; hominem interdum flatim extinguunt, fe- plus longa valetudine macerant. Somni etiam, quo ud exhaufas vires reficiendas egemus, execflus, vel de- fectus, et animo et corpori nocet ”— Defidia, five animi five corporis, utriufque vires languefcunt : ni- mix exercitatione haud minus beduntur. Statuit enim provida rerum parens, ut fingularum partium, et uni- verfi corporis animique vires ufu roborentur et acuan-<x_0.9775><y_0.8734><class_Text>",
+ "reply": {
+  "id": "chatcmpl-91da4a6c-4bbd-42d1-95cf-c2951e512cc7",
+  "object": "chat.completion",
+  "created": 1792321894,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0508><y_0.0>Scofer,<x_0.2002><y_0.0266><class_Picture>\n\n<x_0.1895><y_0.0>we doubt the truths of fuch facts, we must at least ac- knowledge their probability, since we meet every day with a number of familiar examples. When we fee a chefs-player fo deeply immersed in thought as to be in a manner loft to his outward fenfes, should we not imagine him to be wholly engroffed with the care of his own private affairs, or of the public weak? but the objet of all this profound meditation is the pleasure of ex- ercifing the mind by the movement of a piece of ivory. From this exercise of the mind also arises the pleasure we forestimes take in refined and delicate fentiments, which, after the manner of Virgil’s thepherds, (Et fugit ad fulicer, fed fe cupit ante vaderi), are fometimes artfully concealed, but fo as to afford us the pleasure of discovering them \".\"<x_0.9814><y_0.2023><class_Text>\n\n<x_0.0488><y_0.1867>_Theorie des Sensitiments agréable._<x_0.21><y_0.2375><class_Caption>\n\n<x_0.1904><y_0.2>From home of the foregoing remarks we alfo fee that nature points out to us the superiority and excellence of our mental faculties, thus fuggeting to us that we ought to cultivate them moft, as being our better and our no-bler part, to the cultivation of which that of our femlitive faculties should be merely fubfervient. But, although our pleafures are thus by nature rendered in a great degree independent of ourselves, fill we have it in our power to make them all more durable, by vary- ing and mixing them with one another, or by interpo- fing between those that are very agreeable others that are less pleafing, fo as that no individual pleasure shall be in excels.<x_0.9805><y_0.3742><class_Text>\n\n<x_0.1875><y_0.3734>Befides the circumstances already noticed, there are others of a very different kind, which have alfo confi- derable influence on the pleafures of the fenfes; fuch as different conditions of the whole body, particularly of the nerves, or of certain organs or functions, to which functions fome organs of fenfe, and perhaps even the fenfation of thefe, are in a great measure fubfervient. This is one of the causes why many pleafures, which we cultivate with all our might, cannot be immortal. If a person be thirly, fpring water is nectar to him ; if hungry, any kind of food is agreeable, even the smell of food is grateful. To a man in a heat, or in a fever, cold is pleafing ; and to one in a cold fit nothing is fo agreeable as heat. To thefe fame perfons, at other times, fo far are thefe things from being agreeable, that they are often difgulting. The molt decided glutton cannot always relih a fumptuous feaft.<x_0.9795><y_0.6023><class_Text>\n\n<x_0.1846><y_0.6016>Befides the fenfations excited by external objects, there are others alfo which cause pain and pleasure. If the action of the mulches be frong, easy, and cheerful, and not continued fo as to fatigue us, it causes pleasure. On the contrary, when this action is attended with a fenfe of liftlethefs, latitude, difficulty, and debility, it can- fes pain more or lefs. In fine, various flates and affections of the mind, fuch as the exercife of memory, imagination, and judgement, nearly for familiar reasons, are fometimes painful, at other times agreeable. “ Animi affectus, qui modici grated excitant, vehementes, aut graves et dinturni, bujus pariter ac corporis vires frangunt ; hominem interdum flatim extinguunt, fe- plus longa valetudine macerant. Somni etiam, quo ud exhaufas vires reficiendas egemus, execflus, vel de- fectus, et animo et corpori nocet ”— Defidia, five animi five corporis, utriufque vires languefcunt : ni- mix exercitatione haud minus beduntur. Statuit enim provida rerum parens, ut fingularum partium, et uni- verfi corporis animique vires ufu roborentur et acuan-<x_0.9775><y_0.8734><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2638,
+   "completion_tokens": 966,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

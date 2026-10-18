@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "a31296a0a945f6fc015a069a86e688d03759f4fb2f0e8c3f056f80a24c346dcc",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "69e97a00e8a78b608775348a7b74e3294a70d230791dc3a00fb836b8108411d4",
+  "image_bytes": 1966544,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:258",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5217,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.5267
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.53
+   ],
+   [
+    0.1667,
+    0.25,
+    0.53
+   ],
+   [
+    0.25,
+    0.3333,
+    0.53
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.53
+   ],
+   [
+    0.4167,
+    0.5,
+    0.53
+   ],
+   [
+    0.5,
+    0.5833,
+    0.53
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.53
+   ],
+   [
+    0.6667,
+    0.75,
+    0.53
+   ],
+   [
+    0.75,
+    0.8333,
+    0.53
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.53
+   ],
+   [
+    0.9167,
+    1.0,
+    0.53
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2745,
+  "completion_tokens": 1201,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.92,
+ "created_at": "2026-10-18T11:10:04+00:00",
+ "content": "<x_0.0078><y_0.0>50 WILL<x_0.6377><y_0.0234><class_Page-header>\n\n<x_0.0264><y_0.0219>prifed by the nabob of Bengal, who took it, and put met\nof thofe that had made refilience into a place called the\n_Black Hole_, where moft of them were fmothered. This\nnabob was afterwards killed, and another fet up in his room,\nmore friendly to the Engliih; and the factory was re-efta-\nblified. R. Long. 86. 0. N. Lat. 22. 27.<x_0.8994><y_0.1062><class_Text>\n\n<x_0.0645><y_0.1023>_Sweet-WILLISM._ See DIANTHUS.<x_0.5918><y_0.118><class_Text>\n\n<x_0.0254><y_0.1156>WILLIAMSBURG, a town of North America, in\nVirginia, and formerly capital of that fate. It is situated\nbetween two creeks; one falling into James, and the other\ninto York River. The distance of each landing place is\nabout a mile from the town, which, with the disadvantage\nof not being able to bring up large veffels, and the want of\nenterprife in the inhabitants, has occationed its decay. Here\nis a college, defigned for the education of the Indians, but\nwhich, on account of their avertion to learning, never an-\nfwered the purpose. It is 60 miles east of Richmond. W.\nLong. 76. 30. N. Lat. 37. 10.<x_0.9072><y_0.2648><class_Text>\n\n<x_0.0234><y_0.2625>WILLIAMSTADT, a fea-port town of Holland. It\nis a handfome frong place, and the harbour is well frequent-\ned. It was built by William prince of Orange in 1585;\nand in 1732 belonged to the fladtholder of Frieland. The\nriver near which it is built is called _Butterflict_ or _Holland_\n_Disp_; and is one of the bulwarks of the Dutch on the fide\nof Brabant, where they always keep a garrifon. This place\nmade a gallant defence in 1793 against the French, who\nwere obliged to raife the flege. It is 15 miles north-eaft of\nBergen-op-Zoom, and 12 fourth-weft of Dort. E. Long.\n4. 30. N. Lat. 51. 39.<x_0.9082><y_0.4117><class_Text>\n\n<x_0.0215><y_0.4094>WILLIS (Dr Thomas), a celebrated Engliith phyfician,\nwas born at Great Bodwin, in Wiltfhire, in 1621, and\nfluidied at Chrift-church college, Oxford. When that city\nwas garrisoned for the king, he, among other ferholars, bore\narms for his Majcity, and devoted his leifure hours to the\nfludy of phyfic. The garrifon of Oxford at length furren-\ndering to the parliament, he applied himself to the practice\nof his profeffion; and foon rendered himself famous by his\ncare and fill. He appropriated a room as an oratory for\ndivine service according to the church of England, whither\nmoft of the loyalitts in Oxford daily reforted. In 1660, he\nbecame Sedleian profeeffor of natural philosophy, and the\nfame year took the degree of doctor of phyfic. In 1664,\nhe dificovered the famous medicinal iprinz at Altropp, near\nBrackley. He was one of the first members of the Royal\nSociety, and foon made his name illustrious by his excellent\nwritings. In 1666, after the fire of London, he removed\nto Weltminfter; and his practice became greater than that\nof any of the phyficians his contemporaries. Soon after\nhis feettlement in London, his only ton Thomas falling into\na confumption, he fent him to Montpelier in France for the\nrecovery of his health; and it proved fuccefstul. His wife\nalfo labouring under the fame diforder, he offered to leave\nthe town; but file, not suffering him to neglect the means\nof providing for his family, died in 1670. He died at his\nhoute in St Martin's in 1675, and was buried near her in\nWeltminfter-abbey. Dr Willis was extremely modell and\nunambitious, and refufed the honogr of knighthood. He\nwas remarkably pious: As he rofe early in the morning,\nthat he might be prefent at divine service, which he conflant-\nly frequented before he vifted his patients, he procured\nprayers to be read beyond the accultomed times while he\nlived; and at his death fettled a flipend of 20l. per annum\nto continue them. He was a liberal benefactor to the poor\nwherever he came, having from his early practice allotted\npart of his profits to charitable ufes. He was exact and regular in all his hours: and though his table was the report\nof molt of the great men of London, yet he was remark-<x_0.9043><y_0.9203><class_Text>\n\n<x_0.835><y_0.9156>able<x_0.9023><y_0.9305><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-a03719e8-7130-4621-bb70-aabb1f0503c1",
+  "object": "chat.completion",
+  "created": 1792321803,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0>50 WILL<x_0.6377><y_0.0234><class_Page-header>\n\n<x_0.0264><y_0.0219>prifed by the nabob of Bengal, who took it, and put met\nof thofe that had made refilience into a place called the\n_Black Hole_, where moft of them were fmothered. This\nnabob was afterwards killed, and another fet up in his room,\nmore friendly to the Engliih; and the factory was re-efta-\nblified. R. Long. 86. 0. N. Lat. 22. 27.<x_0.8994><y_0.1062><class_Text>\n\n<x_0.0645><y_0.1023>_Sweet-WILLISM._ See DIANTHUS.<x_0.5918><y_0.118><class_Text>\n\n<x_0.0254><y_0.1156>WILLIAMSBURG, a town of North America, in\nVirginia, and formerly capital of that fate. It is situated\nbetween two creeks; one falling into James, and the other\ninto York River. The distance of each landing place is\nabout a mile from the town, which, with the disadvantage\nof not being able to bring up large veffels, and the want of\nenterprife in the inhabitants, has occationed its decay. Here\nis a college, defigned for the education of the Indians, but\nwhich, on account of their avertion to learning, never an-\nfwered the purpose. It is 60 miles east of Richmond. W.\nLong. 76. 30. N. Lat. 37. 10.<x_0.9072><y_0.2648><class_Text>\n\n<x_0.0234><y_0.2625>WILLIAMSTADT, a fea-port town of Holland. It\nis a handfome frong place, and the harbour is well frequent-\ned. It was built by William prince of Orange in 1585;\nand in 1732 belonged to the fladtholder of Frieland. The\nriver near which it is built is called _Butterflict_ or _Holland_\n_Disp_; and is one of the bulwarks of the Dutch on the fide\nof Brabant, where they always keep a garrifon. This place\nmade a gallant defence in 1793 against the French, who\nwere obliged to raife the flege. It is 15 miles north-eaft of\nBergen-op-Zoom, and 12 fourth-weft of Dort. E. Long.\n4. 30. N. Lat. 51. 39.<x_0.9082><y_0.4117><class_Text>\n\n<x_0.0215><y_0.4094>WILLIS (Dr Thomas), a celebrated Engliith phyfician,\nwas born at Great Bodwin, in Wiltfhire, in 1621, and\nfluidied at Chrift-church college, Oxford. When that city\nwas garrisoned for the king, he, among other ferholars, bore\narms for his Majcity, and devoted his leifure hours to the\nfludy of phyfic. The garrifon of Oxford at length furren-\ndering to the parliament, he applied himself to the practice\nof his profeffion; and foon rendered himself famous by his\ncare and fill. He appropriated a room as an oratory for\ndivine service according to the church of England, whither\nmoft of the loyalitts in Oxford daily reforted. In 1660, he\nbecame Sedleian profeeffor of natural philosophy, and the\nfame year took the degree of doctor of phyfic. In 1664,\nhe dificovered the famous medicinal iprinz at Altropp, near\nBrackley. He was one of the first members of the Royal\nSociety, and foon made his name illustrious by his excellent\nwritings. In 1666, after the fire of London, he removed\nto Weltminfter; and his practice became greater than that\nof any of the phyficians his contemporaries. Soon after\nhis feettlement in London, his only ton Thomas falling into\na confumption, he fent him to Montpelier in France for the\nrecovery of his health; and it proved fuccefstul. His wife\nalfo labouring under the fame diforder, he offered to leave\nthe town; but file, not suffering him to neglect the means\nof providing for his family, died in 1670. He died at his\nhoute in St Martin's in 1675, and was buried near her in\nWeltminfter-abbey. Dr Willis was extremely modell and\nunambitious, and refufed the honogr of knighthood. He\nwas remarkably pious: As he rofe early in the morning,\nthat he might be prefent at divine service, which he conflant-\nly frequented before he vifted his patients, he procured\nprayers to be read beyond the accultomed times while he\nlived; and at his death fettled a flipend of 20l. per annum\nto continue them. He was a liberal benefactor to the poor\nwherever he came, having from his early practice allotted\npart of his profits to charitable ufes. He was exact and regular in all his hours: and though his table was the report\nof molt of the great men of London, yet he was remark-<x_0.9043><y_0.9203><class_Text>\n\n<x_0.835><y_0.9156>able<x_0.9023><y_0.9305><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2745,
+   "completion_tokens": 1201,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

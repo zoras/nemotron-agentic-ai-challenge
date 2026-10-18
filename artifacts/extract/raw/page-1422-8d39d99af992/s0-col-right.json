@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "d4b85d248e0fb1bf300d380b7870f5a28cf23d5c24e19211977b6d9c5c7fe143",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "7067f127110b8e17d5c5d61565ae3cc2766963d4f41711651051116713bbbae1",
+  "image_bytes": 2544397,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1422",
+  "variant": "s0-col-right",
+  "crop": [
+   0.46,
+   0.0278,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0278,
+    0.1088,
+    0.465
+   ],
+   [
+    0.1088,
+    0.1898,
+    0.465
+   ],
+   [
+    0.1898,
+    0.2708,
+    0.465
+   ],
+   [
+    0.2708,
+    0.3519,
+    0.465
+   ],
+   [
+    0.3519,
+    0.4329,
+    0.465
+   ],
+   [
+    0.4329,
+    0.5139,
+    0.465
+   ],
+   [
+    0.5139,
+    0.5949,
+    0.465
+   ],
+   [
+    0.5949,
+    0.6759,
+    0.465
+   ],
+   [
+    0.6759,
+    0.757,
+    0.465
+   ],
+   [
+    0.757,
+    0.838,
+    0.465
+   ],
+   [
+    0.838,
+    0.919,
+    0.465
+   ],
+   [
+    0.919,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2658,
+  "completion_tokens": 858,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.49,
+ "created_at": "2026-10-18T11:20:03+00:00",
+ "content": "<x_0.0078><y_0.0039>3 I ED U<x_0.5254><y_0.0266><class_Title>\n\n<x_0.0059><y_0.0242>induftry and perfevering firmnefs, by paffing through a regular courte of claftical learning in a free fchool; let them play and converse with their equals, and not be permitted to form high ideas of their own importance, nor to domineer over fervants or inferiors: Let them be carefully infructed in the principles of morality and religion: Let them be taught the manly exercices: Let them be carefully informed of the nature of the political confitution of their country, and of the extent of those civil and political rights which it focuses to them and their fellow-citizens: Let them be called to trace the annals of mankind through the records of history; to mark the appearances and operations of nature, and to amufe themselves by purfuing thefe to their general caufes. We fay nothing of caufing the young man of fortune to learn home mechanical art: We think kill in a mechanical art might now and then afford him an innocent and pleafing amufement; but we do not confident it as abfolutely neceffary, and therefore do not infilt on his acquiring it. With those accomplishments we hope he might become an ufeful member of society, might adorn the rank and fortune to which he is born, and might find wealth and high station a bleffing, not a curfe. It is peculiarly unfortunate for our age and country, that people of rank and fortune are not fo fludious that their children acquire thefe as the more superficial accomplithments.<x_0.7246><y_0.4062><class_Text>\n\n<x_0.0146><y_0.4086>## VII. On the Education of People defigned for a Mercantile Employment, and for the humbler Occupations in Life not particularly connected with Literature.<x_0.7236><y_0.4555><class_Section-header>\n\n<x_0.0088><y_0.457>WERE modern literature in a lefs flourishing flats; were the Englith and French languages adorned with fewer eminent poetical, historical, and philosophical compotitions; we might perhaps infilt on it as ne-ceflary to give the boy, who is defigned for a mercan-tile employment, a clafical education. At present this does not appear absolutely neceffary; yet we do not prefume to forbid it as improper. Even the merchant will fearce find reafon to repent his ha-ving been introduced to the acquaintance of Plato and Cicero. But fill, if the circumstances of the parent, or any other jult reafon, should render it inconvenient to fend the young man who is intended for trade to a free fchool to fludy the ancient languages, means may be easily adopted to make up for his lofs. Confine him not to writing and accounts alone. Thefe, though particularly useful to the merchant, have no great power to reftrain the force of evil paffions, or to infpire the mind with generous and virtuous fentiments. Though you burden him not with Latin and Greek, yet thrive to infpire him with a tafle for ufeul knowledge and for elegant literature. Some of the pureft and most elegant of our poets, the excellent periodical works which have appeared in our language, fuch as the Spectator, the Adventurer, the Mirror, and the compositions of our British hitorians, together with fome of the best translations of the clafies which we polfefs; thefe you may with great pro-priety put into his hands. They will teach him how to think and reafon juffly, and to express himself in conversation or in writing with correcthefs and elegance : they will refine and polish his mind, and raife him above low and grofs pleafures. And as no man, who has any occasion to fpeak or write, ought to be entirely ignorant of the principles of grammar, you will<x_0.7334><y_0.9477><class_Text>\n\n<x_0.3545><y_0.9445>Y y<x_0.415><y_0.9617><class_Page-footer>\n\n<x_0.5947><y_0.9453>therefore<x_0.7314><y_0.9625><class_Text>",
+ "reply": {
+  "id": "chatcmpl-51953ff2-ae23-4d49-b007-ab19005159ce",
+  "object": "chat.completion",
+  "created": 1792322402,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0039>3 I ED U<x_0.5254><y_0.0266><class_Title>\n\n<x_0.0059><y_0.0242>induftry and perfevering firmnefs, by paffing through a regular courte of claftical learning in a free fchool; let them play and converse with their equals, and not be permitted to form high ideas of their own importance, nor to domineer over fervants or inferiors: Let them be carefully infructed in the principles of morality and religion: Let them be taught the manly exercices: Let them be carefully informed of the nature of the political confitution of their country, and of the extent of those civil and political rights which it focuses to them and their fellow-citizens: Let them be called to trace the annals of mankind through the records of history; to mark the appearances and operations of nature, and to amufe themselves by purfuing thefe to their general caufes. We fay nothing of caufing the young man of fortune to learn home mechanical art: We think kill in a mechanical art might now and then afford him an innocent and pleafing amufement; but we do not confident it as abfolutely neceffary, and therefore do not infilt on his acquiring it. With those accomplishments we hope he might become an ufeful member of society, might adorn the rank and fortune to which he is born, and might find wealth and high station a bleffing, not a curfe. It is peculiarly unfortunate for our age and country, that people of rank and fortune are not fo fludious that their children acquire thefe as the more superficial accomplithments.<x_0.7246><y_0.4062><class_Text>\n\n<x_0.0146><y_0.4086>## VII. On the Education of People defigned for a Mercantile Employment, and for the humbler Occupations in Life not particularly connected with Literature.<x_0.7236><y_0.4555><class_Section-header>\n\n<x_0.0088><y_0.457>WERE modern literature in a lefs flourishing flats; were the Englith and French languages adorned with fewer eminent poetical, historical, and philosophical compotitions; we might perhaps infilt on it as ne-ceflary to give the boy, who is defigned for a mercan-tile employment, a clafical education. At present this does not appear absolutely neceffary; yet we do not prefume to forbid it as improper. Even the merchant will fearce find reafon to repent his ha-ving been introduced to the acquaintance of Plato and Cicero. But fill, if the circumstances of the parent, or any other jult reafon, should render it inconvenient to fend the young man who is intended for trade to a free fchool to fludy the ancient languages, means may be easily adopted to make up for his lofs. Confine him not to writing and accounts alone. Thefe, though particularly useful to the merchant, have no great power to reftrain the force of evil paffions, or to infpire the mind with generous and virtuous fentiments. Though you burden him not with Latin and Greek, yet thrive to infpire him with a tafle for ufeul knowledge and for elegant literature. Some of the pureft and most elegant of our poets, the excellent periodical works which have appeared in our language, fuch as the Spectator, the Adventurer, the Mirror, and the compositions of our British hitorians, together with fome of the best translations of the clafies which we polfefs; thefe you may with great pro-priety put into his hands. They will teach him how to think and reafon juffly, and to express himself in conversation or in writing with correcthefs and elegance : they will refine and polish his mind, and raife him above low and grofs pleafures. And as no man, who has any occasion to fpeak or write, ought to be entirely ignorant of the principles of grammar, you will<x_0.7334><y_0.9477><class_Text>\n\n<x_0.3545><y_0.9445>Y y<x_0.415><y_0.9617><class_Page-footer>\n\n<x_0.5947><y_0.9453>therefore<x_0.7314><y_0.9625><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2658,
+   "completion_tokens": 858,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

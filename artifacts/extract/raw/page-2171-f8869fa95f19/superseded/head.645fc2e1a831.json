@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "645fc2e1a831e24a8ebe7446a14aa552752564118ed0df52066af8e431febb0d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "60849aa5eaa529367438cf20157f7a955fed7d63a078148938884b860d4c68e4",
+  "image_bytes": 145815,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2171",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0255,
+   1.0,
+   0.0638
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 220,
+  "completion_tokens": 56,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.3,
+ "created_at": "2026-10-18T11:21:02+00:00",
+ "content": "<x_0.0><y_0.0>A S T [ 852 ] A S T\nAuxx ATARAXY, a termufed by the flois and feantics. ATHAMADULFE, the prime minifies of the Athr<x_0.999><y_0.9867><class_Text>",
+ "reply": {
+  "id": "chatcmpl-2ffdbbea-9b26-4ef3-b095-93b170725904",
+  "object": "chat.completion",
+  "created": 1792322462,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>A S T [ 852 ] A S T\nAuxx ATARAXY, a termufed by the flois and feantics. ATHAMADULFE, the prime minifies of the Athr<x_0.999><y_0.9867><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 220,
+   "completion_tokens": 56,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

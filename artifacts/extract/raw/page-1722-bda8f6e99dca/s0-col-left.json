@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "44080fa6bbe7c736062a42c134e9956b87189be3b5bd844fac62db4bddb390d6",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ada25dce479364346f07cb76c2d1ab61421d6179445fc5ef1500664be757c1a9",
+  "image_bytes": 2448564,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1722",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0106,
+   0.5133,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0106,
+    0.093,
+    0.5083
+   ],
+   [
+    0.093,
+    0.1755,
+    0.5083
+   ],
+   [
+    0.1755,
+    0.258,
+    0.5083
+   ],
+   [
+    0.258,
+    0.3404,
+    0.5083
+   ],
+   [
+    0.3404,
+    0.4229,
+    0.5083
+   ],
+   [
+    0.4229,
+    0.5053,
+    0.5083
+   ],
+   [
+    0.5053,
+    0.5877,
+    0.5083
+   ],
+   [
+    0.5877,
+    0.6702,
+    0.5083
+   ],
+   [
+    0.6702,
+    0.7527,
+    0.5083
+   ],
+   [
+    0.7527,
+    0.8351,
+    0.5083
+   ],
+   [
+    0.8351,
+    0.9175,
+    0.5083
+   ],
+   [
+    0.9175,
+    1.0,
+    0.5083
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2629,
+  "completion_tokens": 957,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.41,
+ "created_at": "2026-10-18T11:20:16+00:00",
+ "content": "<x_0.4863><y_0.0047>A R S  F 3<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.0869><y_0.025>Arfeic. be made to affume the appearance either of an acid falt or metal, at the pleasure of the operator; and therefore has been confidered both as a feline fubftance and as a femi metal. It is not known at what time this mineral was difcovered; though, as it abounds in many different kinds of ores, it is probable that the pernicious properties it manifefts would very foon make it be taken notice cf by metallurgifts. Ariflotle makes mention of a fubflance called EasBayany; and his dificiple Theophraftus makes mention of one named Aquoise, which by-Diofcorides and others was called Agribus about the beginning of the Chriftian era. By this, however, it appears, that they only meant the fubflances now called _fandarach_ and _orpiment_; and Avicenna who lived in the 11th century, is the frit who expressly mentions white arfenic, as well as its fublimate. It is not known by whom arfenic was frit reduced to a metallic form. Paracelfus afterts that arfenic, fublimed with egg-fhell lime becomes like flver; and, in 1675, M. Lemeri makes mention of a method of fubliming arfenic with fixed alkali and foap.<x_0.9824><y_0.3141><class_Text>\n\n<x_0.2207><y_0.3133>The true nature of arfenic being thus fo little known, it is no wonder to find chemitis differing very much as to the clafs of natural bodies in which it ought to be placed. Avicenna and a great number of others clafs it with the fulphurs; Albertus Magnus and his followers, among the falts. Becher confiders it as a kind of foap, or faline fulphureous body. Later experiments, however, have made it evident, that white arfenic conflits of an acid united to phlogifton; and that by diminithing the latter, the acid becomes more and more apparent; while, on the contrary, by augmenting the quantity of phlogiflic matter, the arfenic affumes the metal lic form. With respect to the fulphureous nature of arfenic, it appears, indeed that the regulus itself, as well as orpiment and realgar, are inflammable fubfiances; but it is not fo with white arfenic. This inflammability, therefore, which arfenic in a certain fate has in common with zinc and several other fubfances, will not denominate it fulphureous, any more than those of other bodies which poffels the common property of inflammatory can be denominated _fulphurr._<x_0.9814><y_0.5992><class_Text>\n\n<x_0.2188><y_0.5984>It is commonly faid, that arfenic mineralizes metals; and therefore, fays Mr Bergman, it is considered as a fulphur by fome, who yet extend the idea of mineralization fo far, as under it to comprehend all mixtures of which metals make a part. But if we examine this signification a little more accurately, we shall fee that it is extended too far; for if this be admitted, we must at the fame time allow, that no native metal is to be found. Thus the gold called _native_, is feldom if ever found pure, but more or lefs mixed with copper or filver; and fo with other metals. If, therefore, arfenic, which, unlefs in its reguline flat, never diffolves other metals, be confidered as a mineralizing fubfiance, what hinders us from faying that gold is mineralized by flver or copper, and in general every metal mineralized by fome other? It is much more natural to fuppole that thofe metals are mineralized which are actually difficolved and concealed by a menfitrum. Sulphur is the chief agent employed by nature for this purpose; and though the acids of vitriol, pholphorus, nitre, and fometimes even the aerial acid, occasion the metals to put on an appearance foreign to their nature, yet the<x_0.9805><y_0.8992><class_Text>\n\n<x_0.0879><y_0.3836>2 Compofed of an acid and phlogition.<x_0.2344><y_0.4469><class_Caption>\n\n<x_0.0889><y_0.8234>4 Sulphur the chief mine-ralizer of metals.<x_0.2266><y_0.882><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-e9fb4e64-136e-4e9f-a798-00bbb51b2f60",
+  "object": "chat.completion",
+  "created": 1792322415,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4863><y_0.0047>A R S  F 3<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.0869><y_0.025>Arfeic. be made to affume the appearance either of an acid falt or metal, at the pleasure of the operator; and therefore has been confidered both as a feline fubftance and as a femi metal. It is not known at what time this mineral was difcovered; though, as it abounds in many different kinds of ores, it is probable that the pernicious properties it manifefts would very foon make it be taken notice cf by metallurgifts. Ariflotle makes mention of a fubflance called EasBayany; and his dificiple Theophraftus makes mention of one named Aquoise, which by-Diofcorides and others was called Agribus about the beginning of the Chriftian era. By this, however, it appears, that they only meant the fubflances now called _fandarach_ and _orpiment_; and Avicenna who lived in the 11th century, is the frit who expressly mentions white arfenic, as well as its fublimate. It is not known by whom arfenic was frit reduced to a metallic form. Paracelfus afterts that arfenic, fublimed with egg-fhell lime becomes like flver; and, in 1675, M. Lemeri makes mention of a method of fubliming arfenic with fixed alkali and foap.<x_0.9824><y_0.3141><class_Text>\n\n<x_0.2207><y_0.3133>The true nature of arfenic being thus fo little known, it is no wonder to find chemitis differing very much as to the clafs of natural bodies in which it ought to be placed. Avicenna and a great number of others clafs it with the fulphurs; Albertus Magnus and his followers, among the falts. Becher confiders it as a kind of foap, or faline fulphureous body. Later experiments, however, have made it evident, that white arfenic conflits of an acid united to phlogifton; and that by diminithing the latter, the acid becomes more and more apparent; while, on the contrary, by augmenting the quantity of phlogiflic matter, the arfenic affumes the metal lic form. With respect to the fulphureous nature of arfenic, it appears, indeed that the regulus itself, as well as orpiment and realgar, are inflammable fubfiances; but it is not fo with white arfenic. This inflammability, therefore, which arfenic in a certain fate has in common with zinc and several other fubfances, will not denominate it fulphureous, any more than those of other bodies which poffels the common property of inflammatory can be denominated _fulphurr._<x_0.9814><y_0.5992><class_Text>\n\n<x_0.2188><y_0.5984>It is commonly faid, that arfenic mineralizes metals; and therefore, fays Mr Bergman, it is considered as a fulphur by fome, who yet extend the idea of mineralization fo far, as under it to comprehend all mixtures of which metals make a part. But if we examine this signification a little more accurately, we shall fee that it is extended too far; for if this be admitted, we must at the fame time allow, that no native metal is to be found. Thus the gold called _native_, is feldom if ever found pure, but more or lefs mixed with copper or filver; and fo with other metals. If, therefore, arfenic, which, unlefs in its reguline flat, never diffolves other metals, be confidered as a mineralizing fubfiance, what hinders us from faying that gold is mineralized by flver or copper, and in general every metal mineralized by fome other? It is much more natural to fuppole that thofe metals are mineralized which are actually difficolved and concealed by a menfitrum. Sulphur is the chief agent employed by nature for this purpose; and though the acids of vitriol, pholphorus, nitre, and fometimes even the aerial acid, occasion the metals to put on an appearance foreign to their nature, yet the<x_0.9805><y_0.8992><class_Text>\n\n<x_0.0879><y_0.3836>2 Compofed of an acid and phlogition.<x_0.2344><y_0.4469><class_Caption>\n\n<x_0.0889><y_0.8234>4 Sulphur the chief mine-ralizer of metals.<x_0.2266><y_0.882><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2629,
+   "completion_tokens": 957,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

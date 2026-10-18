@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "a51a27f83daaccc10b63e38fa697647522af8a3f8de6e87e91549dd5306e1051",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "bd06c86c3e2436b9de2873f67cfb0bf4d231ac3937cde6213849d58f05a629fb",
+  "image_bytes": 156268,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:318",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0192,
+   1.0,
+   0.0614
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 215,
+  "completion_tokens": 51,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.15,
+ "created_at": "2026-10-18T11:19:13+00:00",
+ "content": "<x_0.0><y_0.0>N I L [ 75 ] N I L\nNile. or White River, which, according to the accounts gi- tween the different countries well and caft, is at once. Nile.<x_0.999><y_0.9867><class_Text>",
+ "reply": {
+  "id": "chatcmpl-956c590b-c537-47fe-a7a1-7b581bd5aeef",
+  "object": "chat.completion",
+  "created": 1792322353,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>N I L [ 75 ] N I L\nNile. or White River, which, according to the accounts gi- tween the different countries well and caft, is at once. Nile.<x_0.999><y_0.9867><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 215,
+   "completion_tokens": 51,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

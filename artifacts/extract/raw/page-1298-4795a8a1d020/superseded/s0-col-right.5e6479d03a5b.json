@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "5e6479d03a5b0a2ff3295677b81034d11278e38a928bb2bc5f662ca5a2ab23a2",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "bcc5fdb7d835eacb2f4700320913649fe72883e0cae746956d974c6df3127194",
+  "image_bytes": 2417922,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1298",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5517,
+   0.0702,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0702,
+    0.1547,
+    0.5567
+   ],
+   [
+    0.1547,
+    0.2393,
+    0.5567
+   ],
+   [
+    0.2393,
+    0.3238,
+    0.5567
+   ],
+   [
+    0.3238,
+    0.4083,
+    0.5567
+   ],
+   [
+    0.4083,
+    0.4928,
+    0.5567
+   ],
+   [
+    0.4928,
+    0.5774,
+    0.5567
+   ],
+   [
+    0.5774,
+    0.6619,
+    0.5567
+   ],
+   [
+    0.6619,
+    0.7464,
+    0.5567
+   ],
+   [
+    0.7464,
+    0.8309,
+    0.5567
+   ],
+   [
+    0.8309,
+    0.9155,
+    0.5567
+   ],
+   [
+    0.9155,
+    1.0,
+    0.5567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2462,
+  "completion_tokens": 918,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.32,
+ "created_at": "2026-10-18T11:10:51+00:00",
+ "content": "<x_0.0146><y_0.0>instilling the dry principles of grammar and prosody. A much larger proportion of their time was spent in tasting the beauties of Dryden and Pope, and in laughing at the comic sallies of Moliere. Mr Edwards, upon the whole, acquired, during this period, small Latin and less Greek; but he continued to practise composition, both in prose and verse; and the two companions sent occasional pieces to the colonial newspapers.<x_0.9043><y_0.1078><class_Text>\n\n<x_0.0156><y_0.1039>The time was now coming when Mr Edwards' talents were to be exercised in a wider sphere. His uncle dying, bequeathed to him his property ; and in 1773 he became heir to the much larger estate of Mr Hume, also of Ja- maica. His wealth and talents united, now entitled him to take a lead in the political concerns of the island. In 1784 he published _Thoughts on the Proceedings of Government respecting the Trade of the West India Islands with the United States of America._ This was followed by a speech delivered at a free conference between the Council and Assembly at Jamaica, held on the 25th of November 1789, on the subject of Mr Wilberforce's propositions in the House of Commons concerning the slave trade. It was in 1793, however, that he published his great work, on which he had been many years engaged, entitled _His-tory, Civil and Commercial, of the British Colonies in the_ _West Indies_, 2 vols. 4to. He begins the work by giving a view of the original inhabitants of the West Indies, their manners, institutions, and the means by which they have been so entirely exterminated. This was followed by a sketch of the revolutions through which these islands have passed since the first European invasion. He gives next a geographical and statistical description of each particu- lar island. He treats finally, at great length, of the government, the social state, and above all the commerce, of this remarkable region. In the course of the discussion, he enters fully into its relations with the African coast and the negro slave trade. Mr Edwards, as a great and long-resident proprietor, was almost inevitably led to be a supporter of this traffic. He reasons, however, in a libe-ral and candid manner on the question, and does not even attempt to deny the extent of the evils with which it was accompanied. He only insists that these evils have been overrated ; and that Great Britain, by renouncing it whilst it was still prosecuted by the other nations of Europe, would ruin her own colonies, without doing any thing to improve the condition of the Africans. In 1796 he pub- lished, in one volume quarto, a _History of St Domingo_, an island which had excited a deep interest, in consequence of the insurrection of the slaves, and the consequent esta- blishment of an independent negro government. In 1801 a new edition of both these works was published, in three vols. Svo, under the general title of _History of the West Indies._ A fifth edition issued from the press in the year 1819. When Park returned from his celebrated journey, Mr Edwards, from his oral information, drew up a report of it, which was submitted to the African Society, and published in their _Transactions._ Mr Park afterwards incorporated the greater part of this into the general narrative of his _Travels_, in preparing which he availed himself much of the assistance and suggestions of Mr Edwards. It has been currently said that this narrative was entirely written by Mr Edwards; but as this assertion has been pointedly contradicted by Park, who has elsewhere shown respectable talents for composition, it can only be understood in the limited sense which has now been stated. It appears, however, that Mr Park was induced, by Mr Ed- wards’ influence, to give rather a more favourable view of the trade in slaves than reflection afterwards led him to sanction.<x_0.9062><y_0.8852><class_Text>\n\n<x_0.0166><y_0.882>Mr Edwards, after his removal to England, took up his residence at Polygon, near Southampton ; and in 1796 he<x_0.9053><y_0.9141><class_Text>",
+ "reply": {
+  "id": "chatcmpl-3df31505-d065-45a6-9854-3c16c5d181f7",
+  "object": "chat.completion",
+  "created": 1792321850,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0146><y_0.0>instilling the dry principles of grammar and prosody. A much larger proportion of their time was spent in tasting the beauties of Dryden and Pope, and in laughing at the comic sallies of Moliere. Mr Edwards, upon the whole, acquired, during this period, small Latin and less Greek; but he continued to practise composition, both in prose and verse; and the two companions sent occasional pieces to the colonial newspapers.<x_0.9043><y_0.1078><class_Text>\n\n<x_0.0156><y_0.1039>The time was now coming when Mr Edwards' talents were to be exercised in a wider sphere. His uncle dying, bequeathed to him his property ; and in 1773 he became heir to the much larger estate of Mr Hume, also of Ja- maica. His wealth and talents united, now entitled him to take a lead in the political concerns of the island. In 1784 he published _Thoughts on the Proceedings of Government respecting the Trade of the West India Islands with the United States of America._ This was followed by a speech delivered at a free conference between the Council and Assembly at Jamaica, held on the 25th of November 1789, on the subject of Mr Wilberforce's propositions in the House of Commons concerning the slave trade. It was in 1793, however, that he published his great work, on which he had been many years engaged, entitled _His-tory, Civil and Commercial, of the British Colonies in the_ _West Indies_, 2 vols. 4to. He begins the work by giving a view of the original inhabitants of the West Indies, their manners, institutions, and the means by which they have been so entirely exterminated. This was followed by a sketch of the revolutions through which these islands have passed since the first European invasion. He gives next a geographical and statistical description of each particu- lar island. He treats finally, at great length, of the government, the social state, and above all the commerce, of this remarkable region. In the course of the discussion, he enters fully into its relations with the African coast and the negro slave trade. Mr Edwards, as a great and long-resident proprietor, was almost inevitably led to be a supporter of this traffic. He reasons, however, in a libe-ral and candid manner on the question, and does not even attempt to deny the extent of the evils with which it was accompanied. He only insists that these evils have been overrated ; and that Great Britain, by renouncing it whilst it was still prosecuted by the other nations of Europe, would ruin her own colonies, without doing any thing to improve the condition of the Africans. In 1796 he pub- lished, in one volume quarto, a _History of St Domingo_, an island which had excited a deep interest, in consequence of the insurrection of the slaves, and the consequent esta- blishment of an independent negro government. In 1801 a new edition of both these works was published, in three vols. Svo, under the general title of _History of the West Indies._ A fifth edition issued from the press in the year 1819. When Park returned from his celebrated journey, Mr Edwards, from his oral information, drew up a report of it, which was submitted to the African Society, and published in their _Transactions._ Mr Park afterwards incorporated the greater part of this into the general narrative of his _Travels_, in preparing which he availed himself much of the assistance and suggestions of Mr Edwards. It has been currently said that this narrative was entirely written by Mr Edwards; but as this assertion has been pointedly contradicted by Park, who has elsewhere shown respectable talents for composition, it can only be understood in the limited sense which has now been stated. It appears, however, that Mr Park was induced, by Mr Ed- wards’ influence, to give rather a more favourable view of the trade in slaves than reflection afterwards led him to sanction.<x_0.9062><y_0.8852><class_Text>\n\n<x_0.0166><y_0.882>Mr Edwards, after his removal to England, took up his residence at Polygon, near Southampton ; and in 1796 he<x_0.9053><y_0.9141><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2462,
+   "completion_tokens": 918,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2108",
+ "row_index": 2108,
+ "volume_id": "149977873",
+ "filename": "page-2108-6874128a519b.jpg",
+ "image_sha256": "6874128a519b8cf9cd9de001ba48c06556b084267e667c07a65ea596b6b51576",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09412,
+  "median_grey": 225,
+  "layout_body_chars": 3377,
+  "layout_pictures": 0
+ },
+ "running_head": "B R I [ 645 ] B R t",
+ "layout_raw": "page-2108-6874128a519b/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0,
+    1.0,
+    0.0546
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2108-6874128a519b/head.json",
+   "finish_reason": "stop",
+   "request_key": "55f3c6169e77901e6de8d63866956b2f7a9e5570cb184074660affe72c32be06"
+  },
+  {
+   "label": "s0-wide.a",
+   "crop": [
+    0.0,
+    0.0,
+    1.0,
+    0.4612
+   ],
+   "scale": 2,
+   "raw_path": "page-2108-6874128a519b/s0-wide.a.json",
+   "finish_reason": "stop",
+   "request_key": "9252c5d99bc67c4672c7ec8f9b6075b16042fa368abbdb5df31e746dedf93b8a"
+  },
+  {
+   "label": "s0-wide.b",
+   "crop": [
+    0.0,
+    0.4612,
+    1.0,
+    1.0
+   ],
+   "scale": 2,
+   "raw_path": "page-2108-6874128a519b/s0-wide.b.json",
+   "finish_reason": "stop",
+   "request_key": "740ad498cc732d3540b30129ceb0d1852241457cdc54d1bfb13a7dec8f7b85b0"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Picture",
+   "text": "B R I [ 645 ] B R t",
+   "bbox": [
+    0.0,
+    0.0,
+    1.0,
+    0.0546
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2108-6874128a519b:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "B R I [ 645 ] B R I",
+   "bbox": [
+    0.1729,
+    0.026,
+    0.7314,
+    0.0515
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-wide.a",
+   "id": "page-2108-6874128a519b:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "Quefne ferved to remove from their colonies the terror of the incurions of the Indians, while it interrupted the correpondence along a chain of forts with which the French had environed the British settlements in America, fo that the fucceeding campaign promised great fuccefs. In 1759, it was relolved to attack the French in feveral parts of their empire at once. General Amherlt with a body of 12,000 men was commanded to attack Crown Point; General Wolfe was to undertake the flege of Quebec; while general Prideaux and Sir William Johnlon were to attempt a French fort near the cataracts of Niagara. This left expedition was the first that fucceeded. The flege was begun with vigour, and promised an early conquelt; but general Prideaux was killed in the trenches by the burling of a mortar, fo that the whole command devolved on general John- fon. A body of French troops, fentille of the importance of the place, attempted to relieve it; but were utterly defeated and diferfed; foon after which, the garrifion furrendered prifoners of war. On his arrival at the forts of Crown Point and Ticonderago, general Amherk found them deferred and defroyded. There now remained, therefore, but one decisive blow to reduce all North America under the British dominion; and this was by the taking of Quebec the capital of Canada. This expedition was commanded by admiral Saunders and general Wolfe. The enterprise was attended with difficulties which appeared unfurmountable; but all thefe difficulties were got over by the conduct of general Wolfe, and the bravery of his men.",
+   "bbox": [
+    0.0586,
+    0.0487,
+    0.4404,
+    0.4608
+   ],
+   "source": "s0-wide.a",
+   "id": "page-2108-6874128a519b:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "efcape or advance, he was compelled to fight a capitulation by which the whole army laid down their arms, and were diferfed into different quarters of cantonement. By this remarkable capitulation, which was called the _capitulation of Glofler Screen_, Hanover was obliged to fulmit quietly to the French, who were now determined to turn their arms against the king of Pruffia.",
+   "bbox": [
+    0.4463,
+    0.0505,
+    0.8262,
+    0.1589
+   ],
+   "source": "s0-wide.a",
+   "id": "page-2108-6874128a519b:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Soon after this captitulation, both fides began to The Hano complain that the treaty was not fritely observed. The verians take Hanoverians exclaimed againt the capacity of the French general, and the brutality of his soldiers. The French retorted the charge againt them; accused them of infolence and infurrection; and, being fenbible of their own fuperiority, refolved to bind them strictly to their terms of agreement. The Hanoverians only wifhed for a pretence to take arms, and a general to head them. Neither were long wanting. The opprefilons of the tax-gatherers whom the French had appointed, were confidered as fo fevere, that the army role to vindicate the freedom of their country, while Ferdinand, prince of Brunswick, put himself at their head. As foon as this was known in Britain, large fupplies were granted both for the fervice of the king. of Pruffia, and to enable the Hanoverian army to act vigorously in conjunction with him. A small body of British forces was fent over to join prince Ferdinand under the duke of Marlborough. After fome inconfiderateable fucceffes at Crevelt, the duke of Marlborough dying, the command of the British forces devolved on lord George Sackville. A mifunderlanding arofe be-",
+   "bbox": [
+    0.4453,
+    0.156,
+    0.8271,
+    0.4605
+   ],
+   "source": "s0-wide.a",
+   "id": "page-2108-6874128a519b:b4"
+  },
+  {
+   "order": 5,
+   "class": "Caption",
+   "text": "Britain.",
+   "bbox": [
+    0.8301,
+    0.0533,
+    0.8965,
+    0.0821
+   ],
+   "source": "s0-wide.a",
+   "id": "page-2108-6874128a519b:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "He engaged and put to flight the French under Mont- calm; but, to the great regret of the British, their general was killed in the action. The furrender of Quebec was the consequence of this victory, which was foon followed by the ceflion of all Canada. The follow- ing feafon, indeed, the French made a vigorous effort to recover the city; but by the refolution of governor Murray, and the appearance of a British fleet under the command of lord Colvile, they were obliged to abandon the enterprise. The whole province was foon after reduced by the prudence and activity of general Amherfi, who obliged the French army to capitulate, and it has fines remained annexed to the British empire. About the fame time alfo the ifland of Guadaloupe was reduced by commodore More and general Hopfon.",
+   "bbox": [
+    0.0596,
+    0.4612,
+    0.4395,
+    0.6717
+   ],
+   "source": "s0-wide.b",
+   "id": "page-2108-6874128a519b:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "The British affairs in Germany had at the beginning of the war worn a very unfavourable affect. The Ha- noverians were commanded by the duke of Cumberland, who was greatly outnumbered by the enemy. He was driven beyond the Wefer, the passage of which might have been dilputed with fome appearance of fuecels; but the French were fluffered to pafs it unmolefted. The Hanoverians were driven from one part of the country to another, till at length they made a fland near a village called _Haftenback_, where it was hoped the numbers of the enemy would have the leak opportunity of coming to a general engagement. The Hanoverians, however, left the field of battle to the French, after a faint refinance. Their enemies purfued, and the duke retired towards Stude; by which means he marched into a country from whence he could neither procure provisions, nor attack the enemy with any hopes of fuecels. Here, being unable either to",
+   "bbox": [
+    0.0586,
+    0.6725,
+    0.4375,
+    0.9112
+   ],
+   "source": "s0-wide.b",
+   "id": "page-2108-6874128a519b:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "tween him and prince Ferdinand, which appeared at the battle of Minden that was fought shortly after. Minden. Lord George pretended that he did not understand the orders fent him by the prince, and of consequence did not obey them. The allies gained the victory, which would have been more decisive had the British commander obeyed his orders. He was foon after recalled, tried by a court-martial, found guilty of difobedience, and declared incapable of ferving in any military command for the future.",
+   "bbox": [
+    0.4453,
+    0.4616,
+    0.8223,
+    0.5929
+   ],
+   "source": "s0-wide.b",
+   "id": "page-2108-6874128a519b:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "After this victory it was imagined, that one reinforcement more of British troops would terminate the war in favour of the allies; and that reinforcement was quickly fent. The British army in Germany was augmented to upwards of 30,000 men, and fanguine hopes of conquelt were generally entertained. Thefe hopes, however, were foon found to be ill founded. The allies were defeated at Corbach; but retrieved their honour at Exdorf. A victory at Warbourgh followed shortly after, and another at Zierenberg: but then they suffered a defeat at Compen; after which, both fides retired into winter-quarters.",
+   "bbox": [
+    0.4463,
+    0.5938,
+    0.8232,
+    0.7517
+   ],
+   "source": "s0-wide.b",
+   "id": "page-2108-6874128a519b:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "On the 25th of October 1760, happened the death of king George II. He had rifen at his uful hour, and observed to his attendants, that as the weather was fine, he would take a walk into the gardens of Ken- fington, where he then refded. In a few minutes after his return, being left alone, he was heard to fall down upon the floor. The noife of this bringing his attendants into the room, they lifted him into bed; where he defined with a faint voice, that the princefs Amelia might be fent for: but before the could reach the apartment, he expired, in the 77th year of his age, and 33d of his reign. An attempt was made to bleed him,",
+   "bbox": [
+    0.4473,
+    0.752,
+    0.8242,
+    0.9242
+   ],
+   "source": "s0-wide.b",
+   "id": "page-2108-6874128a519b:b10"
+  }
+ ]
+}

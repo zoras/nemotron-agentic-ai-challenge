@@ -1,0 +1,583 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+ "row_index": 2464,
+ "volume_id": "144133902",
+ "filename": "page-2464-24f450326eee.jpg",
+ "image_sha256": "24f450326eee13b008306d2b355bd49b295db96603186268db20b85552cf958e",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.06667,
+  "median_grey": 214,
+  "layout_body_chars": 5750,
+  "layout_pictures": 0
+ },
+ "running_head": "C A B (2) C A B",
+ "layout_raw": "page-2464-24f450326eee/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0325,
+    1.0,
+    0.0593
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2464-24f450326eee/head.json",
+   "finish_reason": "stop",
+   "request_key": "54dbfad658ff6273c2f8026db6c85f92724c0ac1e264575a3d382d0a6f910677"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0325,
+    0.4767,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0325,
+     0.1131,
+     0.4717
+    ],
+    [
+     0.1131,
+     0.1938,
+     0.4717
+    ],
+    [
+     0.1938,
+     0.2744,
+     0.4717
+    ],
+    [
+     0.2744,
+     0.355,
+     0.4717
+    ],
+    [
+     0.355,
+     0.4356,
+     0.4717
+    ],
+    [
+     0.4356,
+     0.5162,
+     0.4717
+    ],
+    [
+     0.5162,
+     0.5969,
+     0.4717
+    ],
+    [
+     0.5969,
+     0.6775,
+     0.4717
+    ],
+    [
+     0.6775,
+     0.7581,
+     0.4717
+    ],
+    [
+     0.7581,
+     0.8387,
+     0.4717
+    ],
+    [
+     0.8387,
+     0.9194,
+     0.4717
+    ],
+    [
+     0.9194,
+     1.0,
+     0.4717
+    ]
+   ],
+   "raw_path": "page-2464-24f450326eee/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "385cd465aaa0d07bce1dab4d8419312b30315973e8c5aa6296ad14610657106f"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4667,
+    0.0325,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0325,
+     0.1131,
+     0.4717
+    ],
+    [
+     0.1131,
+     0.1938,
+     0.4717
+    ],
+    [
+     0.1938,
+     0.2744,
+     0.4717
+    ],
+    [
+     0.2744,
+     0.355,
+     0.4717
+    ],
+    [
+     0.355,
+     0.4356,
+     0.4717
+    ],
+    [
+     0.4356,
+     0.5162,
+     0.4717
+    ],
+    [
+     0.5162,
+     0.5969,
+     0.4717
+    ],
+    [
+     0.5969,
+     0.6775,
+     0.4717
+    ],
+    [
+     0.6775,
+     0.7581,
+     0.4717
+    ],
+    [
+     0.7581,
+     0.8387,
+     0.4717
+    ],
+    [
+     0.8387,
+     0.9194,
+     0.4717
+    ],
+    [
+     0.9194,
+     1.0,
+     0.4717
+    ]
+   ],
+   "raw_path": "page-2464-24f450326eee/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "f6cb880c0e76acdaabfa9d44c3199bb1ea99df6eac6e6ca85f1975c75946c6f8"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "C A B (2) C A B",
+   "bbox": [
+    0.0,
+    0.0325,
+    1.0,
+    0.0593
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2464-24f450326eee:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "C A B",
+   "bbox": [
+    0.1839,
+    0.0363,
+    0.2877,
+    0.0559
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "( 2",
+   "bbox": [
+    0.4264,
+    0.037,
+    0.4762,
+    0.0551
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "which compofe it: this cabbala is divided into three kinds, the gematrie, the notaricon, and the temura or themurah. The frit whereof conflits in taking the letters of a Hebrew word for ciphers or arithmetical numbers, and explaining every word by the arithmeti- cal value of the letters whereof it is compofed. The second fort of cabbala, called notaricon, conflits in taking every particular letter of a word for an entire diction; and the third, called themurah, i. e. change, conflits in making different tranfpolitions or changes of letters, placing one for the other, or one before the other.",
+   "bbox": [
+    0.0512,
+    0.0589,
+    0.4641,
+    0.229
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Among the Christians likewise, a certain fort of magic is, by miftake, called cabbala, which conflits in ufing improperly certain passages of scripture for magic operations, or in forming magic characters or figures with flars and talifmans.",
+   "bbox": [
+    0.0517,
+    0.2298,
+    0.4637,
+    0.3001
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "Some vitionaries, among the Jews, believe, that Jefus Chrift wrought his miracles by virtue of the my-feries of the cabbala.",
+   "bbox": [
+    0.0522,
+    0.3008,
+    0.4632,
+    0.3408
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b5"
+  },
+  {
+   "order": 6,
+   "class": "List-item",
+   "text": "CABBALISTS, the Jewish doctors who profels the fluidy of the cabbala.",
+   "bbox": [
+    0.0382,
+    0.3416,
+    0.4623,
+    0.3704
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "In the opinion of thefe men, there is not a word, letter, or accent in the law, without fome mystery in it. The Jews are divided into two general facts; the karaites, who refufe to receive either tradition or the talmud, or any thing but the pure text of scripture; and the rabbinilts, or talmudifts, who, beides this, receive the traditions of the ancients, and follow the talmud.",
+   "bbox": [
+    0.0507,
+    0.3711,
+    0.4646,
+    0.4815
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "The latter are again divided into two other feats; pure rabbinilts, who explain the scripture, in its natural fenfe, by grammar, hifory, and tradition; and cabbalilis, who, to difcover hidden mythical fenfes, which they fuppofe God to have couched therein, make ufe of the cabbala, and the mystical methods above mentioned.",
+   "bbox": [
+    0.0503,
+    0.4822,
+    0.4651,
+    0.5805
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b8"
+  },
+  {
+   "order": 9,
+   "class": "List-item",
+   "text": "CABECA, or CARESSE, a name given to the finest filks in the East Indies, as thofe from 15 to 20 per cent. inferior to them are called barina. The Indian workmen endeavour to pafs them off one with the other; for which reafon, the more experienced European merchants take care to open the bales, and to examine all the fkains one after another. The Dutch diltinguih two forts of cabecas; namely, the moor ca-beca, and the common cabeca. The former is fold at Amiterdam for about 214 fehellinghen Elemith, and the other for about 184.",
+   "bbox": [
+    0.0391,
+    0.5797,
+    0.466,
+    0.7355
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b9"
+  },
+  {
+   "order": 10,
+   "class": "List-item",
+   "text": "CABENDA, a port-town of Congo, in Africa, and fubied to the Portuguese: E. long, 12°, and S. lat. 4°.",
+   "bbox": [
+    0.0451,
+    0.7347,
+    0.4655,
+    0.7641
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b10"
+  },
+  {
+   "order": 11,
+   "class": "List-item",
+   "text": "CABIDOS, or CAVIDOS, a long measure ufed at Goa, and in other places of the East Indies belonging to the Portuguese, to measure fluffs, linens, Ge, and equal to 4 of the Paris eli.",
+   "bbox": [
+    0.0456,
+    0.7634,
+    0.4665,
+    0.8194
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b11"
+  },
+  {
+   "order": 12,
+   "class": "List-item",
+   "text": "CABIN, in the fea-language, a fmall room, or apartment, whereof there are a great many in feveral parts of a hip; particularly on the quarter-deck, and on each side of the fleerage, for the officers of the flip to lie in.",
+   "bbox": [
+    0.0461,
+    0.8201,
+    0.4669,
+    0.8904
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "The great cabin is the chief of all, and that which properly belongs to the captain or chief commander.",
+   "bbox": [
+    0.0633,
+    0.8896,
+    0.4674,
+    0.9229
+   ],
+   "source": "s0-col-left",
+   "id": "page-2464-24f450326eee:b13"
+  },
+  {
+   "order": 14,
+   "class": "Head-fragment",
+   "text": ")",
+   "bbox": [
+    0.4927,
+    0.0363,
+    0.5073,
+    0.0575
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b14"
+  },
+  {
+   "order": 15,
+   "class": "Head-fragment",
+   "text": "C A B",
+   "bbox": [
+    0.6464,
+    0.0355,
+    0.7469,
+    0.0545
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "CABINET, or CABBINET, the molt retired place in\nthe fineft part of a building, fet apart for writing, flu-\ndying, or preferving any thing that is precious.",
+   "bbox": [
+    0.4709,
+    0.0582,
+    0.8974,
+    0.1035
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "A complete apartment conflits of a hall, anti-cham-\nber, chamber, and cabinet, with a gallery on one fide.\nHence we fay, a cabinet of paintings, curiolities, _Gc_.",
+   "bbox": [
+    0.488,
+    0.1021,
+    0.8969,
+    0.1451
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "CABINET alfo denotes a piece of joiner's workmanhip,\nbeing a kind of prefs or chef), with feveral doors and\ndrawers.",
+   "bbox": [
+    0.474,
+    0.1443,
+    0.8964,
+    0.1859
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "There are common cabinets of oak or of chefnut,\nvarnified cabinets of China and Japan, cabinets or in-\nlaid work, and fome of ebony, or the like ficarce and\nprecious woods.",
+   "bbox": [
+    0.4886,
+    0.1867,
+    0.8958,
+    0.2434
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "Formerly the Dutch and German cabinets were\nmuch effeemed in France, but are now quite out of\ndate, as well as the cabinets of ebony, which came\nfrom Venice.",
+   "bbox": [
+    0.4891,
+    0.2426,
+    0.8979,
+    0.2986
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "CABIRI, a term in the theology of the ancient Pagans,\nfigifying great and powerful gods; being a name\ngiven to the gods of Samothracia. They were alfo\nworkhipped in other parts of Greece, as Lemnos and\nThebes, where the cabiria were celebrated in honour\nof them: thefe gods are laid to be, in number,\nfour, _viz._ Axieros, Axiocerfa, Axiocerfus, and\nCafmilus.",
+   "bbox": [
+    0.4756,
+    0.2978,
+    0.8985,
+    0.412
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "CABIRIA, feffivals in honour of the cabiri, celebrated\nin Thebes and Lemnos, but especially in Samothra-\ncia, an illand confecrated to the cabiri. All who were\ninitiated into the myfferies of thefe gods, were thought\nto be feured thereby from florms at fea, and all other\ndangers. The ceremony of initiation was performed\nby placing the candidate, crowned with olive-branches,\nand girded about the loins with a purple ribband, on\na kind of throne, about which the prieils, and perfons\nbefore initiated, danced.",
+   "bbox": [
+    0.4761,
+    0.4112,
+    0.8989,
+    0.5525
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "CABLAN, the nam: of a kingdom and city of India,\nbeyond the Ganges.",
+   "bbox": [
+    0.4766,
+    0.5518,
+    0.8995,
+    0.5813
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "CABLE, a thick, large, frong rope, commonly of\nhemp, which ferves to keep a hip at anchor.",
+   "bbox": [
+    0.4771,
+    0.5797,
+    0.9,
+    0.61
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b24"
+  },
+  {
+   "order": 25,
+   "class": "Text",
+   "text": "There is no merchant-hip, however weak, but has\nat leaft three cables ; namely, the chief cable, or\ncable of the fleet-anchor, a common cable, and a\nfmaller one.",
+   "bbox": [
+    0.4948,
+    0.6092,
+    0.8953,
+    0.6651
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b25"
+  },
+  {
+   "order": 26,
+   "class": "Text",
+   "text": "Cable is alfo faid of ropes, which ferve to raife\nheavy loads, by the help of cranes, pullies, and other\nengines. The name of cable is ufually given to fuch\nas have, at leaft, three inches in diameter ; thofe that\nare lefs are only called ropes of different names, ac-\ncording to their ufe.",
+   "bbox": [
+    0.4959,
+    0.6644,
+    0.9005,
+    0.7506
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b26"
+  },
+  {
+   "order": 27,
+   "class": "Text",
+   "text": "Every cable, of what thickness foever it be, is com-\npofed of three friends ; every frand of three ropes ; and\nevery rope of three twifts : the twift is made of more\nor lefs threads, according as the cable is to be thicker\nor thinner.",
+   "bbox": [
+    0.4969,
+    0.7483,
+    0.9011,
+    0.8194
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b27"
+  },
+  {
+   "order": 28,
+   "class": "Text",
+   "text": "In the manufacture of cables, after the ropes are\nmade, they ufe flicks, which they pafs frit between\nthe ropes of which they make the frants, and after-\nwards between the frants of which they make the\ncable, to the end that they may all twift the better;\nand be more regularly wound together ; and alfo, to\nprevent them from twining or intangling, they hang,",
+   "bbox": [
+    0.4974,
+    0.8201,
+    0.9026,
+    0.9207
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b28"
+  },
+  {
+   "order": 29,
+   "class": "Page-footer",
+   "text": "az",
+   "bbox": [
+    0.8818,
+    0.9191,
+    0.9032,
+    0.9297
+   ],
+   "source": "s0-col-right",
+   "id": "page-2464-24f450326eee:b29"
+  }
+ ]
+}

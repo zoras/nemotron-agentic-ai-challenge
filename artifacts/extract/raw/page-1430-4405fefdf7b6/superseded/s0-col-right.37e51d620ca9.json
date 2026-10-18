@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "37e51d620ca94f36079c41692359f1f0615f921862381c39723c68c7db5c7cdf",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "cc15a2ffac4fca7285edc9f3498474a2075316ab0f68f3a0e5c5fc5b221a1bce",
+  "image_bytes": 2220501,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1430",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5033,
+   0.0624,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0624,
+    0.1476,
+    0.5083
+   ],
+   [
+    0.1476,
+    0.2329,
+    0.5083
+   ],
+   [
+    0.2329,
+    0.3181,
+    0.5083
+   ],
+   [
+    0.3181,
+    0.4033,
+    0.5083
+   ],
+   [
+    0.4033,
+    0.4886,
+    0.5083
+   ],
+   [
+    0.4886,
+    0.5738,
+    0.5083
+   ],
+   [
+    0.5738,
+    0.6591,
+    0.5083
+   ],
+   [
+    0.6591,
+    0.7443,
+    0.5083
+   ],
+   [
+    0.7443,
+    0.8295,
+    0.5083
+   ],
+   [
+    0.8295,
+    0.9148,
+    0.5083
+   ],
+   [
+    0.9148,
+    1.0,
+    0.5083
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2587,
+  "completion_tokens": 915,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.73,
+ "created_at": "2026-10-18T11:11:01+00:00",
+ "content": "<x_0.0><y_0.0>of trial of their abilities against the Arabians. In this expedition Sefoftris proved fuccefsful, and in the end fubdued that people who had never before been conquered. He was sent to the weftward, and conquered the greatest part of Africa; nor could he be flopped in his career till he arrived at the Atlantic ocean. Whilst he was on this expedition, his father died; and then Sefoftris refolved to fulfil the prediction of Vulean, by actually conquering the whole world. As he knew that this muit take up a long time, he prepared for his journey in the belt manner poflible. The kingdom he divided into 36 provinces, and endeavoured to feure the affections of the people by gifts both of money and land. He forgave all who had been guilty of offences, and discharged the debts of all his foldiers. He then conflituted his brother Arais the fupreme regent; but forbad him to ufe the diadern, and commanded him to offer no injury to the queen or her children, and to abitain from the royal concu- bines. His army conflted of 600,000 foot, 24,000 horfe, and 27,000 chariots. Befides thefe land-forces, he had at fea two mighty fleets; one, according to Dio- dorus, of 400 fail. Of thefe fleets, one was defigned to make conquelts in the weft, and the other in the caft; and therefore the one was built on the Mediterranean and the other on the Red Sea. The first of thefe conquered Cyprus, the coaft of Phcenicia, and several of the illands called _Cyclades_: the other conquered all the coafts of the Red Sea; but its progrefs was flopped by floals and difficult places which the navigators could not pafs, fo that he feems not to have made many conquelts by fea.<x_0.793><y_0.4586><class_Text>\n\n<x_0.0166><y_0.4578>With the land-forces Sefoftris marched againf the Ethiopians and Troglodites; whom he overcame, and obliged them to pay him a tribute of gold, ebony, and ivory. From thence he proceeded as far as the pro- montory of Dira, which lay near the fruits of Babel- mandel, where he fet up a pillar with an infeription in faced characters. He then marched on to the country where cinnamon grows, or at least to fome country where cinnamon at that time was brought, probably fome place in India; and here he in like manner fet up pillars, which were to be feet for many ages after. As to his farther conquelts, it is agreed by almost all authors of antiquity, that he over-ran and pillaged the whole continent of Afia, and fome part of Europe. He croffed the Ganges, and erected pillars on its banks; and from thence he is laid to have marched eastward to the very extremity of the Afiatic continent. Returning from thence, he invaded the Seythians and Thracians; but all authors do not agree that he conquered them. Some even affirm, that he was overthrown by them with great flaughter, and obliged to abandon a great part of his booty and military forces. But whether he had good or bad fuc- cefs in thefe parts, it is a common opinion that he feltled a colony in Colchis. Herodotus, however, who gives the most particular account of the conquelts of this monarch, does not fay whether the colony was delignedly planted by Sefoftris; or whether part of his army loitered behind the reft, and took up their residence in that region. From his own knowledge, he affects, that the inhabitants of that country were undoubtedly of Egyptian descent. This was evident from the perfonal refemblance they bore to the Egyp<x_0.7988><y_0.9352><class_Text>",
+ "reply": {
+  "id": "chatcmpl-b19a580a-2bba-4af9-98b2-2ec44723d570",
+  "object": "chat.completion",
+  "created": 1792321860,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>of trial of their abilities against the Arabians. In this expedition Sefoftris proved fuccefsful, and in the end fubdued that people who had never before been conquered. He was sent to the weftward, and conquered the greatest part of Africa; nor could he be flopped in his career till he arrived at the Atlantic ocean. Whilst he was on this expedition, his father died; and then Sefoftris refolved to fulfil the prediction of Vulean, by actually conquering the whole world. As he knew that this muit take up a long time, he prepared for his journey in the belt manner poflible. The kingdom he divided into 36 provinces, and endeavoured to feure the affections of the people by gifts both of money and land. He forgave all who had been guilty of offences, and discharged the debts of all his foldiers. He then conflituted his brother Arais the fupreme regent; but forbad him to ufe the diadern, and commanded him to offer no injury to the queen or her children, and to abitain from the royal concu- bines. His army conflted of 600,000 foot, 24,000 horfe, and 27,000 chariots. Befides thefe land-forces, he had at fea two mighty fleets; one, according to Dio- dorus, of 400 fail. Of thefe fleets, one was defigned to make conquelts in the weft, and the other in the caft; and therefore the one was built on the Mediterranean and the other on the Red Sea. The first of thefe conquered Cyprus, the coaft of Phcenicia, and several of the illands called _Cyclades_: the other conquered all the coafts of the Red Sea; but its progrefs was flopped by floals and difficult places which the navigators could not pafs, fo that he feems not to have made many conquelts by fea.<x_0.793><y_0.4586><class_Text>\n\n<x_0.0166><y_0.4578>With the land-forces Sefoftris marched againf the Ethiopians and Troglodites; whom he overcame, and obliged them to pay him a tribute of gold, ebony, and ivory. From thence he proceeded as far as the pro- montory of Dira, which lay near the fruits of Babel- mandel, where he fet up a pillar with an infeription in faced characters. He then marched on to the country where cinnamon grows, or at least to fome country where cinnamon at that time was brought, probably fome place in India; and here he in like manner fet up pillars, which were to be feet for many ages after. As to his farther conquelts, it is agreed by almost all authors of antiquity, that he over-ran and pillaged the whole continent of Afia, and fome part of Europe. He croffed the Ganges, and erected pillars on its banks; and from thence he is laid to have marched eastward to the very extremity of the Afiatic continent. Returning from thence, he invaded the Seythians and Thracians; but all authors do not agree that he conquered them. Some even affirm, that he was overthrown by them with great flaughter, and obliged to abandon a great part of his booty and military forces. But whether he had good or bad fuc- cefs in thefe parts, it is a common opinion that he feltled a colony in Colchis. Herodotus, however, who gives the most particular account of the conquelts of this monarch, does not fay whether the colony was delignedly planted by Sefoftris; or whether part of his army loitered behind the reft, and took up their residence in that region. From his own knowledge, he affects, that the inhabitants of that country were undoubtedly of Egyptian descent. This was evident from the perfonal refemblance they bore to the Egyp<x_0.7988><y_0.9352><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2587,
+   "completion_tokens": 915,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

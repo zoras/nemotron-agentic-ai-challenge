@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "645e9db4e2f86b9cf43052de08bfe2d4b7f030d326f1a3aedc8da0da80f7847b",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "67aca2f0889124c87d00ee206a0a9796f7564bc0942874043dd0ed32b0f255f0",
+  "image_bytes": 1992383,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1805",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0827,
+   0.4867,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0827,
+    0.1661,
+    0.4817
+   ],
+   [
+    0.1661,
+    0.2495,
+    0.4817
+   ],
+   [
+    0.2495,
+    0.3329,
+    0.4817
+   ],
+   [
+    0.3329,
+    0.4163,
+    0.4817
+   ],
+   [
+    0.4163,
+    0.4997,
+    0.4817
+   ],
+   [
+    0.4997,
+    0.583,
+    0.4817
+   ],
+   [
+    0.583,
+    0.6664,
+    0.4817
+   ],
+   [
+    0.6664,
+    0.7498,
+    0.4817
+   ],
+   [
+    0.7498,
+    0.8332,
+    0.4817
+   ],
+   [
+    0.8332,
+    0.9166,
+    0.4817
+   ],
+   [
+    0.9166,
+    1.0,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2803,
+  "completion_tokens": 1003,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.26,
+ "created_at": "2026-10-18T11:11:17+00:00",
+ "content": "<x_0.0947><y_0.0>Execution a criminal, fo reviving, was not allowed to take fanc-\ntuary and abjure the realm; but his fleeing to fanctuary\nwas held an escape in the officer.<x_0.9824><y_0.0406><class_Text>\n\n<x_0.2676><y_0.0398>EXECUTION, in the law of Scotland. See LAW Index.<x_0.9814><y_0.0539><class_Text>\n\n<x_0.2246><y_0.0523>EXECUTION, in the French mufic, is ufed to denote\nthe manner of finging, or of the performance of a fong.\n\" As to the manner of finging, called in France execu-\ntion, no nation may, with any probability dispute it\nwith the French. If the French, by their commerce\nwith the Italians have gained a bolder composition,\nthe Italians have made their advantage of the French,\nin learning of them a more polite, moving, and exqui-\nfite execution.\" St Evremond.<x_0.9834><y_0.1781><class_Text>\n\n<x_0.2227><y_0.1773>EXECUTIVE POWER. The fupreme executive\npower of thefe kingdoms is veffed by our laws in a\nfingle perfon, the King or queen for the time being.\nSee the article KING.<x_0.9844><y_0.2336><class_Text>\n\n<x_0.2197><y_0.2328>The executive power, in this flate, hath a right to\na negative in parliament, i. e. to refute affent to any\nacts offered; otherwife the two other branches of legi-\nlative power would, or might, become defpotic.<x_0.9805><y_0.2891><class_Text>\n\n<x_0.2188><y_0.2883>EXECUTOR, a perfon nominated by a teflator, to\ntake care to fee his will and teflament executed or per-\nformed, and his effects difpofed of according to the te-\nnor of the will. See LAW.<x_0.9795><y_0.3438><class_Text>\n\n<x_0.2178><y_0.343>EXECUTOR, in Scott Law, fignifies either the perfon\nentitled tofucceed to the moveable eflate of one deceafed,\nor who by law or special appointment is intrufted with\nthe administration of it.<x_0.9785><y_0.4><class_Text>\n\n<x_0.2168><y_0.3984>EXECUTORY, in Law, is where an elfate in fee,\nthat is, made by deed or fine, is to be executed after-\nwards by entry, livery, or writ. Leafe for years, an-\nnuities, conditions, sc. are termed _inkeritances exec-_\n_cutory._<x_0.9775><y_0.4688><class_Text>\n\n<x_0.2158><y_0.468>EXECUTRY, in Scott Law, is the moveable elfate\nfalling to the executor. Under executry, or moveables,\nis comprehended every thing that moves itself, or can\nbe moved ; fuch as corns, cattle, furniture, ready mo-\nney, sc.<x_0.9766><y_0.5391><class_Text>\n\n<x_0.2139><y_0.5375>EXEDRÆ, in antiquity, denoted halls with many\nfeats, where the philofophers, rhetoricians, and men of\nlearning, met for discourfe and difputation. The word\noccurs in ecclesialical writers as a general name for\nfuch buildings as were distinct from the main body of\nthe churches, and yet within the limits of the church\ntaken in its largeft fenfe. Among the exedras the chief\nwas the BAPTISTERY.<x_0.9756><y_0.6484><class_Text>\n\n<x_0.2129><y_0.6477>EXEGESIS, a dicourfe by way of explanation or\ncomment upon any subject. In the Scotch universities,\nthere is an excercile among the students in divinity, call-\ned an _exegefir_, in which a question is flated by the re-\nfpondent, who is then oppofed by two or three other\nstudents in their turns ; during which time the profef-\nfor moderates, and lolves the difficulties which the re-\nfpondent cannot overcome.<x_0.9746><y_0.7602><class_Text>\n\n<x_0.2119><y_0.7578>EXEGETES, (formed of _Exynepal, \"I explain,\")_\namong the Athenians, perfons learned in the laws,\nwhom the judges ufed to confult in capital caufen.<x_0.9736><y_0.8023><class_Text>\n\n<x_0.2109><y_0.8>EXEGETICA, in Algebra, the art of finding, ei-\nther in numbers or lines, the roots of the equation of a\nproblem, according as the problem is either numerical\nor geometrical.<x_0.9727><y_0.8586><class_Text>\n\n<x_0.21><y_0.8562>EXEMPLAR, a model, or original, to be imitated,\nor copied. See MODEL.<x_0.9717><y_0.8867><class_Text>\n\n<x_0.2461><y_0.8836>EXEMPLAR alfo denotes the idea, or image, conceived<x_0.9707><y_0.9016><class_Text>",
+ "reply": {
+  "id": "chatcmpl-8d27bf64-a3c0-4e83-b7db-cc449be68e7f",
+  "object": "chat.completion",
+  "created": 1792321876,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0947><y_0.0>Execution a criminal, fo reviving, was not allowed to take fanc-\ntuary and abjure the realm; but his fleeing to fanctuary\nwas held an escape in the officer.<x_0.9824><y_0.0406><class_Text>\n\n<x_0.2676><y_0.0398>EXECUTION, in the law of Scotland. See LAW Index.<x_0.9814><y_0.0539><class_Text>\n\n<x_0.2246><y_0.0523>EXECUTION, in the French mufic, is ufed to denote\nthe manner of finging, or of the performance of a fong.\n\" As to the manner of finging, called in France execu-\ntion, no nation may, with any probability dispute it\nwith the French. If the French, by their commerce\nwith the Italians have gained a bolder composition,\nthe Italians have made their advantage of the French,\nin learning of them a more polite, moving, and exqui-\nfite execution.\" St Evremond.<x_0.9834><y_0.1781><class_Text>\n\n<x_0.2227><y_0.1773>EXECUTIVE POWER. The fupreme executive\npower of thefe kingdoms is veffed by our laws in a\nfingle perfon, the King or queen for the time being.\nSee the article KING.<x_0.9844><y_0.2336><class_Text>\n\n<x_0.2197><y_0.2328>The executive power, in this flate, hath a right to\na negative in parliament, i. e. to refute affent to any\nacts offered; otherwife the two other branches of legi-\nlative power would, or might, become defpotic.<x_0.9805><y_0.2891><class_Text>\n\n<x_0.2188><y_0.2883>EXECUTOR, a perfon nominated by a teflator, to\ntake care to fee his will and teflament executed or per-\nformed, and his effects difpofed of according to the te-\nnor of the will. See LAW.<x_0.9795><y_0.3438><class_Text>\n\n<x_0.2178><y_0.343>EXECUTOR, in Scott Law, fignifies either the perfon\nentitled tofucceed to the moveable eflate of one deceafed,\nor who by law or special appointment is intrufted with\nthe administration of it.<x_0.9785><y_0.4><class_Text>\n\n<x_0.2168><y_0.3984>EXECUTORY, in Law, is where an elfate in fee,\nthat is, made by deed or fine, is to be executed after-\nwards by entry, livery, or writ. Leafe for years, an-\nnuities, conditions, sc. are termed _inkeritances exec-_\n_cutory._<x_0.9775><y_0.4688><class_Text>\n\n<x_0.2158><y_0.468>EXECUTRY, in Scott Law, is the moveable elfate\nfalling to the executor. Under executry, or moveables,\nis comprehended every thing that moves itself, or can\nbe moved ; fuch as corns, cattle, furniture, ready mo-\nney, sc.<x_0.9766><y_0.5391><class_Text>\n\n<x_0.2139><y_0.5375>EXEDRÆ, in antiquity, denoted halls with many\nfeats, where the philofophers, rhetoricians, and men of\nlearning, met for discourfe and difputation. The word\noccurs in ecclesialical writers as a general name for\nfuch buildings as were distinct from the main body of\nthe churches, and yet within the limits of the church\ntaken in its largeft fenfe. Among the exedras the chief\nwas the BAPTISTERY.<x_0.9756><y_0.6484><class_Text>\n\n<x_0.2129><y_0.6477>EXEGESIS, a dicourfe by way of explanation or\ncomment upon any subject. In the Scotch universities,\nthere is an excercile among the students in divinity, call-\ned an _exegefir_, in which a question is flated by the re-\nfpondent, who is then oppofed by two or three other\nstudents in their turns ; during which time the profef-\nfor moderates, and lolves the difficulties which the re-\nfpondent cannot overcome.<x_0.9746><y_0.7602><class_Text>\n\n<x_0.2119><y_0.7578>EXEGETES, (formed of _Exynepal, \"I explain,\")_\namong the Athenians, perfons learned in the laws,\nwhom the judges ufed to confult in capital caufen.<x_0.9736><y_0.8023><class_Text>\n\n<x_0.2109><y_0.8>EXEGETICA, in Algebra, the art of finding, ei-\nther in numbers or lines, the roots of the equation of a\nproblem, according as the problem is either numerical\nor geometrical.<x_0.9727><y_0.8586><class_Text>\n\n<x_0.21><y_0.8562>EXEMPLAR, a model, or original, to be imitated,\nor copied. See MODEL.<x_0.9717><y_0.8867><class_Text>\n\n<x_0.2461><y_0.8836>EXEMPLAR alfo denotes the idea, or image, conceived<x_0.9707><y_0.9016><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2803,
+   "completion_tokens": 1003,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

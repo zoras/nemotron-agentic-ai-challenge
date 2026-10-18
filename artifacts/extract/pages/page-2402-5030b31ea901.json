@@ -1,0 +1,412 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2402",
+ "row_index": 2402,
+ "volume_id": "193057500",
+ "filename": "page-2402-5030b31ea901.jpg",
+ "image_sha256": "5030b31ea90173a447b4749960488cdeab085e4ff2f4bf49cf473614e50ce29e",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.11765,
+  "median_grey": 213,
+  "layout_body_chars": 7235,
+  "layout_pictures": 0
+ },
+ "running_head": "A N A T O M Y. 3",
+ "layout_raw": "page-2402-5030b31ea901/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0302,
+    1.0,
+    0.06
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2402-5030b31ea901/head.json",
+   "finish_reason": "stop",
+   "request_key": "e3402d4fe82ae2e34eb724b48581a9bd5ad77b1ef385ec8dfb839eaed0d47e35"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0302,
+    0.4867,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0302,
+     0.111,
+     0.4783
+    ],
+    [
+     0.111,
+     0.1918,
+     0.4817
+    ],
+    [
+     0.1918,
+     0.2727,
+     0.4817
+    ],
+    [
+     0.2727,
+     0.3535,
+     0.4817
+    ],
+    [
+     0.3535,
+     0.4343,
+     0.4817
+    ],
+    [
+     0.4343,
+     0.5151,
+     0.4817
+    ],
+    [
+     0.5151,
+     0.5959,
+     0.4817
+    ],
+    [
+     0.5959,
+     0.6767,
+     0.4817
+    ],
+    [
+     0.6767,
+     0.7575,
+     0.4817
+    ],
+    [
+     0.7575,
+     0.8384,
+     0.4817
+    ],
+    [
+     0.8384,
+     0.9192,
+     0.4817
+    ],
+    [
+     0.9192,
+     1.0,
+     0.4817
+    ]
+   ],
+   "raw_path": "page-2402-5030b31ea901/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "e4dc2bc2927c803fe01fec4c355061f048082e28de8de3fc80f345f2206b9511"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4733,
+    0.0302,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0302,
+     0.111,
+     0.4783
+    ],
+    [
+     0.111,
+     0.1918,
+     0.4817
+    ],
+    [
+     0.1918,
+     0.2727,
+     0.4817
+    ],
+    [
+     0.2727,
+     0.3535,
+     0.4817
+    ],
+    [
+     0.3535,
+     0.4343,
+     0.4817
+    ],
+    [
+     0.4343,
+     0.5151,
+     0.4817
+    ],
+    [
+     0.5151,
+     0.5959,
+     0.4817
+    ],
+    [
+     0.5959,
+     0.6767,
+     0.4817
+    ],
+    [
+     0.6767,
+     0.7575,
+     0.4817
+    ],
+    [
+     0.7575,
+     0.8384,
+     0.4817
+    ],
+    [
+     0.8384,
+     0.9192,
+     0.4817
+    ],
+    [
+     0.9192,
+     1.0,
+     0.4817
+    ]
+   ],
+   "raw_path": "page-2402-5030b31ea901/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "ce773f7178dea18797b4a7b8a5d6e85a9b72587c2793e5f1e97aec5b899ea1fa"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "A N A T O M Y. 3",
+   "bbox": [
+    0.0,
+    0.0302,
+    1.0,
+    0.06
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2402-5030b31ea901:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**A N A ’**",
+   "bbox": [
+    0.375,
+    0.0348,
+    0.481,
+    0.0544
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2402-5030b31ea901:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Coupara-tive\nAmatony.",
+   "bbox": [
+    0.0195,
+    0.0605,
+    0.0832,
+    0.1067
+   ],
+   "source": "s0-col-left",
+   "id": "page-2402-5030b31ea901:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "Sacral ver- tebre.",
+   "bbox": [
+    0.0157,
+    0.1226,
+    0.0827,
+    0.1476
+   ],
+   "source": "s0-col-left",
+   "id": "page-2402-5030b31ea901:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "in the RODENTIA, it is there shorter; and the arrangement\nis wanting in the other tribes. The size of the transverse\nprocesses indicates the strength of the loins--a fact\nwhich is evinced especially in the instance of the horse,\nporpoise, &c.",
+   "bbox": [
+    0.0822,
+    0.0598,
+    0.4819,
+    0.1242
+   ],
+   "source": "s0-col-left",
+   "id": "page-2402-5030b31ea901:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "The number of sacral vertebra is still more various,\neven in the species of the same genus. Thus, while in\nseveral of the ape _genus_, in the lori, in the vampyre bat,\nthe colugo (_galcopithecus_), the coati, and two of the\ndidelphis, there is one sacral vertebra only, most of the\napes have _sacra_ consisting of 2, 3, 4, 5, or 6 pieces ; the\nmajority of other animals have 3 sacral vertebrae ; the\nhedgehog, porcupine, guinea pig, paca, bare, tiger, several\nof the murine genus, the ant-eater, rhinoceros, camel, dro-\nmedary, chamois, goat, sheep, and ox, have 4; the ele-\nphant has 5; the Ai 6; the Unau 7; and in the mole,\nwhite bear, and quagga, they also amount to 7. The fre-\nquency of the three sacral vertebrae in the lower animals\nshows that Galen, who ascribes only 3 to the human sub-\nject, must have derived this inference from the former.",
+   "bbox": [
+    0.0818,
+    0.1234,
+    0.4824,
+    0.3128
+   ],
+   "source": "s0-col-left",
+   "id": "page-2402-5030b31ea901:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "These vertebrae are in the mammalia narrower than in\nman, and their direction forms with the spine, instead of\nreceding backwards, a straight line ; an arrangement evi-\ndently connected with the horizontal position of the for-\nmer. The shape of the sacrum in the lower mammals is\nthat of an elongated triangle ; and it is further remarkable,\nthat in those species which occasionally assume the erect\nattitude on the hind leg, as apes, bears, and sloths, the\nwidth of the sacrum is proportionally greater. The sa-\ncral spines, which are short in man and the ape, become\nlonger in the ZOOPHAGA, and form a continuous ridge in the\nrhinoceros, most ruminants, and especially in the mole. In\nthe vampyre bat the sacrum forms a long compressed\ncone, the extremity of which is united to the ischial tu-\nberosities, without sustaining a coccyx. The seal has two\nsacral bones ; but the CETACEA, c. g. the dolphin and por-\npoise, are void both of sacrum and coccyx.",
+   "bbox": [
+    0.0808,
+    0.312,
+    0.4829,
+    0.5272
+   ],
+   "source": "s0-col-left",
+   "id": "page-2402-5030b31ea901:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "The coccygeal bones constitute the tail of the lower\nanimals, and in many instances they are extremely nume-\nrous. The smallest number is 3, which is that of the\nmagot (simia sylevanus, pithecus, et inuus) or Barbary ape ;\nand the greatest yet known is that of the ant-eater, in\nwhich they amount to 40, and the long-tailed manis, in\nwhich they amount to 45. Next to these may be placed\nthat of the coaita 32, the baboon 31, the phalanger (di-\ndelphis orientalis) 30, the marmoset (didelphis murina) 29,\nthe pangolin 28, the silky monkey (sinia rosalia) and\nblack rat 26, the weeping monkey and howling ape 25 ; the\npanther, mouse, dormouse, and elephant, 24 ; the lion,\nbeaver, water-rat, Norway rat, and field-rat, 23 ; the flying-\ncat, puma, cat, dog, marmot, and rhinoceros, 22 ; the\notter, 21 ; the Chinese monkey, raccoon, civet, hare, and\nrabbit, 20 ; the tiger and wolf, 19 ; the macauco, glutton,\nmarten, fat dormouse, dromedary, giraffe, and quagga, 18 ;\nthe tarsier, shrew, camel, and horse, 17 ; and other genera\nand species, without any determinate order, descending\nso low as to 9, 8, 7, 6, and 4. The quilled duckbill (echidna,\nornithorhynneus hystrix) has only 12 caudal vertebrae, while\nthe common one (ornithorhynneus paradozus) has at least\n20. The gibbon and vampyre bat are the only mammifer-\nous animals, excepting the CETACEA, in which there are\nno coccygeal bones. It sometimes happens that a monkey\nor opossum loses a portion of its tail, when the truncated\nend is converted into a knotty excrescence, sometimes\ncarious, always different from the taper point of the last\ncoccygeal vertebra ; and in this case it is difficult to de-\ntermine the exact species.",
+   "bbox": [
+    0.0765,
+    0.5264,
+    0.4815,
+    0.9053
+   ],
+   "source": "s0-col-left",
+   "id": "page-2402-5030b31ea901:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "In the Cetacea, in which the absence of _pelvis_ affords\nno mark to distinguish the lower vertebrae into lumbar,\nsacral, and coccygeal, those below the dorsal may be re-",
+   "bbox": [
+    0.0756,
+    0.903,
+    0.4762,
+    0.9462
+   ],
+   "source": "s0-col-left",
+   "id": "page-2402-5030b31ea901:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "TOMY. 3",
+   "bbox": [
+    0.4733,
+    0.0348,
+    0.9558,
+    0.0552
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-2402-5030b31ea901:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "garded as _lumbo-coccygeal_; and their number is estimated by deducting that of the cervical and costal from the total number. The following table, which shows the number of the costal, the lumbo-coccygeal, and the total number of vertebrae, indicates that their number varies much in various _genera_ of this family.",
+   "bbox": [
+    0.4867,
+    0.0598,
+    0.8889,
+    0.1378
+   ],
+   "source": "s0-col-right",
+   "id": "page-2402-5030b31ea901:b10"
+  },
+  {
+   "order": 11,
+   "class": "Table",
+   "text": "\\begin{tabular}{cccccc}\n & **d.** & **Le.** & **t.** & & **d.** & **l.e.** & **t.**\\\\\nLamantin.....16 & 24 & 46 & Porpoise.....13 & 40 & 60 & \\\\\nDugong .....18 & 23 & 46 & Narwal.....12 & 35 & 54 & \\\\\nDolphin.....13 & 47 & 67 & Hyperodon.....9 & 29 & 45 & \\\\\nTursio.....13 & 33 & 58 & Cachalot or White & & & \\\\\nD. Globiceps.....11 & 37 & 56 & Whale.....14-15 & 39 & 60 & \\\\\nD. Griseus.....12 & 42 & 61 & Greenland Whale...15 & 37 & 59 & \\\\\nD. Gangeticus.....11 & 23 & 46 & Rorquhal.....14 & 31 & 52 & \\\\\n\\end{tabular}",
+   "bbox": [
+    0.4877,
+    0.1363,
+    0.8894,
+    0.2257
+   ],
+   "source": "s0-col-right",
+   "id": "page-2402-5030b31ea901:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "In general, however, if we reckon the first 2, 3, or 5 ver- tebra after the costal as lumbar, it may be said that the caudal vertebra of the CetACEA vary from 22 or 25, which are the numbers respectively in the lamantin and dugong, to 34, 38, and 42, at which they may be estimated in the dolphin. We shall see that, in the dugong at least, we are guided in this estimate by the rudimental bones of the pelvis.",
+   "bbox": [
+    0.4872,
+    0.2249,
+    0.8884,
+    0.3279
+   ],
+   "source": "s0-col-right",
+   "id": "page-2402-5030b31ea901:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "The coccygeal or caudal vertebra of the MAMMALIA may be distinguished into two kinds: those which contain a canal in continuity with that of the vertebral co- lumn and sacrum, and those in which the pieces are solid. The first, which are next the sacrum, have articular, transverse, and spinous processes, distinct in proportion as the animals move their tails. The latter are generally prismatic in shape, diminish in size towards the extremity, and have only slight tubercles for muscular attachments. Animals with prehensile tails, as the American ape (_sapajous_), have above, at the base of the body of each vertebra, two small tubercles, between which pass the tendons of the flexor muscles. By means of this mechanism these animals can twine the tail round the branch of a tree with sufficient force to support the weight of the body.",
+   "bbox": [
+    0.4862,
+    0.3257,
+    0.8879,
+    0.5295
+   ],
+   "source": "s0-col-right",
+   "id": "page-2402-5030b31ea901:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "The MAMMALIA with long mobile tails have often two or three small supernumerary bones placed on the lower surface of the junctions of several of the coccygeal vertebrae, from the 3d or 4th to the 7th or 8th. These sesamoid bones give attachment to muscles. In the beaver, which employs its tail as a trowel, the transverse processes are remarkable for size, while the lower spinous processes are larger than the upper ones,—an arrangement which enables it to depress the tail forcibly when it beats the ground.",
+   "bbox": [
+    0.4831,
+    0.528,
+    0.8873,
+    0.6552
+   ],
+   "source": "s0-col-right",
+   "id": "page-2402-5030b31ea901:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "The shape of the chest in the MAMMALIA varies in The chest. general as the clavicles are present or wanting. In ani- mals provided with clavicles, as the QUADRUMANA, bats, the squirrel, beaver, mole, ant-eater, hedgehog, and sloth, the shape of the chest approaches to the human, or is conoidal, and flattened before and behind. In those void of clavicles it is compressed laterally, from the smaller incurvation of the ribs; and the sternum makes a remark- The sterable prominence, so that the transverse or intercostal dia-mmeter is less proportionally, and the sterno-vertebral is greater proportionally, than in man and the claviculated animals. In the long-legged animals, as the giraffe and those of the stag kind, this prominence of the sternum is sufficient to give it a kecil-like appearance (_thoraz carina-tus_). In the carnivorous animals the chest presents its greatest longitudinal extent.",
+   "bbox": [
+    0.482,
+    0.6538,
+    0.9455,
+    0.8575
+   ],
+   "source": "s0-col-right",
+   "id": "page-2402-5030b31ea901:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "The number and shape of the ribs varies in the differ- The ribs. ent tribes. In number, indeed, the ribs always correspond with that of the costal vertebrae. Thus, in the QUADRUMANA, ZOOPHAGA, RODENTIA, EDENTATA, and RUMINANTIA, they vary from 12 to 15 pair, with only three exceptions, the glutton, hyena, and ant-eater. In the Chinese monkey, common bat, and armadillo, they are a pair less than in",
+   "bbox": [
+    0.4815,
+    0.8561,
+    0.9393,
+    0.947
+   ],
+   "source": "s0-col-right",
+   "id": "page-2402-5030b31ea901:b16"
+  }
+ ]
+}

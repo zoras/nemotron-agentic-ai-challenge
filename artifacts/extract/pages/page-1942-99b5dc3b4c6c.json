@@ -1,0 +1,622 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1942",
+ "row_index": 1942,
+ "volume_id": "144850379",
+ "filename": "page-1942-99b5dc3b4c6c.jpg",
+ "image_sha256": "99b5dc3b4c6cd19e10ef2da5ff4549329115fd8dba02d32d04fb855d1c774164",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.0902,
+  "median_grey": 216,
+  "layout_body_chars": 5991,
+  "layout_pictures": 0
+ },
+ "running_head": "6046 PHARMACY. Part II.",
+ "layout_raw": "page-1942-99b5dc3b4c6c/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0216,
+    1.0,
+    0.0483
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1942-99b5dc3b4c6c/head.json",
+   "finish_reason": "stop",
+   "request_key": "1daf22d1d94e5f011ce99638d4de43f64b3f65ac5501c7aee91194b67f078019"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0216,
+    0.5017,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0216,
+     0.1031,
+     0.4967
+    ],
+    [
+     0.1031,
+     0.1847,
+     0.4967
+    ],
+    [
+     0.1847,
+     0.2662,
+     0.4967
+    ],
+    [
+     0.2662,
+     0.3477,
+     0.4967
+    ],
+    [
+     0.3477,
+     0.4293,
+     0.4967
+    ],
+    [
+     0.4293,
+     0.5108,
+     0.4967
+    ],
+    [
+     0.5108,
+     0.5923,
+     0.4967
+    ],
+    [
+     0.5923,
+     0.6739,
+     0.4967
+    ],
+    [
+     0.6739,
+     0.7554,
+     0.4967
+    ],
+    [
+     0.7554,
+     0.8369,
+     0.4967
+    ],
+    [
+     0.8369,
+     0.9185,
+     0.4967
+    ],
+    [
+     0.9185,
+     1.0,
+     0.4967
+    ]
+   ],
+   "raw_path": "page-1942-99b5dc3b4c6c/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "f49faeadc858d740dc2f91ec735341842ea84081f38f599d4f079d55a62b1e57"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4917,
+    0.0216,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0216,
+     0.1031,
+     0.4967
+    ],
+    [
+     0.1031,
+     0.1847,
+     0.4967
+    ],
+    [
+     0.1847,
+     0.2662,
+     0.4967
+    ],
+    [
+     0.2662,
+     0.3477,
+     0.4967
+    ],
+    [
+     0.3477,
+     0.4293,
+     0.4967
+    ],
+    [
+     0.4293,
+     0.5108,
+     0.4967
+    ],
+    [
+     0.5108,
+     0.5923,
+     0.4967
+    ],
+    [
+     0.5923,
+     0.6739,
+     0.4967
+    ],
+    [
+     0.6739,
+     0.7554,
+     0.4967
+    ],
+    [
+     0.7554,
+     0.8369,
+     0.4967
+    ],
+    [
+     0.8369,
+     0.9185,
+     0.4967
+    ],
+    [
+     0.9185,
+     1.0,
+     0.4967
+    ]
+   ],
+   "raw_path": "page-1942-99b5dc3b4c6c/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "9ef6826cefff75277ba64ef90ca9f778ed37eb4aedd6023c2d8d86ecb11e0236"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "6046 PHARMACY. Part II.",
+   "bbox": [
+    0.0,
+    0.0216,
+    1.0,
+    0.0483
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1942-99b5dc3b4c6c:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "6046",
+   "bbox": [
+    0.026,
+    0.0262,
+    0.0843,
+    0.0461
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "P H A R",
+   "bbox": [
+    0.3777,
+    0.0254,
+    0.4948,
+    0.0445
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "Prepara-tions.",
+   "bbox": [
+    0.0235,
+    0.0468,
+    0.0847,
+    0.0713
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "brought from Italy, are prepared in this manner. The odorous parts may be again feparated from the oil, and transferred into water or fpirit, by diftillation with thofe liquors.",
+   "bbox": [
+    0.0887,
+    0.0453,
+    0.4929,
+    0.1026
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b4"
+  },
+  {
+   "order": 5,
+   "class": "Section-header",
+   "text": "**SECT. IV.** _Confervation of recent Vegetables and their Infusions, &c. by Sugar and Honey._",
+   "bbox": [
+    0.0862,
+    0.105,
+    0.4968,
+    0.1377
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b5"
+  },
+  {
+   "order": 6,
+   "class": "Section-header",
+   "text": "§ 1. CONSERVES.",
+   "bbox": [
+    0.2215,
+    0.1385,
+    0.3586,
+    0.1539
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "454. CONSERVES are compotitions of recent vege- table matters and fugar beaten together into an uniform mafs.",
+   "bbox": [
+    0.0867,
+    0.1531,
+    0.4914,
+    0.1936
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "This management was introduced for preferving certain limples, undried, in an agreeable form, with as little alteration as poffible in their native virtues; and to fome subjects it is very advantageoufly applied. Vegetables, whole virtues are loft or deltroyed in drying, may in this form be kept uninjured for a length of time: for, by carefully focuring the mouth of the containing veffel, the alteration, as well as diffipation, of their active principles, is generally prevented ; and the fugar preserves them from the corruption which juicy vegetables would otherwise undergo.",
+   "bbox": [
+    0.0857,
+    0.1928,
+    0.4919,
+    0.3388
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "There are, however, fundry vegetables whose virtues are impaired by this treatment. Mucilaginous fulblances, by long lying with fugar, become leis glu-tinous, and affringents fentibly fofter upon the palate. Many of the fragrant flowers are of fo tender and delicate a texture, as almost entirely to lofe their peculiar qualities on being beaten or bruified.",
+   "bbox": [
+    0.0852,
+    0.338,
+    0.4909,
+    0.4314
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "In general, it is obvious, that in this form, on account of the large admixture of fugar, only fulblances of confiderable activity can be taken to advantage as medicines. And indeed, conserves are at present considered chiefly as auxiliaries to medicines of greater efficacy, or as intermediums for joining them together. They are very convenient for reducing into bolufes or pills the more ponderos powders, as mercurius dul-cis, the calces of iron, and other mineral preparations; which with liquid or lefs conflient matters, as fyrups, will not cohere.",
+   "bbox": [
+    0.0838,
+    0.4306,
+    0.4904,
+    0.5742
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "The shops were formerly encumbered with many conferences altogether infignificant ; the few now retain- ed have in general either an agreeable flavour to recommend them, or are capable of anfwering fome useful purposes as medicines. Their common dofe is the bulk of a nutmeg, or as much as can be taken up at once or twice upon the point of a knife. There is in general no great danger of exceeding in this particular.",
+   "bbox": [
+    0.0833,
+    0.5735,
+    0.49,
+    0.6927
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b11"
+  },
+  {
+   "order": 12,
+   "class": "Section-header",
+   "text": "## 455. General method of preferving conferences.",
+   "bbox": [
+    0.122,
+    0.6943,
+    0.4478,
+    0.7119
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "Leaves are picked from the flalke, and flowers from their cups. They are beaten in a marble mortar, with a wooden petite, into a fmooth mafs; after which thrice their weight of double-refined sugar is added by degrees, and the beating continued till they are uniformly mixed.",
+   "bbox": [
+    0.0828,
+    0.7111,
+    0.4895,
+    0.7943
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "The fugar should be pulverified by itself, and paffed through a lieve, before it is mixed with the vegetable mafs; othertwife it cannot easily be reduced to fufficient fineness, fo as to be duly incorporated. Some vegetables are fearce reducible to the requifite fineness by beating in a mortar; fuch is orange-peel. This is molt conveniently rafped or grated off from the fruit, then well mixed with the fugar, and the com-",
+   "bbox": [
+    0.0818,
+    0.7959,
+    0.4885,
+    0.9075
+   ],
+   "source": "s0-col-left",
+   "id": "page-1942-99b5dc3b4c6c:b14"
+  },
+  {
+   "order": 15,
+   "class": "Head-fragment",
+   "text": "M A C Y.",
+   "bbox": [
+    0.5001,
+    0.0246,
+    0.6302,
+    0.0445
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b15"
+  },
+  {
+   "order": 16,
+   "class": "Head-fragment",
+   "text": "Part II.",
+   "bbox": [
+    0.8923,
+    0.0254,
+    0.9707,
+    0.0438
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "pound fet by in a clofe veffel for fome weeks ; after which it may be beaten fmooth with confiderably lefs labour than at frit. This peel, and red rofe-buds, are commonly ground in a wooden mill made for that purpofe.",
+   "bbox": [
+    0.5012,
+    0.0453,
+    0.9092,
+    0.1156
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b17"
+  },
+  {
+   "order": 18,
+   "class": "Caption",
+   "text": "Preparations",
+   "bbox": [
+    0.9161,
+    0.0468,
+    0.9752,
+    0.0721
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b18"
+  },
+  {
+   "order": 19,
+   "class": "Section-header",
+   "text": "456. _Conferve of the leaves of garden feurvy-grafs_. L.",
+   "bbox": [
+    0.5125,
+    0.1187,
+    0.9022,
+    0.1363
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "This is the only form that feurvy-grafs in fubilance can be kept in without the total lois of its virtues. The conferve retains the full tafte and virtue of the herb for a very confiderable length of time, as a year or two, provided the veffel be made perfectly clofe and fet in a cool place. It may be given in feorbutic habits three or four times a-day, or oftener.",
+   "bbox": [
+    0.5016,
+    0.1355,
+    0.9097,
+    0.2311
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b20"
+  },
+  {
+   "order": 21,
+   "class": "Section-header",
+   "text": "457. _Conferve of the leaves of wood-forrel._ L.",
+   "bbox": [
+    0.5269,
+    0.2357,
+    0.8848,
+    0.2532
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "This is a very elegant and grateful conferve ; in tafte it is lightly acidulous, with a peculiar flavour, which fome refemble to that of green-tea. It is taken occasionally for quenching thirft, and cooling the mouth and fauces, in hot dittempers. It may be ufefully joined to the foregoing preparation, whole virtue it fomewhat promotes, at the fame time that it improves the tafte.",
+   "bbox": [
+    0.5021,
+    0.254,
+    0.9087,
+    0.3618
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b22"
+  },
+  {
+   "order": 23,
+   "class": "Section-header",
+   "text": "458. _Conferve of the leaves of fpearmint._ L.",
+   "bbox": [
+    0.5339,
+    0.3648,
+    0.8764,
+    0.3824
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "The conferve of mint retains the tafte and virtues of the herb. It is given in weakness of the flomach and retchings to vomit ; and not unfrequently does service in fome cafes of this kind, where the warmer and more active preparations of mint would be less proper.",
+   "bbox": [
+    0.5006,
+    0.3817,
+    0.9101,
+    0.4649
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b24"
+  },
+  {
+   "order": 25,
+   "class": "Section-header",
+   "text": "459. _Conferve of the leaves of rue._",
+   "bbox": [
+    0.5557,
+    0.4657,
+    0.8526,
+    0.4833
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b25"
+  },
+  {
+   "order": 26,
+   "class": "Text",
+   "text": "This conferve is given from a dram to half an ounce in crudities of the primæ vie, for promoting digestion, and in hyfteric diforders : it gently fituates the folids, attenuates vificid juices, and excites the natural secretions. Some have had a great opinion of it, taken in a morning, as a prefervative against the effects of contagious air or exbalation.",
+   "bbox": [
+    0.4996,
+    0.4825,
+    0.9082,
+    0.5796
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b26"
+  },
+  {
+   "order": 27,
+   "class": "Section-header",
+   "text": "460. _Conferve of the tops of tea-wormwood._ L.",
+   "bbox": [
+    0.5235,
+    0.5811,
+    0.8819,
+    0.598
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b27"
+  },
+  {
+   "order": 28,
+   "class": "Text",
+   "text": "The conferve of wormwood has been celebrated in dropties: Matthiolus relates, that feveral perfons were cured by it of that ditemper, without the afflitance of any other medicine. Where the diforder indeed proceeds from a limple laxity or flaccidity of the folids, the continued ufe of this medicine may be of fome service, as it appears to be a not inclegant mild corroborant. It is directed to be given in the dofe of half an ounce, about three hours before meals.",
+   "bbox": [
+    0.4982,
+    0.5987,
+    0.9077,
+    0.7195
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b28"
+  },
+  {
+   "order": 29,
+   "class": "Section-header",
+   "text": "461. _Conferve of the buds of red roofes._ L.",
+   "bbox": [
+    0.5369,
+    0.7225,
+    0.8615,
+    0.7394
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b29"
+  },
+  {
+   "order": 30,
+   "class": "Text",
+   "text": "This is a very agreeable and useful conferve. A dram or two, diffolved in warm milk, are frequently given as a light rethringent in weaknefs of the flo- mach, and likewise in coughs and phthifical complaints. In the German Ephemerides, examples are related of very dangerous phthifes cured by the con-tinued ufe of this medicine : in one of thefe cafes, 20 pounds of the conferve were taken in the space of a month; and in another, upwards of 30. Riverius mentions several other influences of this kind.",
+   "bbox": [
+    0.4971,
+    0.7386,
+    0.9072,
+    0.8716
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b30"
+  },
+  {
+   "order": 31,
+   "class": "Section-header",
+   "text": "462. _Conferve of rofemary-flowers_. L.",
+   "bbox": [
+    0.5443,
+    0.8754,
+    0.8451,
+    0.8907
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b31"
+  },
+  {
+   "order": 32,
+   "class": "Text",
+   "text": "Rofemary-flowers in great meature lofe their pecu-liar",
+   "bbox": [
+    0.517,
+    0.8891,
+    0.8987,
+    0.9166
+   ],
+   "source": "s0-col-right",
+   "id": "page-1942-99b5dc3b4c6c:b32"
+  }
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1765",
+ "row_index": 1765,
+ "volume_id": "192547785",
+ "filename": "page-1765-1e78e19e88aa.jpg",
+ "image_sha256": "1e78e19e88aaf40a7bd00e0b6aa80d85e71c8e99f2ae6cb788aeaa32838e45b3",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09412,
+  "median_grey": 207,
+  "layout_body_chars": 6639,
+  "layout_pictures": 0
+ },
+ "running_head": "K A L [ 421 ] K A L",
+ "layout_raw": "page-1765-1e78e19e88aa/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0372,
+    1.0,
+    0.0632
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1765-1e78e19e88aa/head.json",
+   "finish_reason": "stop",
+   "request_key": "689f17d33a4d03edac3c07cd25e2d98f50cdbbbd1f39660485dd209fe6131721"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0372,
+    0.485,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0372,
+     0.1174,
+     0.48
+    ],
+    [
+     0.1174,
+     0.1977,
+     0.4767
+    ],
+    [
+     0.1977,
+     0.2779,
+     0.4767
+    ],
+    [
+     0.2779,
+     0.3581,
+     0.4767
+    ],
+    [
+     0.3581,
+     0.4384,
+     0.4767
+    ],
+    [
+     0.4384,
+     0.5186,
+     0.4767
+    ],
+    [
+     0.5186,
+     0.5988,
+     0.4767
+    ],
+    [
+     0.5988,
+     0.6791,
+     0.4767
+    ],
+    [
+     0.6791,
+     0.7593,
+     0.4767
+    ],
+    [
+     0.7593,
+     0.8395,
+     0.4767
+    ],
+    [
+     0.8395,
+     0.9198,
+     0.4767
+    ],
+    [
+     0.9198,
+     1.0,
+     0.4767
+    ]
+   ],
+   "raw_path": "page-1765-1e78e19e88aa/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "6594d9481374dc01e48d5f3c44e0af35f9d6852ad62273c5239ba3cbfd368628"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4717,
+    0.0372,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0372,
+     0.1174,
+     0.48
+    ],
+    [
+     0.1174,
+     0.1977,
+     0.4767
+    ],
+    [
+     0.1977,
+     0.2779,
+     0.4767
+    ],
+    [
+     0.2779,
+     0.3581,
+     0.4767
+    ],
+    [
+     0.3581,
+     0.4384,
+     0.4767
+    ],
+    [
+     0.4384,
+     0.5186,
+     0.4767
+    ],
+    [
+     0.5186,
+     0.5988,
+     0.4767
+    ],
+    [
+     0.5988,
+     0.6791,
+     0.4767
+    ],
+    [
+     0.6791,
+     0.7593,
+     0.4767
+    ],
+    [
+     0.7593,
+     0.8395,
+     0.4767
+    ],
+    [
+     0.8395,
+     0.9198,
+     0.4767
+    ],
+    [
+     0.9198,
+     1.0,
+     0.4767
+    ]
+   ],
+   "raw_path": "page-1765-1e78e19e88aa/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "a788552fa4e7349c666e3e6ab43a950ace09824f11d2c20d000a27c48c2a9cd7"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "K A L [ 421 ] K A L",
+   "bbox": [
+    0.0,
+    0.0372,
+    1.0,
+    0.0632
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1765-1e78e19e88aa:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**K A L** [ 42",
+   "bbox": [
+    0.1961,
+    0.0417,
+    0.484,
+    0.0628
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1765-1e78e19e88aa:b1"
+  },
+  {
+   "order": 2,
+   "class": "Margin-note",
+   "text": "Kalmucs,",
+   "bbox": [
+    0.0194,
+    0.0635,
+    0.0839,
+    0.0914
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-left",
+   "id": "page-1765-1e78e19e88aa:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "and choleric temperament, they live more amicably to-gether than one could expect in a people that lead to independent a life. They feldom come to blows even over their cups, and their quarrels are hardly ever bloody. A murder very rarely happens, though their anger has fomething in it exceedingly fierce. It would feem that the morality of their religion, though exceedingly idolatrous, has been able to moderate their natural difponition in this respect; for in consequence of their dogmas, with regard to the tranfmigration of fouls, every wanton murder either of men or beafts is thought a deadly fin.",
+   "bbox": [
+    0.0791,
+    0.0643,
+    0.4703,
+    0.2223
+   ],
+   "source": "s0-col-left",
+   "id": "page-1765-1e78e19e88aa:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "The Kalmucs are exceedingly affable; and of foicial a difponition, that it is rare for a traveller to perceive another, even at the distance of feveral miles, without going to falute him, and to inquire into the object of his journey. When a troop of Kalmucs perceive any perfon at a distance, it is customary for them to detach one of their number to the next eminence, from whence he makes a fignal with his cap for the perforn to draw near. If this fignal is not obeyed, the perforn is confidered as an enemy or a robber, and is often purified as fuch. They enter willingly into friendships: but thefe connexions are not quite differented; for to give and to receive prefents are with them effential articles. A mere trifle, however, is fuficient to induce them to do you all manner of fervice; and they are never ungrateful as far as they are able. Adverity cannot deprive them of courage nor alter their good humour. A Kalmuc will never beg if he were in the extremelt mifery, but rather endeavour to acquire a fubfilfence by cheating : and when no other way remains, he will hire himself to fome rich individual of his nation, or to fome Ruflian, either as a herdfman, a filherman, or for any other fort of labour. Very few of the rich value themselves much upon their wealth: but thofe who do, how no contempt for the poor of their own nation; though the meaner fort pay their court very obfequioufly to the rich, who are always furrounded with a fwarm of idle dependants.",
+   "bbox": [
+    0.0777,
+    0.2215,
+    0.4684,
+    0.6021
+   ],
+   "source": "s0-col-left",
+   "id": "page-1765-1e78e19e88aa:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "Nothing can be more prudent than that exercife of holpitality practified by wandering nations: it is of the greatest advantage to those among them who travel acrofs their defects; and each individual who practifes it, may rely on reaping the benefit of it wherever he goes. A Kalmuc provided with a horfe, with arms and equipage, may ramble from one place to another for three months together, without taking with him either money or provilions. Wherever he comes he finds either distant relations or friends, to whom he is attached by the ties of holpitality, from whom he meets with the kindelt reception, and is entertained in the best manner their circumstances afford. Perhaps he lodges in the first unknown cottage he finds upon his road; and fearc has he entered it, but his wants are fupplied with the most affectionate cordiality. Every stranger, of whatfoever nation, never fails to be well received by a Kalmuc; and he may depend upon having his effects in the greaterf security the moment he has put himself under the protection of his hoft : for to rob a guet is confidered by the Kalmucs as the moft abominable of all crimes.",
+   "bbox": [
+    0.0772,
+    0.6013,
+    0.4679,
+    0.8901
+   ],
+   "source": "s0-col-left",
+   "id": "page-1765-1e78e19e88aa:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "When the matter of the houfe fits down to meat in company with others of inferior rank, he begins in-",
+   "bbox": [
+    0.0781,
+    0.8909,
+    0.4665,
+    0.9203
+   ],
+   "source": "s0-col-left",
+   "id": "page-1765-1e78e19e88aa:b6"
+  },
+  {
+   "order": 7,
+   "class": "Page-footer",
+   "text": "3",
+   "bbox": [
+    0.2543,
+    0.9195,
+    0.2709,
+    0.9331
+   ],
+   "source": "s0-col-left",
+   "id": "page-1765-1e78e19e88aa:b7"
+  },
+  {
+   "order": 8,
+   "class": "Head-fragment",
+   "text": "I 1 K A L",
+   "bbox": [
+    0.4799,
+    0.0425,
+    0.7565,
+    0.0613
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1765-1e78e19e88aa:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "deed by ferving himself and his family, but whatever remains is distributed among the affilants. When they fmoke tobacco, the pipe circulates inceffantly from one to another. When any one receives a prefect either of meat or drink, he divides it faithfully with his com-panions, even though of inferior rank. But they are much more niggardly of their other effects, and efpeci- ally of their cattle, and do not willingly give thefe away except when they hope to receive a fuitable return : or if any relation has accidentally suffered the lofs of his flocks, he is fure to be moft willingly afflicted. Perhaps too it may be related as an article of their hopitality, that they abandon their wives to their friends with the greatest facility, and in general they are very little inclined to jealoufy.",
+   "bbox": [
+    0.4815,
+    0.062,
+    0.8715,
+    0.2606
+   ],
+   "source": "s0-col-right",
+   "id": "page-1765-1e78e19e88aa:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "Their robberies are never committed upon their equals, and even the greater part of the rapine exer- cifed on other tribes is founded on hatred or national quarrels; neither do they willingly attempt this by open force, but prefer the machinations of cunning, which are fo natural to them. It muff alfo be con- fefed, that it is only thofe that live with princes, and in camps where thefe hold their courts, or their priets, that are moft addicted to thefe practices; while the common people, fatisified with the pleafures of the pat-toral life, fpend their days in innocent limplicity, and never attack the property of another till forced by ne- ceffity, or led by their superiors who flow them the ex- ample.",
+   "bbox": [
+    0.482,
+    0.2599,
+    0.871,
+    0.4434
+   ],
+   "source": "s0-col-right",
+   "id": "page-1765-1e78e19e88aa:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "The Kalmucs are very faithful to their lawful prince; they endure every fort of oppreflion, and yet are with difficulty induced to revolt; but if they belong to a prince who has not become fo by right of fucceffion, they very easily rebel. They honour old age. When young men travel with fuch as are older than themfelves they take upon them the whole care of the cattle as well as of the feaft. They are exceedingly pru- dent in matters that relate to their foveaign or their nation, or which are recommended to their direction by the priets, to whom they yield an unreferved obe- dience.",
+   "bbox": [
+    0.481,
+    0.4426,
+    0.8705,
+    0.5999
+   ],
+   "source": "s0-col-right",
+   "id": "page-1765-1e78e19e88aa:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "The moveable habitations of the Kalmucs are thofe felt huts with a conical roof in ufe among all the roaming Afiatics. The truly ingenious invention of thefe tents was undoubtedly conceived in the eastern parts of Afia, and moft probably by the Mongul nations. As they can be entirely taken to pieces and folded in a small compats, they are very useful, and perfectly agree with the migratory life of thefe people, who are fill ignorant of the ufe of carriages. The frame of thefe huts, and the felt they are covered with, though made as light as pofible, yet are a sufficient load for a camel or two oxen. But the capacity of thefe huts, their warmth in winter, their strength in refitting tempeits and excluding rain, abundantly com- penlate for this inconvenience. The wood endures many years; and though the felt begins to break into holes in the second year, the common people, who do not confider it as difgraceful to have them mended and patched, make them ferve a good deal longer. The huts are in general ufe from the prince down to the meaneft Kalmuc, differing only in size and in the em- bellithments within. In winter, they are warm even when heated with the dried excrements of their cattle, to which they are often obliged to have recourfe, for",
+   "bbox": [
+    0.4805,
+    0.6006,
+    0.87,
+    0.9173
+   ],
+   "source": "s0-col-right",
+   "id": "page-1765-1e78e19e88aa:b12"
+  },
+  {
+   "order": 13,
+   "class": "Margin-note",
+   "text": "Kalmucs",
+   "bbox": [
+    0.8726,
+    0.0605,
+    0.9448,
+    0.0869
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-1765-1e78e19e88aa:b13"
+  }
+ ]
+}

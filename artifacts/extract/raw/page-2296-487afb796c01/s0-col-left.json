@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "797a3ee688ad00ecfc16a60d79dd430cec678a8ddeb3fa0f7f5030340f525a7b",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "b6a6842833cc6795aed474292ed40c0c51e1003657f577e786ca46b3f57e75b9",
+  "image_bytes": 1860057,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2296",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0325,
+   0.48,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0325,
+    0.1131,
+    0.46
+   ],
+   [
+    0.1131,
+    0.1938,
+    0.4617
+   ],
+   [
+    0.1938,
+    0.2744,
+    0.4667
+   ],
+   [
+    0.2744,
+    0.355,
+    0.4533
+   ],
+   [
+    0.355,
+    0.4356,
+    0.4683
+   ],
+   [
+    0.4356,
+    0.5162,
+    0.4433
+   ],
+   [
+    0.5162,
+    0.5969,
+    0.4717
+   ],
+   [
+    0.5969,
+    0.6775,
+    0.475
+   ],
+   [
+    0.6775,
+    0.7581,
+    0.4733
+   ],
+   [
+    0.7581,
+    0.8387,
+    0.475
+   ],
+   [
+    0.8387,
+    0.9194,
+    0.475
+   ],
+   [
+    0.9194,
+    1.0,
+    0.4567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2767,
+  "completion_tokens": 1095,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.27,
+ "created_at": "2026-10-18T11:21:14+00:00",
+ "content": "<x_0.4561><y_0.0063>**P OL**<x_0.6611><y_0.0297><class_Title>\n\n<x_0.0693><y_0.032>Pele.<x_0.2051><y_0.0625><class_Picture>\n\n<x_0.2061><y_0.0289>Ankudinoff’s veffel was wrecked, and the crew ditri-\nbuted among the other two. Soon after this the two\nveffels loft light of each other, and never joined again.\nDelhoff was driven about by tempelluous winds till\nOctober, when he was flipwrecked confidarably to the\nfourth of the Andyr. Having at last reached that ri-\nver, he formed a scheme of returning by the fame way\nthat he had come, but never made the attempt. As\nfor Alexeeff, after being alfo hipwrecked, he had died\nof the furry, together with Ankudinoff; part of the\ncrew were killed by the favages, and a few escaped to\nKamfchatka, where they fettled.\"<x_0.9717><y_0.1906><class_Text>\n\n<x_0.082><y_0.1867>See\nCook's\n_Difcore-_\nrier, no 95 -100<x_0.2168><y_0.2445><class_Caption>\n\n<x_0.2158><y_0.1836>From Captain * Cook's voyage towards the north-\neaftern parts of Afia, it appears that it is polible to\ndouble the promontory of Tichutki without any great\ndifficulty: and it now appears, that the continents of\nAfia and America are feparated from one another but\nby a narrow fitrait, which is free from ice; but, to tl\nnorthwards, that experienced navigator was everywhere\ntopped by the ice in the month of August, fo that I\ncould neither trace the American continent farther th\nto the latitude of 70°, nor reach the mouth of the riv\nKovyma on the Afiatic continent; though it is pr\nbable that this might have been done at another tim.,\nwhen the situation of the ice was altered either by winds\nor currents.<x_0.9756><y_0.3695><class_Text>\n\n<x_0.0898><y_0.3711>Infur-\nmountable\nobtacles\nin the\nnorth-east\npallage.<x_0.2227><y_0.4477><class_Caption>\n\n<x_0.2285><y_0.3641>On the whole, therefore, it appears that the infur-\nmountable obtacle in the north-east pallage lies between\nthe rivers Pialida and Chatanga; and unlefs there be in\nthat space a connection between the Afiatic and Amer-\nrican continents, there is not in any other part.\nhowever, is as effectual an obstruction as land :\nthough the voyage were to be made by accident\nonce, it never could be efteemed a paffage calcul\nfor the purposes of trade, or any other beneficial\npole whatever.<x_0.9785><y_0.4977><class_Text>\n\n<x_0.0908><y_0.4945>Of the\nnorth-weft\npallage.<x_0.2246><y_0.5398><class_Caption>\n\n<x_0.2354><y_0.4922>With regard to the north-weft pallage, the fame ... ficulties occur as in the other. Captain Cook's voyage\nhas now affured us, that if there is any fitait which di-\nvides the continent of America into two, it muit lie in\na higher latitude than 70°, and consequently be perpe-\ntually frozen up. If a north-weft pallage can be found\nthen, it muit be by failing round the whole American\ncontinent, instead of feeking a pallage through it, which\nfome have supposed to exit at the bottom of Baffin's\nbay. But the extent of the American continent to the\nnorthward is yet unknown; and there is a profilibility of\nits being joined to that part of Afia between the Pialida\nand Chatanga, which has never yet been circumnaviga-\nted\\*. It remains therefore to confer, whether there\nis any polibility of attaining the wilhed-for pallage by\nfailing directly north, between the eastern and weftern\ncontinents.<x_0.9912><y_0.7148><class_Text>\n\n<x_0.0918><y_0.6656>See\nCook's\n_Difcore-_\nrier, no 21.<x_0.2432><y_0.7125><class_Caption>\n\n<x_0.1084><y_0.7133>3 Barring-\nton's argu-\nments in\nfavour of\na possibility\nof reaching\nthe pole.<x_0.2441><y_0.7992><class_Caption>\n\n<x_0.2402><y_0.7094>Of the practicability of this method, the Honourable\nDaines Barrington is very confident, as appears by fe-\nveral tracts which he published in the years 1775 and\n1776, in consequence of the unfucceful attempts\nmade by Captain Phipps, now Lord Mulgrave. See\n_Noonth-Keft Paffage._— In the tracks now alluded to\nhe influences a great number of navigators who have\nreached very high northern latitudes; nay, fome who\nhave been at the pole itself, or gone beyond it.—\nThefe influences are, 1. One Captain Thomas Robertlon\naffured our author, that he had been in latitude 824,\nthat the fea was open, and he was certain that he could<x_0.9932><y_0.8719><class_Text>",
+ "reply": {
+  "id": "chatcmpl-3bbff715-fb73-43c7-8568-08be6a7cc6eb",
+  "object": "chat.completion",
+  "created": 1792322473,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4561><y_0.0063>**P OL**<x_0.6611><y_0.0297><class_Title>\n\n<x_0.0693><y_0.032>Pele.<x_0.2051><y_0.0625><class_Picture>\n\n<x_0.2061><y_0.0289>Ankudinoff’s veffel was wrecked, and the crew ditri-\nbuted among the other two. Soon after this the two\nveffels loft light of each other, and never joined again.\nDelhoff was driven about by tempelluous winds till\nOctober, when he was flipwrecked confidarably to the\nfourth of the Andyr. Having at last reached that ri-\nver, he formed a scheme of returning by the fame way\nthat he had come, but never made the attempt. As\nfor Alexeeff, after being alfo hipwrecked, he had died\nof the furry, together with Ankudinoff; part of the\ncrew were killed by the favages, and a few escaped to\nKamfchatka, where they fettled.\"<x_0.9717><y_0.1906><class_Text>\n\n<x_0.082><y_0.1867>See\nCook's\n_Difcore-_\nrier, no 95 -100<x_0.2168><y_0.2445><class_Caption>\n\n<x_0.2158><y_0.1836>From Captain * Cook's voyage towards the north-\neaftern parts of Afia, it appears that it is polible to\ndouble the promontory of Tichutki without any great\ndifficulty: and it now appears, that the continents of\nAfia and America are feparated from one another but\nby a narrow fitrait, which is free from ice; but, to tl\nnorthwards, that experienced navigator was everywhere\ntopped by the ice in the month of August, fo that I\ncould neither trace the American continent farther th\nto the latitude of 70°, nor reach the mouth of the riv\nKovyma on the Afiatic continent; though it is pr\nbable that this might have been done at another tim.,\nwhen the situation of the ice was altered either by winds\nor currents.<x_0.9756><y_0.3695><class_Text>\n\n<x_0.0898><y_0.3711>Infur-\nmountable\nobtacles\nin the\nnorth-east\npallage.<x_0.2227><y_0.4477><class_Caption>\n\n<x_0.2285><y_0.3641>On the whole, therefore, it appears that the infur-\nmountable obtacle in the north-east pallage lies between\nthe rivers Pialida and Chatanga; and unlefs there be in\nthat space a connection between the Afiatic and Amer-\nrican continents, there is not in any other part.\nhowever, is as effectual an obstruction as land :\nthough the voyage were to be made by accident\nonce, it never could be efteemed a paffage calcul\nfor the purposes of trade, or any other beneficial\npole whatever.<x_0.9785><y_0.4977><class_Text>\n\n<x_0.0908><y_0.4945>Of the\nnorth-weft\npallage.<x_0.2246><y_0.5398><class_Caption>\n\n<x_0.2354><y_0.4922>With regard to the north-weft pallage, the fame ... ficulties occur as in the other. Captain Cook's voyage\nhas now affured us, that if there is any fitait which di-\nvides the continent of America into two, it muit lie in\na higher latitude than 70°, and consequently be perpe-\ntually frozen up. If a north-weft pallage can be found\nthen, it muit be by failing round the whole American\ncontinent, instead of feeking a pallage through it, which\nfome have supposed to exit at the bottom of Baffin's\nbay. But the extent of the American continent to the\nnorthward is yet unknown; and there is a profilibility of\nits being joined to that part of Afia between the Pialida\nand Chatanga, which has never yet been circumnaviga-\nted\\*. It remains therefore to confer, whether there\nis any polibility of attaining the wilhed-for pallage by\nfailing directly north, between the eastern and weftern\ncontinents.<x_0.9912><y_0.7148><class_Text>\n\n<x_0.0918><y_0.6656>See\nCook's\n_Difcore-_\nrier, no 21.<x_0.2432><y_0.7125><class_Caption>\n\n<x_0.1084><y_0.7133>3 Barring-\nton's argu-\nments in\nfavour of\na possibility\nof reaching\nthe pole.<x_0.2441><y_0.7992><class_Caption>\n\n<x_0.2402><y_0.7094>Of the practicability of this method, the Honourable\nDaines Barrington is very confident, as appears by fe-\nveral tracts which he published in the years 1775 and\n1776, in consequence of the unfucceful attempts\nmade by Captain Phipps, now Lord Mulgrave. See\n_Noonth-Keft Paffage._— In the tracks now alluded to\nhe influences a great number of navigators who have\nreached very high northern latitudes; nay, fome who\nhave been at the pole itself, or gone beyond it.—\nThefe influences are, 1. One Captain Thomas Robertlon\naffured our author, that he had been in latitude 824,\nthat the fea was open, and he was certain that he could<x_0.9932><y_0.8719><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2767,
+   "completion_tokens": 1095,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

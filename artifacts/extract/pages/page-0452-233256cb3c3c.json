@@ -1,0 +1,20 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:452",
+ "row_index": 452,
+ "volume_id": "144850376",
+ "filename": "page-0452-233256cb3c3c.jpg",
+ "image_sha256": "233256cb3c3c25e03e847aa65e26f3e82cd05f8ef6e302c7ce69fe42a042f2cf",
+ "status": "cover",
+ "status_evidence": {
+  "ink_fraction": 0.0,
+  "median_grey": 91,
+  "layout_body_chars": 0,
+  "layout_pictures": 0
+ },
+ "running_head": "",
+ "layout_raw": "page-0452-233256cb3c3c/layout.json",
+ "layout_finish_reason": "length",
+ "regions": [],
+ "unfinished_regions": [],
+ "blocks": []
+}

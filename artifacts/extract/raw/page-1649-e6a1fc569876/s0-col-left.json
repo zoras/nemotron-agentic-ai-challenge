@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "cca6bd167e5f0b0db051dee8b09f97957af7dceb0f3da540acfc69b188fef2fd",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "b816e4c70475af6ab34a1c9d11f662c9c19baed2df8b9be0987079e429ae82f1",
+  "image_bytes": 1846344,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1649",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0309,
+   0.4783,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0309,
+    0.1117,
+    0.4667
+   ],
+   [
+    0.1117,
+    0.1924,
+    0.4733
+   ],
+   [
+    0.1924,
+    0.2732,
+    0.4733
+   ],
+   [
+    0.2732,
+    0.3539,
+    0.4733
+   ],
+   [
+    0.3539,
+    0.4347,
+    0.4733
+   ],
+   [
+    0.4347,
+    0.5155,
+    0.4733
+   ],
+   [
+    0.5155,
+    0.5962,
+    0.4733
+   ],
+   [
+    0.5962,
+    0.677,
+    0.4733
+   ],
+   [
+    0.677,
+    0.7577,
+    0.4733
+   ],
+   [
+    0.7577,
+    0.8385,
+    0.4733
+   ],
+   [
+    0.8385,
+    0.9192,
+    0.4733
+   ],
+   [
+    0.9192,
+    1.0,
+    0.4733
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2537,
+  "completion_tokens": 865,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.34,
+ "created_at": "2026-10-18T11:20:10+00:00",
+ "content": "<x_0.4375><y_0.0055>C H I [ 6<x_0.9785><y_0.0266><class_Page-header>\n\n<x_0.0693><y_0.0273>Chivaly, and they extend their influence equally through the whole fyttem. Difference of armour, and different modes of military dificipline, produce difinction of orders among those who practife the arts of war; while other circumstances, originating from the fame general caufes, occasion familiar changes to take place amid the fcenes of peace.<x_0.9707><y_0.1234><class_Text>\n\n<x_0.0586><y_0.1156>6 Thediftiec-tion introduced into the military order by the ufe of cavalry.<x_0.2041><y_0.2078><class_Caption>\n\n<x_0.2031><y_0.1227>None of the new diffinctions which are introduced among men, with respect to the dificipline and conduct of war, in consequence of the acquitition of property and the invention of arts, is more remarkable than that occasioned by the ufe of horles in military expeditions, and the training of them to the evolutions of the military art. Fire-arms, it is true, give to those who are acquainted with them a greater superiority over those to whom their ufe is unknown than what the herfeman poffelles over him who fights on foot. But the ufe of fire-arms is of fuch importance in war, and the expense attending it fo inconfirderable, that wherever there have been introduced, they have feldom been confined to one particular order in an army; and therefore they produce indeed a remarkable, though tranfient, diflinction among different nations; but effablith no permanent distinctions in the armies of any one nation. But to maintain a horse, to equip him with cofly furniture, to manage him with dexterity and vigour, are circumstances which have invariably produced a standing and conspicuous difliction among the military order, wherever bodies of cavalry have been formed. The Roman _equites_, who, though they became at length a body of ufurers and farmers general, were originally the only body of cavalry employed by the fate, occupied a respectable rank between the fenators and the plebeians; and the elegance and humanity of their manners were fuitable to their rank. In ancient Greece, and in the celebrated monarchies of Afia, the fame difliction prevail ed at a fimilar period.<x_0.9766><y_0.5422><class_Text>\n\n<x_0.0732><y_0.5391>7 Military di- finitions a mong the ancient Germans.<x_0.2148><y_0.6078><class_Caption>\n\n<x_0.2139><y_0.5414>Since the circumstances and principles on which this difliction depends are not fuch as muft be con-fined in their influence to one particular nation, or one region of the globe, we may hope to trace their effects among the favage warriors of Seythia and Ger many, as well as among the Greeks or Romans. From the valuable treatife of Tacitus _de moribus Ger-manorum_, we learn, that among the German warriors a difliction fomewhat of this nature did actually fubfit; not fo much indeed a difliction between the warrior who fought on horfeback and those who fought on foot, as between those whom vigour of body and energy of mind enabled to brave all the dangers of war, and fuch as, from the imbecility of youth, the infirmities of age, or the natural inferiority of their mental and bodily powers, were unequal to fcenes of hardship and deeds of valour. The youth was not permitted to take arms and join his warlike countrymen in their military expeditions whenever he himself thought proper. There was a certain age before which he could not be invited with armour. When he had attained that period, if not found deficient in flrength, activity, or courage, he was formally honoured with the field and the lance, called to the duties, and admitted to all the privileges, of a warrior.<x_0.9902><y_0.8797><class_Text>\n\n<x_0.2178><y_0.8805>Another fact worthy of notice reflecting the manners of the barbarians of Germany before they ella-<x_0.9854><y_0.9094><class_Text>\n\n<x_0.2559><y_0.907>Vor. IV. Part II.<x_0.5195><y_0.9211><class_Text>",
+ "reply": {
+  "id": "chatcmpl-43abc2ec-b929-4be6-bca4-0fe9d779eb9f",
+  "object": "chat.completion",
+  "created": 1792322409,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4375><y_0.0055>C H I [ 6<x_0.9785><y_0.0266><class_Page-header>\n\n<x_0.0693><y_0.0273>Chivaly, and they extend their influence equally through the whole fyttem. Difference of armour, and different modes of military dificipline, produce difinction of orders among those who practife the arts of war; while other circumstances, originating from the fame general caufes, occasion familiar changes to take place amid the fcenes of peace.<x_0.9707><y_0.1234><class_Text>\n\n<x_0.0586><y_0.1156>6 Thediftiec-tion introduced into the military order by the ufe of cavalry.<x_0.2041><y_0.2078><class_Caption>\n\n<x_0.2031><y_0.1227>None of the new diffinctions which are introduced among men, with respect to the dificipline and conduct of war, in consequence of the acquitition of property and the invention of arts, is more remarkable than that occasioned by the ufe of horles in military expeditions, and the training of them to the evolutions of the military art. Fire-arms, it is true, give to those who are acquainted with them a greater superiority over those to whom their ufe is unknown than what the herfeman poffelles over him who fights on foot. But the ufe of fire-arms is of fuch importance in war, and the expense attending it fo inconfirderable, that wherever there have been introduced, they have feldom been confined to one particular order in an army; and therefore they produce indeed a remarkable, though tranfient, diflinction among different nations; but effablith no permanent distinctions in the armies of any one nation. But to maintain a horse, to equip him with cofly furniture, to manage him with dexterity and vigour, are circumstances which have invariably produced a standing and conspicuous difliction among the military order, wherever bodies of cavalry have been formed. The Roman _equites_, who, though they became at length a body of ufurers and farmers general, were originally the only body of cavalry employed by the fate, occupied a respectable rank between the fenators and the plebeians; and the elegance and humanity of their manners were fuitable to their rank. In ancient Greece, and in the celebrated monarchies of Afia, the fame difliction prevail ed at a fimilar period.<x_0.9766><y_0.5422><class_Text>\n\n<x_0.0732><y_0.5391>7 Military di- finitions a mong the ancient Germans.<x_0.2148><y_0.6078><class_Caption>\n\n<x_0.2139><y_0.5414>Since the circumstances and principles on which this difliction depends are not fuch as muft be con-fined in their influence to one particular nation, or one region of the globe, we may hope to trace their effects among the favage warriors of Seythia and Ger many, as well as among the Greeks or Romans. From the valuable treatife of Tacitus _de moribus Ger-manorum_, we learn, that among the German warriors a difliction fomewhat of this nature did actually fubfit; not fo much indeed a difliction between the warrior who fought on horfeback and those who fought on foot, as between those whom vigour of body and energy of mind enabled to brave all the dangers of war, and fuch as, from the imbecility of youth, the infirmities of age, or the natural inferiority of their mental and bodily powers, were unequal to fcenes of hardship and deeds of valour. The youth was not permitted to take arms and join his warlike countrymen in their military expeditions whenever he himself thought proper. There was a certain age before which he could not be invited with armour. When he had attained that period, if not found deficient in flrength, activity, or courage, he was formally honoured with the field and the lance, called to the duties, and admitted to all the privileges, of a warrior.<x_0.9902><y_0.8797><class_Text>\n\n<x_0.2178><y_0.8805>Another fact worthy of notice reflecting the manners of the barbarians of Germany before they ella-<x_0.9854><y_0.9094><class_Text>\n\n<x_0.2559><y_0.907>Vor. IV. Part II.<x_0.5195><y_0.9211><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2537,
+   "completion_tokens": 865,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

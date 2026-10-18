@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "55b47ed272fae218acd6f3413832231b2cd0d06507803f141d103c00da10e433",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "76fb8a9eb23ede794dc8657abe6090777674e6b571124ec0cb287ee565cd276f",
+  "image_bytes": 1940651,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1649",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4683,
+   0.06,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.06,
+    0.1455,
+    0.4733
+   ],
+   [
+    0.1455,
+    0.2309,
+    0.4733
+   ],
+   [
+    0.2309,
+    0.3164,
+    0.4733
+   ],
+   [
+    0.3164,
+    0.4018,
+    0.4733
+   ],
+   [
+    0.4018,
+    0.4873,
+    0.4733
+   ],
+   [
+    0.4873,
+    0.5727,
+    0.4733
+   ],
+   [
+    0.5727,
+    0.6582,
+    0.4733
+   ],
+   [
+    0.6582,
+    0.7436,
+    0.4733
+   ],
+   [
+    0.7436,
+    0.8291,
+    0.4733
+   ],
+   [
+    0.8291,
+    0.9145,
+    0.4733
+   ],
+   [
+    0.9145,
+    1.0,
+    0.4733
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2790,
+  "completion_tokens": 862,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.4,
+ "created_at": "2026-10-18T11:11:07+00:00",
+ "content": "<x_0.0078><y_0.0>blified themfelves in the cultivated provinces of the Roman empire is, that their women, contrary to what we find among many other rude nations, were treated with an high degree of respect. They did not generally vie with the men in deeds of valour, but they animated them by their exhortations to diftinguith themfelves in the field; and virgins especially were confidered with a faced vencration, as endowed with prophetic powers, capable to forefee events hid in the womb of futurity, and even to influence the will of the deities. Hence, though domestic duties were their peculiar province, yet they were not hardly treated nor confined to a flate of slavery. There appears indeed a friking analogy between the condition of the women among the rude foldiers of Sparta and the rank which they occupied among the warlike cantons of Germany. Perhaps, indeed, the German were fill more honourable than the Spartan women; as they were taught to wield the magic weapons of fupertition, which in Greece were appropriated to the priets.<x_0.7041><y_0.2773><class_Text>\n\n<x_0.0146><y_0.2766>It appears, therefore, that, in the foreths of Germany at least, if not in the more northern regions of Afia and Europe, the conquerors of the Roman empire, before they penetrated into its provinces, treated their women with a degree of respect unknown to most of the nations of antiquity; that the character of the warrior was likewise highly honourable, being understood to unite all those qualities which were in the highest elimination; and that it was only at a particular age, and with certain forms, that the youth were admitted to bear arms.<x_0.7051><y_0.4297><class_Text>\n\n<x_0.0166><y_0.4289>When thofe nations fallied from their deferts and forets, over-ran the Roman empire, and established themselves in its provinces, the change which took place on their circumstances was remarkable; and by a natural influence, it could not but produce an equally remarkable change on their habits, cultures, and manners. The great outlines might fill remain; but they could not now fail to be filled up in a different manner. Here, however, the records of history are peculiarly imperfect. We have no Czfar or Tacitus to lupply facts or direct our reafonings; the Gothic nations had not yet learned to read and write; and the Romans were fo depreiled under the fenfe of their own mificries, as to be negligent of the changes which happened around them. But as foon as the light of history begins again to dawn, we find that the leading features of the barbarian character were not effaced, but only modified in a particular manner, in consequence of their mixing among a more polified people, becoming acquainted with the luxuries of life, and acquiring extenfive power and property.<x_0.7061><y_0.7242><class_Text>\n\n<x_0.0176><y_0.7234>Thofe who fought on horfeback now began to be diltinguished with peculiar honours. The manners of the warrior too were become more cultivated, and his spirit more humane. Leifure and opulence, with the influence of a polished people, even though in a flate of slavery, taught thofe barbarians to afpire after more refined pleafures and more fplendid amufements than thofe which they had been before fatistified with. The influence of Christianity too, which, though grofsly corrupted, was still favourable to the focal happiness of mankind, concurred to polish their manners and exalt their character. Hence, in the end of the tenth and in the beginning of the eleventh century, we fea<x_0.7148><y_0.907><class_Text>\n\n<x_0.3389><y_0.9055>4 T knight-<x_0.7129><y_0.9234><class_Page-footer>\n\n<x_0.7021><y_0.0>Chivalry<x_0.8262><y_0.0086><class_Caption>\n\n<x_0.6953><y_0.0375>8 Reflectability of the woman a momg the Germans.<x_0.832><y_0.107><class_Caption>\n\n<x_0.7031><y_0.4203>Changes in the manners of the barbarians after they fetted in the Roman Empire, which gave life to chivalry.<x_0.8398><y_0.5555><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-299b4075-bfa3-46fd-a2d8-6a2371dc0f73",
+  "object": "chat.completion",
+  "created": 1792321866,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0>blified themfelves in the cultivated provinces of the Roman empire is, that their women, contrary to what we find among many other rude nations, were treated with an high degree of respect. They did not generally vie with the men in deeds of valour, but they animated them by their exhortations to diftinguith themfelves in the field; and virgins especially were confidered with a faced vencration, as endowed with prophetic powers, capable to forefee events hid in the womb of futurity, and even to influence the will of the deities. Hence, though domestic duties were their peculiar province, yet they were not hardly treated nor confined to a flate of slavery. There appears indeed a friking analogy between the condition of the women among the rude foldiers of Sparta and the rank which they occupied among the warlike cantons of Germany. Perhaps, indeed, the German were fill more honourable than the Spartan women; as they were taught to wield the magic weapons of fupertition, which in Greece were appropriated to the priets.<x_0.7041><y_0.2773><class_Text>\n\n<x_0.0146><y_0.2766>It appears, therefore, that, in the foreths of Germany at least, if not in the more northern regions of Afia and Europe, the conquerors of the Roman empire, before they penetrated into its provinces, treated their women with a degree of respect unknown to most of the nations of antiquity; that the character of the warrior was likewise highly honourable, being understood to unite all those qualities which were in the highest elimination; and that it was only at a particular age, and with certain forms, that the youth were admitted to bear arms.<x_0.7051><y_0.4297><class_Text>\n\n<x_0.0166><y_0.4289>When thofe nations fallied from their deferts and forets, over-ran the Roman empire, and established themselves in its provinces, the change which took place on their circumstances was remarkable; and by a natural influence, it could not but produce an equally remarkable change on their habits, cultures, and manners. The great outlines might fill remain; but they could not now fail to be filled up in a different manner. Here, however, the records of history are peculiarly imperfect. We have no Czfar or Tacitus to lupply facts or direct our reafonings; the Gothic nations had not yet learned to read and write; and the Romans were fo depreiled under the fenfe of their own mificries, as to be negligent of the changes which happened around them. But as foon as the light of history begins again to dawn, we find that the leading features of the barbarian character were not effaced, but only modified in a particular manner, in consequence of their mixing among a more polified people, becoming acquainted with the luxuries of life, and acquiring extenfive power and property.<x_0.7061><y_0.7242><class_Text>\n\n<x_0.0176><y_0.7234>Thofe who fought on horfeback now began to be diltinguished with peculiar honours. The manners of the warrior too were become more cultivated, and his spirit more humane. Leifure and opulence, with the influence of a polished people, even though in a flate of slavery, taught thofe barbarians to afpire after more refined pleafures and more fplendid amufements than thofe which they had been before fatistified with. The influence of Christianity too, which, though grofsly corrupted, was still favourable to the focal happiness of mankind, concurred to polish their manners and exalt their character. Hence, in the end of the tenth and in the beginning of the eleventh century, we fea<x_0.7148><y_0.907><class_Text>\n\n<x_0.3389><y_0.9055>4 T knight-<x_0.7129><y_0.9234><class_Page-footer>\n\n<x_0.7021><y_0.0>Chivalry<x_0.8262><y_0.0086><class_Caption>\n\n<x_0.6953><y_0.0375>8 Reflectability of the woman a momg the Germans.<x_0.832><y_0.107><class_Caption>\n\n<x_0.7031><y_0.4203>Changes in the manners of the barbarians after they fetted in the Roman Empire, which gave life to chivalry.<x_0.8398><y_0.5555><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2790,
+   "completion_tokens": 862,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

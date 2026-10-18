@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "f6b915e4a79849d82a3a58b6c27d124c2dc8f63188fce1887130d6def22bee64",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "b8747b13a669052d080294a0bdb565c26e5366510f94904aafb3d8e5f5882cbe",
+  "image_bytes": 2454385,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1466",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4467,
+   0.0262,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0262,
+    0.1074,
+    0.4583
+   ],
+   [
+    0.1074,
+    0.1885,
+    0.4517
+   ],
+   [
+    0.1885,
+    0.2697,
+    0.4517
+   ],
+   [
+    0.2697,
+    0.3508,
+    0.4517
+   ],
+   [
+    0.3508,
+    0.432,
+    0.4517
+   ],
+   [
+    0.432,
+    0.5131,
+    0.4517
+   ],
+   [
+    0.5131,
+    0.5942,
+    0.4517
+   ],
+   [
+    0.5942,
+    0.6754,
+    0.4517
+   ],
+   [
+    0.6754,
+    0.7566,
+    0.4517
+   ],
+   [
+    0.7566,
+    0.8377,
+    0.4517
+   ],
+   [
+    0.8377,
+    0.9188,
+    0.4517
+   ],
+   [
+    0.9188,
+    1.0,
+    0.4517
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2768,
+  "completion_tokens": 968,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.67,
+ "created_at": "2026-10-18T11:20:07+00:00",
+ "content": "<x_0.0156><y_0.0039>29 | ES S<x_0.5273><y_0.0266><class_Title>\n\n<x_0.0234><y_0.0258>In the following experiments an effay cwt. was al- ways employed, unlefs where it is exprefsly mentioned otherwife: conclusions sufficiently accurate may indeed be obtained from 25 lb. may fometimes from finaler quantities. In thefe cafes our author mentions the ufual quantity; applying to them thofe formule of calculation which are founded on the mutual proportions of the proximate principles conflicting metallic salts. By an easy fubflitution, the fame formula may be ufed by thofe who employ or cwt. We now come to describe the method of effaying the ores of the particular metals.<x_0.7217><y_0.1922><class_Text>\n\n<x_0.0225><y_0.1914>1. _Ores of Gold._ This metal occurs in the bowels of the earth native, poffelling a complete metallic form, although in general the final particles of it are fo in terperfed in various matrices, that they are entirely invifible. It is also found mineralized, or united with fulphur by means of iron or fome other metal. Thefe two species of ore we shall confer separately.<x_0.7178><y_0.3031><class_Text>\n\n<x_0.0215><y_0.3023>Native gold is very feldom, if ever, free from heterogencous matters; the moft ufual mixtures are cop per, filver, and fometimes iron. The first of thefe remains in the menfruum, and may be feparately collected by differing the gold in aqua-regia, and precipitating it by martial vitriol : the second falls during the folution, yielding a fallited silver; which, being washed and dried, flows the weight of the filter contained; and the iron may be difcovered by phlogifficated alkali. The precipitate occasioned by martial vi triol is pure gold in its metallic flate, but very fubtilely divided, and therefore its weight requires no correction.<x_0.7129><y_0.468><class_Text>\n\n<x_0.0186><y_0.4664>Hence it appears how small a portion of gold inherent in the ores of other metals may be extracted; befides, a foliation containing the moft minute particole of gold inflantly produces the purple precipi tate of Caffius, with a foliation of tin properly prepared.<x_0.71><y_0.55><class_Text>\n\n<x_0.0117><y_0.5492>As to the ore which contains gold adhering to and furrounded by flony particles, r. We mult reduce a deter mined weight to an impalpable powder by triture and elutriation. Then let the powder, weighed aecondtime, be boiled in aqua regia, as long as any thing is taken up by the menfruum; after which, let the exhausted ore, well wafhed, be collected, exfcicated to ignition, and weighed. Let the clear folution (the colour of which, in fome degree, affords a method of judging) be precipitated in the ufual way by martial vitriol; the precipitate well wafhed, dried, and weighed, flows the gold, which, added to the weight of the exhaufted ore, ought to be equal to the original weight, unlefs fomewhat has been difperfed by the pulverifation, or unlefs fome of the matrice has entered the menfruum. The former of thefe is difovered by comparing the weights before and after pulverifation; the latter by precipitants.<x_0.709><y_0.7969><class_Text>\n\n<x_0.0107><y_0.7961>When grains of gold are mixed with loofe earthy particles, they are fometimes easily feparated by mechanical application of water.<x_0.7021><y_0.8383><class_Text>\n\n<x_0.0098><y_0.8391>When the metal is mineralified by fulphur, as in the golden pyrites, let one or more effay cwts. reduced to powder be gently boiled in the nitrous acid, or rather digested in a heat of 50°—80°, left the fulphur should be defroyded. It is even necellary to employ a more gentle heat for this purpofs, that the fulphurcous par-<x_0.7012><y_0.9234><class_Text>\n\n<x_0.7246><y_0.025>Effaying<sup>∗</sup><x_0.8467><y_0.0516><class_Caption>\n\n<x_0.7148><y_0.0523>9 Weights\nufed in Mr Bergman's experientents.<x_0.8457><y_0.1227><class_Caption>\n\n<x_0.7119><y_0.1891>How to ef- fay the ores of gold.<x_0.8447><y_0.2367><class_Caption>\n\n<x_0.7109><y_0.2953>Iz Native gold.<x_0.793><y_0.3305><class_Caption>\n\n<x_0.708><y_0.5437>Iz Ores of this metal pro- perly to cal- led.<x_0.835><y_0.6><class_Caption>\n\n<x_0.6924><y_0.8352>I3 Gold mine- realized by fulphur.<x_0.8262><y_0.882><class_Caption>\n\n<x_0.3389><y_0.9211>4 Z<x_0.4014><y_0.9367><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-e94b153f-1ef8-4b64-bb5b-55dfb178687a",
+  "object": "chat.completion",
+  "created": 1792322406,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0156><y_0.0039>29 | ES S<x_0.5273><y_0.0266><class_Title>\n\n<x_0.0234><y_0.0258>In the following experiments an effay cwt. was al- ways employed, unlefs where it is exprefsly mentioned otherwife: conclusions sufficiently accurate may indeed be obtained from 25 lb. may fometimes from finaler quantities. In thefe cafes our author mentions the ufual quantity; applying to them thofe formule of calculation which are founded on the mutual proportions of the proximate principles conflicting metallic salts. By an easy fubflitution, the fame formula may be ufed by thofe who employ or cwt. We now come to describe the method of effaying the ores of the particular metals.<x_0.7217><y_0.1922><class_Text>\n\n<x_0.0225><y_0.1914>1. _Ores of Gold._ This metal occurs in the bowels of the earth native, poffelling a complete metallic form, although in general the final particles of it are fo in terperfed in various matrices, that they are entirely invifible. It is also found mineralized, or united with fulphur by means of iron or fome other metal. Thefe two species of ore we shall confer separately.<x_0.7178><y_0.3031><class_Text>\n\n<x_0.0215><y_0.3023>Native gold is very feldom, if ever, free from heterogencous matters; the moft ufual mixtures are cop per, filver, and fometimes iron. The first of thefe remains in the menfruum, and may be feparately collected by differing the gold in aqua-regia, and precipitating it by martial vitriol : the second falls during the folution, yielding a fallited silver; which, being washed and dried, flows the weight of the filter contained; and the iron may be difcovered by phlogifficated alkali. The precipitate occasioned by martial vi triol is pure gold in its metallic flate, but very fubtilely divided, and therefore its weight requires no correction.<x_0.7129><y_0.468><class_Text>\n\n<x_0.0186><y_0.4664>Hence it appears how small a portion of gold inherent in the ores of other metals may be extracted; befides, a foliation containing the moft minute particole of gold inflantly produces the purple precipi tate of Caffius, with a foliation of tin properly prepared.<x_0.71><y_0.55><class_Text>\n\n<x_0.0117><y_0.5492>As to the ore which contains gold adhering to and furrounded by flony particles, r. We mult reduce a deter mined weight to an impalpable powder by triture and elutriation. Then let the powder, weighed aecondtime, be boiled in aqua regia, as long as any thing is taken up by the menfruum; after which, let the exhausted ore, well wafhed, be collected, exfcicated to ignition, and weighed. Let the clear folution (the colour of which, in fome degree, affords a method of judging) be precipitated in the ufual way by martial vitriol; the precipitate well wafhed, dried, and weighed, flows the gold, which, added to the weight of the exhaufted ore, ought to be equal to the original weight, unlefs fomewhat has been difperfed by the pulverifation, or unlefs fome of the matrice has entered the menfruum. The former of thefe is difovered by comparing the weights before and after pulverifation; the latter by precipitants.<x_0.709><y_0.7969><class_Text>\n\n<x_0.0107><y_0.7961>When grains of gold are mixed with loofe earthy particles, they are fometimes easily feparated by mechanical application of water.<x_0.7021><y_0.8383><class_Text>\n\n<x_0.0098><y_0.8391>When the metal is mineralified by fulphur, as in the golden pyrites, let one or more effay cwts. reduced to powder be gently boiled in the nitrous acid, or rather digested in a heat of 50°—80°, left the fulphur should be defroyded. It is even necellary to employ a more gentle heat for this purpofs, that the fulphurcous par-<x_0.7012><y_0.9234><class_Text>\n\n<x_0.7246><y_0.025>Effaying<sup>∗</sup><x_0.8467><y_0.0516><class_Caption>\n\n<x_0.7148><y_0.0523>9 Weights\nufed in Mr Bergman's experientents.<x_0.8457><y_0.1227><class_Caption>\n\n<x_0.7119><y_0.1891>How to ef- fay the ores of gold.<x_0.8447><y_0.2367><class_Caption>\n\n<x_0.7109><y_0.2953>Iz Native gold.<x_0.793><y_0.3305><class_Caption>\n\n<x_0.708><y_0.5437>Iz Ores of this metal pro- perly to cal- led.<x_0.835><y_0.6><class_Caption>\n\n<x_0.6924><y_0.8352>I3 Gold mine- realized by fulphur.<x_0.8262><y_0.882><class_Caption>\n\n<x_0.3389><y_0.9211>4 Z<x_0.4014><y_0.9367><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2768,
+   "completion_tokens": 968,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

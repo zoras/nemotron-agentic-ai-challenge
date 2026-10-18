@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "3a3651e409531d2cc8a5d158b8ff68beec1d78674cab76298229f7f146ca62c7",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "cfb463490b34339ccda9cb96321c3055c92af3aeef2a10698130da1d6ce0ada0",
+  "image_bytes": 1979410,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2155",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4383,
+   0.0325,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0325,
+    0.1131,
+    0.45
+   ],
+   [
+    0.1131,
+    0.1938,
+    0.445
+   ],
+   [
+    0.1938,
+    0.2744,
+    0.4433
+   ],
+   [
+    0.2744,
+    0.355,
+    0.4567
+   ],
+   [
+    0.355,
+    0.4356,
+    0.455
+   ],
+   [
+    0.4356,
+    0.5162,
+    0.4567
+   ],
+   [
+    0.5162,
+    0.5969,
+    0.4567
+   ],
+   [
+    0.5969,
+    0.6775,
+    0.4567
+   ],
+   [
+    0.6775,
+    0.7581,
+    0.455
+   ],
+   [
+    0.7581,
+    0.8387,
+    0.4567
+   ],
+   [
+    0.8387,
+    0.9194,
+    0.4567
+   ],
+   [
+    0.9194,
+    1.0,
+    0.4567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2655,
+  "completion_tokens": 727,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.5,
+ "created_at": "2026-10-18T11:21:10+00:00",
+ "content": "<x_0.0156><y_0.0039>O I B LI<x_0.5264><y_0.0266><class_Title>\n\n<x_0.0176><y_0.0242>that, by feeling, they may underfland notes, and learn any tune that shall be fet them, in their matter’s abfence.<x_0.7021><y_0.0703><class_Text>\n\n<x_0.0117><y_0.0813>_for fuch as are Borno._<x_0.3291><y_0.1><class_Text>\n\n<x_0.002><y_0.1023>C\nB\nB\nA\nG\nF-\nE\nD-\nB\nA\nB\nC\nC\nA\nG\nF\nE<x_0.5068><y_0.2844><class_Picture>\n\n<x_0.0254><y_0.2953>by one as they are called for by the perfon that fet his tune.\"<x_0.7012><y_0.3242><class_Text>\n\n<x_0.0234><y_0.325>Thus far our author. We have already complained, that Tanfure's Musical Notation is imperfect; and perhaps every table or instrument of the fame kind may be liable to the fame centure, as not being comprehen- five of all the characters in the written language of mu- fic, fo that the blind reader may find no deficiency in acquiring any leffon: yet as the cufhion of Mr Cheefe appears to have more powers than any other infrutment for the fame purpofe that has hitherto occurred to our observation, though attended with many formidable objections, we here infer it. It may poffibly, however, be belt for every blind adept in the mufical art, after being fufficiently infructed in its theoretical and practical principles, to invent for himself a table, by which may be expreffed all the various phenomena of mutic, in which, by varying the forms and potitions of his peggs, he may habitually affocate them with founds, durations, relts, intervals, chords, cadences, da capos, repeats, and all the various graces which give animation and expreffion to mufical founds: for thus, being the immediate creatures of his own imagination, they will more easily become familiar to his memory, and be more strongly and readily affiliated with the phenomena which they are intended to fignify, than if he had affumed the inventions of any other.<x_0.7051><y_0.6711><class_Text>\n\n<x_0.0244><y_0.6703>_Mr Cheefe's description of his machine for teaching Cheefe's mufe to people deprived of fight, and to enable them to machine, preserve their compositions, in the alt of compelling, without the influence of a copsift.-- \" That part of the macchine which reprefents the book, or paper, is a final culture fluffed, on a little frame; along which, is fewed a number of pack/thread frings at equal differences from each other; thefe reprefernt the lines in a mufe book : the five which compote the flare, are made of large twine; and thofe which reprefernt the leger or occasional lines, drawn through the heads of the notes, where the mufe exceeds the compafs of the established flave, are made of fnall twine, and are on this machine of the fame length as the others.<x_0.7061><y_0.8641><class_Text>\n\n<x_0.0264><y_0.8633>\" If the practitioner only wifies to write barpfichord mufc, the cufhion may be what length he pleafes, and about five or fix inches wide: the things muft be fewed in the following order ; beginning with the first<x_0.707><y_0.9211><class_Text>\n\n<x_0.7031><y_0.6602>6\nPl XCVIII.\nbg.9.<x_0.835><y_0.7203><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-0b177418-d0ba-4dfc-ba96-bce7a58d494f",
+  "object": "chat.completion",
+  "created": 1792322469,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0156><y_0.0039>O I B LI<x_0.5264><y_0.0266><class_Title>\n\n<x_0.0176><y_0.0242>that, by feeling, they may underfland notes, and learn any tune that shall be fet them, in their matter’s abfence.<x_0.7021><y_0.0703><class_Text>\n\n<x_0.0117><y_0.0813>_for fuch as are Borno._<x_0.3291><y_0.1><class_Text>\n\n<x_0.002><y_0.1023>C\nB\nB\nA\nG\nF-\nE\nD-\nB\nA\nB\nC\nC\nA\nG\nF\nE<x_0.5068><y_0.2844><class_Picture>\n\n<x_0.0254><y_0.2953>by one as they are called for by the perfon that fet his tune.\"<x_0.7012><y_0.3242><class_Text>\n\n<x_0.0234><y_0.325>Thus far our author. We have already complained, that Tanfure's Musical Notation is imperfect; and perhaps every table or instrument of the fame kind may be liable to the fame centure, as not being comprehen- five of all the characters in the written language of mu- fic, fo that the blind reader may find no deficiency in acquiring any leffon: yet as the cufhion of Mr Cheefe appears to have more powers than any other infrutment for the fame purpofe that has hitherto occurred to our observation, though attended with many formidable objections, we here infer it. It may poffibly, however, be belt for every blind adept in the mufical art, after being fufficiently infructed in its theoretical and practical principles, to invent for himself a table, by which may be expreffed all the various phenomena of mutic, in which, by varying the forms and potitions of his peggs, he may habitually affocate them with founds, durations, relts, intervals, chords, cadences, da capos, repeats, and all the various graces which give animation and expreffion to mufical founds: for thus, being the immediate creatures of his own imagination, they will more easily become familiar to his memory, and be more strongly and readily affiliated with the phenomena which they are intended to fignify, than if he had affumed the inventions of any other.<x_0.7051><y_0.6711><class_Text>\n\n<x_0.0244><y_0.6703>_Mr Cheefe's description of his machine for teaching Cheefe's mufe to people deprived of fight, and to enable them to machine, preserve their compositions, in the alt of compelling, without the influence of a copsift.-- \" That part of the macchine which reprefents the book, or paper, is a final culture fluffed, on a little frame; along which, is fewed a number of pack/thread frings at equal differences from each other; thefe reprefernt the lines in a mufe book : the five which compote the flare, are made of large twine; and thofe which reprefernt the leger or occasional lines, drawn through the heads of the notes, where the mufe exceeds the compafs of the established flave, are made of fnall twine, and are on this machine of the fame length as the others.<x_0.7061><y_0.8641><class_Text>\n\n<x_0.0264><y_0.8633>\" If the practitioner only wifies to write barpfichord mufc, the cufhion may be what length he pleafes, and about five or fix inches wide: the things muft be fewed in the following order ; beginning with the first<x_0.707><y_0.9211><class_Text>\n\n<x_0.7031><y_0.6602>6\nPl XCVIII.\nbg.9.<x_0.835><y_0.7203><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2655,
+   "completion_tokens": 727,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

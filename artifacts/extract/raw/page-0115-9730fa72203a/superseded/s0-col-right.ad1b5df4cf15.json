@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "ad1b5df4cf15475dd00b28de9bc7c96b296c8f19ca6d20eee67f2cafe6df39c1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "3539e3e5cde9a6ddecfca94547b9891070176d5bf489bd50f92a3d4832e41954",
+  "image_bytes": 1685718,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:115",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5217,
+   0.0889,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0889,
+    0.1717,
+    0.5267
+   ],
+   [
+    0.1717,
+    0.2546,
+    0.5267
+   ],
+   [
+    0.2546,
+    0.3374,
+    0.5267
+   ],
+   [
+    0.3374,
+    0.4202,
+    0.5267
+   ],
+   [
+    0.4202,
+    0.503,
+    0.5267
+   ],
+   [
+    0.503,
+    0.5859,
+    0.5267
+   ],
+   [
+    0.5859,
+    0.6687,
+    0.5267
+   ],
+   [
+    0.6687,
+    0.7515,
+    0.5267
+   ],
+   [
+    0.7515,
+    0.8343,
+    0.5267
+   ],
+   [
+    0.8343,
+    0.9172,
+    0.5267
+   ],
+   [
+    0.9172,
+    1.0,
+    0.5267
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2560,
+  "completion_tokens": 888,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.91,
+ "created_at": "2026-10-18T11:09:56+00:00",
+ "content": "<x_0.0234><y_0.0>larger portions as cannot pafs through the neck. But Vegetable this inconvenience is not likely to happen, unlefs the quantity of water left added be too fnall, and the re-fidues have been left undisturbed for several days. The fame obfervation is applicable to that kind of incrufta-tion which is formed by the muriat, if not properly pulverified, dried, or mixed ; this cannot be separated from the bottom of the retort, but by means of hot water poured at different fuccefitive times. It is like-wife effential to leave no cruff or depoition of muriat, or other matter, in the veffels which are emptied, unless the fame be moveable, in which cafe the rifk is lefs. But if the urgency of buffinefs should then require that the fame veffels be ufed without entirely clearing them, it will be neceffary to range this refdual matter on one ride, where it will be lefs expoiled to the heat, and will afford a greater degree of facility for the nitric acid to act upon it.<x_0.7891><y_0.2461><class_Text>\n\n<x_0.0166><y_0.2437>\" In order that the vapour which exhales from the diftilling veffels may not prove inconvenient, it is necessary to pour in a small quantity of alkaline lixivium in the first place, which infantly deftroys the fmell. This may be done immediately after the end of the distillation, and the weak alkaline folution may supply the place of the water ufed for diluting the refidues. At the infant of pouring this lixival water, a strong effectence takes place ; for which reason it is proper to pour it in by feveral fueceflive portions, waiting a little between each time \".\"<x_0.7783><y_0.393><class_Text>\n\n<x_0.0146><y_0.3922>252. The oxygenated liquor prepared in this way is very effective in bleaching the fluffs which are immerfed in it, but it at the fame time poffes an odour fo fuffocating as to render its ufe unpleasant and even injurious to the workmen employed in the process, should any of it escape. \" I have witneffed, (fays O'Reilly) in an extenfive manufaclory near Paris, the cruel sufferings experienced by the wretched workmen, from thefe fullocating vapours ; I have teen them rolling on the ground in the excess of agony. Frequently even fevere diforders are the consequence of the first effects produced by the oxygenated liquor+.\" De + O' Reilly Charmes gives a long account of the fullerings which he underwent in his courte of experiments with this acid. It produces symptoms completely refreshling those of a violent cold, but which go off in a day or two after having defitted from the ufe of the liquor.<x_0.7754><y_0.6242><class_Text>\n\n<x_0.0488><y_0.6227>This inconvenience may be avoided in two ways ;<x_0.7402><y_0.6375><class_Text>\n\n<x_0.0137><y_0.6359>1/I, By rendering the veffels for immersion to tight as to prevent the possibility of the efcape of the gas, 2dly, By diffusing in the water fome fubflance which has the property of lo far neutralizing the acid as to connect its odour without destroying its bleaching quality to any confiderable degree.<x_0.7705><y_0.7188><class_Text>\n\n<x_0.0127><y_0.7172>253. Mr Rupp of Manchelter contrived a tub for immersion, which is admirably adapted to anfwer the first purpose. Its contribution is limple, and not expensive.<x_0.7715><y_0.7719><class_Text>\n\n<x_0.0107><y_0.7711>\"It would, therefore, bedefirable to have an apparatus for the ufe of the pure oxygenated muriatic acid firmly dissolved in water, which is at once the cheapest and belt vehicle for it. This apparatus must be limple in its configuration, and obtainable at a moderate expense; it must confine the liquor in fuch a manner as to prevent the efcape of the oxygenated muriatic acid gas, which is not only a lofs of power, but alfo an inconve-<x_0.7764><y_0.8836><class_Text>",
+ "reply": {
+  "id": "chatcmpl-fdb648c2-8b89-4c27-90c3-26c72b00e1f2",
+  "object": "chat.completion",
+  "created": 1792321794,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0234><y_0.0>larger portions as cannot pafs through the neck. But Vegetable this inconvenience is not likely to happen, unlefs the quantity of water left added be too fnall, and the re-fidues have been left undisturbed for several days. The fame obfervation is applicable to that kind of incrufta-tion which is formed by the muriat, if not properly pulverified, dried, or mixed ; this cannot be separated from the bottom of the retort, but by means of hot water poured at different fuccefitive times. It is like-wife effential to leave no cruff or depoition of muriat, or other matter, in the veffels which are emptied, unless the fame be moveable, in which cafe the rifk is lefs. But if the urgency of buffinefs should then require that the fame veffels be ufed without entirely clearing them, it will be neceffary to range this refdual matter on one ride, where it will be lefs expoiled to the heat, and will afford a greater degree of facility for the nitric acid to act upon it.<x_0.7891><y_0.2461><class_Text>\n\n<x_0.0166><y_0.2437>\" In order that the vapour which exhales from the diftilling veffels may not prove inconvenient, it is necessary to pour in a small quantity of alkaline lixivium in the first place, which infantly deftroys the fmell. This may be done immediately after the end of the distillation, and the weak alkaline folution may supply the place of the water ufed for diluting the refidues. At the infant of pouring this lixival water, a strong effectence takes place ; for which reason it is proper to pour it in by feveral fueceflive portions, waiting a little between each time \".\"<x_0.7783><y_0.393><class_Text>\n\n<x_0.0146><y_0.3922>252. The oxygenated liquor prepared in this way is very effective in bleaching the fluffs which are immerfed in it, but it at the fame time poffes an odour fo fuffocating as to render its ufe unpleasant and even injurious to the workmen employed in the process, should any of it escape. \" I have witneffed, (fays O'Reilly) in an extenfive manufaclory near Paris, the cruel sufferings experienced by the wretched workmen, from thefe fullocating vapours ; I have teen them rolling on the ground in the excess of agony. Frequently even fevere diforders are the consequence of the first effects produced by the oxygenated liquor+.\" De + O' Reilly Charmes gives a long account of the fullerings which he underwent in his courte of experiments with this acid. It produces symptoms completely refreshling those of a violent cold, but which go off in a day or two after having defitted from the ufe of the liquor.<x_0.7754><y_0.6242><class_Text>\n\n<x_0.0488><y_0.6227>This inconvenience may be avoided in two ways ;<x_0.7402><y_0.6375><class_Text>\n\n<x_0.0137><y_0.6359>1/I, By rendering the veffels for immersion to tight as to prevent the possibility of the efcape of the gas, 2dly, By diffusing in the water fome fubflance which has the property of lo far neutralizing the acid as to connect its odour without destroying its bleaching quality to any confiderable degree.<x_0.7705><y_0.7188><class_Text>\n\n<x_0.0127><y_0.7172>253. Mr Rupp of Manchelter contrived a tub for immersion, which is admirably adapted to anfwer the first purpose. Its contribution is limple, and not expensive.<x_0.7715><y_0.7719><class_Text>\n\n<x_0.0107><y_0.7711>\"It would, therefore, bedefirable to have an apparatus for the ufe of the pure oxygenated muriatic acid firmly dissolved in water, which is at once the cheapest and belt vehicle for it. This apparatus must be limple in its configuration, and obtainable at a moderate expense; it must confine the liquor in fuch a manner as to prevent the efcape of the oxygenated muriatic acid gas, which is not only a lofs of power, but alfo an inconve-<x_0.7764><y_0.8836><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2560,
+   "completion_tokens": 888,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

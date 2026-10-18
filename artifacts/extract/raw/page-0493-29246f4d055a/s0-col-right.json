@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "4af27b8feecbd1c93bd90631ae9fec5323b619e8b04a821e651bbfe23f87f7fe",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "03b4ab8635c32a2e8266192197f94eb7547e69802a1d4cb3b8c5a9ab44fbcbc9",
+  "image_bytes": 2174000,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:493",
+  "variant": "s0-col-right",
+  "crop": [
+   0.435,
+   0.0427,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0427,
+    0.1297,
+    0.4617
+   ],
+   [
+    0.1297,
+    0.2168,
+    0.465
+   ],
+   [
+    0.2168,
+    0.3038,
+    0.465
+   ],
+   [
+    0.3038,
+    0.3908,
+    0.465
+   ],
+   [
+    0.3908,
+    0.4778,
+    0.465
+   ],
+   [
+    0.4778,
+    0.5649,
+    0.465
+   ],
+   [
+    0.5649,
+    0.6519,
+    0.465
+   ],
+   [
+    0.6519,
+    0.7389,
+    0.465
+   ],
+   [
+    0.7389,
+    0.8259,
+    0.465
+   ],
+   [
+    0.8259,
+    0.913,
+    0.4667
+   ],
+   [
+    0.913,
+    1.0,
+    0.44
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2764,
+  "completion_tokens": 836,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.38,
+ "created_at": "2026-10-18T11:19:23+00:00",
+ "content": "<x_0.0439><y_0.0086>59 J I L A<x_0.5293><y_0.032><class_Page-header>\n\n<x_0.0625><y_0.0312>had done; that is, to govern as a father would his children: his people in return swore that they would pay the same obedience to him as children would to their parent. The dominions of this potentate, about the year 1586, consisted only of Ilay, Jura, Knapdale, and Cantyre: so reduced were they from what they had been before the deprivation of the great carl of Ross in the reign of James III. Near this is another little isle, where he assembled his council, _Manna Corille_, or \"the island of council;\" where 13 judges constantly sat to decide differences among his subjects; and received for their trouble the 11th part of the value of the affair tried before them. In the first island were buried the wives and children of the lords of the Isles; but their own persons were deposited in the more sacred ground of Iona. On the shores of the lake are some marks of the quarters of his _Carnauch_ and _Gilli-glasses_, \"the military of the isles;\" the first signifying a strong man, the last a grim-looking fellow. The first were light-armed, and fought with darts and daggers; the last with sharp hatchets. These are the troops that Shakespeare alludes to, when he speaks of a Donald, who<x_0.7539><y_0.3578><class_Text>\n\n<x_0.1289><y_0.3594>From the Western islea Of Kernes and Gallow-glasses was supplied.<x_0.6836><y_0.393><class_Section-header>\n\n<x_0.0518><y_0.3922>Besides those already mentioned, the lords had a house and chapel at Lagan, on the south side of Lochin-daal : a strong castle on a rock in the sea, at Duno-waik, at the south-east end of the country; for they made this island their residence after their expulsion from that of Man in 1304.--There is a tradition, that while the isle of Man was part of the kingdom of the Isles, the rents were for a time paid in this country: those in silver were paid on a rock, still called _Creig-a-niome_, or \"the rock of the silver rent;\" the other, _Creg-a-nairigid_, or \"the rock of rents in kind.\" These lie opposite to each other, at the mouth of a harbour on the south side of this island. There are several forts built on the isles in fresh water lakes, and divers caverns in different parts of the island, which have been used occasionally as places of strength. The island is divided into four parishes, viz. Kildalton, Killarow, Kilchoman, and Kilmenie. The produce is corn of different kinds; such as bear, which sometimes yields eleven fold; and oats six fold. Much flax is raised here, and about 2000!. worth sold out of the island in yaro, which might better be manufactured on the spot, to give employ to the poor natives. Notwithstanding the excellence of the land, above 1000!. worth of meal is annually imported (A). Ale is frequently made in this island of the young tops of health, mixing two-thirds of that plant with one of malt, sometimes adding hops. Boethius relates, that this liquor was much used among the Picts; but when that nation was extirpated by the Scots, the secret of making it perished with them. Numbers of cattle are bred here, and about 1700 are annually exported at the<x_0.748><y_0.8609><class_Text>\n\n<x_0.0049><y_0.882>ant, from whom the above account is taken. It is not 2,000. Isla indeed enjoys the peculiar advantages of thus afford a very considerable exportation of both species- exceeds that stated above by Pennant.<x_0.7314><y_0.9461><class_Footnote>",
+ "reply": {
+  "id": "chatcmpl-f7f087a2-f392-4246-8fcc-747bef0e7291",
+  "object": "chat.completion",
+  "created": 1792322362,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0439><y_0.0086>59 J I L A<x_0.5293><y_0.032><class_Page-header>\n\n<x_0.0625><y_0.0312>had done; that is, to govern as a father would his children: his people in return swore that they would pay the same obedience to him as children would to their parent. The dominions of this potentate, about the year 1586, consisted only of Ilay, Jura, Knapdale, and Cantyre: so reduced were they from what they had been before the deprivation of the great carl of Ross in the reign of James III. Near this is another little isle, where he assembled his council, _Manna Corille_, or \"the island of council;\" where 13 judges constantly sat to decide differences among his subjects; and received for their trouble the 11th part of the value of the affair tried before them. In the first island were buried the wives and children of the lords of the Isles; but their own persons were deposited in the more sacred ground of Iona. On the shores of the lake are some marks of the quarters of his _Carnauch_ and _Gilli-glasses_, \"the military of the isles;\" the first signifying a strong man, the last a grim-looking fellow. The first were light-armed, and fought with darts and daggers; the last with sharp hatchets. These are the troops that Shakespeare alludes to, when he speaks of a Donald, who<x_0.7539><y_0.3578><class_Text>\n\n<x_0.1289><y_0.3594>From the Western islea Of Kernes and Gallow-glasses was supplied.<x_0.6836><y_0.393><class_Section-header>\n\n<x_0.0518><y_0.3922>Besides those already mentioned, the lords had a house and chapel at Lagan, on the south side of Lochin-daal : a strong castle on a rock in the sea, at Duno-waik, at the south-east end of the country; for they made this island their residence after their expulsion from that of Man in 1304.--There is a tradition, that while the isle of Man was part of the kingdom of the Isles, the rents were for a time paid in this country: those in silver were paid on a rock, still called _Creig-a-niome_, or \"the rock of the silver rent;\" the other, _Creg-a-nairigid_, or \"the rock of rents in kind.\" These lie opposite to each other, at the mouth of a harbour on the south side of this island. There are several forts built on the isles in fresh water lakes, and divers caverns in different parts of the island, which have been used occasionally as places of strength. The island is divided into four parishes, viz. Kildalton, Killarow, Kilchoman, and Kilmenie. The produce is corn of different kinds; such as bear, which sometimes yields eleven fold; and oats six fold. Much flax is raised here, and about 2000!. worth sold out of the island in yaro, which might better be manufactured on the spot, to give employ to the poor natives. Notwithstanding the excellence of the land, above 1000!. worth of meal is annually imported (A). Ale is frequently made in this island of the young tops of health, mixing two-thirds of that plant with one of malt, sometimes adding hops. Boethius relates, that this liquor was much used among the Picts; but when that nation was extirpated by the Scots, the secret of making it perished with them. Numbers of cattle are bred here, and about 1700 are annually exported at the<x_0.748><y_0.8609><class_Text>\n\n<x_0.0049><y_0.882>ant, from whom the above account is taken. It is not 2,000. Isla indeed enjoys the peculiar advantages of thus afford a very considerable exportation of both species- exceeds that stated above by Pennant.<x_0.7314><y_0.9461><class_Footnote>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2764,
+   "completion_tokens": 836,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

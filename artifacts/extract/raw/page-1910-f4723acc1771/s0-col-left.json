@@ -1,0 +1,119 @@
+{
+ "request": {
+  "key": "71492590a3037d099d66c1c274208427d0780af3a034fc89163ae7450bd25bc2",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4a86bd87a4799934ee3410ba2d1ef74a0ba5f5f047feccdd9a90921092746375",
+  "image_bytes": 2281243,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1910",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0302,
+   0.53,
+   0.8155
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0302,
+    0.1175,
+    0.525
+   ],
+   [
+    0.1175,
+    0.2047,
+    0.525
+   ],
+   [
+    0.2047,
+    0.292,
+    0.525
+   ],
+   [
+    0.292,
+    0.3792,
+    0.525
+   ],
+   [
+    0.3792,
+    0.4665,
+    0.525
+   ],
+   [
+    0.4665,
+    0.5537,
+    0.525
+   ],
+   [
+    0.5537,
+    0.641,
+    0.525
+   ],
+   [
+    0.641,
+    0.7282,
+    0.525
+   ],
+   [
+    0.7282,
+    0.8155,
+    0.525
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1838,
+  "total_tokens": 2611,
+  "completion_tokens": 773,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.32,
+ "created_at": "2026-10-18T11:20:31+00:00",
+ "content": "<x_0.4658><y_0.0047>L I G [ 42<x_0.999><y_0.0344><class_Page-header>\n\n<x_0.0781><y_0.0312>Lightning.<x_0.2188><y_0.0523><class_Section-header>\n\n<x_0.2139><y_0.032>we have feen above; it is _mathematically evident_, that, when a _returning stroke_ comes to be produced by the _fudden_ removal of the very frong claftic electrical pref- fure of the electrical atmosphere of a thunder-cloud powerfully charged; the strength of fuch a _returning stroke_ mult be _enormous._\"<x_0.9795><y_0.1367><class_Text>\n\n<x_0.2148><y_0.1359>\" If indeed the quantity of electric fluid naturally contained in the body of a man, for instance, were im- mente, or indefinite, the author’s eliminate between the effects producible by a cloud, and those canfed by a prime conductor, might be admitted. But furely an electrified cloud,--how great foeyer may be its ex- tent, and the height of its charge, when compared with the extent and charge of a prime conductor-- cannot expel from a man’s body (or any other body) more than the natural quantity of electricity which it contains. On the fudden removal, therefore, of the preffure by which this natural quantity had been ex- pelled, in consequence of the explofion of the cloud into the earth; no more (at the utmolt) than his _whole natural flock_ of electricity can re-enter his body (c). But we have no realon to fuppofe that this quantity is fo great, as that its fudden re-entrance into his body should deftroy or even injure him.<x_0.9805><y_0.443><class_Text>\n\n<x_0.2129><y_0.4422>\" In the experiment above deferibed, the infulated perfon receives into his body, at the infant of the _re- turning Stroke_, not only all that portion of his own natural electric-fire which had been expelled from it; but likewife tranfmits through it, at the fame inflant, _in consequence of his peculiar situation_, all the electric fire of which the large fecond conductor had been robbed; and which muft necellarily re-pals through his body, to arrive at that conductor. To render the cafe fomewhat parallel, in _natural electricity_, the man's body muft be fo peculiarly circumflanced, fuppofing him to be in a houle, that the electric matter which has been expelled from the houte into the earth, by the preffure of an extenfive thunder-cloud, could not return back into the building, on the explofion of the cloud at a distance, without paffing through his body: a cafe not likely to happen, unlefs the houle were in- fulated (like the fecond conductor in the preceding experiment), and his body became the channel through which alone the houle could have its electric matter restored to it : it appears much more probable that the electric matter returns to the houle through the _fame channels_ by which it before infentibly paffed out, and with equal silence, tho' more fuddenly.<x_0.9814><y_0.8516><class_Text>\n\n<x_0.2119><y_0.8508>\" In the cafe of a man who is abroad, and in an open field, during the time of an explosion;--as he is unconnected with other mafles of matter _above him_, no more than the precife quantity of electric fire, which had been before expelled from his body, will _fuddenly_ return into it at the inflant of a diftant explosion: and that this quantity is not ufually very large, may be inferred from many confiderations.<x_0.9824><y_0.9906><class_Text>",
+ "reply": {
+  "id": "chatcmpl-ab8a6af4-a3d2-4349-ad5e-f7d6455042f0",
+  "object": "chat.completion",
+  "created": 1792322430,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4658><y_0.0047>L I G [ 42<x_0.999><y_0.0344><class_Page-header>\n\n<x_0.0781><y_0.0312>Lightning.<x_0.2188><y_0.0523><class_Section-header>\n\n<x_0.2139><y_0.032>we have feen above; it is _mathematically evident_, that, when a _returning stroke_ comes to be produced by the _fudden_ removal of the very frong claftic electrical pref- fure of the electrical atmosphere of a thunder-cloud powerfully charged; the strength of fuch a _returning stroke_ mult be _enormous._\"<x_0.9795><y_0.1367><class_Text>\n\n<x_0.2148><y_0.1359>\" If indeed the quantity of electric fluid naturally contained in the body of a man, for instance, were im- mente, or indefinite, the author’s eliminate between the effects producible by a cloud, and those canfed by a prime conductor, might be admitted. But furely an electrified cloud,--how great foeyer may be its ex- tent, and the height of its charge, when compared with the extent and charge of a prime conductor-- cannot expel from a man’s body (or any other body) more than the natural quantity of electricity which it contains. On the fudden removal, therefore, of the preffure by which this natural quantity had been ex- pelled, in consequence of the explofion of the cloud into the earth; no more (at the utmolt) than his _whole natural flock_ of electricity can re-enter his body (c). But we have no realon to fuppofe that this quantity is fo great, as that its fudden re-entrance into his body should deftroy or even injure him.<x_0.9805><y_0.443><class_Text>\n\n<x_0.2129><y_0.4422>\" In the experiment above deferibed, the infulated perfon receives into his body, at the infant of the _re- turning Stroke_, not only all that portion of his own natural electric-fire which had been expelled from it; but likewife tranfmits through it, at the fame inflant, _in consequence of his peculiar situation_, all the electric fire of which the large fecond conductor had been robbed; and which muft necellarily re-pals through his body, to arrive at that conductor. To render the cafe fomewhat parallel, in _natural electricity_, the man's body muft be fo peculiarly circumflanced, fuppofing him to be in a houle, that the electric matter which has been expelled from the houte into the earth, by the preffure of an extenfive thunder-cloud, could not return back into the building, on the explofion of the cloud at a distance, without paffing through his body: a cafe not likely to happen, unlefs the houle were in- fulated (like the fecond conductor in the preceding experiment), and his body became the channel through which alone the houle could have its electric matter restored to it : it appears much more probable that the electric matter returns to the houle through the _fame channels_ by which it before infentibly paffed out, and with equal silence, tho' more fuddenly.<x_0.9814><y_0.8516><class_Text>\n\n<x_0.2119><y_0.8508>\" In the cafe of a man who is abroad, and in an open field, during the time of an explosion;--as he is unconnected with other mafles of matter _above him_, no more than the precife quantity of electric fire, which had been before expelled from his body, will _fuddenly_ return into it at the inflant of a diftant explosion: and that this quantity is not ufually very large, may be inferred from many confiderations.<x_0.9824><y_0.9906><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1838,
+   "total_tokens": 2611,
+   "completion_tokens": 773,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

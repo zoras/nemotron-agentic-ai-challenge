@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "123b2ef8deb89bf6f68e8eb765def546f1cc3f718e4832a8e6fd1b1c5c8fc0a3",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "50601fc3ff30cd82b0b0c6846bc5fa1382d1e24ad61d811dd2e4f20251f84fdd",
+  "image_bytes": 2177147,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:713",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0553,
+   0.4717,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0553,
+    0.1412,
+    0.4667
+   ],
+   [
+    0.1412,
+    0.2271,
+    0.4667
+   ],
+   [
+    0.2271,
+    0.3129,
+    0.4667
+   ],
+   [
+    0.3129,
+    0.3988,
+    0.4667
+   ],
+   [
+    0.3988,
+    0.4847,
+    0.4667
+   ],
+   [
+    0.4847,
+    0.5706,
+    0.4667
+   ],
+   [
+    0.5706,
+    0.6565,
+    0.4667
+   ],
+   [
+    0.6565,
+    0.7424,
+    0.4667
+   ],
+   [
+    0.7424,
+    0.8282,
+    0.4667
+   ],
+   [
+    0.8282,
+    0.9141,
+    0.4667
+   ],
+   [
+    0.9141,
+    1.0,
+    0.4667
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2463,
+  "completion_tokens": 919,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.46,
+ "created_at": "2026-10-18T11:10:30+00:00",
+ "content": "<x_0.0596><y_0.0>1. Aries, or ram and fheep, the horns of which are flu- ped like a half moon, and compreffed. This animal is perhaps the most gentle and inoffenive, and at the fame time the molt timid and flupid, of all quadrupeds. In a flock of heep, there is always a leader, whole fleeps the reft implicitly and blindly follow. If he runs over a precipice, the whole flock follow his example, and cannot be reflrained though evident deltruation be the confe- quence. The finalleit noife, if uncommon, makes them run precipitantly against each other, without knowing the caufe of their danger, or being able to extricate themfelves. In how, they remain fixed in the fame foot; and continue obtiinately in that situation, unlefs they are forced to move by the flepherd or his dog. But though daflardly in itself, though almost devoid of sentiment and mental qualities, this animal is of the molt extensive utility to man. It affords us both food and cloathing, besides the advantages we derive from its milk, its skin, and its tallow.<x_0.9883><y_0.2703><class_Text>\n\n<x_0.0586><y_0.2695>Love, the livelieft fentiment in all animals, is the on- ly pallion which infpires the ram with any degree of vi- vacity; when under the influence of this pallion, he becomes petulant, runs againlt his neighbours, and fometimes even attacks the flepherd himself. But the ewe, or female, though in the fame ltuation, does not appear to be in the leaf affected; the feems to have no other infinist than that of imply admitting the embraces of the ram, eating her food, and recogniling her offspring; the lamb, on the other hand, is endowed with the fame inflint of diltinguihing its mother from the reft of the flock.<x_0.9795><y_0.4281><class_Text>\n\n<x_0.0566><y_0.4273>This animal, fo folt and fo limple in its nature and difpofition, is likewise extremely weak and feeble in its contitution: They can endure but little fatigue; whenever they run, their hearts palpitate, and their wind fails them; they are equally incapable of bearing heat or cold, flow or rain: They are subject to many difcafes, molt of which are contagious: They bring forth their young with pain and difficulty, and require more care and attention than any other domestic animal.<x_0.9785><y_0.5547><class_Text>\n\n<x_0.0527><y_0.5539>The ram is capable of generation at the age of 18 months; and the ewe can be impregnated when a year old. One ram is sufficient for 30 or 40 ewes. He ought to be fitong, well proportioned; his head thould be thick and fitong, his front large, his eyes black, his nofe flat, his neck thick, his body long and tall, his telticles mally, and his tail long. White is the belt colour for a ram. The ewes whofe wool is moft plentiful, buhy, long, loft, and white, are molt proper for breeders. especially when at the fame time they are of a large size, have a thick neck, and move nimbly.<x_0.9775><y_0.7117><class_Text>\n\n<x_0.0498><y_0.7109>Ewes are generally in feafon from the end of October to the beginning of April: However, they may be impregnated at any time, if they be fed with filmulating nonrithment, as fat water, and bread made of hemp feed. They go with young about five months, and generally bring forth but one at a time, though frequently two: In warm climates, they may bring forth twice in a year; but in Britain, France, and molt parts of Europe, only once. They give milk plentifully for fever or eight months: Their milk affords nourishment for children and country people; good cheefe is made of it, especially when mixed with cow-milk. They live from 10 to 12 years, and are capable of bringing forth as long as they live.<x_0.9766><y_0.9102><class_Text>\n\n<x_0.0869><y_0.9094>Vol. III. No. 88.<x_0.4473><y_0.9297><class_Page-footer>\n\n<x_0.5605><y_0.9141>2<x_0.5947><y_0.9273><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-5e7655b0-79c8-430b-8e15-9e490db5a078",
+  "object": "chat.completion",
+  "created": 1792321829,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0596><y_0.0>1. Aries, or ram and fheep, the horns of which are flu- ped like a half moon, and compreffed. This animal is perhaps the most gentle and inoffenive, and at the fame time the molt timid and flupid, of all quadrupeds. In a flock of heep, there is always a leader, whole fleeps the reft implicitly and blindly follow. If he runs over a precipice, the whole flock follow his example, and cannot be reflrained though evident deltruation be the confe- quence. The finalleit noife, if uncommon, makes them run precipitantly against each other, without knowing the caufe of their danger, or being able to extricate themfelves. In how, they remain fixed in the fame foot; and continue obtiinately in that situation, unlefs they are forced to move by the flepherd or his dog. But though daflardly in itself, though almost devoid of sentiment and mental qualities, this animal is of the molt extensive utility to man. It affords us both food and cloathing, besides the advantages we derive from its milk, its skin, and its tallow.<x_0.9883><y_0.2703><class_Text>\n\n<x_0.0586><y_0.2695>Love, the livelieft fentiment in all animals, is the on- ly pallion which infpires the ram with any degree of vi- vacity; when under the influence of this pallion, he becomes petulant, runs againlt his neighbours, and fometimes even attacks the flepherd himself. But the ewe, or female, though in the fame ltuation, does not appear to be in the leaf affected; the feems to have no other infinist than that of imply admitting the embraces of the ram, eating her food, and recogniling her offspring; the lamb, on the other hand, is endowed with the fame inflint of diltinguihing its mother from the reft of the flock.<x_0.9795><y_0.4281><class_Text>\n\n<x_0.0566><y_0.4273>This animal, fo folt and fo limple in its nature and difpofition, is likewise extremely weak and feeble in its contitution: They can endure but little fatigue; whenever they run, their hearts palpitate, and their wind fails them; they are equally incapable of bearing heat or cold, flow or rain: They are subject to many difcafes, molt of which are contagious: They bring forth their young with pain and difficulty, and require more care and attention than any other domestic animal.<x_0.9785><y_0.5547><class_Text>\n\n<x_0.0527><y_0.5539>The ram is capable of generation at the age of 18 months; and the ewe can be impregnated when a year old. One ram is sufficient for 30 or 40 ewes. He ought to be fitong, well proportioned; his head thould be thick and fitong, his front large, his eyes black, his nofe flat, his neck thick, his body long and tall, his telticles mally, and his tail long. White is the belt colour for a ram. The ewes whofe wool is moft plentiful, buhy, long, loft, and white, are molt proper for breeders. especially when at the fame time they are of a large size, have a thick neck, and move nimbly.<x_0.9775><y_0.7117><class_Text>\n\n<x_0.0498><y_0.7109>Ewes are generally in feafon from the end of October to the beginning of April: However, they may be impregnated at any time, if they be fed with filmulating nonrithment, as fat water, and bread made of hemp feed. They go with young about five months, and generally bring forth but one at a time, though frequently two: In warm climates, they may bring forth twice in a year; but in Britain, France, and molt parts of Europe, only once. They give milk plentifully for fever or eight months: Their milk affords nourishment for children and country people; good cheefe is made of it, especially when mixed with cow-milk. They live from 10 to 12 years, and are capable of bringing forth as long as they live.<x_0.9766><y_0.9102><class_Text>\n\n<x_0.0869><y_0.9094>Vol. III. No. 88.<x_0.4473><y_0.9297><class_Page-footer>\n\n<x_0.5605><y_0.9141>2<x_0.5947><y_0.9273><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2463,
+   "completion_tokens": 919,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

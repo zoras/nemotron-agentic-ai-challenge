@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "4606f9217996d83349ae78cae4adffe0949175280de7cdddf6c3ec41a5007686",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "51c60885b699e4660ad3621ef8fec9ee417c8c9d7882d92772de435022b2f4f2",
+  "image_bytes": 2607631,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1818",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0231,
+   0.475,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0231,
+    0.1045,
+    0.47
+   ],
+   [
+    0.1045,
+    0.1859,
+    0.465
+   ],
+   [
+    0.1859,
+    0.2673,
+    0.465
+   ],
+   [
+    0.2673,
+    0.3487,
+    0.465
+   ],
+   [
+    0.3487,
+    0.4301,
+    0.465
+   ],
+   [
+    0.4301,
+    0.5115,
+    0.465
+   ],
+   [
+    0.5115,
+    0.593,
+    0.465
+   ],
+   [
+    0.593,
+    0.6744,
+    0.465
+   ],
+   [
+    0.6744,
+    0.7558,
+    0.465
+   ],
+   [
+    0.7558,
+    0.8372,
+    0.465
+   ],
+   [
+    0.8372,
+    0.9186,
+    0.465
+   ],
+   [
+    0.9186,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2445,
+  "completion_tokens": 901,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.55,
+ "created_at": "2026-10-18T11:20:23+00:00",
+ "content": "<x_0.749><y_0.0047>**BLOW**<x_0.999><y_0.0273><class_Title>\n\n<x_0.0625><y_0.0281>to the axis of the blow-pipe. A consists of two pieces, one of which fits air-tight into the other, and may be turned on its axis, so that the pipe of issue may be made to form different angles with the axis of the blow-pipe, as the position of the matter under experiment may require.<x_0.9756><y_0.0969><class_Text>\n\n<x_0.1025><y_0.0922>Flame consists of vapour in a state of incandescence. Many substances, both of the vegetable, animal, and mine-ral kingdoms, have the quality of giving out this incan- descent vapour. For domestic uses, and for the arts, organized bodies of the vegetable and animal kingdom alone are employed to produce it; such as oils, some of which are solid, others fluid, at the usual temperature of the air, alcohol, ether, wood, and pit-coal. This latter, though found amongst minerals, is composed of organized matter changed and rendered bituminous by a particular process of decomposition. The blow-pipe, by directing the in- candescent particles of which the flame consists so as to strike against and surround a small body, produces the effect of heating the body considerably. The flame used with the blow-pipe may either be the flame of an oil or spirit lamp, or of a candle; the flame of the carbonated hydrogen gas proceeding from the distillation of the pit- coal, is also found advantageous for this purpose.<x_0.9746><y_0.3281><class_Text>\n\n<x_0.1016><y_0.325>In order to use the blow-pipe, the breath impelled through it is to be directed across the flame of a lamp or candle, applying the orifice from which the air issues a little above the upper end of the wick; and a jet of flame is thus formed, as represented at fig. 8. This jet is made to fall on the body to be heated. The operation may be continued for a considerable length of time; an uninterrupted blast is kept up by the muscular action of the cheeks, whilst the ordinary respiration goes on through the nose; and a little practice is sufficient to enable the operator to succeed. The jet of flame is conoidal, internally blue, and externally yellow. By more or less immersion in this jet of flame the subject of operation receives a greater or less degree of heat, and becomes oxidated in a greater or less degree. If a bead of borax, containing oxide of manganese, be kept fused for some time in the inner flame, the bead becomes colourless; when it is afterwards kept fused in the outer flame, the manganese acquires more oxygen, and the bead becomes of a violet colour. This violet colour may be made to appear more speedily by adding a particle of nitre.<x_0.9766><y_0.6><class_Text>\n\n<x_0.1006><y_0.5961>The first who applied the blow-pipe to the analysis of minerals was Swab, counsellor of the college of mines in Sweden in 1738. Its application to the science of mineralogy was afterwards further improved by Cronsted, Rinman, Gahn, Scheele, and Bergman, and by other men of science since their time.<x_0.9775><y_0.6766><class_Text>\n\n<x_0.0996><y_0.6734>The blow-pipe is useful to the mineralogist and chemist, as affording a ready method of knowing what the component parts of bodies are. Trials with the blow-pipe are generally made by the chemist in order to know the nature of the constituent parts, before he proceeds to the other steps of dry or humid analysis, which are requisite for ascertaining the quantities of the constituent parts. Then recourse is had to other means than the blow-pipe; for, in order to come at a knowledge of the proportions of the constituent parts, it is necessary that the quantity of each constituent part be large enough to be weighed in a balance, and, for this purpose, the quantity of the substance employed must be larger than what can be managed with the blow-pipe.<x_0.9785><y_0.8586><class_Text>\n\n<x_0.0977><y_0.8539>In experimental mineralogy with the blow-pipe, the small fragment of the body subjected to trial should not exceed the size of half a peppercorn; if larger, it cannot be sufficiently heated. It is placed in a lenticular cavity, made with a knife, in a piece of well-burnt charcoal of wood, free from cracks, and not too porous, and of the<x_0.9707><y_0.9367><class_Text>\n\n<x_0.1279><y_0.9328>VOL. IV.<x_0.25><y_0.9453><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-3d52a383-834f-4394-8bca-36238c0a0488",
+  "object": "chat.completion",
+  "created": 1792322422,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.749><y_0.0047>**BLOW**<x_0.999><y_0.0273><class_Title>\n\n<x_0.0625><y_0.0281>to the axis of the blow-pipe. A consists of two pieces, one of which fits air-tight into the other, and may be turned on its axis, so that the pipe of issue may be made to form different angles with the axis of the blow-pipe, as the position of the matter under experiment may require.<x_0.9756><y_0.0969><class_Text>\n\n<x_0.1025><y_0.0922>Flame consists of vapour in a state of incandescence. Many substances, both of the vegetable, animal, and mine-ral kingdoms, have the quality of giving out this incan- descent vapour. For domestic uses, and for the arts, organized bodies of the vegetable and animal kingdom alone are employed to produce it; such as oils, some of which are solid, others fluid, at the usual temperature of the air, alcohol, ether, wood, and pit-coal. This latter, though found amongst minerals, is composed of organized matter changed and rendered bituminous by a particular process of decomposition. The blow-pipe, by directing the in- candescent particles of which the flame consists so as to strike against and surround a small body, produces the effect of heating the body considerably. The flame used with the blow-pipe may either be the flame of an oil or spirit lamp, or of a candle; the flame of the carbonated hydrogen gas proceeding from the distillation of the pit- coal, is also found advantageous for this purpose.<x_0.9746><y_0.3281><class_Text>\n\n<x_0.1016><y_0.325>In order to use the blow-pipe, the breath impelled through it is to be directed across the flame of a lamp or candle, applying the orifice from which the air issues a little above the upper end of the wick; and a jet of flame is thus formed, as represented at fig. 8. This jet is made to fall on the body to be heated. The operation may be continued for a considerable length of time; an uninterrupted blast is kept up by the muscular action of the cheeks, whilst the ordinary respiration goes on through the nose; and a little practice is sufficient to enable the operator to succeed. The jet of flame is conoidal, internally blue, and externally yellow. By more or less immersion in this jet of flame the subject of operation receives a greater or less degree of heat, and becomes oxidated in a greater or less degree. If a bead of borax, containing oxide of manganese, be kept fused for some time in the inner flame, the bead becomes colourless; when it is afterwards kept fused in the outer flame, the manganese acquires more oxygen, and the bead becomes of a violet colour. This violet colour may be made to appear more speedily by adding a particle of nitre.<x_0.9766><y_0.6><class_Text>\n\n<x_0.1006><y_0.5961>The first who applied the blow-pipe to the analysis of minerals was Swab, counsellor of the college of mines in Sweden in 1738. Its application to the science of mineralogy was afterwards further improved by Cronsted, Rinman, Gahn, Scheele, and Bergman, and by other men of science since their time.<x_0.9775><y_0.6766><class_Text>\n\n<x_0.0996><y_0.6734>The blow-pipe is useful to the mineralogist and chemist, as affording a ready method of knowing what the component parts of bodies are. Trials with the blow-pipe are generally made by the chemist in order to know the nature of the constituent parts, before he proceeds to the other steps of dry or humid analysis, which are requisite for ascertaining the quantities of the constituent parts. Then recourse is had to other means than the blow-pipe; for, in order to come at a knowledge of the proportions of the constituent parts, it is necessary that the quantity of each constituent part be large enough to be weighed in a balance, and, for this purpose, the quantity of the substance employed must be larger than what can be managed with the blow-pipe.<x_0.9785><y_0.8586><class_Text>\n\n<x_0.0977><y_0.8539>In experimental mineralogy with the blow-pipe, the small fragment of the body subjected to trial should not exceed the size of half a peppercorn; if larger, it cannot be sufficiently heated. It is placed in a lenticular cavity, made with a knife, in a piece of well-burnt charcoal of wood, free from cracks, and not too porous, and of the<x_0.9707><y_0.9367><class_Text>\n\n<x_0.1279><y_0.9328>VOL. IV.<x_0.25><y_0.9453><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2445,
+   "completion_tokens": 901,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "993daf47ad156f7f69fc14b85da3e5b4e9dca15b9eccf17afd1b24699ba91674",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "5aadee6255ea442e6289cef7a401967f75149c292835d004777bbdb998a92b04",
+  "image_bytes": 2163481,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:914",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.027,
+   0.5567,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.027,
+    0.1081,
+    0.5283
+   ],
+   [
+    0.1081,
+    0.1892,
+    0.53
+   ],
+   [
+    0.1892,
+    0.2702,
+    0.5333
+   ],
+   [
+    0.2702,
+    0.3513,
+    0.5367
+   ],
+   [
+    0.3513,
+    0.4324,
+    0.54
+   ],
+   [
+    0.4324,
+    0.5135,
+    0.54
+   ],
+   [
+    0.5135,
+    0.5946,
+    0.54
+   ],
+   [
+    0.5946,
+    0.6757,
+    0.54
+   ],
+   [
+    0.6757,
+    0.7567,
+    0.5417
+   ],
+   [
+    0.7567,
+    0.8378,
+    0.545
+   ],
+   [
+    0.8378,
+    0.9189,
+    0.5517
+   ],
+   [
+    0.9189,
+    1.0,
+    0.5417
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2695,
+  "completion_tokens": 895,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.61,
+ "created_at": "2026-10-18T11:19:42+00:00",
+ "content": "<x_0.4141><y_0.0047>A R A [ 18<x_0.9561><y_0.0336><class_Page-header>\n\n<x_0.0469><y_0.0375>Arabia. in the pursuit of an invilible foe, who forms his efforts, and fafely repofes in the heart of the burning folitude. The arms and defarts of the Bedoweens are not only the safeguards of their own freedom, but the barriers also of the Happy Arabia, whose inhabitants, remote from war, are enervated by the luxury of the foil and climate. The legions of Auguftus melted away in dif-cafe and laffitude; and it is only by a naval power that the reduction of Yemen has been fuccefstfully attempt ed. When Mahomet credited his holy fiandard, that kingdom was a province of the Pertian empire; yet even princes of the Homerites fill reigned in the mountains; and the vicegerent of Chofroes was tempted to forget his distant country and his unfortunate matter. The historians of the age of Juliinian repre-fent the fate of the independent Arabs, who were divided by interelt or affection in the long quarrel of the Eaft: the tribe of Gaffan was allowed to encamp on the Syrian territory: the princes of Flira were permitted to form a city about forty miles to the fourthward of the ruins of Babylon. Their fervice in the field was lipeedy and vigorous; but their friendship was venal, their faith incontant, their enemy capricious: it was an earlier talk to excite them to difarm thefe roving barbarians; and, in the familiar intercourse of war, they learned to fee, and to dépife, the splendid weaknefs both of Rome and of Perfia. From Mecca to the Euphrates, the Arabian tribes were confounder by the Greeks and Latins, under the general ap- pellation of Saracens; a name which every Christian mouth has been taught to pronounce with terror and abhorrence.<x_0.9619><y_0.4773><class_Text>\n\n<x_0.0742><y_0.4664>\"The flaves of domestic tyranny may vainly exult in their national independence; but the Arab is perfonally free; and he enjoys, in fome degree, the benefits of fociety, without forfeiting the prerogatives of nature. In every tribe, fupertition, or gratitude, or fortune, has exalted a particular family above the heads of their equals. The dignities of theich and emir invariably defend in this chofen race; but the order of fuccellion is loofe and precarious; and the moft worthy or aged of the noble kinfinen are preferred to the limple, though important, office of compoiling disputes by their advice, and guiding valour by their example. The momentary junction of several tribes produces an army: their more latting union contitutes a nation; and the fupreme chief, the emir of emirs, whole banner is displayed at their head, may deferve, in the eyes of ftrangers, the honours of the kingly name. If the Arabian princess abufe their power, they are quickly punished by the defertion of their subjects, who had been accullomed to a mild and parental jurisdiction. Their fpirit is free, their lips are unconfined, the defart is open, and the tribes and families are held together by a mutual and voluntary compact. The footer na- tives of Yemen fupported the pomp and majetty of a monarch; but if he could not leave his palace without endangering his life, the active powers of government mult have been devolved on his nobles and magillates. The cities of Mecca and Medina prefent, in the heart of Afia, the form or rather the fubblance of a commonwealth. The grandfather of Mahomet, and his lineal an- ceftors, appear in foreign and domestic tranfactions as the princes of their country; but they reigned like Pericles at Athens, or the Medici at Florence, by the opinion of<x_0.999><y_0.9297><class_Text>",
+ "reply": {
+  "id": "chatcmpl-b6cdb5f4-7294-4d35-a80e-9593229bf347",
+  "object": "chat.completion",
+  "created": 1792322380,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4141><y_0.0047>A R A [ 18<x_0.9561><y_0.0336><class_Page-header>\n\n<x_0.0469><y_0.0375>Arabia. in the pursuit of an invilible foe, who forms his efforts, and fafely repofes in the heart of the burning folitude. The arms and defarts of the Bedoweens are not only the safeguards of their own freedom, but the barriers also of the Happy Arabia, whose inhabitants, remote from war, are enervated by the luxury of the foil and climate. The legions of Auguftus melted away in dif-cafe and laffitude; and it is only by a naval power that the reduction of Yemen has been fuccefstfully attempt ed. When Mahomet credited his holy fiandard, that kingdom was a province of the Pertian empire; yet even princes of the Homerites fill reigned in the mountains; and the vicegerent of Chofroes was tempted to forget his distant country and his unfortunate matter. The historians of the age of Juliinian repre-fent the fate of the independent Arabs, who were divided by interelt or affection in the long quarrel of the Eaft: the tribe of Gaffan was allowed to encamp on the Syrian territory: the princes of Flira were permitted to form a city about forty miles to the fourthward of the ruins of Babylon. Their fervice in the field was lipeedy and vigorous; but their friendship was venal, their faith incontant, their enemy capricious: it was an earlier talk to excite them to difarm thefe roving barbarians; and, in the familiar intercourse of war, they learned to fee, and to dépife, the splendid weaknefs both of Rome and of Perfia. From Mecca to the Euphrates, the Arabian tribes were confounder by the Greeks and Latins, under the general ap- pellation of Saracens; a name which every Christian mouth has been taught to pronounce with terror and abhorrence.<x_0.9619><y_0.4773><class_Text>\n\n<x_0.0742><y_0.4664>\"The flaves of domestic tyranny may vainly exult in their national independence; but the Arab is perfonally free; and he enjoys, in fome degree, the benefits of fociety, without forfeiting the prerogatives of nature. In every tribe, fupertition, or gratitude, or fortune, has exalted a particular family above the heads of their equals. The dignities of theich and emir invariably defend in this chofen race; but the order of fuccellion is loofe and precarious; and the moft worthy or aged of the noble kinfinen are preferred to the limple, though important, office of compoiling disputes by their advice, and guiding valour by their example. The momentary junction of several tribes produces an army: their more latting union contitutes a nation; and the fupreme chief, the emir of emirs, whole banner is displayed at their head, may deferve, in the eyes of ftrangers, the honours of the kingly name. If the Arabian princess abufe their power, they are quickly punished by the defertion of their subjects, who had been accullomed to a mild and parental jurisdiction. Their fpirit is free, their lips are unconfined, the defart is open, and the tribes and families are held together by a mutual and voluntary compact. The footer na- tives of Yemen fupported the pomp and majetty of a monarch; but if he could not leave his palace without endangering his life, the active powers of government mult have been devolved on his nobles and magillates. The cities of Mecca and Medina prefent, in the heart of Afia, the form or rather the fubblance of a commonwealth. The grandfather of Mahomet, and his lineal an- ceftors, appear in foreign and domestic tranfactions as the princes of their country; but they reigned like Pericles at Athens, or the Medici at Florence, by the opinion of<x_0.999><y_0.9297><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2695,
+   "completion_tokens": 895,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

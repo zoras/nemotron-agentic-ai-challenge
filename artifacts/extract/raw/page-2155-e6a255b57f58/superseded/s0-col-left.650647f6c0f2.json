@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "650647f6c0f2d173009a772e60ce47329c0161a963827ec1138499229feb84e2",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "fef1c9f78b4872b9f8471f63a43c2a65d8b846639d789785ad7fc582a6d9e0ee",
+  "image_bytes": 1668809,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2155",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0624,
+   0.4617,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0624,
+    0.1476,
+    0.4467
+   ],
+   [
+    0.1476,
+    0.2329,
+    0.445
+   ],
+   [
+    0.2329,
+    0.3181,
+    0.4533
+   ],
+   [
+    0.3181,
+    0.4033,
+    0.455
+   ],
+   [
+    0.4033,
+    0.4886,
+    0.4567
+   ],
+   [
+    0.4886,
+    0.5738,
+    0.4567
+   ],
+   [
+    0.5738,
+    0.6591,
+    0.4567
+   ],
+   [
+    0.6591,
+    0.7443,
+    0.455
+   ],
+   [
+    0.7443,
+    0.8295,
+    0.4567
+   ],
+   [
+    0.8295,
+    0.9148,
+    0.4567
+   ],
+   [
+    0.9148,
+    1.0,
+    0.4567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2383,
+  "completion_tokens": 839,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.36,
+ "created_at": "2026-10-18T11:11:38+00:00",
+ "content": "<x_0.0><y_0.0>plied that fee them, until they are taught by a matter or tutor; I have (for the good-will I bear to fuch unfortunate perions) contrived the following table:<x_0.9609><y_0.0477><class_Text>\n\n<x_0.5898><y_0.0523>_A New Music-TABLE_<x_0.9678><y_0.0727><class_Caption>\n\n<x_0.3623><y_0.0742><chart type=\"other\">\n\n| column_1 | When Treble |\n| --- | --- |\n| A | — |\n| C | ○ |\n| F | — |\n| E | ○ |\n| D | — |\n| C | ○ |\n| B | — |\n| A | ○ |\n| G | — |\n| F | ○ |\n| E | — |\n| D | ○ |\n| C | — |\n</chart><x_0.9912><y_0.2625><class_Chart>\n\n<x_0.4141><y_0.2734>EXPLANATION.<x_0.6895><y_0.2891><class_Section-header>\n\n<x_0.1367><y_0.2883>“ Let A--B be a fmooth board, 3 or 4 feet long, 1 inch thick, and 9 inches wide, with 5 figure ledges glued thereon, each being half an inch afunder, half an inch wide, and half an inch high ; which rifing ledges reprefent our 5 lines of mulic, and their fpaces : and the two outward lines, being made a little lower, may ferve as leger lines, on occasion. The cyphers repre- fent fo many holes bored into every line and fpace, half an inch afunder ; wherein pegt of different shapes are to be fet, to reprefent the feveral forts of notes and characters of the tune : which pegs the blind perfon may know by feeling, as well as he does his keys of the organ or harpfichord : fo that, by keeping his fin- gers on the 5 lines, he feels the feveral pegs as they come on, and are fet to reprefent the feveral forts of notes, on both line and fpace ; whilst his right hand flrikes the respective key, &c. he firft knowing the names of all his keys, his lines, fpaces, and the mark of every peg. Let each peg be about half an inch high, when fet in very fall. [N. B. The blind per- ton mult firft be taught the names of the above lines and fpaces in both the treble and bafs cliffs ; and that he mult feel his treble with his right hand, and his bafs with the left hand ; each being contrary, as you may fee by the letters of the above table, A and B ; and mult learn each part feparate.]<x_0.9736><y_0.6609><class_Text>\n\n<x_0.1377><y_0.6586>“ Of pegs, he mult have a great number of every fol, to fet his tune with, which lie may mark as fol- lows :<x_0.9619><y_0.7039><class_Text>\n\n<x_0.1455><y_0.7078>For a _Semibreve_, 4 top-notches.<x_0.6221><y_0.7242><class_Text>\n\n<x_0.2295><y_0.7234>_Minim._ 2 top-notches.<x_0.5781><y_0.7391><class_List-item>\n\n<x_0.2285><y_0.7375>_Crotchet_, 1 top-notch.<x_0.5713><y_0.7531><class_List-item>\n\n<x_0.2305><y_0.7516>_@uaver_, one corner cut off.<x_0.6533><y_0.7664><class_List-item>\n\n<x_0.2275><y_0.7656>_Semiquaver_, 2 corners cut off.<x_0.6885><y_0.7812><class_List-item>\n\n<x_0.2314><y_0.7805>_Demijemiquaver_, all 4 corners cut off.<x_0.8008><y_0.7969><class_List-item>\n\n<x_0.209><y_0.7953>_Refls._ a notch in the corner.<x_0.6387><y_0.8102><class_List-item>\n\n<x_0.21><y_0.8094>A _Plat_, 1 notch on the ride.<x_0.6572><y_0.8234><class_List-item>\n\n<x_0.2266><y_0.8227>_Sharp_, 2 notches on the ride.<x_0.6689><y_0.8383><class_List-item>\n\n<x_0.2256><y_0.8375>_Point_, 3 notches on the side.<x_0.667><y_0.8531><class_List-item>\n\n<x_0.2246><y_0.8516>_Bar_, a flat thin top.<x_0.5488><y_0.8672><class_List-item>\n\n<x_0.2236><y_0.8656>_Repeat_, a tharp-pointed top, &c. &c. &c.<x_0.8584><y_0.8836><class_List-item>\n\n<x_0.1445><y_0.8859>But it is best for every performer to make and mark his own pegs; and deliver them one<x_0.96><y_0.9203><class_Text>",
+ "reply": {
+  "id": "chatcmpl-909bc0ca-71db-4c09-9ae6-e06097bc8d0d",
+  "object": "chat.completion",
+  "created": 1792321897,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>plied that fee them, until they are taught by a matter or tutor; I have (for the good-will I bear to fuch unfortunate perions) contrived the following table:<x_0.9609><y_0.0477><class_Text>\n\n<x_0.5898><y_0.0523>_A New Music-TABLE_<x_0.9678><y_0.0727><class_Caption>\n\n<x_0.3623><y_0.0742><chart type=\"other\">\n\n| column_1 | When Treble |\n| --- | --- |\n| A | — |\n| C | ○ |\n| F | — |\n| E | ○ |\n| D | — |\n| C | ○ |\n| B | — |\n| A | ○ |\n| G | — |\n| F | ○ |\n| E | — |\n| D | ○ |\n| C | — |\n</chart><x_0.9912><y_0.2625><class_Chart>\n\n<x_0.4141><y_0.2734>EXPLANATION.<x_0.6895><y_0.2891><class_Section-header>\n\n<x_0.1367><y_0.2883>“ Let A--B be a fmooth board, 3 or 4 feet long, 1 inch thick, and 9 inches wide, with 5 figure ledges glued thereon, each being half an inch afunder, half an inch wide, and half an inch high ; which rifing ledges reprefent our 5 lines of mulic, and their fpaces : and the two outward lines, being made a little lower, may ferve as leger lines, on occasion. The cyphers repre- fent fo many holes bored into every line and fpace, half an inch afunder ; wherein pegt of different shapes are to be fet, to reprefent the feveral forts of notes and characters of the tune : which pegs the blind perfon may know by feeling, as well as he does his keys of the organ or harpfichord : fo that, by keeping his fin- gers on the 5 lines, he feels the feveral pegs as they come on, and are fet to reprefent the feveral forts of notes, on both line and fpace ; whilst his right hand flrikes the respective key, &c. he firft knowing the names of all his keys, his lines, fpaces, and the mark of every peg. Let each peg be about half an inch high, when fet in very fall. [N. B. The blind per- ton mult firft be taught the names of the above lines and fpaces in both the treble and bafs cliffs ; and that he mult feel his treble with his right hand, and his bafs with the left hand ; each being contrary, as you may fee by the letters of the above table, A and B ; and mult learn each part feparate.]<x_0.9736><y_0.6609><class_Text>\n\n<x_0.1377><y_0.6586>“ Of pegs, he mult have a great number of every fol, to fet his tune with, which lie may mark as fol- lows :<x_0.9619><y_0.7039><class_Text>\n\n<x_0.1455><y_0.7078>For a _Semibreve_, 4 top-notches.<x_0.6221><y_0.7242><class_Text>\n\n<x_0.2295><y_0.7234>_Minim._ 2 top-notches.<x_0.5781><y_0.7391><class_List-item>\n\n<x_0.2285><y_0.7375>_Crotchet_, 1 top-notch.<x_0.5713><y_0.7531><class_List-item>\n\n<x_0.2305><y_0.7516>_@uaver_, one corner cut off.<x_0.6533><y_0.7664><class_List-item>\n\n<x_0.2275><y_0.7656>_Semiquaver_, 2 corners cut off.<x_0.6885><y_0.7812><class_List-item>\n\n<x_0.2314><y_0.7805>_Demijemiquaver_, all 4 corners cut off.<x_0.8008><y_0.7969><class_List-item>\n\n<x_0.209><y_0.7953>_Refls._ a notch in the corner.<x_0.6387><y_0.8102><class_List-item>\n\n<x_0.21><y_0.8094>A _Plat_, 1 notch on the ride.<x_0.6572><y_0.8234><class_List-item>\n\n<x_0.2266><y_0.8227>_Sharp_, 2 notches on the ride.<x_0.6689><y_0.8383><class_List-item>\n\n<x_0.2256><y_0.8375>_Point_, 3 notches on the side.<x_0.667><y_0.8531><class_List-item>\n\n<x_0.2246><y_0.8516>_Bar_, a flat thin top.<x_0.5488><y_0.8672><class_List-item>\n\n<x_0.2236><y_0.8656>_Repeat_, a tharp-pointed top, &c. &c. &c.<x_0.8584><y_0.8836><class_List-item>\n\n<x_0.1445><y_0.8859>But it is best for every performer to make and mark his own pegs; and deliver them one<x_0.96><y_0.9203><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2383,
+   "completion_tokens": 839,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

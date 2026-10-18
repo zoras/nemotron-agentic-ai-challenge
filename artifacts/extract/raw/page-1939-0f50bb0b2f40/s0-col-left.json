@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "947e01efd20108feacc0a5fd230f0001291798e41aecd4dff4df4d8bb8e2df4a",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "034fefcf8933ed81c6ac08bcf1b419fd24931abec70583b0b54c39cd6cbeabc8",
+  "image_bytes": 2622675,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1939",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0403,
+   0.5283,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0403,
+    0.1203,
+    0.5233
+   ],
+   [
+    0.1203,
+    0.2003,
+    0.5233
+   ],
+   [
+    0.2003,
+    0.2802,
+    0.5233
+   ],
+   [
+    0.2802,
+    0.3602,
+    0.5233
+   ],
+   [
+    0.3602,
+    0.4402,
+    0.5233
+   ],
+   [
+    0.4402,
+    0.5202,
+    0.5233
+   ],
+   [
+    0.5202,
+    0.6001,
+    0.5233
+   ],
+   [
+    0.6001,
+    0.6801,
+    0.5233
+   ],
+   [
+    0.6801,
+    0.7601,
+    0.5233
+   ],
+   [
+    0.7601,
+    0.8401,
+    0.5233
+   ],
+   [
+    0.8401,
+    0.92,
+    0.5233
+   ],
+   [
+    0.92,
+    1.0,
+    0.5233
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2618,
+  "completion_tokens": 946,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.86,
+ "created_at": "2026-10-18T11:20:34+00:00",
+ "content": "<x_0.0801><y_0.0047>6056<x_0.1943><y_0.0258><class_Page-header>\n\n<x_0.7529><y_0.0>P H A R<x_0.9766><y_0.0211><class_Page-header>\n\n<x_0.0781><y_0.0266>_Prepara-tions._<x_0.1924><y_0.0539><class_Caption>\n\n<x_0.2031><y_0.0219>flower. When in perfection, it is very light and thin; pale, and almoft colourlefs ; of great fragrancy, tho’ not quite fo agreeable as the rofemary itself. It is recommended, in the dofe of a few drops, in nervous and hyfferic complaints. Boerhaave holds it in great efterm againt epilepties, and fuppreflions of the uterine purgations, occasioned by weaknefs and inactivity.<x_0.9736><y_0.1391><class_Text>\n\n<x_0.3301><y_0.1375>## _535. Effential oil of rue-leaves._ L.<x_0.8438><y_0.157><class_Section-header>\n\n<x_0.21><y_0.1531>The oil of rue has a very acrid tafte, and a pene-trating fmell, refembling that of the herb, but rather more unpleasant. It is fometimes made ufe of in hyfteric diforders, and as an anthelmintic ; as alfo in epileptics proceeding from a relaxed flate of the nerves.<x_0.9746><y_0.2367><class_Text>\n\n<x_0.2109><y_0.2344>Rue yields its oil very fararingly. The largeft quantity is obtained from it when the flowers are ready to fall off, and the feeds begin to flow themfelves: fuitable maceration, previous to the diftillation, is here extremely necelitary.<x_0.9756><y_0.307><class_Text>\n\n<x_0.3057><y_0.3086>_536. Effential oil of favin leaves._ L. E.<x_0.8916><y_0.3258><class_Section-header>\n\n<x_0.2119><y_0.3234>This oil is a celebrated uterine and emmenagogue ; in cold phlegmatic habits, it is undoubtedly a medicine of good service, though not capable of performing what it has been utually reprefented to do. The dofe is, two or three drops or more.<x_0.9785><y_0.3961><class_Text>\n\n<x_0.3242><y_0.3977>### _537. Effential oil of faffafras._ L. E.<x_0.8633><y_0.4148><class_Section-header>\n\n<x_0.2139><y_0.4125>This is the moft ponderous of all the known effenial oils, but rifes in diftillation with sufficient cafe: it appears limpid as water, has a moderately pungent tafte, a very fragrant fmell, exactly refembling that of the faffafras. It stands greatly commended as a fudo-rific, and for purifying the blood and juices: it is likewise fuppofed to be of service in humoural athmas and coughs. The dofe is from one drop to eight or ten ; though Geoffroy goes as far as 20.<x_0.9902><y_0.5375><class_Text>\n\n<x_0.2158><y_0.5359>The decoction remaining after the diftillation of the oil, affords, by infipillation, an ufeful extract, of a mild, bitterith, fubatringent tafte. Hoffman fays, he has given it with great benefit, in dofes of a feruple, as a corroborant in cachectic cafes, in the decline of intermitting fevers, and for abating hypochondriacal fpafms.<x_0.9912><y_0.6344><class_Text>\n\n<x_0.3848><y_0.6359>## _538. Oil of turpentine._ L. E.<x_0.8301><y_0.6539><class_Section-header>\n\n<x_0.2256><y_0.6508>This is distilled in the fame manner as the foregoing oils, and is strictly an effectual one, though not usually ranked in this clafs : it is commonly, but improperly, called _fpirit of turpentine._ It is employed in large quantities for fome mechanic purposes, and hence the distillation of it is become a particular buffeneris.<x_0.9922><y_0.7477><class_Text>\n\n<x_0.2266><y_0.7461>This oil is a very hot, filmulating medicine. It is fometimes given as a fudorific and diuretic, in the dofe of two or three drops: in larger dofes, it is apt to greatly heat the body, occasion pain of the head, an effusion of the femen and liquor of the prottate glands. It has neverthelefs been of late taken in confiderable dofes (along with honey or other convenient vehicles) against the feiatica ; and, as is laid, with good fuccefs. Some have recommended it againt venereal runnings: but here it has produced mif-chievous consequences, inflaming the parts and aggravating the diforder. Externally it is not unfre<x_0.999><y_0.9164><class_Text>",
+ "reply": {
+  "id": "chatcmpl-5941b995-2719-4fdc-b711-25e854ffd6ed",
+  "object": "chat.completion",
+  "created": 1792322433,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0801><y_0.0047>6056<x_0.1943><y_0.0258><class_Page-header>\n\n<x_0.7529><y_0.0>P H A R<x_0.9766><y_0.0211><class_Page-header>\n\n<x_0.0781><y_0.0266>_Prepara-tions._<x_0.1924><y_0.0539><class_Caption>\n\n<x_0.2031><y_0.0219>flower. When in perfection, it is very light and thin; pale, and almoft colourlefs ; of great fragrancy, tho’ not quite fo agreeable as the rofemary itself. It is recommended, in the dofe of a few drops, in nervous and hyfferic complaints. Boerhaave holds it in great efterm againt epilepties, and fuppreflions of the uterine purgations, occasioned by weaknefs and inactivity.<x_0.9736><y_0.1391><class_Text>\n\n<x_0.3301><y_0.1375>## _535. Effential oil of rue-leaves._ L.<x_0.8438><y_0.157><class_Section-header>\n\n<x_0.21><y_0.1531>The oil of rue has a very acrid tafte, and a pene-trating fmell, refembling that of the herb, but rather more unpleasant. It is fometimes made ufe of in hyfteric diforders, and as an anthelmintic ; as alfo in epileptics proceeding from a relaxed flate of the nerves.<x_0.9746><y_0.2367><class_Text>\n\n<x_0.2109><y_0.2344>Rue yields its oil very fararingly. The largeft quantity is obtained from it when the flowers are ready to fall off, and the feeds begin to flow themfelves: fuitable maceration, previous to the diftillation, is here extremely necelitary.<x_0.9756><y_0.307><class_Text>\n\n<x_0.3057><y_0.3086>_536. Effential oil of favin leaves._ L. E.<x_0.8916><y_0.3258><class_Section-header>\n\n<x_0.2119><y_0.3234>This oil is a celebrated uterine and emmenagogue ; in cold phlegmatic habits, it is undoubtedly a medicine of good service, though not capable of performing what it has been utually reprefented to do. The dofe is, two or three drops or more.<x_0.9785><y_0.3961><class_Text>\n\n<x_0.3242><y_0.3977>### _537. Effential oil of faffafras._ L. E.<x_0.8633><y_0.4148><class_Section-header>\n\n<x_0.2139><y_0.4125>This is the moft ponderous of all the known effenial oils, but rifes in diftillation with sufficient cafe: it appears limpid as water, has a moderately pungent tafte, a very fragrant fmell, exactly refembling that of the faffafras. It stands greatly commended as a fudo-rific, and for purifying the blood and juices: it is likewise fuppofed to be of service in humoural athmas and coughs. The dofe is from one drop to eight or ten ; though Geoffroy goes as far as 20.<x_0.9902><y_0.5375><class_Text>\n\n<x_0.2158><y_0.5359>The decoction remaining after the diftillation of the oil, affords, by infipillation, an ufeful extract, of a mild, bitterith, fubatringent tafte. Hoffman fays, he has given it with great benefit, in dofes of a feruple, as a corroborant in cachectic cafes, in the decline of intermitting fevers, and for abating hypochondriacal fpafms.<x_0.9912><y_0.6344><class_Text>\n\n<x_0.3848><y_0.6359>## _538. Oil of turpentine._ L. E.<x_0.8301><y_0.6539><class_Section-header>\n\n<x_0.2256><y_0.6508>This is distilled in the fame manner as the foregoing oils, and is strictly an effectual one, though not usually ranked in this clafs : it is commonly, but improperly, called _fpirit of turpentine._ It is employed in large quantities for fome mechanic purposes, and hence the distillation of it is become a particular buffeneris.<x_0.9922><y_0.7477><class_Text>\n\n<x_0.2266><y_0.7461>This oil is a very hot, filmulating medicine. It is fometimes given as a fudorific and diuretic, in the dofe of two or three drops: in larger dofes, it is apt to greatly heat the body, occasion pain of the head, an effusion of the femen and liquor of the prottate glands. It has neverthelefs been of late taken in confiderable dofes (along with honey or other convenient vehicles) against the feiatica ; and, as is laid, with good fuccefs. Some have recommended it againt venereal runnings: but here it has produced mif-chievous consequences, inflaming the parts and aggravating the diforder. Externally it is not unfre<x_0.999><y_0.9164><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2618,
+   "completion_tokens": 946,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

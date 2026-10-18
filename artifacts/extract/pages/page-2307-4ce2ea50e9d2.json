@@ -1,0 +1,442 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2307",
+ "row_index": 2307,
+ "volume_id": "144850370",
+ "filename": "page-2307-4ce2ea50e9d2.jpg",
+ "image_sha256": "4ce2ea50e9d2f4035fe1405b86ee2d40131a8b739a494cc64b0c0fab124fe2a5",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.12941,
+  "median_grey": 221,
+  "layout_body_chars": 5811,
+  "layout_pictures": 0
+ },
+ "running_head": "A L G [ 241 ] A L G",
+ "layout_raw": "page-2307-4ce2ea50e9d2/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0514
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2307-4ce2ea50e9d2/head.json",
+   "finish_reason": "stop",
+   "request_key": "d828b5a997e354aa62598e883cf8ec4467e4e8177bc26993ab3ea7e51e7eb839"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0247,
+    0.51,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.4933
+    ],
+    [
+     0.106,
+     0.1872,
+     0.505
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.505
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.505
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.505
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.505
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.505
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.505
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.505
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.505
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.505
+    ],
+    [
+     0.9187,
+     1.0,
+     0.505
+    ]
+   ],
+   "raw_path": "page-2307-4ce2ea50e9d2/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "1e69a310ff80417c110f12d898a3293efa41842504dbfd1e46c4f41025c96305"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4883,
+    0.0247,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.4933
+    ],
+    [
+     0.106,
+     0.1872,
+     0.505
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.505
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.505
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.505
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.505
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.505
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.505
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.505
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.505
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.505
+    ],
+    [
+     0.9187,
+     1.0,
+     0.505
+    ]
+   ],
+   "raw_path": "page-2307-4ce2ea50e9d2/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "46db0c32eba9025619491aeaf2b84fd8f8481c72384198dee6388686e289abb1"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "A L G [ 241 ] A L G",
+   "bbox": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0514
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2307-4ce2ea50e9d2:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**A L G [ 2**",
+   "bbox": [
+    0.1967,
+    0.0293,
+    0.497,
+    0.0513
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2307-4ce2ea50e9d2:b1"
+  },
+  {
+   "order": 2,
+   "class": "Margin-note",
+   "text": "_Algiers._",
+   "bbox": [
+    0.0349,
+    0.0499,
+    0.1001,
+    0.0666
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-left",
+   "id": "page-2307-4ce2ea50e9d2:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "for their valour against the enemies of Christianity. Even ladies of birth and character attended Charles in his expedition, and the wives and daughters of the officers and soldiers followed them with a defign to fettle in Barbary after the conquett was finified. All thefe meeting with a favourable wind, foon appeared before Algiers; every hip difplaying the Spanih colours on the ftern, and another at the head, with a crucifix to ferve them for a pilot.",
+   "bbox": [
+    0.1021,
+    0.0506,
+    0.4951,
+    0.1702
+   ],
+   "source": "s0-col-left",
+   "id": "page-2307-4ce2ea50e9d2:b3"
+  },
+  {
+   "order": 4,
+   "class": "Margin-note",
+   "text": "15 Algiers in great con-fternation.",
+   "bbox": [
+    0.0264,
+    0.1596,
+    0.0956,
+    0.2053
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-left",
+   "id": "page-2307-4ce2ea50e9d2:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "By this prodigious armament, the Algerines were thrown into the utmoft confternation. The city was furrounded only by a wall with fearce any outworks. The whole garrifon conflicted of 800 Turks and 6000 Moors, without fire-arms, and poorly diciplined and accou-tred; the reft of their forces being difperfed in the other provinces of the kingdom, to levy the ufual tribute on the Arabs and Moors. The Spaniards landed with out opposition, and immediately built a fort, under the cannon of which they encamped, and diverted the courte of a fpring which fupplied the city with water. Being now reduced to the utmoft diffrefs, Haffan received a fummons to furrender at discretion, on pain of being put to the fword with all the garrifon. The herald was ordered to extol the vaft power of the emperor both by fea and land, and to exhort him to return to the Christian religion. But to this Haffan only replied, that he must be a'madman who would pretend to advise an enemy, and that the advised muft fill act more madly who would take counfel of fuch an advifer. He was, however, on the point of furrendering the city, when advice was brought him that the forces belonging to the weltern government were in full march towards the place; upon which it was reloived to defend it to the utmoft. Charles, in the mean time, relying upon a general affault, kept a constant firing upon the town; which, from the weak defence made by the garrison, he looked upon as already in his hands. But while the _dowwan_, or Algerine fenate, were deliberating on the moft proper means of obtaining an honourable capitulation, a mad prophet, attended by a multitude of people, entered the affembly, and foretold the fpeedy detruction of the Spaniards before the end of the moon, exhorting the inhabitants to hold out till that time. This prediction was foon accomplished in a very furpriling and unexpected manner: for, on the 28<sup>th</sup>-of October 1541, a dreadful florm of wind, rain, and hail, arofe from the north, accompanied with violent thocks of earthquakes, and a difinal and universal darknets both by fea and land; fo that the fun, moon, and elements, feemed to combine together for the destruction of the Spaniards. In that one night, fome fay in lefs than half an hour, 86 fhips and 15 galleys were destroyed, with all their crews and military litores; by which the army on shore was deprived of all means of fulfilling in thefe parts. Their camp alfo, which spread itself along the plain under the fort, was laid quite under water by the torrents which defended from the neighbouring hills. Many of the troops, by trying to remove into fome better situation, were cut in pieces by the Moors and Arabs; while several galleys, and other veffels, endeavouring to gain fome neighbour ing creeks along the coafts, were immediately plunder ed, and their crews maffacred by the inhabitants.",
+   "bbox": [
+    0.1031,
+    0.1688,
+    0.4965,
+    0.8735
+   ],
+   "source": "s0-col-left",
+   "id": "page-2307-4ce2ea50e9d2:b5"
+  },
+  {
+   "order": 6,
+   "class": "Margin-note",
+   "text": "16 Prevented by a mad prophet from foreignering.",
+   "bbox": [
+    0.0304,
+    0.5238,
+    0.0961,
+    0.5923
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-left",
+   "id": "page-2307-4ce2ea50e9d2:b6"
+  },
+  {
+   "order": 7,
+   "class": "Margin-note",
+   "text": "Spanih fleet deftroyed by a form.",
+   "bbox": [
+    0.0309,
+    0.7052,
+    0.1071,
+    0.7493
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-left",
+   "id": "page-2307-4ce2ea50e9d2:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "The next morning, Charles beheld the fea covered with the fragments of fo many fhips, and the bodies of Vol. I.",
+   "bbox": [
+    0.1051,
+    0.8727,
+    0.4961,
+    0.9124
+   ],
+   "source": "s0-col-left",
+   "id": "page-2307-4ce2ea50e9d2:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "A L G",
+   "bbox": [
+    0.4913,
+    0.0293,
+    0.8041,
+    0.0506
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "men, horfes, and other creatures, fwimming on the waves; at which he was fo difheartened, that abandon- ing his tents, artillery, and all his heavy baggage, to the enemy, he marched at the head of his army, though in no final diforder, towards cape _Malabux_, in order to re-imbark in thofe few veffels which had outweather- ed the form. But Haffan, who had caufed his motions to be watched, allowed him juit time to get to the shore, when he fallied out and attacked the Spaniards in the midft of their hurry and confuition to get into their fhips, killing great numbers, and bringing away a fill greater number of captives; after which he re- turned in triumph to Algiers, where he celebrated with great rejoicings his happy deliverance from fuch dif- trefs and danger.",
+   "bbox": [
+    0.5013,
+    0.0513,
+    0.8941,
+    0.2487
+   ],
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "Soon after this, the prophet _Yufef_, who had foretold the defruction of the Spaniards, was not only declared the deliverer of his country, but had a conferable gratuity decreed him, with the liberty of exerciling his prophetic function unmolefted. It was not long, how- ever, before the marabouts, and fome interpreters of the law, made a frong oppoffion against him; remon- fitrating to the bañhaw, how ridiculous and feandalous it was to their nation, to aferibe the deliverance of it to a poor fortune-teller, which had been obtained by the fervent prayers of an eminent faint of their own profefi- tion. But tho’ the bañhaw and his douwan feemed, out of policy, to give into this laft notion, yet the im- preflion which Yufef's predictions and their late accom- plifhment had made upon the minds of the common people, proved too frong to be eradicated; and the fpi-rit of divination and conjuring has fince got into fuch credit among them, that not only their great flatefmen, but their priefts, marabouts, and fantoons, have applied themselves to that fluidy, and dignified it with the name of _Makomet's Revelations_.",
+   "bbox": [
+    0.5018,
+    0.2479,
+    0.8951,
+    0.5207
+   ],
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "The unhappy Spaniards had fearc reached their fhips, when they were attacked by a freth form, in which feveral more of them perished; one fhip in par-ticular, containing 700 foldiers, befides failors, funk in the emperor’s fight, without a polflibility of faving a fingle man. At length, with much labour, they reached the port of _Bujcyah_, at that time poffeiled by the Spaniards, whither Haffan king of Tunis foon af ter repaired, with a fupply of provisions for the empe- ror, who received him graciously, with freth affurances of his favour and protection. Here he difmiffed the few remains of the Maltefe knights and their forces, who embarked in three flattered gallies, and with much difficulty and danger reached ther own country. Charles himself flaid no longer than till the 16<sup>th</sup> of November, when he fet fail for Carthagena, and reached it on the 25<sup>th</sup> of the fame month. In this unfortunate expedi- tion upwards of 120 fhips and galleys were loft, above 300 colonels and other land and fea officers, 8000 fol- diers and marines, befides thofe deftroyd by the ene- my on their reimbarkation, or drowned in the laft form. The number of prifoners was fo great, that the Alge- rines fold fome of them, by way of contempt, for an onion per head.",
+   "bbox": [
+    0.5023,
+    0.5215,
+    0.8956,
+    0.8347
+   ],
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "Haffan, elated with this victory, in which he had very little fhare, undertook an expedition againlt the king of Tremecen, who, being now deprived of the af- fiftance of the Spaniards, was forced to procure a peace by paying a valt fum of money, and becoming tributary",
+   "bbox": [
+    0.5028,
+    0.8339,
+    0.8945,
+    0.9009
+   ],
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b13"
+  },
+  {
+   "order": 14,
+   "class": "Caption",
+   "text": "Algiers.",
+   "bbox": [
+    0.8961,
+    0.0521,
+    0.9695,
+    0.0673
+   ],
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b14"
+  },
+  {
+   "order": 15,
+   "class": "Caption",
+   "text": "29 Siege of Algiers raifed.",
+   "bbox": [
+    0.8936,
+    0.0788,
+    0.97,
+    0.1138
+   ],
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b15"
+  },
+  {
+   "order": 16,
+   "class": "Caption",
+   "text": "19 The msd prophet re- warded.",
+   "bbox": [
+    0.8931,
+    0.2396,
+    0.967,
+    0.283
+   ],
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b16"
+  },
+  {
+   "order": 17,
+   "class": "Caption",
+   "text": "20 Freth cala- miles of the Spaniards.",
+   "bbox": [
+    0.897,
+    0.5139,
+    0.972,
+    0.5565
+   ],
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b17"
+  },
+  {
+   "order": 18,
+   "class": "Caption",
+   "text": "21 Haffan re- places Tre- mecen.",
+   "bbox": [
+    0.8966,
+    0.8285,
+    0.961,
+    0.8705
+   ],
+   "source": "s0-col-right",
+   "id": "page-2307-4ce2ea50e9d2:b18"
+  }
+ ]
+}

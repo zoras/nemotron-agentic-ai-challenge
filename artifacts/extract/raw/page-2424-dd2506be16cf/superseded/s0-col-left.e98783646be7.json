@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "e98783646be706a6df5a85c9fd2393dfd0a0d7b5ef7ded7d8b43d2d42e7b6898",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "58f21765a418a085b2d0c8c4d2373349998ec08e341baa07659c7789acdf9b9b",
+  "image_bytes": 2261720,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2424",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0678,
+   0.4883,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0678,
+    0.1525,
+    0.4817
+   ],
+   [
+    0.1525,
+    0.2373,
+    0.4817
+   ],
+   [
+    0.2373,
+    0.322,
+    0.4817
+   ],
+   [
+    0.322,
+    0.4068,
+    0.4817
+   ],
+   [
+    0.4068,
+    0.4915,
+    0.4817
+   ],
+   [
+    0.4915,
+    0.5763,
+    0.4817
+   ],
+   [
+    0.5763,
+    0.661,
+    0.4817
+   ],
+   [
+    0.661,
+    0.7458,
+    0.4817
+   ],
+   [
+    0.7458,
+    0.8305,
+    0.4817
+   ],
+   [
+    0.8305,
+    0.9153,
+    0.4833
+   ],
+   [
+    0.9153,
+    1.0,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2604,
+  "completion_tokens": 932,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.35,
+ "created_at": "2026-10-18T11:11:50+00:00",
+ "content": "<x_0.0684><y_0.0>Live Stock. The lid is then closed for a short time, and the mess there- after served out to the cattle. The meal may be that of barley, oats, beans, or, in short, whatever is cheapest at the time, including all the inferior grain of the farm, with the addition of 1 lb. of ground linseed for each animal. An appropriate mode of administering the food is to give 50 lb. of sliced turnips early in the morning, the cooked mess about noon, and as much more turnips in the afternoon. A little oat straw is also given to them daily. For a few weeks before the completion of the fattening process, it is usually remunerative to give 4 or 5 lb. of linseed cake, and 6 lb. of good hay to each beast daily; the cake in combination with the cooked mess, and the hay in lieu of the cat- straw. From the peculiar structure of the digestive organs of the ox--which are adapted for disposing of bulky and but moderately nutritious food--this plan of inducing him to eat a considerable quantity of straw promotes his health and comfort, and economies the more costly food. The Rev. Mr Huxtable has pointed out a still cheaper way of accomplishing the same end. He shreds his turnips by a machine, analogous to a bark-mill, and then mixes them with cut straw, so that the cattle must eat both together. His opinion is, that he not only gains the element of bulk in this way, but that, from the straw and turnips being swallowed together, the hurtful chilling effect of the latter is avoided. He finds that 70 lb. of turnips thus administered is a sufficient daily ration for a fattening bullock.<sup>1</sup><x_0.9873><y_0.3563><class_Text>\n\n<x_0.0625><y_0.3531>Best mode of housing cattle.<x_0.1836><y_0.3891><class_Caption>\n\n<x_0.1846><y_0.3539>A better appreciation of the effects of temperature on the animal economy has of late years exerted a beneficial influence upon the treatment of fattening cattle. Observant farmers have long been aware that their cattle, when kept dry and moderately warm, eat less and thrive faster than under opposite conditions. They accounted for this in a vague way by attributing it to their greater comfort in such circumstances. Scientific men have now, however, shewed us that a considerable portion of the food consumed by warm-blooded animals is expended in maintaining the natural heat of their bodies, and that the portion of food thus disposed of is dissipated by a process so closely analogous to combustion, that it may fitly be regarded as so much fuel. The fat which, in favourable circumstances is accumulated in their bodies, may in like manner be regarded as a store of this fuel laid up for future emergencies. The knowledge of this fact enables us to understand how largely the profit, to be derived from the fattening of cattle, is dependent upon the manner in which they are housed, and necessarily forms an important element in determining the question whether _yards, stalls_, or _boxes_, are best adapted for this purpose. A really good system of housing must combine the following conditions:—<x_0.9844><y_0.6547><class_Text>\n\n<x_0.1855><y_0.6539>_1st, Facilities for supplying food and litter, and for remov- ing dung with the utmost economy of time and labour._<x_0.9795><y_0.682><class_Text>\n\n<x_0.2148><y_0.6797>_2d, Complete freedom from disturbance._<x_0.7637><y_0.6945><class_Text>\n\n<x_0.2158><y_0.6937>_3d, A moderate and equal degree of warmth._<x_0.8242><y_0.707><class_Text>\n\n<x_0.2168><y_0.7063>_4th, A constant supply of pure air._<x_0.6836><y_0.7211><class_Text>\n\n<x_0.1865><y_0.7195>_5th, Opportunity for the cattle having a slight degree of exercise; and_<x_0.9785><y_0.7461><class_Text>\n\n<x_0.2178><y_0.7453>_6th, The production of manure of the best quality._<x_0.8965><y_0.7586><class_Text>\n\n<x_0.1816><y_0.7578>We have no hesitation in expressing our opinion that the whole of these conditions are attained most fully by means of well-arranged boxes. Stalls are to be preferred where the saving of litter is an object; and yards for the rearing of young cattle, which require more exercise than is suitable for fattening stock.<x_0.9805><y_0.8383><class_Text>\n\n<x_0.1826><y_0.8367>But however excellent the system of housing and feeding which is adopted, a successful result will, in every instance, be much dependent upon the villigant superintendence of the<x_0.9775><y_0.8805><class_Text>\n\n<x_0.542><y_0.8898>1 See \"Present Prices\" by Rev. A. B<x_0.999><y_0.907><class_Footnote>\n\n<x_0.2129><y_0.9047>VOL. II.<x_0.3203><y_0.918><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-8da002f6-cd63-4694-aa1a-5df43e3e3130",
+  "object": "chat.completion",
+  "created": 1792321909,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0684><y_0.0>Live Stock. The lid is then closed for a short time, and the mess there- after served out to the cattle. The meal may be that of barley, oats, beans, or, in short, whatever is cheapest at the time, including all the inferior grain of the farm, with the addition of 1 lb. of ground linseed for each animal. An appropriate mode of administering the food is to give 50 lb. of sliced turnips early in the morning, the cooked mess about noon, and as much more turnips in the afternoon. A little oat straw is also given to them daily. For a few weeks before the completion of the fattening process, it is usually remunerative to give 4 or 5 lb. of linseed cake, and 6 lb. of good hay to each beast daily; the cake in combination with the cooked mess, and the hay in lieu of the cat- straw. From the peculiar structure of the digestive organs of the ox--which are adapted for disposing of bulky and but moderately nutritious food--this plan of inducing him to eat a considerable quantity of straw promotes his health and comfort, and economies the more costly food. The Rev. Mr Huxtable has pointed out a still cheaper way of accomplishing the same end. He shreds his turnips by a machine, analogous to a bark-mill, and then mixes them with cut straw, so that the cattle must eat both together. His opinion is, that he not only gains the element of bulk in this way, but that, from the straw and turnips being swallowed together, the hurtful chilling effect of the latter is avoided. He finds that 70 lb. of turnips thus administered is a sufficient daily ration for a fattening bullock.<sup>1</sup><x_0.9873><y_0.3563><class_Text>\n\n<x_0.0625><y_0.3531>Best mode of housing cattle.<x_0.1836><y_0.3891><class_Caption>\n\n<x_0.1846><y_0.3539>A better appreciation of the effects of temperature on the animal economy has of late years exerted a beneficial influence upon the treatment of fattening cattle. Observant farmers have long been aware that their cattle, when kept dry and moderately warm, eat less and thrive faster than under opposite conditions. They accounted for this in a vague way by attributing it to their greater comfort in such circumstances. Scientific men have now, however, shewed us that a considerable portion of the food consumed by warm-blooded animals is expended in maintaining the natural heat of their bodies, and that the portion of food thus disposed of is dissipated by a process so closely analogous to combustion, that it may fitly be regarded as so much fuel. The fat which, in favourable circumstances is accumulated in their bodies, may in like manner be regarded as a store of this fuel laid up for future emergencies. The knowledge of this fact enables us to understand how largely the profit, to be derived from the fattening of cattle, is dependent upon the manner in which they are housed, and necessarily forms an important element in determining the question whether _yards, stalls_, or _boxes_, are best adapted for this purpose. A really good system of housing must combine the following conditions:—<x_0.9844><y_0.6547><class_Text>\n\n<x_0.1855><y_0.6539>_1st, Facilities for supplying food and litter, and for remov- ing dung with the utmost economy of time and labour._<x_0.9795><y_0.682><class_Text>\n\n<x_0.2148><y_0.6797>_2d, Complete freedom from disturbance._<x_0.7637><y_0.6945><class_Text>\n\n<x_0.2158><y_0.6937>_3d, A moderate and equal degree of warmth._<x_0.8242><y_0.707><class_Text>\n\n<x_0.2168><y_0.7063>_4th, A constant supply of pure air._<x_0.6836><y_0.7211><class_Text>\n\n<x_0.1865><y_0.7195>_5th, Opportunity for the cattle having a slight degree of exercise; and_<x_0.9785><y_0.7461><class_Text>\n\n<x_0.2178><y_0.7453>_6th, The production of manure of the best quality._<x_0.8965><y_0.7586><class_Text>\n\n<x_0.1816><y_0.7578>We have no hesitation in expressing our opinion that the whole of these conditions are attained most fully by means of well-arranged boxes. Stalls are to be preferred where the saving of litter is an object; and yards for the rearing of young cattle, which require more exercise than is suitable for fattening stock.<x_0.9805><y_0.8383><class_Text>\n\n<x_0.1826><y_0.8367>But however excellent the system of housing and feeding which is adopted, a successful result will, in every instance, be much dependent upon the villigant superintendence of the<x_0.9775><y_0.8805><class_Text>\n\n<x_0.542><y_0.8898>1 See \"Present Prices\" by Rev. A. B<x_0.999><y_0.907><class_Footnote>\n\n<x_0.2129><y_0.9047>VOL. II.<x_0.3203><y_0.918><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2604,
+   "completion_tokens": 932,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,343 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:266",
+ "row_index": 266,
+ "volume_id": "149982181",
+ "filename": "page-0266-dfbe51d09127.jpg",
+ "image_sha256": "dfbe51d091279145e37f51fdee7d7b6903c89ea6d64f90fb27913a7d0437e246",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.08627,
+  "median_grey": 220,
+  "layout_body_chars": 6591,
+  "layout_pictures": 0
+ },
+ "running_head": "A W. 655 Law of Scotland.",
+ "layout_raw": "page-0266-dfbe51d09127/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0,
+    0.4617,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.45
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.4567
+    ],
+    [
+     0.1667,
+     0.25,
+     0.4567
+    ],
+    [
+     0.25,
+     0.3333,
+     0.4567
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.4567
+    ],
+    [
+     0.4167,
+     0.5,
+     0.4567
+    ],
+    [
+     0.5,
+     0.5833,
+     0.4567
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.4567
+    ],
+    [
+     0.6667,
+     0.75,
+     0.4567
+    ],
+    [
+     0.75,
+     0.8333,
+     0.4567
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.4567
+    ],
+    [
+     0.9167,
+     1.0,
+     0.4567
+    ]
+   ],
+   "raw_path": "page-0266-dfbe51d09127/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "5309084ac048f366f3db53cd68ea4325f7b38f6734e82388ff285064568a7f98"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.445,
+    0.0,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.45
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.4567
+    ],
+    [
+     0.1667,
+     0.25,
+     0.4567
+    ],
+    [
+     0.25,
+     0.3333,
+     0.4567
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.4567
+    ],
+    [
+     0.4167,
+     0.5,
+     0.4567
+    ],
+    [
+     0.5,
+     0.5833,
+     0.4567
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.4567
+    ],
+    [
+     0.6667,
+     0.75,
+     0.4567
+    ],
+    [
+     0.75,
+     0.8333,
+     0.4567
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.4567
+    ],
+    [
+     0.9167,
+     1.0,
+     0.4567
+    ]
+   ],
+   "raw_path": "page-0266-dfbe51d09127/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "42500e955ffdfb9625dda35b9e9138a5189ec4904b4a0383fe7ad27a7cf5aef3"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Title",
+   "text": "art III.",
+   "bbox": [
+    0.0108,
+    0.0359,
+    0.0888,
+    0.0563
+   ],
+   "source": "s0-col-left",
+   "id": "page-0266-dfbe51d09127:b0"
+  },
+  {
+   "order": 1,
+   "class": "Text",
+   "text": "4. Marriage is forbidden within certain degrees of blood. By the law of Mofes ( Levitticus xviii,), which, by the act 1567. c. 15. has been adopted by us, fe- conds in blood, and all remoter degrees, may all lawfully marry. By feconds in blood are meant first cou- fins. Marriage in the direct line is forbidden in infi- niture; as it is alfo in the collateral line in the special cafe where one of the parties is _loo parents_ to the other, as grand-uncle, great grand-uncle, &c. with re- fpect to his grand niece, &c. The fame degrees that are prohibited in confanguinity, are prohibited in af- finity; which is the tie arising from marriage, betwixt one of the married pair, and the blood relations of the other. Marriage alfo, where either of the parties is naturally unfit for generation, or hands already mar-ried to a third person, is _ipfo jure_ null.",
+   "bbox": [
+    0.0667,
+    0.0555,
+    0.4518,
+    0.2766
+   ],
+   "source": "s0-col-left",
+   "id": "page-0266-dfbe51d09127:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "5. To prevent bigamy and incelluous marriages, the church has introduced proclamation of banns; which is the ceremony of publishing the names and delignations of thofe who intend to intermarry, in the churches where the bride and bridegroom refide, after the congregation is affembled for divine service; that all persons who know any objection to the marriage may offer it. When the order of the church is ob- ferved, the marriage is called regular; when otherwise, cland offline. Marriage is valid when entered into in either of thefe ways; but when clandeline, there are certain penalties imposed upon the parties as well as the celebrator and witneffes.",
+   "bbox": [
+    0.0663,
+    0.2742,
+    0.4522,
+    0.4508
+   ],
+   "source": "s0-col-left",
+   "id": "page-0266-dfbe51d09127:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "6. By marriage, a fociety is created between the married pair, which draws after it a mutual communi- cation of their civil interefts, in as far as is necessary for maintaining it. As the fociety lafts only for the joint lives of the focii; therefore rights that have the nature of a perpetuity, which our law flyles _heritable_, are not brought under the partnership or communion of goods; as a land-ellate, or bonds bearing a yearly interest: it is only moveable subjects, or the fruits produced by heritable subjects during the marriage, that become common to man and wife.",
+   "bbox": [
+    0.0658,
+    0.4492,
+    0.4513,
+    0.6
+   ],
+   "source": "s0-col-left",
+   "id": "page-0266-dfbe51d09127:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "7. The hufband, as the head of the wife, has the fole right of managing the goods in communion, which is called _jus mariti._ This right is fo abfolute, that it bears but little resemblance to a right of adminiftering a common subject. For the hufband can, in virtue thereof, fell, or even gift, at his pleasure, the whole goods falling under communion; and his creditors may affect them for the payment of his proper debts: fo that the _jus mariti_ carries all the characters of an affiliation, by the wife to her hufband, of her moveable eliate. It arites _ipfo jure_ from the marriage; and therefore needs no other conflution. But a stranger may convey an eliate to a wife, fo as it shall not be subject to the hufband's administration; or the huf- band himself may, in the marriage-contract, renounce his _jus mariti_ in all or any part of his wife’s moveable elate.",
+   "bbox": [
+    0.0654,
+    0.5984,
+    0.4509,
+    0.8297
+   ],
+   "source": "s0-col-left",
+   "id": "page-0266-dfbe51d09127:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "8. From this right are excepted paraphernal goods, which, as the word is understood in our law, compre- hends the wife’s wearing apparel, and the ornaments proper to her perfon; as necklaces, ear-rings, break or arm jewels, buckles, &c. There are neither alic- nable by the hufband, nor affectable by his creditors. Things of promificous ufc to hufband and wife, as plate, medals, &c. may become paraphernal, by the",
+   "bbox": [
+    0.0672,
+    0.8289,
+    0.4504,
+    0.9414
+   ],
+   "source": "s0-col-left",
+   "id": "page-0266-dfbe51d09127:b5"
+  },
+  {
+   "order": 6,
+   "class": "Page-header",
+   "text": "A W. 655 Law of Scotland.",
+   "bbox": [
+    0.445,
+    0.032,
+    0.9192,
+    0.0555
+   ],
+   "source": "s0-col-right",
+   "id": "page-0266-dfbe51d09127:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "hufband’s giving them to the wife, at or before marriage; but they are paraphernal only in regard to that hufsand who gave them as fuch, and are elecemed common moveables, if the wife, whofe _parapherna-_ his they were, be afterwards married to a second hufband: unlefs he fall in the fame manner appropriate them to her.",
+   "bbox": [
+    0.4569,
+    0.0539,
+    0.8466,
+    0.1531
+   ],
+   "source": "s0-col-right",
+   "id": "page-0266-dfbe51d09127:b7"
+  },
+  {
+   "order": 8,
+   "class": "List-item",
+   "text": "9. The right of the hufband to the wife’s moveable burdens afellate, is burdened with the moveable debts contracted feeling the by her before marriage: and as his right is universal, just mariti. To alfo is his burden; for it reaches to her whole moveable debts, though they thould far exceed her moveable elate. Yet the hufband is not conilidered as the true debtor in his wife’s debts. In all actions for payment, the is the proper defender: the hufband is only cited for his interelt, that is, as curator to her, and adminilitrator of the fociety-goods. As foon therefore as the marriage is diffolved, and the fociety goods thereby suffer a divifion, the hufband is no further concerned in the flare belonging to his deceased, wife; and consequently is no longer liable to pay her debts, which must be recovered from her reprefentatives, or her separate elate.",
+   "bbox": [
+    0.458,
+    0.1508,
+    0.8472,
+    0.3695
+   ],
+   "source": "s0-col-right",
+   "id": "page-0266-dfbe51d09127:b8"
+  },
+  {
+   "order": 9,
+   "class": "List-item",
+   "text": "10. This obligation upon the hufband is, however, perpetuated against him (1.) Where his proper elate, real or perfonal, has been affected, during the marriage, gainft the by complete legal diligence; in which cafe, the hufband band muit, by the common rules of law, relieve his property from the burden with which it floods charged; but the utmoft diligence againl his perfon is not fuficient to perpetuate the obligation; nor even incomplete diligence againl his elate. (2.) The hufband continues liable, even after the wife’s death, in fo far as he is lucratus or profited by her elate : Still, however, the law does not confider a hufband who has got but a moderate tocher with the wife as lucratus by the marriage; it is the excess only which it confiders as lucrum, and that muit be eliminated by the quality of the parties and their condition of life.—As he was at no time the proper debtor in his wife’s moveable debts; therefore, though he thould be lucratus, he is, after the diffolution, only liable for them _fulfidiarie_, i. e. if her own feparate elate is not sufficient to pay them off.",
+   "bbox": [
+    0.4575,
+    0.368,
+    0.8477,
+    0.6531
+   ],
+   "source": "s0-col-right",
+   "id": "page-0266-dfbe51d09127:b9"
+  },
+  {
+   "order": 10,
+   "class": "List-item",
+   "text": "11. Where the wife is debtor in that fort of debt, which, if it had been due to her, would have excluded the _jus mariti_, e. g. in bonds bearing interest, which, as we shall afterwards fee (clxiii. 4.), continues heritable as to the rights of hufband and wife, notwithstanding of the enactment of the flatute 1661, which renders them moveable in certain other respects, the hufband is liable only for the bygone interrelts, and those that may grow upon the debt during the marriage; because his obligation for her debts mult be communicated to the interelt he has in her elate. It is the hufband alone who is liable in perfonal diligence for his wife’s debts, while the marriage fulbills: the wife, who is the proper debtor, is free from all perfonal execution upon them while the is _vefita vivo_.",
+   "bbox": [
+    0.4564,
+    0.6523,
+    0.8461,
+    0.8562
+   ],
+   "source": "s0-col-right",
+   "id": "page-0266-dfbe51d09127:b10"
+  },
+  {
+   "order": 11,
+   "class": "List-item",
+   "text": "12. The hufband by marriage becomes the perpe-tual curator of the wife. From this right it arises, 1. That no fruit can proceed against the wife till the hufband be cited for his interelt. 2. All deeds, done by a wife without the hufband’s content, are null; nei-ther can flee fue in any action without the hufband’s",
+   "bbox": [
+    0.4558,
+    0.8547,
+    0.8412,
+    0.9414
+   ],
+   "source": "s0-col-right",
+   "id": "page-0266-dfbe51d09127:b11"
+  },
+  {
+   "order": 12,
+   "class": "Caption",
+   "text": "The H8 band is the wife’s curator.",
+   "bbox": [
+    0.8379,
+    0.8578,
+    0.9241,
+    0.9039
+   ],
+   "source": "s0-col-right",
+   "id": "page-0266-dfbe51d09127:b12"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "bb3e4030f50ea7683780b29bce732487c5bcc24d615169153994a336a05d9583",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "88c1e22c6adc9493e4c8d3167e9640310f4a9ad21bfdeaa8e7333938d7d4c608",
+  "image_bytes": 2479270,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2448",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4567,
+   0.0255,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0255,
+    0.1067,
+    0.465
+   ],
+   [
+    0.1067,
+    0.1879,
+    0.48
+   ],
+   [
+    0.1879,
+    0.2691,
+    0.465
+   ],
+   [
+    0.2691,
+    0.3503,
+    0.465
+   ],
+   [
+    0.3503,
+    0.4315,
+    0.4667
+   ],
+   [
+    0.4315,
+    0.5128,
+    0.465
+   ],
+   [
+    0.5128,
+    0.594,
+    0.4667
+   ],
+   [
+    0.594,
+    0.6752,
+    0.465
+   ],
+   [
+    0.6752,
+    0.7564,
+    0.465
+   ],
+   [
+    0.7564,
+    0.8376,
+    0.4617
+   ],
+   [
+    0.8376,
+    0.9188,
+    0.4617
+   ],
+   [
+    0.9188,
+    1.0,
+    0.4767
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2799,
+  "completion_tokens": 999,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.43,
+ "created_at": "2026-10-18T11:21:25+00:00",
+ "content": "<x_0.0098><y_0.0031>5 )<x_0.1035><y_0.0258><class_Title>\n\n<x_0.3203><y_0.0023>C O M<x_0.5215><y_0.0219><class_Title>\n\n<x_0.0078><y_0.025>difpenfibly demanded by the native dignity of heroic fong? How much nobler, if he had reflted the temptation of that Gothic demon, which modern poefy talking, became mortal? O how unlike the deathlefs, divine harony of three great names (how juffly joined!) of _Mil-n, Greece_, and _Rome?_ His verfe, but for his little eck of mortality, in its extreme parts, as his hero had his heel; like him, had been invulnerable, and immorl. But, unfortunately, _that_ was undipt in Helicon ; this in Styx. Harmony as well as cloquence is effential to poefy; and a murder of his mufic is putting half Homer to death. _Blank_ is a term of diminution ; what we mean by blank verfe is, verfe unfallen, uncurft ; verfe reclaimed, reinthroned in the true _language of the gods_; who never thundered, nor fluffered their Homer to thunder in rhime.<x_0.793><y_0.2547><class_Text>\n\n<x_0.0088><y_0.2539>But fuppofing Pope’s Iliad to have been perfect in its kind ; yet it is a _travfliation_ fill ; which differs as much from an _original_, as the moon from the fun.<x_0.791><y_0.2984><class_Text>\n\n<x_0.0107><y_0.2969>But as nothing is more cafy than to write originally wrong ; originals are not here recommended, but under the throng guard of the firft rule,-- _Know thyfelf._ Lucian, who was an original, neglected not this rule, if we may judge by his reply to one who took fome freedom with him. He was at firft an apprentice to a flatuary; and when he was reflected on as fuch, by being called _Prometheus_, he replied, \" I am indeed the inventor of a new work, the model of which I owe to none; and, if I do not execute it well, I deferve to be torn by twelve vultures, instead of one.\"<x_0.792><y_0.4539><class_Text>\n\n<x_0.0117><y_0.4523>Bacon fays, \" Men feek not to know their own flock, and abilities ; but fancy their pollefilions to be greater, and their abilities lefs, than they really are.\" Which is in effect faying, \" That we ought to exert more than we do ; and that, on exertion, our probability of fuccefs is greater than we conceive.\"<x_0.79><y_0.5406><class_Text>\n\n<x_0.0127><y_0.5375>Nor have we Bacon's opinion only, but his affluence too, in favour of originals. His mighty mind travelled round the intellectual world; and, with a more than eagle's eye, faw, and has pointed out, blank fpaces, or dark fpots in it, on which the human mind never flone: fome of thefe have been enlightened fince; fome are benighted fill.<x_0.7891><y_0.6273><class_Text>\n\n<x_0.0107><y_0.6234>Moreover, fo boundlefs are the bold excursions of the human mind, that in the vaft void beyond real exiffence, it can call forth shadowy beings, and unknown worlds, as numerous, as bright, and perhaps as laffing as the flars ; fuch quite-original beauties we may call paradi faical,<x_0.7881><y_0.7117><class_Text>\n\n<x_0.082><y_0.7086>_Natos fine femine floorer._<x_0.415><y_0.7266><class_Section-header>\n\n<x_0.6455><y_0.7109>OVID.<x_0.748><y_0.7273><class_Section-header>\n\n<x_0.0059><y_0.7219>When fuch an ample area for renowned adventure in _original_ attempts lies before us, fhall we be as mere leaden pipes, conveying to the prefent age fmall fireams of excellence from its grand reservoir in antiquity; and thofe too perhaps mudded in the pafs ? Originals fhine like co- mets ; have no peer in their path ; are rivalled by none, and the gaze of all : all other compotitions (if they hine at all) hine in clufters ; like the flars in the galaxy ; where, like bad neighbours, all suffer from all ; each particular being diminified, and almoft loft in the throng.<x_0.7871><y_0.8719><class_Text>\n\n<x_0.0049><y_0.8656>If thoughts of this nature prevailed ; if ancients and moderns were no longer confidered as matters and pupils,<x_0.7822><y_0.8992><class_Text>\n\n<x_0.3545><y_0.8953>3 T<x_0.4307><y_0.9117><class_Page-footer>\n\n<x_0.7275><y_0.8984>but<x_0.7803><y_0.9141><class_Text>",
+ "reply": {
+  "id": "chatcmpl-5b508779-77c9-49fa-b3da-58537e2ab16b",
+  "object": "chat.completion",
+  "created": 1792322484,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0098><y_0.0031>5 )<x_0.1035><y_0.0258><class_Title>\n\n<x_0.3203><y_0.0023>C O M<x_0.5215><y_0.0219><class_Title>\n\n<x_0.0078><y_0.025>difpenfibly demanded by the native dignity of heroic fong? How much nobler, if he had reflted the temptation of that Gothic demon, which modern poefy talking, became mortal? O how unlike the deathlefs, divine harony of three great names (how juffly joined!) of _Mil-n, Greece_, and _Rome?_ His verfe, but for his little eck of mortality, in its extreme parts, as his hero had his heel; like him, had been invulnerable, and immorl. But, unfortunately, _that_ was undipt in Helicon ; this in Styx. Harmony as well as cloquence is effential to poefy; and a murder of his mufic is putting half Homer to death. _Blank_ is a term of diminution ; what we mean by blank verfe is, verfe unfallen, uncurft ; verfe reclaimed, reinthroned in the true _language of the gods_; who never thundered, nor fluffered their Homer to thunder in rhime.<x_0.793><y_0.2547><class_Text>\n\n<x_0.0088><y_0.2539>But fuppofing Pope’s Iliad to have been perfect in its kind ; yet it is a _travfliation_ fill ; which differs as much from an _original_, as the moon from the fun.<x_0.791><y_0.2984><class_Text>\n\n<x_0.0107><y_0.2969>But as nothing is more cafy than to write originally wrong ; originals are not here recommended, but under the throng guard of the firft rule,-- _Know thyfelf._ Lucian, who was an original, neglected not this rule, if we may judge by his reply to one who took fome freedom with him. He was at firft an apprentice to a flatuary; and when he was reflected on as fuch, by being called _Prometheus_, he replied, \" I am indeed the inventor of a new work, the model of which I owe to none; and, if I do not execute it well, I deferve to be torn by twelve vultures, instead of one.\"<x_0.792><y_0.4539><class_Text>\n\n<x_0.0117><y_0.4523>Bacon fays, \" Men feek not to know their own flock, and abilities ; but fancy their pollefilions to be greater, and their abilities lefs, than they really are.\" Which is in effect faying, \" That we ought to exert more than we do ; and that, on exertion, our probability of fuccefs is greater than we conceive.\"<x_0.79><y_0.5406><class_Text>\n\n<x_0.0127><y_0.5375>Nor have we Bacon's opinion only, but his affluence too, in favour of originals. His mighty mind travelled round the intellectual world; and, with a more than eagle's eye, faw, and has pointed out, blank fpaces, or dark fpots in it, on which the human mind never flone: fome of thefe have been enlightened fince; fome are benighted fill.<x_0.7891><y_0.6273><class_Text>\n\n<x_0.0107><y_0.6234>Moreover, fo boundlefs are the bold excursions of the human mind, that in the vaft void beyond real exiffence, it can call forth shadowy beings, and unknown worlds, as numerous, as bright, and perhaps as laffing as the flars ; fuch quite-original beauties we may call paradi faical,<x_0.7881><y_0.7117><class_Text>\n\n<x_0.082><y_0.7086>_Natos fine femine floorer._<x_0.415><y_0.7266><class_Section-header>\n\n<x_0.6455><y_0.7109>OVID.<x_0.748><y_0.7273><class_Section-header>\n\n<x_0.0059><y_0.7219>When fuch an ample area for renowned adventure in _original_ attempts lies before us, fhall we be as mere leaden pipes, conveying to the prefent age fmall fireams of excellence from its grand reservoir in antiquity; and thofe too perhaps mudded in the pafs ? Originals fhine like co- mets ; have no peer in their path ; are rivalled by none, and the gaze of all : all other compotitions (if they hine at all) hine in clufters ; like the flars in the galaxy ; where, like bad neighbours, all suffer from all ; each particular being diminified, and almoft loft in the throng.<x_0.7871><y_0.8719><class_Text>\n\n<x_0.0049><y_0.8656>If thoughts of this nature prevailed ; if ancients and moderns were no longer confidered as matters and pupils,<x_0.7822><y_0.8992><class_Text>\n\n<x_0.3545><y_0.8953>3 T<x_0.4307><y_0.9117><class_Page-footer>\n\n<x_0.7275><y_0.8984>but<x_0.7803><y_0.9141><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2799,
+   "completion_tokens": 999,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

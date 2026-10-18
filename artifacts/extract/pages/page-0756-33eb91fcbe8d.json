@@ -1,0 +1,465 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:756",
+ "row_index": 756,
+ "volume_id": "191253808",
+ "filename": "page-0756-33eb91fcbe8d.jpg",
+ "image_sha256": "33eb91fcbe8d9d080f38ca26a23b791f56382bebff38a428cd4ac3cd30fb48f3",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07059,
+  "median_grey": 205,
+  "layout_body_chars": 6761,
+  "layout_pictures": 1
+ },
+ "running_head": "MAGNETISM. 129",
+ "layout_raw": "page-0756-33eb91fcbe8d/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0262,
+    1.0,
+    0.06
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0756-33eb91fcbe8d/head.json",
+   "finish_reason": "stop",
+   "request_key": "eb1f07723a7a06435d066a2cc06b5b56012a228866ac28462a4b3c9452a58a8c"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0262,
+    0.4717,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0262,
+     0.1074,
+     0.4667
+    ],
+    [
+     0.1074,
+     0.1885,
+     0.4667
+    ],
+    [
+     0.1885,
+     0.2697,
+     0.4667
+    ],
+    [
+     0.2697,
+     0.3508,
+     0.4667
+    ],
+    [
+     0.3508,
+     0.432,
+     0.4667
+    ],
+    [
+     0.432,
+     0.5131,
+     0.4667
+    ],
+    [
+     0.5131,
+     0.5942,
+     0.4667
+    ],
+    [
+     0.5942,
+     0.6754,
+     0.4667
+    ],
+    [
+     0.6754,
+     0.7566,
+     0.4667
+    ],
+    [
+     0.7566,
+     0.8377,
+     0.4667
+    ],
+    [
+     0.8377,
+     0.9188,
+     0.465
+    ],
+    [
+     0.9188,
+     1.0,
+     0.4667
+    ]
+   ],
+   "raw_path": "page-0756-33eb91fcbe8d/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "babdae79ecc05c8a25784af8e89b01c1812922dd9a4034362eb5f84a0b338fcc"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.46,
+    0.0262,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0262,
+     0.1074,
+     0.4667
+    ],
+    [
+     0.1074,
+     0.1885,
+     0.4667
+    ],
+    [
+     0.1885,
+     0.2697,
+     0.4667
+    ],
+    [
+     0.2697,
+     0.3508,
+     0.4667
+    ],
+    [
+     0.3508,
+     0.432,
+     0.4667
+    ],
+    [
+     0.432,
+     0.5131,
+     0.4667
+    ],
+    [
+     0.5131,
+     0.5942,
+     0.4667
+    ],
+    [
+     0.5942,
+     0.6754,
+     0.4667
+    ],
+    [
+     0.6754,
+     0.7566,
+     0.4667
+    ],
+    [
+     0.7566,
+     0.8377,
+     0.4667
+    ],
+    [
+     0.8377,
+     0.9188,
+     0.465
+    ],
+    [
+     0.9188,
+     1.0,
+     0.4667
+    ]
+   ],
+   "raw_path": "page-0756-33eb91fcbe8d/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "348c143549aa0793942f3fc17443a6b5ef7b195289d51ee313b325fd7c68d59a"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Picture",
+   "text": "MAGNETISM. 129",
+   "bbox": [
+    0.0,
+    0.0262,
+    1.0,
+    0.06
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0756-33eb91fcbe8d:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "M A G N",
+   "bbox": [
+    0.3363,
+    0.0338,
+    0.4597,
+    0.0536
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "43 tempered\nel nec-\nires du\nble mag\ntifm.",
+   "bbox": [
+    0.0152,
+    0.0566,
+    0.0654,
+    0.122
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "But any degree of temper that is given to fleet makes\na very important change in this respect. In the first\nplace, it acquires magnetifm more flowly by induction\nthan an equal and similar piece of common iron, and fi-\nnally acquires lefs. Thefe differences are easily examined by the deviations which it causes in the manner's\nneedle from the magnetic meridian, and by its attractive.",
+   "bbox": [
+    0.0696,
+    0.0551,
+    0.4643,
+    0.1617
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "When the inducing magnet is removed, fome mag-\nnetifm remains in the fleet bar, which retains the polarity which it had in the neighbourhood of the magnet.",
+   "bbox": [
+    0.0705,
+    0.1609,
+    0.4634,
+    0.2027
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "Steel tempered to the degree fit for watch springs\nacquires a strong magnetism, which it exhibits imme-\ndiately on the removal of the magnet. But it diffipates\nvery fatt; and, in a very few minutes, it is reduced to\nlefs than one half of its intensity while in contact with\nthe magnet, and not two-thirds of what it was imme-\ndiately on removal from it. It continues to diffiplate for\nfome days, though the bar be kept with care; but the\ndiffipation diminishes fatt, and it retains at least one-\nthird of its greatest power for any length of time, unlefs\ncarelefsly kept or injudiciously treated.",
+   "bbox": [
+    0.07,
+    0.202,
+    0.4629,
+    0.348
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "Steel tempered for frong cutting tools, such as chifels,\npunches, and drills for metal, acquires magnetifm fill\nmore flowly by induction, and acquires lefs of it while\nin contact with the magnet; but it retains it more firm-\nly, and finally retains a greater proportion of what it\nhad acquired.",
+   "bbox": [
+    0.0691,
+    0.3473,
+    0.4625,
+    0.4279
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Steel made as hard as poffible, is much longer in ac-\nquiring all the magnetifm which limple juxtapofition\ncan give to it. It acquires lefs than the former; but it\nretains it with great firmness, and finally retains a much\ngreater proportion.",
+   "bbox": [
+    0.0686,
+    0.4271,
+    0.462,
+    0.4949
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "Such ores of iron as are futiceptible of magnetifm,\nare nearly like hard feel in their respects; that is, in\nthe time necessary for their _greatef_ impregnation, and\nin the durability of the acquired magnetifm. They\ndiffer exceedingly in respect to the degree of power\nwhich they can attain by mere juxtapolition, and the\nvarieties feem to depend on heterogeneous mixture.\nWe mult obferve, that few ores of iron are futiceptible\nof magnetifm in their natural flate. The ordinary ores,\nconfiting of the metal in the flate of an oxyd, and com-\nbined with fulphur, are not magnetizable while remain-\ning in that flate. Moft ores require roafting, and a fort\nof cementation, in contact with inflammable fubilances.\nThis matter is not well understood; but it would feem\nthat complete metallization is far from being the moft fa-\nvourable condition, and that a certain degree of oxyda-\ntion, and perhaps fome other composition, yet unknown,\nmake the best loaditones. But all this is extremely\nobcure. The late Dr Gowin Knight made a compoli-\ntion which acquired a very frorng and permanent mag-\nnetifm, but the fetret died with him. Dr Gilbert\npeaks of familiar compositions, in which ferrugineous\nclays were ingredients; but we know nothing of the flate\nof the metal in them, nor their mode of acquiring mag-\nnetifm.",
+   "bbox": [
+    0.0631,
+    0.4941,
+    0.4616,
+    0.8258
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "It is of peculiar importance to remark that the ac-\nquisition of magnetifm is gradual and progreflive, and\nthat the gradation is the more perceptible in proportion\nas the feet is of a harder temper. When a magnet is\nbrought to one end of a bar of common iron, its remote\nextremity, unlefs exceedingly long, acquires its utmoft\nmagnettim immediately. But when the north pole of",
+   "bbox": [
+    0.0617,
+    0.825,
+    0.4533,
+    0.9208
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b9"
+  },
+  {
+   "order": 10,
+   "class": "Caption",
+   "text": "44 duction\nmagnetic\nal and\nogreflive",
+   "bbox": [
+    0.0125,
+    0.8174,
+    0.0608,
+    0.8851
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b10"
+  },
+  {
+   "order": 11,
+   "class": "Page-footer",
+   "text": "SUPPL VOL. II. Part I.",
+   "bbox": [
+    0.0774,
+    0.9194,
+    0.2603,
+    0.9338
+   ],
+   "source": "s0-col-left",
+   "id": "page-0756-33eb91fcbe8d:b11"
+  },
+  {
+   "order": 12,
+   "class": "Head-fragment",
+   "text": "E T I S M.",
+   "bbox": [
+    0.4648,
+    0.0323,
+    0.6066,
+    0.0536
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0756-33eb91fcbe8d:b12"
+  },
+  {
+   "order": 13,
+   "class": "Head-fragment",
+   "text": "129",
+   "bbox": [
+    0.8993,
+    0.0384,
+    0.942,
+    0.0574
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0756-33eb91fcbe8d:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "a magnet is applied to one end of a bar of hard feel, the part in contact immediately becomes a fouth pole, and the far end is not yet affected. We observe a north pole formed at fome distance from the contact, and beyond this a faint fouth pole. Thefe gradually advance along the bar. The remote extremity becomes frift a faint fouth pole, and it is not till after a very long while (if ever) that it becomes a limple, vigorous, north pole. More frequently it remains a diffused and feeble north pole: nay, if the bar be very long, it often happens that we have a fucceffion of north and fouth poles, which never make their way to the far end of the bar. This phenomenon was first observed (we think) by Dr Brook Taylor, who gives an account of his observations in the _Philofophical Transactions_, no 344.",
+   "bbox": [
+    0.4716,
+    0.0559,
+    0.8687,
+    0.2583
+   ],
+   "source": "s0-col-right",
+   "id": "page-0756-33eb91fcbe8d:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "From the account we have given of thefe phenomena of induced magnetifm, it appears that the temporary magnetism is always fo difpoded that the fum of the mutual attractions of the diffimilar pole exceeds the fum of the repullions between the familiar poles, and that therefore the two magnets tend to each other. This is evidently equivalent to faying, that a piece of unmagnetic iron is always attracted by a magnet. No exception has ever been obferved to this fact; for Pliny's story of a Theamedes, or loaditone, which repels iron, is allowed by all to have been a fable.",
+   "bbox": [
+    0.47,
+    0.2559,
+    0.8666,
+    0.4035
+   ],
+   "source": "s0-col-right",
+   "id": "page-0756-33eb91fcbe8d:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "We think ourfelves authorised to fay that this attraction of the loaditone for iron, or this tendency of iron to the loaditone, is a secondary phenomenon, and is the _confquence_ of the proper difpotion of the induced magneticm. The proofs already given of the compound nature of this phenomenon, namely, that it arises from the excess of two attractions above two repullions, need (we imagine) no addition. But the following confiderations place the matter beyond doubt :",
+   "bbox": [
+    0.4695,
+    0.4013,
+    0.8645,
+    0.5237
+   ],
+   "source": "s0-col-right",
+   "id": "page-0756-33eb91fcbe8d:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "1. The magnetifm of the two poles is evidently of an opposite nature; the one repelling what the other attracts. If the one attracts iron, therefore, the other should repel it. But each pole, by inducing a magneticm opposite to its own, on the nearelt end of the iron, and the fame with its own on the remote end, and its action diminishing with an increase of difference, there must always be an excess of attraction, and the iron mult be attracted.",
+   "bbox": [
+    0.4669,
+    0.5215,
+    0.8629,
+    0.6424
+   ],
+   "source": "s0-col-right",
+   "id": "page-0756-33eb91fcbe8d:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "2. Each of the magnets A and B, in either of the potitions repreferenced in fig. 12. would alone attract the piece of common iron C. But when placed together, the fouth pole of A tends to render the upper end of C a north pole; while the north pole of B tends to make it a fouth pole. If their actions be nearly equal, the weight of C cannot be supported by the magnetifm induced by any difference of action that may remain. While C is hanging by B alone, let A be gradually brought near; it gradually deltroys the action of the north pole of B, fo that C gradually lofes its magnetifm and polarity, and its weight prevails.",
+   "bbox": [
+    0.4658,
+    0.6409,
+    0.8602,
+    0.8037
+   ],
+   "source": "s0-col-right",
+   "id": "page-0756-33eb91fcbe8d:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "3. In all those cafes where the induction of magneticm is flow, the attraction is weak in proportion. This is particularly remarked by Dr Gilbert. If we take pieces of common iron, and of feel of different tempers, but all of the fame fire and form, we shall find that the iron is much more strongly attracted than any of the reft, and that the attraction for each of them is weaker in proportion as they are harder. This divertity is to accurately observed, that when the piece is thoroughly",
+   "bbox": [
+    0.4642,
+    0.7999,
+    0.8571,
+    0.9247
+   ],
+   "source": "s0-col-right",
+   "id": "page-0756-33eb91fcbe8d:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "R fuleep-",
+   "bbox": [
+    0.644,
+    0.9208,
+    0.855,
+    0.9384
+   ],
+   "source": "s0-col-right",
+   "id": "page-0756-33eb91fcbe8d:b20"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "868e03dfa73ec339b0598fcb2f267ed637dcb042cfe8f1163df257ada541d2c2",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "1fe3199d739b4e3ba8eb9cbf0c6dfde146542c3ad211e3131b90b33abb21f482",
+  "image_bytes": 2026855,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1250",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0302,
+   0.5467,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0302,
+    0.111,
+    0.5383
+   ],
+   [
+    0.111,
+    0.1918,
+    0.5417
+   ],
+   [
+    0.1918,
+    0.2727,
+    0.5417
+   ],
+   [
+    0.2727,
+    0.3535,
+    0.5417
+   ],
+   [
+    0.3535,
+    0.4343,
+    0.5417
+   ],
+   [
+    0.4343,
+    0.5151,
+    0.5417
+   ],
+   [
+    0.5151,
+    0.5959,
+    0.5417
+   ],
+   [
+    0.5959,
+    0.6767,
+    0.5417
+   ],
+   [
+    0.6767,
+    0.7575,
+    0.5417
+   ],
+   [
+    0.7575,
+    0.8384,
+    0.5417
+   ],
+   [
+    0.8384,
+    0.9192,
+    0.5417
+   ],
+   [
+    0.9192,
+    1.0,
+    0.5417
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2613,
+  "completion_tokens": 813,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.32,
+ "created_at": "2026-10-18T11:19:52+00:00",
+ "content": "<x_0.4834><y_0.0039>**CO I**<x_0.6572><y_0.0242><class_Title>\n\n<x_0.8701><y_0.0031>[ 13<x_0.9902><y_0.0297><class_Page-header>\n\n<x_0.1484><y_0.025>Coin, Coinage.<x_0.2754><y_0.0688><class_Picture>\n\n<x_0.2803><y_0.0258>According to the decuple pro- portion, mentioned by Livy and Julius Pollux, worth<x_0.7168><y_0.0703><class_Text>\n\n<x_0.2812><y_0.0695>According to the proportion mentioned by Tacitus, and which afterwards obtained, whereby the aureus exchanged for 25 denarii, its value<x_0.7295><y_0.1383><class_Text>\n\n<x_0.2793><y_0.1375>CoIN, in architecture, a kind of dye cut diagonal- wife, after the manner of a flight of a flair-cafe, ferving at bottom to fupport columns in a level, and at top to correct the inclination of an entablature fup- porting a vault.<x_0.9844><y_0.2086><class_Text>\n\n<x_0.2822><y_0.207>CoIN is alfo ufed for a folid angle compofed of two surfaces inclined towards each other, whether that angle be exterior, as the coin of a wall, a tree, &c, or interior, as the coin of a chamber or chimney. See Quoin.<x_0.9834><y_0.2766><class_Text>\n\n<x_0.2832><y_0.2758>COINAGE, or COINING, the art of making money, as performed either by the hammer or mill.<x_0.9824><y_0.3055><class_Text>\n\n<x_0.2842><y_0.3047>Formerly the fabric of coins was different from what it is at prefent. They cut a large plate of metal into several little figures, the corners of which were cut off with fleers. After having shaped thefe pieces, fo as to render them perfectly conformable, in point of weight, to the standard piece, they took each piece in hand again, to make it exactly round by a gentle hammering. This was called a _planchet_, and was fit for immediate coining. Then engravers prepared, as they fill do, a couple of feel maffes in form of dyes, cut and terminated by a flat surface, rounded off at the edges. They engraved or flamped on it the hollow of a head, a crofs, a feutcheon, or any other figure, according to the cultom of the times, with a short legend. As one of thefe dyes was to remain dormant, and the other moveable, the former ended in a figure prifm, that it might be introduced into the square hole of the block, which, being fixed very fat, kept the dye as ftrendy as any vice could have done. The planchet of metal was horizontally laid upon this inferior mafs, to receive the flamp of it on one fide, and that of the upper dye, wherewith it was covered, on the other. This moveable dye, having its round engraved surface refiting upon the planehet, had at its opposite extremity a flat square, and larger surface, upon which they gave feveral heavy blows, with a hammer of an enormous face, till the double flamp was sufficiently, in relievo, imprefled on each fide of the planehet. This being finished, was immediately succeeded by another, and they thus became a fiandard coin, which had the degree of finenefs of the weight and mark determined by the judgment of the infpectors, to make it good current money. The strong tempering which was and is fill given to the two dyes, rendering them capable of bearing those repeated blows. Coining has been considerably improved and rendered expeditious, by feveral ingenious machines, and by a wife application of the furek phyfical experiments to the methods of flying, dyeing, and flamping the different metals.<x_0.9971><y_0.8562><class_Text>\n\n<x_0.2988><y_0.8555>The three finest instruments the mint-man ufes, are the laminating engine; the machine for making the impressions on the edges of coins ; and the mill.<x_0.9961><y_0.8984><class_Text>\n\n<x_0.3311><y_0.8977>After they have taken the laminar, or plates of me-<x_0.9932><y_0.9156><class_Text>",
+ "reply": {
+  "id": "chatcmpl-5cedf2ed-3fdf-4cb4-a024-d8b0e40ac37c",
+  "object": "chat.completion",
+  "created": 1792322391,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4834><y_0.0039>**CO I**<x_0.6572><y_0.0242><class_Title>\n\n<x_0.8701><y_0.0031>[ 13<x_0.9902><y_0.0297><class_Page-header>\n\n<x_0.1484><y_0.025>Coin, Coinage.<x_0.2754><y_0.0688><class_Picture>\n\n<x_0.2803><y_0.0258>According to the decuple pro- portion, mentioned by Livy and Julius Pollux, worth<x_0.7168><y_0.0703><class_Text>\n\n<x_0.2812><y_0.0695>According to the proportion mentioned by Tacitus, and which afterwards obtained, whereby the aureus exchanged for 25 denarii, its value<x_0.7295><y_0.1383><class_Text>\n\n<x_0.2793><y_0.1375>CoIN, in architecture, a kind of dye cut diagonal- wife, after the manner of a flight of a flair-cafe, ferving at bottom to fupport columns in a level, and at top to correct the inclination of an entablature fup- porting a vault.<x_0.9844><y_0.2086><class_Text>\n\n<x_0.2822><y_0.207>CoIN is alfo ufed for a folid angle compofed of two surfaces inclined towards each other, whether that angle be exterior, as the coin of a wall, a tree, &c, or interior, as the coin of a chamber or chimney. See Quoin.<x_0.9834><y_0.2766><class_Text>\n\n<x_0.2832><y_0.2758>COINAGE, or COINING, the art of making money, as performed either by the hammer or mill.<x_0.9824><y_0.3055><class_Text>\n\n<x_0.2842><y_0.3047>Formerly the fabric of coins was different from what it is at prefent. They cut a large plate of metal into several little figures, the corners of which were cut off with fleers. After having shaped thefe pieces, fo as to render them perfectly conformable, in point of weight, to the standard piece, they took each piece in hand again, to make it exactly round by a gentle hammering. This was called a _planchet_, and was fit for immediate coining. Then engravers prepared, as they fill do, a couple of feel maffes in form of dyes, cut and terminated by a flat surface, rounded off at the edges. They engraved or flamped on it the hollow of a head, a crofs, a feutcheon, or any other figure, according to the cultom of the times, with a short legend. As one of thefe dyes was to remain dormant, and the other moveable, the former ended in a figure prifm, that it might be introduced into the square hole of the block, which, being fixed very fat, kept the dye as ftrendy as any vice could have done. The planchet of metal was horizontally laid upon this inferior mafs, to receive the flamp of it on one fide, and that of the upper dye, wherewith it was covered, on the other. This moveable dye, having its round engraved surface refiting upon the planehet, had at its opposite extremity a flat square, and larger surface, upon which they gave feveral heavy blows, with a hammer of an enormous face, till the double flamp was sufficiently, in relievo, imprefled on each fide of the planehet. This being finished, was immediately succeeded by another, and they thus became a fiandard coin, which had the degree of finenefs of the weight and mark determined by the judgment of the infpectors, to make it good current money. The strong tempering which was and is fill given to the two dyes, rendering them capable of bearing those repeated blows. Coining has been considerably improved and rendered expeditious, by feveral ingenious machines, and by a wife application of the furek phyfical experiments to the methods of flying, dyeing, and flamping the different metals.<x_0.9971><y_0.8562><class_Text>\n\n<x_0.2988><y_0.8555>The three finest instruments the mint-man ufes, are the laminating engine; the machine for making the impressions on the edges of coins ; and the mill.<x_0.9961><y_0.8984><class_Text>\n\n<x_0.3311><y_0.8977>After they have taken the laminar, or plates of me-<x_0.9932><y_0.9156><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2613,
+   "completion_tokens": 813,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "request": {
+  "key": "b72e14402ac26501e1a107342c22877b8c13db06269ae06cdbb46a1a81ee8a58",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "fc2d556188daf77aee37effa9bc5e72a7e8fa6e71b63b36a259c7a36f6bcebee",
+  "image_bytes": 1866459,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1904",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4767,
+   0.0444,
+   1.0,
+   0.753
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0444,
+    0.1231,
+    0.4817
+   ],
+   [
+    0.1231,
+    0.2019,
+    0.4817
+   ],
+   [
+    0.2019,
+    0.2806,
+    0.4817
+   ],
+   [
+    0.2806,
+    0.3593,
+    0.4817
+   ],
+   [
+    0.3593,
+    0.4381,
+    0.4817
+   ],
+   [
+    0.4381,
+    0.5168,
+    0.4817
+   ],
+   [
+    0.5168,
+    0.5955,
+    0.4817
+   ],
+   [
+    0.5955,
+    0.6743,
+    0.4817
+   ],
+   [
+    0.6743,
+    0.753,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1613,
+  "total_tokens": 2406,
+  "completion_tokens": 793,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.36,
+ "created_at": "2026-10-18T11:09:00+00:00",
+ "content": "<x_0.0176><y_0.0>us, that, before the time of Terpander, the Grecian lyre had only four things; and, if we may believe Suidas, it remained in this flate 856 years, from the time of Amphion, till Terpander added to it three new fittings, which extended the mufical feale to a hepta- chord, or feventh, and fupplied the player with two conjoint tetrachords. It was about 150 years after this period, that Pythagoras is laid to have added an eighth firing to the lyre, in order to complete the oc- tave, which conflicted of two disjunct tetrachords.<x_0.79><y_0.1883><class_Text>\n\n<x_0.0166><y_0.1875>Boothius gives a different history of the feale, and tells us, that the fyitem did not long remain in fuch narrow limits as a tetrachord. Choraebus, the Ion of Athis, or Atys, king of Lydia, added a fifth firing: Hyagnis, a fixth; Terpander, a feventh; and, at length, Lychaon of Samos, an eighth. But all thefe account are irreconcileable with Homer's bymn to Mercury, where the chelys, or telludo, the invention of which he aferibes to that god, is fail to have had fever litings. There are many claimants among the muficians of ancient Greece, to the litrings that were afterwards added to thefe, by which the feale, in the time of Ariftoxenus, was extended to two octaves. Athenaeus, more than once, fpeaks of the nine-ftringed instrument; and Ion of Chios, a tragic and lyric poet and philofopher, who first recited his pieces in the 82d olympiad, 452 B. C. mentions, in fome verles quoted by Euclid, the ten- flringed lyre; a proof that the third conjoint tetra- chord was added to the feale in his time, which was about 50 years after Pythagoras is fuppofed to have confltructed the octachord.<x_0.7891><y_0.5883><class_Text>\n\n<x_0.0186><y_0.5891>The different claimants among the Greeks to the fame mufical difcoveries, only prove, that mufic was cultivated in different countries; and that the inhabitants of each country invented and improved their own instruments, fome of which happening to refemble thofe of other parts of Greece, rendered it difficult for historians to avoid attributing the fame invention to different perfons. Thus the fingle flute was given to Mi- nerva, and to Marfyas; the fyrinx, or filula, to Pan, and to Cybele; and the lyre, or cithara, to Mercury, Apollo, Amphion, Linus, and Orpheus. Indeed, the mere addition of a firing or two to an infrument with- out a neck, was fo obvious and eafy, that it is fearce poffible not to conceive many people to have done it at the fame time.<x_0.7881><y_0.8742><class_Text>\n\n<x_0.0156><y_0.875>With respect to the form of the ancient lyre; as little agreement is to be found among authors as about the number of litrings. The bell evidences concerning it are the reprefentations of that infrument in the hands of ancient flatues, bas-reliefs, &c. See Plate CLXI.<x_0.7871><y_0.9734><class_Text>\n\n<x_0.3896><y_0.9711>**24 O 2** where<x_0.7822><y_0.9938><class_Page-footer>\n\n<x_0.8135><y_0.0>_Lyre._<x_0.9258><y_0.0195><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-0d13605b-abbd-4601-ac29-73870c9760d0",
+  "object": "chat.completion",
+  "created": 1792321739,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0176><y_0.0>us, that, before the time of Terpander, the Grecian lyre had only four things; and, if we may believe Suidas, it remained in this flate 856 years, from the time of Amphion, till Terpander added to it three new fittings, which extended the mufical feale to a hepta- chord, or feventh, and fupplied the player with two conjoint tetrachords. It was about 150 years after this period, that Pythagoras is laid to have added an eighth firing to the lyre, in order to complete the oc- tave, which conflicted of two disjunct tetrachords.<x_0.79><y_0.1883><class_Text>\n\n<x_0.0166><y_0.1875>Boothius gives a different history of the feale, and tells us, that the fyitem did not long remain in fuch narrow limits as a tetrachord. Choraebus, the Ion of Athis, or Atys, king of Lydia, added a fifth firing: Hyagnis, a fixth; Terpander, a feventh; and, at length, Lychaon of Samos, an eighth. But all thefe account are irreconcileable with Homer's bymn to Mercury, where the chelys, or telludo, the invention of which he aferibes to that god, is fail to have had fever litings. There are many claimants among the muficians of ancient Greece, to the litrings that were afterwards added to thefe, by which the feale, in the time of Ariftoxenus, was extended to two octaves. Athenaeus, more than once, fpeaks of the nine-ftringed instrument; and Ion of Chios, a tragic and lyric poet and philofopher, who first recited his pieces in the 82d olympiad, 452 B. C. mentions, in fome verles quoted by Euclid, the ten- flringed lyre; a proof that the third conjoint tetra- chord was added to the feale in his time, which was about 50 years after Pythagoras is fuppofed to have confltructed the octachord.<x_0.7891><y_0.5883><class_Text>\n\n<x_0.0186><y_0.5891>The different claimants among the Greeks to the fame mufical difcoveries, only prove, that mufic was cultivated in different countries; and that the inhabitants of each country invented and improved their own instruments, fome of which happening to refemble thofe of other parts of Greece, rendered it difficult for historians to avoid attributing the fame invention to different perfons. Thus the fingle flute was given to Mi- nerva, and to Marfyas; the fyrinx, or filula, to Pan, and to Cybele; and the lyre, or cithara, to Mercury, Apollo, Amphion, Linus, and Orpheus. Indeed, the mere addition of a firing or two to an infrument with- out a neck, was fo obvious and eafy, that it is fearce poffible not to conceive many people to have done it at the fame time.<x_0.7881><y_0.8742><class_Text>\n\n<x_0.0156><y_0.875>With respect to the form of the ancient lyre; as little agreement is to be found among authors as about the number of litrings. The bell evidences concerning it are the reprefentations of that infrument in the hands of ancient flatues, bas-reliefs, &c. See Plate CLXI.<x_0.7871><y_0.9734><class_Text>\n\n<x_0.3896><y_0.9711>**24 O 2** where<x_0.7822><y_0.9938><class_Page-footer>\n\n<x_0.8135><y_0.0>_Lyre._<x_0.9258><y_0.0195><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1613,
+   "total_tokens": 2406,
+   "completion_tokens": 793,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

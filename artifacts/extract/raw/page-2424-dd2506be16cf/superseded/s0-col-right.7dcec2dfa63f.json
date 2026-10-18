@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "7dcec2dfa63f47a215edb007e06f7935d69fdb9da16adef7ee60516a12f6e605",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f46263f4c9d85747686f2f93f915c8cc1520bd4353fa311451852a71d44ab0e5",
+  "image_bytes": 2226169,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2424",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4767,
+   0.0678,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0678,
+    0.1525,
+    0.4817
+   ],
+   [
+    0.1525,
+    0.2373,
+    0.4817
+   ],
+   [
+    0.2373,
+    0.322,
+    0.4817
+   ],
+   [
+    0.322,
+    0.4068,
+    0.4817
+   ],
+   [
+    0.4068,
+    0.4915,
+    0.4817
+   ],
+   [
+    0.4915,
+    0.5763,
+    0.4817
+   ],
+   [
+    0.5763,
+    0.661,
+    0.4817
+   ],
+   [
+    0.661,
+    0.7458,
+    0.4817
+   ],
+   [
+    0.7458,
+    0.8305,
+    0.4817
+   ],
+   [
+    0.8305,
+    0.9153,
+    0.4833
+   ],
+   [
+    0.9153,
+    1.0,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2720,
+  "completion_tokens": 920,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.12,
+ "created_at": "2026-10-18T11:11:51+00:00",
+ "content": "<x_0.0215><y_0.0016>owner, and his skill in so managing the commissariat, as to Live Stock. secure throughout the year a sufficiency of suitable food for the stock on hand. Unless this is attended to, he may find himself necessitated to sell his cattle before they are fat, and when markets are glutted. Whenever they have attained to what is technically called _ripe_ flatness, and prices are at their average rate, it is generally more profitable forthwith to dispose of them, than to speculate upon a rise in the markets.<x_0.7539><y_0.1211><class_Text>\n\n<x_0.335><y_0.1297>SHEEP.<x_0.4258><y_0.1422><class_Section-header>\n\n<x_0.0195><y_0.1445>When Fitzherbert so long ago said, \" Sheep is the most profitablest cattle that a man can have,\" he expressed an opinion in which agriculturists of the present day fully con-cur. But if this was true of the flocks of his time, how much more of the many admirable breeds which now adorn the rich pastures, the grassy downs, and heath-clad mountains of our native country. Their flesh is in high estimation with all classes of the community, and constitutes at least one-half of all the butcher meat consumed by them. Their fleeces supply the raw material for one of our most flourishing manufactures. They furnish to the farmer an important source of revenue, and the readiest means of maintaining the fertility of his fields. The distinct breeds, and sub-variities of sheep found in Great Britain are very numerous. We have no intention of noticing them in detail, but shall rather confine our observations to those which, by common consent, are the most valuable for their respective and appropriate habitats. They may be fitly classed under these three heads, viz. the heavy breeds of the low country, those found on our downs and similar localities, and the mountain breeds.<x_0.7529><y_0.4078><class_Text>\n\n<x_0.0166><y_0.407>Of the first class, the improved _Leicesters_ are still the Leicester most important to the country. They are more widely dif-breed. fused in the kingdom than any of their congeners. Although, from the altered taste of the community, their tunton is less esteemed than formerly, they still constitute the staple breed of the midland counties of England. Leicesterrams are also more in demand than ever, for crossing with other breeds. It is now about a century since this breed was produced by the genius and perseverance of Bakewell, in whose hands they attained a degree of excellence that has probably not yet been exceeded by the many who have cultivated them since his day. The characteristics of this breed are extreme docility, extraordinary aptitude to fatten, and the early age at which they come to maturity. The most marked feature in their structure is the smallness of their heads, and of their bones generally, as contrasted with their weight of carcase. They are clean in the jaws, with a full eye, thin cars, and placid countenance. Their backs are straight, broad, and flat, the ribs arched, the belly carried very light, so that they present nearly as straight a line below as above, the chest is wide, the skin very mellow, and covered with a beautiful fleece of long, soft wool, which weighs on the average from 6 to 7 lb. On good soils, and under careful treatment these sheep are currently brought to weigh from 18 to 20 lb. per quarter at 14 months old, at which age they are now usually slaughtered. At this age their flesh is tender and juicy; but when carried on until they are older and heavier, fat accumulates so un-duly in proportion to the lean meat, as to detract from its palatableness and market value.<x_0.752><y_0.8><class_Text>\n\n<x_0.0117><y_0.7992>_Lincolnst._--These were at one time very large, ungainly Lincoln animals, with an immense fleece of very long wool. By breed. crossing them with the Leicesters the character of the breed has been entirely changed, and very greatly for the better. It is now, in fact, a subvariety of the Leicester, with larger frame and heavier fleece than the pure breed. Sheep of<x_0.832><y_0.882><class_Text>\n\n<x_0.0049><y_0.8922>luxtable. Ridgway. London, 1850.<x_0.415><y_0.9078><class_Page-footer>\n\n<x_0.5918><y_0.9023>2 x<x_0.6436><y_0.9164><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-1b14b65b-5217-4f77-921e-c704aec75808",
+  "object": "chat.completion",
+  "created": 1792321910,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0215><y_0.0016>owner, and his skill in so managing the commissariat, as to Live Stock. secure throughout the year a sufficiency of suitable food for the stock on hand. Unless this is attended to, he may find himself necessitated to sell his cattle before they are fat, and when markets are glutted. Whenever they have attained to what is technically called _ripe_ flatness, and prices are at their average rate, it is generally more profitable forthwith to dispose of them, than to speculate upon a rise in the markets.<x_0.7539><y_0.1211><class_Text>\n\n<x_0.335><y_0.1297>SHEEP.<x_0.4258><y_0.1422><class_Section-header>\n\n<x_0.0195><y_0.1445>When Fitzherbert so long ago said, \" Sheep is the most profitablest cattle that a man can have,\" he expressed an opinion in which agriculturists of the present day fully con-cur. But if this was true of the flocks of his time, how much more of the many admirable breeds which now adorn the rich pastures, the grassy downs, and heath-clad mountains of our native country. Their flesh is in high estimation with all classes of the community, and constitutes at least one-half of all the butcher meat consumed by them. Their fleeces supply the raw material for one of our most flourishing manufactures. They furnish to the farmer an important source of revenue, and the readiest means of maintaining the fertility of his fields. The distinct breeds, and sub-variities of sheep found in Great Britain are very numerous. We have no intention of noticing them in detail, but shall rather confine our observations to those which, by common consent, are the most valuable for their respective and appropriate habitats. They may be fitly classed under these three heads, viz. the heavy breeds of the low country, those found on our downs and similar localities, and the mountain breeds.<x_0.7529><y_0.4078><class_Text>\n\n<x_0.0166><y_0.407>Of the first class, the improved _Leicesters_ are still the Leicester most important to the country. They are more widely dif-breed. fused in the kingdom than any of their congeners. Although, from the altered taste of the community, their tunton is less esteemed than formerly, they still constitute the staple breed of the midland counties of England. Leicesterrams are also more in demand than ever, for crossing with other breeds. It is now about a century since this breed was produced by the genius and perseverance of Bakewell, in whose hands they attained a degree of excellence that has probably not yet been exceeded by the many who have cultivated them since his day. The characteristics of this breed are extreme docility, extraordinary aptitude to fatten, and the early age at which they come to maturity. The most marked feature in their structure is the smallness of their heads, and of their bones generally, as contrasted with their weight of carcase. They are clean in the jaws, with a full eye, thin cars, and placid countenance. Their backs are straight, broad, and flat, the ribs arched, the belly carried very light, so that they present nearly as straight a line below as above, the chest is wide, the skin very mellow, and covered with a beautiful fleece of long, soft wool, which weighs on the average from 6 to 7 lb. On good soils, and under careful treatment these sheep are currently brought to weigh from 18 to 20 lb. per quarter at 14 months old, at which age they are now usually slaughtered. At this age their flesh is tender and juicy; but when carried on until they are older and heavier, fat accumulates so un-duly in proportion to the lean meat, as to detract from its palatableness and market value.<x_0.752><y_0.8><class_Text>\n\n<x_0.0117><y_0.7992>_Lincolnst._--These were at one time very large, ungainly Lincoln animals, with an immense fleece of very long wool. By breed. crossing them with the Leicesters the character of the breed has been entirely changed, and very greatly for the better. It is now, in fact, a subvariety of the Leicester, with larger frame and heavier fleece than the pure breed. Sheep of<x_0.832><y_0.882><class_Text>\n\n<x_0.0049><y_0.8922>luxtable. Ridgway. London, 1850.<x_0.415><y_0.9078><class_Page-footer>\n\n<x_0.5918><y_0.9023>2 x<x_0.6436><y_0.9164><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2720,
+   "completion_tokens": 920,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

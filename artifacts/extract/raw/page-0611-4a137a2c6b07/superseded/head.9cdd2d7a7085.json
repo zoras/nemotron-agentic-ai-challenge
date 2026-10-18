@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "9cdd2d7a7085a889a64f3a8f4ef5243b395837a84314f6d54ced827fd7544040",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "a14c6eece2eb26ffe6fa02bfad37c15508af430145dde5a7e2b4f58cf4efab98",
+  "image_bytes": 132441,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:611",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.052,
+   1.0,
+   0.0927
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 222,
+  "completion_tokens": 58,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.16,
+ "created_at": "2026-10-18T11:19:32+00:00",
+ "content": "<x_0.0><y_0.0>R E S [ 752 ] R E S\nRefiance curvature will be infenible, and the fluid included in be, draw bm (fig. 20.) perpendicular to bF, and the Reflince.<x_0.999><y_0.9891><class_Text>",
+ "reply": {
+  "id": "chatcmpl-1468e379-ed3e-45ca-ab81-b968a962aa4d",
+  "object": "chat.completion",
+  "created": 1792322371,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>R E S [ 752 ] R E S\nRefiance curvature will be infenible, and the fluid included in be, draw bm (fig. 20.) perpendicular to bF, and the Reflince.<x_0.999><y_0.9891><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 222,
+   "completion_tokens": 58,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

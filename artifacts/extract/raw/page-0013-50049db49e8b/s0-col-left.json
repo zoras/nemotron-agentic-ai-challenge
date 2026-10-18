@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "5d440ee8c0427fd63c6ab8a517862c1aab70ff198ed4f11cbcda129f46552db4",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "48e09e1db01290fdd107e3d4a4eefae9c5a34883f86858534f04d31e36ae2505",
+  "image_bytes": 2717475,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0395,
+   0.5633,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0395,
+    0.1195,
+    0.5383
+   ],
+   [
+    0.1195,
+    0.1996,
+    0.5467
+   ],
+   [
+    0.1996,
+    0.2796,
+    0.55
+   ],
+   [
+    0.2796,
+    0.3597,
+    0.5533
+   ],
+   [
+    0.3597,
+    0.4397,
+    0.5533
+   ],
+   [
+    0.4397,
+    0.5197,
+    0.5533
+   ],
+   [
+    0.5197,
+    0.5998,
+    0.5533
+   ],
+   [
+    0.5998,
+    0.6798,
+    0.5533
+   ],
+   [
+    0.6798,
+    0.7599,
+    0.5533
+   ],
+   [
+    0.7599,
+    0.8399,
+    0.5567
+   ],
+   [
+    0.8399,
+    0.92,
+    0.5583
+   ],
+   [
+    0.92,
+    1.0,
+    0.5517
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2800,
+  "completion_tokens": 1000,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.05,
+ "created_at": "2026-10-18T11:18:58+00:00",
+ "content": "<x_0.1025><y_0.0>292 SHIP-BU<x_0.9502><y_0.0211><class_Page-header>\n\n<x_0.1123><y_0.0266>Practical Building.<x_0.2227><y_0.0625><class_Caption>\n\n<x_0.2236><y_0.0203>ends in close contact with, and cooked or dowelled to, the sides of the diagonal timbers. In this state the frame-work in the hold presents various compartments, each represent- ing the figure of a rhomboid.<x_0.9482><y_0.0805><class_Text>\n\n<x_0.2246><y_0.0727>\" A truss-timber is then introduced into each rhomboid, with an inclination opposite to that of the diagonal timbers, thereby dividing it into two parts. The truss-pieces so in- troduced into the rhomboid, are to the diagonal frame what the key-stone is to the arch ; for no weight or pressure on the fabric can alter its position in a longitudinal direction, till compression takes place at the abutments, and extension of the various ties.<x_0.9521><y_0.1812><class_Text>\n\n<x_0.2324><y_0.175>\" This arch-like property of the diagonal frame not only opposes an alteration of position in a longitudinal direction, but also resists external pressure on the bottom, either from grounding or any other cause, because no impression can be made in its figure in these directions, without forcing the several parts of which it is composed into a shorter space.<x_0.958><y_0.2594><class_Text>\n\n<x_0.2393><y_0.2508>\" The beams are disposed in the new system nearly as usual, except that in midships, where a ship necessarily requires the greatest security, two additional beams have been introduced.<x_0.9619><y_0.3102><class_Text>\n\n<x_0.2402><y_0.3031>\" The beams of the several decks are attached to the ship's side in the following manner.<x_0.9609><y_0.3359><class_Text>\n\n<x_0.2412><y_0.3289>\" _Ist_. By shelf-pieces or internal hoops, distinguished by the letter E. These shelf-pieces are composed of several lengths of timber, scarphed or joined together by coaks or circular dowels, so as to form a kind of internal hoop, extending from the hooks forward, to the transoms abaft--(in the plate the transoms are not shown, as we have chosen the perfected application of Sir Robert Seppings' system, after the adoption of the circular stern into the service),—to the under side of which, as well as the under parts of the beams, they are securely cooked, and being then firmly bolted to the side, instead of becoming a mere local fixture of the beam to the ship’s exterior frame, as knees were, they are one continued and general security. The shelf-piece is also a tie to the top-side in a fore and aft direction, co-operating with the trussed frame, as already explained.<x_0.9775><y_0.5289><class_Text>\n\n<x_0.2539><y_0.5211>\" _2dly_, By chocks, represented in Plate CCCCLV. (_m, o_), which are placed under all the shelf-pieces in wake of the beams, except the orlop, in such a manner as to receive the up and down arm of the iron knees. The lower ends of those under the gun-deck shelf-piece step on the ends of the orlop-beams ; and those of the several decks above, step on the projecting part of the spirketing below. The chocks, particularly those between the orlop and gun decks, admit of their being driven into their respective places very tightly, thereby acting like pillars. Another advantage attending them is their great tendency to stiffen the ship’s side, and to prevent the beam-ends from playing on the fastenings when the ship is rolling, or straining under a press of sail.<x_0.9844><y_0.6953><class_Text>\n\n<x_0.2646><y_0.6875>\" The curved iron-plate knees for securing the orlop-beams, and the iron forked knees of the other decks, are described in (_n_) and (_m_), Plate CCCCLV.<x_0.9834><y_0.7336><class_Text>\n\n<x_0.2656><y_0.7258>\" The tendency of the ship to stretch or draw asunder in her upper works being by no means obviated by the short planks on the inside between the ports, a truss piece of plank is substituted in lieu of them, which being well secured at the abutments, very materially aids the trussed frame, and gives great stiffness, thereby opposing the inclination to arch or hog aloft.\"<x_0.9902><y_0.8227><class_Text>\n\n<x_0.2676><y_0.8148>These various alterations from the old system of building had the effect of very greatly increasing the strength of the ships of the royal navy. Among so many changes, it is not improbable that erroneous conclusions may have been drawn as to the relative importance of each. We incline much to the opinion that this has been the case to a very great degree, and that a part hitherto considered as quite subordi-mate, and now wholly discontinued as useless, was one prin- cipal cause of the increase of strength which enabled ship<x_0.9951><y_0.9398><class_Text>",
+ "reply": {
+  "id": "chatcmpl-b5aeb277-5406-4714-a9c9-dc4823c1c998",
+  "object": "chat.completion",
+  "created": 1792322337,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1025><y_0.0>292 SHIP-BU<x_0.9502><y_0.0211><class_Page-header>\n\n<x_0.1123><y_0.0266>Practical Building.<x_0.2227><y_0.0625><class_Caption>\n\n<x_0.2236><y_0.0203>ends in close contact with, and cooked or dowelled to, the sides of the diagonal timbers. In this state the frame-work in the hold presents various compartments, each represent- ing the figure of a rhomboid.<x_0.9482><y_0.0805><class_Text>\n\n<x_0.2246><y_0.0727>\" A truss-timber is then introduced into each rhomboid, with an inclination opposite to that of the diagonal timbers, thereby dividing it into two parts. The truss-pieces so in- troduced into the rhomboid, are to the diagonal frame what the key-stone is to the arch ; for no weight or pressure on the fabric can alter its position in a longitudinal direction, till compression takes place at the abutments, and extension of the various ties.<x_0.9521><y_0.1812><class_Text>\n\n<x_0.2324><y_0.175>\" This arch-like property of the diagonal frame not only opposes an alteration of position in a longitudinal direction, but also resists external pressure on the bottom, either from grounding or any other cause, because no impression can be made in its figure in these directions, without forcing the several parts of which it is composed into a shorter space.<x_0.958><y_0.2594><class_Text>\n\n<x_0.2393><y_0.2508>\" The beams are disposed in the new system nearly as usual, except that in midships, where a ship necessarily requires the greatest security, two additional beams have been introduced.<x_0.9619><y_0.3102><class_Text>\n\n<x_0.2402><y_0.3031>\" The beams of the several decks are attached to the ship's side in the following manner.<x_0.9609><y_0.3359><class_Text>\n\n<x_0.2412><y_0.3289>\" _Ist_. By shelf-pieces or internal hoops, distinguished by the letter E. These shelf-pieces are composed of several lengths of timber, scarphed or joined together by coaks or circular dowels, so as to form a kind of internal hoop, extending from the hooks forward, to the transoms abaft--(in the plate the transoms are not shown, as we have chosen the perfected application of Sir Robert Seppings' system, after the adoption of the circular stern into the service),—to the under side of which, as well as the under parts of the beams, they are securely cooked, and being then firmly bolted to the side, instead of becoming a mere local fixture of the beam to the ship’s exterior frame, as knees were, they are one continued and general security. The shelf-piece is also a tie to the top-side in a fore and aft direction, co-operating with the trussed frame, as already explained.<x_0.9775><y_0.5289><class_Text>\n\n<x_0.2539><y_0.5211>\" _2dly_, By chocks, represented in Plate CCCCLV. (_m, o_), which are placed under all the shelf-pieces in wake of the beams, except the orlop, in such a manner as to receive the up and down arm of the iron knees. The lower ends of those under the gun-deck shelf-piece step on the ends of the orlop-beams ; and those of the several decks above, step on the projecting part of the spirketing below. The chocks, particularly those between the orlop and gun decks, admit of their being driven into their respective places very tightly, thereby acting like pillars. Another advantage attending them is their great tendency to stiffen the ship’s side, and to prevent the beam-ends from playing on the fastenings when the ship is rolling, or straining under a press of sail.<x_0.9844><y_0.6953><class_Text>\n\n<x_0.2646><y_0.6875>\" The curved iron-plate knees for securing the orlop-beams, and the iron forked knees of the other decks, are described in (_n_) and (_m_), Plate CCCCLV.<x_0.9834><y_0.7336><class_Text>\n\n<x_0.2656><y_0.7258>\" The tendency of the ship to stretch or draw asunder in her upper works being by no means obviated by the short planks on the inside between the ports, a truss piece of plank is substituted in lieu of them, which being well secured at the abutments, very materially aids the trussed frame, and gives great stiffness, thereby opposing the inclination to arch or hog aloft.\"<x_0.9902><y_0.8227><class_Text>\n\n<x_0.2676><y_0.8148>These various alterations from the old system of building had the effect of very greatly increasing the strength of the ships of the royal navy. Among so many changes, it is not improbable that erroneous conclusions may have been drawn as to the relative importance of each. We incline much to the opinion that this has been the case to a very great degree, and that a part hitherto considered as quite subordi-mate, and now wholly discontinued as useless, was one prin- cipal cause of the increase of strength which enabled ship<x_0.9951><y_0.9398><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2800,
+   "completion_tokens": 1000,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

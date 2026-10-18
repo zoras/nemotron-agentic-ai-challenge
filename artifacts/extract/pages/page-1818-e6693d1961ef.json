@@ -1,0 +1,387 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1818",
+ "row_index": 1818,
+ "volume_id": "193108322",
+ "filename": "page-1818-e6693d1961ef.jpg",
+ "image_sha256": "e6693d1961ef5657ea724a54f5c12cc8b62568f84a2ff587847275075a99e6a0",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.12549,
+  "median_grey": 213,
+  "layout_body_chars": 7819,
+  "layout_pictures": 0
+ },
+ "running_head": "BLOW-PIPE. 713",
+ "layout_raw": "page-1818-e6693d1961ef/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0231,
+    1.0,
+    0.0585
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1818-e6693d1961ef/head.json",
+   "finish_reason": "stop",
+   "request_key": "1dcfabfd2454d7af20aa95845434e4dd12e26f70ad9ff03525d363e3c3cc0d9d"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0231,
+    0.475,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0231,
+     0.1045,
+     0.47
+    ],
+    [
+     0.1045,
+     0.1859,
+     0.465
+    ],
+    [
+     0.1859,
+     0.2673,
+     0.465
+    ],
+    [
+     0.2673,
+     0.3487,
+     0.465
+    ],
+    [
+     0.3487,
+     0.4301,
+     0.465
+    ],
+    [
+     0.4301,
+     0.5115,
+     0.465
+    ],
+    [
+     0.5115,
+     0.593,
+     0.465
+    ],
+    [
+     0.593,
+     0.6744,
+     0.465
+    ],
+    [
+     0.6744,
+     0.7558,
+     0.465
+    ],
+    [
+     0.7558,
+     0.8372,
+     0.465
+    ],
+    [
+     0.8372,
+     0.9186,
+     0.465
+    ],
+    [
+     0.9186,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-1818-e6693d1961ef/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "4606f9217996d83349ae78cae4adffe0949175280de7cdddf6c3ec41a5007686"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.46,
+    0.0231,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0231,
+     0.1045,
+     0.47
+    ],
+    [
+     0.1045,
+     0.1859,
+     0.465
+    ],
+    [
+     0.1859,
+     0.2673,
+     0.465
+    ],
+    [
+     0.2673,
+     0.3487,
+     0.465
+    ],
+    [
+     0.3487,
+     0.4301,
+     0.465
+    ],
+    [
+     0.4301,
+     0.5115,
+     0.465
+    ],
+    [
+     0.5115,
+     0.593,
+     0.465
+    ],
+    [
+     0.593,
+     0.6744,
+     0.465
+    ],
+    [
+     0.6744,
+     0.7558,
+     0.465
+    ],
+    [
+     0.7558,
+     0.8372,
+     0.465
+    ],
+    [
+     0.8372,
+     0.9186,
+     0.465
+    ],
+    [
+     0.9186,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-1818-e6693d1961ef/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "ca73d9a331d6a49045e410eaef72cb1e47f2d646fe1dd0cb0cc9c9f332dab18a"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Picture",
+   "text": "BLOW-PIPE. 713",
+   "bbox": [
+    0.0,
+    0.0231,
+    1.0,
+    0.0585
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1818-e6693d1961ef:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**BLOW**",
+   "bbox": [
+    0.3558,
+    0.0277,
+    0.4745,
+    0.0498
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-1818-e6693d1961ef:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "to the axis of the blow-pipe. A consists of two pieces, one of which fits air-tight into the other, and may be turned on its axis, so that the pipe of issue may be made to form different angles with the axis of the blow-pipe, as the position of the matter under experiment may require.",
+   "bbox": [
+    0.0297,
+    0.0506,
+    0.4634,
+    0.1178
+   ],
+   "source": "s0-col-left",
+   "id": "page-1818-e6693d1961ef:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Flame consists of vapour in a state of incandescence. Many substances, both of the vegetable, animal, and mine-ral kingdoms, have the quality of giving out this incan- descent vapour. For domestic uses, and for the arts, organized bodies of the vegetable and animal kingdom alone are employed to produce it; such as oils, some of which are solid, others fluid, at the usual temperature of the air, alcohol, ether, wood, and pit-coal. This latter, though found amongst minerals, is composed of organized matter changed and rendered bituminous by a particular process of decomposition. The blow-pipe, by directing the in- candescent particles of which the flame consists so as to strike against and surround a small body, produces the effect of heating the body considerably. The flame used with the blow-pipe may either be the flame of an oil or spirit lamp, or of a candle; the flame of the carbonated hydrogen gas proceeding from the distillation of the pit- coal, is also found advantageous for this purpose.",
+   "bbox": [
+    0.0487,
+    0.1132,
+    0.4629,
+    0.3436
+   ],
+   "source": "s0-col-left",
+   "id": "page-1818-e6693d1961ef:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "In order to use the blow-pipe, the breath impelled through it is to be directed across the flame of a lamp or candle, applying the orifice from which the air issues a little above the upper end of the wick; and a jet of flame is thus formed, as represented at fig. 8. This jet is made to fall on the body to be heated. The operation may be continued for a considerable length of time; an uninterrupted blast is kept up by the muscular action of the cheeks, whilst the ordinary respiration goes on through the nose; and a little practice is sufficient to enable the operator to succeed. The jet of flame is conoidal, internally blue, and externally yellow. By more or less immersion in this jet of flame the subject of operation receives a greater or less degree of heat, and becomes oxidated in a greater or less degree. If a bead of borax, containing oxide of manganese, be kept fused for some time in the inner flame, the bead becomes colourless; when it is afterwards kept fused in the outer flame, the manganese acquires more oxygen, and the bead becomes of a violet colour. This violet colour may be made to appear more speedily by adding a particle of nitre.",
+   "bbox": [
+    0.0483,
+    0.3406,
+    0.4639,
+    0.6092
+   ],
+   "source": "s0-col-left",
+   "id": "page-1818-e6693d1961ef:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "The first who applied the blow-pipe to the analysis of minerals was Swab, counsellor of the college of mines in Sweden in 1738. Its application to the science of mineralogy was afterwards further improved by Cronsted, Rinman, Gahn, Scheele, and Bergman, and by other men of science since their time.",
+   "bbox": [
+    0.0478,
+    0.6054,
+    0.4643,
+    0.6841
+   ],
+   "source": "s0-col-left",
+   "id": "page-1818-e6693d1961ef:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "The blow-pipe is useful to the mineralogist and chemist, as affording a ready method of knowing what the component parts of bodies are. Trials with the blow-pipe are generally made by the chemist in order to know the nature of the constituent parts, before he proceeds to the other steps of dry or humid analysis, which are requisite for ascertaining the quantities of the constituent parts. Then recourse is had to other means than the blow-pipe; for, in order to come at a knowledge of the proportions of the constituent parts, it is necessary that the quantity of each constituent part be large enough to be weighed in a balance, and, for this purpose, the quantity of the substance employed must be larger than what can be managed with the blow-pipe.",
+   "bbox": [
+    0.0473,
+    0.6809,
+    0.4648,
+    0.8619
+   ],
+   "source": "s0-col-left",
+   "id": "page-1818-e6693d1961ef:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "In experimental mineralogy with the blow-pipe, the small fragment of the body subjected to trial should not exceed the size of half a peppercorn; if larger, it cannot be sufficiently heated. It is placed in a lenticular cavity, made with a knife, in a piece of well-burnt charcoal of wood, free from cracks, and not too porous, and of the",
+   "bbox": [
+    0.0464,
+    0.8573,
+    0.4611,
+    0.9382
+   ],
+   "source": "s0-col-left",
+   "id": "page-1818-e6693d1961ef:b7"
+  },
+  {
+   "order": 8,
+   "class": "Page-footer",
+   "text": "VOL. IV.",
+   "bbox": [
+    0.0608,
+    0.9344,
+    0.1187,
+    0.9466
+   ],
+   "source": "s0-col-left",
+   "id": "page-1818-e6693d1961ef:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "**-PIPE.**",
+   "bbox": [
+    0.469,
+    0.0293,
+    0.5813,
+    0.0498
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-1818-e6693d1961ef:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "713",
+   "bbox": [
+    0.9146,
+    0.0345,
+    0.9567,
+    0.0536
+   ],
+   "parse_class": "Margin-note",
+   "source": "s0-col-right",
+   "id": "page-1818-e6693d1961ef:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "length of four or five inches, so as to be held conveniently **Blow-pipe.** in the left hand. Some blow-pipes have been made with a stand, to which they are connected by a ball and socket joint, the stand being fixed to the table by a clamp ; and this construction leaves the right hand at liberty. In reducing fragments of metallic ores by the blow-pipe, charcoal should be used as a support, for the charcoal attracts the oxygen from the metallic oxide, and reduces it to a metallic form ; and when thus reduced, the metal may be kept fused on the charcoal, which prevents or retards its again attracting oxygen. The charcoal support has likewise the advantage of increasing the heat by its incan-descence. For both these reasons, to prevent oxidation, and to increase and reverberate the heat proceeding from the jet of flame, the goldsmith who solders his small work by the blow-pipe attaches his work to a piece of charcoal, by means of wires, in the process of soldering.",
+   "bbox": [
+    0.47,
+    0.0544,
+    0.8887,
+    0.2719
+   ],
+   "source": "s0-col-right",
+   "id": "page-1818-e6693d1961ef:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "When it is required that the fragment of a mineral Support of should be heated without the contact of charcoal, the platina. fragment is exposed to the flame in a small spoon of pla-tina, with a wooden handle, the cavity of the spoon being a hemisphere of three tenths of an inch in diameter ; or on a thin lamina of platina two or three inches long and half an inch broad, and of the thickness of common writing paper ; or it is held by a forceps, three inches long, made of thin platina. Bergman, who published his treatise on the blow-pipe in 1780, before the working of platina had come into use, employed a small gold spoon, as that metal has the quality of remaining pure and uncontaminated, whilst in contact with many of the chemical agents; but platina is preferable ; for, besides possessing the quality of resisting the action of many chemical agents, it has likewise the advantage of difficult fusibility. It has now for a good many years been wrought into various instruments both in London and Paris ; and when wrought it is sold at the price of about a guinea the ounce, which is one quarter the price of gold. Some platina workers, as Jean-etti of Paris, who was one of the first, form the crude gra-nular platina into masses, by melting it with arsenic, and subsequent heating and forging ; others dissolve the crude platina in nitro-muriatic acid, and reduce the nitro-muriate of platina to a metallic state by heat. Platina, however, although infusible alone by the heat of the common blow-pipe, will be dissolved and melted if heated along with some of the metals. Platina supports, therefore, should not be used where they are liable to be in contact with a fused metal. These effects are notable in the case of tin ; for when tin is melted in contact with a vessel of platina, the tin enters into a combination with the platina, corroding and rendering it brittle, so that pieces of the platina vessel come off on the application of a small force, and the ves-sel is thus rendered useless. Platina vessels also become unserviceable by frequent and continued exposure to great heat. Platina crucibles which are much used become brittle, and crack at the edges ; and care should be taken to cool these vessels gradually, that they may last as long as possible. A platina vessel, in which sulphuric acid was boiled for a long time, at last became perforated and un-serviceable.",
+   "bbox": [
+    0.4684,
+    0.2681,
+    0.8892,
+    0.797
+   ],
+   "source": "s0-col-right",
+   "id": "page-1818-e6693d1961ef:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "Borax (borate of soda) is used along with the fragment Fluxes. of mineral in many cases. When exposed to the flame it becomes opaque, swells and ramifies much, in consequence of parting with its water of crystallization ; afterwards it fuses into a colourless and transparent bead. It is convenient to use calcined borax, which is borax deprived of its water of crystallization by heat in a crucible: this melts into a bead on the charcoal at once. The solubility of a mineral in borax, with effervescence or without effervescence, and the colour which the mineral communicates to the borax, are the chief distinctive characters obtained",
+   "bbox": [
+    0.4674,
+    0.7962,
+    0.8835,
+    0.9367
+   ],
+   "source": "s0-col-right",
+   "id": "page-1818-e6693d1961ef:b13"
+  },
+  {
+   "order": 14,
+   "class": "Page-footer",
+   "text": "4 x",
+   "bbox": [
+    0.8028,
+    0.9359,
+    0.8307,
+    0.9481
+   ],
+   "source": "s0-col-right",
+   "id": "page-1818-e6693d1961ef:b14"
+  }
+ ]
+}

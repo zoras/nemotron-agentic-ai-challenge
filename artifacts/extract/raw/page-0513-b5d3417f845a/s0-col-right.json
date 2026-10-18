@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "f59512f0b11bf1827de5e21d8dc8697294734a37be3a02beeb89bbb17cd13a20",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "a65bdae50d90b53aaabe8823cb917ed6e9ea2fd15b09d5cf31d137b684d65672",
+  "image_bytes": 2517962,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:513",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.505
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.51
+   ],
+   [
+    0.1667,
+    0.25,
+    0.51
+   ],
+   [
+    0.25,
+    0.3333,
+    0.51
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.51
+   ],
+   [
+    0.4167,
+    0.5,
+    0.51
+   ],
+   [
+    0.5,
+    0.5833,
+    0.51
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.51
+   ],
+   [
+    0.6667,
+    0.75,
+    0.51
+   ],
+   [
+    0.75,
+    0.8333,
+    0.51
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.51
+   ],
+   [
+    0.9167,
+    1.0,
+    0.51
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2432,
+  "completion_tokens": 888,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.39,
+ "created_at": "2026-10-18T11:10:21+00:00",
+ "content": "<x_0.0078><y_0.025>56 ] ENG<x_0.5811><y_0.0469><class_Title>\n\n<x_0.0264><y_0.0477>pofed to thofe enormous exactions which had been formerly required. He remitted the wardfhip of minors; and allowed guardians to be appointed, who should be anfwerable for the truth. He promised not to difpofe of any heirefs in marriage but by advice of all the barons; and if any baron intended to give his daughter, filter, niece, or kinfwoman, in marriage, it should only be neceflary for him to confult the king, who promised to take no money for his content, nor ever to refute permillion, unlefs the perfon to whom it was propofed to marry her fhoul happen to be his enemy. He granted his barons and military tenants the power of bequeathing by will their money or personal elates; and if they neglected to make a will, he promised that their heirs fhould facceed to them. He renounced the right of impoiling moneyage, and of leaving taxes at pleasure, on the farms which the barons kept in their own hands. He made fome general pro-feffions of moderating fines; he offered a pardon for all offences; and remitted all debts due to the crown. He alfo required, that the vaffals of the barons fhoul enjoy the fame privileges which he granted to his own barons; and he promised a general confirmation and obfervance of the _laws of king Edward \\*_. To give greater authenticity to thefe conceflions, a copy of the Syfem, charter was lodged in fome abbey of each county.<x_0.835><y_0.3992><class_Text>\n\n<x_0.0273><y_0.3984>King Henry, farther to increase his popularity, degraded and committed to prifon Ralph Flambard bi-hop of Durham, who had been the chief infrument of opprellion under his brother. He fent for Anfelm who was then at Lyons, inviting him to return and take poffellion of his dignities. Anfelm returned; but when Henry propofed to him to do the fame homage to him which he had done to his brother, the king met with an abfolute refuful. During his exile, Anfelm had afflicted at the council of Bari; where, beides fixing the controversy between the Greek and Latin churches concerning the proceflion of the Holy Ghost, the right of election to church-preferments was declared to belong to the clergy alone, and fpiritual cenfures were denounced against all ecelefialtics who did homage to laymen for their fees or benefices, and on all laymen who exacted it. The rite of homage + by the feudal cultoms was, that the vaffal fhoul throw himself on his knees, put his joined hands between thofe of his superior, and fhould in that poture fwear fealty to him. But the council declared it executable, that pure hands, which could create God, and offer him up for the falvation of mankind, fhould be put, after this humiliating manner, between profane hands, which, besides being injured to rapine and bloodfhed, were employed day and night in impure purposes and obfcene contacts. To this decree therefore Anfelm appealed; and declared, that fo far from doing homage for his spiritual dignity, he would not even communicate with any ecelefialtic who paid that fubmiffon, or who accepted of investitures from laymen. Henry durft not infilt; and therefore defined that the controversy might be fufpended, and that meffengers might be fent to Rome to accommodate matters with the Pope, and to obtain his confirmation of the laws and customs of England.<x_0.999><y_0.8844><class_Text>\n\n<x_0.04><y_0.8852>Henry now took another flep which feemed capable of confirming his claims to the crown without any danger of a rival. The Engliith remembered with regret their<x_0.8438><y_0.9398><class_Text>",
+ "reply": {
+  "id": "chatcmpl-a709f18e-42b9-4c2f-b2d4-bb878e02ed3e",
+  "object": "chat.completion",
+  "created": 1792321820,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.025>56 ] ENG<x_0.5811><y_0.0469><class_Title>\n\n<x_0.0264><y_0.0477>pofed to thofe enormous exactions which had been formerly required. He remitted the wardfhip of minors; and allowed guardians to be appointed, who should be anfwerable for the truth. He promised not to difpofe of any heirefs in marriage but by advice of all the barons; and if any baron intended to give his daughter, filter, niece, or kinfwoman, in marriage, it should only be neceflary for him to confult the king, who promised to take no money for his content, nor ever to refute permillion, unlefs the perfon to whom it was propofed to marry her fhoul happen to be his enemy. He granted his barons and military tenants the power of bequeathing by will their money or personal elates; and if they neglected to make a will, he promised that their heirs fhould facceed to them. He renounced the right of impoiling moneyage, and of leaving taxes at pleasure, on the farms which the barons kept in their own hands. He made fome general pro-feffions of moderating fines; he offered a pardon for all offences; and remitted all debts due to the crown. He alfo required, that the vaffals of the barons fhoul enjoy the fame privileges which he granted to his own barons; and he promised a general confirmation and obfervance of the _laws of king Edward \\*_. To give greater authenticity to thefe conceflions, a copy of the Syfem, charter was lodged in fome abbey of each county.<x_0.835><y_0.3992><class_Text>\n\n<x_0.0273><y_0.3984>King Henry, farther to increase his popularity, degraded and committed to prifon Ralph Flambard bi-hop of Durham, who had been the chief infrument of opprellion under his brother. He fent for Anfelm who was then at Lyons, inviting him to return and take poffellion of his dignities. Anfelm returned; but when Henry propofed to him to do the fame homage to him which he had done to his brother, the king met with an abfolute refuful. During his exile, Anfelm had afflicted at the council of Bari; where, beides fixing the controversy between the Greek and Latin churches concerning the proceflion of the Holy Ghost, the right of election to church-preferments was declared to belong to the clergy alone, and fpiritual cenfures were denounced against all ecelefialtics who did homage to laymen for their fees or benefices, and on all laymen who exacted it. The rite of homage + by the feudal cultoms was, that the vaffal fhoul throw himself on his knees, put his joined hands between thofe of his superior, and fhould in that poture fwear fealty to him. But the council declared it executable, that pure hands, which could create God, and offer him up for the falvation of mankind, fhould be put, after this humiliating manner, between profane hands, which, besides being injured to rapine and bloodfhed, were employed day and night in impure purposes and obfcene contacts. To this decree therefore Anfelm appealed; and declared, that fo far from doing homage for his spiritual dignity, he would not even communicate with any ecelefialtic who paid that fubmiffon, or who accepted of investitures from laymen. Henry durft not infilt; and therefore defined that the controversy might be fufpended, and that meffengers might be fent to Rome to accommodate matters with the Pope, and to obtain his confirmation of the laws and customs of England.<x_0.999><y_0.8844><class_Text>\n\n<x_0.04><y_0.8852>Henry now took another flep which feemed capable of confirming his claims to the crown without any danger of a rival. The Engliith remembered with regret their<x_0.8438><y_0.9398><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2432,
+   "completion_tokens": 888,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

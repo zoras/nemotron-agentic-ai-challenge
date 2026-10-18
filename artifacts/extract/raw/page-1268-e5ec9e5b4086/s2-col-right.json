@@ -1,0 +1,114 @@
+{
+ "request": {
+  "key": "3126f415cd6682dc7c555c2bf3e6e4a435cf849d723771ff1a0f6d88b304a4ff",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "faffce62836aa06983e132b2fa9bf6481d9f4849f2ff00d12733d315820ea46a",
+  "image_bytes": 1436470,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+  "variant": "s2-col-right",
+  "crop": [
+   0.5483,
+   0.3345,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.3345,
+    0.4177,
+    0.5533
+   ],
+   [
+    0.4177,
+    0.5009,
+    0.5533
+   ],
+   [
+    0.5009,
+    0.5841,
+    0.5533
+   ],
+   [
+    0.5841,
+    0.6673,
+    0.5533
+   ],
+   [
+    0.6673,
+    0.7504,
+    0.555
+   ],
+   [
+    0.7504,
+    0.8336,
+    0.5583
+   ],
+   [
+    0.8336,
+    0.9168,
+    0.56
+   ],
+   [
+    0.9168,
+    1.0,
+    0.5533
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1295,
+  "total_tokens": 2001,
+  "completion_tokens": 706,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.11,
+ "created_at": "2026-10-18T11:10:48+00:00",
+ "content": "<x_0.0078><y_0.0>and he was told that the one marked the 1 Virgin rested, the other where the angel stood when he appeared to Mary. The church erected over this sacred spot is large, and well furnished with paintings, mostly gaudy, though there were a few not altogether devoid of merit. The synagogue in which Jesus read and expound­ed the prophet Esaias is shown here within the town; the precipice from which his enemies would have thrown him down is also pointed out; and, according to Mr Buck­ingham, it is not improbable that this precipice, which overlooks the town, was the scene of this outrage. But the most venerated relic is a stone called the table of Christ, from which he is asserted to have eaten before and after his resurrection. Nazareth forms part of the pachalik of Acre, and was reduced to indigence and mi-sery by the oppression of Djezzar Pasha. Many of the wretched people emigrated in consequence; and several of the neighbouring Arabs said to Dr Clarke, that the beg­gars in England were better and happier than they. The stationary inhabitants are about 2000, of whom 500 are Catholic Christians, about 300 Maronites, and 200 Ma­hommedans, the rest being schismatic Greeks. Nazareth is fifty miles north from Jerusalem.<x_0.8916><y_0.4148><class_Text>\n\n<x_0.0332><y_0.4055>NAZARITE, or NAZAREAN, or _Nazarene_, a term which signifies one who is of Nazareth, or any native of the city of Nazareth. It was given to Jesus Christ and his disci­ples, and is commonly employed in a sense of derision and contempt by those authors who have written against Chris­tianity. It has also been applied to a sect of heretics called Nazarenes; and sometimes it means a Nazarite, or one who has laid himself under the obligation of a vow to observe the rules of Nazariteship, whether it be for his whole life, as Samson and John the Baptist, or only for a time, as in the case of those mentioned in Numbers (vi. 18, 19, 20) and Amos (ii. 11, 12). Lastly, the name of Nazarite, in some passages of Scripture, denotes a man of particular distinction and great dignity in the court of some prince. Of these several sorts of Nazarites we shall now give some account.<x_0.9043><y_0.7078><class_Text>\n\n<x_0.0508><y_0.7>The name of Nazarene belongs to Jesus Christ, not only because of his having lived the greater part of his life at Nazareth, and because this city has always been consider­ed as his country, but also because the prophets had fore­told that he should be called a Nazarene (Matth. ii. 23). \" And he came and dwelt in a city called Nazareth, that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.\" We find no particular passage in the prophets where it is said that the Messiah should be called a Nazarene; and St Matthew only quotes<x_0.9082><y_0.8953><class_Text>",
+ "reply": {
+  "id": "chatcmpl-ffc677ba-da31-4f7e-86d3-63563b5902bf",
+  "object": "chat.completion",
+  "created": 1792321847,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0>and he was told that the one marked the 1 Virgin rested, the other where the angel stood when he appeared to Mary. The church erected over this sacred spot is large, and well furnished with paintings, mostly gaudy, though there were a few not altogether devoid of merit. The synagogue in which Jesus read and expound­ed the prophet Esaias is shown here within the town; the precipice from which his enemies would have thrown him down is also pointed out; and, according to Mr Buck­ingham, it is not improbable that this precipice, which overlooks the town, was the scene of this outrage. But the most venerated relic is a stone called the table of Christ, from which he is asserted to have eaten before and after his resurrection. Nazareth forms part of the pachalik of Acre, and was reduced to indigence and mi-sery by the oppression of Djezzar Pasha. Many of the wretched people emigrated in consequence; and several of the neighbouring Arabs said to Dr Clarke, that the beg­gars in England were better and happier than they. The stationary inhabitants are about 2000, of whom 500 are Catholic Christians, about 300 Maronites, and 200 Ma­hommedans, the rest being schismatic Greeks. Nazareth is fifty miles north from Jerusalem.<x_0.8916><y_0.4148><class_Text>\n\n<x_0.0332><y_0.4055>NAZARITE, or NAZAREAN, or _Nazarene_, a term which signifies one who is of Nazareth, or any native of the city of Nazareth. It was given to Jesus Christ and his disci­ples, and is commonly employed in a sense of derision and contempt by those authors who have written against Chris­tianity. It has also been applied to a sect of heretics called Nazarenes; and sometimes it means a Nazarite, or one who has laid himself under the obligation of a vow to observe the rules of Nazariteship, whether it be for his whole life, as Samson and John the Baptist, or only for a time, as in the case of those mentioned in Numbers (vi. 18, 19, 20) and Amos (ii. 11, 12). Lastly, the name of Nazarite, in some passages of Scripture, denotes a man of particular distinction and great dignity in the court of some prince. Of these several sorts of Nazarites we shall now give some account.<x_0.9043><y_0.7078><class_Text>\n\n<x_0.0508><y_0.7>The name of Nazarene belongs to Jesus Christ, not only because of his having lived the greater part of his life at Nazareth, and because this city has always been consider­ed as his country, but also because the prophets had fore­told that he should be called a Nazarene (Matth. ii. 23). \" And he came and dwelt in a city called Nazareth, that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.\" We find no particular passage in the prophets where it is said that the Messiah should be called a Nazarene; and St Matthew only quotes<x_0.9082><y_0.8953><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1295,
+   "total_tokens": 2001,
+   "completion_tokens": 706,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

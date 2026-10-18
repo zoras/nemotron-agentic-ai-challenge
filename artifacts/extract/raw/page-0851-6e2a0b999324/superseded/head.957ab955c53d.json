@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "957ab955c53de5c0c5b5e2e0ba4da3571408e02170fd0c022ef001221feec78d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "d5a0d65cb53a1ce810977f3d8c8e74c6b46f9f41437b081f8176c42b1c282089",
+  "image_bytes": 139876,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:851",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0458,
+   1.0,
+   0.0802
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 138,
+  "total_tokens": 187,
+  "completion_tokens": 49,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.16,
+ "created_at": "2026-10-18T11:19:38+00:00",
+ "content": "<x_0.0><y_0.0>5550 O P T I C S. Part II.\nOf tre is C, and focus of parallel rays is at P; and let the focus of the reflected rays from the surface is to Of<x_0.999><y_0.9867><class_Text>",
+ "reply": {
+  "id": "chatcmpl-f6d4c673-8678-4398-b4d6-7fdf9ea3b172",
+  "object": "chat.completion",
+  "created": 1792322378,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>5550 O P T I C S. Part II.\nOf tre is C, and focus of parallel rays is at P; and let the focus of the reflected rays from the surface is to Of<x_0.999><y_0.9867><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 138,
+   "total_tokens": 187,
+   "completion_tokens": 49,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

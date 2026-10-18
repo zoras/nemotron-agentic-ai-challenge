@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "46db0c32eba9025619491aeaf2b84fd8f8481c72384198dee6388686e289abb1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "1c28dde957c43e6d572df731b0af052ba20f0683bd4e311382dc42afdf6e1b1c",
+  "image_bytes": 2621430,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2307",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4883,
+   0.0247,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0247,
+    0.106,
+    0.4933
+   ],
+   [
+    0.106,
+    0.1872,
+    0.505
+   ],
+   [
+    0.1872,
+    0.2685,
+    0.505
+   ],
+   [
+    0.2685,
+    0.3498,
+    0.505
+   ],
+   [
+    0.3498,
+    0.4311,
+    0.505
+   ],
+   [
+    0.4311,
+    0.5124,
+    0.505
+   ],
+   [
+    0.5124,
+    0.5936,
+    0.505
+   ],
+   [
+    0.5936,
+    0.6749,
+    0.505
+   ],
+   [
+    0.6749,
+    0.7562,
+    0.505
+   ],
+   [
+    0.7562,
+    0.8375,
+    0.505
+   ],
+   [
+    0.8375,
+    0.9187,
+    0.505
+   ],
+   [
+    0.9187,
+    1.0,
+    0.505
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2760,
+  "completion_tokens": 1088,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.89,
+ "created_at": "2026-10-18T11:21:17+00:00",
+ "content": "<x_0.0059><y_0.0047>A L G<x_0.6172><y_0.0266><class_Section-header>\n\n<x_0.0254><y_0.0273>men, horfes, and other creatures, fwimming on the waves; at which he was fo difheartened, that abandon- ing his tents, artillery, and all his heavy baggage, to the enemy, he marched at the head of his army, though in no final diforder, towards cape _Malabux_, in order to re-imbark in thofe few veffels which had outweather- ed the form. But Haffan, who had caufed his motions to be watched, allowed him juit time to get to the shore, when he fallied out and attacked the Spaniards in the midft of their hurry and confuition to get into their fhips, killing great numbers, and bringing away a fill greater number of captives; after which he re- turned in triumph to Algiers, where he celebrated with great rejoicings his happy deliverance from fuch dif- trefs and danger.<x_0.793><y_0.2297><class_Text>\n\n<x_0.0264><y_0.2289>Soon after this, the prophet _Yufef_, who had foretold the defruction of the Spaniards, was not only declared the deliverer of his country, but had a conferable gratuity decreed him, with the liberty of exerciling his prophetic function unmolefted. It was not long, how- ever, before the marabouts, and fome interpreters of the law, made a frong oppoffion against him; remon- fitrating to the bañhaw, how ridiculous and feandalous it was to their nation, to aferibe the deliverance of it to a poor fortune-teller, which had been obtained by the fervent prayers of an eminent faint of their own profefi- tion. But tho’ the bañhaw and his douwan feemed, out of policy, to give into this laft notion, yet the im- preflion which Yufef's predictions and their late accom- plifhment had made upon the minds of the common people, proved too frong to be eradicated; and the fpi-rit of divination and conjuring has fince got into fuch credit among them, that not only their great flatefmen, but their priefts, marabouts, and fantoons, have applied themselves to that fluidy, and dignified it with the name of _Makomet's Revelations_.<x_0.7949><y_0.5086><class_Text>\n\n<x_0.0273><y_0.5094>The unhappy Spaniards had fearc reached their fhips, when they were attacked by a freth form, in which feveral more of them perished; one fhip in par-ticular, containing 700 foldiers, befides failors, funk in the emperor’s fight, without a polflibility of faving a fingle man. At length, with much labour, they reached the port of _Bujcyah_, at that time poffeiled by the Spaniards, whither Haffan king of Tunis foon af ter repaired, with a fupply of provisions for the empe- ror, who received him graciously, with freth affurances of his favour and protection. Here he difmiffed the few remains of the Maltefe knights and their forces, who embarked in three flattered gallies, and with much difficulty and danger reached ther own country. Charles himself flaid no longer than till the 16<sup>th</sup> of November, when he fet fail for Carthagena, and reached it on the 25<sup>th</sup> of the fame month. In this unfortunate expedi- tion upwards of 120 fhips and galleys were loft, above 300 colonels and other land and fea officers, 8000 fol- diers and marines, befides thofe deftroyd by the ene- my on their reimbarkation, or drowned in the laft form. The number of prifoners was fo great, that the Alge- rines fold fome of them, by way of contempt, for an onion per head.<x_0.7959><y_0.8305><class_Text>\n\n<x_0.0283><y_0.8297>Haffan, elated with this victory, in which he had very little fhare, undertook an expedition againlt the king of Tremecen, who, being now deprived of the af- fiftance of the Spaniards, was forced to procure a peace by paying a valt fum of money, and becoming tributary<x_0.7939><y_0.8984><class_Text>\n\n<x_0.7969><y_0.0281>Algiers.<x_0.9404><y_0.0437><class_Caption>\n\n<x_0.792><y_0.0555>29 Siege of Algiers raifed.<x_0.9414><y_0.0914><class_Caption>\n\n<x_0.791><y_0.2203>19 The msd prophet re- warded.<x_0.9355><y_0.2648><class_Caption>\n\n<x_0.7988><y_0.5016>20 Freth cala- miles of the Spaniards.<x_0.9453><y_0.5453><class_Caption>\n\n<x_0.7979><y_0.8242>21 Haffan re- places Tre- mecen.<x_0.9238><y_0.8672><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-12fa1c88-a87e-4ae7-9ea5-0b8e9debc452",
+  "object": "chat.completion",
+  "created": 1792322476,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0059><y_0.0047>A L G<x_0.6172><y_0.0266><class_Section-header>\n\n<x_0.0254><y_0.0273>men, horfes, and other creatures, fwimming on the waves; at which he was fo difheartened, that abandon- ing his tents, artillery, and all his heavy baggage, to the enemy, he marched at the head of his army, though in no final diforder, towards cape _Malabux_, in order to re-imbark in thofe few veffels which had outweather- ed the form. But Haffan, who had caufed his motions to be watched, allowed him juit time to get to the shore, when he fallied out and attacked the Spaniards in the midft of their hurry and confuition to get into their fhips, killing great numbers, and bringing away a fill greater number of captives; after which he re- turned in triumph to Algiers, where he celebrated with great rejoicings his happy deliverance from fuch dif- trefs and danger.<x_0.793><y_0.2297><class_Text>\n\n<x_0.0264><y_0.2289>Soon after this, the prophet _Yufef_, who had foretold the defruction of the Spaniards, was not only declared the deliverer of his country, but had a conferable gratuity decreed him, with the liberty of exerciling his prophetic function unmolefted. It was not long, how- ever, before the marabouts, and fome interpreters of the law, made a frong oppoffion against him; remon- fitrating to the bañhaw, how ridiculous and feandalous it was to their nation, to aferibe the deliverance of it to a poor fortune-teller, which had been obtained by the fervent prayers of an eminent faint of their own profefi- tion. But tho’ the bañhaw and his douwan feemed, out of policy, to give into this laft notion, yet the im- preflion which Yufef's predictions and their late accom- plifhment had made upon the minds of the common people, proved too frong to be eradicated; and the fpi-rit of divination and conjuring has fince got into fuch credit among them, that not only their great flatefmen, but their priefts, marabouts, and fantoons, have applied themselves to that fluidy, and dignified it with the name of _Makomet's Revelations_.<x_0.7949><y_0.5086><class_Text>\n\n<x_0.0273><y_0.5094>The unhappy Spaniards had fearc reached their fhips, when they were attacked by a freth form, in which feveral more of them perished; one fhip in par-ticular, containing 700 foldiers, befides failors, funk in the emperor’s fight, without a polflibility of faving a fingle man. At length, with much labour, they reached the port of _Bujcyah_, at that time poffeiled by the Spaniards, whither Haffan king of Tunis foon af ter repaired, with a fupply of provisions for the empe- ror, who received him graciously, with freth affurances of his favour and protection. Here he difmiffed the few remains of the Maltefe knights and their forces, who embarked in three flattered gallies, and with much difficulty and danger reached ther own country. Charles himself flaid no longer than till the 16<sup>th</sup> of November, when he fet fail for Carthagena, and reached it on the 25<sup>th</sup> of the fame month. In this unfortunate expedi- tion upwards of 120 fhips and galleys were loft, above 300 colonels and other land and fea officers, 8000 fol- diers and marines, befides thofe deftroyd by the ene- my on their reimbarkation, or drowned in the laft form. The number of prifoners was fo great, that the Alge- rines fold fome of them, by way of contempt, for an onion per head.<x_0.7959><y_0.8305><class_Text>\n\n<x_0.0283><y_0.8297>Haffan, elated with this victory, in which he had very little fhare, undertook an expedition againlt the king of Tremecen, who, being now deprived of the af- fiftance of the Spaniards, was forced to procure a peace by paying a valt fum of money, and becoming tributary<x_0.7939><y_0.8984><class_Text>\n\n<x_0.7969><y_0.0281>Algiers.<x_0.9404><y_0.0437><class_Caption>\n\n<x_0.792><y_0.0555>29 Siege of Algiers raifed.<x_0.9414><y_0.0914><class_Caption>\n\n<x_0.791><y_0.2203>19 The msd prophet re- warded.<x_0.9355><y_0.2648><class_Caption>\n\n<x_0.7988><y_0.5016>20 Freth cala- miles of the Spaniards.<x_0.9453><y_0.5453><class_Caption>\n\n<x_0.7979><y_0.8242>21 Haffan re- places Tre- mecen.<x_0.9238><y_0.8672><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2760,
+   "completion_tokens": 1088,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

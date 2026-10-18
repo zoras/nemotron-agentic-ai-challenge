@@ -1,0 +1,435 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1904",
+ "row_index": 1904,
+ "volume_id": "144850377",
+ "filename": "page-1904-759854fd95bb.jpg",
+ "image_sha256": "759854fd95bb63859232323bbddae58dd20122c44ba36e429b4243846268277d",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.0902,
+  "median_grey": 204,
+  "layout_body_chars": 6761,
+  "layout_pictures": 0
+ },
+ "running_head": "L Y R [ 4329 ] L Y R",
+ "layout_raw": "page-1904-759854fd95bb/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0161,
+    1.0,
+    0.0444
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1904-759854fd95bb/head.json",
+   "finish_reason": "stop",
+   "request_key": "e8b0dff4f3e2cc9c9c80fea4754b63e0ffb7e9c44d98ae94c236f869daadc655"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0161,
+    0.4867,
+    0.753
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0161,
+     0.098,
+     0.4817
+    ],
+    [
+     0.098,
+     0.1799,
+     0.4817
+    ],
+    [
+     0.1799,
+     0.2617,
+     0.4817
+    ],
+    [
+     0.2617,
+     0.3436,
+     0.4817
+    ],
+    [
+     0.3436,
+     0.4255,
+     0.4817
+    ],
+    [
+     0.4255,
+     0.5074,
+     0.4817
+    ],
+    [
+     0.5074,
+     0.5892,
+     0.4817
+    ],
+    [
+     0.5892,
+     0.6711,
+     0.4817
+    ],
+    [
+     0.6711,
+     0.753,
+     0.4817
+    ]
+   ],
+   "raw_path": "page-1904-759854fd95bb/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "8971914c81b7d78b84424ddd07e1ba955eeb2d9433ae9d48dc25d688914adc9b"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4767,
+    0.0161,
+    1.0,
+    0.753
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0161,
+     0.098,
+     0.4817
+    ],
+    [
+     0.098,
+     0.1799,
+     0.4817
+    ],
+    [
+     0.1799,
+     0.2617,
+     0.4817
+    ],
+    [
+     0.2617,
+     0.3436,
+     0.4817
+    ],
+    [
+     0.3436,
+     0.4255,
+     0.4817
+    ],
+    [
+     0.4255,
+     0.5074,
+     0.4817
+    ],
+    [
+     0.5074,
+     0.5892,
+     0.4817
+    ],
+    [
+     0.5892,
+     0.6711,
+     0.4817
+    ],
+    [
+     0.6711,
+     0.753,
+     0.4817
+    ]
+   ],
+   "raw_path": "page-1904-759854fd95bb/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "bd08aa3c4045121e3f57976a2a0925071c3353566d54c4c1b615483f22bc4307"
+  },
+  {
+   "label": "s1-wide",
+   "crop": [
+    0.0,
+    0.753,
+    1.0,
+    0.9298
+   ],
+   "scale": 2,
+   "raw_path": "page-1904-759854fd95bb/s1-wide.json",
+   "finish_reason": "stop",
+   "request_key": "eee087dd45b67d2934d736daae8b0c0d5c60d57a020bf0f4584143c661318a98"
+  },
+  {
+   "label": "s2-col-left",
+   "crop": [
+    0.0,
+    0.9298,
+    0.4867,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.9298,
+     1.0,
+     0.4817
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  },
+  {
+   "label": "s2-col-right",
+   "crop": [
+    0.4767,
+    0.9298,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.9298,
+     1.0,
+     0.4817
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "L Y R [ 4329 ] L Y R",
+   "bbox": [
+    0.0,
+    0.0161,
+    1.0,
+    0.0444
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1904-759854fd95bb:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "L Y R [ 43",
+   "bbox": [
+    0.2058,
+    0.0196,
+    0.4862,
+    0.0426
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1904-759854fd95bb:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Lyre.",
+   "bbox": [
+    0.0157,
+    0.0397,
+    0.0818,
+    0.0662
+   ],
+   "source": "s0-col-left",
+   "id": "page-1904-759854fd95bb:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "which he ufed to frequent, at the foot of a mountain in Arcadia. Juit as he was going in, he found a tortoife feeding at the entrance of his cave: he killed the poor creature, and, perhaps, eat the fleth of it. As he was diverting himself with the fhell, he was mightily pleafed with the noife it gave from its concave figure. He had pofibly been cunning enough to find out, that a thong pulled fitrait and fattened at each end, when struck by the finger, made a fort of muufical found. However that was, he went immediately to work, and cut feveral thongs out of the hides he had lately flolen, and fattened them as tight as he could to the fhell of this tortoife; and, in playing with them, made a new kind of mufic with them to divert himself in his retreat. This, considered only as an account of the frit invention of the lyre, is not altogether fo unnatural.\"",
+   "bbox": [
+    0.0794,
+    0.0409,
+    0.4819,
+    0.2602
+   ],
+   "source": "s0-col-left",
+   "id": "page-1904-759854fd95bb:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "- The moft ancient reprefentations of this infrument agree very well with the account of its invention: the lyre, in particular on the old celestial globes, was represented as made of one entire fhell of a tortoife; and that Amphion in the celebrated group of the Diree, or Toro, in the Famefe palace at Rome, which is of Greek feulpture, and very high antiquity, is figured in the fsame manner. See Plate CLXI. fig. 9.",
+   "bbox": [
+    0.0727,
+    0.2596,
+    0.4815,
+    0.3684
+   ],
+   "source": "s0-col-left",
+   "id": "page-1904-759854fd95bb:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "There have, however, been many other claimants to the fever-thringed lyre. For though Mercury invent ed this infrument in the manner already related, it is faid he afterwards gave it to Apollo, who was the first that played upon it with method, and made it the conflant companion of poetry. According to Homer's account of this tranfaction, in his hymn to Mercury, it was given by that god to Apollo, as a peace offering and indemnification for the oxen which he had flolen from him:",
+   "bbox": [
+    0.0789,
+    0.3678,
+    0.481,
+    0.5043
+   ],
+   "source": "s0-col-left",
+   "id": "page-1904-759854fd95bb:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "To Phcebus Maia’s fan prefents the lyre, A gift intended to appeafe his ire. The god receives it gladly, and elays The novel infrument a thousand ways: With dextrous kill the plectum wields; and fings, With voice accordant to the trembling things, Such finains as gods and men approv'd, from whence The tweet alliance sprung of found and fence.",
+   "bbox": [
+    0.1065,
+    0.5049,
+    0.4425,
+    0.5952
+   ],
+   "source": "s0-col-left",
+   "id": "page-1904-759854fd95bb:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Diodorus informs us, that Apollo four repenting of the cruelty with which he had treated MARSYAS in conféquence of their mufical contell, broke the fringes of the lyre, and by that means put a flop for a time to any further progrefs in the practice of that new in- frument. \"The mufes (adds he) afterwards added to this infrument the firing called _mefe_; Linus, that of _lichanss_; and Orpheus and Thamyras, thofe fittings which are named _hypate_ and _parbypate_ (A).",
+   "bbox": [
+    0.078,
+    0.5964,
+    0.4805,
+    0.7196
+   ],
+   "source": "s0-col-left",
+   "id": "page-1904-759854fd95bb:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "Again, many ancient and respectable authors tell",
+   "bbox": [
+    0.0955,
+    0.719,
+    0.4748,
+    0.7363
+   ],
+   "source": "s0-col-left",
+   "id": "page-1904-759854fd95bb:b8"
+  },
+  {
+   "order": 9,
+   "class": "Page-footer",
+   "text": "2",
+   "bbox": [
+    0.2129,
+    0.7358,
+    0.2291,
+    0.7461
+   ],
+   "source": "s0-col-left",
+   "id": "page-1904-759854fd95bb:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "29 ] L Y R",
+   "bbox": [
+    0.4808,
+    0.0196,
+    0.7613,
+    0.0409
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1904-759854fd95bb:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "us, that, before the time of Terpander, the Grecian lyre had only four things; and, if we may believe Suidas, it remained in this flate 856 years, from the time of Amphion, till Terpander added to it three new fittings, which extended the mufical feale to a hept- chord, or feventh, and fupplied the player with two conjoint tetrachords. It was about 150 years after this period, that Pythagoras is laid to have added an eighth firing to the lyre, in order to complete the oc- tave, which conflicted of two disjunct tetrachords.",
+   "bbox": [
+    0.4874,
+    0.0414,
+    0.8896,
+    0.1778
+   ],
+   "source": "s0-col-right",
+   "id": "page-1904-759854fd95bb:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "Boethius gives a different history of the feale, and tells us, that the fyltem did not long remain in fuch narrow limits as a tetrachord. Choraebus, the Ion of Athis, or Atys, king of Lydia, added a fifth firing; Hyagnis, a fixth; Terpander, a feventh; and, at length, Lychaon of Samos, an eighth. But all thefe account are irreconcileable with Homer's hymn to Mercury, where the chelys, or telludo, the invention of which he aferibes to that god, is fail to have had fever litings. There are many claimants among the nuticians of ancient Greece, to the fittings that were afterwards added to thefe, by which the feale, in the time of Ariftoxenus, was extended to two octaves. Athenaeus, more than once, fpeaks of the nine-ftringed instrument; and Ion of Chios, a tragic and lyric poet and philofopher, who firt recited his pieces in the 82d olympiad, 452 B. C. mentions, in fome vertes quoted by Euclid, the ten- flringed lyre; a proof that the third conjoint tetra- chord was added to the feale in his time, which was about 50 years after Pythagoras is fuppofed to have confructed the octachord.",
+   "bbox": [
+    0.4869,
+    0.1773,
+    0.8891,
+    0.4611
+   ],
+   "source": "s0-col-right",
+   "id": "page-1904-759854fd95bb:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "The different claimants among the Greeks to the fame mufical difcoveries, only prove, that mufic was cul-tivated in different countries; and that the inhabitants of each country invented and improved their own infruments, fome of which happening to refemble thofe of other parts of Greece, rendered it difficult for historians to avoid attributing the fame invention to different perfons. Thus the fingle flute was given to Mi- nerva, and to Marfyas; the fyrinx, or filula, to Pan, and to Cybele; and the lyre, or cithara, to Mercury, Apollo, Amphion, Linus, and Orpheus. Indeed, the mere addition of a firing or two to an infirument with- out a neck, was fo obvious and eafy, that it is fearce poffible not to conceive many people to have done it at the fame time.",
+   "bbox": [
+    0.4864,
+    0.4617,
+    0.8901,
+    0.6644
+   ],
+   "source": "s0-col-right",
+   "id": "page-1904-759854fd95bb:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "With respect to the form of the ancient lyre; as little agreement is to be found among authors as about the number of litrings. The belt evidences concerning it are the reprefentations of that infirument in the hands of ancient flatues, bas-reliefs, &c. See Plate CLXI.",
+   "bbox": [
+    0.4859,
+    0.6649,
+    0.8886,
+    0.7334
+   ],
+   "source": "s0-col-right",
+   "id": "page-1904-759854fd95bb:b14"
+  },
+  {
+   "order": 15,
+   "class": "Page-footer",
+   "text": "24 O2 where",
+   "bbox": [
+    0.6796,
+    0.7317,
+    0.886,
+    0.7484
+   ],
+   "source": "s0-col-right",
+   "id": "page-1904-759854fd95bb:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "(A) It has been already related, that the lyre invented by the Egyptian Mercury had but three fittings; and by put- ting thefe two circumstances together, Dr Burney observes, we may perhaps acquire fome knowledge of the progrefs of mufic, or, at leaft, of the extention of its feale, in the highest antiquity. _Mefe_, in the Greek mufic, is the fourth found of the feecond tetrachord of the great fyftem, and firft tetrachord in- vented by the ancients, anfwering to our A, on the fifth line in the bafe. If this found then was added to the former three, it proves two important points: firft, that the moft ancient tetrachord was that from E in the bafe to A; and that the three original frings in the Mercurian and Apollonian lyre were tuned E, F, G, which the Greeks called _Hy- pate Mefon, Parhypate Mefon, Mefon Diatonor._ The addition therefore of _Mefe_ to thefe, completed the firft and moft ancient tetrachord, E, F, G, A. The firing _licbanon_, then, being added to thefe, and anfwering to our D on the third line in the bafe, extended the compafs downwards, and gave the ancient lyre a regular feries of five founds in the Dorian mode, the moft ancient of all the Greek modes; and the two fritings called _Hypate_ and _Parhypate_, correponding with our B and C in the bafe, completed the heptachord, or fevern founds, B, C, D, E, F, G, A, a compafs that received no addition till after the time of Pindar, who calls the infrument then in ufe the _feven-tongued lyre._",
+   "bbox": [
+    0.0,
+    0.753,
+    0.999,
+    0.9291
+   ],
+   "source": "s1-wide",
+   "id": "page-1904-759854fd95bb:b16"
+  }
+ ]
+}

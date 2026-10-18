@@ -1,0 +1,119 @@
+{
+ "request": {
+  "key": "815912c0254080c0282a19be5514f6e259c9afcb8f2cdba0d551f650a2d5c738",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "496f47029d658e3683f3393ba187609fb591c28a7e331b419f569acb5afa2516",
+  "image_bytes": 1998156,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2524",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5283,
+   0.0507,
+   1.0,
+   0.8062
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0507,
+    0.1346,
+    0.5333
+   ],
+   [
+    0.1346,
+    0.2186,
+    0.5333
+   ],
+   [
+    0.2186,
+    0.3025,
+    0.5333
+   ],
+   [
+    0.3025,
+    0.3865,
+    0.5333
+   ],
+   [
+    0.3865,
+    0.4704,
+    0.5333
+   ],
+   [
+    0.4704,
+    0.5544,
+    0.5333
+   ],
+   [
+    0.5544,
+    0.6383,
+    0.5333
+   ],
+   [
+    0.6383,
+    0.7223,
+    0.5333
+   ],
+   [
+    0.7223,
+    0.8062,
+    0.5333
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1660,
+  "total_tokens": 2441,
+  "completion_tokens": 781,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.42,
+ "created_at": "2026-10-18T11:12:02+00:00",
+ "content": "<x_0.0234><y_0.0>we refer for a further account of those ancient monuments Hindus of Hindu art.3<x_0.9697><y_0.0383><class_Text>\n\n<x_0.0215><y_0.0312>Of the Hindu paintings the chief merit is brilliancy of Paints colour, rather than taste in the design or liveliness of expression. They imitate most exactly, and are excellent draughtsmen; and they draw specimens of natural history with much neatness and accuracy. \"The laborious exactness with which they imitate every feather of a bird,\" says Tennant, \"or the smallest fibre on the leaf of a plant; renders them valuable assistants in this department; but farther than this they cannot advance one step. If your bird is to be placed on a rock or upon the branch of a tree, the draughtsman is at a stand ; the object is not before him, and he can' supply nothing.4 Since this period, however, the Hindus have made great advances in the art of painting ; and some of their portraits display taste and expression that would not discredit European artists.<x_0.8828><y_0.2805><class_Text>\n\n<x_0.0225><y_0.2734>The music of the Hindus is rude and inharmonious. Music They have numerous instruments, but those are prefer-red which make most noise; the beating of the great drum is reckoned an emblem of sovereign power.<x_0.8672><y_0.3445><class_Text>\n\n<x_0.0127><y_0.3391>The literature of the Hindus has been generally rated Literal very low by European writers, and has been represented as consisting in long desultory poems, inflated and extrava-gant in their style, containing, under the idea of a history, a tissue of absurd fables, interspersed with passages or episodes that are tender and passionate, and possess all the sweetness of pastoral poetry. They are said to be totally destitute of historical annals, and their geography is a mass of errors. Nor has their astronomy those claims to antiquity which were at first allowed. Accu-rate inquiry has proved this science to be in its infancy amongst them.5 The want of historical records by the Hindus is strongly denied by Colonel Todd, who has himself composed a history of the Rajpoots from native works, which he found in the libraries of their princes, and he asserts that in those depositories of Hindu literature many more works exist, which would reward the researches of the learned. \"The works of the native bards,\" he observes, \" afford many valuable data in facts, incidents, religious opinions, and traits of manners.\" \" In the heroic history of Pirthi-raj, by Chund,\" he adds, \" there occur many geographical as well as historical details, in the description of his sovereign's wars, of which the bard was an eye-witness, having been his friend, his herald, his ambas-sador, and finally discharging the melancholy office of accessory to his death, that he might save him from disho-nour.\" The Brahminical accounts of the endowments of temples, of their dilapidation and repairs, supply historical and chronological details ; also the legends respecting places of pilgrimage and religious resort. Much historial information lies hid in the controversial records of the Jains ; and, says Colonel Todd, \" those different records, works of mixed historical and geographical character, which I know to exist, _rasahs_ or poetical legends of princes, which are common, local _puranas_, religious comments and traditionary couplets, with authorities of less dubious character, namely, inscriptions cut on rocks, coins, copperplate grants, containing charters of immunities, and expressing many singular features of civil government,<x_0.8809><y_0.9773><class_Text>",
+ "reply": {
+  "id": "chatcmpl-38f0de6c-29b2-4a6e-a272-07636e248152",
+  "object": "chat.completion",
+  "created": 1792321921,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0234><y_0.0>we refer for a further account of those ancient monuments Hindus of Hindu art.3<x_0.9697><y_0.0383><class_Text>\n\n<x_0.0215><y_0.0312>Of the Hindu paintings the chief merit is brilliancy of Paints colour, rather than taste in the design or liveliness of expression. They imitate most exactly, and are excellent draughtsmen; and they draw specimens of natural history with much neatness and accuracy. \"The laborious exactness with which they imitate every feather of a bird,\" says Tennant, \"or the smallest fibre on the leaf of a plant; renders them valuable assistants in this department; but farther than this they cannot advance one step. If your bird is to be placed on a rock or upon the branch of a tree, the draughtsman is at a stand ; the object is not before him, and he can' supply nothing.4 Since this period, however, the Hindus have made great advances in the art of painting ; and some of their portraits display taste and expression that would not discredit European artists.<x_0.8828><y_0.2805><class_Text>\n\n<x_0.0225><y_0.2734>The music of the Hindus is rude and inharmonious. Music They have numerous instruments, but those are prefer-red which make most noise; the beating of the great drum is reckoned an emblem of sovereign power.<x_0.8672><y_0.3445><class_Text>\n\n<x_0.0127><y_0.3391>The literature of the Hindus has been generally rated Literal very low by European writers, and has been represented as consisting in long desultory poems, inflated and extrava-gant in their style, containing, under the idea of a history, a tissue of absurd fables, interspersed with passages or episodes that are tender and passionate, and possess all the sweetness of pastoral poetry. They are said to be totally destitute of historical annals, and their geography is a mass of errors. Nor has their astronomy those claims to antiquity which were at first allowed. Accu-rate inquiry has proved this science to be in its infancy amongst them.5 The want of historical records by the Hindus is strongly denied by Colonel Todd, who has himself composed a history of the Rajpoots from native works, which he found in the libraries of their princes, and he asserts that in those depositories of Hindu literature many more works exist, which would reward the researches of the learned. \"The works of the native bards,\" he observes, \" afford many valuable data in facts, incidents, religious opinions, and traits of manners.\" \" In the heroic history of Pirthi-raj, by Chund,\" he adds, \" there occur many geographical as well as historical details, in the description of his sovereign's wars, of which the bard was an eye-witness, having been his friend, his herald, his ambas-sador, and finally discharging the melancholy office of accessory to his death, that he might save him from disho-nour.\" The Brahminical accounts of the endowments of temples, of their dilapidation and repairs, supply historical and chronological details ; also the legends respecting places of pilgrimage and religious resort. Much historial information lies hid in the controversial records of the Jains ; and, says Colonel Todd, \" those different records, works of mixed historical and geographical character, which I know to exist, _rasahs_ or poetical legends of princes, which are common, local _puranas_, religious comments and traditionary couplets, with authorities of less dubious character, namely, inscriptions cut on rocks, coins, copperplate grants, containing charters of immunities, and expressing many singular features of civil government,<x_0.8809><y_0.9773><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1660,
+   "total_tokens": 2441,
+   "completion_tokens": 781,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

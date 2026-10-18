@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "f49faeadc858d740dc2f91ec735341842ea84081f38f599d4f079d55a62b1e57",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "060be9fb90104950b19bae3f12b03a1a4f10d0f119c7faa5ccd64ac56366f237",
+  "image_bytes": 2530561,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1942",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0216,
+   0.5017,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0216,
+    0.1031,
+    0.4967
+   ],
+   [
+    0.1031,
+    0.1847,
+    0.4967
+   ],
+   [
+    0.1847,
+    0.2662,
+    0.4967
+   ],
+   [
+    0.2662,
+    0.3477,
+    0.4967
+   ],
+   [
+    0.3477,
+    0.4293,
+    0.4967
+   ],
+   [
+    0.4293,
+    0.5108,
+    0.4967
+   ],
+   [
+    0.5108,
+    0.5923,
+    0.4967
+   ],
+   [
+    0.5923,
+    0.6739,
+    0.4967
+   ],
+   [
+    0.6739,
+    0.7554,
+    0.4967
+   ],
+   [
+    0.7554,
+    0.8369,
+    0.4967
+   ],
+   [
+    0.8369,
+    0.9185,
+    0.4967
+   ],
+   [
+    0.9185,
+    1.0,
+    0.4967
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2384,
+  "completion_tokens": 840,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.58,
+ "created_at": "2026-10-18T11:20:35+00:00",
+ "content": "<x_0.0518><y_0.0047>6046<x_0.168><y_0.025><class_Page-header>\n\n<x_0.7529><y_0.0039>P H A R<x_0.9863><y_0.0234><class_Page-header>\n\n<x_0.0469><y_0.0258>Prepara-tions.<x_0.1689><y_0.0508><class_Caption>\n\n<x_0.1768><y_0.0242>brought from Italy, are prepared in this manner. The odorous parts may be again feparated from the oil, and transferred into water or fpirit, by diftillation with thofe liquors.<x_0.9824><y_0.0828><class_Text>\n\n<x_0.1719><y_0.0852>**SECT. IV.** _Confervation of recent Vegetables and their Infusions, &c. by Sugar and Honey._<x_0.9902><y_0.1187><class_Section-header>\n\n<x_0.4414><y_0.1195>§ 1. CONSERVES.<x_0.7148><y_0.1352><class_Section-header>\n\n<x_0.1729><y_0.1344>454. CONSERVES are compotitions of recent vege- table matters and fugar beaten together into an uniform mafs.<x_0.9795><y_0.1758><class_Text>\n\n<x_0.1709><y_0.175>This management was introduced for preferving certain limples, undried, in an agreeable form, with as little alteration as poffible in their native virtues; and to fome subjects it is very advantageoufly applied. Vegetables, whole virtues are loft or deltroyed in drying, may in this form be kept uninjured for a length of time: for, by carefully focuring the mouth of the containing veffel, the alteration, as well as diffipation, of their active principles, is generally prevented ; and the fugar preserves them from the corruption which juicy vegetables would otherwise undergo.<x_0.9805><y_0.3242><class_Text>\n\n<x_0.1699><y_0.3234>There are, however, fundry vegetables whose virtues are impaired by this treatment. Mucilaginous fulblances, by long lying with fugar, become leis glu-tinous, and affringents fentibly fofter upon the palate. Many of the fragrant flowers are of fo tender and delicate a texture, as almost entirely to lofe their peculiar qualities on being beaten or bruified.<x_0.9785><y_0.4188><class_Text>\n\n<x_0.167><y_0.418>In general, it is obvious, that in this form, on account of the large admixture of fugar, only fulblances of confiderable activity can be taken to advantage as medicines. And indeed, conserves are at present considered chiefly as auxiliaries to medicines of greater efficacy, or as intermediums for joining them together. They are very convenient for reducing into bolufes or pills the more ponderos powders, as mercurius dul-cis, the calces of iron, and other mineral preparations; which with liquid or lefs conflient matters, as fyrups, will not cohere.<x_0.9775><y_0.5648><class_Text>\n\n<x_0.166><y_0.5641>The shops were formerly encumbered with many conferences altogether infignificant ; the few now retain- ed have in general either an agreeable flavour to recommend them, or are capable of anfwering fome useful purposes as medicines. Their common dofe is the bulk of a nutmeg, or as much as can be taken up at once or twice upon the point of a knife. There is in general no great danger of exceeding in this particular.<x_0.9766><y_0.6859><class_Text>\n\n<x_0.2432><y_0.6875>## 455. General method of preferving conferences.<x_0.8926><y_0.7055><class_Section-header>\n\n<x_0.165><y_0.7047>Leaves are picked from the flalke, and flowers from their cups. They are beaten in a marble mortar, with a wooden petite, into a fmooth mafs; after which thrice their weight of double-refined sugar is added by degrees, and the beating continued till they are uniformly mixed.<x_0.9756><y_0.7898><class_Text>\n\n<x_0.1631><y_0.7914>The fugar should be pulverified by itself, and paffed through a lieve, before it is mixed with the vegetable mafs; othertwife it cannot easily be reduced to fufficient fineness, fo as to be duly incorporated. Some vegetables are fearce reducible to the requifite fineness by beating in a mortar; fuch is orange-peel. This is molt conveniently rafped or grated off from the fruit, then well mixed with the fugar, and the com-<x_0.9736><y_0.9055><class_Text>",
+ "reply": {
+  "id": "chatcmpl-cdbaaed9-9164-47cd-9fad-35af01384fa7",
+  "object": "chat.completion",
+  "created": 1792322434,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0518><y_0.0047>6046<x_0.168><y_0.025><class_Page-header>\n\n<x_0.7529><y_0.0039>P H A R<x_0.9863><y_0.0234><class_Page-header>\n\n<x_0.0469><y_0.0258>Prepara-tions.<x_0.1689><y_0.0508><class_Caption>\n\n<x_0.1768><y_0.0242>brought from Italy, are prepared in this manner. The odorous parts may be again feparated from the oil, and transferred into water or fpirit, by diftillation with thofe liquors.<x_0.9824><y_0.0828><class_Text>\n\n<x_0.1719><y_0.0852>**SECT. IV.** _Confervation of recent Vegetables and their Infusions, &c. by Sugar and Honey._<x_0.9902><y_0.1187><class_Section-header>\n\n<x_0.4414><y_0.1195>§ 1. CONSERVES.<x_0.7148><y_0.1352><class_Section-header>\n\n<x_0.1729><y_0.1344>454. CONSERVES are compotitions of recent vege- table matters and fugar beaten together into an uniform mafs.<x_0.9795><y_0.1758><class_Text>\n\n<x_0.1709><y_0.175>This management was introduced for preferving certain limples, undried, in an agreeable form, with as little alteration as poffible in their native virtues; and to fome subjects it is very advantageoufly applied. Vegetables, whole virtues are loft or deltroyed in drying, may in this form be kept uninjured for a length of time: for, by carefully focuring the mouth of the containing veffel, the alteration, as well as diffipation, of their active principles, is generally prevented ; and the fugar preserves them from the corruption which juicy vegetables would otherwise undergo.<x_0.9805><y_0.3242><class_Text>\n\n<x_0.1699><y_0.3234>There are, however, fundry vegetables whose virtues are impaired by this treatment. Mucilaginous fulblances, by long lying with fugar, become leis glu-tinous, and affringents fentibly fofter upon the palate. Many of the fragrant flowers are of fo tender and delicate a texture, as almost entirely to lofe their peculiar qualities on being beaten or bruified.<x_0.9785><y_0.4188><class_Text>\n\n<x_0.167><y_0.418>In general, it is obvious, that in this form, on account of the large admixture of fugar, only fulblances of confiderable activity can be taken to advantage as medicines. And indeed, conserves are at present considered chiefly as auxiliaries to medicines of greater efficacy, or as intermediums for joining them together. They are very convenient for reducing into bolufes or pills the more ponderos powders, as mercurius dul-cis, the calces of iron, and other mineral preparations; which with liquid or lefs conflient matters, as fyrups, will not cohere.<x_0.9775><y_0.5648><class_Text>\n\n<x_0.166><y_0.5641>The shops were formerly encumbered with many conferences altogether infignificant ; the few now retain- ed have in general either an agreeable flavour to recommend them, or are capable of anfwering fome useful purposes as medicines. Their common dofe is the bulk of a nutmeg, or as much as can be taken up at once or twice upon the point of a knife. There is in general no great danger of exceeding in this particular.<x_0.9766><y_0.6859><class_Text>\n\n<x_0.2432><y_0.6875>## 455. General method of preferving conferences.<x_0.8926><y_0.7055><class_Section-header>\n\n<x_0.165><y_0.7047>Leaves are picked from the flalke, and flowers from their cups. They are beaten in a marble mortar, with a wooden petite, into a fmooth mafs; after which thrice their weight of double-refined sugar is added by degrees, and the beating continued till they are uniformly mixed.<x_0.9756><y_0.7898><class_Text>\n\n<x_0.1631><y_0.7914>The fugar should be pulverified by itself, and paffed through a lieve, before it is mixed with the vegetable mafs; othertwife it cannot easily be reduced to fufficient fineness, fo as to be duly incorporated. Some vegetables are fearce reducible to the requifite fineness by beating in a mortar; fuch is orange-peel. This is molt conveniently rafped or grated off from the fruit, then well mixed with the fugar, and the com-<x_0.9736><y_0.9055><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2384,
+   "completion_tokens": 840,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

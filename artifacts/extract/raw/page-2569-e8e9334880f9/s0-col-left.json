@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "32ca7c826f37d75d66fab835b3a08bb49a0e5302e4f12327c081434d0c01146e",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "436f03ce1da53be5bb7ade4637bccbbe5f6740dae1ac4e22d70d68b48f180582",
+  "image_bytes": 2235231,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2569",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0356,
+   0.485,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0356,
+    0.116,
+    0.48
+   ],
+   [
+    0.116,
+    0.1963,
+    0.4767
+   ],
+   [
+    0.1963,
+    0.2767,
+    0.4767
+   ],
+   [
+    0.2767,
+    0.3571,
+    0.4767
+   ],
+   [
+    0.3571,
+    0.4374,
+    0.4767
+   ],
+   [
+    0.4374,
+    0.5178,
+    0.4767
+   ],
+   [
+    0.5178,
+    0.5982,
+    0.4767
+   ],
+   [
+    0.5982,
+    0.6785,
+    0.475
+   ],
+   [
+    0.6785,
+    0.7589,
+    0.4717
+   ],
+   [
+    0.7589,
+    0.8393,
+    0.47
+   ],
+   [
+    0.8393,
+    0.9196,
+    0.4683
+   ],
+   [
+    0.9196,
+    1.0,
+    0.4783
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2638,
+  "completion_tokens": 966,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.48,
+ "created_at": "2026-10-18T11:21:33+00:00",
+ "content": "<x_0.7373><y_0.0063>ABYSS<x_0.999><y_0.0266><class_Page-header>\n\n<x_0.0459><y_0.0305>Abyssinia.<x_0.1846><y_0.0563><class_Picture>\n\n<x_0.1807><y_0.0297>her affairs entirely to Frumentius, who made use of\nhis influence to diffuse the Christian religion through-\nout the country, and at last was appointed bishop of\nAxuma. It is said, however, that the court and prin-\ncipal people, if not the nation in general, relapsed into\nidolatry, which continued to prevail till the year 521,\nwhen they were again converted by their king Adad\nor Aidog.<x_0.9619><y_0.1398><class_Text>\n\n<x_0.041><y_0.1805>The two\nkings re-\nfuse to ad\nmit Aria-\nnism.<x_0.168><y_0.2398><class_Caption>\n\n<x_0.1777><y_0.1391>The two princes Abra and Asba, who reigned joint-\nly in Ethiopia in the time of Frumentius, lived in such\nharmony together, that their friendship became almost\nproverbial. After being converted to Christianity,\nthey adhered strictly to the orthodox doctrine, refusing\nto admit an Arian bishop into their country. In the\ntime of the emperor Constantius, however, this heresy\nwas introduced, and greatly favoured by that monarch;\nand an attempt was made to depose Frumentius on ac-\ncount of his refusal to embrace it.<x_0.959><y_0.2758><class_Text>\n\n<x_0.04><y_0.275>Account of\nthe war of\nthe ele-\nphant<x_0.1816><y_0.3211><class_Caption>\n\n<x_0.1768><y_0.2766>The reign of these princes is remarkable for an ex-\npedition into Arabia Felix, called by the Mohamme-\ndan writers the war of the elephant, and which was\nundertaken on the following occasion: The temple of\nMecca, situated nearly in the middle of the Arabian\npeninsula, had been held in the greatest veneration for\nnear 1400 years; probably from the notion entertain-\ned by the people in the neighbourhood, that Adam\npitched his tent on that spot. Here also was a black\nstone supposed to possess extraordinary sanctity, as be-\ning that on which Jacob laid his head when he had\nthe vision of angels. The most probable account of\nthe real origin of this temple, according to Mr Bruce,\nis, that it was built by Sesostris, and that he himself\nwas worshipped there under the name of Osiris.<x_0.958><y_0.482><class_Text>\n\n<x_0.1602><y_0.4813>On account of the veneration in which this tower\nand idol were held by the Arabians, Mr Bruce sup-\nposes that the thought was first suggested of making\nit the emporium of the trade between India and Afri-\nca; but Abra, in order to divert it into another chan-\nnel, built a very large temple near the Indian ocean\nin the country of the Homerites; and, to encourage\nthe resort of people to this new temple, he bestowed\nupon it all the privileges of the former which stood in\nthe city of Mecca. The tribe of Arabians named\n_Koreish_, in whose country Mecca stood, being exceed-\ningly alarmed at the thoughts of having their temple\ndeserted, entered the new one in the night, burned all\nthat could be consumed, and besmeared the remains\nwith human excrements. Abra, provoked at this sa-\ncrilege, assembled a considerable army, with which he\ninvested Mecca, himself appearing on a white elephant,\nfrom whence the war took its name already mentioned.\nThe termination of the war, according to the Arabian\nhistorians, was miraculous. A vast number of birds\nnamed _Ababil_ came from the sea, having faces like\nlions; each carrying in its claws a small stone about\nthe size of a pea, which they let fall upon the Ethio-\npian army in such numbers, that every one of them\nwas destroyed. At this time it is said that the small-\npox first made its appearance; and the more probable\naccount of the destruction of the Ethiopian army is,\nthat they perished by this distemper.<x_0.96><y_0.8664><class_Text>\n\n<x_0.1592><y_0.8648>The war of the elephant is supposed to have termi-\nnated in the manner above mentioned about the year\n360; from which time to that of Elesbaan, named al-\nso _Caleb_, and probably the same with the Adad or A-<x_0.9316><y_0.9211><class_Text>\n\n<x_0.1943><y_0.918>Vol. I. Part I.<x_0.418><y_0.9344><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-19b3b43a-1ffa-4292-939f-f18e9e539736",
+  "object": "chat.completion",
+  "created": 1792322492,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.7373><y_0.0063>ABYSS<x_0.999><y_0.0266><class_Page-header>\n\n<x_0.0459><y_0.0305>Abyssinia.<x_0.1846><y_0.0563><class_Picture>\n\n<x_0.1807><y_0.0297>her affairs entirely to Frumentius, who made use of\nhis influence to diffuse the Christian religion through-\nout the country, and at last was appointed bishop of\nAxuma. It is said, however, that the court and prin-\ncipal people, if not the nation in general, relapsed into\nidolatry, which continued to prevail till the year 521,\nwhen they were again converted by their king Adad\nor Aidog.<x_0.9619><y_0.1398><class_Text>\n\n<x_0.041><y_0.1805>The two\nkings re-\nfuse to ad\nmit Aria-\nnism.<x_0.168><y_0.2398><class_Caption>\n\n<x_0.1777><y_0.1391>The two princes Abra and Asba, who reigned joint-\nly in Ethiopia in the time of Frumentius, lived in such\nharmony together, that their friendship became almost\nproverbial. After being converted to Christianity,\nthey adhered strictly to the orthodox doctrine, refusing\nto admit an Arian bishop into their country. In the\ntime of the emperor Constantius, however, this heresy\nwas introduced, and greatly favoured by that monarch;\nand an attempt was made to depose Frumentius on ac-\ncount of his refusal to embrace it.<x_0.959><y_0.2758><class_Text>\n\n<x_0.04><y_0.275>Account of\nthe war of\nthe ele-\nphant<x_0.1816><y_0.3211><class_Caption>\n\n<x_0.1768><y_0.2766>The reign of these princes is remarkable for an ex-\npedition into Arabia Felix, called by the Mohamme-\ndan writers the war of the elephant, and which was\nundertaken on the following occasion: The temple of\nMecca, situated nearly in the middle of the Arabian\npeninsula, had been held in the greatest veneration for\nnear 1400 years; probably from the notion entertain-\ned by the people in the neighbourhood, that Adam\npitched his tent on that spot. Here also was a black\nstone supposed to possess extraordinary sanctity, as be-\ning that on which Jacob laid his head when he had\nthe vision of angels. The most probable account of\nthe real origin of this temple, according to Mr Bruce,\nis, that it was built by Sesostris, and that he himself\nwas worshipped there under the name of Osiris.<x_0.958><y_0.482><class_Text>\n\n<x_0.1602><y_0.4813>On account of the veneration in which this tower\nand idol were held by the Arabians, Mr Bruce sup-\nposes that the thought was first suggested of making\nit the emporium of the trade between India and Afri-\nca; but Abra, in order to divert it into another chan-\nnel, built a very large temple near the Indian ocean\nin the country of the Homerites; and, to encourage\nthe resort of people to this new temple, he bestowed\nupon it all the privileges of the former which stood in\nthe city of Mecca. The tribe of Arabians named\n_Koreish_, in whose country Mecca stood, being exceed-\ningly alarmed at the thoughts of having their temple\ndeserted, entered the new one in the night, burned all\nthat could be consumed, and besmeared the remains\nwith human excrements. Abra, provoked at this sa-\ncrilege, assembled a considerable army, with which he\ninvested Mecca, himself appearing on a white elephant,\nfrom whence the war took its name already mentioned.\nThe termination of the war, according to the Arabian\nhistorians, was miraculous. A vast number of birds\nnamed _Ababil_ came from the sea, having faces like\nlions; each carrying in its claws a small stone about\nthe size of a pea, which they let fall upon the Ethio-\npian army in such numbers, that every one of them\nwas destroyed. At this time it is said that the small-\npox first made its appearance; and the more probable\naccount of the destruction of the Ethiopian army is,\nthat they perished by this distemper.<x_0.96><y_0.8664><class_Text>\n\n<x_0.1592><y_0.8648>The war of the elephant is supposed to have termi-\nnated in the manner above mentioned about the year\n360; from which time to that of Elesbaan, named al-\nso _Caleb_, and probably the same with the Adad or A-<x_0.9316><y_0.9211><class_Text>\n\n<x_0.1943><y_0.918>Vol. I. Part I.<x_0.418><y_0.9344><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2638,
+   "completion_tokens": 966,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "b88ea853fe7d59d2660e5602d4ae3422bc9395ffff81881ebbe5f3517d022c58",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4f174b87bd042ebba0ed79d8cb184939ffd77c4633f0db04a3fbd47a5daf2d31",
+  "image_bytes": 2095840,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:258",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0,
+   0.535,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.5267
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.53
+   ],
+   [
+    0.1667,
+    0.25,
+    0.53
+   ],
+   [
+    0.25,
+    0.3333,
+    0.53
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.53
+   ],
+   [
+    0.4167,
+    0.5,
+    0.53
+   ],
+   [
+    0.5,
+    0.5833,
+    0.53
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.53
+   ],
+   [
+    0.6667,
+    0.75,
+    0.53
+   ],
+   [
+    0.75,
+    0.8333,
+    0.53
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.53
+   ],
+   [
+    0.9167,
+    1.0,
+    0.53
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2689,
+  "completion_tokens": 1017,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.72,
+ "created_at": "2026-10-18T11:10:02+00:00",
+ "content": "<x_0.4473><y_0.0>W I L.  | 8<x_0.9912><y_0.0195><class_Page-header>\n\n<x_0.1699><y_0.0203>lorhip, and fome time after the great feal. Edward being returned to England, after having carried on a very fuccella- ful war in France, found his exchequer in great diforder. The duke of Lancalter, one of his fons, at the head of feveral lords, having brought complaints against the clergy, who then enjoyed moft polls in the kingdom, the king removed them from their employments. But the laymen, who were railed to them, behaved fo ill, that the king was forced to relore the ecclefiaflics. The duke of Lancafter showed thong animosity to the clergy, and fet every engine at work to run Wykcham. He impeached him of extortion, and of difguiling things, and obliged him to appear at the King's-bench. He got fuch judges appointed as condemued him; and not fattisied with depriving him of all the temporalities of his bihopric, he advifed Edward to banith him: but this prince rejected the propofal, and afterward reflored to Wykcham all that he had been divefled of. Richard II. was but eleven years old when Edward died; whereby the duke of Lancalter had an easy opportunity of reviving the accuations against the bihop of Winchelter: neverthelefs Wykcham cleared himself. Then he founded two noble colleges, the one in Oxford, the other in Winchefter. Whilft he was exerting his utmolt endeavours to improve thefe two fine foundations, he was recalled to court, and in a manner forced to accept of the office of lord highchancellor in 1389.--Having excellently discharged the duties of that employment for three years, he obtained leave to reign it, forefecing the disturbances that were going to break out. Being returned to his church, he finished his college, and built there fo magnificent a cathedral, that it almost equals that of St Paul's in London. He laid out several fums in things advantageous to the public and to the poor; notwithstanding which, in 1397 he was in great danger; for he and fome others were impeached of hightreafon in open parliament: however, he was again fully cleared. From that time till his death he kept quiet in his diocefe, and there employed himself in all the duties of a good prelate. He died in 1404, in the 81ft year of his age.<x_0.9902><y_0.5422><class_Text>\n\n<x_0.1807><y_0.5414>WILLIAM, the name of feveral kings of England. See ENOLAND, n 87 -92, and BRITAIN, n' 302.<x_0.9824><y_0.568><class_Text>\n\n<x_0.1787><y_0.5687>_Fort-WilLtam_, a fortrefs in the Highlands of Scotland, erected in king William's reign, as was alfo a fmall town adjoining, called _Maryburgh_, in honour of his queen. It is situated in Invernefshire, on a narrow arm of the fea called _Loch Eil_, which might cafily, by a very flort canal, be united to the Weffern fea. Fort-William is of a triangular form, having two battions, and is capable of admitting a garrison of 800 men; but could not be defended against an attack, as it is commanded by feveral hills in the neighbourhood.<x_0.9814><y_0.7008><class_Text>\n\n<x_0.1777><y_0.7>_Willian’s Fort_, is a factory of Afia belonging to the East-India company, feated on one of the branches of the river Ganges, in the kingdom of Bengal. The tort was first built in the shape of an irregular tetragon of brick and mortar; and the town has nothing regular in it, because every one built a houfe as he liked belt, and for his own convenience. The governor's house is within the fort, and is the belt piece of architecture in thefe parts. Here there are alfo convenient lodgings for the factors and writers, with flore-houfes for the company's goods, and magazines for ammunition. About 50 yards from the fort is the church, built by the charity of merchants refiding here. The town is called _Calcutta_, and has a pretty good holpital for the leek, though few come out of it alive. It is governed by a mayor and aldermen, as most of the company's factories in the East Indies now are. In 1757 it was fur-<x_0.9805><y_0.9203><class_Text>",
+ "reply": {
+  "id": "chatcmpl-04a1879a-4ded-425a-9e83-7e9da73790c7",
+  "object": "chat.completion",
+  "created": 1792321801,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4473><y_0.0>W I L.  | 8<x_0.9912><y_0.0195><class_Page-header>\n\n<x_0.1699><y_0.0203>lorhip, and fome time after the great feal. Edward being returned to England, after having carried on a very fuccella- ful war in France, found his exchequer in great diforder. The duke of Lancalter, one of his fons, at the head of feveral lords, having brought complaints against the clergy, who then enjoyed moft polls in the kingdom, the king removed them from their employments. But the laymen, who were railed to them, behaved fo ill, that the king was forced to relore the ecclefiaflics. The duke of Lancafter showed thong animosity to the clergy, and fet every engine at work to run Wykcham. He impeached him of extortion, and of difguiling things, and obliged him to appear at the King's-bench. He got fuch judges appointed as condemued him; and not fattisied with depriving him of all the temporalities of his bihopric, he advifed Edward to banith him: but this prince rejected the propofal, and afterward reflored to Wykcham all that he had been divefled of. Richard II. was but eleven years old when Edward died; whereby the duke of Lancalter had an easy opportunity of reviving the accuations against the bihop of Winchelter: neverthelefs Wykcham cleared himself. Then he founded two noble colleges, the one in Oxford, the other in Winchefter. Whilft he was exerting his utmolt endeavours to improve thefe two fine foundations, he was recalled to court, and in a manner forced to accept of the office of lord highchancellor in 1389.--Having excellently discharged the duties of that employment for three years, he obtained leave to reign it, forefecing the disturbances that were going to break out. Being returned to his church, he finished his college, and built there fo magnificent a cathedral, that it almost equals that of St Paul's in London. He laid out several fums in things advantageous to the public and to the poor; notwithstanding which, in 1397 he was in great danger; for he and fome others were impeached of hightreafon in open parliament: however, he was again fully cleared. From that time till his death he kept quiet in his diocefe, and there employed himself in all the duties of a good prelate. He died in 1404, in the 81ft year of his age.<x_0.9902><y_0.5422><class_Text>\n\n<x_0.1807><y_0.5414>WILLIAM, the name of feveral kings of England. See ENOLAND, n 87 -92, and BRITAIN, n' 302.<x_0.9824><y_0.568><class_Text>\n\n<x_0.1787><y_0.5687>_Fort-WilLtam_, a fortrefs in the Highlands of Scotland, erected in king William's reign, as was alfo a fmall town adjoining, called _Maryburgh_, in honour of his queen. It is situated in Invernefshire, on a narrow arm of the fea called _Loch Eil_, which might cafily, by a very flort canal, be united to the Weffern fea. Fort-William is of a triangular form, having two battions, and is capable of admitting a garrison of 800 men; but could not be defended against an attack, as it is commanded by feveral hills in the neighbourhood.<x_0.9814><y_0.7008><class_Text>\n\n<x_0.1777><y_0.7>_Willian’s Fort_, is a factory of Afia belonging to the East-India company, feated on one of the branches of the river Ganges, in the kingdom of Bengal. The tort was first built in the shape of an irregular tetragon of brick and mortar; and the town has nothing regular in it, because every one built a houfe as he liked belt, and for his own convenience. The governor's house is within the fort, and is the belt piece of architecture in thefe parts. Here there are alfo convenient lodgings for the factors and writers, with flore-houfes for the company's goods, and magazines for ammunition. About 50 yards from the fort is the church, built by the charity of merchants refiding here. The town is called _Calcutta_, and has a pretty good holpital for the leek, though few come out of it alive. It is governed by a mayor and aldermen, as most of the company's factories in the East Indies now are. In 1757 it was fur-<x_0.9805><y_0.9203><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2689,
+   "completion_tokens": 1017,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

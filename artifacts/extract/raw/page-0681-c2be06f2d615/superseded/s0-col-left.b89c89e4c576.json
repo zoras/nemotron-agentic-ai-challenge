@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "b89c89e4c5764c0a25fd3d519fde896a1b2ba6ad58f9f4c48dfbba295984f595",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ccb461a7816fed6925cb9e118d4de4c20047c18c8bf4651750176720db28a297",
+  "image_bytes": 2430290,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:681",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0382,
+   0.4683,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0382,
+    0.1183,
+    0.4583
+   ],
+   [
+    0.1183,
+    0.1985,
+    0.4567
+   ],
+   [
+    0.1985,
+    0.2787,
+    0.4583
+   ],
+   [
+    0.2787,
+    0.3588,
+    0.4567
+   ],
+   [
+    0.3588,
+    0.439,
+    0.4583
+   ],
+   [
+    0.439,
+    0.5191,
+    0.4617
+   ],
+   [
+    0.5191,
+    0.5993,
+    0.4617
+   ],
+   [
+    0.5993,
+    0.6794,
+    0.4633
+   ],
+   [
+    0.6794,
+    0.7595,
+    0.4567
+   ],
+   [
+    0.7595,
+    0.8397,
+    0.4583
+   ],
+   [
+    0.8397,
+    0.9199,
+    0.4583
+   ],
+   [
+    0.9199,
+    1.0,
+    0.4617
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1416,
+  "total_tokens": 2334,
+  "completion_tokens": 918,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.41,
+ "created_at": "2026-10-18T11:10:29+00:00",
+ "content": "<x_0.0264><y_0.0>the eye at o: fo that none of the rays that fall above _b_, or below i, can be reflected to the eye at o; and the difference between _b_ and _i_ is equal to half the length of the object _AB._<x_0.9482><y_0.057><class_Text>\n\n<x_0.0254><y_0.0563>Hence it appears, that if a man fecs his whole image in a plane looking-glafs, the part of the glafs that reflects his image mult be jult half as long and half as broad as himself, let him fland at any diflance from it whatever ; and that his image mult appear jull as far behind the glafs as he is before it. Thus, the man AB (No. 30.) viewing himself in the plane mirror CD, which is jult half as long as himself, fees his whole image as at EF, behind the glafs, exactly equal to his own fize. For, a ray AC, proceeding from his eye at A, and falling perpendicularly upon the surface of the glafs at C, is reflected back to his eye, in the fame line CA ; and the eye of his image will appear at E, in the fame line produced to E, beyond the glafs. And a ray BD, flowing from his foot, and falling obliquely on the glafs at D, will be reflected as obliquely on the other fide of the perpendicular abD, in the direction DA ; and the foot of his image will appear at F, in the direction of the reflected ray AD, produced to F, where it is cut by the right line BGF, drawn parallel to the right line ACE. Jult the fame as if the glafs were taken away, and a real man flood at F, equal in fize to the man standing at B: for to his eye at A, the eye of the other man at E would be feen in the direction of the line ACE ; and the foot of the man at F would be feen by the eye A, in the direction of the line ADF.<x_0.9473><y_0.4219><class_Text>\n\n<x_0.0234><y_0.4227>If the glafs be brought nearer the man AB, as fuppofe to cb, he will fee his image as at CDG : for the reflect ray CA (being perpendicular to the glafs) will fhew the eye of the image as at C ; and the incident ray Bb, being reflected in the line bA, will fhew the foot of his image as at G ; the angle of reflection abA being always equal to the angle of incidence Bba : and fo of all the intermediate rays from A to B. Hence, if the man AB advances towards the glafs CD, his image will approach towards it ; and if he recedes from the glafs, his image will alfo recede from it.<x_0.9463><y_0.5789><class_Text>\n\n<x_0.2559><y_0.5836>_Of the_ MAGIC LANTERN.<x_0.71><y_0.6016><class_Section-header>\n\n<x_0.0244><y_0.6047>ABCD (No. 31.) is a tin lantern, with a tube _nklm_ fixed in the fide of it. This tube confllts of two joints, one of which flips into the other: and by drawing this joint out, or putting it in, the tube may be made longer or shorter. At kl in the end of the moveable joint of the tube a convex lens is fixed, and an object painted with tranparent colours upon a piece of thin glafs is placed at de fomewhere in the immoveable joint of the tube; fo that as the tube is lengthened or shortened, the lens will be either at a greater or a lefs distance from this tranparent object. In the fide of the lantern there is a very convex lens bbc, which serves to call a very strong light from the candle within the lantern upon the object dc. Now when the rays, which hine through the object dc, diverge from the feveral points as d, c, Sc. in the objet, and fall upon the lens kl, they will be made to converge to as many points f, g, Sc. on the other fide of the lens, and will paint an inverted picture of the<x_0.9453><y_0.8594><class_Text>\n\n<x_0.1074><y_0.8586>Vol. III. No 87. 2<x_0.6836><y_0.8758><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-0c963106-195e-4c9f-868a-197d67f0fffb",
+  "object": "chat.completion",
+  "created": 1792321828,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0264><y_0.0>the eye at o: fo that none of the rays that fall above _b_, or below i, can be reflected to the eye at o; and the difference between _b_ and _i_ is equal to half the length of the object _AB._<x_0.9482><y_0.057><class_Text>\n\n<x_0.0254><y_0.0563>Hence it appears, that if a man fecs his whole image in a plane looking-glafs, the part of the glafs that reflects his image mult be jult half as long and half as broad as himself, let him fland at any diflance from it whatever ; and that his image mult appear jull as far behind the glafs as he is before it. Thus, the man AB (No. 30.) viewing himself in the plane mirror CD, which is jult half as long as himself, fees his whole image as at EF, behind the glafs, exactly equal to his own fize. For, a ray AC, proceeding from his eye at A, and falling perpendicularly upon the surface of the glafs at C, is reflected back to his eye, in the fame line CA ; and the eye of his image will appear at E, in the fame line produced to E, beyond the glafs. And a ray BD, flowing from his foot, and falling obliquely on the glafs at D, will be reflected as obliquely on the other fide of the perpendicular abD, in the direction DA ; and the foot of his image will appear at F, in the direction of the reflected ray AD, produced to F, where it is cut by the right line BGF, drawn parallel to the right line ACE. Jult the fame as if the glafs were taken away, and a real man flood at F, equal in fize to the man standing at B: for to his eye at A, the eye of the other man at E would be feen in the direction of the line ACE ; and the foot of the man at F would be feen by the eye A, in the direction of the line ADF.<x_0.9473><y_0.4219><class_Text>\n\n<x_0.0234><y_0.4227>If the glafs be brought nearer the man AB, as fuppofe to cb, he will fee his image as at CDG : for the reflect ray CA (being perpendicular to the glafs) will fhew the eye of the image as at C ; and the incident ray Bb, being reflected in the line bA, will fhew the foot of his image as at G ; the angle of reflection abA being always equal to the angle of incidence Bba : and fo of all the intermediate rays from A to B. Hence, if the man AB advances towards the glafs CD, his image will approach towards it ; and if he recedes from the glafs, his image will alfo recede from it.<x_0.9463><y_0.5789><class_Text>\n\n<x_0.2559><y_0.5836>_Of the_ MAGIC LANTERN.<x_0.71><y_0.6016><class_Section-header>\n\n<x_0.0244><y_0.6047>ABCD (No. 31.) is a tin lantern, with a tube _nklm_ fixed in the fide of it. This tube confllts of two joints, one of which flips into the other: and by drawing this joint out, or putting it in, the tube may be made longer or shorter. At kl in the end of the moveable joint of the tube a convex lens is fixed, and an object painted with tranparent colours upon a piece of thin glafs is placed at de fomewhere in the immoveable joint of the tube; fo that as the tube is lengthened or shortened, the lens will be either at a greater or a lefs distance from this tranparent object. In the fide of the lantern there is a very convex lens bbc, which serves to call a very strong light from the candle within the lantern upon the object dc. Now when the rays, which hine through the object dc, diverge from the feveral points as d, c, Sc. in the objet, and fall upon the lens kl, they will be made to converge to as many points f, g, Sc. on the other fide of the lens, and will paint an inverted picture of the<x_0.9453><y_0.8594><class_Text>\n\n<x_0.1074><y_0.8586>Vol. III. No 87. 2<x_0.6836><y_0.8758><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1416,
+   "total_tokens": 2334,
+   "completion_tokens": 918,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

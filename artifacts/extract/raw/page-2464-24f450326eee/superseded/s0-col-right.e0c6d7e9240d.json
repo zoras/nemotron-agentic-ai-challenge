@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "e0c6d7e9240d91ffd1677b9a844cb8e5e45077d1f5233259fbd6846be5d79752",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "231298cd1fa9b0e4c72ba8bc33dabca1e994cbfe0f07f034b7d65bb8951639d5",
+  "image_bytes": 2020723,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2464",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4667,
+   0.0593,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0593,
+    0.1448,
+    0.4717
+   ],
+   [
+    0.1448,
+    0.2303,
+    0.4717
+   ],
+   [
+    0.2303,
+    0.3159,
+    0.4717
+   ],
+   [
+    0.3159,
+    0.4014,
+    0.4717
+   ],
+   [
+    0.4014,
+    0.4869,
+    0.4717
+   ],
+   [
+    0.4869,
+    0.5724,
+    0.4717
+   ],
+   [
+    0.5724,
+    0.6579,
+    0.4717
+   ],
+   [
+    0.6579,
+    0.7434,
+    0.4717
+   ],
+   [
+    0.7434,
+    0.829,
+    0.4717
+   ],
+   [
+    0.829,
+    0.9145,
+    0.4717
+   ],
+   [
+    0.9145,
+    1.0,
+    0.4717
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2667,
+  "completion_tokens": 867,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.53,
+ "created_at": "2026-10-18T11:11:56+00:00",
+ "content": "<x_0.0088><y_0.0>CABINET, or CABBINET, the molt retired place in the fineft part of a building, fet apart for writing, flu- dying, or preferving any thing that is precious.<x_0.8076><y_0.0469><class_Text>\n\n<x_0.0479><y_0.0461>A complete apartment conflits of a hall, anti-chamber, chamber, and cabinet, with a gallery on one fide. Hence we fay, a cabinet of paintings, curiofities, _Sc._<x_0.8066><y_0.0922><class_Text>\n\n<x_0.0127><y_0.0906>CABINET alfo denotes a piece of joiner's workmanfhip, being a kind of prefs or cheft, with feveral doors and drawers.<x_0.8086><y_0.1359><class_Text>\n\n<x_0.0488><y_0.1352>There are common cabinets of oak or of chefnut, varnified cabinets of China and Japan, cabinets of in- laid work, and fome of ebony, or the like fearce and precious woods.<x_0.8057><y_0.1961><class_Text>\n\n<x_0.0498><y_0.1953>Formerly the Dutch and German cabinets were much effeemed in France, but are now quite out of date, as well as the cabinets of ebony, which came from Venice.<x_0.8096><y_0.2547><class_Text>\n\n<x_0.0176><y_0.2555>CABIRI, a term in the theology of the ancient Pagans, lignifying great and powerful gods; being a name given to the gods of Samothracia. They were alfo worshipped in other parts of Greece, as Lemnos and Thebes, where the cabiria were celebrated in honour of them: thefe gods are faid to be, in number, four, _viiz_. Axieros, Axiocerfa, Axiocerfus, and Cafmilus.<x_0.8105><y_0.375><class_Text>\n\n<x_0.0186><y_0.3742>CABIRIA, fellivals in honour of the cabiri, celebrated in Thebes and Lemnos, but especially in Samothra-cia, an illand confecrated to the cabiri. All who were initiated into the myfteries of thefe gods, were thought to be feured thereby from florms at fea, and all other dangers. The ceremony of initiation was performed by placing the candidate, crowned with olive-branches, and girded about the loins with a purple ribband, on a kind of throne, about which the prieils, and perfons before initiated, danced.<x_0.8115><y_0.5242><class_Text>\n\n<x_0.0195><y_0.5234>CABLAN, the nam: of a kingdom and city of India, beyond the Ganges.<x_0.8125><y_0.5555><class_Text>\n\n<x_0.0205><y_0.5539>CABLE, a thick, large, frong rope, commonly of hemp, which ferves to keep a hip at anchor.<x_0.8164><y_0.5852><class_Text>\n\n<x_0.0518><y_0.5844>There is no merchant-flip, however weak, but has at least three cables ; namely, the chief cable, or cable of the fleet-anchor, a common cable, and a smaller one.<x_0.8135><y_0.6438><class_Text>\n\n<x_0.0537><y_0.643>Cable is alfo faid of ropes, which ferve to raife heavy loads, by the help of cranes, pullies, and other engines. The name of cable is usually given to fuch as have, at leaf, three inches in diameter ; thofe that are lefs are only called ropes of different names, according to their ufe.<x_0.8145><y_0.7352><class_Text>\n\n<x_0.0547><y_0.7328>Every cable, of what thickness foever it be, is com-pofed of three friends ; every firand of three ropes ; and every rope of three twifts : the twift is made of more or lefs threads, according as the cable is to be thicker or thinner.<x_0.8154><y_0.8094><class_Text>\n\n<x_0.0557><y_0.8086>In the manufacture of cables, after the ropes are made, they ufe flicks, which they pafs frit between the ropes of which they make the firands, and afterwards between the firands of which they make the cable, to the end that they may all twift the better, and be more regularly wound together ; and alfo, to prevent them from twining or intangling, they hang.<x_0.8174><y_0.9164><class_Text>\n\n<x_0.7783><y_0.9141>at<x_0.8184><y_0.9258><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-0eae2def-e507-41fc-a678-41f96abdb6f6",
+  "object": "chat.completion",
+  "created": 1792321915,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0088><y_0.0>CABINET, or CABBINET, the molt retired place in the fineft part of a building, fet apart for writing, flu- dying, or preferving any thing that is precious.<x_0.8076><y_0.0469><class_Text>\n\n<x_0.0479><y_0.0461>A complete apartment conflits of a hall, anti-chamber, chamber, and cabinet, with a gallery on one fide. Hence we fay, a cabinet of paintings, curiofities, _Sc._<x_0.8066><y_0.0922><class_Text>\n\n<x_0.0127><y_0.0906>CABINET alfo denotes a piece of joiner's workmanfhip, being a kind of prefs or cheft, with feveral doors and drawers.<x_0.8086><y_0.1359><class_Text>\n\n<x_0.0488><y_0.1352>There are common cabinets of oak or of chefnut, varnified cabinets of China and Japan, cabinets of in- laid work, and fome of ebony, or the like fearce and precious woods.<x_0.8057><y_0.1961><class_Text>\n\n<x_0.0498><y_0.1953>Formerly the Dutch and German cabinets were much effeemed in France, but are now quite out of date, as well as the cabinets of ebony, which came from Venice.<x_0.8096><y_0.2547><class_Text>\n\n<x_0.0176><y_0.2555>CABIRI, a term in the theology of the ancient Pagans, lignifying great and powerful gods; being a name given to the gods of Samothracia. They were alfo worshipped in other parts of Greece, as Lemnos and Thebes, where the cabiria were celebrated in honour of them: thefe gods are faid to be, in number, four, _viiz_. Axieros, Axiocerfa, Axiocerfus, and Cafmilus.<x_0.8105><y_0.375><class_Text>\n\n<x_0.0186><y_0.3742>CABIRIA, fellivals in honour of the cabiri, celebrated in Thebes and Lemnos, but especially in Samothra-cia, an illand confecrated to the cabiri. All who were initiated into the myfteries of thefe gods, were thought to be feured thereby from florms at fea, and all other dangers. The ceremony of initiation was performed by placing the candidate, crowned with olive-branches, and girded about the loins with a purple ribband, on a kind of throne, about which the prieils, and perfons before initiated, danced.<x_0.8115><y_0.5242><class_Text>\n\n<x_0.0195><y_0.5234>CABLAN, the nam: of a kingdom and city of India, beyond the Ganges.<x_0.8125><y_0.5555><class_Text>\n\n<x_0.0205><y_0.5539>CABLE, a thick, large, frong rope, commonly of hemp, which ferves to keep a hip at anchor.<x_0.8164><y_0.5852><class_Text>\n\n<x_0.0518><y_0.5844>There is no merchant-flip, however weak, but has at least three cables ; namely, the chief cable, or cable of the fleet-anchor, a common cable, and a smaller one.<x_0.8135><y_0.6438><class_Text>\n\n<x_0.0537><y_0.643>Cable is alfo faid of ropes, which ferve to raife heavy loads, by the help of cranes, pullies, and other engines. The name of cable is usually given to fuch as have, at leaf, three inches in diameter ; thofe that are lefs are only called ropes of different names, according to their ufe.<x_0.8145><y_0.7352><class_Text>\n\n<x_0.0547><y_0.7328>Every cable, of what thickness foever it be, is com-pofed of three friends ; every firand of three ropes ; and every rope of three twifts : the twift is made of more or lefs threads, according as the cable is to be thicker or thinner.<x_0.8154><y_0.8094><class_Text>\n\n<x_0.0557><y_0.8086>In the manufacture of cables, after the ropes are made, they ufe flicks, which they pafs frit between the ropes of which they make the firands, and afterwards between the firands of which they make the cable, to the end that they may all twift the better, and be more regularly wound together ; and alfo, to prevent them from twining or intangling, they hang.<x_0.8174><y_0.9164><class_Text>\n\n<x_0.7783><y_0.9141>at<x_0.8184><y_0.9258><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2667,
+   "completion_tokens": 867,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

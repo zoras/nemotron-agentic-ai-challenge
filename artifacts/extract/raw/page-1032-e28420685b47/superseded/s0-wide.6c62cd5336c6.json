@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "6c62cd5336c642b06b38bbb9e576952e78f24ecd5b4cc8e3cda5fd7fcb918ea1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "55f16ba411ff7a1bf48fe13665d128b4a7521371d952ceff502b97e1f3babb7c",
+  "image_bytes": 196441,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1032",
+  "variant": "s0-wide",
+  "crop": [
+   0.0,
+   0.0632,
+   1.0,
+   0.128
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 141,
+  "total_tokens": 296,
+  "completion_tokens": 155,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.24,
+ "created_at": "2026-10-18T11:10:37+00:00",
+ "content": "<x_0.1289><y_0.0>tery of a man, and that the inward area of the left ventricle of his heart is equal to fifteen figure inches; thefe multiplied into 7+1 feet, give 1350 cubic inches of blood, which preffes on that ventricle, when it frift begins to contract, a weight equal to 19.15.6 pounds.<x_0.5225><y_0.9922><class_Text>\n\n<x_0.5449><y_0.0>orifices opened in their veins and arteries; by obfer-ving the feveral heights, to which the blood rofe in these tubes, as they lay on the ground; and by mea-furing the capacities of the ventricles of the heart, and orifices of the arteries. And, that the reader may the<x_0.9404><y_0.993><class_Text>",
+ "reply": {
+  "id": "chatcmpl-e1fc6d30-5559-4349-a51f-ae11c84ab806",
+  "object": "chat.completion",
+  "created": 1792321836,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1289><y_0.0>tery of a man, and that the inward area of the left ventricle of his heart is equal to fifteen figure inches; thefe multiplied into 7+1 feet, give 1350 cubic inches of blood, which preffes on that ventricle, when it frift begins to contract, a weight equal to 19.15.6 pounds.<x_0.5225><y_0.9922><class_Text>\n\n<x_0.5449><y_0.0>orifices opened in their veins and arteries; by obfer-ving the feveral heights, to which the blood rofe in these tubes, as they lay on the ground; and by mea-furing the capacities of the ventricles of the heart, and orifices of the arteries. And, that the reader may the<x_0.9404><y_0.993><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 141,
+   "total_tokens": 296,
+   "completion_tokens": 155,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

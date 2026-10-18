@@ -1,0 +1,531 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1017",
+ "row_index": 1017,
+ "volume_id": "144850367",
+ "filename": "page-1017-5395deb0e141.jpg",
+ "image_sha256": "5395deb0e1413694dd6a4e16890741c049681f5838d6fc92ef14a3019a1c87a4",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10196,
+  "median_grey": 223,
+  "layout_body_chars": 5871,
+  "layout_pictures": 0
+ },
+ "running_head": "H EYL (781) H E M",
+ "layout_raw": "page-1017-5395deb0e141/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0538
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1017-5395deb0e141/head.json",
+   "finish_reason": "stop",
+   "request_key": "96ec61f26ee224bb4a11e62a6aa27a2db2514022cca69191f935799f8b18abd2"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0247,
+    0.4917,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.4867
+    ],
+    [
+     0.106,
+     0.1872,
+     0.485
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.485
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.485
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.485
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.485
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.485
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.485
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.485
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.485
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.485
+    ],
+    [
+     0.9187,
+     1.0,
+     0.485
+    ]
+   ],
+   "raw_path": "page-1017-5395deb0e141/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "a3dca9a3c87764623fcc71fb5d122975cd428bd7366e1258774794ffd5efda6e"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.48,
+    0.0247,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0247,
+     0.106,
+     0.4867
+    ],
+    [
+     0.106,
+     0.1872,
+     0.485
+    ],
+    [
+     0.1872,
+     0.2685,
+     0.485
+    ],
+    [
+     0.2685,
+     0.3498,
+     0.485
+    ],
+    [
+     0.3498,
+     0.4311,
+     0.485
+    ],
+    [
+     0.4311,
+     0.5124,
+     0.485
+    ],
+    [
+     0.5124,
+     0.5936,
+     0.485
+    ],
+    [
+     0.5936,
+     0.6749,
+     0.485
+    ],
+    [
+     0.6749,
+     0.7562,
+     0.485
+    ],
+    [
+     0.7562,
+     0.8375,
+     0.485
+    ],
+    [
+     0.8375,
+     0.9187,
+     0.485
+    ],
+    [
+     0.9187,
+     1.0,
+     0.485
+    ]
+   ],
+   "raw_path": "page-1017-5395deb0e141/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "fdf55d5ec13cc409e8e3e061d96aaab286eb43979bdea396aa2c943c5591b815"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "H EYL (781) H E M",
+   "bbox": [
+    0.0,
+    0.0247,
+    1.0,
+    0.0538
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1017-5395deb0e141:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "II E L",
+   "bbox": [
+    0.2132,
+    0.0308,
+    0.3136,
+    0.0506
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-1017-5395deb0e141:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "( 78",
+   "bbox": [
+    0.4264,
+    0.0315,
+    0.4912,
+    0.0521
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1017-5395deb0e141:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "the fixth for the pagans, and the feventh for the hy-pocrites of all religions.",
+   "bbox": [
+    0.084,
+    0.0537,
+    0.4773,
+    0.0819
+   ],
+   "source": "s0-col-left",
+   "id": "page-1017-5395deb0e141:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Among Chrillians, there are two controverted queltions in regard to hell; the one concerns locality, the other the duration of its torments. The locality of hell, and the reality of its fire, began firft to be controverted by Origen. That father, interpreting the fcripture account metaphorically, makes hell to conflt not in external punifhments, but in a confcioufnefs or fenfe of guilt, and a remembrance of paft pleafures. Among the moderns, Mr Whilton advanced a new hypothetis. According to him, the comets are fo many hells appointed in their orbits alternately to carry the damned into the confined of the fun, there to be forced by its violent heat, and then to return with them beyond the orb of Saturn, there to flarve them in thefe cold and difmal regions. Another modern author, not fatisified with any hypothesis hitherto advanced, affigns the fun to be the local hell. As to the fecond question, _viz._ the duration of hell-torments, we have Origen again at the head of thofe who deny that they are eternal; it being that father’s opinion, that not only men, but devils, after a due courfe of punishment fuitable to their respective crimes, shall be pardoned and reltoored to heaven. The chief principle upon which Origen built his opinion, was the nature of punifhment, which he took to be emendatory, applied only as phytic for the recovery of the patient’s health. The chief objection to the eternity of hell torments among modern writers, is the dilproportion between temporary crimes and eternal punifhments. Thofe who maintain the affirmative, ground their opinions on fcripture accounts, which reprefent the pains of hell under the figure of a worm which never dies, and a fire which is not quenched; as alfo upon the words, \"Thefe hall go away into everlasting punishment, but \" the righteous into life eternal.",
+   "bbox": [
+    0.0802,
+    0.0811,
+    0.4792,
+    0.5565
+   ],
+   "source": "s0-col-left",
+   "id": "page-1017-5395deb0e141:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "HELLEBORUS, HELLEBORE, in botany, a genus of the polyandria polygynia clafs. It has no calix; the pe- tals are five or more; the nectarium is tubular and bila- biated; and the capfule contains many feeds. There are five species, two of them natives of Britain, _viz._ the fætidus, or great baffard black hellebore; and the viridis, or wild black hellebore. The hellebore, when taken in large quantities, is poifonous; but the root, in fmall dofes, is fuppofed to attenuate the humours, and to promote urinary and uterine discharges.",
+   "bbox": [
+    0.0648,
+    0.555,
+    0.4787,
+    0.6914
+   ],
+   "source": "s0-col-left",
+   "id": "page-1017-5395deb0e141:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "HELLENISM, in matters of language, a phrafe in the idiom, genius, or conflruction of the Greek tongue. This word is only ufed when speaking of the authors who, writing in a different language, exprefs themselves in a phrafeology peculiar to the Greek.",
+   "bbox": [
+    0.0644,
+    0.6906,
+    0.4783,
+    0.7592
+   ],
+   "source": "s0-col-left",
+   "id": "page-1017-5395deb0e141:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "HELLENISTIC, OF HELENISTIC LANGUAGE, that u- fed by the Grecian Jews who lived in Egypt and other parts where the Greek tongue prevailed. In this lan-guage it is faid the Septuagint was written, and alfo the books of the New Teflament; and that it was thus denominated to fhew that it was Greek filled with He- braifms and Syriacifms.",
+   "bbox": [
+    0.0639,
+    0.7584,
+    0.4778,
+    0.8537
+   ],
+   "source": "s0-col-left",
+   "id": "page-1017-5395deb0e141:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "HELLESPONT, the entrance of the fleights which divides Afia from Europe, and paffes from the Archi- VOL. II. No. 59.",
+   "bbox": [
+    0.0634,
+    0.8529,
+    0.4768,
+    0.8971
+   ],
+   "source": "s0-col-left",
+   "id": "page-1017-5395deb0e141:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "I )",
+   "bbox": [
+    0.4881,
+    0.0308,
+    0.5338,
+    0.0513
+   ],
+   "parse_class": "Section-header",
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "H E M",
+   "bbox": [
+    0.6501,
+    0.0315,
+    0.7532,
+    0.0506
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "pelago to Confantinople. It is now called the Darda-\nnelles, and is about two miles wide.",
+   "bbox": [
+    0.5049,
+    0.0529,
+    0.8984,
+    0.0811
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "HELM _of a fhip_, is a piece of timber fattened into the\nrudder, which comes forward into the fleerage, or\nplace where the perfon at the helm fleers the flip, by\nholding the whiplaff in his hand, which is joined to\nthe heim. They begin however to be left off, fleering-\nwheels being ufed in their room.",
+   "bbox": [
+    0.4876,
+    0.0803,
+    0.8979,
+    0.1634
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "There are feveral terms in the fea-language relating\nto the helm; as, _bear up the helm_; that is, let the\nfhip go more large before the wind. _Helm a mid fhip_,\nor _right the helm_; that is, keep it even with the\nmiddle of the hip. _Port the helm_, put it over the\nthe left fide of the fhip. _Starboard the helm_, put it\non the right fide of the fhip.",
+   "bbox": [
+    0.5044,
+    0.1626,
+    0.8974,
+    0.2586
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "HELMET, an ancient defenlive armour worn by horfemen\nboth in war and in tournaments. It covered both the\nhead and face, only leaving an aperture in the front\nfecured by bars, which was called the vifor.",
+   "bbox": [
+    0.4866,
+    0.2571,
+    0.8969,
+    0.3127
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "HELMINTHOLITHUS, in natural hiltory, a name\ngiven by Linnaeus to petrified bodies refembling worms.\nOf thefe he reckons four genera. 1. Petrified li-\nthophyta, found in the mountains of Sweden. 2. Pe-\ntrified shells. 3. Petrified zoophytes. 4. Petrified\nreptiles.",
+   "bbox": [
+    0.4861,
+    0.3119,
+    0.8964,
+    0.3935
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "HELMONT, a town of the Netherlands, in the pro-\nvince of Dutch Brabant, fituated on the river Aa: E.\nlong. 5° 40', N. lat. 51° 30'.",
+   "bbox": [
+    0.4856,
+    0.3927,
+    0.8959,
+    0.4346
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "HELMSTAT, a town of Germany, in the circle of\nLower Saxony, and dukedom of Brunfwie: E. long.\n11° 15', N. lat. 52° 20'.",
+   "bbox": [
+    0.4851,
+    0.4338,
+    0.8954,
+    0.475
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "HELOTS, in Grecian antiquity, the inhabitants of\nHelos, a town of Laconia, conquered by the Spartans;\nwho made them all prifoners of war, and reduced\nthem into the condition of flaves.",
+   "bbox": [
+    0.4846,
+    0.4742,
+    0.899,
+    0.5283
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "The freemen of Sparta were forbidden the exercife\nof any mean or mechanical employment, and therefore\nthe whole care of fupplying the city with neceflaries\ndevolved upon the Helots.",
+   "bbox": [
+    0.5003,
+    0.5276,
+    0.8964,
+    0.5825
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "HELSINGFORD a port-town of Sweden, fituated on\nthe gulph of Finland, in 24° 6′ E. long. and 60° 8′\nN. lat.",
+   "bbox": [
+    0.4871,
+    0.5817,
+    0.8949,
+    0.6221
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "HELSINGIA, a province of Sweden, bounded by\nthe Bothnic gulph on the caft, and by Dalecarlia on\nthe weft.",
+   "bbox": [
+    0.4841,
+    0.6229,
+    0.8944,
+    0.6632
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "HELSINGIC CHARACTER, a peculiar kind of charac-\nter, found infcribed on ftones in the province of Hel-\nfingia : the Runic and Helfingic characters may be easily\ntransformed into each other.",
+   "bbox": [
+    0.4835,
+    0.664,
+    0.8939,
+    0.7174
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "HELSTON, a borough of Cornwall, nine miles fouth-\nweft of Falmouth: it fends two members to parlia-\nment.",
+   "bbox": [
+    0.4831,
+    0.718,
+    0.8954,
+    0.7584
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "HELVOETSLUYS, a port-town of the united Nether-\nlands, fituated in the ifland of Voorn, in the province\nof Holland, five miles fouth of the Briel: it is one of\nthe beft harbours in Holland, and that to which the\nEnglift packet alway goes.",
+   "bbox": [
+    0.4886,
+    0.7577,
+    0.8994,
+    0.8271
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b24"
+  },
+  {
+   "order": 25,
+   "class": "Text",
+   "text": "HEMEROBIUS, in zoology, a genus of infects of the\nneuroptera order, the characters of which are thefe:\nThe mouth is furnished with two teeth; the palpi are\nfour; the wings are deflected, but not plaited ; and\n† . 8 L",
+   "bbox": [
+    0.4892,
+    0.8263,
+    0.902,
+    0.8971
+   ],
+   "source": "s0-col-right",
+   "id": "page-1017-5395deb0e141:b25"
+  }
+ ]
+}

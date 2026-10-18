@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "7b1728156d21328c7c1695fcffe23ee81bd98b430366a87625a9ad6dcb8d7dd0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "7f577ae42ded6b527809c41e069b9ee03d6e28dcba84c184d63a4109c4a67fa2",
+  "image_bytes": 2085182,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:217",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0553,
+   0.485,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0553,
+    0.1412,
+    0.48
+   ],
+   [
+    0.1412,
+    0.2271,
+    0.48
+   ],
+   [
+    0.2271,
+    0.3129,
+    0.48
+   ],
+   [
+    0.3129,
+    0.3988,
+    0.48
+   ],
+   [
+    0.3988,
+    0.4847,
+    0.48
+   ],
+   [
+    0.4847,
+    0.5706,
+    0.48
+   ],
+   [
+    0.5706,
+    0.6565,
+    0.48
+   ],
+   [
+    0.6565,
+    0.7424,
+    0.48
+   ],
+   [
+    0.7424,
+    0.8282,
+    0.48
+   ],
+   [
+    0.8282,
+    0.9141,
+    0.48
+   ],
+   [
+    0.9141,
+    1.0,
+    0.48
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2554,
+  "completion_tokens": 882,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.94,
+ "created_at": "2026-10-18T11:08:55+00:00",
+ "content": "<x_0.2021><y_0.0>the country in their time was entirely cleared, or di- flinctly divided; the fields were furrounded by woods, not by hedges; and if a confiderable tract of improved land lay together, it fill was not separated into a number of inclofures. The subjects, therefore, proper to receive this character, are thofe in which cultivation feems to have encroached on the wild, not to have fubdued it; as the bottom of a valley in corn, while the tides are fill overgrown with wood; and the outline of that wood indented by the tillage creeping more or lefs up the hill. But a glade of grafs, thus circumflanced, does not peculiarly belong to the species: that may occur in a park or pattoral farm; in this, the paftures should rather border on a wafte or a common: if large, they may be broken by flaggling buthes, thickets, or coppices; and the feattered trees should be beefet with brambles and briars. All thefe are circumstances which improve the beauty of the place; yet appear to be only remains of the wild, not intended for embellishment. Such interruptions mult, however, be lefs frequent in the arable parts of the farm; but there the opening may be divided into several lands, diftinguih ed, ns in common fields, only by different forts of grain. Thefe will sufficiently break the famenefs of the space; and tillage does not furnish a more pleading fence, than fuch a fpace fo broken, if the extent be moderate, and the boundary beautiful.<x_0.9814><y_0.3812><class_Text>\n\n<x_0.1992><y_0.382>As much wood is effential to the character, a fpot may easily be found, where turrets rifling above the covert, or fome arches feet within it, may have the refemblance of a caffle or an abbey. The partial concealment is almost necessary to both; for to accord with the age, the buildings mult feem to be entire; the ruins of them belong to later days; the difguife is, however, advantageous to them as objects; none can be imagined more picturefque, than a tower bofomed in trees, or a clutter appearing between the items and the branches. But the superfluitions of the times furnish other objects which are more within compafs: hermitages were then real; folitary chapels were common; many of the fprings of the country being deemed holy wells, were dittinguilhed by little Gothic domes built over them; and every hamlet had its crofs; even this, when perfect, fet on a little ruftic pillar, and that raifed upon a bafe of circular fleps, may in fome fences be confiderable: if a situation can be found for a Maypole, whence it would not obtrude itself on every view, that alfo might not be improper; and an ancient church, however unwelcome it may be when it breaks into the design of a park or a garden, in fuch a farm as this would be a fortunate accident: nor would the old yew in the church-yard be indifferent; it would be a memorial of the times when it was nfcful.<x_0.9795><y_0.7469><class_Text>\n\n<x_0.2002><y_0.7477>Many other objects, significant of the manners of our ancestors, might perhaps, upon recollection, occur; but thefe are simply sufficient for a place of confiderable extent; and cottages mult abound in every age and every country; they may therefore be introduced in different forms and positions. Large pieces of water are alfo particularly proper; and all the varieties of rills are confident with every species of farm. From the concurrence of fo many agreeable circumstances in this, be the force or the effect of the character what it may, a number of pleading fences may be exhibited either in a walk or riding, to be contralled to thofe<x_0.9785><y_0.918><class_Text>\n\n<x_0.0693><y_0.0>Farm.<x_0.1963><y_0.0227><class_Picture>\n\n<x_0.2695><y_0.9203>5<x_0.2988><y_0.9336><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-7f2ecc47-cfd9-4408-a954-acc369cc8543",
+  "object": "chat.completion",
+  "created": 1792321734,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.2021><y_0.0>the country in their time was entirely cleared, or di- flinctly divided; the fields were furrounded by woods, not by hedges; and if a confiderable tract of improved land lay together, it fill was not separated into a number of inclofures. The subjects, therefore, proper to receive this character, are thofe in which cultivation feems to have encroached on the wild, not to have fubdued it; as the bottom of a valley in corn, while the tides are fill overgrown with wood; and the outline of that wood indented by the tillage creeping more or lefs up the hill. But a glade of grafs, thus circumflanced, does not peculiarly belong to the species: that may occur in a park or pattoral farm; in this, the paftures should rather border on a wafte or a common: if large, they may be broken by flaggling buthes, thickets, or coppices; and the feattered trees should be beefet with brambles and briars. All thefe are circumstances which improve the beauty of the place; yet appear to be only remains of the wild, not intended for embellishment. Such interruptions mult, however, be lefs frequent in the arable parts of the farm; but there the opening may be divided into several lands, diftinguih ed, ns in common fields, only by different forts of grain. Thefe will sufficiently break the famenefs of the space; and tillage does not furnish a more pleading fence, than fuch a fpace fo broken, if the extent be moderate, and the boundary beautiful.<x_0.9814><y_0.3812><class_Text>\n\n<x_0.1992><y_0.382>As much wood is effential to the character, a fpot may easily be found, where turrets rifling above the covert, or fome arches feet within it, may have the refemblance of a caffle or an abbey. The partial concealment is almost necessary to both; for to accord with the age, the buildings mult feem to be entire; the ruins of them belong to later days; the difguife is, however, advantageous to them as objects; none can be imagined more picturefque, than a tower bofomed in trees, or a clutter appearing between the items and the branches. But the superfluitions of the times furnish other objects which are more within compafs: hermitages were then real; folitary chapels were common; many of the fprings of the country being deemed holy wells, were dittinguilhed by little Gothic domes built over them; and every hamlet had its crofs; even this, when perfect, fet on a little ruftic pillar, and that raifed upon a bafe of circular fleps, may in fome fences be confiderable: if a situation can be found for a Maypole, whence it would not obtrude itself on every view, that alfo might not be improper; and an ancient church, however unwelcome it may be when it breaks into the design of a park or a garden, in fuch a farm as this would be a fortunate accident: nor would the old yew in the church-yard be indifferent; it would be a memorial of the times when it was nfcful.<x_0.9795><y_0.7469><class_Text>\n\n<x_0.2002><y_0.7477>Many other objects, significant of the manners of our ancestors, might perhaps, upon recollection, occur; but thefe are simply sufficient for a place of confiderable extent; and cottages mult abound in every age and every country; they may therefore be introduced in different forms and positions. Large pieces of water are alfo particularly proper; and all the varieties of rills are confident with every species of farm. From the concurrence of fo many agreeable circumstances in this, be the force or the effect of the character what it may, a number of pleading fences may be exhibited either in a walk or riding, to be contralled to thofe<x_0.9785><y_0.918><class_Text>\n\n<x_0.0693><y_0.0>Farm.<x_0.1963><y_0.0227><class_Picture>\n\n<x_0.2695><y_0.9203>5<x_0.2988><y_0.9336><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2554,
+   "completion_tokens": 882,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

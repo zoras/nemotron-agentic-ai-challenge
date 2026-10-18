@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "58cfa21c00e7878f2875b73535d50c96180593becb0e86cd372797247b2b0fc0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "fbaf5e84fdd8e4d6af8a9bca1b18714dcecf1acc07be27167a92611be77b9104",
+  "image_bytes": 2211513,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2051",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0,
+   0.5533,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.5483
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.5483
+   ],
+   [
+    0.1667,
+    0.25,
+    0.5483
+   ],
+   [
+    0.25,
+    0.3333,
+    0.5483
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.5483
+   ],
+   [
+    0.4167,
+    0.5,
+    0.5483
+   ],
+   [
+    0.5,
+    0.5833,
+    0.5483
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.5483
+   ],
+   [
+    0.6667,
+    0.75,
+    0.5483
+   ],
+   [
+    0.75,
+    0.8333,
+    0.5483
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.5483
+   ],
+   [
+    0.9167,
+    1.0,
+    0.5483
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2756,
+  "completion_tokens": 956,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.72,
+ "created_at": "2026-10-18T11:11:32+00:00",
+ "content": "<x_0.5127><y_0.0617>L O M [ 16<x_0.999><y_0.0836><class_Page-header>\n\n<x_0.21><y_0.0813>Lombards, judging that a favourable opportunity now offered of making himself king of Italy by her means, imparted his design to her, and declared his intention to marry her, provided, by fome means or other, the defpatehed Helmichild.-Rofamund, highly pleafed with the pro- pofal, reloived to fatisfy her ambition by getting rid of the perfon whom he had married in order to gra- tify her revenge. Accordingly, having prepared a fitong poifon, the mixed it with wine, and gave it to her husband as he came out of the bath, and called for drink, according to his cuftom. Helmichild had not half emptied the cup, when, by the fudden and flrange operation which he felt in his bowels, he concluded what it was; and, with his fword pointed at the queen’s breast, compelled her to drink the refl. The poifon had the fame effect on both; for they died in a few hours. Longinus, on the death of the queen, laid afide all thoughts of making himself king of Italy, and fent the king’s treasure to Confantinople, together with Albifoinda, the daughter of Alboinus by Rofa- mund, whom he had brought alone with her.<x_0.9775><y_0.343><class_Text>\n\n<x_0.3223><y_0.3422>After the death of Alboinus, the Lombards chofe Clephis, one of the nobility, for their king. He was murdered after a short reign of 18 months; upon which enfued an interregnum of 10 years, as related under the article ITALY, No 32. During this time, they extended their conquefts in that country; but at left the Romans, jealous of their progrefs, reloived to put a flop to their victories, and, if polible, to drive them quite out. For this purpose, they deligned not only to employ their own force, but entered into alliance with the Franks; which fo alarmed the Lombards that they re-established the monarchical form of go- vernment among themfelves, and chofe Autharis the fon of Clephis for their king. This monarch, confi- dering that the power of the dukes, who had governed Lombardy for the space of 10 years, was during that length of time very much eflablified, and that they would not probably be willing to part with the au- thority which they had fo long enjoyed, allowed them to continue in their government; but obliged them to contribute one moiety of their revenues towards the maintenance and support of his royal dignity, fuffer ing them to difpofe of the other as they thought pro- per. He referred to himself the fupreme dominion and authority; and took an oath of the dukes, that in time of war, they would readily affit him to the utmost of their power. Though he could remove the dukes at pleasure, yet he deprived none of them of their dukedoms, except in cafes of treaton; nor gave them to others, except when their male illue failed. Having fettled matters in this manner with the dukes, he enacted several wholefome laws against theft, ra- pine, murder, adultery, and other vices which prevailed among his subjects, and was the frit of the Lombard kings who embraced Christianity. Moft of his subjects followed the example of their monarch; but as they were all infructed by Arian bithops, they continued long infected with that herefly; which occasional great dilputes between them and the orthodox bithops of the cities subject to them.<x_0.9785><y_0.8336><class_Text>\n\n<x_0.2061><y_0.2586>8 Her death<x_0.3203><y_0.257><class_Caption>\n\n<x_0.2051><y_0.3797>7 Monarchy abolished.<x_0.3154><y_0.4148><class_Caption>\n\n<x_0.2041><y_0.4914>8 Reftored.<x_0.3105><y_0.5148><class_Caption>\n\n<x_0.207><y_0.8258>9 Written laws when first introduced.<x_0.3232><y_0.8781><class_Caption>\n\n<x_0.3301><y_0.8344>From the re-establishment of the monarchy under Autharis, to the reign of Rotharis in 636, the history of the Lombards affords nothing memorable. This period is remarkable for the introduction of written<x_0.9795><y_0.8867><class_Text>\n\n<x_0.6582><y_0.8852>2<x_0.6836><y_0.8953><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-0d6a82bc-e5ad-4276-a69b-990107930abd",
+  "object": "chat.completion",
+  "created": 1792321890,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.5127><y_0.0617>L O M [ 16<x_0.999><y_0.0836><class_Page-header>\n\n<x_0.21><y_0.0813>Lombards, judging that a favourable opportunity now offered of making himself king of Italy by her means, imparted his design to her, and declared his intention to marry her, provided, by fome means or other, the defpatehed Helmichild.-Rofamund, highly pleafed with the pro- pofal, reloived to fatisfy her ambition by getting rid of the perfon whom he had married in order to gra- tify her revenge. Accordingly, having prepared a fitong poifon, the mixed it with wine, and gave it to her husband as he came out of the bath, and called for drink, according to his cuftom. Helmichild had not half emptied the cup, when, by the fudden and flrange operation which he felt in his bowels, he concluded what it was; and, with his fword pointed at the queen’s breast, compelled her to drink the refl. The poifon had the fame effect on both; for they died in a few hours. Longinus, on the death of the queen, laid afide all thoughts of making himself king of Italy, and fent the king’s treasure to Confantinople, together with Albifoinda, the daughter of Alboinus by Rofa- mund, whom he had brought alone with her.<x_0.9775><y_0.343><class_Text>\n\n<x_0.3223><y_0.3422>After the death of Alboinus, the Lombards chofe Clephis, one of the nobility, for their king. He was murdered after a short reign of 18 months; upon which enfued an interregnum of 10 years, as related under the article ITALY, No 32. During this time, they extended their conquefts in that country; but at left the Romans, jealous of their progrefs, reloived to put a flop to their victories, and, if polible, to drive them quite out. For this purpose, they deligned not only to employ their own force, but entered into alliance with the Franks; which fo alarmed the Lombards that they re-established the monarchical form of go- vernment among themfelves, and chofe Autharis the fon of Clephis for their king. This monarch, confi- dering that the power of the dukes, who had governed Lombardy for the space of 10 years, was during that length of time very much eflablified, and that they would not probably be willing to part with the au- thority which they had fo long enjoyed, allowed them to continue in their government; but obliged them to contribute one moiety of their revenues towards the maintenance and support of his royal dignity, fuffer ing them to difpofe of the other as they thought pro- per. He referred to himself the fupreme dominion and authority; and took an oath of the dukes, that in time of war, they would readily affit him to the utmost of their power. Though he could remove the dukes at pleasure, yet he deprived none of them of their dukedoms, except in cafes of treaton; nor gave them to others, except when their male illue failed. Having fettled matters in this manner with the dukes, he enacted several wholefome laws against theft, ra- pine, murder, adultery, and other vices which prevailed among his subjects, and was the frit of the Lombard kings who embraced Christianity. Moft of his subjects followed the example of their monarch; but as they were all infructed by Arian bithops, they continued long infected with that herefly; which occasional great dilputes between them and the orthodox bithops of the cities subject to them.<x_0.9785><y_0.8336><class_Text>\n\n<x_0.2061><y_0.2586>8 Her death<x_0.3203><y_0.257><class_Caption>\n\n<x_0.2051><y_0.3797>7 Monarchy abolished.<x_0.3154><y_0.4148><class_Caption>\n\n<x_0.2041><y_0.4914>8 Reftored.<x_0.3105><y_0.5148><class_Caption>\n\n<x_0.207><y_0.8258>9 Written laws when first introduced.<x_0.3232><y_0.8781><class_Caption>\n\n<x_0.3301><y_0.8344>From the re-establishment of the monarchy under Autharis, to the reign of Rotharis in 636, the history of the Lombards affords nothing memorable. This period is remarkable for the introduction of written<x_0.9795><y_0.8867><class_Text>\n\n<x_0.6582><y_0.8852>2<x_0.6836><y_0.8953><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2756,
+   "completion_tokens": 956,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

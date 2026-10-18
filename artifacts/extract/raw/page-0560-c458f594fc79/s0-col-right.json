@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "6b3f5adabeefb7e1c0cbe1cca23408c4dc56b00d2cef72fd19a259b3e830a0c3",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4f42f4dd58fed5093585df680e7a374c3f8de403e592662a266723942efb0042",
+  "image_bytes": 1918119,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:560",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4883,
+   0.0309,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0309,
+    0.1117,
+    0.4933
+   ],
+   [
+    0.1117,
+    0.1924,
+    0.4933
+   ],
+   [
+    0.1924,
+    0.2732,
+    0.4933
+   ],
+   [
+    0.2732,
+    0.3539,
+    0.4933
+   ],
+   [
+    0.3539,
+    0.4347,
+    0.4933
+   ],
+   [
+    0.4347,
+    0.5155,
+    0.4933
+   ],
+   [
+    0.5155,
+    0.5962,
+    0.4933
+   ],
+   [
+    0.5962,
+    0.677,
+    0.4933
+   ],
+   [
+    0.677,
+    0.7577,
+    0.4933
+   ],
+   [
+    0.7577,
+    0.8385,
+    0.495
+   ],
+   [
+    0.8385,
+    0.9192,
+    0.4983
+   ],
+   [
+    0.9192,
+    1.0,
+    0.4933
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2684,
+  "completion_tokens": 1012,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.62,
+ "created_at": "2026-10-18T11:19:29+00:00",
+ "content": "<x_0.0><y_0.0031>9 ]<x_0.1055><y_0.0297><class_Page-header>\n\n<x_0.3232><y_0.0023>AM I<x_0.5293><y_0.0273><class_Title>\n\n<x_0.001><y_0.0242>times forming veins of an inch in diameter. Its fibres Amicable are fo flexible that cloth has been made of them, and the shorter filaments that feparate in the waiting of the flone may be made into paper in the common manner. For the method of its preparation for manufacture into cloth, fee Asbestos.<x_0.7842><y_0.1125><class_Text>\n\n<x_0.793><y_0.0375>I Amida.<x_0.9082><y_0.0742><class_Picture>\n\n<x_0.0078><y_0.1086>Amianthus is claffed by Mr Kirwan in the muriatic genus of earths, because it contains about a fifth part of magnefia. Its other constituents are, flint, mild calcareous earth, barytes, clay, and a very final proportion of iron. It is futible per fe in a strong heat, and allo with the common fluxes. It differs from afbeltos in containing fome ponderous earth.<x_0.7871><y_0.2086><class_Text>\n\n<x_0.0088><y_0.2039>AMICABLE, in a general fenfe, denotes any thing done in a friendly manner, or to promote peace.<x_0.7891><y_0.2367><class_Text>\n\n<x_0.0098><y_0.2313>_AmicABLE Bencher_, in Roman antiquity, were, according to Pitifcus, lower and lefs honourable feats allotted for the _judices pedanei_, or inferior judges, who, upon being admitted of the emperor's council, were dignified by him with the title _amici._<x_0.7939><y_0.3047><class_Text>\n\n<x_0.0127><y_0.2984>_AMICABLE Numbers,_ fuch as are mutually equal to the fum of one another’s aliquot parts. Thus the numbers 284 and 220 are amicable numbers: for the aliquot parts I, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110, of 220, are together equal to the other number 284; and the aliquot parts I, 2, 4, 71, 142, of 284, are together equal to 220.<x_0.7988><y_0.4008><class_Text>\n\n<x_0.0215><y_0.3945>AMICTUS, in Roman antiquity, was any upper garment worn over the tunica.<x_0.7998><y_0.4281><class_Text>\n\n<x_0.0195><y_0.4219>AMICTUS, among ecclefialtical writers, the upper-motif garment anciently worn by the clergy; the other five being the alba, fingulum, ftola, manipulus, and planeta. The amictus was a linen garment, of a figure figure, covering the head, neck, and houlders, and buckled or clafped before the breast. It is fill worn by the religious abroad.<x_0.8008><y_0.5242><class_Text>\n\n<x_0.0225><y_0.5164>AMICULUM, in Roman antiquity, a woman’s upper garment, which differed from the pala. It was worn both by matrons and courtezans.<x_0.8018><y_0.5641><class_Text>\n\n<x_0.0234><y_0.5563>AMIC US CURIE, a law term, to denote a by-flander who informs the court of a matter in law that is doubtful or militaken.<x_0.8027><y_0.6055><class_Text>\n\n<x_0.0254><y_0.5984>AMIDA, a god worshipped by the Japanefe, who has many temples erected to him in the illand of Japan, of which the principal is at Jedo. The Japanefe have fuch a confidence in their idol Amida, that they hope to attain eternal felicity by the frequent invocation of his name. One of the figures of this idol is represented at Rome.<x_0.8037><y_0.7008><class_Text>\n\n<x_0.0322><y_0.6914>AMIDA (anc. geog.), a principal city of Mefopo-tama (Liber Notiiae); _Amman_ (Ptolemy); fituated on a high mountain, on the borders of Afiyria, on the Tigris, where it receives the Nymphius.—It was taken from the Romans, in the time of the emperor Conflans, by Sapores king of Pertia. The flege is faid to have coll him 30.000 men; however, he reduced it to fuch ruin, that the emperor afterwards wept over it. According to Ammianus Marcellinus, the city was rafed; the chief officerswere crucified; and the reilt, with the foldiers and inhabitants, either put to the fword or carried into captivity, except our hiflorian himself, and two or three more, who, in the dead of the night, escaped through a poftern unperceived by the enemy. The inhabitants of Nilibis, however, being obliged to leave their own city by Jovian’s treaty with<x_0.8213><y_0.9203><class_Text>\n\n<x_0.3877><y_0.9133>4 F2<x_0.4707><y_0.9297><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-f184b450-3546-41ed-823c-c695f74b3955",
+  "object": "chat.completion",
+  "created": 1792322368,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0031>9 ]<x_0.1055><y_0.0297><class_Page-header>\n\n<x_0.3232><y_0.0023>AM I<x_0.5293><y_0.0273><class_Title>\n\n<x_0.001><y_0.0242>times forming veins of an inch in diameter. Its fibres Amicable are fo flexible that cloth has been made of them, and the shorter filaments that feparate in the waiting of the flone may be made into paper in the common manner. For the method of its preparation for manufacture into cloth, fee Asbestos.<x_0.7842><y_0.1125><class_Text>\n\n<x_0.793><y_0.0375>I Amida.<x_0.9082><y_0.0742><class_Picture>\n\n<x_0.0078><y_0.1086>Amianthus is claffed by Mr Kirwan in the muriatic genus of earths, because it contains about a fifth part of magnefia. Its other constituents are, flint, mild calcareous earth, barytes, clay, and a very final proportion of iron. It is futible per fe in a strong heat, and allo with the common fluxes. It differs from afbeltos in containing fome ponderous earth.<x_0.7871><y_0.2086><class_Text>\n\n<x_0.0088><y_0.2039>AMICABLE, in a general fenfe, denotes any thing done in a friendly manner, or to promote peace.<x_0.7891><y_0.2367><class_Text>\n\n<x_0.0098><y_0.2313>_AmicABLE Bencher_, in Roman antiquity, were, according to Pitifcus, lower and lefs honourable feats allotted for the _judices pedanei_, or inferior judges, who, upon being admitted of the emperor's council, were dignified by him with the title _amici._<x_0.7939><y_0.3047><class_Text>\n\n<x_0.0127><y_0.2984>_AMICABLE Numbers,_ fuch as are mutually equal to the fum of one another’s aliquot parts. Thus the numbers 284 and 220 are amicable numbers: for the aliquot parts I, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110, of 220, are together equal to the other number 284; and the aliquot parts I, 2, 4, 71, 142, of 284, are together equal to 220.<x_0.7988><y_0.4008><class_Text>\n\n<x_0.0215><y_0.3945>AMICTUS, in Roman antiquity, was any upper garment worn over the tunica.<x_0.7998><y_0.4281><class_Text>\n\n<x_0.0195><y_0.4219>AMICTUS, among ecclefialtical writers, the upper-motif garment anciently worn by the clergy; the other five being the alba, fingulum, ftola, manipulus, and planeta. The amictus was a linen garment, of a figure figure, covering the head, neck, and houlders, and buckled or clafped before the breast. It is fill worn by the religious abroad.<x_0.8008><y_0.5242><class_Text>\n\n<x_0.0225><y_0.5164>AMICULUM, in Roman antiquity, a woman’s upper garment, which differed from the pala. It was worn both by matrons and courtezans.<x_0.8018><y_0.5641><class_Text>\n\n<x_0.0234><y_0.5563>AMIC US CURIE, a law term, to denote a by-flander who informs the court of a matter in law that is doubtful or militaken.<x_0.8027><y_0.6055><class_Text>\n\n<x_0.0254><y_0.5984>AMIDA, a god worshipped by the Japanefe, who has many temples erected to him in the illand of Japan, of which the principal is at Jedo. The Japanefe have fuch a confidence in their idol Amida, that they hope to attain eternal felicity by the frequent invocation of his name. One of the figures of this idol is represented at Rome.<x_0.8037><y_0.7008><class_Text>\n\n<x_0.0322><y_0.6914>AMIDA (anc. geog.), a principal city of Mefopo-tama (Liber Notiiae); _Amman_ (Ptolemy); fituated on a high mountain, on the borders of Afiyria, on the Tigris, where it receives the Nymphius.—It was taken from the Romans, in the time of the emperor Conflans, by Sapores king of Pertia. The flege is faid to have coll him 30.000 men; however, he reduced it to fuch ruin, that the emperor afterwards wept over it. According to Ammianus Marcellinus, the city was rafed; the chief officerswere crucified; and the reilt, with the foldiers and inhabitants, either put to the fword or carried into captivity, except our hiflorian himself, and two or three more, who, in the dead of the night, escaped through a poftern unperceived by the enemy. The inhabitants of Nilibis, however, being obliged to leave their own city by Jovian’s treaty with<x_0.8213><y_0.9203><class_Text>\n\n<x_0.3877><y_0.9133>4 F2<x_0.4707><y_0.9297><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2684,
+   "completion_tokens": 1012,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

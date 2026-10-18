@@ -1,0 +1,529 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1344",
+ "row_index": 1344,
+ "volume_id": "149981670",
+ "filename": "page-1344-b5c2505d4784.jpg",
+ "image_sha256": "b5c2505d4784ce9e909dbebeedb4858735d3550cf3e7506a2a92c391393e8cc2",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09412,
+  "median_grey": 221,
+  "layout_body_chars": 6419,
+  "layout_pictures": 0
+ },
+ "running_head": "H O R [ 664 ] H O R",
+ "layout_raw": "page-1344-b5c2505d4784/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0153,
+    1.0,
+    0.0444
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1344-b5c2505d4784/head.json",
+   "finish_reason": "stop",
+   "request_key": "1ad1e48ecbd40e001e69aefc3d01f30e35b9410ff25cfc0964999ba75a43ed93"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0153,
+    0.5367,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0153,
+     0.0974,
+     0.5317
+    ],
+    [
+     0.0974,
+     0.1794,
+     0.5167
+    ],
+    [
+     0.1794,
+     0.2615,
+     0.5167
+    ],
+    [
+     0.2615,
+     0.3435,
+     0.5167
+    ],
+    [
+     0.3435,
+     0.4256,
+     0.5167
+    ],
+    [
+     0.4256,
+     0.5076,
+     0.5167
+    ],
+    [
+     0.5076,
+     0.5897,
+     0.5167
+    ],
+    [
+     0.5897,
+     0.6718,
+     0.5167
+    ],
+    [
+     0.6718,
+     0.7538,
+     0.5167
+    ],
+    [
+     0.7538,
+     0.8359,
+     0.5167
+    ],
+    [
+     0.8359,
+     0.9179,
+     0.5167
+    ],
+    [
+     0.9179,
+     1.0,
+     0.5167
+    ]
+   ],
+   "raw_path": "page-1344-b5c2505d4784/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "93cc9c87c6f51c5c659fe07d42fdc6faed784c35d547725fdf6e0c0a124d7111"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5117,
+    0.0153,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0153,
+     0.0974,
+     0.5317
+    ],
+    [
+     0.0974,
+     0.1794,
+     0.5167
+    ],
+    [
+     0.1794,
+     0.2615,
+     0.5167
+    ],
+    [
+     0.2615,
+     0.3435,
+     0.5167
+    ],
+    [
+     0.3435,
+     0.4256,
+     0.5167
+    ],
+    [
+     0.4256,
+     0.5076,
+     0.5167
+    ],
+    [
+     0.5076,
+     0.5897,
+     0.5167
+    ],
+    [
+     0.5897,
+     0.6718,
+     0.5167
+    ],
+    [
+     0.6718,
+     0.7538,
+     0.5167
+    ],
+    [
+     0.7538,
+     0.8359,
+     0.5167
+    ],
+    [
+     0.8359,
+     0.9179,
+     0.5167
+    ],
+    [
+     0.9179,
+     1.0,
+     0.5167
+    ]
+   ],
+   "raw_path": "page-1344-b5c2505d4784/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "05371b7d8694d3d48e70f076c327e0bfd116bc524860375bc9bfe4375b9b1bfc"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "H O R [ 664 ] H O R",
+   "bbox": [
+    0.0,
+    0.0153,
+    1.0,
+    0.0444
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1344-b5c2505d4784:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "H O R [ 664",
+   "bbox": [
+    0.2243,
+    0.0199,
+    0.5231,
+    0.0422
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "be totally clofed up, or the cranium in that part not be so to hard as the reft for fome years after. This open- nefs is found to be increased upon the child's catching cold. When the difeafe continues long, it is repu- ted a fign of weaknefs and hort life. In this cafe, it is uful to rub the head now and then with warm rum or brandy, mixed with the white of an egg and palm oil. Sometimes the diforder arifes from a collection of waters in the head called an _hydrocephalus._",
+   "bbox": [
+    0.131,
+    0.0399,
+    0.5362,
+    0.1638
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "_Stens-HORSE._ See STALLION.",
+   "bbox": [
+    0.1531,
+    0.163,
+    0.3658,
+    0.1761
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "_Horse Tail._ See EQUISETUM and EPHEDRA.",
+   "bbox": [
+    0.1535,
+    0.1753,
+    0.4738,
+    0.1907
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "_Horse-Vetch._ See HIPPOCREPIS.",
+   "bbox": [
+    0.1541,
+    0.1899,
+    0.3894,
+    0.203
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "_War-Horse._ The proper rules for choofing a horfe for service in war, are thefe: he should be tall in flature, with a comedy head, and out-fwelling forehead. His eye should be bright and fparkling, and the white part of it covered by the eye brow. The cars should be fmall, thin, short, and pricking; or if long, they should be moveable with cafe, and well carried. The neck should be deep, and the breath large and fwelling. The ribs bending, the chine broad and flraight, and the buttocks round and full. The tail should be high and broad, neither too thick nor too thin; the thigh fwelling; the leg broad and flat, and the pattern thort. When fuch a horfe is chosen, he muft be kept high during the time of his teaching, that he may be full of vigour. His foodmuft be fweet hay, and good clean oats, or two parts of oats and one part of beans or peafe, well dried and hardened. The quantity should be half a peck in the morning, and the fame quantity at noon and in the evening. Upon his refling days he is to be dreffed between five and fix in the morning, and water- ed at fever or eight. In the evening he is to be dreffed at four, and watered about five, and he muit always have provender given him after watering; he muft be littered about eight, and then muft have food given him for all night. The night before he is ridden all his hay is to be taken away about nine o'clock, and he muft have a handful or two of oats about four in the morning: when he has eaten thefe, he is to be turned upon the fnaffle, and rubbed very well with dry cloths; then faddled, and made fit for his exercife. When he has performed this, he is to be brought fweating into the flable, and rubbed down with dry wifps. When this has been done, the faddle is to be taken off, and he is to be rubbed down with dry cloths; the houling cloth is then to be laid on; and the faddle being again laid on, he is to be walked gently about till thoroughly cool. After this, he muft ftand without meat two or three hours, then he muft be fed; and in the afternoon he is to be rubbed and dreffed as before, and watered in the ufual manner.",
+   "bbox": [
+    0.1347,
+    0.2015,
+    0.5183,
+    0.7385
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "_Horse Worm_, in natural history, a species of flyworm called alfo belt, produced of eggs deposited by a two-winged fly of the shape and fize of the humble bee in the intestines of horses. See BOTTS.",
+   "bbox": [
+    0.142,
+    0.7353,
+    0.5178,
+    0.7923
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "_River-Horse_, in zoology. See HIPPOPTAMUS.",
+   "bbox": [
+    0.1599,
+    0.79,
+    0.5005,
+    0.8061
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Horse is alfo ufed in the military language, to ex-prefs the cavalry; or the body of foldiers who serve on horseback.",
+   "bbox": [
+    0.1425,
+    0.8031,
+    0.5173,
+    0.8454
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "The horfe includes horfe guards, horfe grenadiers, and troopers. Dragoons are alfo frequently compre- tended under this name, though they fight on foot: of thefe there are now 18 regiments; belides three re-",
+   "bbox": [
+    0.1431,
+    0.843,
+    0.5189,
+    0.8993
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b10"
+  },
+  {
+   "order": 11,
+   "class": "Page-footer",
+   "text": "N° 157.",
+   "bbox": [
+    0.1604,
+    0.8985,
+    0.2191,
+    0.9154
+   ],
+   "source": "s0-col-left",
+   "id": "page-1344-b5c2505d4784:b11"
+  },
+  {
+   "order": 12,
+   "class": "Head-fragment",
+   "text": "I H O R",
+   "bbox": [
+    0.537,
+    0.0191,
+    0.7783,
+    0.0422
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "ments of dragoon-guards raifed in 1685. See GRA- ADIER, DRAGOONS, and GUARDS.",
+   "bbox": [
+    0.5312,
+    0.0415,
+    0.8936,
+    0.07
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "_Maffer of the Horse._ See MASTER.",
+   "bbox": [
+    0.5365,
+    0.0684,
+    0.7888,
+    0.0837
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "_Light-Horse_, are regiments of cavalry, mounted on light fwift horles, whose men are fmall and lightly ac- coutred. They were frit raised in 1757. The deno- mination arofe hence, that anciently they were lightly armed, in comparison of the royal guards, which were armed at all points.",
+   "bbox": [
+    0.5203,
+    0.0823,
+    0.897,
+    0.1638
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "_Hungarian Horse._ See Hussars.",
+   "bbox": [
+    0.5374,
+    0.163,
+    0.7792,
+    0.1776
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "Horse is alfo a term ufed in various arts and manu- factories, for fomething that helps to fuftain their work from the ground, for the more commodious working at it.",
+   "bbox": [
+    0.5208,
+    0.1761,
+    0.8975,
+    0.2308
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "The horfe ufed by tanners and lkinners, alfo called the _lg_, is a piece of wood cut hollow and roundifft, four or five feet long, and placed aflope; upon which they pare their flains to get off the dirt, hair, flefh, &c.",
+   "bbox": [
+    0.5212,
+    0.2292,
+    0.8965,
+    0.2845
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "HORSE is alfo ufed in carpentry, for a piece of wood jointed scrofs two other perpendicular ones. to fuftain the boards, planks, &c. which make bridges over fmall rivers; and on divers other occasions.",
+   "bbox": [
+    0.5217,
+    0.283,
+    0.896,
+    0.3369
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "HORSE, in fea language, is the name of a rope reach- ing from the middle of a yard,to its extremity, or what is called the _yard-arm_, and depending about two or three feet under the yard, for the failors to tread upon whilst they are loofing, reefing, or furling the fails, rig- ging out the fludding-fail booms, &c. In order, there- fore, to keep the horfe more parallel to the yard, it is ufually fufpended to it at proper distances, by certain ropes called Hirrups, which hang about two feet under the yard, having an eye in their lower ends through which the horfe paffes.",
+   "bbox": [
+    0.5222,
+    0.3353,
+    0.8979,
+    0.4838
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "HORSE is alfo a thick rope, extended in a perpendicular direction near the fore or after-fide of a maft, for the purpofe of hoiting or extending foime fail upon it. When it is fixed before a maft, it is calculated for the ufe of a fail called the _fquare-fail_, whole yard being attached to the horfe, by means of a traveller or bull's eye, which flides up and down occasionally, is retained in a deady potition; either when the fail is fet, or whilt it is hoitting or lowering. When the horfe is placed abaft or behind a maft, it is intended for the try-fail of a flow, and is accordingly very rarely fixed in this potition, except in thofe floops of war which oc- cationally affume the form of finows, in order to de- ceive the enemy.",
+   "bbox": [
+    0.5227,
+    0.4822,
+    0.8984,
+    0.6692
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "HORSE is alfo a cant name introduced into the na- nagement of lotteries, for the chance or benefit of a ticket or number for one or more days, upon condi- tion. if it be drawn a prize within the time covenanted for, of returning to the feller an undrawn ticket.-- I'0 determine the value of a horfe; multiply the amount of the prizes in the lottery by the time the horfe is hi- red for; and from the product futbraci the amount of the number of prizes by the value of an undrawn tic- ket into the time of the horfe: the remainder being divided by the number of tickets into the whole time of drawing, the quotient is the value of the horfe. See LOTTERY.",
+   "bbox": [
+    0.5231,
+    0.6685,
+    0.8989,
+    0.8423
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "_Horse-Bread._ See BREAD.",
+   "bbox": [
+    0.5427,
+    0.8416,
+    0.7382,
+    0.8561
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "_Horse-Dung_, in gardening, is of great ufe in ma- king hot-beds, for the raifing all forts of early crops; as fallading, cucumbers, melons, afparagus, &c. for",
+   "bbox": [
+    0.5279,
+    0.8546,
+    0.8994,
+    0.8985
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b24"
+  },
+  {
+   "order": 25,
+   "class": "Text",
+   "text": "which",
+   "bbox": [
+    0.8526,
+    0.8954,
+    0.8956,
+    0.9092
+   ],
+   "source": "s0-col-right",
+   "id": "page-1344-b5c2505d4784:b25"
+  }
+ ]
+}

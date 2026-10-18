@@ -1,0 +1,74 @@
+{
+ "request": {
+  "key": "7de0140c1f034f722e81d4a9e4f0482003d4fc5d6915f1de5f28d9844c1f64e4",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ecf2b4010841362d58c78a53eb26e253b7a99a02694e8ab84ac5ab40ee5e9403",
+  "image_bytes": 69570,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1649",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0309,
+   1.0,
+   0.06
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null,
+  "canvas": 0.5
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1360,
+  "total_tokens": 1417,
+  "completion_tokens": 57,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.22,
+ "created_at": "2026-10-18T11:23:12+00:00",
+ "content": "<x_0.0><y_0.0375>\\begin{tabular}{ccccccc}\nC H I & [ 697 ] & \\mbox{} & \\mbox{} & \\mbox{} & \\mbox{} & \\mbox{}\\\\\n\\end{tabular}<x_0.999><y_0.1117><class_Table>",
+ "reply": {
+  "id": "chatcmpl-3287538e-c79b-4ea9-9c19-1883207a2cbf",
+  "object": "chat.completion",
+  "created": 1792322592,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0375>\\begin{tabular}{ccccccc}\nC H I & [ 697 ] & \\mbox{} & \\mbox{} & \\mbox{} & \\mbox{} & \\mbox{}\\\\\n\\end{tabular}<x_0.999><y_0.1117><class_Table>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1360,
+   "total_tokens": 1417,
+   "completion_tokens": 57,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

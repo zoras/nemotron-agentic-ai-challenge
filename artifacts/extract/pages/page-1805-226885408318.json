@@ -1,0 +1,520 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1805",
+ "row_index": 1805,
+ "volume_id": "191320560",
+ "filename": "page-1805-226885408318.jpg",
+ "image_sha256": "2268854083181b93f7bf134647f2e3214aacdd4ce0279092f4743cf113d32abd",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.08235,
+  "median_grey": 213,
+  "layout_body_chars": 6328,
+  "layout_pictures": 0
+ },
+ "running_head": "E X E [ 375 J E X E",
+ "layout_raw": "page-1805-226885408318/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0528,
+    1.0,
+    0.0827
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1805-226885408318/head.json",
+   "finish_reason": "stop",
+   "request_key": "9a08242cfa8bfdb52c34850cf906e566aa24453eb778fd08de7dadd02d27802f"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0528,
+    0.4867,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0528,
+     0.1389,
+     0.48
+    ],
+    [
+     0.1389,
+     0.225,
+     0.4817
+    ],
+    [
+     0.225,
+     0.3111,
+     0.4817
+    ],
+    [
+     0.3111,
+     0.3972,
+     0.4817
+    ],
+    [
+     0.3972,
+     0.4833,
+     0.4817
+    ],
+    [
+     0.4833,
+     0.5695,
+     0.4817
+    ],
+    [
+     0.5695,
+     0.6556,
+     0.4817
+    ],
+    [
+     0.6556,
+     0.7417,
+     0.4817
+    ],
+    [
+     0.7417,
+     0.8278,
+     0.4817
+    ],
+    [
+     0.8278,
+     0.9139,
+     0.4817
+    ],
+    [
+     0.9139,
+     1.0,
+     0.4817
+    ]
+   ],
+   "raw_path": "page-1805-226885408318/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "467c37aad4fbde4d37c644154db5e3dda721ab86d16003792a44ca0947a07a74"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.475,
+    0.0528,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0528,
+     0.1389,
+     0.48
+    ],
+    [
+     0.1389,
+     0.225,
+     0.4817
+    ],
+    [
+     0.225,
+     0.3111,
+     0.4817
+    ],
+    [
+     0.3111,
+     0.3972,
+     0.4817
+    ],
+    [
+     0.3972,
+     0.4833,
+     0.4817
+    ],
+    [
+     0.4833,
+     0.5695,
+     0.4817
+    ],
+    [
+     0.5695,
+     0.6556,
+     0.4817
+    ],
+    [
+     0.6556,
+     0.7417,
+     0.4817
+    ],
+    [
+     0.7417,
+     0.8278,
+     0.4817
+    ],
+    [
+     0.8278,
+     0.9139,
+     0.4817
+    ],
+    [
+     0.9139,
+     1.0,
+     0.4817
+    ]
+   ],
+   "raw_path": "page-1805-226885408318/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "92d38d9a1a095f79c19dfb7b92adf459f103887f6e57af6a72e842ebfe4a5d82"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "E X E [ 375 J E X E",
+   "bbox": [
+    0.0,
+    0.0528,
+    1.0,
+    0.0827
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1805-226885408318:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "EX E [ 3",
+   "bbox": [
+    0.222,
+    0.0588,
+    0.4862,
+    0.0809
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "Execution a criminal, fo reviving, was not allowed to take func-\ntuary and abjure the realm; but his fleeing to fanétuary\nwas held an escape in the officer.",
+   "bbox": [
+    0.0476,
+    0.0817,
+    0.4791,
+    0.1194
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "EXECUTION, in the law of Scotland. See LAW Index.",
+   "bbox": [
+    0.1269,
+    0.1186,
+    0.4776,
+    0.1335
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "EXECUTION, in the French mufic, is ufed to denote\nthe manner of finging, or of the performance of a fong.\n\" As to the manner of finging, called in France _execu-_\ntion, no nation may, with any probability dispute it\nwith the French. If the French, by their commerce\nwith the Italians have gained a bolder composition,\nthe Italians have made their advantage of the French,\nin learning of them a more polite, moving, and exqui-\nfite execution.\" St Evremond.",
+   "bbox": [
+    0.1069,
+    0.1327,
+    0.4781,
+    0.2459
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "EXECUTIVE POWER. The fupreme executive\npower of thefe kingdoms is veffed by our laws in a\nfingle perfon, the king or queen for the time being.\nSee the article KING.",
+   "bbox": [
+    0.1065,
+    0.2467,
+    0.4786,
+    0.2977
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "The executive power, in this flate, hath a right to\na negative in parliament, i. e. to refute affent to any\nacts offered; otherwise the two other branches of legi-\nlative power would, or might, become defpotic.",
+   "bbox": [
+    0.1055,
+    0.297,
+    0.4772,
+    0.3488
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "EXECUTOR, a perfon nominated by a teflator, to\ntake care to fee his will and teflament executed or per-\nformed, and his effects difpofed of according to the te-\nnor of the will. See LAW.",
+   "bbox": [
+    0.105,
+    0.348,
+    0.4767,
+    0.3983
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "EXECUTOR, in _Scots Law_, fignifies either the perfon\nentitled to fuceed to the moveable elate of one deceafed,\nor who by law or fpecial appointment is intrufted with\nthe administration of it.",
+   "bbox": [
+    0.1045,
+    0.3991,
+    0.4762,
+    0.4495
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "EXECUTORY, in _Law_, is where an elitate in fee,\nthat is, made by deed or fine, is to be executed after-\nwards by entry, livery, or writ. Leafe for years, an-\nnuities, conditions, &c. are termed _inheritances exec-_\n_cutory._",
+   "bbox": [
+    0.1041,
+    0.4502,
+    0.4757,
+    0.513
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "EXECUTRY, in _Scots Law_, is the moveable elate\nfailing to the executor. Under executry, or moveables,\nis comprehended every thing that moves itself, or can\nbe moved; fuch as corns, cattle, furniture, ready mo-\nney, &c.",
+   "bbox": [
+    0.1036,
+    0.5124,
+    0.4753,
+    0.5775
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "EXEDRÆ, in antiquity, denoted halls with many\nfeats, where the philofophers, rhetoricians, and men of\nlearning, met for discourte and difputation. The word\noccurs in ecclesiailical writers as a general name for\nfuch buildings as were diltinet from the main body of\nthe churches, and yet within the limits of the church\ntaken in its largeft fenfe. Among the exedre the chief\nwas the BAPTISTERY.",
+   "bbox": [
+    0.1031,
+    0.5759,
+    0.4748,
+    0.6788
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "EXEGESIS, a difcourte by way of explanation or\ncomment upon any subject. In the Scotch universities,\nthere is an exercile among the students in divinity, call-\ned an _exegelfs_, in which a question is fitted by the re-\nfpondent, who is then oppofed by two or three other\nfludents in their turns; during which time the profef-\nfor moderates, and felves the difficulties which the re-\nfpondent cannot overcome.",
+   "bbox": [
+    0.1026,
+    0.6781,
+    0.4743,
+    0.781
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "EXEGETES, (formed of _Enyieμai_, \"I explain,\")\namong the Athenians, perfons learned in the laws,\nwhom the judges ufed to confult in capital caufes.",
+   "bbox": [
+    0.1022,
+    0.7787,
+    0.4739,
+    0.8187
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "EXEGETICA, in _Algebra_, the art of finding, ei-\nther in numbers or lines, the roots of the equation of a\nproblem, according as the problem is either numerical\nor geometrical.",
+   "bbox": [
+    0.1017,
+    0.8172,
+    0.4734,
+    0.8698
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "EXEMPLAR, a model, or original, to be imitated,\nor copied. See MODEL.",
+   "bbox": [
+    0.1012,
+    0.8682,
+    0.4729,
+    0.8956
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "EXEMPLAR alfo denotes the idea, or image, conceived",
+   "bbox": [
+    0.1198,
+    0.8934,
+    0.4724,
+    0.9105
+   ],
+   "source": "s0-col-left",
+   "id": "page-1805-226885408318:b16"
+  },
+  {
+   "order": 17,
+   "class": "Head-fragment",
+   "text": "75 I EX E",
+   "bbox": [
+    0.4791,
+    0.0625,
+    0.7503,
+    0.0824
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-1805-226885408318:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "or formed in the mind of the artift, whereby he con-\nducts his work. Such is the idea of Cefar, which a\npainter has in his mind when he goes to make a picture\nof Cefar.",
+   "bbox": [
+    0.4924,
+    0.0831,
+    0.859,
+    0.1335
+   ],
+   "source": "s0-col-right",
+   "id": "page-1805-226885408318:b18"
+  },
+  {
+   "order": 19,
+   "class": "Margin-note",
+   "text": "Exemplification\nExercife.",
+   "bbox": [
+    0.8595,
+    0.0839,
+    0.919,
+    0.1364
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-1805-226885408318:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "EXEMPLIFICATION _of Letters Patent_, denotes\nan examplan, or copy of letters patent, made from the\nenrolment thereof, and fealed with the great feal of\nEngland. Such exemplifications are as effectual to be\nthowed or pleaded, as the letters patent themfelves.",
+   "bbox": [
+    0.493,
+    0.1327,
+    0.8585,
+    0.1978
+   ],
+   "source": "s0-col-right",
+   "id": "page-1805-226885408318:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "EXEMPTION, in _Law_, a privilege to be free from\nfome service or appearance: thus, barons and peers of\nthe realm are, on account of their dignity, exempted\nfrom being fworn upon inquefts; and knights, clergy-\nmen, and others, from appearing at the heriff's turn.\nPerfons of 70 years of age, apothecaries, &c. are alfo\nby law exempted from ferving on juries; and juiltices of\nthe peace, attorneys, &c. from parish offices.",
+   "bbox": [
+    0.4919,
+    0.1971,
+    0.858,
+    0.2985
+   ],
+   "source": "s0-col-right",
+   "id": "page-1805-226885408318:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "EXERCISE, among physicians, fuch an agitation\nof the body as produces futulary effects in the animal\neconomy.",
+   "bbox": [
+    0.4914,
+    0.297,
+    0.8575,
+    0.3354
+   ],
+   "source": "s0-col-right",
+   "id": "page-1805-226885408318:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "Exercife may be laid to be either active or pallive.\nThe active is walking, hunting, dancing, playing at\nbowls, and the like; as alfo freaking, and other la-\nbour of the body and mind. The palive is riding in\na coach, on horleback, or in any other manner. Ex-\nercife may be continued to a beginning of wearinels,\nand ought to be ufed before dinner in a pure light\nair; for which reafon, journeys, and going into the\ncountry, contribute greatly to preserve and re-eltablith\nhealth.",
+   "bbox": [
+    0.4909,
+    0.3348,
+    0.8569,
+    0.4606
+   ],
+   "source": "s0-col-right",
+   "id": "page-1805-226885408318:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "Exercife increases the circulation of the blood, atte-\nnuates and divides the fluids, and promotes a regular\nperfpiration, as well as a due feeretion of all the hu-\nmours; for it accelerates the animal fpirits, and facili-\ntates their distribution into all the fibres of the body,\nflrengthens the parts, creates an appetite, and helps di-\ngetition. Whence it arises, that those who accullom\nthemelves to exercite are generally very robust, and fel-\ndom subject to difeafes.",
+   "bbox": [
+    0.4893,
+    0.4613,
+    0.8565,
+    0.5753
+   ],
+   "source": "s0-col-right",
+   "id": "page-1805-226885408318:b24"
+  },
+  {
+   "order": 25,
+   "class": "Text",
+   "text": "Boerhaave recommends bodily exercise in difeafes of\na weak and lax fibre. By riding on horfeback, fays\nhis commentator, the pendulous vifcera of the abdo-\nmed are flaken every moment, and gently rubbed as\nit were one against another, while in the mean time the\npure air acts on the lungs with greater force. But it is\nto be obferved that a weak man should not ride with a\nfull stomach, but either before dinner, or after the di-\ngetion is nearly finished; for when the flowach is di-\nlended, weak people do not bear thefe concullions of\nthe horfe without difficulty; but when the prime vice\nare nearly empty, the remaining feces are discharged by\nthis concuffion. Salling in a hip is alfo an exercice of\ngreat ufe to weak people. If the veffel moves with an\neven motion, by increasing peripiration it ufually ex-\ncites a wonderful alacrity, creates an appetite, and pro-\nmotes digestion. These exercises are more especially\nserviceable to weak people; but, in order to flrengthen\nthe body by muscular motion, running and bodily ex-\nercifes are to be ufed. In thefe we thould begin with\nthe moft gentle, fuch as walking, and increate it by de-\ngrees till we come to running. Thofe exercifes of the\nbody are more efpecially ferviceable which give delight\nto the mind at the fame time, as tennis, fencing, &c.;\nfor which reafon, the wifdom of antiquity appointed\nrewards for thofe who excelled in thefe gymnastic ex-\nercifes.",
+   "bbox": [
+    0.4868,
+    0.5759,
+    0.8559,
+    0.9186
+   ],
+   "source": "s0-col-right",
+   "id": "page-1805-226885408318:b25"
+  }
+ ]
+}

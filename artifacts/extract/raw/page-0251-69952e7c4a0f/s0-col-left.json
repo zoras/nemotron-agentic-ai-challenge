@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "cb23fe58bb6ab3c235f3b6272faffd39e749a6dadb07b6769f94ccb3f2792d94",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "7ffcb3dbc21e5f74df67ad5ce75b9ac7a4544d99a8b7934f1fd40d55f6cb86ac",
+  "image_bytes": 1795652,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:251",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0,
+   0.5133,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.5083
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.505
+   ],
+   [
+    0.1667,
+    0.25,
+    0.505
+   ],
+   [
+    0.25,
+    0.3333,
+    0.505
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.505
+   ],
+   [
+    0.4167,
+    0.5,
+    0.505
+   ],
+   [
+    0.5,
+    0.5833,
+    0.505
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.505
+   ],
+   [
+    0.6667,
+    0.75,
+    0.505
+   ],
+   [
+    0.75,
+    0.8333,
+    0.505
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.505
+   ],
+   [
+    0.9167,
+    1.0,
+    0.505
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2754,
+  "completion_tokens": 1082,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.52,
+ "created_at": "2026-10-18T11:19:10+00:00",
+ "content": "<x_0.4502><y_0.0031>S W I | 24<x_0.999><y_0.025><class_Page-header>\n\n<x_0.0371><y_0.0219>Switzerland,<x_0.1572><y_0.057><class_Caption>\n\n<x_0.1641><y_0.0234>parts of the country that border on Italy or France, a corrupt French or Italian prevails. The two predominant religions are Calvinifm and Popery. Of the former are the cantons of Zurich and Berne, the town of St Gall, Geneva, Muhliaufen, and Biel, the principality of Neufchatel, the greater part of Bafil, Schaffhaufen, the country of the Gri- fons, the Thurgau, Toggenburg, Glaris, and the Rhine valley; the frontiers of Appenzel, with a final part of Solo- thurn, and fome places in the countries of Baden and Sar- gans. The reik of the Swits cantons, allies and dependents, are Popih. For the education of youth there is an univer- fity at Bafil, and academies at Zurich, Berne, Laufanne, and Geneva, beides gymnasiums and fchoice illutres, both in the Popih and Proteitant cantons. There are alfo focietics among them for the improvement of the German language and the fenences.<x_0.9746><y_0.2367><class_Text>\n\n<x_0.1631><y_0.2359>The principal manufactures are fluff and tobacco, linen of feveral forts, lace, thread, filk, and worfted flockings, neckcloths, cotton fluffs, gloves, handkerchiefs, filks of feveral forts, gold and silver brocades, a variety of woollen manu- factures, hats, paper, leather of all forts, earthen wares, por- celain, toys, watches, clocks, and other hardwares, &c. The trade of Switzerland is greatly promoted by many navigable lakes and rivers. In fome of the above manufactures, and in cheefe, butter, fleep, horfes, black cattle, hides, and films, the exports are confiderable ; and as the imports are chiefly grain and fall, with fome American and Afiatic goods, there is probably a large balance in their favour. In fome parts of Switzerland drefs is reflrained by fumptuary laws.<x_0.9756><y_0.4109><class_Text>\n\n<x_0.1621><y_0.4094>The public revenues are in general very inconfiderable, ariling chiefly from the ufual regalia, appropriated every- where to the foveign, the demefnes, and public granaries, voluntary contributions, the fale of fall, and a land-tax ; in the Protefitant cantons, from the church lands alfo that were feized at the Reformation. Except in Zurich, Berne, Bafil, and Schaffhaufen, where the people are more indultrious, have a greater trade, and are richer than in the others, they defray the ordinary charges, and that is all.<x_0.9766><y_0.5297><class_Text>\n\n<x_0.1602><y_0.5281>The cantons never keep any flooding troops, except for a few garrifons ; but their militia is reckoned to be the belt regulated of any in Europe. Every male from 16 to 60 is enrolled, and about one-third of them regimented. They mult all provide themselves with arms, clothing, and accou- trements, and appear on the flated days for exercife ; and the several cantons and difriets mult be furnished with a fufficient train of artillery, and all the other implements of war. The Switzers of the several cantons are allowed to engage in the service of fuch foreign princes and flates as are in alliance with those cantons, or with whom they have made a previous agreement. Such flates, paying an annual fubfidy to the respective cantons, are allowed to make levies. Every man enlifts voluntarily, and for what number of years he pleafes ; at the expiration of which he is at liberty to return home. A great many thus always returning from foreign service, Switzerland is never unprovided with able and experienced officers and soldiers. With respect to their character, they are a brave, lionelt, hoofitable, hardy people ; very true to their engagements, friendly, and humane. In short, there is not a people in Europe whole national character is better. In their perfons they are generally tall, robuff, and well-made ; but their complexions are none of the beft, and thofe that live in the neighbourhood of the mountains are subject to wens. The women are laid to be generally handsome and well-thaped, fentible and modell, yet frank, cafy, and agreeable in conversation. Few of the peafants are miferably poor ; many of them are rich, efpecially in the Protefitant cantons, and that of Berne in particular.<x_0.9775><y_0.9289><class_Text>",
+ "reply": {
+  "id": "chatcmpl-f0dc1c86-7793-46d4-83f2-c95f9fa96451",
+  "object": "chat.completion",
+  "created": 1792322349,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4502><y_0.0031>S W I | 24<x_0.999><y_0.025><class_Page-header>\n\n<x_0.0371><y_0.0219>Switzerland,<x_0.1572><y_0.057><class_Caption>\n\n<x_0.1641><y_0.0234>parts of the country that border on Italy or France, a corrupt French or Italian prevails. The two predominant religions are Calvinifm and Popery. Of the former are the cantons of Zurich and Berne, the town of St Gall, Geneva, Muhliaufen, and Biel, the principality of Neufchatel, the greater part of Bafil, Schaffhaufen, the country of the Gri- fons, the Thurgau, Toggenburg, Glaris, and the Rhine valley; the frontiers of Appenzel, with a final part of Solo- thurn, and fome places in the countries of Baden and Sar- gans. The reik of the Swits cantons, allies and dependents, are Popih. For the education of youth there is an univer- fity at Bafil, and academies at Zurich, Berne, Laufanne, and Geneva, beides gymnasiums and fchoice illutres, both in the Popih and Proteitant cantons. There are alfo focietics among them for the improvement of the German language and the fenences.<x_0.9746><y_0.2367><class_Text>\n\n<x_0.1631><y_0.2359>The principal manufactures are fluff and tobacco, linen of feveral forts, lace, thread, filk, and worfted flockings, neckcloths, cotton fluffs, gloves, handkerchiefs, filks of feveral forts, gold and silver brocades, a variety of woollen manu- factures, hats, paper, leather of all forts, earthen wares, por- celain, toys, watches, clocks, and other hardwares, &c. The trade of Switzerland is greatly promoted by many navigable lakes and rivers. In fome of the above manufactures, and in cheefe, butter, fleep, horfes, black cattle, hides, and films, the exports are confiderable ; and as the imports are chiefly grain and fall, with fome American and Afiatic goods, there is probably a large balance in their favour. In fome parts of Switzerland drefs is reflrained by fumptuary laws.<x_0.9756><y_0.4109><class_Text>\n\n<x_0.1621><y_0.4094>The public revenues are in general very inconfiderable, ariling chiefly from the ufual regalia, appropriated every- where to the foveign, the demefnes, and public granaries, voluntary contributions, the fale of fall, and a land-tax ; in the Protefitant cantons, from the church lands alfo that were feized at the Reformation. Except in Zurich, Berne, Bafil, and Schaffhaufen, where the people are more indultrious, have a greater trade, and are richer than in the others, they defray the ordinary charges, and that is all.<x_0.9766><y_0.5297><class_Text>\n\n<x_0.1602><y_0.5281>The cantons never keep any flooding troops, except for a few garrifons ; but their militia is reckoned to be the belt regulated of any in Europe. Every male from 16 to 60 is enrolled, and about one-third of them regimented. They mult all provide themselves with arms, clothing, and accou- trements, and appear on the flated days for exercife ; and the several cantons and difriets mult be furnished with a fufficient train of artillery, and all the other implements of war. The Switzers of the several cantons are allowed to engage in the service of fuch foreign princes and flates as are in alliance with those cantons, or with whom they have made a previous agreement. Such flates, paying an annual fubfidy to the respective cantons, are allowed to make levies. Every man enlifts voluntarily, and for what number of years he pleafes ; at the expiration of which he is at liberty to return home. A great many thus always returning from foreign service, Switzerland is never unprovided with able and experienced officers and soldiers. With respect to their character, they are a brave, lionelt, hoofitable, hardy people ; very true to their engagements, friendly, and humane. In short, there is not a people in Europe whole national character is better. In their perfons they are generally tall, robuff, and well-made ; but their complexions are none of the beft, and thofe that live in the neighbourhood of the mountains are subject to wens. The women are laid to be generally handsome and well-thaped, fentible and modell, yet frank, cafy, and agreeable in conversation. Few of the peafants are miferably poor ; many of them are rich, efpecially in the Protefitant cantons, and that of Berne in particular.<x_0.9775><y_0.9289><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2754,
+   "completion_tokens": 1082,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

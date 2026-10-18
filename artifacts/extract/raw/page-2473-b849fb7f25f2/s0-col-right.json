@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "dec0ccd166880f71b97c78f1ec4b3c108514517e9078aec372ef8d4d44ef65fb",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "d81afaa637b921d8686780569657594b60aad8dc529e6d9f425d5304fcc3ae1a",
+  "image_bytes": 2484570,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2473",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4783,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.4883
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.4833
+   ],
+   [
+    0.1667,
+    0.25,
+    0.4833
+   ],
+   [
+    0.25,
+    0.3333,
+    0.4833
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.4833
+   ],
+   [
+    0.4167,
+    0.5,
+    0.4833
+   ],
+   [
+    0.5,
+    0.5833,
+    0.4833
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.4833
+   ],
+   [
+    0.6667,
+    0.75,
+    0.4833
+   ],
+   [
+    0.75,
+    0.8333,
+    0.4833
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.4833
+   ],
+   [
+    0.9167,
+    1.0,
+    0.4833
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2692,
+  "completion_tokens": 1020,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.3,
+ "created_at": "2026-10-18T11:11:58+00:00",
+ "content": "<x_0.0117><y_0.043>E R I<x_0.5732><y_0.0672><class_Title>\n\n<x_0.0273><y_0.0688>ERASED, in heraldry. See ARRACHE.<x_0.6504><y_0.0859><class_Text>\n\n<x_0.0264><y_0.0844>ERECTION, in a general fenfe, the art of railing or e- levating any thing, as the ereclion of a perpendicular, &c. It is alfof ufed in a figurative fenfe, as the erecction of a bithopric, marquifate, &c.<x_0.8486><y_0.143><class_Text>\n\n<x_0.0254><y_0.1406>ERECTOR CLITORIS. See ClITORIS.<x_0.6562><y_0.1562><class_Text>\n\n<x_0.0244><y_0.1547>ERECTOR PENIS. Sce Penis.<x_0.501><y_0.1695><class_Text>\n\n<x_0.0234><y_0.1688>EREMIT. See HERMIT.<x_0.4375><y_0.1836><class_Text>\n\n<x_0.0225><y_0.1828>EREMITA, in zoology. See SCARABNUS.<x_0.7061><y_0.1992><class_Text>\n\n<x_0.0215><y_0.1969>ERFURT, a large and beautiful city of Upper Saxony in Germany, capital of Thuringia, and fubject to the elefor of Mentz: E. long. 11° 6', N. lat. 51°.<x_0.8467><y_0.2414><class_Text>\n\n<x_0.0205><y_0.2383>ERGOT, in farriery, is a flub, like a piece of foft horn, about the bignefs of a chefnut, placed behind and be- low the pattern-joint, and commonly hid under the tuft of the fetlock.<x_0.8457><y_0.2953><class_Text>\n\n<x_0.0195><y_0.2945>ERICA, or HEATH, in botany. a genus of the ochan- dria monogynia clafs. The calix conflts of four leaves, and the corolla of four legments; the filaments are inferred into the receptacle; the antherx are bifid; and the capfule has four cells. There are thirty-eight species, five of which are natives of Britain, viz the vulgaris, or common heath; the cinerea, or fine-leaved heath; the tetralix, or crofs-leaved heath; the cilia-ris, or rough-leaved heath; and the multiflora, or fir-leaved health.<x_0.8477><y_0.4359><class_Text>\n\n<x_0.0186><y_0.4344>ERIDANUS, in altronomy. See Vol. I. p. 487.<x_0.7754><y_0.4516><class_Text>\n\n<x_0.0176><y_0.4492>ERIE, a vaft lake to the weflward of Penfilvania, in North America, fituated between 80° and 87° W. long, and between 41° and 42° N lat.<x_0.8438><y_0.4938><class_Text>\n\n<x_0.0166><y_0.4914>ERIGERON, or SWEET FLA BANE, in botany, a genus of the fyngencfia polygamia fuperflua clafs. The receptacle is naked; the pappus is liairy; and the ca-dii of the corolla are linear and very narrow. There are fixteen fpecies, two of which are natives of Britain, viz. the acre, or blue-flowered flea-bane; and the ca-nadenfe, or Canada flea-bane.<x_0.8447><y_0.5914><class_Text>\n\n<x_0.0156><y_0.5891>ERINACEUS, or Hedge-hog, in zoology, a genus of quadrupeds belonging to the order of ferae, the characters of which are thefe : they have two foreteeth in the upper-jaw, at a conferable diflance from one another, and two in the under jaw, lefs diflant; and they have two recumbent dog-teeth, one on each fide. There are three fpecies, viz. 1. The europeus, or common hedge-hog, with round ears, and crefted no-frils. It is about nine inches long; the upper part of the body is totally covered with sharp prickles, and the under part is covered with hair. The hedge-hog, even when flanding on his legs, has a very ugly affect. His body is an oblong mafs, convex above, terminated on the fore-part by a very harp muzzle, and mounted on four floor legs, of which nothing appears but the feet, and the tail is not discernible. His ears are broad, round, and thort; and his eyes are fmall and protuberant. The length of his body, from the point of the muzzle to the anus, is about nine inches.<x_0.8428><y_0.8578><class_Text>\n\n<x_0.0479><y_0.8562>The hedge-hog has a very uncommon method of defending himself from the attacks of other animals: being poffelfed of little strength or agility, he does not attempt to fly from or affail his enemies; but ereclts his brillies, and rolls himself up like a ball, expoing no<x_0.8418><y_0.9305><class_Text>\n\n<x_0.7568><y_0.9297>part<x_0.835><y_0.9445><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-bb89f548-acea-47c0-8e9e-a93f9a9be1d1",
+  "object": "chat.completion",
+  "created": 1792321917,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0117><y_0.043>E R I<x_0.5732><y_0.0672><class_Title>\n\n<x_0.0273><y_0.0688>ERASED, in heraldry. See ARRACHE.<x_0.6504><y_0.0859><class_Text>\n\n<x_0.0264><y_0.0844>ERECTION, in a general fenfe, the art of railing or e- levating any thing, as the ereclion of a perpendicular, &c. It is alfof ufed in a figurative fenfe, as the erecction of a bithopric, marquifate, &c.<x_0.8486><y_0.143><class_Text>\n\n<x_0.0254><y_0.1406>ERECTOR CLITORIS. See ClITORIS.<x_0.6562><y_0.1562><class_Text>\n\n<x_0.0244><y_0.1547>ERECTOR PENIS. Sce Penis.<x_0.501><y_0.1695><class_Text>\n\n<x_0.0234><y_0.1688>EREMIT. See HERMIT.<x_0.4375><y_0.1836><class_Text>\n\n<x_0.0225><y_0.1828>EREMITA, in zoology. See SCARABNUS.<x_0.7061><y_0.1992><class_Text>\n\n<x_0.0215><y_0.1969>ERFURT, a large and beautiful city of Upper Saxony in Germany, capital of Thuringia, and fubject to the elefor of Mentz: E. long. 11° 6', N. lat. 51°.<x_0.8467><y_0.2414><class_Text>\n\n<x_0.0205><y_0.2383>ERGOT, in farriery, is a flub, like a piece of foft horn, about the bignefs of a chefnut, placed behind and be- low the pattern-joint, and commonly hid under the tuft of the fetlock.<x_0.8457><y_0.2953><class_Text>\n\n<x_0.0195><y_0.2945>ERICA, or HEATH, in botany. a genus of the ochan- dria monogynia clafs. The calix conflts of four leaves, and the corolla of four legments; the filaments are inferred into the receptacle; the antherx are bifid; and the capfule has four cells. There are thirty-eight species, five of which are natives of Britain, viz the vulgaris, or common heath; the cinerea, or fine-leaved heath; the tetralix, or crofs-leaved heath; the cilia-ris, or rough-leaved heath; and the multiflora, or fir-leaved health.<x_0.8477><y_0.4359><class_Text>\n\n<x_0.0186><y_0.4344>ERIDANUS, in altronomy. See Vol. I. p. 487.<x_0.7754><y_0.4516><class_Text>\n\n<x_0.0176><y_0.4492>ERIE, a vaft lake to the weflward of Penfilvania, in North America, fituated between 80° and 87° W. long, and between 41° and 42° N lat.<x_0.8438><y_0.4938><class_Text>\n\n<x_0.0166><y_0.4914>ERIGERON, or SWEET FLA BANE, in botany, a genus of the fyngencfia polygamia fuperflua clafs. The receptacle is naked; the pappus is liairy; and the ca-dii of the corolla are linear and very narrow. There are fixteen fpecies, two of which are natives of Britain, viz. the acre, or blue-flowered flea-bane; and the ca-nadenfe, or Canada flea-bane.<x_0.8447><y_0.5914><class_Text>\n\n<x_0.0156><y_0.5891>ERINACEUS, or Hedge-hog, in zoology, a genus of quadrupeds belonging to the order of ferae, the characters of which are thefe : they have two foreteeth in the upper-jaw, at a conferable diflance from one another, and two in the under jaw, lefs diflant; and they have two recumbent dog-teeth, one on each fide. There are three fpecies, viz. 1. The europeus, or common hedge-hog, with round ears, and crefted no-frils. It is about nine inches long; the upper part of the body is totally covered with sharp prickles, and the under part is covered with hair. The hedge-hog, even when flanding on his legs, has a very ugly affect. His body is an oblong mafs, convex above, terminated on the fore-part by a very harp muzzle, and mounted on four floor legs, of which nothing appears but the feet, and the tail is not discernible. His ears are broad, round, and thort; and his eyes are fmall and protuberant. The length of his body, from the point of the muzzle to the anus, is about nine inches.<x_0.8428><y_0.8578><class_Text>\n\n<x_0.0479><y_0.8562>The hedge-hog has a very uncommon method of defending himself from the attacks of other animals: being poffelfed of little strength or agility, he does not attempt to fly from or affail his enemies; but ereclts his brillies, and rolls himself up like a ball, expoing no<x_0.8418><y_0.9305><class_Text>\n\n<x_0.7568><y_0.9297>part<x_0.835><y_0.9445><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2692,
+   "completion_tokens": 1020,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

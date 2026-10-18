@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "a07eeec5e01ff113213206d88b5952291126a0d6953644058c38afd4c3b3cc6d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "10ba7d3080197d95f5f7d8e298ec860e4f85b7286615303a458bc95f05454338",
+  "image_bytes": 2127100,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:217",
+  "variant": "s0-col-right",
+  "crop": [
+   0.475,
+   0.0553,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0553,
+    0.1412,
+    0.48
+   ],
+   [
+    0.1412,
+    0.2271,
+    0.48
+   ],
+   [
+    0.2271,
+    0.3129,
+    0.48
+   ],
+   [
+    0.3129,
+    0.3988,
+    0.48
+   ],
+   [
+    0.3988,
+    0.4847,
+    0.48
+   ],
+   [
+    0.4847,
+    0.5706,
+    0.48
+   ],
+   [
+    0.5706,
+    0.6565,
+    0.48
+   ],
+   [
+    0.6565,
+    0.7424,
+    0.48
+   ],
+   [
+    0.7424,
+    0.8282,
+    0.48
+   ],
+   [
+    0.8282,
+    0.9141,
+    0.48
+   ],
+   [
+    0.9141,
+    1.0,
+    0.48
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2668,
+  "completion_tokens": 868,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.92,
+ "created_at": "2026-10-18T11:08:57+00:00",
+ "content": "<x_0.0156><y_0.0>which in another part of the place may be formed on Arcadian ideas; or even to be fulltituted in their feed, if they are omitted.<x_0.873><y_0.0422><class_Text>\n\n<x_0.0166><y_0.0391>3: A part may alfo be free from either of thefe imita- Of a fine lative characters, and laid out in a common limple farm, Some of the greatest beauties of nature are to be found in the fields, and attend an ordinary flate of cultiva- tion : wood and water may there be exhibited in feveral forms and difpoitions; we may enlarge or divide the inclofures; and give them fuch shapes and boundaries as we pleafe; every one may be an agreeable fpot; together, they may compote beautiful views; the arable, the pature, and the mead, may succeed one another; and now and then a little wild may be intermixed without impropriety; every beauty, in hort, which is not unusual in an included country, whether it arife from neglect or improvement, is here in its place.<x_0.7383><y_0.2398><class_Text>\n\n<x_0.0146><y_0.2383>The buildings, alfo, which are frequent in fuch a country, are often beautiful objects; the church and the manfion are confiderable; the farm-yard itself, if an advantageous situation be chosen for it; if the ricks, and the barns, and the out-honfes, are ranged with any delign to form them into groups, and if they are properly blended with trees; may be made a pictu- refque composition. Many of them may be detached from the groupe, and disperfed about the grounds: the dove-cote, or the diary, may be separated from the rest; they may be elegant in their forms, and placed wherever they will have the best effect. A common barn, accompanied by a clump, is fometimes pleafing at a distance; a Dutch barn is fo when near; and an hay-flack is generally an agreeable circumference in any potition. Each of thefe may be fingle; and befides thefe, all kinds of cottages are proper. Among fo many buildings, fome may be converted to other purposes than their construction denotes; and, whatever be their exterior, may within be made agreeable retreats, for refreshment, indulgence, or shelter.<x_0.7354><y_0.5359><class_Text>\n\n<x_0.0137><y_0.5352>With fuch opportunities of improvement, even to decoration within itself, and with advantages of pro- fpect into the country about it, a limple farm may undoubtedly be delightful. It will be particularly acceptable to the owner, if it be clofe to his park or his garden: the objects which constantly remind him of his rank, impole a kind of contraint; and he feels himself relieved, by retiring fometimes from the fplendor of a feat into the limplicity of a farm: it is more than a variety of feae; it is a temporary change of situation in life, which has all the charms of novelty, eafe, and tranquillity, to recommend it. A place, therefore, can hardly be deemed perfect, which is not provided with fuch a retreat. But if it be the whole of the place, it feems inadequate to the manfion: a vi- fitor is difappointed; the matter is diffusified; he is not sufficiently diltinguified from his tenants; he miffes the appendages incidental to his feat and his fortune; and is hurt at the familiarity of his grounds with the country about them. A palloral or an ancient farm is a little above the common level; but even thefe, if brought clofe up at the door, fet the houle in a field, where it always appears to be neglected and naked. Some degree of polith and ornament is expected in its immediate environs; and a garden, though it be but a final one, fhould be interpoiled between the manfion and any species of farm.<x_0.7344><y_0.9156><class_Text>\n\n<x_0.3428><y_0.9141>02 4. A<x_0.7295><y_0.932><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-a55bf43b-cf3b-4986-8b8f-f25076a6f576",
+  "object": "chat.completion",
+  "created": 1792321736,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0156><y_0.0>which in another part of the place may be formed on Arcadian ideas; or even to be fulltituted in their feed, if they are omitted.<x_0.873><y_0.0422><class_Text>\n\n<x_0.0166><y_0.0391>3: A part may alfo be free from either of thefe imita- Of a fine lative characters, and laid out in a common limple farm, Some of the greatest beauties of nature are to be found in the fields, and attend an ordinary flate of cultiva- tion : wood and water may there be exhibited in feveral forms and difpoitions; we may enlarge or divide the inclofures; and give them fuch shapes and boundaries as we pleafe; every one may be an agreeable fpot; together, they may compote beautiful views; the arable, the pature, and the mead, may succeed one another; and now and then a little wild may be intermixed without impropriety; every beauty, in hort, which is not unusual in an included country, whether it arife from neglect or improvement, is here in its place.<x_0.7383><y_0.2398><class_Text>\n\n<x_0.0146><y_0.2383>The buildings, alfo, which are frequent in fuch a country, are often beautiful objects; the church and the manfion are confiderable; the farm-yard itself, if an advantageous situation be chosen for it; if the ricks, and the barns, and the out-honfes, are ranged with any delign to form them into groups, and if they are properly blended with trees; may be made a pictu- refque composition. Many of them may be detached from the groupe, and disperfed about the grounds: the dove-cote, or the diary, may be separated from the rest; they may be elegant in their forms, and placed wherever they will have the best effect. A common barn, accompanied by a clump, is fometimes pleafing at a distance; a Dutch barn is fo when near; and an hay-flack is generally an agreeable circumference in any potition. Each of thefe may be fingle; and befides thefe, all kinds of cottages are proper. Among fo many buildings, fome may be converted to other purposes than their construction denotes; and, whatever be their exterior, may within be made agreeable retreats, for refreshment, indulgence, or shelter.<x_0.7354><y_0.5359><class_Text>\n\n<x_0.0137><y_0.5352>With fuch opportunities of improvement, even to decoration within itself, and with advantages of pro- fpect into the country about it, a limple farm may undoubtedly be delightful. It will be particularly acceptable to the owner, if it be clofe to his park or his garden: the objects which constantly remind him of his rank, impole a kind of contraint; and he feels himself relieved, by retiring fometimes from the fplendor of a feat into the limplicity of a farm: it is more than a variety of feae; it is a temporary change of situation in life, which has all the charms of novelty, eafe, and tranquillity, to recommend it. A place, therefore, can hardly be deemed perfect, which is not provided with fuch a retreat. But if it be the whole of the place, it feems inadequate to the manfion: a vi- fitor is difappointed; the matter is diffusified; he is not sufficiently diltinguified from his tenants; he miffes the appendages incidental to his feat and his fortune; and is hurt at the familiarity of his grounds with the country about them. A palloral or an ancient farm is a little above the common level; but even thefe, if brought clofe up at the door, fet the houle in a field, where it always appears to be neglected and naked. Some degree of polith and ornament is expected in its immediate environs; and a garden, though it be but a final one, fhould be interpoiled between the manfion and any species of farm.<x_0.7344><y_0.9156><class_Text>\n\n<x_0.3428><y_0.9141>02 4. A<x_0.7295><y_0.932><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2668,
+   "completion_tokens": 868,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

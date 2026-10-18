@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "1e69a310ff80417c110f12d898a3293efa41842504dbfd1e46c4f41025c96305",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "7e5c42acb8b84cd4de5850232c4cf673f4897ca2db78eae4cf526d898359527c",
+  "image_bytes": 2531946,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2307",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0247,
+   0.51,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0247,
+    0.106,
+    0.4933
+   ],
+   [
+    0.106,
+    0.1872,
+    0.505
+   ],
+   [
+    0.1872,
+    0.2685,
+    0.505
+   ],
+   [
+    0.2685,
+    0.3498,
+    0.505
+   ],
+   [
+    0.3498,
+    0.4311,
+    0.505
+   ],
+   [
+    0.4311,
+    0.5124,
+    0.505
+   ],
+   [
+    0.5124,
+    0.5936,
+    0.505
+   ],
+   [
+    0.5936,
+    0.6749,
+    0.505
+   ],
+   [
+    0.6749,
+    0.7562,
+    0.505
+   ],
+   [
+    0.7562,
+    0.8375,
+    0.505
+   ],
+   [
+    0.8375,
+    0.9187,
+    0.505
+   ],
+   [
+    0.9187,
+    1.0,
+    0.505
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2659,
+  "completion_tokens": 987,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.56,
+ "created_at": "2026-10-18T11:21:15+00:00",
+ "content": "<x_0.3857><y_0.0047>**A L G [ 2**<x_0.9746><y_0.0273><class_Page-header>\n\n<x_0.0684><y_0.0258>_Algiers._<x_0.1963><y_0.043><class_Section-header>\n\n<x_0.2002><y_0.0266>for their valour against the enemies of Christianity. Even ladies of birth and character attended Charles in his expedition, and the wives and daughters of the officers and soldiers followed them with a defign to fettle in Barbary after the conquett was finified. All thefe meeting with a favourable wind, foon appeared before Algiers; every hip difplaying the Spanih colours on the ftern, and another at the head, with a crucifix to ferve them for a pilot.<x_0.9707><y_0.1492><class_Text>\n\n<x_0.0518><y_0.1383>15 Algiers in great con-fternation.<x_0.1875><y_0.1852><class_Section-header>\n\n<x_0.2021><y_0.1477>By this prodigious armament, the Algerines were thrown into the utmoft confternation. The city was furrounded only by a wall with fearce any outworks. The whole garrifon conflicted of 800 Turks and 6000 Moors, without fire-arms, and poorly diciplined and accou-tred; the reft of their forces being difperfed in the other provinces of the kingdom, to levy the ufual tribute on the Arabs and Moors. The Spaniards landed with out opposition, and immediately built a fort, under the cannon of which they encamped, and diverted the courte of a fpring which fupplied the city with water. Being now reduced to the utmoft diffrefs, Haffan received a fummons to furrender at discretion, on pain of being put to the fword with all the garrifon. The herald was ordered to extol the vaft power of the emperor both by fea and land, and to exhort him to return to the Christian religion. But to this Haffan only replied, that he must be a'madman who would pretend to advise an enemy, and that the advised muft fill act more madly who would take counfel of fuch an advifer. He was, however, on the point of furrendering the city, when advice was brought him that the forces belonging to the weltern government were in full march towards the place; upon which it was reloived to defend it to the utmoft. Charles, in the mean time, relying upon a general affault, kept a constant firing upon the town; which, from the weak defence made by the garrison, he looked upon as already in his hands. But while the _dowwan_, or Algerine fenate, were deliberating on the moft proper means of obtaining an honourable capitulation, a mad prophet, attended by a multitude of people, entered the affembly, and foretold the fpeedy detruction of the Spaniards before the end of the moon, exhorting the inhabitants to hold out till that time. This prediction was foon accomplished in a very furpriling and unexpected manner: for, on the 28<sup>th</sup>-of October 1541, a dreadful florm of wind, rain, and hail, arofe from the north, accompanied with violent thocks of earthquakes, and a difinal and universal darknets both by fea and land; fo that the fun, moon, and elements, feemed to combine together for the destruction of the Spaniards. In that one night, fome fay in lefs than half an hour, 86 fhips and 15 galleys were destroyed, with all their crews and military litores; by which the army on shore was deprived of all means of fulfilling in thefe parts. Their camp alfo, which spread itself along the plain under the fort, was laid quite under water by the torrents which defended from the neighbouring hills. Many of the troops, by trying to remove into fome better situation, were cut in pieces by the Moors and Arabs; while several galleys, and other veffels, endeavouring to gain fome neighbour ing creeks along the coafts, were immediately plunder ed, and their crews maffacred by the inhabitants.<x_0.9736><y_0.8703><class_Text>\n\n<x_0.0596><y_0.5117>16 Prevented by a mad prophet from foreignering.<x_0.1885><y_0.582><class_Section-header>\n\n<x_0.0605><y_0.6977>Spanih fleet deftroyed by a form.<x_0.21><y_0.743><class_Section-header>\n\n<x_0.2061><y_0.8695>The next morning, Charles beheld the fea covered with the fragments of fo many fhips, and the bodies of Vol. I.<x_0.9727><y_0.9102><class_Text>",
+ "reply": {
+  "id": "chatcmpl-55d745f5-80da-4afb-bf5e-e2ef8199b530",
+  "object": "chat.completion",
+  "created": 1792322474,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.3857><y_0.0047>**A L G [ 2**<x_0.9746><y_0.0273><class_Page-header>\n\n<x_0.0684><y_0.0258>_Algiers._<x_0.1963><y_0.043><class_Section-header>\n\n<x_0.2002><y_0.0266>for their valour against the enemies of Christianity. Even ladies of birth and character attended Charles in his expedition, and the wives and daughters of the officers and soldiers followed them with a defign to fettle in Barbary after the conquett was finified. All thefe meeting with a favourable wind, foon appeared before Algiers; every hip difplaying the Spanih colours on the ftern, and another at the head, with a crucifix to ferve them for a pilot.<x_0.9707><y_0.1492><class_Text>\n\n<x_0.0518><y_0.1383>15 Algiers in great con-fternation.<x_0.1875><y_0.1852><class_Section-header>\n\n<x_0.2021><y_0.1477>By this prodigious armament, the Algerines were thrown into the utmoft confternation. The city was furrounded only by a wall with fearce any outworks. The whole garrifon conflicted of 800 Turks and 6000 Moors, without fire-arms, and poorly diciplined and accou-tred; the reft of their forces being difperfed in the other provinces of the kingdom, to levy the ufual tribute on the Arabs and Moors. The Spaniards landed with out opposition, and immediately built a fort, under the cannon of which they encamped, and diverted the courte of a fpring which fupplied the city with water. Being now reduced to the utmoft diffrefs, Haffan received a fummons to furrender at discretion, on pain of being put to the fword with all the garrifon. The herald was ordered to extol the vaft power of the emperor both by fea and land, and to exhort him to return to the Christian religion. But to this Haffan only replied, that he must be a'madman who would pretend to advise an enemy, and that the advised muft fill act more madly who would take counfel of fuch an advifer. He was, however, on the point of furrendering the city, when advice was brought him that the forces belonging to the weltern government were in full march towards the place; upon which it was reloived to defend it to the utmoft. Charles, in the mean time, relying upon a general affault, kept a constant firing upon the town; which, from the weak defence made by the garrison, he looked upon as already in his hands. But while the _dowwan_, or Algerine fenate, were deliberating on the moft proper means of obtaining an honourable capitulation, a mad prophet, attended by a multitude of people, entered the affembly, and foretold the fpeedy detruction of the Spaniards before the end of the moon, exhorting the inhabitants to hold out till that time. This prediction was foon accomplished in a very furpriling and unexpected manner: for, on the 28<sup>th</sup>-of October 1541, a dreadful florm of wind, rain, and hail, arofe from the north, accompanied with violent thocks of earthquakes, and a difinal and universal darknets both by fea and land; fo that the fun, moon, and elements, feemed to combine together for the destruction of the Spaniards. In that one night, fome fay in lefs than half an hour, 86 fhips and 15 galleys were destroyed, with all their crews and military litores; by which the army on shore was deprived of all means of fulfilling in thefe parts. Their camp alfo, which spread itself along the plain under the fort, was laid quite under water by the torrents which defended from the neighbouring hills. Many of the troops, by trying to remove into fome better situation, were cut in pieces by the Moors and Arabs; while several galleys, and other veffels, endeavouring to gain fome neighbour ing creeks along the coafts, were immediately plunder ed, and their crews maffacred by the inhabitants.<x_0.9736><y_0.8703><class_Text>\n\n<x_0.0596><y_0.5117>16 Prevented by a mad prophet from foreignering.<x_0.1885><y_0.582><class_Section-header>\n\n<x_0.0605><y_0.6977>Spanih fleet deftroyed by a form.<x_0.21><y_0.743><class_Section-header>\n\n<x_0.2061><y_0.8695>The next morning, Charles beheld the fea covered with the fragments of fo many fhips, and the bodies of Vol. I.<x_0.9727><y_0.9102><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2659,
+   "completion_tokens": 987,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

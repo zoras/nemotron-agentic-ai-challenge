@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "02418a688ee1aaf2bc73e50e01189939d9cf5f857514e5b035ef83e03ecefc78",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "44c54a472bca085a3f349891cc5649c00fd89ffcb1e46a8ec36aa777b03953e7",
+  "image_bytes": 2203228,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2131",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4383,
+   0.0325,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0325,
+    0.1131,
+    0.4483
+   ],
+   [
+    0.1131,
+    0.1938,
+    0.4433
+   ],
+   [
+    0.1938,
+    0.2744,
+    0.4433
+   ],
+   [
+    0.2744,
+    0.355,
+    0.4433
+   ],
+   [
+    0.355,
+    0.4356,
+    0.4433
+   ],
+   [
+    0.4356,
+    0.5162,
+    0.4433
+   ],
+   [
+    0.5162,
+    0.5969,
+    0.4433
+   ],
+   [
+    0.5969,
+    0.6775,
+    0.4433
+   ],
+   [
+    0.6775,
+    0.7581,
+    0.4433
+   ],
+   [
+    0.7581,
+    0.8387,
+    0.4433
+   ],
+   [
+    0.8387,
+    0.9194,
+    0.4433
+   ],
+   [
+    0.9194,
+    1.0,
+    0.4433
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2958,
+  "completion_tokens": 1030,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 3.13,
+ "created_at": "2026-10-18T11:21:02+00:00",
+ "content": "<x_0.0117><y_0.0055>53 I BOM<x_0.5264><y_0.0258><class_Title>\n\n<x_0.0127><y_0.025>cocoa-nut tree itself, not all the minute deferiptions I\nhave met with in many authors feem to me to come up\nto the reality of its wonderful properties and ufe. The\ncultivation of it is extremely cafy, by means of chan-\nnels conveying water to the roots, and by the manure\nalready mentioned laid round them. An owner of 200\ncocoa-nut trees is fuppofed to have a competency to\nlive on.<x_0.7051><y_0.1375><class_Text>\n\n<x_0.0234><y_0.1352>\" As to the rice fields, they differ in value, accor-\nding to the finenefs and quantity of rice they produce.\nThe growth of this grain has a particularity not un-\nworthy of notice, viz. that as it loves a watery foil, fo\nto whatever height the water rifes, wherever it is\nplanted, the growth of the rice keeps measure with it,\neven to that of 12 and 14 feet; the fummit always ap-\npearing above the surface of the water. It is alfo re-\nmarked, that the eating of new rice affects the eyes.\nThe fact is certain, though the physical reason of it is\nunknown.<x_0.7021><y_0.2852><class_Text>\n\n<x_0.0225><y_0.2844>\" Here and there are interfperfed fome few _brab_\ntrees, or rather wild palm trees (the word _brah_ being\nderived from _brabs_, which in the Portuguese fignifies\nwild.) They bear an infipid kind of fruit, about the\nbignefs of a common pear; but the chief profit from\nthem is the toddy, or liquor drawn from them by in-\ncifions at the top, of which the arrack is reckoned bet-\nter than that produced by the cocoa-nut trees. They\nare generally near the fea-fide, as they delight moft in\na fandy foil. It is on this tree that the _toddy birds_, fo\ncalled from their attachment to it, make their exqui-\nlitely curious nefts, wrought out of the thinneft reeds\nand filaments of branches, with an inimitable mecha-\nnifm. The birds themselves are about the fize of a\npartridge, but are of no value either for plumage, fong,\nor the table.<x_0.7012><y_0.5023><class_Text>\n\n<x_0.0205><y_0.5016>\" This illand is a strong influence of the benefits of\na good government, and a numerous population, by\nnot a fpot of it remaining uncultivated: fo that tho'\nit is far from producing sufficient for the confumption\nof its inhabitants, and notwithlanding its many difad-\nvantages of situation and foil, it yields incomparably\nmore than the adjacent illand of Salfette.\"<x_0.6904><y_0.5984><class_Text>\n\n<x_0.0186><y_0.5977>Among the curiosities of Bombay Mr Ives mentions\na large _terapin_ or land tortoife kept at the governor's\nhoufe, the age of which was upwards of 200 years.\nFrogs, which abound every where through the Eaft\nIndies, are very large at Bombay. Our author law\none that measured 22 inches from the extremities of\nthe fore and hind feet when extended; and he fuppo-\nfes that its weight would not have been left than four\nor five pounds. On the fea-thore round the illand are\na great variety of beautiful shells, particularly the fort\ncalled _ventle-traps_ or _vendle-traps_, held in great e-\nfeem among the ladies fome time ago. Several pounds\nSterling are fold to have been given by a _virtuofs_ for\none of thefe hells when the Commodore Leflie’s col-\nlection of hells was fold by auction.<x_0.6865><y_0.8016><class_Text>\n\n<x_0.0166><y_0.8008>Mr Ives enumerates the following kinds of fnakes\nfound on this illand and other parts of the British em-\npire in the Eaft Indies. 1. The _cobra de capella_, grow-\ning from four to eight or nine feet long. They kill\nby their bite in 15 minutes. 2. The _cobra manila_ is\na fmall bluith fnake, of the fize of a man's little finger,\nand about a foot long, frequently teen about old walls.\nA species of thefe found at Bombay kill much fooner<x_0.6836><y_0.9109><class_Text>\n\n<x_0.6807><y_0.7961>7. Different\nkinds of\nferpents\nfound here.<x_0.8027><y_0.85><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-7fecac4d-27b8-4686-a54d-081095b6e334",
+  "object": "chat.completion",
+  "created": 1792322461,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0117><y_0.0055>53 I BOM<x_0.5264><y_0.0258><class_Title>\n\n<x_0.0127><y_0.025>cocoa-nut tree itself, not all the minute deferiptions I\nhave met with in many authors feem to me to come up\nto the reality of its wonderful properties and ufe. The\ncultivation of it is extremely cafy, by means of chan-\nnels conveying water to the roots, and by the manure\nalready mentioned laid round them. An owner of 200\ncocoa-nut trees is fuppofed to have a competency to\nlive on.<x_0.7051><y_0.1375><class_Text>\n\n<x_0.0234><y_0.1352>\" As to the rice fields, they differ in value, accor-\nding to the finenefs and quantity of rice they produce.\nThe growth of this grain has a particularity not un-\nworthy of notice, viz. that as it loves a watery foil, fo\nto whatever height the water rifes, wherever it is\nplanted, the growth of the rice keeps measure with it,\neven to that of 12 and 14 feet; the fummit always ap-\npearing above the surface of the water. It is alfo re-\nmarked, that the eating of new rice affects the eyes.\nThe fact is certain, though the physical reason of it is\nunknown.<x_0.7021><y_0.2852><class_Text>\n\n<x_0.0225><y_0.2844>\" Here and there are interfperfed fome few _brab_\ntrees, or rather wild palm trees (the word _brah_ being\nderived from _brabs_, which in the Portuguese fignifies\nwild.) They bear an infipid kind of fruit, about the\nbignefs of a common pear; but the chief profit from\nthem is the toddy, or liquor drawn from them by in-\ncifions at the top, of which the arrack is reckoned bet-\nter than that produced by the cocoa-nut trees. They\nare generally near the fea-fide, as they delight moft in\na fandy foil. It is on this tree that the _toddy birds_, fo\ncalled from their attachment to it, make their exqui-\nlitely curious nefts, wrought out of the thinneft reeds\nand filaments of branches, with an inimitable mecha-\nnifm. The birds themselves are about the fize of a\npartridge, but are of no value either for plumage, fong,\nor the table.<x_0.7012><y_0.5023><class_Text>\n\n<x_0.0205><y_0.5016>\" This illand is a strong influence of the benefits of\na good government, and a numerous population, by\nnot a fpot of it remaining uncultivated: fo that tho'\nit is far from producing sufficient for the confumption\nof its inhabitants, and notwithlanding its many difad-\nvantages of situation and foil, it yields incomparably\nmore than the adjacent illand of Salfette.\"<x_0.6904><y_0.5984><class_Text>\n\n<x_0.0186><y_0.5977>Among the curiosities of Bombay Mr Ives mentions\na large _terapin_ or land tortoife kept at the governor's\nhoufe, the age of which was upwards of 200 years.\nFrogs, which abound every where through the Eaft\nIndies, are very large at Bombay. Our author law\none that measured 22 inches from the extremities of\nthe fore and hind feet when extended; and he fuppo-\nfes that its weight would not have been left than four\nor five pounds. On the fea-thore round the illand are\na great variety of beautiful shells, particularly the fort\ncalled _ventle-traps_ or _vendle-traps_, held in great e-\nfeem among the ladies fome time ago. Several pounds\nSterling are fold to have been given by a _virtuofs_ for\none of thefe hells when the Commodore Leflie’s col-\nlection of hells was fold by auction.<x_0.6865><y_0.8016><class_Text>\n\n<x_0.0166><y_0.8008>Mr Ives enumerates the following kinds of fnakes\nfound on this illand and other parts of the British em-\npire in the Eaft Indies. 1. The _cobra de capella_, grow-\ning from four to eight or nine feet long. They kill\nby their bite in 15 minutes. 2. The _cobra manila_ is\na fmall bluith fnake, of the fize of a man's little finger,\nand about a foot long, frequently teen about old walls.\nA species of thefe found at Bombay kill much fooner<x_0.6836><y_0.9109><class_Text>\n\n<x_0.6807><y_0.7961>7. Different\nkinds of\nferpents\nfound here.<x_0.8027><y_0.85><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2958,
+   "completion_tokens": 1030,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

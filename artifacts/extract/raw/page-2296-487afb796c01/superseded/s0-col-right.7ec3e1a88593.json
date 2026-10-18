@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "7ec3e1a8859384fac8b09333dca1dbf3516e2cd7091f35aaa2c006916630d108",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f4412b4d9802702bf9d8ed327c4aaa85a6b4abbff8d99d282ce588023dacc431",
+  "image_bytes": 1799862,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2296",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4517,
+   0.0655,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0655,
+    0.1505,
+    0.46
+   ],
+   [
+    0.1505,
+    0.2354,
+    0.4633
+   ],
+   [
+    0.2354,
+    0.3204,
+    0.4667
+   ],
+   [
+    0.3204,
+    0.4053,
+    0.4667
+   ],
+   [
+    0.4053,
+    0.4903,
+    0.47
+   ],
+   [
+    0.4903,
+    0.5752,
+    0.4717
+   ],
+   [
+    0.5752,
+    0.6602,
+    0.475
+   ],
+   [
+    0.6602,
+    0.7451,
+    0.4733
+   ],
+   [
+    0.7451,
+    0.8301,
+    0.475
+   ],
+   [
+    0.8301,
+    0.915,
+    0.475
+   ],
+   [
+    0.915,
+    1.0,
+    0.4567
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2934,
+  "completion_tokens": 1006,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.32,
+ "created_at": "2026-10-18T11:11:46+00:00",
+ "content": "<x_0.041><y_0.0>have reached the latitude of 83.—2. From the ten-\nmoay of Captain Cheyne, who gave anfwers to certain\nqueries drawn up by Mr Dalrymple concerning the po-\nlar feas; it appears that he had been in the latitude of\n82°.—3. One Mr Watt informed our author, that when\nhe was 17 years of age, at that time making his first\nvoyage with Captain M'Callam, a bold and kilful na-\nvigator, who commanded a Scotch whale-fishing fhip, as\nduring the time that the whales are fuppofed to copu-\nlate no fishing can be carried on, the captain relolved\nto employ that interval in attempting to reach the north\npole. He accordingly proceeded without the least ob-\nltruction to 83!, when the fea was not only open to\nthe northward, but they had feet no ice for the latt\nthree degrees; but while he fill advanced, the mate\ncomplained that the compafs was not fleady, and the\ncaptain was obliged with reluctance to give over his\nattempt.—4. Dr Campbell, the continuator of Harris’s\nvoyages, informed Mr Barrington, that Dr Dallie, a na-\ntive of Holland, being in his youth on board a Dutch\nflip of war which at that time was uffually feat to fu-\nperintend the Greenland fishery, the captain determined,\nlike the Scotchman above mentioned, to make an attempt\nto reach the pole during the interval between the first\nand fecund fisheries. He penetrated, according to the\nbeft of Dr Campbell's recollection, as far as 88°; when\nthe weather was warm, the fea free from ice, and rolling\nlike the bay of Bifcay. Dallie now prefied the captain\nto proceed: but he answered, that he had already gone\ntoo far, and thould be blamed in Holland for neglecting\nhis flation; upon which account he would fluffer no\njournal to be kept, but returned as foon as posible to\nSpitibergen.—5. In the year 1662-3, Mr Oldenburg,\nthen fecretary of the Royal Society, was ordered to re-\ngifter a paper, entitled \" Several Inquiries concerning\nGreenland, anfwered by Mr Gray, who had vifted\nthefe parts.\" The 10th of thefe queries is the follow-\ning: How near hath any one been known to approach\nthe pole? — I'he anfwer is, \" I once met upon the coalt\nof Greenland a Hollander that fwore he had been half\na degree from the pole, flowing me his journal, which\nwas alfa attefted by his mate; where they had feen no\nice or land, but all water.\"—6. In Captain Wood's ac-\ncount of a voyage in queft of the north-eat passage,\nwe have the following account of a Dutch flip which\nreached the latitude of 89°. \" Captain Goulden, who\nhad made above 30 voyages to Greenland, did relate to\nhis majefty, that being at Greenland fome 20 years be-\nfore, he was in company with two Hollanders to the\nearlward of Edge's iland; and that the whales not ap-\npearing on the shore, the Hollanders were determined to\ngo farther northward; and in a fortnight's time return-\ned, and gave it out that they had failed into the lati-\ntude 89°, and that they did not meet with any ice, but\na free and open fea, and that there run a very hollow\ngrown fea like that of the Bay of Bifcay. Mr Gould-\nen being not fatified with the bare relation, they pro-\nduced him four journals out of the two fhips, which\nteflified the fame, and that they all agreed within four\nminutes.”—7. In the Philofophical Transactions for\n1675 we have the following paffage: \" For it is well\nknown to all that fail northward, that moft of the north-\nern coats are frozen up for many leagues, though in the\nopen fea it is not fo, _no nor under the pole itself_, unless by\naccident.\" In which paffage the having reached the<x_0.7324><y_0.8727><class_Text>",
+ "reply": {
+  "id": "chatcmpl-585955ed-4f9c-4634-9390-dfae86a078b5",
+  "object": "chat.completion",
+  "created": 1792321905,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.041><y_0.0>have reached the latitude of 83.—2. From the ten-\nmoay of Captain Cheyne, who gave anfwers to certain\nqueries drawn up by Mr Dalrymple concerning the po-\nlar feas; it appears that he had been in the latitude of\n82°.—3. One Mr Watt informed our author, that when\nhe was 17 years of age, at that time making his first\nvoyage with Captain M'Callam, a bold and kilful na-\nvigator, who commanded a Scotch whale-fishing fhip, as\nduring the time that the whales are fuppofed to copu-\nlate no fishing can be carried on, the captain relolved\nto employ that interval in attempting to reach the north\npole. He accordingly proceeded without the least ob-\nltruction to 83!, when the fea was not only open to\nthe northward, but they had feet no ice for the latt\nthree degrees; but while he fill advanced, the mate\ncomplained that the compafs was not fleady, and the\ncaptain was obliged with reluctance to give over his\nattempt.—4. Dr Campbell, the continuator of Harris’s\nvoyages, informed Mr Barrington, that Dr Dallie, a na-\ntive of Holland, being in his youth on board a Dutch\nflip of war which at that time was uffually feat to fu-\nperintend the Greenland fishery, the captain determined,\nlike the Scotchman above mentioned, to make an attempt\nto reach the pole during the interval between the first\nand fecund fisheries. He penetrated, according to the\nbeft of Dr Campbell's recollection, as far as 88°; when\nthe weather was warm, the fea free from ice, and rolling\nlike the bay of Bifcay. Dallie now prefied the captain\nto proceed: but he answered, that he had already gone\ntoo far, and thould be blamed in Holland for neglecting\nhis flation; upon which account he would fluffer no\njournal to be kept, but returned as foon as posible to\nSpitibergen.—5. In the year 1662-3, Mr Oldenburg,\nthen fecretary of the Royal Society, was ordered to re-\ngifter a paper, entitled \" Several Inquiries concerning\nGreenland, anfwered by Mr Gray, who had vifted\nthefe parts.\" The 10th of thefe queries is the follow-\ning: How near hath any one been known to approach\nthe pole? — I'he anfwer is, \" I once met upon the coalt\nof Greenland a Hollander that fwore he had been half\na degree from the pole, flowing me his journal, which\nwas alfa attefted by his mate; where they had feen no\nice or land, but all water.\"—6. In Captain Wood's ac-\ncount of a voyage in queft of the north-eat passage,\nwe have the following account of a Dutch flip which\nreached the latitude of 89°. \" Captain Goulden, who\nhad made above 30 voyages to Greenland, did relate to\nhis majefty, that being at Greenland fome 20 years be-\nfore, he was in company with two Hollanders to the\nearlward of Edge's iland; and that the whales not ap-\npearing on the shore, the Hollanders were determined to\ngo farther northward; and in a fortnight's time return-\ned, and gave it out that they had failed into the lati-\ntude 89°, and that they did not meet with any ice, but\na free and open fea, and that there run a very hollow\ngrown fea like that of the Bay of Bifcay. Mr Gould-\nen being not fatified with the bare relation, they pro-\nduced him four journals out of the two fhips, which\nteflified the fame, and that they all agreed within four\nminutes.”—7. In the Philofophical Transactions for\n1675 we have the following paffage: \" For it is well\nknown to all that fail northward, that moft of the north-\nern coats are frozen up for many leagues, though in the\nopen fea it is not fo, _no nor under the pole itself_, unless by\naccident.\" In which paffage the having reached the<x_0.7324><y_0.8727><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2934,
+   "completion_tokens": 1006,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

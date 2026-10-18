@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "fc857526b126a1bfe8a613a2069a6bed2c50935ffc1b8a56a94e533ffb7052a0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "c51e57a2e9dd6f29e12735f3b6ec214f50285a847fc9704cdd42100916b14159",
+  "image_bytes": 2174406,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2001",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0718,
+   0.4633,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0718,
+    0.1562,
+    0.4583
+   ],
+   [
+    0.1562,
+    0.2406,
+    0.4583
+   ],
+   [
+    0.2406,
+    0.3249,
+    0.4583
+   ],
+   [
+    0.3249,
+    0.4093,
+    0.4583
+   ],
+   [
+    0.4093,
+    0.4937,
+    0.4583
+   ],
+   [
+    0.4937,
+    0.5781,
+    0.4583
+   ],
+   [
+    0.5781,
+    0.6625,
+    0.4583
+   ],
+   [
+    0.6625,
+    0.7469,
+    0.4583
+   ],
+   [
+    0.7469,
+    0.8312,
+    0.4583
+   ],
+   [
+    0.8312,
+    0.9156,
+    0.4583
+   ],
+   [
+    0.9156,
+    1.0,
+    0.4583
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2563,
+  "completion_tokens": 1019,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.4,
+ "created_at": "2026-10-18T11:11:30+00:00",
+ "content": "<x_0.1367><y_0.0>bers of black cattle and horfes are brought hither from Poland and Hungary for fale, thofe bred in the coun- try not being fullcient; but of heep, goats, game, and venifon, they have great plenty. As for wild beafts, here are lynxes, foxes, weafels, otters, and beavers. The rivers, lakes, and ponds, yield fifh of feveral forts, particularly furgeons feveral ells in length, and fallmon. Be- fides a number of smaller fireams to water this country, there is the Oder, which traverfes it almost from one end to the other; and the Viitula, which after a pretty long courfe through it enters Poland. The number of the cities and market-towns is laid to be about 200, the county of Glatz included, and that of the villages 5000. The inhabitants whoare computed to be about 1,821,065 are a mixture of Germans, Poles, and Moravians. The language generally fpoken is German; but in fome places the vulgar tongue is a dialect of the Selavonic. The flates conflit of the princes and dukes, and thofe called _flate-lords_, with the nobility, who are immediately fubject to the fovereign, and the reprefentatives of the chief cities; but fince the country fell under the dominion of the king of Pruffia, no diets have been held. The king, however, when he took poffeffion of the country, confirmed all the other privileges of the inhabitants. With respect to religion, not only Proteftants, but Pa- pills, Jews, and Greeks, enjoy full liberty of con- felence. The greateft part of Silefa lies in the diocefe of Brellaw, but fome part of it in the Polith diocefes of Pofen and Cracow. The bithop of Brellaw stands im- mediately under the pope with regard to fpirituals; but all ecclefiattical benefices, not excepting the fee of Bre- flaw, is in the king's gift. Befides Latin fchools, col- leges, and feminaries, at Brellaw is an univerity, and at Lignitz an academy for martial exercifes. The prim- cipal manufactures here are woollens, linens, and cot- tons of feveral forts, with hats, glafs-ware, gunpowder, and iron manufactures. Of thefe there is a confiderable exportation. Accounts are generally kept in rix-dollars, filver grofchens, and ducats. With respect to its revo- lutions and preferent government, it was long a part of the kingdom of Poland; afterwards it had feveral dukes and petty princes for its fovereigns, who by degrees became subject to the kings of Bohemia, until at latt King Charles IV. incorporated the whole duchy with Bohe- mia; and thus it continued in the poffeffion of the houle of Auftria, until the king of Pruffia in 1742, taking ad- vantage of the troubles that enfued upon the death of the emperor Charles VI. and pretending a kind of claim, wrefted a great part of it, together with the county of Glatz, from his daughter and heirefs Maria Therefa, the late emprefs dowager; fo that now only a fmall part of it is poffelfed by the houle of Auftria, and con- neected with the empire, the reft being governed by the king of Pruffia, without acknowledging any fort of dependence on the crown of Bohemia or the empire. For the administration of justice in all civil, criminal, and feudal cafes, and fuch as relate to the reve- nue, the king of Pruffia has eftablified three fupreme judicatories, to which an appeal lies from all the infe- rior ones, and from which, when the fum exceeds 500 rix-dollars, caufes may be moved to Berlin. The Lutheran churches and fchools are under the infpec- tion of the upper confitories, and thofe of the Pa- pifts under that of the bithop's court at Brellaw; but from both an appeal lies to the tribunal at Berlin.<x_0.9902><y_0.9211><class_Text>",
+ "reply": {
+  "id": "chatcmpl-ce448d21-3d6c-4fb1-a40c-113ad5ee49ae",
+  "object": "chat.completion",
+  "created": 1792321889,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1367><y_0.0>bers of black cattle and horfes are brought hither from Poland and Hungary for fale, thofe bred in the coun- try not being fullcient; but of heep, goats, game, and venifon, they have great plenty. As for wild beafts, here are lynxes, foxes, weafels, otters, and beavers. The rivers, lakes, and ponds, yield fifh of feveral forts, particularly furgeons feveral ells in length, and fallmon. Be- fides a number of smaller fireams to water this country, there is the Oder, which traverfes it almost from one end to the other; and the Viitula, which after a pretty long courfe through it enters Poland. The number of the cities and market-towns is laid to be about 200, the county of Glatz included, and that of the villages 5000. The inhabitants whoare computed to be about 1,821,065 are a mixture of Germans, Poles, and Moravians. The language generally fpoken is German; but in fome places the vulgar tongue is a dialect of the Selavonic. The flates conflit of the princes and dukes, and thofe called _flate-lords_, with the nobility, who are immediately fubject to the fovereign, and the reprefentatives of the chief cities; but fince the country fell under the dominion of the king of Pruffia, no diets have been held. The king, however, when he took poffeffion of the country, confirmed all the other privileges of the inhabitants. With respect to religion, not only Proteftants, but Pa- pills, Jews, and Greeks, enjoy full liberty of con- felence. The greateft part of Silefa lies in the diocefe of Brellaw, but fome part of it in the Polith diocefes of Pofen and Cracow. The bithop of Brellaw stands im- mediately under the pope with regard to fpirituals; but all ecclefiattical benefices, not excepting the fee of Bre- flaw, is in the king's gift. Befides Latin fchools, col- leges, and feminaries, at Brellaw is an univerity, and at Lignitz an academy for martial exercifes. The prim- cipal manufactures here are woollens, linens, and cot- tons of feveral forts, with hats, glafs-ware, gunpowder, and iron manufactures. Of thefe there is a confiderable exportation. Accounts are generally kept in rix-dollars, filver grofchens, and ducats. With respect to its revo- lutions and preferent government, it was long a part of the kingdom of Poland; afterwards it had feveral dukes and petty princes for its fovereigns, who by degrees became subject to the kings of Bohemia, until at latt King Charles IV. incorporated the whole duchy with Bohe- mia; and thus it continued in the poffeffion of the houle of Auftria, until the king of Pruffia in 1742, taking ad- vantage of the troubles that enfued upon the death of the emperor Charles VI. and pretending a kind of claim, wrefted a great part of it, together with the county of Glatz, from his daughter and heirefs Maria Therefa, the late emprefs dowager; fo that now only a fmall part of it is poffelfed by the houle of Auftria, and con- neected with the empire, the reft being governed by the king of Pruffia, without acknowledging any fort of dependence on the crown of Bohemia or the empire. For the administration of justice in all civil, criminal, and feudal cafes, and fuch as relate to the reve- nue, the king of Pruffia has eftablified three fupreme judicatories, to which an appeal lies from all the infe- rior ones, and from which, when the fum exceeds 500 rix-dollars, caufes may be moved to Berlin. The Lutheran churches and fchools are under the infpec- tion of the upper confitories, and thofe of the Pa- pifts under that of the bithop's court at Brellaw; but from both an appeal lies to the tribunal at Berlin.<x_0.9902><y_0.9211><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2563,
+   "completion_tokens": 1019,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

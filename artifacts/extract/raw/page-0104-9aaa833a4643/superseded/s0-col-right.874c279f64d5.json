@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "874c279f64d5ffc33f182e904483f4e38e4ec9f4272574ddc5e40f432a71457d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "bdd1bfde875f4d8bef27d1b78e6ea5904c9e77f9cbd27a75abe36e32610c4a7f",
+  "image_bytes": 2410695,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:104",
+  "variant": "s0-col-right",
+  "crop": [
+   0.44,
+   0.0593,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0593,
+    0.1448,
+    0.445
+   ],
+   [
+    0.1448,
+    0.2303,
+    0.445
+   ],
+   [
+    0.2303,
+    0.3159,
+    0.445
+   ],
+   [
+    0.3159,
+    0.4014,
+    0.4467
+   ],
+   [
+    0.4014,
+    0.4869,
+    0.4483
+   ],
+   [
+    0.4869,
+    0.5724,
+    0.4483
+   ],
+   [
+    0.5724,
+    0.6579,
+    0.4483
+   ],
+   [
+    0.6579,
+    0.7434,
+    0.4483
+   ],
+   [
+    0.7434,
+    0.829,
+    0.4483
+   ],
+   [
+    0.829,
+    0.9145,
+    0.4483
+   ],
+   [
+    0.9145,
+    1.0,
+    0.4483
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 3841,
+  "completion_tokens": 2041,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 3.84,
+ "created_at": "2026-10-18T11:08:54+00:00",
+ "content": "<x_0.0332><y_0.0031>_Greece.—The same as in France._<x_0.4111><y_0.0148><class_Text>\n\n<x_0.7637><y_0.0047>Weights<x_0.8672><y_0.0164><class_Text>\n\n<x_0.0059><y_0.0125>_Guiana (British).—In general the same as in Britain; but the following, originally introduced by the Dutch, are also used: the lb. = 1-09 lbs. avoird. ; and the ell of 26 inches = 27 British inches.<x_0.7568><y_0.0578><class_Text>\n\n<x_0.0068><y_0.0563>_Guiana (Dutch).—In general the same as in Holland, but chiefly upon the old system._<x_0.7549><y_0.0805><class_Text>\n\n<x_0.0049><y_0.0773>_Hamburg.—Of the weights, 128 drachmes = 32 loths = 16 oz._ = 2 marks = 1 lb. = 1-0682 lb. avoird. ; 112 lbs. = 8 lisponds = 1 centner = 119-64 lbs. avoird. ; and 5 centers = 2 shipfunds. Ten lbs. = 1 stone of wool or feathers = half a stone of flax. Of but- ter, 280 lbs. form the great, and 224 the small tonne. A pipe of oil is reckoned at 820 lbs. Gold and silver are weighed by the Cologne mark, and their fineness valued as explained under the head Germany. Of measures, 6 palms = 2 feet = 1 el = 22-578 Brit. inches. The Rhinland foot of engineers and surveyors = 12-36 Brit. inches. The Brabant ell, commonly used for piece goods, = 27-585 Brit. inches. Also 160 quarters = 40 stubgens = 20 viertels = 5 eimers = 4 ankers = 1 ahm = 31-87 Brit. gall. ; and 24 ankers or 6 ahms = 1 fuder. Of wine, 6 tierces = 4 ox-hofts or hogsheeds = 1 faas; but these are of various sizes. Of corn, 160 spints = 40 himtens = 20 faas = 10 scheffels = 1 wisp or wispel = 29 Brit. bushels; two wisps = 1 last of barley or oats = 7·25 Brit. quarters; and 3 wisps = 1 last of wheat or rye = 1 stock of barley or oats = 10·87 Brit. quarters.<x_0.7617><y_0.275><class_Text>\n\n<x_0.0088><y_0.2727>_Hanover.—The lb. = 1-073 lb. avoird. ; 112 lbs. = 1 centner; and 20 lbs. = 1 stone of flax or 2 stones of wool. Also 600 lbs. = 51 stubgens = 2 tonnes of honey; and 3360 lbs. = 240 lisponds = 12 shipfunds = 1 last. The Cologne mark is used for gold, sil- ver, and silk. Two feet = 1 el = 22-91 Brit. inches; the mile = 6'5676 Brit. miles. The morgen land measure = 2·5625 Brit. roods. Also 80 kannen = 40 stubgens = 4 ankers = 2·5 eimers = 1 ahm = 34-24 Brit. gallons; and 6 ahms = 4 oxhofts = 1 fuder of wine. Of corn, 96 himtens = 16 malters = 2 wisps or wispels = 1 last = 82 Brit. bushels.<x_0.7627><y_0.382><class_Text>\n\n<x_0.0137><y_0.3805>_Haytl.—Port-au-Prince.—Principally the old system of France, together with the old English wine gallon._<x_0.7607><y_0.4055><class_Text>\n\n<x_0.0146><y_0.4023>_Heese-Castel.—The lb. = 17•08 oz. avoird. The ell = 22·59 Brit. inches; the acre = •5894 Brit. acre; the liquid ohm = 34·94 Brit. gall. ; and 16 corn metzen = 4 himtens = 1 viertel = 4·42 Brit. bushels._<x_0.7646><y_0.4477><class_Text>\n\n<x_0.0166><y_0.4453>_Heese-Darvutadt.—Two lbs. = 1 French kilogramme = 2·20486 lbs. avoird. Ten feet = 1 klafter = 2·5 metres = 8·2023 Brit. feet; five ells = 3 metres = 3·2809 Brit. yds. ; four morgens = 1 hec- tare = 2·47114 Brit. acres. The liquid ohm = 160 litres = 35·22 Brit. gallons; the corn matter = 1·28 hectolitre = 3·522 Brit. bushels._<x_0.7656><y_0.5133><class_Text>\n\n<x_0.0176><y_0.5102>_Holland.—In 1820, the decimal system of France was introdu- ced, but with the old Dutch nomenclature, as explained under the head Belgium. Of the old weights still used in many places, 10,240 aas = 320 engels = 16 oz. = 2 marks = 1 Dutch lb. troy = 1·0851 lb. avoird. There are also 16 oz. in the commercial lb. = 1·0893 lb. avoird., and 100 commercial lbs. = 1 centner. The old Amsterdam foot = 11·15, and the ell = 27·08 Brit. inches; the Rhinland foot = 12·36, and the Flemish or Brabant ell = 27·58 Brit. inches. Nineteen Dutch leagues make one degree of the meridian.**<x_0.7666><y_0.6219><class_Text>\n\n<x_0.0186><y_0.6172>_Japan.—The weights are almost the same as in China. The line = 6·25 Brit. feet; but the measures of capacity have not been compared._<x_0.7676><y_0.6547><class_Text>\n\n<x_0.0195><y_0.65>_Java.—In this and the other Dutch colonies in India, the weights of China are ordinarily employed; but the pecul, instead of being exactly 133·33 lbs. avoird. Is = 135·625 lbs. Of rice, the coyang = 3581 lbs. avoird. and the timbang = 10 sacks = 5 peculs = 678·125 lbs. The Dutch troy mark of 9 reals, = 3798 Brit. troy grains, is used for gold and silver. The foot = 12·36, and the ell = 27·75 Brit. inches. The kanne, liquid measure, = '3282 Brit. gall., and 396 rands = 1 leaguer of arrack = 133·33 Brit. gall.; but 360 rands = 1 leaguer of wine.<x_0.7686><y_0.7523><class_Text>\n\n<x_0.0205><y_0.7461>_India.—Grain is generally sold by weight, as also liquids, except wines and spirits, which at all the three presidencies are sold by British measures. Of the Bengal weights, 940 chittacks = 40 seers = 1 factory maund = 74·67 lbs. avoird. or two thirds of a British cwt. The bazaar maund is one tenth greater than the fac-tory, and similarly divided. Gold and silver are weighed by the new tola or sicca of 180 grains troy. Two cubits = 1 guz = 1 Brit. yd. The coss or mile of Bengal = 2000 yards, and 1600 sq. yds. = 20 cottahs = 1 biggah. At Bombay 40 seers = 1 maund = one quarter of a British cwt., and 20 maunds = 1 candy = 5 cwts., which in corn is counted at 24·5 Brit. bushels. At Madras, 320 pollams = 8 vis = 1 maund = 25 lbs. avoird., and 20 maunds = 1 candy. The covid = 18·6 inches, but the British yard is used for cloth ; and in land measure, 24 maunies = 1 cawney = 6400 Brit. sq. yds. Also 320 measures = 400 marals = 80 parahs = 1 garse<x_0.7705><y_0.9172><class_Text>",
+ "reply": {
+  "id": "chatcmpl-b3d3465f-f1ce-4e38-a797-d25e9a7dabd1",
+  "object": "chat.completion",
+  "created": 1792321732,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0332><y_0.0031>_Greece.—The same as in France._<x_0.4111><y_0.0148><class_Text>\n\n<x_0.7637><y_0.0047>Weights<x_0.8672><y_0.0164><class_Text>\n\n<x_0.0059><y_0.0125>_Guiana (British).—In general the same as in Britain; but the following, originally introduced by the Dutch, are also used: the lb. = 1-09 lbs. avoird. ; and the ell of 26 inches = 27 British inches.<x_0.7568><y_0.0578><class_Text>\n\n<x_0.0068><y_0.0563>_Guiana (Dutch).—In general the same as in Holland, but chiefly upon the old system._<x_0.7549><y_0.0805><class_Text>\n\n<x_0.0049><y_0.0773>_Hamburg.—Of the weights, 128 drachmes = 32 loths = 16 oz._ = 2 marks = 1 lb. = 1-0682 lb. avoird. ; 112 lbs. = 8 lisponds = 1 centner = 119-64 lbs. avoird. ; and 5 centers = 2 shipfunds. Ten lbs. = 1 stone of wool or feathers = half a stone of flax. Of but- ter, 280 lbs. form the great, and 224 the small tonne. A pipe of oil is reckoned at 820 lbs. Gold and silver are weighed by the Cologne mark, and their fineness valued as explained under the head Germany. Of measures, 6 palms = 2 feet = 1 el = 22-578 Brit. inches. The Rhinland foot of engineers and surveyors = 12-36 Brit. inches. The Brabant ell, commonly used for piece goods, = 27-585 Brit. inches. Also 160 quarters = 40 stubgens = 20 viertels = 5 eimers = 4 ankers = 1 ahm = 31-87 Brit. gall. ; and 24 ankers or 6 ahms = 1 fuder. Of wine, 6 tierces = 4 ox-hofts or hogsheeds = 1 faas; but these are of various sizes. Of corn, 160 spints = 40 himtens = 20 faas = 10 scheffels = 1 wisp or wispel = 29 Brit. bushels; two wisps = 1 last of barley or oats = 7·25 Brit. quarters; and 3 wisps = 1 last of wheat or rye = 1 stock of barley or oats = 10·87 Brit. quarters.<x_0.7617><y_0.275><class_Text>\n\n<x_0.0088><y_0.2727>_Hanover.—The lb. = 1-073 lb. avoird. ; 112 lbs. = 1 centner; and 20 lbs. = 1 stone of flax or 2 stones of wool. Also 600 lbs. = 51 stubgens = 2 tonnes of honey; and 3360 lbs. = 240 lisponds = 12 shipfunds = 1 last. The Cologne mark is used for gold, sil- ver, and silk. Two feet = 1 el = 22-91 Brit. inches; the mile = 6'5676 Brit. miles. The morgen land measure = 2·5625 Brit. roods. Also 80 kannen = 40 stubgens = 4 ankers = 2·5 eimers = 1 ahm = 34-24 Brit. gallons; and 6 ahms = 4 oxhofts = 1 fuder of wine. Of corn, 96 himtens = 16 malters = 2 wisps or wispels = 1 last = 82 Brit. bushels.<x_0.7627><y_0.382><class_Text>\n\n<x_0.0137><y_0.3805>_Haytl.—Port-au-Prince.—Principally the old system of France, together with the old English wine gallon._<x_0.7607><y_0.4055><class_Text>\n\n<x_0.0146><y_0.4023>_Heese-Castel.—The lb. = 17•08 oz. avoird. The ell = 22·59 Brit. inches; the acre = •5894 Brit. acre; the liquid ohm = 34·94 Brit. gall. ; and 16 corn metzen = 4 himtens = 1 viertel = 4·42 Brit. bushels._<x_0.7646><y_0.4477><class_Text>\n\n<x_0.0166><y_0.4453>_Heese-Darvutadt.—Two lbs. = 1 French kilogramme = 2·20486 lbs. avoird. Ten feet = 1 klafter = 2·5 metres = 8·2023 Brit. feet; five ells = 3 metres = 3·2809 Brit. yds. ; four morgens = 1 hec- tare = 2·47114 Brit. acres. The liquid ohm = 160 litres = 35·22 Brit. gallons; the corn matter = 1·28 hectolitre = 3·522 Brit. bushels._<x_0.7656><y_0.5133><class_Text>\n\n<x_0.0176><y_0.5102>_Holland.—In 1820, the decimal system of France was introdu- ced, but with the old Dutch nomenclature, as explained under the head Belgium. Of the old weights still used in many places, 10,240 aas = 320 engels = 16 oz. = 2 marks = 1 Dutch lb. troy = 1·0851 lb. avoird. There are also 16 oz. in the commercial lb. = 1·0893 lb. avoird., and 100 commercial lbs. = 1 centner. The old Amsterdam foot = 11·15, and the ell = 27·08 Brit. inches; the Rhinland foot = 12·36, and the Flemish or Brabant ell = 27·58 Brit. inches. Nineteen Dutch leagues make one degree of the meridian.**<x_0.7666><y_0.6219><class_Text>\n\n<x_0.0186><y_0.6172>_Japan.—The weights are almost the same as in China. The line = 6·25 Brit. feet; but the measures of capacity have not been compared._<x_0.7676><y_0.6547><class_Text>\n\n<x_0.0195><y_0.65>_Java.—In this and the other Dutch colonies in India, the weights of China are ordinarily employed; but the pecul, instead of being exactly 133·33 lbs. avoird. Is = 135·625 lbs. Of rice, the coyang = 3581 lbs. avoird. and the timbang = 10 sacks = 5 peculs = 678·125 lbs. The Dutch troy mark of 9 reals, = 3798 Brit. troy grains, is used for gold and silver. The foot = 12·36, and the ell = 27·75 Brit. inches. The kanne, liquid measure, = '3282 Brit. gall., and 396 rands = 1 leaguer of arrack = 133·33 Brit. gall.; but 360 rands = 1 leaguer of wine.<x_0.7686><y_0.7523><class_Text>\n\n<x_0.0205><y_0.7461>_India.—Grain is generally sold by weight, as also liquids, except wines and spirits, which at all the three presidencies are sold by British measures. Of the Bengal weights, 940 chittacks = 40 seers = 1 factory maund = 74·67 lbs. avoird. or two thirds of a British cwt. The bazaar maund is one tenth greater than the fac-tory, and similarly divided. Gold and silver are weighed by the new tola or sicca of 180 grains troy. Two cubits = 1 guz = 1 Brit. yd. The coss or mile of Bengal = 2000 yards, and 1600 sq. yds. = 20 cottahs = 1 biggah. At Bombay 40 seers = 1 maund = one quarter of a British cwt., and 20 maunds = 1 candy = 5 cwts., which in corn is counted at 24·5 Brit. bushels. At Madras, 320 pollams = 8 vis = 1 maund = 25 lbs. avoird., and 20 maunds = 1 candy. The covid = 18·6 inches, but the British yard is used for cloth ; and in land measure, 24 maunies = 1 cawney = 6400 Brit. sq. yds. Also 320 measures = 400 marals = 80 parahs = 1 garse<x_0.7705><y_0.9172><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 3841,
+   "completion_tokens": 2041,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

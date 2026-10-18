@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "0986c219b56ca68e9044fd560464a3e9040950591ac55e2009411dca3dc7d7dc",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "20b275d8d249cb805bcc0e337cddb59ae21733d385ab05ed52c9de2a1ec65c30",
+  "image_bytes": 2255763,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1430",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0624,
+   0.5133,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0624,
+    0.1476,
+    0.5083
+   ],
+   [
+    0.1476,
+    0.2329,
+    0.5083
+   ],
+   [
+    0.2329,
+    0.3181,
+    0.5083
+   ],
+   [
+    0.3181,
+    0.4033,
+    0.5083
+   ],
+   [
+    0.4033,
+    0.4886,
+    0.5083
+   ],
+   [
+    0.4886,
+    0.5738,
+    0.5083
+   ],
+   [
+    0.5738,
+    0.6591,
+    0.5083
+   ],
+   [
+    0.6591,
+    0.7443,
+    0.5083
+   ],
+   [
+    0.7443,
+    0.8295,
+    0.5083
+   ],
+   [
+    0.8295,
+    0.9148,
+    0.5083
+   ],
+   [
+    0.9148,
+    1.0,
+    0.5083
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2693,
+  "completion_tokens": 893,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.53,
+ "created_at": "2026-10-18T11:10:59+00:00",
+ "content": "<x_0.0859><y_0.0>Egypt.<x_0.2139><y_0.0242><class_Picture>\n\n<x_0.2148><y_0.0>over the continent, they had become a great and powerful people; and from their opposite difpositions and manners, became very frequently enemies to the Egyptians. To one Salatis our author afcribes the deftruction of Thebes in Upper Egypt, fo much celebrated by Homer for its magnificence. But this certainly cannot be the cafe; for Homer wrote long after the time of Jofeph: and we find that even then the Egyptians had the fhepherds in abhorrence, in all probability because they had been grievoufly oppressed by them. Mr Bruce counts three invations of thefe people; the first, that of Salatis already mentioned, who overthrew the first dynasty of Egyptian kings from Meynes, and destroyed Thebes: the second was that of Sabseco or So; for according to him this was not the name of a fingle prince, but of a people, and figni-fics _fhepherds_: and the third, after the building of Memphis, where 240,000 of them were belieged as above mentioned. But accounts of this kind are evidently inconflitent in the highest degree; for how is it potfible that the _third_ invasion, antecedent to the building of Jerufalem, could be polterior to the _fecond_, if the latter happened only in the days of Hezekiah?<x_0.9766><y_0.3297><class_Text>\n\n<x_0.2158><y_0.3289>In thefe early ages, however, it would feem that the kingdom of Egypt had been very powerful and its dominion very widely extended; since we find it faid, that the _Batrians_ revolted from Ofymandyas, another Egyptian king of very high antiquity, and of whole wealth the most marvelous accounts are given.<x_0.9756><y_0.4172><class_Text>\n\n<x_0.2168><y_0.4148>After an unknown interval of time from this monarch, reigned Sefoltris. He was the first great warrior whose conquets are recorded with any degree of difficultnefs. In what age of the world he lived, is uncertain. Some chronologers, among whom is Sir Haac Newton, are of opinion, that he is the Seface or Shifhak, who took Jerufalem in the reign of Re- hoboam the fon of Solomon. Others, however, place him much earlier; and Mr Whitten will have him to be the Pharaoh who refuted to part with the Ifraelites, and was at last drowned in the Red Sea. Mr Bryant endeavours to prove that no fuch perfon ever exilted; but that in his history, as well as that of many ancient heroes, we have an abridgement of that of the Cufhites or Babylonians, who spread themselves over great part of the known world, and every where brought the people in fubjection to them. His reign is reckoned the molt extraordinary part of the Egyptian history; and the following feems to be the lealt fabulous account that can be got of it. The father of Sefoltris was told in a dream, by the god Vulcan, that his fon, who was then newly born, or perhaps fill unborn, should be lord of the whole earth. His father, upon the credit of this vition, got together all the males in the land of Egypt that were born on the fame day with Sefoltris; appointed nurties and proper perforns to take care of them, and had them treat- ed like his own child; being perluaded that they who had been the constant companions of his youth would prove the molt faithful miniliters and soldiers. As they grew up, they were injured to laborious exercises; and, in particular, were never permitted to take any food till they had performed a courte of 180 furlongs, upwards of 22 of our miles. When the old king imagined they were sufficiently educated in the martial way he deligned them to follow, they were fent by way<x_0.999><y_0.9367><class_Text>\n\n<x_0.2793><y_0.9336>No 110.<x_0.3994><y_0.95><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-f3da5f63-d62f-478e-9d71-8f59698518bb",
+  "object": "chat.completion",
+  "created": 1792321858,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0859><y_0.0>Egypt.<x_0.2139><y_0.0242><class_Picture>\n\n<x_0.2148><y_0.0>over the continent, they had become a great and powerful people; and from their opposite difpositions and manners, became very frequently enemies to the Egyptians. To one Salatis our author afcribes the deftruction of Thebes in Upper Egypt, fo much celebrated by Homer for its magnificence. But this certainly cannot be the cafe; for Homer wrote long after the time of Jofeph: and we find that even then the Egyptians had the fhepherds in abhorrence, in all probability because they had been grievoufly oppressed by them. Mr Bruce counts three invations of thefe people; the first, that of Salatis already mentioned, who overthrew the first dynasty of Egyptian kings from Meynes, and destroyed Thebes: the second was that of Sabseco or So; for according to him this was not the name of a fingle prince, but of a people, and figni-fics _fhepherds_: and the third, after the building of Memphis, where 240,000 of them were belieged as above mentioned. But accounts of this kind are evidently inconflitent in the highest degree; for how is it potfible that the _third_ invasion, antecedent to the building of Jerufalem, could be polterior to the _fecond_, if the latter happened only in the days of Hezekiah?<x_0.9766><y_0.3297><class_Text>\n\n<x_0.2158><y_0.3289>In thefe early ages, however, it would feem that the kingdom of Egypt had been very powerful and its dominion very widely extended; since we find it faid, that the _Batrians_ revolted from Ofymandyas, another Egyptian king of very high antiquity, and of whole wealth the most marvelous accounts are given.<x_0.9756><y_0.4172><class_Text>\n\n<x_0.2168><y_0.4148>After an unknown interval of time from this monarch, reigned Sefoltris. He was the first great warrior whose conquets are recorded with any degree of difficultnefs. In what age of the world he lived, is uncertain. Some chronologers, among whom is Sir Haac Newton, are of opinion, that he is the Seface or Shifhak, who took Jerufalem in the reign of Re- hoboam the fon of Solomon. Others, however, place him much earlier; and Mr Whitten will have him to be the Pharaoh who refuted to part with the Ifraelites, and was at last drowned in the Red Sea. Mr Bryant endeavours to prove that no fuch perfon ever exilted; but that in his history, as well as that of many ancient heroes, we have an abridgement of that of the Cufhites or Babylonians, who spread themselves over great part of the known world, and every where brought the people in fubjection to them. His reign is reckoned the molt extraordinary part of the Egyptian history; and the following feems to be the lealt fabulous account that can be got of it. The father of Sefoltris was told in a dream, by the god Vulcan, that his fon, who was then newly born, or perhaps fill unborn, should be lord of the whole earth. His father, upon the credit of this vition, got together all the males in the land of Egypt that were born on the fame day with Sefoltris; appointed nurties and proper perforns to take care of them, and had them treat- ed like his own child; being perluaded that they who had been the constant companions of his youth would prove the molt faithful miniliters and soldiers. As they grew up, they were injured to laborious exercises; and, in particular, were never permitted to take any food till they had performed a courte of 180 furlongs, upwards of 22 of our miles. When the old king imagined they were sufficiently educated in the martial way he deligned them to follow, they were fent by way<x_0.999><y_0.9367><class_Text>\n\n<x_0.2793><y_0.9336>No 110.<x_0.3994><y_0.95><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2693,
+   "completion_tokens": 893,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

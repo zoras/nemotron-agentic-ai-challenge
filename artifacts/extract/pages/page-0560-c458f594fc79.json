@@ -1,0 +1,519 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:560",
+ "row_index": 560,
+ "volume_id": "191253801",
+ "filename": "page-0560-c458f594fc79.jpg",
+ "image_sha256": "c458f594fc79392e42082ac7a8c338082e8d5e2c2c79dd2f49f1940b91144300",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09412,
+  "median_grey": 213,
+  "layout_body_chars": 6138,
+  "layout_pictures": 0
+ },
+ "running_head": "A M I [ 619 ] A M I",
+ "layout_raw": "page-0560-c458f594fc79/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0309,
+    1.0,
+    0.0616
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0560-c458f594fc79/head.json",
+   "finish_reason": "stop",
+   "request_key": "f7d3c07f953381be2676e4130933c025370ede8a4578cb90803abab01a3ff9a0"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0309,
+    0.5033,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0309,
+     0.1117,
+     0.4933
+    ],
+    [
+     0.1117,
+     0.1924,
+     0.4933
+    ],
+    [
+     0.1924,
+     0.2732,
+     0.4933
+    ],
+    [
+     0.2732,
+     0.3539,
+     0.4933
+    ],
+    [
+     0.3539,
+     0.4347,
+     0.4933
+    ],
+    [
+     0.4347,
+     0.5155,
+     0.4933
+    ],
+    [
+     0.5155,
+     0.5962,
+     0.4933
+    ],
+    [
+     0.5962,
+     0.677,
+     0.4933
+    ],
+    [
+     0.677,
+     0.7577,
+     0.4933
+    ],
+    [
+     0.7577,
+     0.8385,
+     0.495
+    ],
+    [
+     0.8385,
+     0.9192,
+     0.4983
+    ],
+    [
+     0.9192,
+     1.0,
+     0.4933
+    ]
+   ],
+   "raw_path": "page-0560-c458f594fc79/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "80f2499465c2dfc0c3cf2302e68f99f92020fd4cbd11aa3004d4ddad7278cafd"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4883,
+    0.0309,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0309,
+     0.1117,
+     0.4933
+    ],
+    [
+     0.1117,
+     0.1924,
+     0.4933
+    ],
+    [
+     0.1924,
+     0.2732,
+     0.4933
+    ],
+    [
+     0.2732,
+     0.3539,
+     0.4933
+    ],
+    [
+     0.3539,
+     0.4347,
+     0.4933
+    ],
+    [
+     0.4347,
+     0.5155,
+     0.4933
+    ],
+    [
+     0.5155,
+     0.5962,
+     0.4933
+    ],
+    [
+     0.5962,
+     0.677,
+     0.4933
+    ],
+    [
+     0.677,
+     0.7577,
+     0.4933
+    ],
+    [
+     0.7577,
+     0.8385,
+     0.495
+    ],
+    [
+     0.8385,
+     0.9192,
+     0.4983
+    ],
+    [
+     0.9192,
+     1.0,
+     0.4933
+    ]
+   ],
+   "raw_path": "page-0560-c458f594fc79/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "6b3f5adabeefb7e1c0cbe1cca23408c4dc56b00d2cef72fd19a259b3e830a0c3"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "A M I [ 619 ] A M I",
+   "bbox": [
+    0.0,
+    0.0309,
+    1.0,
+    0.0616
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0560-c458f594fc79:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "A MI I [ 61",
+   "bbox": [
+    0.2104,
+    0.0362,
+    0.4974,
+    0.0627
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0560-c458f594fc79:b1"
+  },
+  {
+   "order": 2,
+   "class": "Margin-note",
+   "text": "Amethy-\nfine\nAmianthus",
+   "bbox": [
+    0.0162,
+    0.0665,
+    0.0841,
+    0.1324
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-left",
+   "id": "page-0560-c458f594fc79:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "gular, femiquinquefid, and perfilten: The _corolla_ is monopetalous; the border quinquepartite, the loweft divifion more expanding: The _flamina_ conflit of two flender filaments approximated; the antherre are limple and roundifih: The _pifillium_ has a four-cleft germen; flylus, the fize of the flamina; ffigmata two, acute: No _corolla_: The _feeds_ four, gibbous, and thorter than the calyx :--There is only one known species.",
+   "bbox": [
+    0.0786,
+    0.0597,
+    0.4841,
+    0.1725
+   ],
+   "source": "s0-col-left",
+   "id": "page-0560-c458f594fc79:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "This plant is a native of Siberia, from whence the feeds were tent to the imperial garden at Peterburgh, and thence brought to Britain. It is an annual plant, with an upright stalk, which rifes about a foot high. Towards the top it puts forth two or three fmall lateral branches, garnified with fmall trifid leaves, fawed on their edges, of a very dark green colour. The flowers appear in June or July, and are produced in fmall umbels at the extremities of the branches. They are of a fine blue colour, as are alfo the upper part of the branches, and the leaves immediately under the umbel, fo that they make a fine appearance.",
+   "bbox": [
+    0.0782,
+    0.1672,
+    0.4851,
+    0.3322
+   ],
+   "source": "s0-col-left",
+   "id": "page-0560-c458f594fc79:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "_Culture._ The feeds of the amethyftea thould be fown in autumn, as they are apt to remain a whole year in the ground if kept till the spring. When the plants come up, nothing elfe is necessary than to keep them clear of weeds, and to thin them where they are too clofe. They ought to be fown where they are to remain, as they do not thrive when tranplanted.",
+   "bbox": [
+    0.0821,
+    0.3262,
+    0.4876,
+    0.4253
+   ],
+   "source": "s0-col-left",
+   "id": "page-0560-c458f594fc79:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "AMETHYSTINE is applied, in antiquity, to a kind of purple garment dyed of the hue of amethyft. In this fenle amethyffine differed from _Tyrian_ as well as from _hyacinthine_ purple, being a kind of medium between both.",
+   "bbox": [
+    0.085,
+    0.4185,
+    0.4915,
+    0.4904
+   ],
+   "source": "s0-col-left",
+   "id": "page-0560-c458f594fc79:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "AMHAR, or AMHARA, a province of Abyffinia, faid to extend 40 leagues from eaft to weft. It is confiidered as the moft noble in the whole empire, both on account of its being the uful refidence of the Abyffinian monarchs, and having a particular dialect different from all the reft, which, by reafon of the emperors being brought up in this province, is become the language of the court and of the politer people. Here is the famed rock Amba-geflen, where the young morarchs were formerly confined. See AMBA.",
+   "bbox": [
+    0.086,
+    0.4852,
+    0.492,
+    0.6245
+   ],
+   "source": "s0-col-left",
+   "id": "page-0560-c458f594fc79:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "AMHURST (Nicholas), an Englift poet and political writer, was born at Marden in Kent, and entered of St John's college, Oxford; from whence he was expelled for irregularity of conduct and libertine principles. Retaining great referment against the univerfly on this account, he abufed its learning and discipline, and some of the moft respectable characters in it, in a poem published in 1724 called _Oculus Britannie_, and in a book entitled _Terra Filius_. He published, a Mićelany of Poems, facered and profane; and, The Convoication, a poem in five cantos, which was a fatire on the Bilhop of Bangor's antagonis. But he is belt known for the flare he had in the political paper called _The Graftifman_ though, after having been the drudge of his party for near 20 years, he was as much forgot in the famous compromise of 1742 as if he had never been born; and, when he died in that year of a broken heart, was indebted to the charity of his bookfeller for a grave.",
+   "bbox": [
+    0.088,
+    0.6184,
+    0.5028,
+    0.8766
+   ],
+   "source": "s0-col-left",
+   "id": "page-0560-c458f594fc79:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "AMIANTHUS, or EARTH-FLAX, in natural hi- flory, a fibrous, flexile, elastic, mineral fubltance, con- fitting of short, abrupt, and interwoven filaments. It is found in Germany, in the litata of iron ore, fome-",
+   "bbox": [
+    0.1008,
+    0.869,
+    0.5023,
+    0.9319
+   ],
+   "source": "s0-col-left",
+   "id": "page-0560-c458f594fc79:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "9 ]",
+   "bbox": [
+    0.4883,
+    0.0339,
+    0.5423,
+    0.0597
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b10"
+  },
+  {
+   "order": 11,
+   "class": "Head-fragment",
+   "text": "AM I",
+   "bbox": [
+    0.6537,
+    0.0331,
+    0.7591,
+    0.0574
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "times forming veins of an inch in diameter. Its fibres Amicable are fo flexible that cloth has been made of them, and the shorter filaments that feparate in the waiting of the flone may be made into paper in the common manner. For the method of its preparation for manufacture into cloth, fee Asbestos.",
+   "bbox": [
+    0.4888,
+    0.0544,
+    0.8896,
+    0.1399
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b12"
+  },
+  {
+   "order": 13,
+   "class": "Margin-note",
+   "text": "I Amida.",
+   "bbox": [
+    0.8941,
+    0.0672,
+    0.953,
+    0.1028
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "Amianthus is claffed by Mr Kirwan in the muriatic genus of earths, because it contains about a fifth part of magnefia. Its other constituents are, flint, mild calcareous earth, barytes, clay, and a very final proportion of iron. It is futible per fe in a strong heat, and allo with the common fluxes. It differs from afbeltos in containing fome ponderous earth.",
+   "bbox": [
+    0.4923,
+    0.1361,
+    0.8911,
+    0.2331
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "AMICABLE, in a general fenfe, denotes any thing done in a friendly manner, or to promote peace.",
+   "bbox": [
+    0.4928,
+    0.2285,
+    0.8921,
+    0.2603
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "_AmicABLE Bencher_, in Roman antiquity, were, according to Pitifcus, lower and lefs honourable feats allotted for the _judices pedanei_, or inferior judges, who, upon being admitted of the emperor's council, were dignified by him with the title _amici._",
+   "bbox": [
+    0.4933,
+    0.2551,
+    0.8945,
+    0.3262
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "_AMICABLE Numbers,_ fuch as are mutually equal to the fum of one another’s aliquot parts. Thus the numbers 284 and 220 are amicable numbers: for the aliquot parts I, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110, of 220, are together equal to the other number 284; and the aliquot parts I, 2, 4, 71, 142, of 284, are together equal to 220.",
+   "bbox": [
+    0.4948,
+    0.3201,
+    0.897,
+    0.4193
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "AMICTUS, in Roman antiquity, was any upper garment worn over the tunica.",
+   "bbox": [
+    0.4993,
+    0.4132,
+    0.8976,
+    0.4458
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "AMICTUS, among ecclefialtical writers, the upper-motif garment anciently worn by the clergy; the other five being the alba, fingulum, ftola, manipulus, and planeta. The amictus was a linen garment, of a figure figure, covering the head, neck, and houlders, and buckled or clafped before the breast. It is fill worn by the religious abroad.",
+   "bbox": [
+    0.4983,
+    0.4398,
+    0.8981,
+    0.5389
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "AMICULUM, in Roman antiquity, a woman’s upper garment, which differed from the pala. It was worn both by matrons and courtezans.",
+   "bbox": [
+    0.4998,
+    0.5313,
+    0.8986,
+    0.5776
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "AMIC US CURIE, a law term, to denote a by-flander who informs the court of a matter in law that is doubtful or militaken.",
+   "bbox": [
+    0.5003,
+    0.57,
+    0.899,
+    0.6177
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b21"
+  },
+  {
+   "order": 22,
+   "class": "Text",
+   "text": "AMIDA, a god worshipped by the Japanefe, who has many temples erected to him in the illand of Japan, of which the principal is at Jedo. The Japanefe have fuch a confidence in their idol Amida, that they hope to attain eternal felicity by the frequent invocation of his name. One of the figures of this idol is represented at Rome.",
+   "bbox": [
+    0.5013,
+    0.6108,
+    0.8996,
+    0.71
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "AMIDA (anc. geog.), a principal city of Mefopo-tama (Liber Notiiae); _Amman_ (Ptolemy); fituated on a high mountain, on the borders of Afiyria, on the Tigris, where it receives the Nymphius.—It was taken from the Romans, in the time of the emperor Conflans, by Sapores king of Pertia. The flege is faid to have coll him 30.000 men; however, he reduced it to fuch ruin, that the emperor afterwards wept over it. According to Ammianus Marcellinus, the city was rafed; the chief officerswere crucified; and the reilt, with the foldiers and inhabitants, either put to the fword or carried into captivity, except our hiflorian himself, and two or three more, who, in the dead of the night, escaped through a poftern unperceived by the enemy. The inhabitants of Nilibis, however, being obliged to leave their own city by Jovian’s treaty with",
+   "bbox": [
+    0.5048,
+    0.7009,
+    0.9086,
+    0.9228
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b23"
+  },
+  {
+   "order": 24,
+   "class": "Page-footer",
+   "text": "4 F2",
+   "bbox": [
+    0.6867,
+    0.916,
+    0.7292,
+    0.9319
+   ],
+   "source": "s0-col-right",
+   "id": "page-0560-c458f594fc79:b24"
+  }
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1324",
+ "row_index": 1324,
+ "volume_id": "149981670",
+ "filename": "page-1324-2cfbaa25a150.jpg",
+ "image_sha256": "2cfbaa25a150c2ea23ac854aafdb05fa22f350334e1404f609866a252d061217",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.06667,
+  "median_grey": 223,
+  "layout_body_chars": 6807,
+  "layout_pictures": 0
+ },
+ "running_head": "H E D [ 38",
+ "layout_raw": "page-1324-2cfbaa25a150/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0,
+    0.4767,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.4717
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.47
+    ],
+    [
+     0.1667,
+     0.25,
+     0.47
+    ],
+    [
+     0.25,
+     0.3333,
+     0.47
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.47
+    ],
+    [
+     0.4167,
+     0.5,
+     0.47
+    ],
+    [
+     0.5,
+     0.5833,
+     0.47
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.47
+    ],
+    [
+     0.6667,
+     0.75,
+     0.47
+    ],
+    [
+     0.75,
+     0.8333,
+     0.47
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.47
+    ],
+    [
+     0.9167,
+     1.0,
+     0.47
+    ]
+   ],
+   "raw_path": "page-1324-2cfbaa25a150/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "4cfd81d12413acc1070b77665b951645d70c28b6fd78dac44aa590d6353ecec0"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.465,
+    0.0,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.4717
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.47
+    ],
+    [
+     0.1667,
+     0.25,
+     0.47
+    ],
+    [
+     0.25,
+     0.3333,
+     0.47
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.47
+    ],
+    [
+     0.4167,
+     0.5,
+     0.47
+    ],
+    [
+     0.5,
+     0.5833,
+     0.47
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.47
+    ],
+    [
+     0.6667,
+     0.75,
+     0.47
+    ],
+    [
+     0.75,
+     0.8333,
+     0.47
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.47
+    ],
+    [
+     0.9167,
+     1.0,
+     0.47
+    ]
+   ],
+   "raw_path": "page-1324-2cfbaa25a150/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "c12437e18ae4f1d2409c942164d55bc4f2889966227d4f851181a9442b35ef52"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Page-header",
+   "text": "H E D [ 38",
+   "bbox": [
+    0.1839,
+    0.043,
+    0.4762,
+    0.0648
+   ],
+   "source": "s0-col-left",
+   "id": "page-1324-2cfbaa25a150:b0"
+  },
+  {
+   "order": 1,
+   "class": "Text",
+   "text": "price of lime is high they may be built without any cement, and anfwer the purposely very well if the work is properly executed.\"",
+   "bbox": [
+    0.0777,
+    0.0633,
+    0.4623,
+    0.1078
+   ],
+   "source": "s0-col-left",
+   "id": "page-1324-2cfbaa25a150:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "In making a new fence of this kind, the surface of the ground should be pared off the breadth of the ditch, and likewise for two feet more, in order to prevent an much as poffible the thorns from being injured by the growth of grafs and weeds. The ditch should be five feet broad, two and an half in depth, and one foot broad at the bottom. Leave one foot for an edging or fearcement, then dig the earth one fpit of a fade for about one foot, and put about three inches of good earth below the thorn, which should be laid nearly horizontal, but the point rather inclining upwards, in order to let the rain drip to the roots; then add a foot of good earth above it: leave three or four inches of a fearcement before another thorn is planted; it mull not be directly over the lower one, but about nine inches or a foot to one tide of it: then throw a foot of good earth on the thorn, and trample it well down, and level the top of the bank for about three feet and an half for the bafe of the wall to reft on. This bafe should be about nine or ten inches, but must not exceed one foot from the thorn. The wall ought to be about two feet thick at the bottom and one foot at the top; the cope to be a lingle flone laid flat; then covered with two folds of turf, the grafs of the under- moft to be next the wall, and the other fed muff have the grafs ride uppermost: the folds should be of form thickness, in order to retain moisture; fo that they may adhere together, and not be cafily displaced by the wind; the height of the wall to be two feet and an half, exclusive of the folds; which together should be from four to fix inches, by which means the wall would be near to three feet altogether. The expense of the fences cannot fo easily be counted, on account of the difference of the prices of labour in different parts. Mr Errikine had them done with lime, every thing included, from 105d. to 13d. per ell (which is equal to 37 inches 2 parts), according to the cafe or difficulty of working the quarry, and the distance of it from the place where the fence is erected. The lime cofts about 6d. per ball of about 40872667 buthels; and from 15 to 16 bolls of lime are ufed to the rood of 36 square ella Scots measure; and there are upwards of 43 Scotch eils, or 44 English yards. When the common round or flint floors are made ufe of, as they require more lime, it is necessary to ufe 30 or 35 bolts of lime to the rood. The thorns are fold from five to ten fillings per thousand, according to their age, reckoning fix force to the hundred. Making the ditch, laying the thorns, and preparing the top of the wall, generally colt from 7d. to 8d. every fix eils. About 50 carts of floes, each cart carrying from 7 to 9 cwt. will build a rood; the carriage at 2d. per cart for half a mile’s diffiance.",
+   "bbox": [
+    0.0764,
+    0.1055,
+    0.4641,
+    0.818
+   ],
+   "source": "s0-col-left",
+   "id": "page-1324-2cfbaa25a150:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Warmth in undoubtedly no beneficial to hedges as trees; and the walls give an effectual shelter, which in exposed situations is absolutely necefitary for rearing young hedges; and they likewise preserve a proper degree of moisture about the roots. If the hedges have been planted for fix or fever years before the wall is built, cut them over to two or three inches above the ground with a sharp tool, either in October or November, or early in the spring; and erect the Vol. VIII. Part I.",
+   "bbox": [
+    0.0833,
+    0.8172,
+    0.4646,
+    0.9547
+   ],
+   "source": "s0-col-left",
+   "id": "page-1324-2cfbaa25a150:b3"
+  },
+  {
+   "order": 4,
+   "class": "Title",
+   "text": "5 I H E D",
+   "bbox": [
+    0.4707,
+    0.0414,
+    0.7482,
+    0.0625
+   ],
+   "source": "s0-col-right",
+   "id": "page-1324-2cfbaa25a150:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "wall as quickly in that feafon as polible (the fpring in this country can fearcely be faid to begin till the end of March). It is almost impoffible to imagine the rapidity with which hedges grow in favourable situations. Mr Erkine had one cut over in the fpring, and by the end of the year it was almost as high as the wall. In three years he fuppofed, that not even the Higiland cheep, who easily overlap a wall of four feet and an half in height, would have been able to break through it.",
+   "bbox": [
+    0.465,
+    0.0617,
+    0.8511,
+    0.1992
+   ],
+   "source": "s0-col-right",
+   "id": "page-1324-2cfbaa25a150:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "Notwithflanding, the reasons that have been given already against the planting of timber trees in hedges, we find the practice recommended by fome authors as one of the best fituations for rafting hip-timber. The realons are, that the roots have free range in the adjoining inclofures, and the top is expofed to the ex-creife of the winds; by which means the trees are at once enabled to throw out frong arms, and have a large spreading head at the fame time; fo that we thus at once obtain quicknefs of growth, with strength and crookednefs of timber. Well trained timber trees it is alleged are not prejudicial to hedges, though pollards and low spreading trees are deltrusive to the hedge-wood which grows under them; neither are high trees prejudicial to corn-fields like high hedges and pollards, which prevent a proper circulation of air; and in Norfolk, where the cultivation of grain is carried on in great perfection, fuch lands are laid to be _wood-bound_. But when an hedge is trimmed down to four or five feet high, with oaks interfperfed, a circulation of air is rather promoted than retarded by it; and a trimmed hedge will thrive quite well under tall stemmed trees, particularly oaks. For arable inclo-fures, therefore, hedges are recommended of four or five feet high, with oak-timbers from 15 to 25 feet Item. Fligher hedges are more eligible for grafs lands: the graffes affect warmth, by which their growth is promoted, and consequently their quantity is increased, though perhaps their quality may fuller fome injury. A tall fence likewise affords flelter to cattle, provided it be thick and clofe at the bottom; but otherwise, by admitting the air in currents, it does rather harm than good. The shade of trees is equally friendly to cattle in summer; for which reafon it is recommended in grafs inclofures to allow the hedge to make its natural fhoots, and at the fame time to have oak-trees planted in it at proper intervals. Upon bleak hills, and in ex-pofed fituations, it will be proper to have two or even three rows of hedgewood, about four feet distant from each other; the middle row being permitted to reach, and always to remain at, its natural height; whilst the tide rows are cut down alternately to give perpetual fecundity to the bottom, and afford a constant supply of materials for dead hedges and other purposes of un-derwood.",
+   "bbox": [
+    0.4682,
+    0.1984,
+    0.8553,
+    0.8031
+   ],
+   "source": "s0-col-right",
+   "id": "page-1324-2cfbaa25a150:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Much has been faid of the excellency of the holly Beit me as a material for hedges; and indeed the beauty of the plant, with its extreme clefenefs, and continuing green throughout the winter, evidently give it the preference to all others; and could it be rafted with equal eafe, there is no doubt that it would come into universal practice. Belfides the above properties, the holly will thrive almost upon any foil; but thin-foiled itony heights feem to be its natural situation; and it may properly enough be faid, that holly will grow",
+   "bbox": [
+    0.4718,
+    0.8016,
+    0.8558,
+    0.9414
+   ],
+   "source": "s0-col-right",
+   "id": "page-1324-2cfbaa25a150:b7"
+  },
+  {
+   "order": 8,
+   "class": "Caption",
+   "text": "Hedges.",
+   "bbox": [
+    0.8542,
+    0.0633,
+    0.9216,
+    0.0922
+   ],
+   "source": "s0-col-right",
+   "id": "page-1324-2cfbaa25a150:b8"
+  },
+  {
+   "order": 9,
+   "class": "Caption",
+   "text": "Reafons for planting oak trees in hedges.",
+   "bbox": [
+    0.848,
+    0.1938,
+    0.9222,
+    0.2508
+   ],
+   "source": "s0-col-right",
+   "id": "page-1324-2cfbaa25a150:b9"
+  },
+  {
+   "order": 10,
+   "class": "Footnote",
+   "text": "43\nplanting and railing holly for hedges.",
+   "bbox": [
+    0.8496,
+    0.7984,
+    0.9211,
+    0.8758
+   ],
+   "source": "s0-col-right",
+   "id": "page-1324-2cfbaa25a150:b10"
+  },
+  {
+   "order": 11,
+   "class": "Page-footer",
+   "text": "3 B",
+   "bbox": [
+    0.6484,
+    0.9391,
+    0.6792,
+    0.957
+   ],
+   "source": "s0-col-right",
+   "id": "page-1324-2cfbaa25a150:b11"
+  }
+ ]
+}

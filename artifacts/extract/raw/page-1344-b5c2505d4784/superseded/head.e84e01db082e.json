@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "e84e01db082eac32461da3a7ef53d18de676e5e0f77d2b0b2fbd4f6fad958d97",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "206d0e583016cdcefda5aec0c39669f1c81ea20b35182da5f5366dc0db245145",
+  "image_bytes": 148862,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1344",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0153,
+   1.0,
+   0.0544
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 223,
+  "completion_tokens": 59,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.18,
+ "created_at": "2026-10-18T11:19:56+00:00",
+ "content": "<x_0.0><y_0.0>HOR [ 664 ] HOR\nHorfe. be totally clofed up, or the cranium in that part not be elements of diagram-guards raifed in 1685. Seg Gat. Horfe<x_0.999><y_0.9859><class_Text>",
+ "reply": {
+  "id": "chatcmpl-bd620a8f-7a30-4fc2-9e5f-6453f1c5791b",
+  "object": "chat.completion",
+  "created": 1792322396,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>HOR [ 664 ] HOR\nHorfe. be totally clofed up, or the cranium in that part not be elements of diagram-guards raifed in 1685. Seg Gat. Horfe<x_0.999><y_0.9859><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 223,
+   "completion_tokens": 59,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

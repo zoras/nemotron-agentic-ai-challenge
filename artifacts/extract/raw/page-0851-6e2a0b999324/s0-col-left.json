@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "86088025d2105c35c589c37de607a0332b9c30a70676e51f2a1ff3e296495634",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "8c46d279a1da39106c6892573165b70745046c4e7458599341f024217daf70bb",
+  "image_bytes": 2184137,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:851",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0458,
+   0.525,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0458,
+    0.1325,
+    0.5183
+   ],
+   [
+    0.1325,
+    0.2193,
+    0.5183
+   ],
+   [
+    0.2193,
+    0.306,
+    0.5183
+   ],
+   [
+    0.306,
+    0.3928,
+    0.5183
+   ],
+   [
+    0.3928,
+    0.4795,
+    0.5183
+   ],
+   [
+    0.4795,
+    0.5663,
+    0.5183
+   ],
+   [
+    0.5663,
+    0.653,
+    0.5183
+   ],
+   [
+    0.653,
+    0.7398,
+    0.5183
+   ],
+   [
+    0.7398,
+    0.8265,
+    0.5183
+   ],
+   [
+    0.8265,
+    0.9133,
+    0.5183
+   ],
+   [
+    0.9133,
+    1.0,
+    0.52
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2662,
+  "completion_tokens": 862,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.45,
+ "created_at": "2026-10-18T11:19:40+00:00",
+ "content": "<x_0.1221><y_0.0031>_5550_ OP T<x_0.9707><y_0.0187><class_Page-header>\n\n<x_0.2393><y_0.0203>tre is C, and focus of parallel rays is at P; and let the imaginary focus of the incident rays be at F, a point between P and B; and let DR be the reflected ray. From C and R draw the lines CH, RH, the one paffing through D, the other parallel to FE. Then will the angle RHD be equal to HDE the angle of incidence, as alternate to it ; and therefore equal to HDR, the angle of reflection : wherefore the triangle HDR is ifofceles, and confecquently DR is equal to RH. Now the lines FD and RH being parallel, the triangles FDC and RHC are familiar; and therefore RH, or RD, is to FD as CR to CF: but BD vanifhing, RD and FD coincide with RB and FB, wherefore RB is to FB as CR to CF; that is, the distance of the focus from the surface is to the difference of the imaginary focus of the incident rays, as the distance of the focus from the centre is to the distance of the imaginary focus of the incident rays from the fame. _Q. E. D._<x_0.9795><y_0.2852><class_Text>\n\n<x_0.2461><y_0.2844>CASE 6. Of diverging rays falling upon a concave surface, and proceeding from a point between the focus of parallel rays and the surface.<x_0.9785><y_0.3266><class_Text>\n\n<x_0.2451><y_0.3273>DEM. Let FD and FB reprefent two diverging rays flowing from the point F as a radiant, which was the imaginary focus of the incident rays in the foregoing cafe. Then as ED was in that cafe reflected into DR, FD will be reflected into DK, (for the reafon mentioned in Cafe the feecond), fo that the reflected ray will proceed as from the point R: but it was demonstrated in the cafe immediately foregoing, that RB is to FB as CR to CF; that is, the distance of the focus from the surface is to that of the radiant from the fame, as the distance of the former from the centre is to that of the latter from the fame. _Q. E.D._<x_0.9805><y_0.4922><class_Text>\n\n<x_0.248><y_0.493>CASE 7. Of converging rays falling upon a convex surface, and tending towards a point beyond the cen- tre.<x_0.9814><y_0.5328><class_Text>\n\n<x_0.25><y_0.5336>DEM. Let AB, ED, (fig. 8.) be the incident rays tending to F, a point beyond the centre C, and let DK be the reflected ray of the incident one ED. Then because the incident ray ED tends to a point beyond the centre, the reflected ray DK will proceed as from one on the contrary fide, fuppofe R; as explained above under Prop. VII. Through D draw the perpendicular CD, and produce it to H. Then will EDH and HDK be the angles of incidence and reflection ; which being equal, their vertical ones CDF and CDR will be fo too : consequently the vertex of the triangle FDR is bifected by the line CD: where- fore, RD is to DF, or (3 Elem. 6.) BD vanifhing, RB is to BF as RC to CF; that is, the distance of the focus of the reflected rays is to that of the imaginary focus of the incident rays, as the distance of the former from the centre is to the distance of the latter from the fame. _Q. E.D._<x_0.9824><y_0.782><class_Text>\n\n<x_0.2588><y_0.7828>CASE 8. Of diverging rays falling upon a concave surface, and proceeding from a point beyond the cen- tre.<x_0.9834><y_0.8227><class_Text>\n\n<x_0.2598><y_0.8242>DEM. Let FB, FD, be the incident rays having their radiant in F, the imaginary focus of the incident rays in the foregoing cafe. Then as ED was in that cafe reflected into DK, FD will now be reflected into DR; fo that R will be the focus of the reflected rays. But it was demonstrated in the foregoing cafe, that RB is to FB as RC to CF; that is, the distance of<x_0.9971><y_0.9242><class_Text>\n\n<x_0.1182><y_0.5344>Plate CCXII.<x_0.2139><y_0.5594><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-01ca84a8-0a72-4545-aa7d-a29d47f6211f",
+  "object": "chat.completion",
+  "created": 1792322379,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1221><y_0.0031>_5550_ OP T<x_0.9707><y_0.0187><class_Page-header>\n\n<x_0.2393><y_0.0203>tre is C, and focus of parallel rays is at P; and let the imaginary focus of the incident rays be at F, a point between P and B; and let DR be the reflected ray. From C and R draw the lines CH, RH, the one paffing through D, the other parallel to FE. Then will the angle RHD be equal to HDE the angle of incidence, as alternate to it ; and therefore equal to HDR, the angle of reflection : wherefore the triangle HDR is ifofceles, and confecquently DR is equal to RH. Now the lines FD and RH being parallel, the triangles FDC and RHC are familiar; and therefore RH, or RD, is to FD as CR to CF: but BD vanifhing, RD and FD coincide with RB and FB, wherefore RB is to FB as CR to CF; that is, the distance of the focus from the surface is to the difference of the imaginary focus of the incident rays, as the distance of the focus from the centre is to the distance of the imaginary focus of the incident rays from the fame. _Q. E. D._<x_0.9795><y_0.2852><class_Text>\n\n<x_0.2461><y_0.2844>CASE 6. Of diverging rays falling upon a concave surface, and proceeding from a point between the focus of parallel rays and the surface.<x_0.9785><y_0.3266><class_Text>\n\n<x_0.2451><y_0.3273>DEM. Let FD and FB reprefent two diverging rays flowing from the point F as a radiant, which was the imaginary focus of the incident rays in the foregoing cafe. Then as ED was in that cafe reflected into DR, FD will be reflected into DK, (for the reafon mentioned in Cafe the feecond), fo that the reflected ray will proceed as from the point R: but it was demonstrated in the cafe immediately foregoing, that RB is to FB as CR to CF; that is, the distance of the focus from the surface is to that of the radiant from the fame, as the distance of the former from the centre is to that of the latter from the fame. _Q. E.D._<x_0.9805><y_0.4922><class_Text>\n\n<x_0.248><y_0.493>CASE 7. Of converging rays falling upon a convex surface, and tending towards a point beyond the cen- tre.<x_0.9814><y_0.5328><class_Text>\n\n<x_0.25><y_0.5336>DEM. Let AB, ED, (fig. 8.) be the incident rays tending to F, a point beyond the centre C, and let DK be the reflected ray of the incident one ED. Then because the incident ray ED tends to a point beyond the centre, the reflected ray DK will proceed as from one on the contrary fide, fuppofe R; as explained above under Prop. VII. Through D draw the perpendicular CD, and produce it to H. Then will EDH and HDK be the angles of incidence and reflection ; which being equal, their vertical ones CDF and CDR will be fo too : consequently the vertex of the triangle FDR is bifected by the line CD: where- fore, RD is to DF, or (3 Elem. 6.) BD vanifhing, RB is to BF as RC to CF; that is, the distance of the focus of the reflected rays is to that of the imaginary focus of the incident rays, as the distance of the former from the centre is to the distance of the latter from the fame. _Q. E.D._<x_0.9824><y_0.782><class_Text>\n\n<x_0.2588><y_0.7828>CASE 8. Of diverging rays falling upon a concave surface, and proceeding from a point beyond the cen- tre.<x_0.9834><y_0.8227><class_Text>\n\n<x_0.2598><y_0.8242>DEM. Let FB, FD, be the incident rays having their radiant in F, the imaginary focus of the incident rays in the foregoing cafe. Then as ED was in that cafe reflected into DK, FD will now be reflected into DR; fo that R will be the focus of the reflected rays. But it was demonstrated in the foregoing cafe, that RB is to FB as RC to CF; that is, the distance of<x_0.9971><y_0.9242><class_Text>\n\n<x_0.1182><y_0.5344>Plate CCXII.<x_0.2139><y_0.5594><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2662,
+   "completion_tokens": 862,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

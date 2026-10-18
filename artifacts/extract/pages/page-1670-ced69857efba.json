@@ -1,0 +1,466 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1670",
+ "row_index": 1670,
+ "volume_id": "149978642",
+ "filename": "page-1670-ced69857efba.jpg",
+ "image_sha256": "ced69857efbaddd760fb2634b21a1c56dcc9c43fabda3705dd3b69f16e93c707",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.05882,
+  "median_grey": 222,
+  "layout_body_chars": 6303,
+  "layout_pictures": 1
+ },
+ "running_head": "C A P [ 141 ] C A P",
+ "layout_raw": "page-1670-ced69857efba/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0231,
+    1.0,
+    0.0499
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1670-ced69857efba/head.json",
+   "finish_reason": "stop",
+   "request_key": "8ebd9d07880cca10ca7a27967b3a0fdbec466f95eb32a4827486861575dcdb43"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0231,
+    0.465,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0231,
+     0.1045,
+     0.46
+    ],
+    [
+     0.1045,
+     0.1859,
+     0.4583
+    ],
+    [
+     0.1859,
+     0.2673,
+     0.4583
+    ],
+    [
+     0.2673,
+     0.3487,
+     0.4583
+    ],
+    [
+     0.3487,
+     0.4301,
+     0.4583
+    ],
+    [
+     0.4301,
+     0.5115,
+     0.4583
+    ],
+    [
+     0.5115,
+     0.593,
+     0.4583
+    ],
+    [
+     0.593,
+     0.6744,
+     0.4583
+    ],
+    [
+     0.6744,
+     0.7558,
+     0.4583
+    ],
+    [
+     0.7558,
+     0.8372,
+     0.4583
+    ],
+    [
+     0.8372,
+     0.9186,
+     0.4583
+    ],
+    [
+     0.9186,
+     1.0,
+     0.4583
+    ]
+   ],
+   "raw_path": "page-1670-ced69857efba/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "798ec20119b92b02428d2c164d4a5757a4b868b442b48c6be096ebf04e101481"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4533,
+    0.0231,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0231,
+     0.1045,
+     0.46
+    ],
+    [
+     0.1045,
+     0.1859,
+     0.4583
+    ],
+    [
+     0.1859,
+     0.2673,
+     0.4583
+    ],
+    [
+     0.2673,
+     0.3487,
+     0.4583
+    ],
+    [
+     0.3487,
+     0.4301,
+     0.4583
+    ],
+    [
+     0.4301,
+     0.5115,
+     0.4583
+    ],
+    [
+     0.5115,
+     0.593,
+     0.4583
+    ],
+    [
+     0.593,
+     0.6744,
+     0.4583
+    ],
+    [
+     0.6744,
+     0.7558,
+     0.4583
+    ],
+    [
+     0.7558,
+     0.8372,
+     0.4583
+    ],
+    [
+     0.8372,
+     0.9186,
+     0.4583
+    ],
+    [
+     0.9186,
+     1.0,
+     0.4583
+    ]
+   ],
+   "raw_path": "page-1670-ced69857efba/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "73f15243a6e5b043fb9de255ec1cfb1ed5ae3fd6cf6e2a4d11eac23c69671f54"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "C A P [ 141 ] C A P",
+   "bbox": [
+    0.0,
+    0.0231,
+    1.0,
+    0.0499
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1670-ced69857efba:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**C A P [ 1a**",
+   "bbox": [
+    0.1862,
+    0.0293,
+    0.4645,
+    0.0491
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1670-ced69857efba:b1"
+  },
+  {
+   "order": 2,
+   "class": "Margin-note",
+   "text": "**Cappado- cia.**",
+   "bbox": [
+    0.0118,
+    0.0498,
+    0.0726,
+    0.0887
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-left",
+   "id": "page-1670-ced69857efba:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "lent hands on himself. He is faid to have reigned 50 years.",
+   "bbox": [
+    0.0745,
+    0.0506,
+    0.4537,
+    0.0781
+   ],
+   "source": "s0-col-left",
+   "id": "page-1670-ced69857efba:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "On the death of Archelaus, the kingdom of Cappadocia was reduced to a Roman province, and governed by thofe of the equestrian order. It continued subject to the Romans till the invasion of the caltern empire by the Turks, to whom it is now fuject, but has no diltinguifhing modern name. In what was anciently called _Cappadocia_, however, the Turks have four Beglerbeglies, called _Siwar, Trelizond, Marafeb_, and _Cogni_.",
+   "bbox": [
+    0.074,
+    0.0773,
+    0.4532,
+    0.1979
+   ],
+   "source": "s0-col-left",
+   "id": "page-1670-ced69857efba:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "In the time of the Romans, the inhabitants of Cap- padocia bore fo bad a character, and were reputed to vicious and lewd, that, among the neighbouring nations, a wicked man was emphatically called a _Cappa- decision._ In after ages, however, their lewd difpolition was fo corrected and refrained by the pure doctrines of Christianity, that no country whatever has produced greater champions of the Christian religion, or given to the church prelates of more unblemified characters.",
+   "bbox": [
+    0.0736,
+    0.1971,
+    0.4527,
+    0.3292
+   ],
+   "source": "s0-col-left",
+   "id": "page-1670-ced69857efba:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "We have now no fyItem of the Cappadocian laws, and fearce wherewithal to form any particular idea of them. As to their commerce, they carried on a con- fiderable trade in horfes, great numbers of which were produced in their country; and we read of them in Scripture as frequenting the fairs of Tyre with this commodity. As Cappadocia abounded with mines of silver, brafs, iron, and alum, and afforded great flore of alabatter, cryfal, and jafper, it is probable that they might lupply the neighboring countries with these commodities.",
+   "bbox": [
+    0.0731,
+    0.3299,
+    0.4541,
+    0.4741
+   ],
+   "source": "s0-col-left",
+   "id": "page-1670-ced69857efba:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "The religion of the ancient Cappadocians was much the fame with that of the Perians. At Comana there was a rich and flately temple dedicated to Bellona; whofe battles the priets and their attendants ufed to teprefent on flated days, cutting and wounding each other as if feized with an enthufialtic fury. No lets famous and magnificent were the temples of Apollo Catanius, and of Jupiter: the left of which had 3000 faced fervants, or religious wataries. The chief priest was next in rank to that of Comana; and, according to Strabo, had an yearly revenue of 15 talents. Diana Pertica was worshipped in a city called _Cajlaballa_, where women, devoted to the worship of that goddefs, were reported to tread barefooted on burning coals, without receiving any hurt. The temples of Dianz at Diofpolis, and of Anias at Zela, were likewife held in great veneration both by the Cappadocians and Armenians, who flocked to them from all parts. In the latter were tendered all oaths in matters of consequence; and the chief among the priets was no way inferior in dignity, power, and wealth, to any in the kingdom; having a royal attendance, and an unlimited authority over all the inferior fervants and officers of the temple. The Romams, who willingly adopted all the superflutions and supertitious rites of the nations they conquered, greatly increased the revenues of this and other temples; conferring the prietthood on such as they thought moft fit for carrying on their deligns.-- We are told that human facrifices were offered at Comana; and that this barbarous cotton was brought by Oreftes and his filter Iphigenia from Taurica Seythica, where men and women were immolated to Diana. But",
+   "bbox": [
+    0.0749,
+    0.4749,
+    0.4545,
+    0.9001
+   ],
+   "source": "s0-col-left",
+   "id": "page-1670-ced69857efba:b7"
+  },
+  {
+   "order": 8,
+   "class": "Head-fragment",
+   "text": "**J ]**",
+   "bbox": [
+    0.4576,
+    0.0269,
+    0.5147,
+    0.0498
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b8"
+  },
+  {
+   "order": 9,
+   "class": "Head-fragment",
+   "text": "## CAP",
+   "bbox": [
+    0.6284,
+    0.0285,
+    0.7304,
+    0.0491
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "this cultom, if ever it obtained in Cappadocia, was a-bolithed in the times of the Romans.",
+   "bbox": [
+    0.4629,
+    0.0483,
+    0.8388,
+    0.0765
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b10"
+  },
+  {
+   "order": 11,
+   "class": "Caption",
+   "text": "Cappanse\nIl Capra.",
+   "bbox": [
+    0.8436,
+    0.0506,
+    0.9082,
+    0.0849
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "CAPPANUS, a name given by fome authors to a worm that adheres to and gnaws the bottoms of fhips; to which it is extremely pernicious, especially in the Eaft and Well Indies: to prevent this, feveral fhips have lately been theathed with copper; the first trial of which was made on his majetly's frigate the Alarm.",
+   "bbox": [
+    0.4635,
+    0.0758,
+    0.8404,
+    0.1574
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "CAPPARIS, in botany : A genus of the mono-gynia order, belonging to the polyandria clafs of plants; and in the natural method ranking under the 25th order, _Putaminae._ The calyx is tetraphyllous and cori-aceous; there petals are four; the flamina are long; the fruit is a berry, carnous, unilocular, and pedunca-lated, or furnished with a foot-falk.",
+   "bbox": [
+    0.4624,
+    0.1566,
+    0.8409,
+    0.2497
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "There are fewer species. The fpinofa, or common caper, is a low shrub, generally growing out of the joints of old walls, the fifures of rocks, and a-mongit rubbifh, in molt of the warm parts of Europe: it hath woody flalks, which fend out many lateral flen-der branches: under each of thefe are placed two short crooked fpines, between which and the branches come out the foottitalks of the leaves, which are fingle, flort, and fulltain a round fnooth entire leaf. At the inter-mediate joints, between the branches, come out the flowers on long foottitalks; before thefe expand, the bud with the empalement is gathered for pickling. Thofe which are left expand in form of a fingle role, having five large white petals, which are roundifh and concave; in the middle are placed a great number of long flamina, furrounding a flyle which rifes above them, and crowned with an oval germen, which afterwards becomes a capfulle filled with kidney-shaped feeds.",
+   "bbox": [
+    0.464,
+    0.2491,
+    0.8415,
+    0.4993
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "_Culture._ This plant is very differently preserved in Britain: it delights to grow in crevices of rocks, old walls, &c. and always thrives beft in an horizontal po-flure; fo that, when planted either in pots or in the full ground, they felddom thrive, though they may be kept alive for fome years. They are propagated by feeds in the warm parts of Europe, but very felddom in Britain.",
+   "bbox": [
+    0.4651,
+    0.5001,
+    0.8452,
+    0.6054
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "_Ufer._ The buds, pickled with vinegar, &c. are brought to Britain annually from Italy and the Mediterranean. They are fuppofed to excite appetite and afflit digestion; and to be particularly useful as deter- gents and aperients in obtitractions of the liver and spleen.",
+   "bbox": [
+    0.4656,
+    0.6062,
+    0.8441,
+    0.6855
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "CAPRA, or GOAT, a genus of quadrupeds belong- ing to the order of pecora. The horns are hollow, turned upwards, erect, and feabrous. There are eight fore-teeth in the under jaw, and none in the upper; and they have no dog-teeth. This genus conflicts of 14 species, viz.",
+   "bbox": [
+    0.4661,
+    0.6848,
+    0.843,
+    0.7642
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "I. The mixus, or common goat, with arched cari- nated horns, and a long beard. It is a native of the eastern mountains.",
+   "bbox": [
+    0.4666,
+    0.765,
+    0.8425,
+    0.8038
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "The goat is an animal of more flagacity than the sheep. Instead of having an antipathy at mankind, they voluntarily mingle with them, and are cafily ta- med. Even in uninhabited countries, they betray no favage difpositions. In the year 1698, an English vel-fel having put in to the illand of Bonavilla, two ne- groes came aboard, and offered gratis to the captain as",
+   "bbox": [
+    0.4672,
+    0.8046,
+    0.8446,
+    0.8993
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b19"
+  },
+  {
+   "order": 20,
+   "class": "Page-footer",
+   "text": "many",
+   "bbox": [
+    0.8003,
+    0.8985,
+    0.8419,
+    0.9123
+   ],
+   "source": "s0-col-right",
+   "id": "page-1670-ced69857efba:b20"
+  }
+ ]
+}

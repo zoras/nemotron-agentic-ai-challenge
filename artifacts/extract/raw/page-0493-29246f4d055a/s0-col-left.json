@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "c14cbcdf337c48d0bf6147fa1900f738eb430cc07074f77e12e6e0b83e3fc8fa",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "716ae5cc30d1dc08a552e4a768d8ee6e14ed0bdab92f311775f105dc89cd3399",
+  "image_bytes": 2061894,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:493",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0427,
+   0.4717,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0427,
+    0.1297,
+    0.4617
+   ],
+   [
+    0.1297,
+    0.2168,
+    0.465
+   ],
+   [
+    0.2168,
+    0.3038,
+    0.465
+   ],
+   [
+    0.3038,
+    0.3908,
+    0.465
+   ],
+   [
+    0.3908,
+    0.4778,
+    0.465
+   ],
+   [
+    0.4778,
+    0.5649,
+    0.465
+   ],
+   [
+    0.5649,
+    0.6519,
+    0.465
+   ],
+   [
+    0.6519,
+    0.7389,
+    0.465
+   ],
+   [
+    0.7389,
+    0.8259,
+    0.465
+   ],
+   [
+    0.8259,
+    0.913,
+    0.4667
+   ],
+   [
+    0.913,
+    1.0,
+    0.44
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2511,
+  "completion_tokens": 839,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.33,
+ "created_at": "2026-10-18T11:19:22+00:00",
+ "content": "<x_0.418><y_0.0055>I L A [ I<x_0.9883><y_0.0297><class_Page-header>\n\n<x_0.1523><y_0.0273>JILLIFREE, a town on the northern bank of the river Gambia, opposite to James’s island, where the English had formerly a small port. The kingdom of Barra, in which it is situated, produces abundance of the necessaries of life; but the chief trade of the inhabitants is in salt, which they carry up the river in cases; and, in return, bring down Indian corn, cotton- cloths, elephants teeth, small quantities of gold dust, &c. The number of causes and people continually employed in this trade, make the king of Barra, according to Mr Park, more formidable to Europeans, than any other chieftain on the river, and have encouraged him to establish those extravagant duties, which traders of all nations are obliged to pay at entry, mounting almost to 20l. on each vessel, great and small. These duties are commonly collected in person by the governor of Jillifree, who is attended by a troublesome train of dependants, who have some knowledge of the English language, in consequence of their intercourse with them, and beg with such importunity, that traders are often under the necessity of complying with their demands, in order to get rid of them. N. Lat. 13. 16. W. Long. 16. 10. from Greenwich.<x_0.9863><y_0.3523><class_Text>\n\n<x_0.1963><y_0.3484>JIN. See GENII.<x_0.4863><y_0.3641><class_Text>\n\n<x_0.1494><y_0.3625>IKENHLD STREET, one of the four famous ways which the Romans made in England, called _Stratum_ _lecnorum_, because it began in the country of the _Iconi_, who inhabited Norfolk, Suffolk, and Cambridgeshire.<x_0.9775><y_0.4219><class_Text>\n\n<x_0.1475><y_0.4195>HLA, ILAY, or _Isla_, one of the chief of the Hebrides or Western isles of Scotland, lying to the west of Jura, from which it is separated by a narrow channel. It extends 24 miles in length from north to south, and is 18 in breadth from east to west. On the east side there are many lofty sterile mountains; but in the interior, and to the southward and westward, the land is in good cultivation. A great body of limestone of a bluish colour, lying in the middle part of the island, stretches almost through its whole length, and is now extensively employed for the purposes of manure. Marl, which is also abundant, is applied to the same use. Lead-ore has been dug out in several places, and at so early a period as the time of the Danes. The principal harbour in Isla is at Lochindual, but there are several others which are safe and commodious. Here are several rivers and lakes well stored with trout, cels and salmon. In the centre is Loch Finlagan, about three miles in circuit, with the little isle of that name in the middle. Here the great lord of the Isles once resided in all the pomp of royalty; but his palaces and offices are now in ruins. Instead of a throne, Macdonald stood on a stone seven feet square, in which there was an impression made to receive his feet; here he was crowned and appointed by the bishop of Argyle and seven inferior priests, in presence of the chieftains. This stone still exists. The ceremony (after the new lord had collected his kindred and vassals) was truly patriarchal. After putting on his armour, his helmet and his sword, he took an oath to rule as his ancestors<x_0.9746><y_0.8453><class_Text>\n\n<x_0.1455><y_0.8734>(A) This might have been the case in the time of Penn so now, although the population has increased to nearly 1 being not only a grazing but a corn country, and can of produce. The number of cattle now exported far e<x_0.999><y_0.9445><class_Footnote>",
+ "reply": {
+  "id": "chatcmpl-45c38af9-f34c-4334-bba1-be15e14170bb",
+  "object": "chat.completion",
+  "created": 1792322361,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.418><y_0.0055>I L A [ I<x_0.9883><y_0.0297><class_Page-header>\n\n<x_0.1523><y_0.0273>JILLIFREE, a town on the northern bank of the river Gambia, opposite to James’s island, where the English had formerly a small port. The kingdom of Barra, in which it is situated, produces abundance of the necessaries of life; but the chief trade of the inhabitants is in salt, which they carry up the river in cases; and, in return, bring down Indian corn, cotton- cloths, elephants teeth, small quantities of gold dust, &c. The number of causes and people continually employed in this trade, make the king of Barra, according to Mr Park, more formidable to Europeans, than any other chieftain on the river, and have encouraged him to establish those extravagant duties, which traders of all nations are obliged to pay at entry, mounting almost to 20l. on each vessel, great and small. These duties are commonly collected in person by the governor of Jillifree, who is attended by a troublesome train of dependants, who have some knowledge of the English language, in consequence of their intercourse with them, and beg with such importunity, that traders are often under the necessity of complying with their demands, in order to get rid of them. N. Lat. 13. 16. W. Long. 16. 10. from Greenwich.<x_0.9863><y_0.3523><class_Text>\n\n<x_0.1963><y_0.3484>JIN. See GENII.<x_0.4863><y_0.3641><class_Text>\n\n<x_0.1494><y_0.3625>IKENHLD STREET, one of the four famous ways which the Romans made in England, called _Stratum_ _lecnorum_, because it began in the country of the _Iconi_, who inhabited Norfolk, Suffolk, and Cambridgeshire.<x_0.9775><y_0.4219><class_Text>\n\n<x_0.1475><y_0.4195>HLA, ILAY, or _Isla_, one of the chief of the Hebrides or Western isles of Scotland, lying to the west of Jura, from which it is separated by a narrow channel. It extends 24 miles in length from north to south, and is 18 in breadth from east to west. On the east side there are many lofty sterile mountains; but in the interior, and to the southward and westward, the land is in good cultivation. A great body of limestone of a bluish colour, lying in the middle part of the island, stretches almost through its whole length, and is now extensively employed for the purposes of manure. Marl, which is also abundant, is applied to the same use. Lead-ore has been dug out in several places, and at so early a period as the time of the Danes. The principal harbour in Isla is at Lochindual, but there are several others which are safe and commodious. Here are several rivers and lakes well stored with trout, cels and salmon. In the centre is Loch Finlagan, about three miles in circuit, with the little isle of that name in the middle. Here the great lord of the Isles once resided in all the pomp of royalty; but his palaces and offices are now in ruins. Instead of a throne, Macdonald stood on a stone seven feet square, in which there was an impression made to receive his feet; here he was crowned and appointed by the bishop of Argyle and seven inferior priests, in presence of the chieftains. This stone still exists. The ceremony (after the new lord had collected his kindred and vassals) was truly patriarchal. After putting on his armour, his helmet and his sword, he took an oath to rule as his ancestors<x_0.9746><y_0.8453><class_Text>\n\n<x_0.1455><y_0.8734>(A) This might have been the case in the time of Penn so now, although the population has increased to nearly 1 being not only a grazing but a corn country, and can of produce. The number of cattle now exported far e<x_0.999><y_0.9445><class_Footnote>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2511,
+   "completion_tokens": 839,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

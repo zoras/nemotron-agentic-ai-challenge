@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "183559c178c4325152735fa20a7816622f44bd70f0158ef2d033a2b210e636a9",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ad7f05d27e5c9f9a6d2bb44509afe16fd6da27c69267163c9adf1f4258738bcc",
+  "image_bytes": 1772435,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:383",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.1241,
+   0.5217,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.1241,
+    0.2037,
+    0.5167
+   ],
+   [
+    0.2037,
+    0.2834,
+    0.5167
+   ],
+   [
+    0.2834,
+    0.363,
+    0.5167
+   ],
+   [
+    0.363,
+    0.4426,
+    0.5167
+   ],
+   [
+    0.4426,
+    0.5222,
+    0.5167
+   ],
+   [
+    0.5222,
+    0.6019,
+    0.5167
+   ],
+   [
+    0.6019,
+    0.6815,
+    0.5167
+   ],
+   [
+    0.6815,
+    0.7611,
+    0.5167
+   ],
+   [
+    0.7611,
+    0.8407,
+    0.5167
+   ],
+   [
+    0.8407,
+    0.9204,
+    0.5167
+   ],
+   [
+    0.9204,
+    1.0,
+    0.5167
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1928,
+  "total_tokens": 2688,
+  "completion_tokens": 760,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.07,
+ "created_at": "2026-10-18T11:10:11+00:00",
+ "content": "<x_0.2256><y_0.0>by human industry, the price is there and almost any other cafe. The increailing fearcity and confecquently value of land, tends indeed to raife it; but this is counteracted by the invention of machinery, and improved methods of labour. The opposite agency of thefe two causes has a constant tendency to preserve uniformity in the value of grain; though we cannot, with Smith, confer this uniformity as likely to be fo complete, as to render the price of grain a fure flandard for the value of flavor.<x_0.9727><y_0.1453><class_Text>\n\n<x_0.2266><y_0.1391>There are other commodities, however, which nature produces in abundance, or which, where land is plentiful, can be multiplied with little or no cultivation. Of thefe the principal is butcher meat. Lands can be covered with cattle or fleep by the labour of few hands, and fometimes without any labour at all. Hence, in rude times, butcher meat is always cheaper than corn; in improved periods, the revere is the cafe. For a long time the price continues confianly to rifle, as we have seen it do throughout Great Britain, the pasture lands being more and more converted into arable. At left, however, it becomes fo high as to make it an object for the farmer to fall his cattle, and to cultivate ground for the purpofe of feeding them. After this era, the price is likely to experience a certain diminution, from the improved modes of feeding and rearing, which, in consequence of this new attention, are likely to be dif-covered and adopted.<x_0.9746><y_0.4219><class_Text>\n\n<x_0.2295><y_0.4164>There are certain animals, as hogs, poultry, Sec. which are fed on mere offals, and in a rude fate, therefore, are fill cheaper than butcher meat. In an improved plate they are dearer; for they have not as yet, at least in this country, become an object of separate cultivation.<x_0.9766><y_0.5125><class_Text>\n\n<x_0.2393><y_0.5078>The third fort conflicts of thofe, in the multiplication of which the power of man is either limited or uncertain. In thefe the rule is various. Some commodities are not cultivated on their own account, but are appen-dages to others; as wool and hides to the carecafe of the ox or fleep. Both thefe commodities are much more portable, and more easily preferred, than the flesh of the animals from which they are taken: the market for them is thus much more extensive, and the demand more equal at all times. Hence, in rude periods, when the flesh of animals, from its abundance, is of small value, thefe appendages equal or furpafs it in price. At Buenos Ayres frequently, and fometimes even in Spain, an ox is killed for the fake of the hide and tallow. In an improved flate of fociety, on the contrary, the hide and fleece become confiderably inferior in value to the carecafe.<x_0.9785><y_0.7742><class_Text>\n\n<x_0.2461><y_0.7688>_Fifb_ is an article, the fupply of which is confiderably limited, as man has no power of production in respect to it, though, by the exertion of indultry, he can collect a greater quantity. Shoals of filh are generally co-pious, but uncertain.<x_0.9814><y_0.8531><class_Text>\n\n<x_0.248><y_0.8461>Metals and minerals are articles, the fupply of which is not precisely limited, but extremely uncertain. The discovery of new mines, or the continuance of fertility in the old, are equally beyond the reach of calcula-tion.<x_0.9883><y_0.9305><class_Text>\n\n<x_0.627><y_0.9281>2<x_0.6533><y_0.9406><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-9cd94ad9-b143-4f74-8981-326f33c68c07",
+  "object": "chat.completion",
+  "created": 1792321810,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.2256><y_0.0>by human industry, the price is there and almost any other cafe. The increailing fearcity and confecquently value of land, tends indeed to raife it; but this is counteracted by the invention of machinery, and improved methods of labour. The opposite agency of thefe two causes has a constant tendency to preserve uniformity in the value of grain; though we cannot, with Smith, confer this uniformity as likely to be fo complete, as to render the price of grain a fure flandard for the value of flavor.<x_0.9727><y_0.1453><class_Text>\n\n<x_0.2266><y_0.1391>There are other commodities, however, which nature produces in abundance, or which, where land is plentiful, can be multiplied with little or no cultivation. Of thefe the principal is butcher meat. Lands can be covered with cattle or fleep by the labour of few hands, and fometimes without any labour at all. Hence, in rude times, butcher meat is always cheaper than corn; in improved periods, the revere is the cafe. For a long time the price continues confianly to rifle, as we have seen it do throughout Great Britain, the pasture lands being more and more converted into arable. At left, however, it becomes fo high as to make it an object for the farmer to fall his cattle, and to cultivate ground for the purpofe of feeding them. After this era, the price is likely to experience a certain diminution, from the improved modes of feeding and rearing, which, in consequence of this new attention, are likely to be dif-covered and adopted.<x_0.9746><y_0.4219><class_Text>\n\n<x_0.2295><y_0.4164>There are certain animals, as hogs, poultry, Sec. which are fed on mere offals, and in a rude fate, therefore, are fill cheaper than butcher meat. In an improved plate they are dearer; for they have not as yet, at least in this country, become an object of separate cultivation.<x_0.9766><y_0.5125><class_Text>\n\n<x_0.2393><y_0.5078>The third fort conflicts of thofe, in the multiplication of which the power of man is either limited or uncertain. In thefe the rule is various. Some commodities are not cultivated on their own account, but are appen-dages to others; as wool and hides to the carecafe of the ox or fleep. Both thefe commodities are much more portable, and more easily preferred, than the flesh of the animals from which they are taken: the market for them is thus much more extensive, and the demand more equal at all times. Hence, in rude periods, when the flesh of animals, from its abundance, is of small value, thefe appendages equal or furpafs it in price. At Buenos Ayres frequently, and fometimes even in Spain, an ox is killed for the fake of the hide and tallow. In an improved flate of fociety, on the contrary, the hide and fleece become confiderably inferior in value to the carecafe.<x_0.9785><y_0.7742><class_Text>\n\n<x_0.2461><y_0.7688>_Fifb_ is an article, the fupply of which is confiderably limited, as man has no power of production in respect to it, though, by the exertion of indultry, he can collect a greater quantity. Shoals of filh are generally co-pious, but uncertain.<x_0.9814><y_0.8531><class_Text>\n\n<x_0.248><y_0.8461>Metals and minerals are articles, the fupply of which is not precisely limited, but extremely uncertain. The discovery of new mines, or the continuance of fertility in the old, are equally beyond the reach of calcula-tion.<x_0.9883><y_0.9305><class_Text>\n\n<x_0.627><y_0.9281>2<x_0.6533><y_0.9406><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1928,
+   "total_tokens": 2688,
+   "completion_tokens": 760,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

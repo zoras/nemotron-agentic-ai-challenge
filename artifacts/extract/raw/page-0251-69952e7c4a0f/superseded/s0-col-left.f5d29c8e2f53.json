@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "f5d29c8e2f53dddbe797dcd8bbb8342701f82d477fda503d3c8179eb82ed795f",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "d0e5983d7bebeda78a142d3beaff925fa9a6d1a12d340af3360e3ed86a05bdb3",
+  "image_bytes": 1738753,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:251",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0296,
+   0.51,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0296,
+    0.1105,
+    0.505
+   ],
+   [
+    0.1105,
+    0.1913,
+    0.505
+   ],
+   [
+    0.1913,
+    0.2722,
+    0.505
+   ],
+   [
+    0.2722,
+    0.3531,
+    0.505
+   ],
+   [
+    0.3531,
+    0.4339,
+    0.505
+   ],
+   [
+    0.4339,
+    0.5148,
+    0.505
+   ],
+   [
+    0.5148,
+    0.5957,
+    0.505
+   ],
+   [
+    0.5957,
+    0.6765,
+    0.505
+   ],
+   [
+    0.6765,
+    0.7574,
+    0.505
+   ],
+   [
+    0.7574,
+    0.8383,
+    0.505
+   ],
+   [
+    0.8383,
+    0.9191,
+    0.505
+   ],
+   [
+    0.9191,
+    1.0,
+    0.505
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2837,
+  "completion_tokens": 1165,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.88,
+ "created_at": "2026-10-18T11:09:58+00:00",
+ "content": "<x_0.0332><y_0.0>part of the country that border on Italy or France, a cor-\nrupt French or Italian prevails. The two predominant re-\nligions are Calvinifm and Popery. Of the former are the\ncantons of Zurich and Berne, the town of St Gall, Geneva,\nMuhlhaufen, and Biel, the principality of Neufchatel, the\ngreater part of Bafil, Schaffhaufen, the country of the Gri-\nfons, the Thurgau, Toggenburg, Glaris, and the Rhine val-\nley; the frontiers of Appenzel, with a final part of Solo-\nthurn, and fome places in the countries of Baden and Sar-\ngans. The relt of the Swifts cantons, allies and dependents,\nare Popilh. For the education of youth there is an univer-\nfly at Bafl, and academies at Zurich, Berne, Laufanne, and\nGeneva, heides gymnasiums and fcholae illultures, both in the\nPopilh and Proteitant cantons. There are alfo focietics a-\nmong them for the improvement of the German language\nand the fenences.<x_0.9824><y_0.2133><class_Text>\n\n<x_0.1631><y_0.2117>The principal manufactures are fluff and tobacco, linen\nof feveral forts, lace, thread, filk, and worlted flockings,\nneckcloths, cotton fluffs, gloves, handkerchiefs, filks of fever-\nral forts, gold and filter brocades, a variety of woollen manu-\nfactures, hats, paper, leather of all forts, carthen wares, por-\ncelain, toys, watches, clocks, and other hardwares, &c.\nThe trade of Switzerland is greatly promoted by many na-\nvigable lakes and rivers. In fome of the above manufactures,\nand in cheefe, butter, fleep, horfes, black cattle, hides, and\nfkins, the exports are confiderable ; and as the imports are\nchiefly grain and fall, with fome American and Afiatic goods,\nthere is probably a large balance in their favour. In fome\nparts of Switzerland drefs is refrained by fumptuary laws.<x_0.9814><y_0.393><class_Text>\n\n<x_0.1641><y_0.3898>The public revenues are in general very inconfiderable,\narifing chiefly from the ufual regalia, appropriated every-\nwhere to the fovereign, the demefnes, and public granaries,\nvoluntary contributions, the fale of fall, and a land-tax ; in\nthe Protefitant cantons, from the church lands alfo that were\nfeized at the Reformation. Except in Zurich, Berne, Bafl,\nand Schaffhaufen, where the people are more indultrious,\nhave a greater trade, and are richer than in the others, they\ndefray the ordinary charges, and that is all.<x_0.9805><y_0.5148><class_Text>\n\n<x_0.1621><y_0.5125>The cantons never keep any flooding troops, except for a\nfew garrifons ; but their militia is reckoned to be the beft\nregulated of any in Europe. Every male from 16 to 60 is\nenrolled, and about one-third of them regimented. They\nmult all provide themselves with arms, clothing, and accou-\ntrements, and appear on the flated days for exercife ; and the\nferonal cantons and difriets mult be furnished with a fuffici-\nent train of artillery, and all the other implements of war.\nThe Switzers of the feveral cantons are allowed to engage\nin the service of fuch foreign princes and flates as are in ali-\nance with thofe cantons, or with whom they have made a pre-\nvious agreement. Such flates, paying an annual fubfidy to the\nrepetitive cantons, are allowed to make levies. Every man\ncalifts voluntarily, and for what number of years he pleafes ;\nat the expiration of which he is at liberty to return\nhome. A great many thus always returning from foreign\nservice, Switzerland is never unprovided with able and ex-\nperienced officers and foldiers. With respect to their cha-\nracter, they are a brave, honest, hofpitable, hardy people ;\nvery true to their engagements, friendly, and humane. In\nshort, there is not a people in Europe whole national cha-\nracter is better. In their perfons they are generally tall,\nrobuft, and well-made ; but their complexions are none of\nthe beft, and thofe that live in the neighbourhood of the\nmountains are subject to wens. The women are laid to be\ngenerally handlome and well-fhaped, ferible and modell, yet\nfrank, cafy, and agreeable in conversation. Few of the\npeafants are miferably poor ; many of them are rich, eipe-\ncially in the Protefitant cantons, and that of Berne in partic-\ncular.<x_0.9795><y_0.9273><class_Text>",
+ "reply": {
+  "id": "chatcmpl-b5edb316-1f4a-4e9a-81b9-5040eabc638f",
+  "object": "chat.completion",
+  "created": 1792321797,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0332><y_0.0>part of the country that border on Italy or France, a cor-\nrupt French or Italian prevails. The two predominant re-\nligions are Calvinifm and Popery. Of the former are the\ncantons of Zurich and Berne, the town of St Gall, Geneva,\nMuhlhaufen, and Biel, the principality of Neufchatel, the\ngreater part of Bafil, Schaffhaufen, the country of the Gri-\nfons, the Thurgau, Toggenburg, Glaris, and the Rhine val-\nley; the frontiers of Appenzel, with a final part of Solo-\nthurn, and fome places in the countries of Baden and Sar-\ngans. The relt of the Swifts cantons, allies and dependents,\nare Popilh. For the education of youth there is an univer-\nfly at Bafl, and academies at Zurich, Berne, Laufanne, and\nGeneva, heides gymnasiums and fcholae illultures, both in the\nPopilh and Proteitant cantons. There are alfo focietics a-\nmong them for the improvement of the German language\nand the fenences.<x_0.9824><y_0.2133><class_Text>\n\n<x_0.1631><y_0.2117>The principal manufactures are fluff and tobacco, linen\nof feveral forts, lace, thread, filk, and worlted flockings,\nneckcloths, cotton fluffs, gloves, handkerchiefs, filks of fever-\nral forts, gold and filter brocades, a variety of woollen manu-\nfactures, hats, paper, leather of all forts, carthen wares, por-\ncelain, toys, watches, clocks, and other hardwares, &c.\nThe trade of Switzerland is greatly promoted by many na-\nvigable lakes and rivers. In fome of the above manufactures,\nand in cheefe, butter, fleep, horfes, black cattle, hides, and\nfkins, the exports are confiderable ; and as the imports are\nchiefly grain and fall, with fome American and Afiatic goods,\nthere is probably a large balance in their favour. In fome\nparts of Switzerland drefs is refrained by fumptuary laws.<x_0.9814><y_0.393><class_Text>\n\n<x_0.1641><y_0.3898>The public revenues are in general very inconfiderable,\narifing chiefly from the ufual regalia, appropriated every-\nwhere to the fovereign, the demefnes, and public granaries,\nvoluntary contributions, the fale of fall, and a land-tax ; in\nthe Protefitant cantons, from the church lands alfo that were\nfeized at the Reformation. Except in Zurich, Berne, Bafl,\nand Schaffhaufen, where the people are more indultrious,\nhave a greater trade, and are richer than in the others, they\ndefray the ordinary charges, and that is all.<x_0.9805><y_0.5148><class_Text>\n\n<x_0.1621><y_0.5125>The cantons never keep any flooding troops, except for a\nfew garrifons ; but their militia is reckoned to be the beft\nregulated of any in Europe. Every male from 16 to 60 is\nenrolled, and about one-third of them regimented. They\nmult all provide themselves with arms, clothing, and accou-\ntrements, and appear on the flated days for exercife ; and the\nferonal cantons and difriets mult be furnished with a fuffici-\nent train of artillery, and all the other implements of war.\nThe Switzers of the feveral cantons are allowed to engage\nin the service of fuch foreign princes and flates as are in ali-\nance with thofe cantons, or with whom they have made a pre-\nvious agreement. Such flates, paying an annual fubfidy to the\nrepetitive cantons, are allowed to make levies. Every man\ncalifts voluntarily, and for what number of years he pleafes ;\nat the expiration of which he is at liberty to return\nhome. A great many thus always returning from foreign\nservice, Switzerland is never unprovided with able and ex-\nperienced officers and foldiers. With respect to their cha-\nracter, they are a brave, honest, hofpitable, hardy people ;\nvery true to their engagements, friendly, and humane. In\nshort, there is not a people in Europe whole national cha-\nracter is better. In their perfons they are generally tall,\nrobuft, and well-made ; but their complexions are none of\nthe beft, and thofe that live in the neighbourhood of the\nmountains are subject to wens. The women are laid to be\ngenerally handlome and well-fhaped, ferible and modell, yet\nfrank, cafy, and agreeable in conversation. Few of the\npeafants are miferably poor ; many of them are rich, eipe-\ncially in the Protefitant cantons, and that of Berne in partic-\ncular.<x_0.9795><y_0.9273><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2837,
+   "completion_tokens": 1165,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

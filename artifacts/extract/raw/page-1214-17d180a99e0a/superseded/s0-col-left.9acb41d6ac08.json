@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "9acb41d6ac08478f6be19d90b8199bbc63009f806963992f5b5e27bc75486bb1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "9dc6c2e17aceb1a226f81728566f298412731772affaadc1302ef72feab9312c",
+  "image_bytes": 2383533,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1214",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0507,
+   0.5367,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0507,
+    0.137,
+    0.5317
+   ],
+   [
+    0.137,
+    0.2233,
+    0.5317
+   ],
+   [
+    0.2233,
+    0.3096,
+    0.5317
+   ],
+   [
+    0.3096,
+    0.3959,
+    0.5317
+   ],
+   [
+    0.3959,
+    0.4822,
+    0.5317
+   ],
+   [
+    0.4822,
+    0.5685,
+    0.5317
+   ],
+   [
+    0.5685,
+    0.6548,
+    0.5317
+   ],
+   [
+    0.6548,
+    0.7411,
+    0.5317
+   ],
+   [
+    0.7411,
+    0.8274,
+    0.5317
+   ],
+   [
+    0.8274,
+    0.9137,
+    0.5317
+   ],
+   [
+    0.9137,
+    1.0,
+    0.5317
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2590,
+  "completion_tokens": 790,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.23,
+ "created_at": "2026-10-18T11:10:43+00:00",
+ "content": "<x_0.2666><y_0.0>thickened the air in the pit, and then it would appear again; they lighted their candles at it fometimes when they went out; and fo in this pit it did no further harm.\"<x_0.9814><y_0.0555><class_Text>\n\n<x_0.2656><y_0.0539>In another pit, however, it foon appeared, and at left produced a moft terrible explofion. This was occa-tioned by one of the workmen going impridently down with a lighted candle, after a cellation of work for fome days, and the force exerted by it feemed equal to that of gun-powder.<x_0.9824><y_0.1414><class_Text>\n\n<x_0.2646><y_0.1391>The formation of inflammable air in mines cannot be attributed to any vitiation of the atmosphere; for there is no natural procefs with which we are acquainted, by which fuch a change could be accom-plifhed. In one influence, however, we have an example of a fire-damp being produced, not only without any confiderable stagnation of atmospheric air, but where there is the belt circulation imaginable. This is in large bellows ufed in metallurgic works, which are fometimes burlt by an explosion of inflammable matter proceeding from the rancid matters with which the leather is greafed. Dr Priefley has shown, that inflammable air is compoferd of pure elementary fire, charcoal or phlogilton, and a little water; and that this composition may take place even in two. All thefe materials are to be met with in the bowels of the earth. Coal, a bituminous fubliance, is abundantly able to supply the phlogilton; the natural moisture of the earth affords water, and the heat, however gentle, which constantly exifts in the bowels of the earth, may be sufficient to produce a quantity of inflammable air, which gradually accumulating in thofe places where there is not a constant stream of atmospherical air to carry it off, will foon produce the dreadful effects already mentioned.<x_0.9834><y_0.4969><class_Text>\n\n<x_0.2607><y_0.4945>A much more important consideration than the formation of damps, however, is the proper method of avoiding their pernicious effects. The inflammabi- lity of one kind affords an easy method of preventing it from accumulating, viz. by fetting fire to it. This may be done with safety, unless it has been fuffered to go too far before the experiment is made: for the inflammationable air, being much lighter than any other kind, will naturally rife to the top; fo that a man, lying flat on the ground to avoid the force of the exploration, and holding up a lighted candle fixed upon a pole, may at once free the mine from fuch a trouble- fome guelt. But where it has been allowed to accumulate in too great quantity, fo that this method cannot be ufed, or in the other kind, which is not inflammable, the method commonly practified is to produce a constant circulation of air as much as poflible through all parts of the mine. To procure this, they make a perpendicular opening, which they call a _fkank_ or _fhaft_, fo that the mine may have two or more openings; and thus by reafon of the difference of temperature between the open atmosphere and that in the mine, there is a continual draght of air through them both. This current will always be stronger in proportion to the difference between the external atmosphere and that of the mine; and likewise in proportion to the difference between the depth of the two thatts. But as the temperature of the atmosphere is variable, it happens, at certain leafons of the year, that there is not a sufficient difference between that<x_0.9795><y_0.9234><class_Text>",
+ "reply": {
+  "id": "chatcmpl-d932b565-3fe3-4060-bac1-587ae08671b2",
+  "object": "chat.completion",
+  "created": 1792321842,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.2666><y_0.0>thickened the air in the pit, and then it would appear again; they lighted their candles at it fometimes when they went out; and fo in this pit it did no further harm.\"<x_0.9814><y_0.0555><class_Text>\n\n<x_0.2656><y_0.0539>In another pit, however, it foon appeared, and at left produced a moft terrible explofion. This was occa-tioned by one of the workmen going impridently down with a lighted candle, after a cellation of work for fome days, and the force exerted by it feemed equal to that of gun-powder.<x_0.9824><y_0.1414><class_Text>\n\n<x_0.2646><y_0.1391>The formation of inflammable air in mines cannot be attributed to any vitiation of the atmosphere; for there is no natural procefs with which we are acquainted, by which fuch a change could be accom-plifhed. In one influence, however, we have an example of a fire-damp being produced, not only without any confiderable stagnation of atmospheric air, but where there is the belt circulation imaginable. This is in large bellows ufed in metallurgic works, which are fometimes burlt by an explosion of inflammable matter proceeding from the rancid matters with which the leather is greafed. Dr Priefley has shown, that inflammable air is compoferd of pure elementary fire, charcoal or phlogilton, and a little water; and that this composition may take place even in two. All thefe materials are to be met with in the bowels of the earth. Coal, a bituminous fubliance, is abundantly able to supply the phlogilton; the natural moisture of the earth affords water, and the heat, however gentle, which constantly exifts in the bowels of the earth, may be sufficient to produce a quantity of inflammable air, which gradually accumulating in thofe places where there is not a constant stream of atmospherical air to carry it off, will foon produce the dreadful effects already mentioned.<x_0.9834><y_0.4969><class_Text>\n\n<x_0.2607><y_0.4945>A much more important consideration than the formation of damps, however, is the proper method of avoiding their pernicious effects. The inflammabi- lity of one kind affords an easy method of preventing it from accumulating, viz. by fetting fire to it. This may be done with safety, unless it has been fuffered to go too far before the experiment is made: for the inflammationable air, being much lighter than any other kind, will naturally rife to the top; fo that a man, lying flat on the ground to avoid the force of the exploration, and holding up a lighted candle fixed upon a pole, may at once free the mine from fuch a trouble- fome guelt. But where it has been allowed to accumulate in too great quantity, fo that this method cannot be ufed, or in the other kind, which is not inflammable, the method commonly practified is to produce a constant circulation of air as much as poflible through all parts of the mine. To procure this, they make a perpendicular opening, which they call a _fkank_ or _fhaft_, fo that the mine may have two or more openings; and thus by reafon of the difference of temperature between the open atmosphere and that in the mine, there is a continual draght of air through them both. This current will always be stronger in proportion to the difference between the external atmosphere and that of the mine; and likewise in proportion to the difference between the depth of the two thatts. But as the temperature of the atmosphere is variable, it happens, at certain leafons of the year, that there is not a sufficient difference between that<x_0.9795><y_0.9234><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2590,
+   "completion_tokens": 790,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

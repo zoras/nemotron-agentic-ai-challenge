@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "e9744bf790792959dd9ba0131ac39019120b81db4b3448c183a03ab54a8c8f6d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ce88f82f9d9e17cca8d52777935aea69a963efc4fc707336498f7d05dd569e0d",
+  "image_bytes": 2331186,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1933",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0538,
+   0.515,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0538,
+    0.1398,
+    0.51
+   ],
+   [
+    0.1398,
+    0.2258,
+    0.51
+   ],
+   [
+    0.2258,
+    0.3119,
+    0.51
+   ],
+   [
+    0.3119,
+    0.3979,
+    0.51
+   ],
+   [
+    0.3979,
+    0.4839,
+    0.51
+   ],
+   [
+    0.4839,
+    0.5699,
+    0.51
+   ],
+   [
+    0.5699,
+    0.6559,
+    0.51
+   ],
+   [
+    0.6559,
+    0.7419,
+    0.51
+   ],
+   [
+    0.7419,
+    0.828,
+    0.51
+   ],
+   [
+    0.828,
+    0.914,
+    0.51
+   ],
+   [
+    0.914,
+    1.0,
+    0.51
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2535,
+  "completion_tokens": 863,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.34,
+ "created_at": "2026-10-18T11:11:24+00:00",
+ "content": "<x_0.0664><y_0.0><Equation><x_0.9883><y_0.0391><class_Formula>\n\n<x_0.1055><y_0.0398>58<x_0.1631><y_0.0578><class_Caption>\n\n<x_0.1924><y_0.0375>When a word is repeated again with vehemence in the fame fenfe, it is called epizeuxis. This figure hews the earnellnefs of the fpeaker, and his great concern of mind about what he fays; and therefore has a natural tendency to excite the attention of the audience. It is fuited to exprefs anger, furprize, forrow, and feveral other paffions. As when Cicero would exprefs his indignation against Anthony for having been the chief instrument in bringing on the civil war, he fays to him: _You, you, Anthony, pushed Cear upon the civil war._ And thus he tells Catiline in his first invectiveagaint him: _You live; and live, not to lay afide, but to purifies, your wicked design._ And when our Saviour would exprefs his great concern and forrow for the wickednefs of the Jews, he does it in this pathetic manner: _O Jerufalem, Jerufalem, who killeft the prophets!_<x_0.9893><y_0.2766><class_Text>\n\n<x_0.1895><y_0.275>_Climax_, is a beautiful kind of repetition, when the word, which ends the firft member of a period, begins the fecond, and fo through each member, till the whole is finified. There is a great deal of strength as well as beauty in this figure, where the fevereal fleps rife naturally, and are clofely connected with each other. As in this example: _There is no enjoyment of property without government, no government without a magifrate, no magifrate without obedience, and no obedience where every one affs as he pleafer._ But, as Quintilian obferves, this figure lies fo open, that it is apt to look too much like art; for which reafon he advifes not to ufe it often. To prevent this, therefore, orators fometimes difguife it, by not repeating the fame word which flood in the former member, but fome other equivalent to it. As in the following inflance of Cicero for Milo : \" Nor did he commit himself only to the people, but alfo to the fenate; nor to the fenate only, but likewife to the public forces; nor to thefe only, but alfo to his power with whom the female had entrufted the whole commonwealth.\"<x_0.9902><y_0.5703><class_Text>\n\n<x_0.1885><y_0.5695>When several fentences, or members of a fentence, begin with the fame word, it is called _anaphora._ This is a lively and elegant figure, and ferves very much to engage the attention. For by the frequent return of the fame word the mind of the hearer is held in an agreeable fufpence, till the whole is finified. \" You do nothing, (fays Cicero to Catiline,) you attempt nothing, you think nothing, but what I not only bear, but alfo fee, and plainly perceive.\" It is frequently ufed by way of question; which renders it not only beautiful, but likewise frong and nervous. As at the beginning of the fame fpecech : \" Does neither the night-guard of the palace, nor the city-watch, nor the peoples fear, nor the agreement of all good men, nor the meeting of the fenate in this fortified place, nor the countenances and looks of this affembly, at all move you?\" And in another of his orations: \" What is fo popular as peace, which feems to afford a pleasure, not only to beings endowed with fenfe, but even to inanimate nature? What is fo popular as liberty, which even beafts as well as men from to covet and prefer above all things? What is fo popular as eafe and leifure, for the enjoyment of which you<x_0.9912><y_0.8938><class_Text>",
+ "reply": {
+  "id": "chatcmpl-b72d8dc8-0bae-44fd-a842-f8a95eb257ca",
+  "object": "chat.completion",
+  "created": 1792321883,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0664><y_0.0><Equation><x_0.9883><y_0.0391><class_Formula>\n\n<x_0.1055><y_0.0398>58<x_0.1631><y_0.0578><class_Caption>\n\n<x_0.1924><y_0.0375>When a word is repeated again with vehemence in the fame fenfe, it is called epizeuxis. This figure hews the earnellnefs of the fpeaker, and his great concern of mind about what he fays; and therefore has a natural tendency to excite the attention of the audience. It is fuited to exprefs anger, furprize, forrow, and feveral other paffions. As when Cicero would exprefs his indignation against Anthony for having been the chief instrument in bringing on the civil war, he fays to him: _You, you, Anthony, pushed Cear upon the civil war._ And thus he tells Catiline in his first invectiveagaint him: _You live; and live, not to lay afide, but to purifies, your wicked design._ And when our Saviour would exprefs his great concern and forrow for the wickednefs of the Jews, he does it in this pathetic manner: _O Jerufalem, Jerufalem, who killeft the prophets!_<x_0.9893><y_0.2766><class_Text>\n\n<x_0.1895><y_0.275>_Climax_, is a beautiful kind of repetition, when the word, which ends the firft member of a period, begins the fecond, and fo through each member, till the whole is finified. There is a great deal of strength as well as beauty in this figure, where the fevereal fleps rife naturally, and are clofely connected with each other. As in this example: _There is no enjoyment of property without government, no government without a magifrate, no magifrate without obedience, and no obedience where every one affs as he pleafer._ But, as Quintilian obferves, this figure lies fo open, that it is apt to look too much like art; for which reafon he advifes not to ufe it often. To prevent this, therefore, orators fometimes difguife it, by not repeating the fame word which flood in the former member, but fome other equivalent to it. As in the following inflance of Cicero for Milo : \" Nor did he commit himself only to the people, but alfo to the fenate; nor to the fenate only, but likewife to the public forces; nor to thefe only, but alfo to his power with whom the female had entrufted the whole commonwealth.\"<x_0.9902><y_0.5703><class_Text>\n\n<x_0.1885><y_0.5695>When several fentences, or members of a fentence, begin with the fame word, it is called _anaphora._ This is a lively and elegant figure, and ferves very much to engage the attention. For by the frequent return of the fame word the mind of the hearer is held in an agreeable fufpence, till the whole is finified. \" You do nothing, (fays Cicero to Catiline,) you attempt nothing, you think nothing, but what I not only bear, but alfo fee, and plainly perceive.\" It is frequently ufed by way of question; which renders it not only beautiful, but likewise frong and nervous. As at the beginning of the fame fpecech : \" Does neither the night-guard of the palace, nor the city-watch, nor the peoples fear, nor the agreement of all good men, nor the meeting of the fenate in this fortified place, nor the countenances and looks of this affembly, at all move you?\" And in another of his orations: \" What is fo popular as peace, which feems to afford a pleasure, not only to beings endowed with fenfe, but even to inanimate nature? What is fo popular as liberty, which even beafts as well as men from to covet and prefer above all things? What is fo popular as eafe and leifure, for the enjoyment of which you<x_0.9912><y_0.8938><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2535,
+   "completion_tokens": 863,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "0a0ee4abf14512808457242fa9460c41b25bc83cc5c6bf1939bcd2b43fa54cc6",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "755a84d942fc41d7bec3f5642cff8ff87d42b053efdf65259bdbd3a21dbf7ba0",
+  "image_bytes": 2103384,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2446",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.045,
+   0.47,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.045,
+    0.1318,
+    0.465
+   ],
+   [
+    0.1318,
+    0.2186,
+    0.465
+   ],
+   [
+    0.2186,
+    0.3055,
+    0.465
+   ],
+   [
+    0.3055,
+    0.3923,
+    0.465
+   ],
+   [
+    0.3923,
+    0.4791,
+    0.465
+   ],
+   [
+    0.4791,
+    0.5659,
+    0.465
+   ],
+   [
+    0.5659,
+    0.6527,
+    0.465
+   ],
+   [
+    0.6527,
+    0.7395,
+    0.465
+   ],
+   [
+    0.7395,
+    0.8264,
+    0.465
+   ],
+   [
+    0.8264,
+    0.9132,
+    0.465
+   ],
+   [
+    0.9132,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2399,
+  "completion_tokens": 855,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.47,
+ "created_at": "2026-10-18T11:21:23+00:00",
+ "content": "<x_0.4043><y_0.0047>**C H E M I**<x_0.9883><y_0.0242><class_Title>\n\n<x_0.0684><y_0.0281>be in powder when shaken, it is a fign the operation hath fucceeded: but if it be in a cake, and doth not fall into powder on shaking the matras, it thews that your matter was not fully roalted and dried in the iron pan du- ring the preparatory operation.\"<x_0.9736><y_0.1031><class_Text>\n\n<x_0.0664><y_0.1023>Mr Lemeri hath thewn, that excrement is not the only matter capable of producing this phofphorus with alum; but that, on the contrary, almost all animal and even vegetable matters are fit for this combination; that though Mr Homberg mixed alum in equal quantities only with the fecal matter, it may be ufed in a much greater proportion; and, in certain cafes, will fucced the better; that, according to the nature of the fulblances to be worked on, the quantity of that falt may be more or leis increased; and that whatever is added, more than the dofe requihite for each matter, ferver only to letlen the virtue of the photophorus, or even deftroys it entirely; that the degree of fire applied mult be different according to the nature of those matters; and, Jallly, that fals containing exactly the fame acid with that of alum, or the acid of thofe falls separated from its bafis and reduced into fpirit, do not anfwer in the prefent operation : which thews, fays Mr Lemeri, that many fulphureous matters may be fubllitated for excrement in this operation; but that there are no false, or very few, if any, that will succeed in the place of alum.<x_0.9746><y_0.4086><class_Text>\n\n<x_0.0674><y_0.4078>This photophorus, made either by Mr Homberg's or by Mr Lemeri's method, shines both by day and by night. Belides emitting light, it takes fire foon after it is expofed to the air, and kindles all combultible matters with which it comes in contact; and this without being rubbed or heated.<x_0.9756><y_0.4945><class_Text>\n\n<x_0.0693><y_0.4953>Meff. Homberg and Lemeri have given the most probable and the moft natural explanation of the caule of the accenfion and other phenomena of this phofphorus. What they lay amounts in short to what follows.<x_0.9766><y_0.5539><class_Text>\n\n<x_0.0703><y_0.5547>Alum is known to be a neutral felt, confiling of the vitriolic acid and a calcareous earth. When this falt is calcined with the fecal matter, or other fulblances a bounding in oil, the volatile principles of thefe fulblances, fuch as their phlegn, their fats, and their oils, exhale in the fame manner as if they were difficilled; and there is nothing left in the matras; when thofe principles are dilipated, but a charred matter, like that which is found in retorts wherein fuch mixts have been decompoiled by diftillation.<x_0.9775><y_0.6984><class_Text>\n\n<x_0.0713><y_0.6992>This remainder therefore is nothing but a mixture of alum and charcoal. Now, as the acid of this falt, which is the vitriolic, hath a greater affinity with the phlogilton than with any other fulblance, it will quit its balls to unit with the phlogilton of the coal, and be converted by that union into a fulphur. And this is the very cafe, of which we have certain proofs in the operation for pre- paling this phofphorus; for when, after the volatile principles of the oily matter are drawn off, the fire is increased, in order to combine closely together the fixed parts that remain in the matras, that is, the alum and the charred matter, we perceive at the mouth of the ma- tras a final blue fulphureous flame, and a pungent fmell of burning fulphur. Nay, when the operation is finish-<x_0.9785><y_0.907><class_Text>",
+ "reply": {
+  "id": "chatcmpl-c089552d-d137-408f-9581-93095cdfd0f5",
+  "object": "chat.completion",
+  "created": 1792322482,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4043><y_0.0047>**C H E M I**<x_0.9883><y_0.0242><class_Title>\n\n<x_0.0684><y_0.0281>be in powder when shaken, it is a fign the operation hath fucceeded: but if it be in a cake, and doth not fall into powder on shaking the matras, it thews that your matter was not fully roalted and dried in the iron pan du- ring the preparatory operation.\"<x_0.9736><y_0.1031><class_Text>\n\n<x_0.0664><y_0.1023>Mr Lemeri hath thewn, that excrement is not the only matter capable of producing this phofphorus with alum; but that, on the contrary, almost all animal and even vegetable matters are fit for this combination; that though Mr Homberg mixed alum in equal quantities only with the fecal matter, it may be ufed in a much greater proportion; and, in certain cafes, will fucced the better; that, according to the nature of the fulblances to be worked on, the quantity of that falt may be more or leis increased; and that whatever is added, more than the dofe requihite for each matter, ferver only to letlen the virtue of the photophorus, or even deftroys it entirely; that the degree of fire applied mult be different according to the nature of those matters; and, Jallly, that fals containing exactly the fame acid with that of alum, or the acid of thofe falls separated from its bafis and reduced into fpirit, do not anfwer in the prefent operation : which thews, fays Mr Lemeri, that many fulphureous matters may be fubllitated for excrement in this operation; but that there are no false, or very few, if any, that will succeed in the place of alum.<x_0.9746><y_0.4086><class_Text>\n\n<x_0.0674><y_0.4078>This photophorus, made either by Mr Homberg's or by Mr Lemeri's method, shines both by day and by night. Belides emitting light, it takes fire foon after it is expofed to the air, and kindles all combultible matters with which it comes in contact; and this without being rubbed or heated.<x_0.9756><y_0.4945><class_Text>\n\n<x_0.0693><y_0.4953>Meff. Homberg and Lemeri have given the most probable and the moft natural explanation of the caule of the accenfion and other phenomena of this phofphorus. What they lay amounts in short to what follows.<x_0.9766><y_0.5539><class_Text>\n\n<x_0.0703><y_0.5547>Alum is known to be a neutral felt, confiling of the vitriolic acid and a calcareous earth. When this falt is calcined with the fecal matter, or other fulblances a bounding in oil, the volatile principles of thefe fulblances, fuch as their phlegn, their fats, and their oils, exhale in the fame manner as if they were difficilled; and there is nothing left in the matras; when thofe principles are dilipated, but a charred matter, like that which is found in retorts wherein fuch mixts have been decompoiled by diftillation.<x_0.9775><y_0.6984><class_Text>\n\n<x_0.0713><y_0.6992>This remainder therefore is nothing but a mixture of alum and charcoal. Now, as the acid of this falt, which is the vitriolic, hath a greater affinity with the phlogilton than with any other fulblance, it will quit its balls to unit with the phlogilton of the coal, and be converted by that union into a fulphur. And this is the very cafe, of which we have certain proofs in the operation for pre- paling this phofphorus; for when, after the volatile principles of the oily matter are drawn off, the fire is increased, in order to combine closely together the fixed parts that remain in the matras, that is, the alum and the charred matter, we perceive at the mouth of the ma- tras a final blue fulphureous flame, and a pungent fmell of burning fulphur. Nay, when the operation is finish-<x_0.9785><y_0.907><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2399,
+   "completion_tokens": 855,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

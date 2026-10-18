@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "9591aedd95a65d13a360fa8551146cf171269316964f1e57110463e43ec8cc9c",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "8c5c7a0ff497e9c35b5b4d78951dce91a10bed0b50078ee2cf0f89316ea8b2d9",
+  "image_bytes": 2840380,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:523",
+  "variant": "s0-col-right",
+  "crop": [
+   0.495,
+   0.0319,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0319,
+    0.1126,
+    0.5
+   ],
+   [
+    0.1126,
+    0.1932,
+    0.5
+   ],
+   [
+    0.1932,
+    0.2739,
+    0.5
+   ],
+   [
+    0.2739,
+    0.3546,
+    0.5
+   ],
+   [
+    0.3546,
+    0.4353,
+    0.5
+   ],
+   [
+    0.4353,
+    0.516,
+    0.5
+   ],
+   [
+    0.516,
+    0.5966,
+    0.5
+   ],
+   [
+    0.5966,
+    0.6773,
+    0.5
+   ],
+   [
+    0.6773,
+    0.758,
+    0.5
+   ],
+   [
+    0.758,
+    0.8387,
+    0.5
+   ],
+   [
+    0.8387,
+    0.9193,
+    0.5
+   ],
+   [
+    0.9193,
+    1.0,
+    0.5
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2636,
+  "completion_tokens": 964,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.59,
+ "created_at": "2026-10-18T11:10:22+00:00",
+ "content": "<x_0.0254><y_0.0>French _engin_, from the Latin _ingenium_ \" wit;\" by reafon of the ingenuity required in the contrivance of engines to augment the effect of moving powers.<x_0.8262><y_0.0437><class_Text>\n\n<x_0.8223><y_0.0>Engine England.<x_0.9639><y_0.0414><class_Picture>\n\n<x_0.0264><y_0.043>ENGINE _for extinguijhing Fires._ See HYDROSTA- Tics, n° 33.<x_0.8213><y_0.0711><class_Text>\n\n<x_0.0234><y_0.0703>_Pile-ENGINE, one contrived for driving piles. See PILR-Engine._<x_0.8232><y_0.1><class_Text>\n\n<x_0.0244><y_0.0984>_Steam-ENGINE, a machine to raife water by fire, or rather by the force of water turned into fleam. See STEAM Engine._<x_0.8242><y_0.1422><class_Text>\n\n<x_0.0225><y_0.1406>ENGINE _for dividing Mathematical Infruments._ See RAMSDEN’s _Engine._<x_0.8252><y_0.1703><class_Text>\n\n<x_0.0215><y_0.1688>ENGINEER, in the military art, an able expert man, who, by a perfect knowledge in mathematics, delineates upon paper, or marks upon the ground, all forts of forts, and other works proper for offence and defence. He fhould undertland the art of fortificztion, fo as to be able, not only to difcover the defects of a place, but to find a remedy proper for them; as alfo how to make an attack upon, as well as to defend, the place. Engineers are extremely neceflary for thefe purpofes: wherefore it is requifite, that, befides being ingenious, they fhould be brave in proportion. When at a flege the engineers have narrowly furveyed the place, they are to make their report to the general, by acquainting him which part they judge the weakelt, and where approaches may be made with molt fuccefs. Their buffnels is alfo to delineate the lines of circumvallation and contravallation, taking all the advantages of the ground; to mark out the trenches, places of arms, batteries, and lodgments, taking care that none of their works be flanked or difcovered from the place. After making a faithful report to the general of what is a-doing, the engineers are to demand a sufficient number of workmen and utenfils, and whatever elfe is neceffary.<x_0.8271><y_0.493><class_Text>\n\n<x_0.0186><y_0.4922>ENGLAND, the fouthern divifion of the ifland of Great Britain. Including Wales, it is of a triangular form, and lies between the 50th and 55th degrees of north latitude, extending about 400 miles in length from fouth to north, and in fome places it is 300 miles in breadth. It is bounded by Scotland on the north; by the EngliPh Channel on the fouth, dividing it from France; by the German Sea on the caft; and on the weft by St George's, or the Irift, Channel.<x_0.8203><y_0.6195><class_Text>\n\n<x_0.0146><y_0.6188>At what time the ifland of Britain was peopled is Where uncertain; nor do we know whether the fouthern or peopled. northern parts were firft inhabited. We have no accounts that can be depended upon before the arrival of Julius Cearar, and it is certain he found the fouthern parts full of people of a very warlike difpoifition. Thefe people, according to Cearar, were a colony of the Gauls; and this opinion is embraced by molt of the ancient as well as modern writers. It is chiefly founded on the agreement obferved by the Romans between the two nations in their cultures, manners, language, religion, government, way of fighting, &c. The more northern inhabitants, according to Tacitus, came from Germany. This he infers from the make of their limbs; but Cearar firmly calls them _Aborigines_.<x_0.8193><y_0.8297><class_Text>\n\n<x_0.0137><y_0.8289>England, including the principality of Wales, when firft invaded by the Romans, was divided into 17 petty flates. 1. The Danmonii, called alfo Dunmonii and Donmonii, inhabiting the counties of Cornwal and Devonfhire. 2. The Durotriges, who inhabited the track now called _Dorfethire._ 3. The Belgae poffelfed<x_0.8184><y_0.9164><class_Text>\n\n<x_0.8027><y_0.8203>2 Inhabited by 17 di-erent na-tions.<x_0.9375><y_0.8797><class_Picture>\n\n<x_0.6855><y_0.9141>Somer-<x_0.8008><y_0.9273><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-f6025261-c629-44e1-8eea-438187649889",
+  "object": "chat.completion",
+  "created": 1792321821,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0254><y_0.0>French _engin_, from the Latin _ingenium_ \" wit;\" by reafon of the ingenuity required in the contrivance of engines to augment the effect of moving powers.<x_0.8262><y_0.0437><class_Text>\n\n<x_0.8223><y_0.0>Engine England.<x_0.9639><y_0.0414><class_Picture>\n\n<x_0.0264><y_0.043>ENGINE _for extinguijhing Fires._ See HYDROSTA- Tics, n° 33.<x_0.8213><y_0.0711><class_Text>\n\n<x_0.0234><y_0.0703>_Pile-ENGINE, one contrived for driving piles. See PILR-Engine._<x_0.8232><y_0.1><class_Text>\n\n<x_0.0244><y_0.0984>_Steam-ENGINE, a machine to raife water by fire, or rather by the force of water turned into fleam. See STEAM Engine._<x_0.8242><y_0.1422><class_Text>\n\n<x_0.0225><y_0.1406>ENGINE _for dividing Mathematical Infruments._ See RAMSDEN’s _Engine._<x_0.8252><y_0.1703><class_Text>\n\n<x_0.0215><y_0.1688>ENGINEER, in the military art, an able expert man, who, by a perfect knowledge in mathematics, delineates upon paper, or marks upon the ground, all forts of forts, and other works proper for offence and defence. He fhould undertland the art of fortificztion, fo as to be able, not only to difcover the defects of a place, but to find a remedy proper for them; as alfo how to make an attack upon, as well as to defend, the place. Engineers are extremely neceflary for thefe purpofes: wherefore it is requifite, that, befides being ingenious, they fhould be brave in proportion. When at a flege the engineers have narrowly furveyed the place, they are to make their report to the general, by acquainting him which part they judge the weakelt, and where approaches may be made with molt fuccefs. Their buffnels is alfo to delineate the lines of circumvallation and contravallation, taking all the advantages of the ground; to mark out the trenches, places of arms, batteries, and lodgments, taking care that none of their works be flanked or difcovered from the place. After making a faithful report to the general of what is a-doing, the engineers are to demand a sufficient number of workmen and utenfils, and whatever elfe is neceffary.<x_0.8271><y_0.493><class_Text>\n\n<x_0.0186><y_0.4922>ENGLAND, the fouthern divifion of the ifland of Great Britain. Including Wales, it is of a triangular form, and lies between the 50th and 55th degrees of north latitude, extending about 400 miles in length from fouth to north, and in fome places it is 300 miles in breadth. It is bounded by Scotland on the north; by the EngliPh Channel on the fouth, dividing it from France; by the German Sea on the caft; and on the weft by St George's, or the Irift, Channel.<x_0.8203><y_0.6195><class_Text>\n\n<x_0.0146><y_0.6188>At what time the ifland of Britain was peopled is Where uncertain; nor do we know whether the fouthern or peopled. northern parts were firft inhabited. We have no accounts that can be depended upon before the arrival of Julius Cearar, and it is certain he found the fouthern parts full of people of a very warlike difpoifition. Thefe people, according to Cearar, were a colony of the Gauls; and this opinion is embraced by molt of the ancient as well as modern writers. It is chiefly founded on the agreement obferved by the Romans between the two nations in their cultures, manners, language, religion, government, way of fighting, &c. The more northern inhabitants, according to Tacitus, came from Germany. This he infers from the make of their limbs; but Cearar firmly calls them _Aborigines_.<x_0.8193><y_0.8297><class_Text>\n\n<x_0.0137><y_0.8289>England, including the principality of Wales, when firft invaded by the Romans, was divided into 17 petty flates. 1. The Danmonii, called alfo Dunmonii and Donmonii, inhabiting the counties of Cornwal and Devonfhire. 2. The Durotriges, who inhabited the track now called _Dorfethire._ 3. The Belgae poffelfed<x_0.8184><y_0.9164><class_Text>\n\n<x_0.8027><y_0.8203>2 Inhabited by 17 di-erent na-tions.<x_0.9375><y_0.8797><class_Picture>\n\n<x_0.6855><y_0.9141>Somer-<x_0.8008><y_0.9273><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2636,
+   "completion_tokens": 964,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

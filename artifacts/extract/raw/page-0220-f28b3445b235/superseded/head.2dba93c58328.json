@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "2dba93c58328bbfd6456a74abc2531d26b320e65d5ed3b340e296789bbdf2fdb",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "26b01ec826c36508448496ee62cb39aed4947da2272dfb6465ba2bfca2081ce8",
+  "image_bytes": 114536,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:220",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.052,
+   1.0,
+   0.0896
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 138,
+  "total_tokens": 187,
+  "completion_tokens": 49,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.25,
+ "created_at": "2026-10-18T11:19:05+00:00",
+ "content": "<x_0.0><y_0.0>FUR [ 512 ] FUR\nForr, and called by him Ousco Charlotte's Sound, the latt fell to the Sandwich Islands, where giving over all Forr.<x_0.999><y_0.9859><class_Text>",
+ "reply": {
+  "id": "chatcmpl-2f3dd578-10f4-4e41-9981-595180ccd72e",
+  "object": "chat.completion",
+  "created": 1792322345,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>FUR [ 512 ] FUR\nForr, and called by him Ousco Charlotte's Sound, the latt fell to the Sandwich Islands, where giving over all Forr.<x_0.999><y_0.9859><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 138,
+   "total_tokens": 187,
+   "completion_tokens": 49,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

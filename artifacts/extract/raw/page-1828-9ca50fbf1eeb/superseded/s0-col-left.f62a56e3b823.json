@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "f62a56e3b823d9b2da9270f9d176667eccbfe12f0f503c44fa33f59c4812acf1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "bc4c4d1e42710af9064f6e814c7068bee0073bd8377fb0a1aaceec38495a6712",
+  "image_bytes": 2626127,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1828",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0647,
+   0.4583,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0647,
+    0.1497,
+    0.4533
+   ],
+   [
+    0.1497,
+    0.2348,
+    0.4533
+   ],
+   [
+    0.2348,
+    0.3198,
+    0.4533
+   ],
+   [
+    0.3198,
+    0.4048,
+    0.4533
+   ],
+   [
+    0.4048,
+    0.4898,
+    0.4533
+   ],
+   [
+    0.4898,
+    0.5749,
+    0.4533
+   ],
+   [
+    0.5749,
+    0.6599,
+    0.4533
+   ],
+   [
+    0.6599,
+    0.7449,
+    0.4533
+   ],
+   [
+    0.7449,
+    0.8299,
+    0.4533
+   ],
+   [
+    0.8299,
+    0.915,
+    0.4533
+   ],
+   [
+    0.915,
+    1.0,
+    0.4533
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2437,
+  "completion_tokens": 893,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.71,
+ "created_at": "2026-10-18T11:11:21+00:00",
+ "content": "<x_0.082><y_0.0>duced? and, _secondly_, What is the nature of the connec- tion by which we suppose that the objects we call beauti- ful are enabled to suggest these affections?<x_0.9795><y_0.0437><class_Text>\n\n<x_0.0781><y_0.0375>With regard to the first of these points, it fortunately is not necessary either to enter into any tedious details, or to have recourse to any nice distinctions. All sensa- tions that are not absolutely indifferent, and are, at the same time, either agreeable when experienced by our- selves, or attractive when contemplated in others, may form the foundation of the emotions of sublimity or beau- ty. The love of sensation seems to be the ruling appe- nite of human nature; and many sensations, in which the painful seems to bear no little share, are consequently sought for with avidity, and recollected with interest, even in our own persons. In the persons of others, emo- tions still more painful are contemplated with eagerness and delight; and therefore we must not be surprised to find, that many of the pleasing sensations of beauty or sublimity resolve themselves ultimately into recollections of feelings that may appear to have a very opposite character. The sum of the whole is, that every feeling which it is agreeable to experience, to recall, or to witness, may become the source of beauty in external objects, when it is so connected with them as that their appearance reminds us of that feeling. Now, in real life, and from daily experience and observation, we know that it is agreeable, in the first place, to recollect our own pleasurable sensa- tions, or to be enabled to form a lively conception of the pleasures of other men, or even of sentient beings of any description. We know, likewise, from the same sure au- thority, that there is a certain delight in the remembrance of our past, or the conception of our future emotions, even though attended with great pain, provided they be not forced too rudely on the mind, and be softened by the accompaniment of any milder feeling. And, finally, we know, in the same manner, that the spectacle or concep- tion of the emotions of others, even when in a high de- gree painful, is extremely interesting and attractive, and draws us away, not only from the consideration of indif ferent objects, but even from the pursuit of light or frivo- lous enjoyments. All these are plain and familiar facts, of the existence of which, however they may be explain- ed, no one can entertain the slightest doubt, and into which, therefore, we shall have made no inconsidenable progress, if we can resolve the more mysterious fact, of the emotions we receive from the contemplation of subli- mity or beauty.<x_0.9824><y_0.6305><class_Text>\n\n<x_0.0801><y_0.625>Our proposition then is, that these emotions are not original emotions, nor produced directly by any qualities in the objects which excite them; but are reflections or images of the more radical and familiar emotions to which we have already alluded, and are occasioned, not by any inherent virtue in the objects before us, but by the acci- dents, if we may so express ourselves, by which these may have been enabled to suggest or recall to us our own past sensations or sympathies. We might almost venture, in- ceed, to lay it down as an axiom, that, except in the plain and palpable case of bodily pain or pleasure, we can never be _interested_ in any thing but the fortunes of sentient beings; and that every thing partaking of the nature of mental emotion must have for its object the feelings, past, present, or possible, of something capable of sensation. Independently, therefore, of all evidence, and without the help of any explanation, we should have been apt to con- clude that the emotions of beauty and sublimity must have for their objects the sufferings or enjoyments of sen- tient beings; and to reject as intrinsically absurd and incredible the supposition, that material objects, which obviously do neither hurt nor delight the body, should yet excite, by their mere physical qualities, the very powerful<x_0.9736><y_0.9422><class_Text>",
+ "reply": {
+  "id": "chatcmpl-47b1bbea-43c0-4832-a5db-6b2e06cfc6e5",
+  "object": "chat.completion",
+  "created": 1792321880,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.082><y_0.0>duced? and, _secondly_, What is the nature of the connec- tion by which we suppose that the objects we call beauti- ful are enabled to suggest these affections?<x_0.9795><y_0.0437><class_Text>\n\n<x_0.0781><y_0.0375>With regard to the first of these points, it fortunately is not necessary either to enter into any tedious details, or to have recourse to any nice distinctions. All sensa- tions that are not absolutely indifferent, and are, at the same time, either agreeable when experienced by our- selves, or attractive when contemplated in others, may form the foundation of the emotions of sublimity or beau- ty. The love of sensation seems to be the ruling appe- nite of human nature; and many sensations, in which the painful seems to bear no little share, are consequently sought for with avidity, and recollected with interest, even in our own persons. In the persons of others, emo- tions still more painful are contemplated with eagerness and delight; and therefore we must not be surprised to find, that many of the pleasing sensations of beauty or sublimity resolve themselves ultimately into recollections of feelings that may appear to have a very opposite character. The sum of the whole is, that every feeling which it is agreeable to experience, to recall, or to witness, may become the source of beauty in external objects, when it is so connected with them as that their appearance reminds us of that feeling. Now, in real life, and from daily experience and observation, we know that it is agreeable, in the first place, to recollect our own pleasurable sensa- tions, or to be enabled to form a lively conception of the pleasures of other men, or even of sentient beings of any description. We know, likewise, from the same sure au- thority, that there is a certain delight in the remembrance of our past, or the conception of our future emotions, even though attended with great pain, provided they be not forced too rudely on the mind, and be softened by the accompaniment of any milder feeling. And, finally, we know, in the same manner, that the spectacle or concep- tion of the emotions of others, even when in a high de- gree painful, is extremely interesting and attractive, and draws us away, not only from the consideration of indif ferent objects, but even from the pursuit of light or frivo- lous enjoyments. All these are plain and familiar facts, of the existence of which, however they may be explain- ed, no one can entertain the slightest doubt, and into which, therefore, we shall have made no inconsidenable progress, if we can resolve the more mysterious fact, of the emotions we receive from the contemplation of subli- mity or beauty.<x_0.9824><y_0.6305><class_Text>\n\n<x_0.0801><y_0.625>Our proposition then is, that these emotions are not original emotions, nor produced directly by any qualities in the objects which excite them; but are reflections or images of the more radical and familiar emotions to which we have already alluded, and are occasioned, not by any inherent virtue in the objects before us, but by the acci- dents, if we may so express ourselves, by which these may have been enabled to suggest or recall to us our own past sensations or sympathies. We might almost venture, in- ceed, to lay it down as an axiom, that, except in the plain and palpable case of bodily pain or pleasure, we can never be _interested_ in any thing but the fortunes of sentient beings; and that every thing partaking of the nature of mental emotion must have for its object the feelings, past, present, or possible, of something capable of sensation. Independently, therefore, of all evidence, and without the help of any explanation, we should have been apt to con- clude that the emotions of beauty and sublimity must have for their objects the sufferings or enjoyments of sen- tient beings; and to reject as intrinsically absurd and incredible the supposition, that material objects, which obviously do neither hurt nor delight the body, should yet excite, by their mere physical qualities, the very powerful<x_0.9736><y_0.9422><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2437,
+   "completion_tokens": 893,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

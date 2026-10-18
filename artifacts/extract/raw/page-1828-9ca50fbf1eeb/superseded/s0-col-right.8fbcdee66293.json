@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "8fbcdee66293464a78d9d897d200d3d6dc38526e40e4e7448becc2bcc7aba6bb",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "5278c3511ee027a30072a35dfada8335e556388e35d96e9a605ad6dcfc722934",
+  "image_bytes": 2709708,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1828",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4483,
+   0.0647,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0647,
+    0.1497,
+    0.4533
+   ],
+   [
+    0.1497,
+    0.2348,
+    0.4533
+   ],
+   [
+    0.2348,
+    0.3198,
+    0.4533
+   ],
+   [
+    0.3198,
+    0.4048,
+    0.4533
+   ],
+   [
+    0.4048,
+    0.4898,
+    0.4533
+   ],
+   [
+    0.4898,
+    0.5749,
+    0.4533
+   ],
+   [
+    0.5749,
+    0.6599,
+    0.4533
+   ],
+   [
+    0.6599,
+    0.7449,
+    0.4533
+   ],
+   [
+    0.7449,
+    0.8299,
+    0.4533
+   ],
+   [
+    0.8299,
+    0.915,
+    0.4533
+   ],
+   [
+    0.915,
+    1.0,
+    0.4533
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2677,
+  "completion_tokens": 877,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.52,
+ "created_at": "2026-10-18T11:11:23+00:00",
+ "content": "<x_0.0156><y_0.0>emotions which are sometimes excited by the spectacle of beauty.<x_0.7715><y_0.0312><class_Text>\n\n<x_0.0146><y_0.0273>Of the feelings, by their connection with which external objects become beautiful, we do not think it neces sary to speak more minutely; and therefore it only remains, under this preliminary view of the subject, to explain the nature of that connection by which we conceive this effect to be produced. Here, also, there is but little need for minuteness, or fulness of enumeration. Almost every tie by which two objects can be bound together in the imagination, in such a manner as that the presentment of the one shall recall the memory of the other, or, in other words, almost every possible relation which can subsist between such objects, may serve to connect the things we call sublime or beautiful, with feelings that are interesting or delightful. It may be useful, however, to class these bonds of association between mind and matter in a rude and general way.<x_0.7754><y_0.2445><class_Text>\n\n<x_0.0088><y_0.2406>It appears to us, then, that objects are sublime or beautiful, _first_, When they are the natural signs and perpetual concomitants of pleasurable sensations, or, at any rate, of some lively feeling or emotion in ourselves or in some other sentient beings ; or, _secondly_, When they are the arbitrary or accidental concomitants of such feelings ; or, _thirdly_, When they bear some analogy or fanciful resemblance to things with which these emotions are necessarily connected. In endeavouring to illustrate the nature of these several relations, we shall be led to lay before our readers some proofs that appear to us satisfactory of the truth of the general theory.<x_0.7764><y_0.4047><class_Text>\n\n<x_0.0078><y_0.4016>The most obvious and the strongest association that can be established between inward feelings and external objects is, where the object is necessarily and universally connected with the feeling by the law of nature, so that it is always presented to the senses when the feeling is impressed upon the mind,-as the sight or the sound of laughter, with the feeling of gaiety,-of weeping, with distress,-of the sound of thunder, with ideas of danger and power. Let us dwell for a moment on the last instance. -Nothing, perhaps, in the whole range, is more strikingly and universally sublime than the sound we have just mentioned ; yet it seems obvious that the sense of sublimity is produced, not by any quality that is perceived by the ear, but altogether by the impression of power and of danger that is necessarily made upon the mind whenever that sound is heard. That it is not produced by any peculiarity in the sound itself, is certain, from the mistakes that are frequently made with regard to it. The noise of a cart rattling over the stones is often mistaken for thunder ; and as long as the mistake lasts, this very vulgar and insignificant noise is actually felt to be prodigiously sublime. It is so felt, however, it is perfectly plain, merely because it is then associated with ideas of prodigious power and undefined danger ; and the sublimity is destroyed the moment the association is dissolved, though the sound itself, and its effect on the organ, continue exactly the same. This, therefore, is an instance in which sublimity is distinctly proved to consist, not in any physical quality of the object to which it is ascribed, but in its necessary connection with that vast and uncontrolled Power which is the natural object of awe and veneration.<x_0.8955><y_0.8172><class_Text>\n\n<x_0.0059><y_0.8156>We may now take an example a little less plain and Other ex elementary. The most beautiful object in nature, perhaps, is the countenance of a young and beautiful woman :- and we are apt at first to imagine, that, independently of all associations, the forms and colours which it displays are in themselves lovely and engaging, and would appear charming to all beholders, with whatever other qualities or impressions they might happen to be connected. A very little reflection, however, will probably be sufficient<x_0.8828><y_0.9391><class_Text>\n\n<x_0.6143><y_0.9375>3 q<x_0.6689><y_0.9516><class_Page-footer>\n\n<x_0.7646><y_0.0031>Beauty. Nature of theassociations by which objects ap pear beautiful.<x_0.9023><y_0.1148><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-89161680-4be3-4043-8cd3-326a75f4d0c2",
+  "object": "chat.completion",
+  "created": 1792321881,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0156><y_0.0>emotions which are sometimes excited by the spectacle of beauty.<x_0.7715><y_0.0312><class_Text>\n\n<x_0.0146><y_0.0273>Of the feelings, by their connection with which external objects become beautiful, we do not think it neces sary to speak more minutely; and therefore it only remains, under this preliminary view of the subject, to explain the nature of that connection by which we conceive this effect to be produced. Here, also, there is but little need for minuteness, or fulness of enumeration. Almost every tie by which two objects can be bound together in the imagination, in such a manner as that the presentment of the one shall recall the memory of the other, or, in other words, almost every possible relation which can subsist between such objects, may serve to connect the things we call sublime or beautiful, with feelings that are interesting or delightful. It may be useful, however, to class these bonds of association between mind and matter in a rude and general way.<x_0.7754><y_0.2445><class_Text>\n\n<x_0.0088><y_0.2406>It appears to us, then, that objects are sublime or beautiful, _first_, When they are the natural signs and perpetual concomitants of pleasurable sensations, or, at any rate, of some lively feeling or emotion in ourselves or in some other sentient beings ; or, _secondly_, When they are the arbitrary or accidental concomitants of such feelings ; or, _thirdly_, When they bear some analogy or fanciful resemblance to things with which these emotions are necessarily connected. In endeavouring to illustrate the nature of these several relations, we shall be led to lay before our readers some proofs that appear to us satisfactory of the truth of the general theory.<x_0.7764><y_0.4047><class_Text>\n\n<x_0.0078><y_0.4016>The most obvious and the strongest association that can be established between inward feelings and external objects is, where the object is necessarily and universally connected with the feeling by the law of nature, so that it is always presented to the senses when the feeling is impressed upon the mind,-as the sight or the sound of laughter, with the feeling of gaiety,-of weeping, with distress,-of the sound of thunder, with ideas of danger and power. Let us dwell for a moment on the last instance. -Nothing, perhaps, in the whole range, is more strikingly and universally sublime than the sound we have just mentioned ; yet it seems obvious that the sense of sublimity is produced, not by any quality that is perceived by the ear, but altogether by the impression of power and of danger that is necessarily made upon the mind whenever that sound is heard. That it is not produced by any peculiarity in the sound itself, is certain, from the mistakes that are frequently made with regard to it. The noise of a cart rattling over the stones is often mistaken for thunder ; and as long as the mistake lasts, this very vulgar and insignificant noise is actually felt to be prodigiously sublime. It is so felt, however, it is perfectly plain, merely because it is then associated with ideas of prodigious power and undefined danger ; and the sublimity is destroyed the moment the association is dissolved, though the sound itself, and its effect on the organ, continue exactly the same. This, therefore, is an instance in which sublimity is distinctly proved to consist, not in any physical quality of the object to which it is ascribed, but in its necessary connection with that vast and uncontrolled Power which is the natural object of awe and veneration.<x_0.8955><y_0.8172><class_Text>\n\n<x_0.0059><y_0.8156>We may now take an example a little less plain and Other ex elementary. The most beautiful object in nature, perhaps, is the countenance of a young and beautiful woman :- and we are apt at first to imagine, that, independently of all associations, the forms and colours which it displays are in themselves lovely and engaging, and would appear charming to all beholders, with whatever other qualities or impressions they might happen to be connected. A very little reflection, however, will probably be sufficient<x_0.8828><y_0.9391><class_Text>\n\n<x_0.6143><y_0.9375>3 q<x_0.6689><y_0.9516><class_Page-footer>\n\n<x_0.7646><y_0.0031>Beauty. Nature of theassociations by which objects ap pear beautiful.<x_0.9023><y_0.1148><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2677,
+   "completion_tokens": 877,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

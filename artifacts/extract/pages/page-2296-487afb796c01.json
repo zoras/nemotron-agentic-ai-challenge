@@ -1,0 +1,387 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2296",
+ "row_index": 2296,
+ "volume_id": "191320559",
+ "filename": "page-2296-487afb796c01.jpg",
+ "image_sha256": "487afb796c010b5708a60a798cd2b38cff43eea65fd8949d3ae509d3a6f63a13",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07843,
+  "median_grey": 211,
+  "layout_body_chars": 8037,
+  "layout_pictures": 0
+ },
+ "running_head": "POL [ 93 ] POL",
+ "layout_raw": "page-2296-487afb796c01/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0325,
+    1.0,
+    0.0655
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2296-487afb796c01/head.json",
+   "finish_reason": "stop",
+   "request_key": "cfb91849e6744d8e3bfcd925874202effd0b43b9bc014a192c0f0ee2c6601a2a"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0325,
+    0.48,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0325,
+     0.1131,
+     0.46
+    ],
+    [
+     0.1131,
+     0.1938,
+     0.4617
+    ],
+    [
+     0.1938,
+     0.2744,
+     0.4667
+    ],
+    [
+     0.2744,
+     0.355,
+     0.4533
+    ],
+    [
+     0.355,
+     0.4356,
+     0.4683
+    ],
+    [
+     0.4356,
+     0.5162,
+     0.4433
+    ],
+    [
+     0.5162,
+     0.5969,
+     0.4717
+    ],
+    [
+     0.5969,
+     0.6775,
+     0.475
+    ],
+    [
+     0.6775,
+     0.7581,
+     0.4733
+    ],
+    [
+     0.7581,
+     0.8387,
+     0.475
+    ],
+    [
+     0.8387,
+     0.9194,
+     0.475
+    ],
+    [
+     0.9194,
+     1.0,
+     0.4567
+    ]
+   ],
+   "raw_path": "page-2296-487afb796c01/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "797a3ee688ad00ecfc16a60d79dd430cec678a8ddeb3fa0f7f5030340f525a7b"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4383,
+    0.0325,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0325,
+     0.1131,
+     0.46
+    ],
+    [
+     0.1131,
+     0.1938,
+     0.4617
+    ],
+    [
+     0.1938,
+     0.2744,
+     0.4667
+    ],
+    [
+     0.2744,
+     0.355,
+     0.4533
+    ],
+    [
+     0.355,
+     0.4356,
+     0.4683
+    ],
+    [
+     0.4356,
+     0.5162,
+     0.4433
+    ],
+    [
+     0.5162,
+     0.5969,
+     0.4717
+    ],
+    [
+     0.5969,
+     0.6775,
+     0.475
+    ],
+    [
+     0.6775,
+     0.7581,
+     0.4733
+    ],
+    [
+     0.7581,
+     0.8387,
+     0.475
+    ],
+    [
+     0.8387,
+     0.9194,
+     0.475
+    ],
+    [
+     0.9194,
+     1.0,
+     0.4567
+    ]
+   ],
+   "raw_path": "page-2296-487afb796c01/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "85fabb12e34510d183d8be1abbec502a314fce9f4710f83970084047e7b9b1a8"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Picture",
+   "text": "POL [ 93 ] POL",
+   "bbox": [
+    0.0,
+    0.0325,
+    1.0,
+    0.0655
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2296-487afb796c01:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**P OL**",
+   "bbox": [
+    0.2189,
+    0.0386,
+    0.3173,
+    0.0612
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b1"
+  },
+  {
+   "order": 2,
+   "class": "Margin-note",
+   "text": "Pele.",
+   "bbox": [
+    0.0333,
+    0.0635,
+    0.0984,
+    0.093
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Ankudinoff’s veffel was wrecked, and the crew ditri-\nbuted among the other two. Soon after this the two\nveffels loft light of each other, and never joined again.\nDelhoff was driven about by tempelluous winds till\nOctober, when he was flipwrecked confidarably to the\nfourth of the Andyr. Having at last reached that ri-\nver, he formed a scheme of returning by the fame way\nthat he had come, but never made the attempt. As\nfor Alexeeff, after being alfo hipwrecked, he had died\nof the furry, together with Ankudinoff; part of the\ncrew were killed by the favages, and a few escaped to\nKamfchatka, where they fettled.\"",
+   "bbox": [
+    0.0989,
+    0.0605,
+    0.4664,
+    0.2169
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b3"
+  },
+  {
+   "order": 4,
+   "class": "Caption",
+   "text": "See\nCook's\n_Difcore-_\nrier, no 95 -100",
+   "bbox": [
+    0.0394,
+    0.2131,
+    0.1041,
+    0.2691
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "From Captain * Cook's voyage towards the north-\neaftern parts of Afia, it appears that it is polible to\ndouble the promontory of Tichutki without any great\ndifficulty: and it now appears, that the continents of\nAfia and America are feparated from one another but\nby a narrow fitrait, which is free from ice; but, to tl\nnorthwards, that experienced navigator was everywhere\ntopped by the ice in the month of August, fo that I\ncould neither trace the American continent farther th\nto the latitude of 70°, nor reach the mouth of the riv\nKovyma on the Afiatic continent; though it is pr\nbable that this might have been done at another tim.,\nwhen the situation of the ice was altered either by winds\nor currents.",
+   "bbox": [
+    0.1036,
+    0.2101,
+    0.4683,
+    0.39
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b5"
+  },
+  {
+   "order": 6,
+   "class": "Caption",
+   "text": "Infur-\nmountable\nobtacles\nin the\nnorth-east\npallage.",
+   "bbox": [
+    0.0431,
+    0.3915,
+    0.1069,
+    0.4656
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "On the whole, therefore, it appears that the infur-\nmountable obtacle in the north-east pallage lies between\nthe rivers Pialida and Chatanga; and unlefs there be in\nthat space a connection between the Afiatic and Amer-\nrican continents, there is not in any other part.\nhowever, is as effectual an obstruction as land :\nthough the voyage were to be made by accident\nonce, it never could be efteemed a paffage calcul\nfor the purposes of trade, or any other beneficial\npole whatever.",
+   "bbox": [
+    0.1097,
+    0.3848,
+    0.4697,
+    0.514
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b7"
+  },
+  {
+   "order": 8,
+   "class": "Caption",
+   "text": "Of the\nnorth-weft\npallage.",
+   "bbox": [
+    0.0436,
+    0.5109,
+    0.1078,
+    0.5548
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "With regard to the north-weft pallage, the fame ... ficulties occur as in the other. Captain Cook's voyage\nhas now affured us, that if there is any fitait which di-\nvides the continent of America into two, it muit lie in\na higher latitude than 70°, and consequently be perpe-\ntually frozen up. If a north-weft pallage can be found\nthen, it muit be by failing round the whole American\ncontinent, instead of feeking a pallage through it, which\nfome have supposed to exit at the bottom of Baffin's\nbay. But the extent of the American continent to the\nnorthward is yet unknown; and there is a profilibility of\nits being joined to that part of Afia between the Pialida\nand Chatanga, which has never yet been circumnaviga-\nted\\*. It remains therefore to confer, whether there\nis any polibility of attaining the wilhed-for pallage by\nfailing directly north, between the eastern and weftern\ncontinents.",
+   "bbox": [
+    0.113,
+    0.5087,
+    0.4758,
+    0.7241
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b9"
+  },
+  {
+   "order": 10,
+   "class": "Caption",
+   "text": "See\nCook's\n_Difcore-_\nrier, no 21.",
+   "bbox": [
+    0.0441,
+    0.6765,
+    0.1167,
+    0.7218
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b10"
+  },
+  {
+   "order": 11,
+   "class": "Caption",
+   "text": "3 Barring-\nton's argu-\nments in\nfavour of\na possibility\nof reaching\nthe pole.",
+   "bbox": [
+    0.052,
+    0.7226,
+    0.1172,
+    0.8057
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "Of the practicability of this method, the Honourable\nDaines Barrington is very confident, as appears by fe-\nveral tracts which he published in the years 1775 and\n1776, in consequence of the unfucceful attempts\nmade by Captain Phipps, now Lord Mulgrave. See\n_Noonth-Keft Paffage._— In the tracks now alluded to\nhe influences a great number of navigators who have\nreached very high northern latitudes; nay, fome who\nhave been at the pole itself, or gone beyond it.—\nThefe influences are, 1. One Captain Thomas Robertlon\naffured our author, that he had been in latitude 824,\nthat the fea was open, and he was certain that he could",
+   "bbox": [
+    0.1153,
+    0.7188,
+    0.4767,
+    0.8761
+   ],
+   "source": "s0-col-left",
+   "id": "page-2296-487afb796c01:b12"
+  },
+  {
+   "order": 13,
+   "class": "Head-fragment",
+   "text": "93 I POL",
+   "bbox": [
+    0.4591,
+    0.0386,
+    0.7263,
+    0.0582
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-2296-487afb796c01:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "have reached the latitude of 83%—2. From the tefli-\nmoney of Captain Cheyne, who gave anfwers to certain\nqueries drawn up by Mr Dalrymple concerning the po-\nlar feas, it appears that he had been in the latitude of\n82%—3. One Mr Watt informed our author, that when\nhe was 17 years of age, at that time making his first\nvoyage with Captain M'Callam, a bold and kilful na-\nvigator, who commanded a Scotch whale-fishing flip, as\nduring the time that the whales are fuppofed to copu-\nlate no filhing can be carried on, the captain relolved\nto employ that interval in attempting to reach the north\npole. He accordingly proceeded without the leaf ob-\nltruction to 83%, when the fea was not only open to\nthe northward, but they had feet no ice for the last\nthree degrees; but while he fill advanced, the mate\ncomplained that the compals was not fleady, and the\ncaptain was obliged with reluctance to give over his\nattempt.—4. Dr Campbell, the continuator of Harris's\nvoyages, informed Mr Barrington, that Dr Dallie, a na-\ntive of Holland, being in his youth on board a Dutch\nflip of war which at that time was uffually feat to fu-\nperintend the Greenland fishery, the captain determined,\nlike the Scotchman above mentioned, to make an attempt\nto reach the pole during the interval between the first\nand fecond fisheries. He penetrated, according to the\nbelt of Dr Campbell’s recollection, as far as 88°; when\nthe weather was warm, the fea free from ice, and rolling\nlike the bay of Bifcay. Dallie now preffed the captain\nto proceed: but he answered, that he had already gone\ntoo far, and thould be blamed in Holland for neglecting\nhis flation; upon which account he would suffer no\njournal to be kept, but returned as foon as polible to\nSpitibergen.—5. In the year 1662-3, Mr Oldenburg,\nthen fecretary of the Royal Society, was ordered to re-\ngifler a paper, entitled \" Several Inquiries concerning\nGreenland, anfwered by Mr Gray, who had vifted\nthefe parts.\" The 19th of thefe queries is the follow-\ning: How near hath any one been known to approach\nthe pole? —The anfwer is, \"I once met upon the coalt\nof Greenland a Hollander that fwore he had been half\na degree from the pole, flowing me his journal, which\nwas alfa attetted by his mate; where they had feet no\nice or land, but all water.\"—6. In Captain Wood’s ac-\ncount of a voyage in queft of the north-eat paffage,\nwe have the following account of a Dutch hip which\nreached the latitude of 80°. \" Captain Goulden, who\nhad made above 30 voyages to Greenland, did relate to\nhis majefty, that being at Greenland fome 20 years be-\nfore, he was in company with two Hollanders to the\nearlward of Edge’s island; and that the whales not ap-\npearing on the shore, the Hollanders were determined to\ngo farther northward; and in a fortnight’s time return-\ned, and gave it out that they had failed into the lati-\ntude 80°, and that they did not meet with any ice, but\na free and open fea, and that there run a very hollow\ngrown fea like that of the Bay of Bifcay. Mr Gould-\nen being not fatified with the bare relation, they pro-\nduced him four journals out of the two ships, which\nteflified the fame, and that they all agreed within four\nminutes.\"—7. In the Philofophical Transactions for\n1675 we have the following paffage: \" For it is well\nknown to all that fail northward, that moft of the north-\nern coats are frozen up for many leagues, though in the\nopen fea it is not fo, _no nor under the pole ifelf_, unless by\naccident.\" In which paffage the having reached the",
+   "bbox": [
+    0.4745,
+    0.0567,
+    0.8541,
+    0.8707
+   ],
+   "source": "s0-col-right",
+   "id": "page-2296-487afb796c01:b14"
+  }
+ ]
+}

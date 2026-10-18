@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "a788552fa4e7349c666e3e6ab43a950ace09824f11d2c20d000a27c48c2a9cd7",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "87c9514d09dd14cfedd1670638e87333b862b1d7fff4e75865815b82709a5102",
+  "image_bytes": 2401830,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1765",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4717,
+   0.0372,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0372,
+    0.1174,
+    0.48
+   ],
+   [
+    0.1174,
+    0.1977,
+    0.4767
+   ],
+   [
+    0.1977,
+    0.2779,
+    0.4767
+   ],
+   [
+    0.2779,
+    0.3581,
+    0.4767
+   ],
+   [
+    0.3581,
+    0.4384,
+    0.4767
+   ],
+   [
+    0.4384,
+    0.5186,
+    0.4767
+   ],
+   [
+    0.5186,
+    0.5988,
+    0.4767
+   ],
+   [
+    0.5988,
+    0.6791,
+    0.4767
+   ],
+   [
+    0.6791,
+    0.7593,
+    0.4767
+   ],
+   [
+    0.7593,
+    0.8395,
+    0.4767
+   ],
+   [
+    0.8395,
+    0.9198,
+    0.4767
+   ],
+   [
+    0.9198,
+    1.0,
+    0.4767
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2672,
+  "completion_tokens": 872,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.92,
+ "created_at": "2026-10-18T11:20:21+00:00",
+ "content": "<x_0.0156><y_0.0055>I 1 K A L<x_0.5391><y_0.025><class_Title>\n\n<x_0.0186><y_0.0258>deed by ferving himself and his family, but whatever remains is distributed among the affilants. When they fmoke tobacco, the pipe circulates inceffantly from one to another. When any one receives a prefect either of meat or drink, he divides it faithfully with his com-panions, even though of inferior rank. But they are much more niggardly of their other effects, and efpeci- ally of their cattle, and do not willingly give thefe away except when they hope to receive a fuitable return : or if any relation has accidentally suffered the lofs of his flocks, he is fure to be moft willingly afflicted. Perhaps too it may be related as an article of their hopitality, that they abandon their wives to their friends with the greatest facility, and in general they are very little inclined to jealoufy.<x_0.7568><y_0.232><class_Text>\n\n<x_0.0195><y_0.2313>Their robberies are never committed upon their equals, and even the greater part of the rapine exer- cifed on other tribes is founded on hatred or national quarrels; neither do they willingly attempt this by open force, but prefer the machinations of cunning, which are fo natural to them. It muff alfo be con- fefed, that it is only thofe that live with princes, and in camps where thefe hold their courts, or their priets, that are moft addicted to thefe practices; while the common people, fatisified with the pleafures of the pat-toral life, fpend their days in innocent limplicity, and never attack the property of another till forced by ne- ceffity, or led by their superiors who flow them the ex- ample.<x_0.7559><y_0.4219><class_Text>\n\n<x_0.0176><y_0.4211>The Kalmucs are very faithful to their lawful prince; they endure every fort of oppreflion, and yet are with difficulty induced to revolt; but if they belong to a prince who has not become fo by right of fucceffion, they very easily rebel. They honour old age. When young men travel with fuch as are older than themfelves they take upon them the whole care of the cattle as well as of the feaft. They are exceedingly pru- dent in matters that relate to their foveaign or their nation, or which are recommended to their direction by the priets, to whom they yield an unreferved obe- dience.<x_0.7549><y_0.5844><class_Text>\n\n<x_0.0166><y_0.5852>The moveable habitations of the Kalmucs are thofe felt huts with a conical roof in ufe among all the roaming Afiatics. The truly ingenious invention of thefe tents was undoubtedly conceived in the eastern parts of Afia, and moft probably by the Mongul nations. As they can be entirely taken to pieces and folded in a small compats, they are very useful, and perfectly agree with the migratory life of thefe people, who are fill ignorant of the ufe of carriages. The frame of thefe huts, and the felt they are covered with, though made as light as pofible, yet are a sufficient load for a camel or two oxen. But the capacity of thefe huts, their warmth in winter, their strength in refitting tempeits and excluding rain, abundantly com- penlate for this inconvenience. The wood endures many years; and though the felt begins to break into holes in the second year, the common people, who do not confider it as difgraceful to have them mended and patched, make them ferve a good deal longer. The huts are in general ufe from the prince down to the meaneft Kalmuc, differing only in size and in the em- bellithments within. In winter, they are warm even when heated with the dried excrements of their cattle, to which they are often obliged to have recourfe, for<x_0.7539><y_0.9141><class_Text>\n\n<x_0.7588><y_0.0242>Kalmucs<x_0.8955><y_0.0516><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-c39cc60b-76f5-42e0-8eb9-2e44735d472e",
+  "object": "chat.completion",
+  "created": 1792322420,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0156><y_0.0055>I 1 K A L<x_0.5391><y_0.025><class_Title>\n\n<x_0.0186><y_0.0258>deed by ferving himself and his family, but whatever remains is distributed among the affilants. When they fmoke tobacco, the pipe circulates inceffantly from one to another. When any one receives a prefect either of meat or drink, he divides it faithfully with his com-panions, even though of inferior rank. But they are much more niggardly of their other effects, and efpeci- ally of their cattle, and do not willingly give thefe away except when they hope to receive a fuitable return : or if any relation has accidentally suffered the lofs of his flocks, he is fure to be moft willingly afflicted. Perhaps too it may be related as an article of their hopitality, that they abandon their wives to their friends with the greatest facility, and in general they are very little inclined to jealoufy.<x_0.7568><y_0.232><class_Text>\n\n<x_0.0195><y_0.2313>Their robberies are never committed upon their equals, and even the greater part of the rapine exer- cifed on other tribes is founded on hatred or national quarrels; neither do they willingly attempt this by open force, but prefer the machinations of cunning, which are fo natural to them. It muff alfo be con- fefed, that it is only thofe that live with princes, and in camps where thefe hold their courts, or their priets, that are moft addicted to thefe practices; while the common people, fatisified with the pleafures of the pat-toral life, fpend their days in innocent limplicity, and never attack the property of another till forced by ne- ceffity, or led by their superiors who flow them the ex- ample.<x_0.7559><y_0.4219><class_Text>\n\n<x_0.0176><y_0.4211>The Kalmucs are very faithful to their lawful prince; they endure every fort of oppreflion, and yet are with difficulty induced to revolt; but if they belong to a prince who has not become fo by right of fucceffion, they very easily rebel. They honour old age. When young men travel with fuch as are older than themfelves they take upon them the whole care of the cattle as well as of the feaft. They are exceedingly pru- dent in matters that relate to their foveaign or their nation, or which are recommended to their direction by the priets, to whom they yield an unreferved obe- dience.<x_0.7549><y_0.5844><class_Text>\n\n<x_0.0166><y_0.5852>The moveable habitations of the Kalmucs are thofe felt huts with a conical roof in ufe among all the roaming Afiatics. The truly ingenious invention of thefe tents was undoubtedly conceived in the eastern parts of Afia, and moft probably by the Mongul nations. As they can be entirely taken to pieces and folded in a small compats, they are very useful, and perfectly agree with the migratory life of thefe people, who are fill ignorant of the ufe of carriages. The frame of thefe huts, and the felt they are covered with, though made as light as pofible, yet are a sufficient load for a camel or two oxen. But the capacity of thefe huts, their warmth in winter, their strength in refitting tempeits and excluding rain, abundantly com- penlate for this inconvenience. The wood endures many years; and though the felt begins to break into holes in the second year, the common people, who do not confider it as difgraceful to have them mended and patched, make them ferve a good deal longer. The huts are in general ufe from the prince down to the meaneft Kalmuc, differing only in size and in the em- bellithments within. In winter, they are warm even when heated with the dried excrements of their cattle, to which they are often obliged to have recourfe, for<x_0.7539><y_0.9141><class_Text>\n\n<x_0.7588><y_0.0242>Kalmucs<x_0.8955><y_0.0516><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2672,
+   "completion_tokens": 872,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

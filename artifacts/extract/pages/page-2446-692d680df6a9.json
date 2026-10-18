@@ -1,0 +1,376 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2446",
+ "row_index": 2446,
+ "volume_id": "144133902",
+ "filename": "page-2446-692d680df6a9.jpg",
+ "image_sha256": "692d680df6a9023fab76d686360d380fd4e7491a6a607a6f10835cc740d21619",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.08235,
+  "median_grey": 219,
+  "layout_body_chars": 6351,
+  "layout_pictures": 0
+ },
+ "running_head": "C H E M3 I SM T R Y. 177",
+ "layout_raw": "page-2446-692d680df6a9/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.045,
+    1.0,
+    0.0725
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2446-692d680df6a9/head.json",
+   "finish_reason": "stop",
+   "request_key": "c8430d0d00e9a282ca04d154a51ad83e13af05efff5e42ff2fbcc0b39e45813f"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.045,
+    0.47,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.045,
+     0.1318,
+     0.465
+    ],
+    [
+     0.1318,
+     0.2186,
+     0.465
+    ],
+    [
+     0.2186,
+     0.3055,
+     0.465
+    ],
+    [
+     0.3055,
+     0.3923,
+     0.465
+    ],
+    [
+     0.3923,
+     0.4791,
+     0.465
+    ],
+    [
+     0.4791,
+     0.5659,
+     0.465
+    ],
+    [
+     0.5659,
+     0.6527,
+     0.465
+    ],
+    [
+     0.6527,
+     0.7395,
+     0.465
+    ],
+    [
+     0.7395,
+     0.8264,
+     0.465
+    ],
+    [
+     0.8264,
+     0.9132,
+     0.465
+    ],
+    [
+     0.9132,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-2446-692d680df6a9/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "0a0ee4abf14512808457242fa9460c41b25bc83cc5c6bf1939bcd2b43fa54cc6"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.46,
+    0.045,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.045,
+     0.1318,
+     0.465
+    ],
+    [
+     0.1318,
+     0.2186,
+     0.465
+    ],
+    [
+     0.2186,
+     0.3055,
+     0.465
+    ],
+    [
+     0.3055,
+     0.3923,
+     0.465
+    ],
+    [
+     0.3923,
+     0.4791,
+     0.465
+    ],
+    [
+     0.4791,
+     0.5659,
+     0.465
+    ],
+    [
+     0.5659,
+     0.6527,
+     0.465
+    ],
+    [
+     0.6527,
+     0.7395,
+     0.465
+    ],
+    [
+     0.7395,
+     0.8264,
+     0.465
+    ],
+    [
+     0.8264,
+     0.9132,
+     0.465
+    ],
+    [
+     0.9132,
+     1.0,
+     0.465
+    ]
+   ],
+   "raw_path": "page-2446-692d680df6a9/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "07627cb77ae9f857df87344e310faa75387967c54b25c4a8ba97fb359430e152"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "C H E M3 I SM T R Y. 177",
+   "bbox": [
+    0.0,
+    0.045,
+    1.0,
+    0.0725
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2446-692d680df6a9:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**C H E M I**",
+   "bbox": [
+    0.19,
+    0.0495,
+    0.4645,
+    0.0681
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-2446-692d680df6a9:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "be in powder when shaken, it is a fign the operation hath fucceeded: but if it be in a cake, and doth not fall into powder on shaking the matras, it thews that your matter was not fully roalted and dried in the iron pan du- ring the preparatory operation.\"",
+   "bbox": [
+    0.0321,
+    0.0718,
+    0.4576,
+    0.1435
+   ],
+   "source": "s0-col-left",
+   "id": "page-2446-692d680df6a9:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Mr Lemeri hath thewn, that excrement is not the only matter capable of producing this phofphorus with alum; but that, on the contrary, almost all animal and even vegetable matters are fit for this combination; that though Mr Homberg mixed alum in equal quantities only with the fecal matter, it may be ufed in a much greater proportion; and, in certain cafes, will fucced the better; that, according to the nature of the fulblances to be worked on, the quantity of that falt may be more or leis increased; and that whatever is added, more than the dofe requihite for each matter, ferver only to letlen the virtue of the photophorus, or even deftroys it entirely; that the degree of fire applied mult be different according to the nature of those matters; and, Jallly, that fals containing exactly the fame acid with that of alum, or the acid of thofe falls separated from its bafis and reduced into fpirit, do not anfwer in the prefent operation : which thews, fays Mr Lemeri, that many fulphureous matters may be fubllitated for excrement in this operation; but that there are no false, or very few, if any, that will succeed in the place of alum.",
+   "bbox": [
+    0.0312,
+    0.1427,
+    0.4581,
+    0.4352
+   ],
+   "source": "s0-col-left",
+   "id": "page-2446-692d680df6a9:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "This photophorus, made either by Mr Homberg's or by Mr Lemeri's method, shines both by day and by night. Belides emitting light, it takes fire foon after it is expofed to the air, and kindles all combultible matters with which it comes in contact; and this without being rubbed or heated.",
+   "bbox": [
+    0.0317,
+    0.4344,
+    0.4585,
+    0.5172
+   ],
+   "source": "s0-col-left",
+   "id": "page-2446-692d680df6a9:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "Meff. Homberg and Lemeri have given the most probable and the moft natural explanation of the caule of the accenfion and other phenomena of this phofphorus. What they lay amounts in short to what follows.",
+   "bbox": [
+    0.0326,
+    0.518,
+    0.459,
+    0.574
+   ],
+   "source": "s0-col-left",
+   "id": "page-2446-692d680df6a9:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "Alum is known to be a neutral felt, confiling of the vitriolic acid and a calcareous earth. When this falt is calcined with the fecal matter, or other fulblances a bounding in oil, the volatile principles of thefe fulblances, fuch as their phlegn, their fats, and their oils, exhale in the fame manner as if they were difficilled; and there is nothing left in the matras; when thofe principles are dilipated, but a charred matter, like that which is found in retorts wherein fuch mixts have been decompoiled by diftillation.",
+   "bbox": [
+    0.033,
+    0.5747,
+    0.4594,
+    0.712
+   ],
+   "source": "s0-col-left",
+   "id": "page-2446-692d680df6a9:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "This remainder therefore is nothing but a mixture of alum and charcoal. Now, as the acid of this falt, which is the vitriolic, hath a greater affinity with the phlogilton than with any other fulblance, it will quit its balls to unit with the phlogilton of the coal, and be converted by that union into a fulphur. And this is the very cafe, of which we have certain proofs in the operation for pre- paling this phofphorus; for when, after the volatile principles of the oily matter are drawn off, the fire is increased, in order to combine closely together the fixed parts that remain in the matras, that is, the alum and the charred matter, we perceive at the mouth of the ma- tras a final blue fulphureous flame, and a pungent fmell of burning fulphur. Nay, when the operation is finish-",
+   "bbox": [
+    0.0335,
+    0.7127,
+    0.4599,
+    0.9112
+   ],
+   "source": "s0-col-left",
+   "id": "page-2446-692d680df6a9:b7"
+  },
+  {
+   "order": 8,
+   "class": "Head-fragment",
+   "text": "S T R Y, 177",
+   "bbox": [
+    0.4974,
+    0.0495,
+    0.8977,
+    0.0704
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-2446-692d680df6a9:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "ed, we find a real fulphur flicking in the neck of the ma-\ntras; and, while the phofphorus is burning, it hath\nplainly a frong fulphureous fmell. It is therefore cer-\ntain, that this phofphorus contains an actual fulphur;\nthat is, a matter difpofed to take fire with the greateft\ncafe. But though fulphur be very inflammable, it never\ntakes fire of itself, without being either in contact with\nfome matter that is actually ignited, or elfe being expofed\nto a confiderable degree of heat. Let us fee then what\nmay be the caufe of its accention, when it is a conflituent\npart of this phofphorus.",
+   "bbox": [
+    0.4684,
+    0.0711,
+    0.8972,
+    0.2263
+   ],
+   "source": "s0-col-right",
+   "id": "page-2446-692d680df6a9:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "We mentioned jull now, that the acid of the alum quits\nits bafis, in order to form a fulphur by combining with\nthe phlogifton of the coal. This bafis we know to be an\nearth capable of being converted into lime; and that it\nis actually converted into quick-lime by the calcination\nnecessary to produce the phofphorus. We know that\nnew made lime hath the property of uniting with water\nfo readily, that it thereby contradicts a very great degree\nof heat. Now when this phofphorus, which is partly\nconflituted of the bafis of the alum converted into quick-\nlime, is exposed to the air, the lime infantly attracts\nthe moifture of which the air is always full, and by this\nmeans, probably, grows fo hot as to fire the fulphur\nwith which it is mixed. Perhaps alfo the acid of the\nalum is not totally changed into fulphur: fome part\nthereof may be only half-difengaged from its bafis, and\nin that condition be capable of attracting strongly the humidity of the air, of growing very hot likewise by imbibing the moifture, and fo of contributing to the accen-\ntion of the phofphorus.",
+   "bbox": [
+    0.469,
+    0.2256,
+    0.8966,
+    0.5053
+   ],
+   "source": "s0-col-right",
+   "id": "page-2446-692d680df6a9:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "There is alfo room to think that all the phlogifton of\nthe charred matter is not employed in the production of\nfulphur in this phofporus, but that fome part of it re-\nmains in the flare of a true coal. The black colour of\nthe unkindled phofphorus, and the red sparkles it emits\nwhile burning, fufficiently prove this.",
+   "bbox": [
+    0.4695,
+    0.5046,
+    0.8961,
+    0.5904
+   ],
+   "source": "s0-col-right",
+   "id": "page-2446-692d680df6a9:b11"
+  },
+  {
+   "order": 12,
+   "class": "Section-header",
+   "text": "_Human Urine analifyed._",
+   "bbox": [
+    0.585,
+    0.5912,
+    0.7775,
+    0.6121
+   ],
+   "source": "s0-col-right",
+   "id": "page-2446-692d680df6a9:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "Put fome human urine into a glats alembic; fet it in\na water bath, and diftil till there remain only about a\nfortieth part of what you put in; or elfe evaporate the\nurine in a pan fet in the _balneum marine_ till it be reduced\nto the fame quantity. With this heat nothing will ex-\nhale but an infipid plegm, fmelling however like urine.\nThe refidnum will, as the evaporation advances, become\nof a darker and darker ruffet, and at luft acquire an al-\nmoft black colour. Mingle this refiduum with thrice its\nweight of land, and diftil it in a retort fet in a reverbe-\nrating furnace, with the ufual precautions. At first there\nwill come over a little more infipid phlegm like the for-\nmer. When the matter is almost dry, a volatile spirit\nwill ride. After this fpirit, white vapours will appear on\nincreasing the fire; a yellow oily liquor will come off,\ntricking down in veins; and together with this liquor a\nconcrete volatile fall, which will thick to the tides of the\nreceiver. At last there will come over a deep-coloured\nfetid oil. In the retort there will remain a false earthy\nrefiduum, which being laxiviated will yield fome fea-\nfait.",
+   "bbox": [
+    0.4679,
+    0.6143,
+    0.8956,
+    0.9082
+   ],
+   "source": "s0-col-right",
+   "id": "page-2446-692d680df6a9:b13"
+  },
+  {
+   "order": 14,
+   "class": "Page-footer",
+   "text": "08",
+   "bbox": [
+    0.8687,
+    0.9075,
+    0.8982,
+    0.9231
+   ],
+   "source": "s0-col-right",
+   "id": "page-2446-692d680df6a9:b14"
+  }
+ ]
+}

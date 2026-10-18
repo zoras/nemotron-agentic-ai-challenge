@@ -1,0 +1,466 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1250",
+ "row_index": 1250,
+ "volume_id": "149979156",
+ "filename": "page-1250-2e0c75f85418.jpg",
+ "image_sha256": "2e0c75f854185185ace0f165eea2b904222208282d93a1c66b97c9b5c42f5c95",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07451,
+  "median_grey": 222,
+  "layout_body_chars": 6285,
+  "layout_pictures": 0
+ },
+ "running_head": "COI [ 130 ]",
+ "layout_raw": "page-1250-2e0c75f85418/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0302,
+    1.0,
+    0.0569
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1250-2e0c75f85418/head.json",
+   "finish_reason": "stop",
+   "request_key": "71407ea1ae5b03c7e4790371b8ce082aeb97814c7360b59fdfc320995315b81c"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0302,
+    0.5467,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0302,
+     0.111,
+     0.5383
+    ],
+    [
+     0.111,
+     0.1918,
+     0.5417
+    ],
+    [
+     0.1918,
+     0.2727,
+     0.5417
+    ],
+    [
+     0.2727,
+     0.3535,
+     0.5417
+    ],
+    [
+     0.3535,
+     0.4343,
+     0.5417
+    ],
+    [
+     0.4343,
+     0.5151,
+     0.5417
+    ],
+    [
+     0.5151,
+     0.5959,
+     0.5417
+    ],
+    [
+     0.5959,
+     0.6767,
+     0.5417
+    ],
+    [
+     0.6767,
+     0.7575,
+     0.5417
+    ],
+    [
+     0.7575,
+     0.8384,
+     0.5417
+    ],
+    [
+     0.8384,
+     0.9192,
+     0.5417
+    ],
+    [
+     0.9192,
+     1.0,
+     0.5417
+    ]
+   ],
+   "raw_path": "page-1250-2e0c75f85418/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "868e03dfa73ec339b0598fcb2f267ed637dcb042cfe8f1163df257ada541d2c2"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5333,
+    0.0302,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0302,
+     0.111,
+     0.5383
+    ],
+    [
+     0.111,
+     0.1918,
+     0.5417
+    ],
+    [
+     0.1918,
+     0.2727,
+     0.5417
+    ],
+    [
+     0.2727,
+     0.3535,
+     0.5417
+    ],
+    [
+     0.3535,
+     0.4343,
+     0.5417
+    ],
+    [
+     0.4343,
+     0.5151,
+     0.5417
+    ],
+    [
+     0.5151,
+     0.5959,
+     0.5417
+    ],
+    [
+     0.5959,
+     0.6767,
+     0.5417
+    ],
+    [
+     0.6767,
+     0.7575,
+     0.5417
+    ],
+    [
+     0.7575,
+     0.8384,
+     0.5417
+    ],
+    [
+     0.8384,
+     0.9192,
+     0.5417
+    ],
+    [
+     0.9192,
+     1.0,
+     0.5417
+    ]
+   ],
+   "raw_path": "page-1250-2e0c75f85418/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "b29c1d42f78c101b421f6e4efe919e70165b3f075c1a9121afa6e6b5815247ad"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "COI [ 130 ]",
+   "bbox": [
+    0.0,
+    0.0302,
+    1.0,
+    0.0569
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1250-2e0c75f85418:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**CO I**",
+   "bbox": [
+    0.2643,
+    0.034,
+    0.3593,
+    0.0537
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "[ 13",
+   "bbox": [
+    0.4757,
+    0.0332,
+    0.5413,
+    0.059
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b2"
+  },
+  {
+   "order": 3,
+   "class": "Margin-note",
+   "text": "Coin, Coinage.",
+   "bbox": [
+    0.0811,
+    0.0544,
+    0.1506,
+    0.0969
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "According to the decuple pro- portion, mentioned by Livy and Julius Pollux, worth",
+   "bbox": [
+    0.1532,
+    0.0552,
+    0.3919,
+    0.0984
+   ],
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "According to the proportion mentioned by Tacitus, and which afterwards obtained, whereby the aureus exchanged for 25 denarii, its value",
+   "bbox": [
+    0.1537,
+    0.0976,
+    0.3988,
+    0.1643
+   ],
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "CoIN, in architecture, a kind of dye cut diagonal- wife, after the manner of a flight of a flair-cafe, ferving at bottom to fupport columns in a level, and at top to correct the inclination of an entablature fup- porting a vault.",
+   "bbox": [
+    0.1527,
+    0.1635,
+    0.5382,
+    0.2325
+   ],
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "CoIN is alfo ufed for a folid angle compofed of two surfaces inclined towards each other, whether that angle be exterior, as the coin of a wall, a tree, &c, or interior, as the coin of a chamber or chimney. See Quoin.",
+   "bbox": [
+    0.1543,
+    0.2309,
+    0.5376,
+    0.2984
+   ],
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "COINAGE, or COINING, the art of making money, as performed either by the hammer or mill.",
+   "bbox": [
+    0.1548,
+    0.2977,
+    0.5371,
+    0.3265
+   ],
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Formerly the fabric of coins was different from what it is at prefent. They cut a large plate of metal into several little figures, the corners of which were cut off with fleers. After having shaped thefe pieces, fo as to render them perfectly conformable, in point of weight, to the standard piece, they took each piece in hand again, to make it exactly round by a gentle hammering. This was called a _planchet_, and was fit for immediate coining. Then engravers prepared, as they fill do, a couple of feel maffes in form of dyes, cut and terminated by a flat surface, rounded off at the edges. They engraved or flamped on it the hollow of a head, a crofs, a feutcheon, or any other figure, according to the cultom of the times, with a short legend. As one of thefe dyes was to remain dormant, and the other moveable, the former ended in a figure prifm, that it might be introduced into the square hole of the block, which, being fixed very fat, kept the dye as ftrendy as any vice could have done. The planchet of metal was horizontally laid upon this inferior mafs, to receive the flamp of it on one fide, and that of the upper dye, wherewith it was covered, on the other. This moveable dye, having its round engraved surface refiting upon the planehet, had at its opposite extremity a flat square, and larger surface, upon which they gave feveral heavy blows, with a hammer of an enormous face, till the double flamp was sufficiently, in relievo, imprefled on each fide of the planehet. This being finished, was immediately succeeded by another, and they thus became a fiandard coin, which had the degree of finenefs of the weight and mark determined by the judgment of the infpectors, to make it good current money. The strong tempering which was and is fill given to the two dyes, rendering them capable of bearing those repeated blows. Coining has been considerably improved and rendered expeditious, by feveral ingenious machines, and by a wife application of the furek phyfical experiments to the methods of flying, dyeing, and flamping the different metals.",
+   "bbox": [
+    0.1554,
+    0.3257,
+    0.5451,
+    0.8605
+   ],
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "The three finest instruments the mint-man ufes, are the laminating engine; the machine for making the impressions on the edges of coins ; and the mill.",
+   "bbox": [
+    0.1634,
+    0.8599,
+    0.5446,
+    0.9015
+   ],
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "After they have taken the laminar, or plates of me-",
+   "bbox": [
+    0.181,
+    0.9008,
+    0.543,
+    0.9181
+   ],
+   "source": "s0-col-left",
+   "id": "page-1250-2e0c75f85418:b11"
+  },
+  {
+   "order": 12,
+   "class": "Head-fragment",
+   "text": "O I COI",
+   "bbox": [
+    0.5369,
+    0.034,
+    0.7999,
+    0.056
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1250-2e0c75f85418:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "tal, out of the mould into which they are caft, they do not beat them on the anvil, as was formerly done, but they make them pafs and repafs between the feveral rollers of the laminating engine, which being gradually brought closer and clofer to each other, presently give the lamina its uniform and exact thickness. Instead of dividing the lamina into fmall figures, they at once cut clean out of it as many planchets as it can contain, by means of a sharp feet trepan, of a roundfit figure, hollow within, and of a proportionable diameter, to shape and cut off the piece at one and the fame time. After thefe planchets have been prepared and weighed with flandard pieces, filed or feraped to get off the superfluous part of the metal, and then boiled and made clean, they arrive, at left, at the machine (fig. 1.), which marks them upon the edge; and finally, the mill (fig. 2), which, fqueezing each of them finely between the two dyes, brought near each other with one blow, forces the two surfaces or fields of the piece to fill exactly all the vacancies of the two figures engraved hollow. The engine which ferves to laminate lead, gives a sufficient notion of that which ferves to flatten gold and silver laminae between rollers of a leffer size.",
+   "bbox": [
+    0.5483,
+    0.0552,
+    0.9316,
+    0.3787
+   ],
+   "source": "s0-col-right",
+   "id": "page-1250-2e0c75f85418:b13"
+  },
+  {
+   "order": 14,
+   "class": "Caption",
+   "text": "Coinsge.",
+   "bbox": [
+    0.9353,
+    0.0575,
+    0.9954,
+    0.0726
+   ],
+   "source": "s0-col-right",
+   "id": "page-1250-2e0c75f85418:b14"
+  },
+  {
+   "order": 15,
+   "class": "Caption",
+   "text": "Plate CXLIV.",
+   "bbox": [
+    0.9357,
+    0.2742,
+    0.9995,
+    0.2991
+   ],
+   "source": "s0-col-right",
+   "id": "page-1250-2e0c75f85418:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "The principal pieces of the machine (fig. 1.), to stamp coins on the edge, are two feel laminae, about a line thick. One half of the legend, or of the ring, is engraved on the thickness of one of the laminae, and the other half on the thickness of the other; and thefe two laminae are straight, although the planchet marked with them be circular.",
+   "bbox": [
+    0.5488,
+    0.378,
+    0.9321,
+    0.4726
+   ],
+   "source": "s0-col-right",
+   "id": "page-1250-2e0c75f85418:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "When they flamp a planchet, they first put it be-tween the laminae in fuch a manner, as that thefe be-ing each of them laid flat upon a copper-plate, which is fattened upon a very thick wooden table, and the planchet being likewise laid flat upon the fame plate, the edge of the planchet may touch the two laminae on each fide, and in their thick part.",
+   "bbox": [
+    0.5493,
+    0.4734,
+    0.9326,
+    0.5674
+   ],
+   "source": "s0-col-right",
+   "id": "page-1250-2e0c75f85418:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "One of thefe laminae is immovable, and fattened with several forews; the other flides by means of a dented wheel, which takes into the teeth that are on the surface of the lamina. This fliding lamina makes the planchet turn in fuch a manner, that it remains flamped on the edge, when it has made one turn. Only crown and half-crown pieces can bear the impreffion of letters on the thickness of their edges.",
+   "bbox": [
+    0.5497,
+    0.5666,
+    0.933,
+    0.6742
+   ],
+   "source": "s0-col-right",
+   "id": "page-1250-2e0c75f85418:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "The coining engine or mill is fo handy (fig. 2.), that a fingle man may flamp twenty thousand planchets in one day : gold, silver, and copper planchets, are all of them coined with a mill, to which the coining figures (fig. 3.), commonly called dyes, are fattened; that of the face under, in a square box garnified with male and female forews, to fix and keep it dead; and the other above, in a little box garnished with the fame forews, to fatten the coining figure. The plan-chet is laid flat on the figure of the effigy, which is dormant; and they immediately pull the bar of the mill by its cords, which caufes the forew fet within it to turn. This enters into the female forew, which is in the body of the mill, and turns with fo much strength, that by pulling the upper figure upon that of the effigy, the planchet, violently preffed between both figures, receives the impreffion of both at one pull, and in the twinkling of an eye.",
+   "bbox": [
+    0.5501,
+    0.6749,
+    0.9334,
+    0.9167
+   ],
+   "source": "s0-col-right",
+   "id": "page-1250-2e0c75f85418:b19"
+  },
+  {
+   "order": 20,
+   "class": "Page-footer",
+   "text": "The",
+   "bbox": [
+    0.9002,
+    0.9121,
+    0.9348,
+    0.928
+   ],
+   "source": "s0-col-right",
+   "id": "page-1250-2e0c75f85418:b20"
+  }
+ ]
+}

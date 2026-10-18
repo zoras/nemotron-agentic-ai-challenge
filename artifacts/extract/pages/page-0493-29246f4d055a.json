@@ -1,0 +1,337 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:493",
+ "row_index": 493,
+ "volume_id": "192984257",
+ "filename": "page-0493-29246f4d055a.jpg",
+ "image_sha256": "29246f4d055a224974dd91ae949df53daace4862c8dff8f0b2fb6b8a7490444a",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.0902,
+  "median_grey": 206,
+  "layout_body_chars": 6367,
+  "layout_pictures": 0
+ },
+ "running_head": "I L A [ 159 ] I L A",
+ "layout_raw": "page-0493-29246f4d055a/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0427,
+    1.0,
+    0.0772
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0493-29246f4d055a/head.json",
+   "finish_reason": "stop",
+   "request_key": "307d3b1eb95579ab63a83f6f989d7f59599f6a826ef30712d586947718b9d1c5"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0427,
+    0.4717,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0427,
+     0.1297,
+     0.4617
+    ],
+    [
+     0.1297,
+     0.2168,
+     0.465
+    ],
+    [
+     0.2168,
+     0.3038,
+     0.465
+    ],
+    [
+     0.3038,
+     0.3908,
+     0.465
+    ],
+    [
+     0.3908,
+     0.4778,
+     0.465
+    ],
+    [
+     0.4778,
+     0.5649,
+     0.465
+    ],
+    [
+     0.5649,
+     0.6519,
+     0.465
+    ],
+    [
+     0.6519,
+     0.7389,
+     0.465
+    ],
+    [
+     0.7389,
+     0.8259,
+     0.465
+    ],
+    [
+     0.8259,
+     0.913,
+     0.4667
+    ],
+    [
+     0.913,
+     1.0,
+     0.44
+    ]
+   ],
+   "raw_path": "page-0493-29246f4d055a/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "c14cbcdf337c48d0bf6147fa1900f738eb430cc07074f77e12e6e0b83e3fc8fa"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.435,
+    0.0427,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0427,
+     0.1297,
+     0.4617
+    ],
+    [
+     0.1297,
+     0.2168,
+     0.465
+    ],
+    [
+     0.2168,
+     0.3038,
+     0.465
+    ],
+    [
+     0.3038,
+     0.3908,
+     0.465
+    ],
+    [
+     0.3908,
+     0.4778,
+     0.465
+    ],
+    [
+     0.4778,
+     0.5649,
+     0.465
+    ],
+    [
+     0.5649,
+     0.6519,
+     0.465
+    ],
+    [
+     0.6519,
+     0.7389,
+     0.465
+    ],
+    [
+     0.7389,
+     0.8259,
+     0.465
+    ],
+    [
+     0.8259,
+     0.913,
+     0.4667
+    ],
+    [
+     0.913,
+     1.0,
+     0.44
+    ]
+   ],
+   "raw_path": "page-0493-29246f4d055a/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "4af27b8feecbd1c93bd90631ae9fec5323b619e8b04a821e651bbfe23f87f7fe"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "I L A [ 159 ] I L A",
+   "bbox": [
+    0.0,
+    0.0427,
+    1.0,
+    0.0772
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0493-29246f4d055a:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "I L A [ I",
+   "bbox": [
+    0.1972,
+    0.048,
+    0.4662,
+    0.0711
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0493-29246f4d055a:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "JILLIFREE, a town on the northern bank of the river Gambia, opposite to James’s island, where the English had formerly a small port. The kingdom of Barra, in which it is situated, produces abundance of the necessaries of life; but the chief trade of the inhabitants is in salt, which they carry up the river in cases; and, in return, bring down Indian corn, cotton- cloths, elephants teeth, small quantities of gold dust, &c. The number of causes and people continually employed in this trade, make the king of Barra, according to Mr Park, more formidable to Europeans, than any other chieftain on the river, and have encouraged him to establish those extravagant duties, which traders of all nations are obliged to pay at entry, mounting almost to 20l. on each vessel, great and small. These duties are commonly collected in person by the governor of Jillifree, who is attended by a troublesome train of dependants, who have some knowledge of the English language, in consequence of their intercourse with them, and beg with such importunity, that traders are often under the necessity of complying with their demands, in order to get rid of them. N. Lat. 13. 16. W. Long. 16. 10. from Greenwich.",
+   "bbox": [
+    0.0718,
+    0.0688,
+    0.4652,
+    0.38
+   ],
+   "source": "s0-col-left",
+   "id": "page-0493-29246f4d055a:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "JIN. See GENII.",
+   "bbox": [
+    0.0926,
+    0.3762,
+    0.2294,
+    0.3913
+   ],
+   "source": "s0-col-left",
+   "id": "page-0493-29246f4d055a:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "IKENHLD STREET, one of the four famous ways which the Romans made in England, called _Stratum_ _lecnorum_, because it began in the country of the _Iconi_, who inhabited Norfolk, Suffolk, and Cambridgeshire.",
+   "bbox": [
+    0.0705,
+    0.3897,
+    0.4611,
+    0.4466
+   ],
+   "source": "s0-col-left",
+   "id": "page-0493-29246f4d055a:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "HLA, ILAY, or _Isla_, one of the chief of the Hebrides or Western isles of Scotland, lying to the west of Jura, from which it is separated by a narrow channel. It extends 24 miles in length from north to south, and is 18 in breadth from east to west. On the east side there are many lofty sterile mountains; but in the interior, and to the southward and westward, the land is in good cultivation. A great body of limestone of a bluish colour, lying in the middle part of the island, stretches almost through its whole length, and is now extensively employed for the purposes of manure. Marl, which is also abundant, is applied to the same use. Lead-ore has been dug out in several places, and at so early a period as the time of the Danes. The principal harbour in Isla is at Lochindual, but there are several others which are safe and commodious. Here are several rivers and lakes well stored with trout, cels and salmon. In the centre is Loch Finlagan, about three miles in circuit, with the little isle of that name in the middle. Here the great lord of the Isles once resided in all the pomp of royalty; but his palaces and offices are now in ruins. Instead of a throne, Macdonald stood on a stone seven feet square, in which there was an impression made to receive his feet; here he was crowned and appointed by the bishop of Argyle and seven inferior priests, in presence of the chieftains. This stone still exists. The ceremony (after the new lord had collected his kindred and vassals) was truly patriarchal. After putting on his armour, his helmet and his sword, he took an oath to rule as his ancestors",
+   "bbox": [
+    0.0696,
+    0.4443,
+    0.4597,
+    0.8519
+   ],
+   "source": "s0-col-left",
+   "id": "page-0493-29246f4d055a:b5"
+  },
+  {
+   "order": 6,
+   "class": "Footnote",
+   "text": "(A) This might have been the case in the time of Penn so now, although the population has increased to nearly 1 being not only a grazing but a corn country, and can of produce. The number of cattle now exported far e",
+   "bbox": [
+    0.0686,
+    0.8788,
+    0.4712,
+    0.9469
+   ],
+   "source": "s0-col-left",
+   "id": "page-0493-29246f4d055a:b6"
+  },
+  {
+   "order": 7,
+   "class": "Head-fragment",
+   "text": "59 J I L A",
+   "bbox": [
+    0.4598,
+    0.0509,
+    0.7341,
+    0.0733
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0493-29246f4d055a:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "had done; that is, to govern as a father would his children: his people in return swore that they would pay the same obedience to him as children would to their parent. The dominions of this potentate, about the year 1586, consisted only of Ilay, Jura, Knapdale, and Cantyre: so reduced were they from what they had been before the deprivation of the great carl of Ross in the reign of James III. Near this is another little isle, where he assembled his council, _Manna Corille_, or \"the island of council;\" where 13 judges constantly sat to decide differences among his subjects; and received for their trouble the 11th part of the value of the affair tried before them. In the first island were buried the wives and children of the lords of the Isles; but their own persons were deposited in the more sacred ground of Iona. On the shores of the lake are some marks of the quarters of his _Carnauch_ and _Gilli-glasses_, \"the military of the isles;\" the first signifying a strong man, the last a grim-looking fellow. The first were light-armed, and fought with darts and daggers; the last with sharp hatchets. These are the troops that Shakespeare alludes to, when he speaks of a Donald, who",
+   "bbox": [
+    0.4703,
+    0.0726,
+    0.861,
+    0.3852
+   ],
+   "source": "s0-col-right",
+   "id": "page-0493-29246f4d055a:b8"
+  },
+  {
+   "order": 9,
+   "class": "Section-header",
+   "text": "From the Western islea Of Kernes and Gallow-glasses was supplied.",
+   "bbox": [
+    0.5078,
+    0.3868,
+    0.8212,
+    0.4189
+   ],
+   "source": "s0-col-right",
+   "id": "page-0493-29246f4d055a:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "Besides those already mentioned, the lords had a house and chapel at Lagan, on the south side of Lochin-daal : a strong castle on a rock in the sea, at Duno-waik, at the south-east end of the country; for they made this island their residence after their expulsion from that of Man in 1304.--There is a tradition, that while the isle of Man was part of the kingdom of the Isles, the rents were for a time paid in this country: those in silver were paid on a rock, still called _Creig-a-niome_, or \"the rock of the silver rent;\" the other, _Creg-a-nairigid_, or \"the rock of rents in kind.\" These lie opposite to each other, at the mouth of a harbour on the south side of this island. There are several forts built on the isles in fresh water lakes, and divers caverns in different parts of the island, which have been used occasionally as places of strength. The island is divided into four parishes, viz. Kildalton, Killarow, Kilchoman, and Kilmenie. The produce is corn of different kinds; such as bear, which sometimes yields eleven fold; and oats six fold. Much flax is raised here, and about 2000!. worth sold out of the island in yaro, which might better be manufactured on the spot, to give employ to the poor natives. Notwithstanding the excellence of the land, above 1000!. worth of meal is annually imported (A). Ale is frequently made in this island of the young tops of health, mixing two-thirds of that plant with one of malt, sometimes adding hops. Boethius relates, that this liquor was much used among the Picts; but when that nation was extirpated by the Scots, the secret of making it perished with them. Numbers of cattle are bred here, and about 1700 are annually exported at the",
+   "bbox": [
+    0.4643,
+    0.4182,
+    0.8576,
+    0.8668
+   ],
+   "source": "s0-col-right",
+   "id": "page-0493-29246f4d055a:b10"
+  },
+  {
+   "order": 11,
+   "class": "Footnote",
+   "text": "ant, from whom the above account is taken. It is not 2,000. Isla indeed enjoys the peculiar advantages of thus afford a very considerable exportation of both species- exceeds that stated above by Pennant.",
+   "bbox": [
+    0.4378,
+    0.887,
+    0.8482,
+    0.9484
+   ],
+   "source": "s0-col-right",
+   "id": "page-0493-29246f4d055a:b11"
+  }
+ ]
+}

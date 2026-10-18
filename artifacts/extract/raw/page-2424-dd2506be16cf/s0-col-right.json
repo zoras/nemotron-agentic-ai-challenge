@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "fe2d35e702c1b763995a759e6cf1b0d49c8a493c7f65a1caf33756bb0efc6679",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "35d864f682b1b2bfaca3d3cff14d7002df7599d526611dc30ebafebf282da37d",
+  "image_bytes": 2261795,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2424",
+  "variant": "s0-col-right",
+  "crop": [
+   0.475,
+   0.0403,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0403,
+    0.1203,
+    0.48
+   ],
+   [
+    0.1203,
+    0.2003,
+    0.4817
+   ],
+   [
+    0.2003,
+    0.2802,
+    0.4817
+   ],
+   [
+    0.2802,
+    0.3602,
+    0.4817
+   ],
+   [
+    0.3602,
+    0.4402,
+    0.4817
+   ],
+   [
+    0.4402,
+    0.5202,
+    0.4817
+   ],
+   [
+    0.5202,
+    0.6001,
+    0.4817
+   ],
+   [
+    0.6001,
+    0.6801,
+    0.4817
+   ],
+   [
+    0.6801,
+    0.7601,
+    0.4817
+   ],
+   [
+    0.7601,
+    0.8401,
+    0.4817
+   ],
+   [
+    0.8401,
+    0.92,
+    0.4817
+   ],
+   [
+    0.92,
+    1.0,
+    0.4817
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2734,
+  "completion_tokens": 934,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.82,
+ "created_at": "2026-10-18T11:21:21+00:00",
+ "content": "<x_0.0068><y_0.0055>J L T U R E. 345<x_0.876><y_0.0242><class_Page-header>\n\n<x_0.0234><y_0.0305>owner, and his skill in so managing the commissariat, as to Live Stock. secure throughout the year a sufficiency of suitable food for the stock on hand. Unless this is attended to, he may find himself necessitated to sell his cattle before they are fat, and when markets are glutted. Whenever they have attained to what is technically called _ripe_ flatness, and prices are at their average rate, it is generally more profitable forthwith to dispose of them, than to speculate upon a rise in the markets.<x_0.7529><y_0.1453><class_Text>\n\n<x_0.3389><y_0.1539>SHEEP.<x_0.4277><y_0.1664><class_Section-header>\n\n<x_0.0225><y_0.1688>When Fitzherbert so long ago said, \" Sheep is the most profitablest cattle that a man can have,\" he expressed an opinion in which agriculturists of the present day fully con- cur. But if this was true of the flocks of his time, how much more of the many admirable breeds which now adorn the rich pastures, the grassy downs, and heath-clad mountains of our native country. Their flesh is in high estimation with all classes of the community, and constitutes at least one-half of all the butcher meat consumed by them. Their fleeces supply the raw material for one of our most flourishing manufactures. They furnish to the farmer an important source of revenue, and the readiest means of maintaining the fertility of his fields. The distinct breeds, and sub- varieties of sheep found in Great Britain are very numerous. We have no intention of noticing them in detail, but shall rather confine our observations to those which, by common consent, are the most valuable for their respective and appropriate habitats. They may be fitly classed under these three heads, viz. the heavy breeds of the low country, those found on our downs and similar localities, and the mountain breeds.<x_0.7539><y_0.4234><class_Text>\n\n<x_0.0205><y_0.4242>Of the first class, the improved _Leicesters_ are still the Leicester most important to the country. They are more widely dif- breed. fused in the kingdom than any of their congeners. Although, from the altered taste of the community, their mutton is less esteemed than formerly, they still constitute the staple breed of the midland counties of England. Leicester rams are also more in demand than ever, for crossing with other breeds. It is now about a century since this breed was produced by the genius and perseverance of Bakewell, in whose hands they attained a degree of excellence that has probably not yet been exceeded by the many who have cultivated them since his day. The characteristics of this breed are extreme docility, extraordinary aptitude to fatten, and the early age at which they come to maturity. The most marked feature in their structure is the smallness of their heads, and of their bones generally, as contrasted with their weight of carcase. They are clean in the laws, with a full eye, thin ears, and placid countenance. Their backs are straight, broad, and flat, the ribs arched, the belly carried very light, so that they present nearly as straight a line below as above, the chest is wide, the skin very mellow, and covered with a beautiful fleece of long, soft wool, which weighs on the average from 6 to 7 lb. On good soils, and under careful treatment these sheep are currently brought to weigh from 18 to 20 lb. per quarter at 14 months old, at which age they are now usually slaughtered. At this age their flesh is tender and juicy; but when carried on until they are older and heavier, fat accumulates so un duly in proportion to the lean meat, as to detract from its palatableness and market value.<x_0.7549><y_0.8055><class_Text>\n\n<x_0.0176><y_0.8047>_Lincolns._--These were at one time very large, ungainly Lincoln animals, with an immense fleece of very long wool. By breed. crossing them with the Leicesters the character of the breed has been entirely changed, and very greatly for the better. It is now, in fact, a subvariety of the Leicester, with larger frame and heavier fleece than the pure breed. Sheep of<x_0.832><y_0.8836><class_Text>\n\n<x_0.0059><y_0.8953>fuxtable. Ridgway. London, 1850.<x_0.418><y_0.9094><class_Page-footer>\n\n<x_0.5928><y_0.9055>2 x<x_0.6436><y_0.918><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-db4f884b-9c27-4c15-9aeb-3464db0daea5",
+  "object": "chat.completion",
+  "created": 1792322480,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0068><y_0.0055>J L T U R E. 345<x_0.876><y_0.0242><class_Page-header>\n\n<x_0.0234><y_0.0305>owner, and his skill in so managing the commissariat, as to Live Stock. secure throughout the year a sufficiency of suitable food for the stock on hand. Unless this is attended to, he may find himself necessitated to sell his cattle before they are fat, and when markets are glutted. Whenever they have attained to what is technically called _ripe_ flatness, and prices are at their average rate, it is generally more profitable forthwith to dispose of them, than to speculate upon a rise in the markets.<x_0.7529><y_0.1453><class_Text>\n\n<x_0.3389><y_0.1539>SHEEP.<x_0.4277><y_0.1664><class_Section-header>\n\n<x_0.0225><y_0.1688>When Fitzherbert so long ago said, \" Sheep is the most profitablest cattle that a man can have,\" he expressed an opinion in which agriculturists of the present day fully con- cur. But if this was true of the flocks of his time, how much more of the many admirable breeds which now adorn the rich pastures, the grassy downs, and heath-clad mountains of our native country. Their flesh is in high estimation with all classes of the community, and constitutes at least one-half of all the butcher meat consumed by them. Their fleeces supply the raw material for one of our most flourishing manufactures. They furnish to the farmer an important source of revenue, and the readiest means of maintaining the fertility of his fields. The distinct breeds, and sub- varieties of sheep found in Great Britain are very numerous. We have no intention of noticing them in detail, but shall rather confine our observations to those which, by common consent, are the most valuable for their respective and appropriate habitats. They may be fitly classed under these three heads, viz. the heavy breeds of the low country, those found on our downs and similar localities, and the mountain breeds.<x_0.7539><y_0.4234><class_Text>\n\n<x_0.0205><y_0.4242>Of the first class, the improved _Leicesters_ are still the Leicester most important to the country. They are more widely dif- breed. fused in the kingdom than any of their congeners. Although, from the altered taste of the community, their mutton is less esteemed than formerly, they still constitute the staple breed of the midland counties of England. Leicester rams are also more in demand than ever, for crossing with other breeds. It is now about a century since this breed was produced by the genius and perseverance of Bakewell, in whose hands they attained a degree of excellence that has probably not yet been exceeded by the many who have cultivated them since his day. The characteristics of this breed are extreme docility, extraordinary aptitude to fatten, and the early age at which they come to maturity. The most marked feature in their structure is the smallness of their heads, and of their bones generally, as contrasted with their weight of carcase. They are clean in the laws, with a full eye, thin ears, and placid countenance. Their backs are straight, broad, and flat, the ribs arched, the belly carried very light, so that they present nearly as straight a line below as above, the chest is wide, the skin very mellow, and covered with a beautiful fleece of long, soft wool, which weighs on the average from 6 to 7 lb. On good soils, and under careful treatment these sheep are currently brought to weigh from 18 to 20 lb. per quarter at 14 months old, at which age they are now usually slaughtered. At this age their flesh is tender and juicy; but when carried on until they are older and heavier, fat accumulates so un duly in proportion to the lean meat, as to detract from its palatableness and market value.<x_0.7549><y_0.8055><class_Text>\n\n<x_0.0176><y_0.8047>_Lincolns._--These were at one time very large, ungainly Lincoln animals, with an immense fleece of very long wool. By breed. crossing them with the Leicesters the character of the breed has been entirely changed, and very greatly for the better. It is now, in fact, a subvariety of the Leicester, with larger frame and heavier fleece than the pure breed. Sheep of<x_0.832><y_0.8836><class_Text>\n\n<x_0.0059><y_0.8953>fuxtable. Ridgway. London, 1850.<x_0.418><y_0.9094><class_Page-footer>\n\n<x_0.5928><y_0.9055>2 x<x_0.6436><y_0.918><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2734,
+   "completion_tokens": 934,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

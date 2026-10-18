@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "7013eeed79e40ffce11f66caf6dd2f66e715bd3e0c71ea17901782950450c474",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "8c43908f5e07cb8312dd3f1f89c6159c6fb0bc02bcc718640d209f04a44b3fe9",
+  "image_bytes": 153952,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:756",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0262,
+   1.0,
+   0.07
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 190,
+  "total_tokens": 233,
+  "completion_tokens": 43,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.17,
+ "created_at": "2026-10-18T11:19:37+00:00",
+ "content": "<x_0.0><y_0.0>MAGNETISM. 129 43. But any degree of temper that is given to fleet makes a magnet is applied to one end of a bar of hard fleet,<x_0.999><y_0.9875><class_Text>",
+ "reply": {
+  "id": "chatcmpl-215b9cda-f79f-4118-8233-2024d2cafe39",
+  "object": "chat.completion",
+  "created": 1792322376,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>MAGNETISM. 129 43. But any degree of temper that is given to fleet makes a magnet is applied to one end of a bar of hard fleet,<x_0.999><y_0.9875><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 190,
+   "total_tokens": 233,
+   "completion_tokens": 43,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

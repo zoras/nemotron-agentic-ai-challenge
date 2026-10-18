@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "50019f15cf8f6aa92b7fda7d8272edb3dafd6b3ae2538de5024dc083c4cc2fb1",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "8bd3254d77e57e242d44aa8ac8fc587be5ed74926cf7ce8aa665f2bf467061b4",
+  "image_bytes": 2262216,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1933",
+  "variant": "s0-col-right",
+  "crop": [
+   0.505,
+   0.0262,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0262,
+    0.1074,
+    0.5133
+   ],
+   [
+    0.1074,
+    0.1885,
+    0.51
+   ],
+   [
+    0.1885,
+    0.2697,
+    0.51
+   ],
+   [
+    0.2697,
+    0.3508,
+    0.51
+   ],
+   [
+    0.3508,
+    0.432,
+    0.51
+   ],
+   [
+    0.432,
+    0.5131,
+    0.51
+   ],
+   [
+    0.5131,
+    0.5942,
+    0.51
+   ],
+   [
+    0.5942,
+    0.6754,
+    0.51
+   ],
+   [
+    0.6754,
+    0.7566,
+    0.51
+   ],
+   [
+    0.7566,
+    0.8377,
+    0.51
+   ],
+   [
+    0.8377,
+    0.9188,
+    0.51
+   ],
+   [
+    0.9188,
+    1.0,
+    0.51
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2492,
+  "completion_tokens": 948,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.43,
+ "created_at": "2026-10-18T11:20:33+00:00",
+ "content": "<x_0.0088><y_0.0>O R Y.<x_0.2979><y_0.0219><class_Title>\n\n<x_0.7764><y_0.0008>Part III.<x_0.9619><y_0.0227><class_Section-header>\n\n<x_0.0166><y_0.0234>and your anceftors have undergone the greatest la- bours?\"<x_0.8398><y_0.0508><class_Text>\n\n<x_0.0146><y_0.0516>_Epifirophe,_ is contrary to the former, and makes the repetition at the end of each member or fentence. As thus: _Since concord was loft, friendship was loft, fidelity was loft, liberty was loft, all was loft._ And Cicero, in the charge which he brings againtl Mark Anthony before the fenate, makes ufe of this figure, when he fays, \" Do you lament the defruction of three Roman armies? The author of that deltruction was Anthony. Do you bewail the lofs of moft eminent citizens? They have been taken from you by Anthony. Is the authority of this order weakened? It is weakened by Anthony.\"<x_0.8457><y_0.2148><class_Text>\n\n<x_0.0176><y_0.2133>_Symplace_ takes in both thefe latt figures. As in that of Cicero: \" You would pardon and acquit him, whom the fenate hath condemned, whom the people of Rome have condemned ; whom all mankind have con demned.\" Here the feveral members both begin and end with the fame word. We have a beautiful influence of it in St Paul, when he fays: \" Are they Hebrews? fo am I. Are they Ifraelites? fo am I. Are they the feed of Abraham? fo am I.\"<x_0.8418><y_0.3375><class_Text>\n\n<x_0.0186><y_0.3367>When a sentence concludes with the word with which it began, it is called epanalepfis. As in that exprefiion of Plautus, \" Virtue contains all things, he wants no good thing who has virtue.\" The figure is the fame, but the principle not fo honet, in the advice which we find given by the mifer in Horace, when he fays, \" Get money if you can, honestly ; but however, get money.\" This figure adds a force to an exprefiion, when the principal thing defigned to be conveyed is thus repeated, by leaving it left upon the mind. And it heightens the beauty of it, when the fentence has an agreeable turn arising from two opposite parts. As in Cicero’s compliment to Cefar : \" We have feen your victory terminated by the war ; your drawn fword in the city we have not feen.\" Hermogenes calls this a circle, because the fentence returns again to the fame word, as that geometrical figure is formed by the orbicular motion of a line to the fame point.<x_0.8408><y_0.5953><class_Text>\n\n<x_0.0156><y_0.5945>When the following fentence begins with the fame word with which the former concluded, it is termed anadiplofis. As in the following inflance: _Let us think no price too great for truth ; truth cannot be bought too dear._ So in that paffage of St John: _He came to his own, and his own received him not._ This figure generally fuits belt with grave and folemn difcourfes:<x_0.8301><y_0.7031><class_Text>\n\n<x_0.0078><y_0.7039>_Epanodos_, is the invertion of a fentence, or repeating it backwards, fo that it takes in the two latt figures ; for it both begins and ends with the fame word, and the fame word is likewise repeated in the middle. This turn of expreffion has a beauty in it, and flews a rea- dinefs of thought. We have the following example of it in Minutius Felix, where he is expoing the folly of the Egyptian flupertition. \" Ifis (fays he) with Cy- nocephalus and her prietis, laments, bemoans, and feeks her loft fan ; her attendants beat their breaths, and imitate the grief of the unhappy mother ; in a little time the fun is found, upon which they all rejoice. Nor do they cease every year to lofe what they find, or to find what they lofe. And is it not ri-<x_0.8281><y_0.9094><class_Text>\n\n<x_0.8848><y_0.0539>71<x_0.9297><y_0.0719><class_Caption>\n\n<x_0.8809><y_0.2203>72<x_0.9307><y_0.2367><class_Caption>\n\n<x_0.8799><y_0.3383>73<x_0.9316><y_0.3547><class_Caption>\n\n<x_0.8701><y_0.5938>74<x_0.9404><y_0.6133><class_Caption>\n\n<x_0.8691><y_0.707>75<x_0.9238><y_0.7273><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-01d970e8-36ce-403a-9416-2fb66f4e0bdc",
+  "object": "chat.completion",
+  "created": 1792322432,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0088><y_0.0>O R Y.<x_0.2979><y_0.0219><class_Title>\n\n<x_0.7764><y_0.0008>Part III.<x_0.9619><y_0.0227><class_Section-header>\n\n<x_0.0166><y_0.0234>and your anceftors have undergone the greatest la- bours?\"<x_0.8398><y_0.0508><class_Text>\n\n<x_0.0146><y_0.0516>_Epifirophe,_ is contrary to the former, and makes the repetition at the end of each member or fentence. As thus: _Since concord was loft, friendship was loft, fidelity was loft, liberty was loft, all was loft._ And Cicero, in the charge which he brings againtl Mark Anthony before the fenate, makes ufe of this figure, when he fays, \" Do you lament the defruction of three Roman armies? The author of that deltruction was Anthony. Do you bewail the lofs of moft eminent citizens? They have been taken from you by Anthony. Is the authority of this order weakened? It is weakened by Anthony.\"<x_0.8457><y_0.2148><class_Text>\n\n<x_0.0176><y_0.2133>_Symplace_ takes in both thefe latt figures. As in that of Cicero: \" You would pardon and acquit him, whom the fenate hath condemned, whom the people of Rome have condemned ; whom all mankind have con demned.\" Here the feveral members both begin and end with the fame word. We have a beautiful influence of it in St Paul, when he fays: \" Are they Hebrews? fo am I. Are they Ifraelites? fo am I. Are they the feed of Abraham? fo am I.\"<x_0.8418><y_0.3375><class_Text>\n\n<x_0.0186><y_0.3367>When a sentence concludes with the word with which it began, it is called epanalepfis. As in that exprefiion of Plautus, \" Virtue contains all things, he wants no good thing who has virtue.\" The figure is the fame, but the principle not fo honet, in the advice which we find given by the mifer in Horace, when he fays, \" Get money if you can, honestly ; but however, get money.\" This figure adds a force to an exprefiion, when the principal thing defigned to be conveyed is thus repeated, by leaving it left upon the mind. And it heightens the beauty of it, when the fentence has an agreeable turn arising from two opposite parts. As in Cicero’s compliment to Cefar : \" We have feen your victory terminated by the war ; your drawn fword in the city we have not feen.\" Hermogenes calls this a circle, because the fentence returns again to the fame word, as that geometrical figure is formed by the orbicular motion of a line to the fame point.<x_0.8408><y_0.5953><class_Text>\n\n<x_0.0156><y_0.5945>When the following fentence begins with the fame word with which the former concluded, it is termed anadiplofis. As in the following inflance: _Let us think no price too great for truth ; truth cannot be bought too dear._ So in that paffage of St John: _He came to his own, and his own received him not._ This figure generally fuits belt with grave and folemn difcourfes:<x_0.8301><y_0.7031><class_Text>\n\n<x_0.0078><y_0.7039>_Epanodos_, is the invertion of a fentence, or repeating it backwards, fo that it takes in the two latt figures ; for it both begins and ends with the fame word, and the fame word is likewise repeated in the middle. This turn of expreffion has a beauty in it, and flews a rea- dinefs of thought. We have the following example of it in Minutius Felix, where he is expoing the folly of the Egyptian flupertition. \" Ifis (fays he) with Cy- nocephalus and her prietis, laments, bemoans, and feeks her loft fan ; her attendants beat their breaths, and imitate the grief of the unhappy mother ; in a little time the fun is found, upon which they all rejoice. Nor do they cease every year to lofe what they find, or to find what they lofe. And is it not ri-<x_0.8281><y_0.9094><class_Text>\n\n<x_0.8848><y_0.0539>71<x_0.9297><y_0.0719><class_Caption>\n\n<x_0.8809><y_0.2203>72<x_0.9307><y_0.2367><class_Caption>\n\n<x_0.8799><y_0.3383>73<x_0.9316><y_0.3547><class_Caption>\n\n<x_0.8701><y_0.5938>74<x_0.9404><y_0.6133><class_Caption>\n\n<x_0.8691><y_0.707>75<x_0.9238><y_0.7273><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2492,
+   "completion_tokens": 948,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

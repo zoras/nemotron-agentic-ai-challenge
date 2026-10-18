@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "740ad498cc732d3540b30129ceb0d1852241457cdc54d1bfb13a7dec8f7b85b0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "f7be5ce6f3fc5e2a38e0efcde7d5f3301543d589f8ccfab4006b8037092117c0",
+  "image_bytes": 1341034,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2108",
+  "variant": "s0-wide.b",
+  "crop": [
+   0.0,
+   0.4612,
+   1.0,
+   1.0
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1015,
+  "total_tokens": 1871,
+  "completion_tokens": 856,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.69,
+ "created_at": "2026-10-18T11:09:01+00:00",
+ "content": "<x_0.0596><y_0.0>He engaged and put to flight the French under Mont- calm; but, to the great regret of the British, their general was killed in the action. The furrender of Quebec was the consequence of this victory, which was foon followed by the ceflion of all Canada. The follow- ing feafon, indeed, the French made a vigorous effort to recover the city; but by the refolution of governor Murray, and the appearance of a British fleet under the command of lord Colvile, they were obliged to abandon the enterprise. The whole province was foon after reduced by the prudence and activity of general Amherfi, who obliged the French army to capitulate, and it has fines remained annexed to the British empire. About the fame time alfo the ifland of Guadaloupe was reduced by commodore More and general Hopfon.<x_0.4395><y_0.3906><class_Text>\n\n<x_0.0586><y_0.3922>The British affairs in Germany had at the beginning of the war worn a very unfavourable affect. The Ha- noverians were commanded by the duke of Cumberland, who was greatly outnumbered by the enemy. He was driven beyond the Wefer, the passage of which might have been dilputed with fome appearance of fuecels; but the French were fluffered to pafs it unmolefted. The Hanoverians were driven from one part of the country to another, till at length they made a fland near a village called _Haftenback_, where it was hoped the numbers of the enemy would have the leak opportunity of coming to a general engagement. The Hanoverians, however, left the field of battle to the French, after a faint refinance. Their enemies purfued, and the duke retired towards Stude; by which means he marched into a country from whence he could neither procure provisions, nor attack the enemy with any hopes of fuecels. Here, being unable either to<x_0.4375><y_0.8352><class_Text>\n\n<x_0.4453><y_0.0008>tween him and prince Ferdinand, which appeared at the battle of Minden that was fought shortly after. Minden. Lord George pretended that he did not understand the orders fent him by the prince, and of consequence did not obey them. The allies gained the victory, which would have been more decisive had the British commander obeyed his orders. He was foon after recalled, tried by a court-martial, found guilty of difobedience, and declared incapable of ferving in any military command for the future.<x_0.8223><y_0.2445><class_Text>\n\n<x_0.4463><y_0.2461>After this victory it was imagined, that one reinforcement more of British troops would terminate the war in favour of the allies; and that reinforcement was quickly fent. The British army in Germany was augmented to upwards of 30,000 men, and fanguine hopes of conquelt were generally entertained. Thefe hopes, however, were foon found to be ill founded. The allies were defeated at Corbach; but retrieved their honour at Exdorf. A victory at Warbourgh followed shortly after, and another at Zierenberg: but then they suffered a defeat at Compen; after which, both fides retired into winter-quarters.<x_0.8232><y_0.5391><class_Text>\n\n<x_0.4473><y_0.5398>On the 25th of October 1760, happened the death of king George II. He had rifen at his uful hour, and observed to his attendants, that as the weather was fine, he would take a walk into the gardens of Ken- fington, where he then refded. In a few minutes after his return, being left alone, he was heard to fall down upon the floor. The noife of this bringing his attendants into the room, they lifted him into bed; where he defined with a faint voice, that the princefs Amelia might be fent for: but before the could reach the apartment, he expired, in the 77th year of his age, and 33d of his reign. An attempt was made to bleed him,<x_0.8242><y_0.8594><class_Text>",
+ "reply": {
+  "id": "chatcmpl-2ddc79d9-3182-418e-b2d9-1b066c246b34",
+  "object": "chat.completion",
+  "created": 1792321739,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0596><y_0.0>He engaged and put to flight the French under Mont- calm; but, to the great regret of the British, their general was killed in the action. The furrender of Quebec was the consequence of this victory, which was foon followed by the ceflion of all Canada. The follow- ing feafon, indeed, the French made a vigorous effort to recover the city; but by the refolution of governor Murray, and the appearance of a British fleet under the command of lord Colvile, they were obliged to abandon the enterprise. The whole province was foon after reduced by the prudence and activity of general Amherfi, who obliged the French army to capitulate, and it has fines remained annexed to the British empire. About the fame time alfo the ifland of Guadaloupe was reduced by commodore More and general Hopfon.<x_0.4395><y_0.3906><class_Text>\n\n<x_0.0586><y_0.3922>The British affairs in Germany had at the beginning of the war worn a very unfavourable affect. The Ha- noverians were commanded by the duke of Cumberland, who was greatly outnumbered by the enemy. He was driven beyond the Wefer, the passage of which might have been dilputed with fome appearance of fuecels; but the French were fluffered to pafs it unmolefted. The Hanoverians were driven from one part of the country to another, till at length they made a fland near a village called _Haftenback_, where it was hoped the numbers of the enemy would have the leak opportunity of coming to a general engagement. The Hanoverians, however, left the field of battle to the French, after a faint refinance. Their enemies purfued, and the duke retired towards Stude; by which means he marched into a country from whence he could neither procure provisions, nor attack the enemy with any hopes of fuecels. Here, being unable either to<x_0.4375><y_0.8352><class_Text>\n\n<x_0.4453><y_0.0008>tween him and prince Ferdinand, which appeared at the battle of Minden that was fought shortly after. Minden. Lord George pretended that he did not understand the orders fent him by the prince, and of consequence did not obey them. The allies gained the victory, which would have been more decisive had the British commander obeyed his orders. He was foon after recalled, tried by a court-martial, found guilty of difobedience, and declared incapable of ferving in any military command for the future.<x_0.8223><y_0.2445><class_Text>\n\n<x_0.4463><y_0.2461>After this victory it was imagined, that one reinforcement more of British troops would terminate the war in favour of the allies; and that reinforcement was quickly fent. The British army in Germany was augmented to upwards of 30,000 men, and fanguine hopes of conquelt were generally entertained. Thefe hopes, however, were foon found to be ill founded. The allies were defeated at Corbach; but retrieved their honour at Exdorf. A victory at Warbourgh followed shortly after, and another at Zierenberg: but then they suffered a defeat at Compen; after which, both fides retired into winter-quarters.<x_0.8232><y_0.5391><class_Text>\n\n<x_0.4473><y_0.5398>On the 25th of October 1760, happened the death of king George II. He had rifen at his uful hour, and observed to his attendants, that as the weather was fine, he would take a walk into the gardens of Ken- fington, where he then refded. In a few minutes after his return, being left alone, he was heard to fall down upon the floor. The noife of this bringing his attendants into the room, they lifted him into bed; where he defined with a faint voice, that the princefs Amelia might be fent for: but before the could reach the apartment, he expired, in the 77th year of his age, and 33d of his reign. An attempt was made to bleed him,<x_0.8242><y_0.8594><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1015,
+   "total_tokens": 1871,
+   "completion_tokens": 856,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

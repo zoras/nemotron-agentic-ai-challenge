@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "663f8c2274ee23b179655845ed1472b564256f1cc2e713e046f4e11f562357f3",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "fb701f842f4b8ca26353d2ab8525853ecb20528f3dc782a8d608420014ebf87d",
+  "image_bytes": 2262236,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1284",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5,
+   0.0499,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0499,
+    0.1363,
+    0.505
+   ],
+   [
+    0.1363,
+    0.2226,
+    0.505
+   ],
+   [
+    0.2226,
+    0.309,
+    0.505
+   ],
+   [
+    0.309,
+    0.3954,
+    0.505
+   ],
+   [
+    0.3954,
+    0.4818,
+    0.505
+   ],
+   [
+    0.4818,
+    0.5681,
+    0.505
+   ],
+   [
+    0.5681,
+    0.6545,
+    0.505
+   ],
+   [
+    0.6545,
+    0.7409,
+    0.505
+   ],
+   [
+    0.7409,
+    0.8273,
+    0.505
+   ],
+   [
+    0.8273,
+    0.9136,
+    0.505
+   ],
+   [
+    0.9136,
+    1.0,
+    0.505
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2617,
+  "completion_tokens": 945,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.31,
+ "created_at": "2026-10-18T11:10:48+00:00",
+ "content": "<x_0.0186><y_0.0>but to pronounce fentence against Mary. The com- miffioners unanimously concurred in delivering it as their verdict or judgment, that the \" was a party to the confpiracy of Babington ; and that he had com- paffed and imagined matters within the realm of Eng- land tending to the hurt, death, and delruction of the royal perfon of Elizabeth, in opposition to the flatute framed for her protection.\" Upon the fame day in which this extraordinary fentence was given, the com- miffioners and the judges of England ifued a declaration which imported, that it was not to derogate in any degree from the titles and honour of the king of Scots.<x_0.8076><y_0.1742><class_Text>\n\n<x_0.0195><y_0.1734>The fentence against Mary was very foon afterwards ratified by the Englith parliament. King James was struck with horror at hearing of the execution of his mother ; but that fpiritlefs prince could flow his re- fentment no farther than by unavailing emballies and remonftrances. France interpofed in the fame in effectual manner ; and on the 6th of December 1586, Elizabeth caused the fentence of the commiffioners againt her to be proclaimed. After this he was made acquainted with her fate, and received the news with the greatest compoure, and even apparent fattifaction. Her keepers now refufed to treat her with any reverence or respect. They entered her apart- ment with their heads covered, and made no obeifance to her. They took down her canopy of flate, and deprived her of all the badges of royalty. By thefe infulting mortifications they meant to inform her, that he had funk from the dignity of a princefs to the abject flate of a criminal. She fmiled, and faid, \" In definite of your foreverig and her fubfervient judges, I will live and die a queen. My royal character is in-delible ; and I will furrender it with my fpirit to the Almighty God, from whom I received it, and to whom my honour and my innocence are fully known.\" In this melancholy filtration Mary addreffed a magna- nimous letter to Elizabeth, in which, without making the leaft folicitation for her life, the only requested that her body might be carried to France ; that the might be publicly executed ; that her fervants might be permitted to depart out of England unmolelled, and enjoy the legacies which the bequeathed them. But to this letter no anfwer was given.<x_0.8066><y_0.6086><class_Text>\n\n<x_0.0205><y_0.6094>In the mean time James, who had neither address nor courage to attempt any thing in behalf of his mother, announced her situation to his bigotted subjects, and ordered prayers to be laid for her in all the churches. The form of the petition he prescribed was framed with delicacy and caution, that the clergy might have no objection to it. He enjoined them to pray, \" that it might pleafe God to enlighten Mary with the light of his truth, and to protect her from the danger which was hanging over her.\" His own chaplains, and Mr David Lindby minifier of Leith, observed his command. But all the other clergy refused to profilitate their pulpits by preferring any petitions to the Almighty for a Papilt. James, thocked with their fpirit of intolerance and fedition, appointed a new day for prayers to be laid for Mary, and ifued a further injunction to the clergy to obey him ; and that he might be free himself from any infult, he commanded the archbillop of St Andrews to preach before him. The ecclesiaries, difgulted with his injunc-<x_0.8008><y_0.8836><class_Text>\n\n<x_0.8125><y_0.0>Scotland:<x_0.9453><y_0.0102><class_Caption>\n\n<x_0.8086><y_0.0266>817 Judgment given a- galnt her.<x_0.9463><y_0.0633><class_Caption>\n\n<x_0.8047><y_0.1578>818 The fen- tence ratifi ed by the English parliament.<x_0.9521><y_0.2273><class_Caption>\n\n<x_0.8027><y_0.5938>819 Imbecillity of James, and ex treme info- lence and bigotry of his clergy.<x_0.9473><y_0.6867><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-9bba0351-1323-49a4-8c35-727f999a1bc5",
+  "object": "chat.completion",
+  "created": 1792321847,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0186><y_0.0>but to pronounce fentence against Mary. The com- miffioners unanimously concurred in delivering it as their verdict or judgment, that the \" was a party to the confpiracy of Babington ; and that he had com- paffed and imagined matters within the realm of Eng- land tending to the hurt, death, and delruction of the royal perfon of Elizabeth, in opposition to the flatute framed for her protection.\" Upon the fame day in which this extraordinary fentence was given, the com- miffioners and the judges of England ifued a declaration which imported, that it was not to derogate in any degree from the titles and honour of the king of Scots.<x_0.8076><y_0.1742><class_Text>\n\n<x_0.0195><y_0.1734>The fentence against Mary was very foon afterwards ratified by the Englith parliament. King James was struck with horror at hearing of the execution of his mother ; but that fpiritlefs prince could flow his re- fentment no farther than by unavailing emballies and remonftrances. France interpofed in the fame in effectual manner ; and on the 6th of December 1586, Elizabeth caused the fentence of the commiffioners againt her to be proclaimed. After this he was made acquainted with her fate, and received the news with the greatest compoure, and even apparent fattifaction. Her keepers now refufed to treat her with any reverence or respect. They entered her apart- ment with their heads covered, and made no obeifance to her. They took down her canopy of flate, and deprived her of all the badges of royalty. By thefe infulting mortifications they meant to inform her, that he had funk from the dignity of a princefs to the abject flate of a criminal. She fmiled, and faid, \" In definite of your foreverig and her fubfervient judges, I will live and die a queen. My royal character is in-delible ; and I will furrender it with my fpirit to the Almighty God, from whom I received it, and to whom my honour and my innocence are fully known.\" In this melancholy filtration Mary addreffed a magna- nimous letter to Elizabeth, in which, without making the leaft folicitation for her life, the only requested that her body might be carried to France ; that the might be publicly executed ; that her fervants might be permitted to depart out of England unmolelled, and enjoy the legacies which the bequeathed them. But to this letter no anfwer was given.<x_0.8066><y_0.6086><class_Text>\n\n<x_0.0205><y_0.6094>In the mean time James, who had neither address nor courage to attempt any thing in behalf of his mother, announced her situation to his bigotted subjects, and ordered prayers to be laid for her in all the churches. The form of the petition he prescribed was framed with delicacy and caution, that the clergy might have no objection to it. He enjoined them to pray, \" that it might pleafe God to enlighten Mary with the light of his truth, and to protect her from the danger which was hanging over her.\" His own chaplains, and Mr David Lindby minifier of Leith, observed his command. But all the other clergy refused to profilitate their pulpits by preferring any petitions to the Almighty for a Papilt. James, thocked with their fpirit of intolerance and fedition, appointed a new day for prayers to be laid for Mary, and ifued a further injunction to the clergy to obey him ; and that he might be free himself from any infult, he commanded the archbillop of St Andrews to preach before him. The ecclesiaries, difgulted with his injunc-<x_0.8008><y_0.8836><class_Text>\n\n<x_0.8125><y_0.0>Scotland:<x_0.9453><y_0.0102><class_Caption>\n\n<x_0.8086><y_0.0266>817 Judgment given a- galnt her.<x_0.9463><y_0.0633><class_Caption>\n\n<x_0.8047><y_0.1578>818 The fen- tence ratifi ed by the English parliament.<x_0.9521><y_0.2273><class_Caption>\n\n<x_0.8027><y_0.5938>819 Imbecillity of James, and ex treme info- lence and bigotry of his clergy.<x_0.9473><y_0.6867><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2617,
+   "completion_tokens": 945,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

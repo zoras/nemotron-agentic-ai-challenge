@@ -1,0 +1,464 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+ "row_index": 13,
+ "volume_id": "193913444",
+ "filename": "page-0013-50049db49e8b.jpg",
+ "image_sha256": "50049db49e8b83dc59735eae8cc35e6df733062d4bcb07c5cb4663d51cade012",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.12549,
+  "median_grey": 217,
+  "layout_body_chars": 7947,
+  "layout_pictures": 0
+ },
+ "running_head": "292 SHIP-BUILDING.",
+ "layout_raw": "page-0013-50049db49e8b/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0395,
+    1.0,
+    0.0593
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0013-50049db49e8b/head.json",
+   "finish_reason": "stop",
+   "request_key": "4da49764f51faff5653aa1896edf3e40a6957faeb3e142f0f40943b8f39eba31"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0395,
+    0.5633,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0395,
+     0.1195,
+     0.5383
+    ],
+    [
+     0.1195,
+     0.1996,
+     0.5467
+    ],
+    [
+     0.1996,
+     0.2796,
+     0.55
+    ],
+    [
+     0.2796,
+     0.3597,
+     0.5533
+    ],
+    [
+     0.3597,
+     0.4397,
+     0.5533
+    ],
+    [
+     0.4397,
+     0.5197,
+     0.5533
+    ],
+    [
+     0.5197,
+     0.5998,
+     0.5533
+    ],
+    [
+     0.5998,
+     0.6798,
+     0.5533
+    ],
+    [
+     0.6798,
+     0.7599,
+     0.5533
+    ],
+    [
+     0.7599,
+     0.8399,
+     0.5567
+    ],
+    [
+     0.8399,
+     0.92,
+     0.5583
+    ],
+    [
+     0.92,
+     1.0,
+     0.5517
+    ]
+   ],
+   "raw_path": "page-0013-50049db49e8b/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "5d440ee8c0427fd63c6ab8a517862c1aab70ff198ed4f11cbcda129f46552db4"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5333,
+    0.0395,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0395,
+     0.1195,
+     0.5383
+    ],
+    [
+     0.1195,
+     0.1996,
+     0.5467
+    ],
+    [
+     0.1996,
+     0.2796,
+     0.55
+    ],
+    [
+     0.2796,
+     0.3597,
+     0.5533
+    ],
+    [
+     0.3597,
+     0.4397,
+     0.5533
+    ],
+    [
+     0.4397,
+     0.5197,
+     0.5533
+    ],
+    [
+     0.5197,
+     0.5998,
+     0.5533
+    ],
+    [
+     0.5998,
+     0.6798,
+     0.5533
+    ],
+    [
+     0.6798,
+     0.7599,
+     0.5533
+    ],
+    [
+     0.7599,
+     0.8399,
+     0.5567
+    ],
+    [
+     0.8399,
+     0.92,
+     0.5583
+    ],
+    [
+     0.92,
+     1.0,
+     0.5517
+    ]
+   ],
+   "raw_path": "page-0013-50049db49e8b/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "7ce92357bedcbbbd92ad10a2f0acf35acf3dca4725a32d8711fb40172758f66e"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "292 SHIP-BUILDING.",
+   "bbox": [
+    0.0,
+    0.0395,
+    1.0,
+    0.0593
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0013-50049db49e8b:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "292 SHIP-BU",
+   "bbox": [
+    0.0577,
+    0.0395,
+    0.5352,
+    0.0598
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Practical Building.",
+   "bbox": [
+    0.0633,
+    0.065,
+    0.1254,
+    0.0995
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "ends in close contact with, and cooked or dowelled to, the sides of the diagonal timbers. In this state the frame-work in the hold presents various compartments, each represent- ing the figure of a rhomboid.",
+   "bbox": [
+    0.126,
+    0.059,
+    0.5341,
+    0.1168
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "\" A truss-timber is then introduced into each rhomboid, with an inclination opposite to that of the diagonal timbers, thereby dividing it into two parts. The truss-pieces so in- troduced into the rhomboid, are to the diagonal frame what the key-stone is to the arch ; for no weight or pressure on the fabric can alter its position in a longitudinal direction, till compression takes place at the abutments, and extension of the various ties.",
+   "bbox": [
+    0.1265,
+    0.1093,
+    0.5363,
+    0.2135
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "\" This arch-like property of the diagonal frame not only opposes an alteration of position in a longitudinal direction, but also resists external pressure on the bottom, either from grounding or any other cause, because no impression can be made in its figure in these directions, without forcing the several parts of which it is composed into a shorter space.",
+   "bbox": [
+    0.1309,
+    0.2076,
+    0.5396,
+    0.2887
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "\" The beams are disposed in the new system nearly as usual, except that in midships, where a ship necessarily requires the greatest security, two additional beams have been introduced.",
+   "bbox": [
+    0.1348,
+    0.2804,
+    0.5418,
+    0.3374
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "\" The beams of the several decks are attached to the ship's side in the following manner.",
+   "bbox": [
+    0.1353,
+    0.3306,
+    0.5413,
+    0.3621
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "\" _Ist_. By shelf-pieces or internal hoops, distinguished by the letter E. These shelf-pieces are composed of several lengths of timber, scarphed or joined together by coaks or circular dowels, so as to form a kind of internal hoop, extending from the hooks forward, to the transoms abaft--(in the plate the transoms are not shown, as we have chosen the perfected application of Sir Robert Seppings' system, after the adoption of the circular stern into the service),—to the under side of which, as well as the under parts of the beams, they are securely cooked, and being then firmly bolted to the side, instead of becoming a mere local fixture of the beam to the ship’s exterior frame, as knees were, they are one continued and general security. The shelf-piece is also a tie to the top-side in a fore and aft direction, co-operating with the trussed frame, as already explained.",
+   "bbox": [
+    0.1359,
+    0.3554,
+    0.5506,
+    0.5475
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "\" _2dly_, By chocks, represented in Plate CCCCLV. (_m, o_), which are placed under all the shelf-pieces in wake of the beams, except the orlop, in such a manner as to receive the up and down arm of the iron knees. The lower ends of those under the gun-deck shelf-piece step on the ends of the orlop-beams ; and those of the several decks above, step on the projecting part of the spirketing below. The chocks, particularly those between the orlop and gun decks, admit of their being driven into their respective places very tightly, thereby acting like pillars. Another advantage attending them is their great tendency to stiffen the ship’s side, and to prevent the beam-ends from playing on the fastenings when the ship is rolling, or straining under a press of sail.",
+   "bbox": [
+    0.143,
+    0.54,
+    0.5545,
+    0.7073
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "\" The curved iron-plate knees for securing the orlop-beams, and the iron forked knees of the other decks, are described in (_n_) and (_m_), Plate CCCCLV.",
+   "bbox": [
+    0.149,
+    0.6998,
+    0.5539,
+    0.7441
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "\" The tendency of the ship to stretch or draw asunder in her upper works being by no means obviated by the short planks on the inside between the ports, a truss piece of plank is substituted in lieu of them, which being well secured at the abutments, very materially aids the trussed frame, and gives great stiffness, thereby opposing the inclination to arch or hog aloft.\"",
+   "bbox": [
+    0.1496,
+    0.7366,
+    0.5578,
+    0.8297
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "These various alterations from the old system of building had the effect of very greatly increasing the strength of the ships of the royal navy. Among so many changes, it is not improbable that erroneous conclusions may have been drawn as to the relative importance of each. We incline much to the opinion that this has been the case to a very great degree, and that a part hitherto considered as quite subordi-mate, and now wholly discontinued as useless, was one prin- cipal cause of the increase of strength which enabled ship",
+   "bbox": [
+    0.1507,
+    0.8221,
+    0.5605,
+    0.9422
+   ],
+   "source": "s0-col-left",
+   "id": "page-0013-50049db49e8b:b12"
+  },
+  {
+   "order": 13,
+   "class": "Head-fragment",
+   "text": "ILBING.",
+   "bbox": [
+    0.5369,
+    0.0395,
+    0.6536,
+    0.053
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0013-50049db49e8b:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "to preserve their sheer. This we shall presently endeavour to prove.",
+   "bbox": [
+    0.541,
+    0.0478,
+    0.9467,
+    0.0853
+   ],
+   "source": "s0-col-right",
+   "id": "page-0013-50049db49e8b:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "The lower ranges of riders and trusses, which were brought on the upper surfaces of the floors and first futtocks, could have but little effect in preventing arching beyond that which arose from the additional resistance they offered to compression; and the additional rigidity they gave to the structure in the event of grounding, or of being ashore. They certainly served as a firm base upon which to erect a series of riders with diagonal trusses, which were more advantageously placed to afford efficient support to the extremities of the body. Yet these upper riders only extend-ed to the securities of the gun-deck, and therefore not very far above the line of non-action. Presuming, however, that this second series of riders was of considerable utility, a firm base for them might probably have been obtained without so much incumbrance to the hold, and consequently without the objection being urged against it, which was made to the diagonal riders, of diminishing the stowage. According to the estimates made by Sir Robert Seppings, the actual cubical contents of the diagonal frame were less than those of the ceiling which it superseded.",
+   "bbox": [
+    0.5415,
+    0.0771,
+    0.9562,
+    0.3306
+   ],
+   "source": "s0-col-right",
+   "id": "page-0013-50049db49e8b:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "The trussing between the ports has been discontinued in Her Majesty’s ships. We cannot but regret the change, as we consider this was the most advantageous innovation connected with the diagonal system, and one in which the be- nefit was unaccompanied with compensating inconveniences.",
+   "bbox": [
+    0.552,
+    0.3239,
+    0.9572,
+    0.3922
+   ],
+   "source": "s0-col-right",
+   "id": "page-0013-50049db49e8b:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "In investigating the reasons on which we found this opinion, we shall merely describe the manner in which we consider this trussing must have acted, to prevent any alteration of form in the upper parts of the ship.",
+   "bbox": [
+    0.5557,
+    0.3855,
+    0.9576,
+    0.4418
+   ],
+   "source": "s0-col-right",
+   "id": "page-0013-50049db49e8b:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "We commence, then, with the gun-deck of a three-decker. The gun-deck, from its proximity to the line of inaction, from the support of the trussed frame, which extended to its shelf, and from the wales, may be assumed, at least in a new ship, as a most firm base on which to raise a series of supports. At some point on the upper edge of the gun- deck sprketing, a shore, that is, the truss, firmly cleated at its heel, extended upwards and aft, in the after-body of the ship, to the lower edge of the middle-deck clamp, where it was securely cleated ; immediately above the head of this shore a second was fixed on the upper edge of the middle- deck sprketing, and extended upwards to the lower edge of the main-deck clamp, where it was secured ; and immediately over the head of this shore a third was secured, on the edge of the main-deck sprketing, and extended upwards to the lower edge of the quarter-deck clamp, where it was finally secured : so that a point in the range of securities to the quarter-deck was continuously and firmly shored up from a point in the most rigid and unalterable part of the ship ; and, in the same manner, a series of points along the range of securities to the quarter-deck became shored up from the same foundation. This is in the after-body. In the fore-body a corresponding system of shoring ran in an opposite direction forward, and in a similar manner supported the range of securities of the forecast, while each intervening deck partook of the same advantage.",
+   "bbox": [
+    0.5565,
+    0.4349,
+    0.9658,
+    0.7636
+   ],
+   "source": "s0-col-right",
+   "id": "page-0013-50049db49e8b:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "Radiating as these shores did in opposite directions from the most rigid part of the ship as their base, while they afforded a series of points of support to the principal longi- tudinal ties, they formed with them a system of triangles: and the triangle is a figure which admits of no alteration of form ; for as long as the sides remain the same, the angles are invariable. It might almost be said to be impossible, therefore, for the range of quarter-deck and forecasts se- curities, by which we mean the clamp, shelf, and water-way, to drop at the extremities, excepting in so far as the com- pressibility of the materials would admit.",
+   "bbox": [
+    0.5652,
+    0.7539,
+    0.9672,
+    0.8987
+   ],
+   "source": "s0-col-right",
+   "id": "page-0013-50049db49e8b:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "To adapt another, and perhaps a stronger, view of this system of trussing, we may consider the whole top-sides of a ship, with the securities of the gun-deck as a base. to",
+   "bbox": [
+    0.5524,
+    0.889,
+    0.9708,
+    0.937
+   ],
+   "source": "s0-col-right",
+   "id": "page-0013-50049db49e8b:b20"
+  }
+ ]
+}

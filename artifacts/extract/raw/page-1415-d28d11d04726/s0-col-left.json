@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "40f2f965e526c0d96b9ab1bc4c3d21e9bb2b0c675ae27d47a806f9c7e98b5ba8",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "0bea65d47bdf13c5d4b406d0673b81ae3d32f2398a16a1933f5c18381d3d0522",
+  "image_bytes": 2094440,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1415",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0247,
+   0.495,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0247,
+    0.106,
+    0.4883
+   ],
+   [
+    0.106,
+    0.1872,
+    0.49
+   ],
+   [
+    0.1872,
+    0.2685,
+    0.49
+   ],
+   [
+    0.2685,
+    0.3498,
+    0.49
+   ],
+   [
+    0.3498,
+    0.4311,
+    0.49
+   ],
+   [
+    0.4311,
+    0.5124,
+    0.49
+   ],
+   [
+    0.5124,
+    0.5936,
+    0.49
+   ],
+   [
+    0.5936,
+    0.6749,
+    0.49
+   ],
+   [
+    0.6749,
+    0.7562,
+    0.49
+   ],
+   [
+    0.7562,
+    0.8375,
+    0.49
+   ],
+   [
+    0.8375,
+    0.9187,
+    0.49
+   ],
+   [
+    0.9187,
+    1.0,
+    0.49
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2654,
+  "completion_tokens": 982,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.38,
+ "created_at": "2026-10-18T11:19:58+00:00",
+ "content": "<x_0.4043><y_0.0047>**E T H [ 7**<x_0.9902><y_0.0266><class_Page-header>\n\n<x_0.0693><y_0.025>**Ethiopia.**<x_0.1963><y_0.0563><class_Caption>\n\n<x_0.2031><y_0.0258>make a very beautiful appearance. The whole plant is full of a very acrid and cauftic milk. 7. Rack is a large tree, growing not only in Abyffinia but in many places of Arabia Felix. Its wood is fo hard and bitter, that no worm will touch it; for which reafon it is ufed by the Arabs for confrutting their boats. It grows, like the mangrove, among the falt-water of the fea, or about falt springs. 8. Gir-gir, or gefne-el-aube; n kind of grafs found about Ras-el-Feel, growing to the height of about three feet four inches. 9. The kantuffa. a very noxious species of thorn, much more troublefome than any with which we are acquainted, and growing to the height of eight or more feet. The flowers have a frong finell like the flower migni-onct. 10. The gaguedi, is a short tree only about nine feet high, a native of Lamalmon. The flowers, which are yellow and very beautiful, turn towards the fun like thofe of the helianthus. 11. The wanfey, a tree common throughout all Abyffinia; flowers exactly on the firft day the rains cease. It grows to the height of 18 or 20 feet; having a thick bark and clofe heavy wood; the firft part of which is white, but the refl of a dark colour. The flowers are of a beautiful white colour; but it does not appear to poffels any other remarkable property, though it is held in great estimation by the Abyffinians, and is even worshipped by the Galla. 12. The farek, or Bauhinia acuminata, grows in the country immediately adjacent to the fources of the Nile; being found by Mr Bruce ficarce 400 yards difant from the fountain. 13. Kuara, is a beautiful tree, growing in the fouth and fouthwelt parts of Abyffinia. It has a fruit like a bean, of a red colour, which in the early ages was made ufe of as a weight for gold and diamonds; and hence Mr Bruce is of opinion that the name of the imaginary weight carat is derived. 14. The walkufa, grows in the hottell parts of Echiopia. It is a flowering tree, with beautiful white bloffoms, which do not appear till towards the middle of January. The flowers have no finell, and are accounted pernicious to bees. The wood is very heavy. 15. The wooginoos, or Brucea anidyfenterica, is common throughout the whole empire, but principally on the fides of the valleys. It is a lovereign remedy against the dyfentery, a very common and fatal dificafe in hot countries. Mr Bruce had experimental proof of its antidyfenteric viruses. 16. Cuffo, or Bankfia anthelmintica, is a very beautiful and ufeful tree, being a strong anthelmintic, and ufed as fuch by the Abyffinians. Every perfon there, whether male or female, is troubled with that kind of worm called _afcarider_; a great number of which are evacuated every month, and the evacuation is promoted by an infusion of this plant. While taking this medicine, the patients fequeftrate themselves from all their acquaintance, and keep clofe at home. It is faid, that the want of this medicine in other countries is the reafon why the Abyffinians do not go out of their own country; or, if they do, that they are flort-lived. 17. Teff, is a kind of grain fown generally throughout Abyffinia; and conflicting the bread commonly made ufe of by the inhabitants. They have indeed plenty of wheat, and are as filiful in forming it into bread as the Europeans; but this is only made ufe of by people of the firft rank: however, the teff is fometimes of fuch an excellent quality, that the bread made from it is held in equal elimination with the finest wheat. From the bread made of this<x_0.9814><y_0.9391><class_Text>",
+ "reply": {
+  "id": "chatcmpl-241176b0-bc10-4478-bf63-0d607e8caac8",
+  "object": "chat.completion",
+  "created": 1792322397,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4043><y_0.0047>**E T H [ 7**<x_0.9902><y_0.0266><class_Page-header>\n\n<x_0.0693><y_0.025>**Ethiopia.**<x_0.1963><y_0.0563><class_Caption>\n\n<x_0.2031><y_0.0258>make a very beautiful appearance. The whole plant is full of a very acrid and cauftic milk. 7. Rack is a large tree, growing not only in Abyffinia but in many places of Arabia Felix. Its wood is fo hard and bitter, that no worm will touch it; for which reafon it is ufed by the Arabs for confrutting their boats. It grows, like the mangrove, among the falt-water of the fea, or about falt springs. 8. Gir-gir, or gefne-el-aube; n kind of grafs found about Ras-el-Feel, growing to the height of about three feet four inches. 9. The kantuffa. a very noxious species of thorn, much more troublefome than any with which we are acquainted, and growing to the height of eight or more feet. The flowers have a frong finell like the flower migni-onct. 10. The gaguedi, is a short tree only about nine feet high, a native of Lamalmon. The flowers, which are yellow and very beautiful, turn towards the fun like thofe of the helianthus. 11. The wanfey, a tree common throughout all Abyffinia; flowers exactly on the firft day the rains cease. It grows to the height of 18 or 20 feet; having a thick bark and clofe heavy wood; the firft part of which is white, but the refl of a dark colour. The flowers are of a beautiful white colour; but it does not appear to poffels any other remarkable property, though it is held in great estimation by the Abyffinians, and is even worshipped by the Galla. 12. The farek, or Bauhinia acuminata, grows in the country immediately adjacent to the fources of the Nile; being found by Mr Bruce ficarce 400 yards difant from the fountain. 13. Kuara, is a beautiful tree, growing in the fouth and fouthwelt parts of Abyffinia. It has a fruit like a bean, of a red colour, which in the early ages was made ufe of as a weight for gold and diamonds; and hence Mr Bruce is of opinion that the name of the imaginary weight carat is derived. 14. The walkufa, grows in the hottell parts of Echiopia. It is a flowering tree, with beautiful white bloffoms, which do not appear till towards the middle of January. The flowers have no finell, and are accounted pernicious to bees. The wood is very heavy. 15. The wooginoos, or Brucea anidyfenterica, is common throughout the whole empire, but principally on the fides of the valleys. It is a lovereign remedy against the dyfentery, a very common and fatal dificafe in hot countries. Mr Bruce had experimental proof of its antidyfenteric viruses. 16. Cuffo, or Bankfia anthelmintica, is a very beautiful and ufeful tree, being a strong anthelmintic, and ufed as fuch by the Abyffinians. Every perfon there, whether male or female, is troubled with that kind of worm called _afcarider_; a great number of which are evacuated every month, and the evacuation is promoted by an infusion of this plant. While taking this medicine, the patients fequeftrate themselves from all their acquaintance, and keep clofe at home. It is faid, that the want of this medicine in other countries is the reafon why the Abyffinians do not go out of their own country; or, if they do, that they are flort-lived. 17. Teff, is a kind of grain fown generally throughout Abyffinia; and conflicting the bread commonly made ufe of by the inhabitants. They have indeed plenty of wheat, and are as filiful in forming it into bread as the Europeans; but this is only made ufe of by people of the firft rank: however, the teff is fometimes of fuch an excellent quality, that the bread made from it is held in equal elimination with the finest wheat. From the bread made of this<x_0.9814><y_0.9391><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2654,
+   "completion_tokens": 982,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,425 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:681",
+ "row_index": 681,
+ "volume_id": "144850368",
+ "filename": "page-0681-c2be06f2d615.jpg",
+ "image_sha256": "c2be06f2d6151658124b91589cab6163caa72e653bc6e1d62ecc30bbf9a202ee",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09412,
+  "median_grey": 225,
+  "layout_body_chars": 5632,
+  "layout_pictures": 0
+ },
+ "running_head": "O P T I C S. 427",
+ "layout_raw": "page-0681-c2be06f2d615/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0106,
+    1.0,
+    0.0382
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0681-c2be06f2d615/head.json",
+   "finish_reason": "stop",
+   "request_key": "e6650b30ef9de47454f5b78180c24d510572286d606dff68f608c5d16e17fff1"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0106,
+    0.4683,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0106,
+     0.093,
+     0.4583
+    ],
+    [
+     0.093,
+     0.1755,
+     0.4567
+    ],
+    [
+     0.1755,
+     0.258,
+     0.4583
+    ],
+    [
+     0.258,
+     0.3404,
+     0.4567
+    ],
+    [
+     0.3404,
+     0.4229,
+     0.4583
+    ],
+    [
+     0.4229,
+     0.5053,
+     0.4617
+    ],
+    [
+     0.5053,
+     0.5877,
+     0.4617
+    ],
+    [
+     0.5877,
+     0.6702,
+     0.4633
+    ],
+    [
+     0.6702,
+     0.7527,
+     0.4567
+    ],
+    [
+     0.7527,
+     0.8351,
+     0.4583
+    ],
+    [
+     0.8351,
+     0.9175,
+     0.4583
+    ],
+    [
+     0.9175,
+     1.0,
+     0.4617
+    ]
+   ],
+   "raw_path": "page-0681-c2be06f2d615/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "d1788a25d2657edde2a8465a2da3a24ab751c8dceb649fda889c48f0ad278a58"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4517,
+    0.0106,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0106,
+     0.093,
+     0.4583
+    ],
+    [
+     0.093,
+     0.1755,
+     0.4567
+    ],
+    [
+     0.1755,
+     0.258,
+     0.4583
+    ],
+    [
+     0.258,
+     0.3404,
+     0.4567
+    ],
+    [
+     0.3404,
+     0.4229,
+     0.4583
+    ],
+    [
+     0.4229,
+     0.5053,
+     0.4617
+    ],
+    [
+     0.5053,
+     0.5877,
+     0.4617
+    ],
+    [
+     0.5877,
+     0.6702,
+     0.4633
+    ],
+    [
+     0.6702,
+     0.7527,
+     0.4567
+    ],
+    [
+     0.7527,
+     0.8351,
+     0.4583
+    ],
+    [
+     0.8351,
+     0.9175,
+     0.4583
+    ],
+    [
+     0.9175,
+     1.0,
+     0.4617
+    ]
+   ],
+   "raw_path": "page-0681-c2be06f2d615/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "4346d6027e08ac9b74f58f68a94513c4c3fa054b508923e1b43bb0c7c3e9ee65"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "O P T I C S. 427",
+   "bbox": [
+    0.0,
+    0.0106,
+    1.0,
+    0.0382
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0681-c2be06f2d615:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "OP T",
+   "bbox": [
+    0.2424,
+    0.016,
+    0.4235,
+    0.0331
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-0681-c2be06f2d615:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "the eye at o: fo that none of the rays that fall above _b_, or below i, can be reflected to the eye at o; and the dif-tance between _b_ and _i_ is equal to half the length of the object _AB._",
+   "bbox": [
+    0.0119,
+    0.0369,
+    0.4454,
+    0.0933
+   ],
+   "source": "s0-col-left",
+   "id": "page-0681-c2be06f2d615:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Hence it appears, that if a man fees his whole image in a plane looking-glafs, the part of the glafs that reflects his image mult be jult half as long and half as broad as himself, let him stand at any diffance from it whatever ; and that his image mult appear jult as far behind the glafs as he is before it. Thus, the man AB (No. 30.) viewing himself in the plane mirror CD, which is jult half as long as himself, fees his whole image as at EF, behind the glafs, exactly equal to his own fize. For, a ray AC, proceeding from his eye at A, and falling perpendicularly upon the surface of the glafs at C, is reflected back to his eye, in the fame line CA; and the eye of his image will appear at E, in the fame line produced to E, beyond the glafs. And a ray BD, flowing from his foot, and falling obliquely on the glafs at D, will be reflected as obliquely on the other ride of the perpendicular abD, in the direction DA; and the foot of his image will appear at F, in the direction of the reflected ray AD, produced to F, where it is cut by the right line BGF, drawn parallel to the right line ACE. Jult the fame as if the glafs were taken away, and a real man flood at F, equal in fize to the man standing at B: for to his eye at A, the eye of the other man at E would be feen in the direction of the line ACE; and the foot of the man at F would be feet by the eye A, in the direction of the line ADF.",
+   "bbox": [
+    0.0124,
+    0.0925,
+    0.4459,
+    0.445
+   ],
+   "source": "s0-col-left",
+   "id": "page-0681-c2be06f2d615:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "If the glafs be brought nearer the man AB, as fuppofe to cb, he will fee his image as at CDG : for the reflect ray CA (being perpendicular to the glafs) will flew the eye of the image as at G; and the incident ray Bb, being reflected in the line bA, will flew the foot of his image as at G; the angle of reflection abA being always equal to the angle of incidence Bba : and fo of all the intermediate rays from A to B. Hence, if the man AB advances towards the glafs CD, his image will approach towards it ; and if he recedes from the glafs, his image will alfo recede from it.",
+   "bbox": [
+    0.0128,
+    0.4457,
+    0.4413,
+    0.5949
+   ],
+   "source": "s0-col-left",
+   "id": "page-0681-c2be06f2d615:b4"
+  },
+  {
+   "order": 5,
+   "class": "Section-header",
+   "text": "_Of the_ MAGIC LANTERN.",
+   "bbox": [
+    0.1198,
+    0.5996,
+    0.332,
+    0.6166
+   ],
+   "source": "s0-col-left",
+   "id": "page-0681-c2be06f2d615:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "ABCD (No. 31.) is a tin lantern, with a tube _nklm_ fixed in the fide of it. This tube confits of two joints, one of which flips into the other: and by drawing this joint out, or putting it in, the tube may be made longer or shorter. At kl in the end of the moveable joint of the tube a convex lens is fixed, and an object painted with tranparent colours upon a piece of thin glafs is placed at de fomewhere in the immoveable joint of the tube; fo that as the tube is lengthened or shortened, the lens will be either at a greater or a lefs distance from this tranparent object. In the fide of the lantern there is a very convex lens _bbc_, which serves to call a very strong light from the candle within the lantern upon the object dc. Now when the rays, which fline through the object dc, diverge from the fewral points as d, e, Sc. in the object, and fall upon the lens kl, they will be made to converge to as many points f, g, Sc. on the other fide of the lens, and will paint an inverted picture of the",
+   "bbox": [
+    0.0114,
+    0.6197,
+    0.4418,
+    0.8662
+   ],
+   "source": "s0-col-left",
+   "id": "page-0681-c2be06f2d615:b6"
+  },
+  {
+   "order": 7,
+   "class": "Page-footer",
+   "text": "Vol. III. No 87. 2",
+   "bbox": [
+    0.0526,
+    0.8655,
+    0.3201,
+    0.8802
+   ],
+   "source": "s0-col-left",
+   "id": "page-0681-c2be06f2d615:b7"
+  },
+  {
+   "order": 8,
+   "class": "Head-fragment",
+   "text": "I C S. 427",
+   "bbox": [
+    0.472,
+    0.0153,
+    0.8945,
+    0.0369
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "object at _fg_ upon a white wall, a fheet or a fcreen of white paper, provided the object is farther from the lens than its principal focus. To make this picture appear distinct and bright, it must have no other light fall up- on it but what comes through the lens _kl_; and for this reafon the whole apparatus is to be placed in a dark room EFGH. The lens _kl_ mult be very convex, fo that the object de may be very near to it, and yet not be near- than its principal focus: for by this means, as the object is near to the lens, the picture _fg_ will be at a great distance from it, and consequently the picture will be much bigger than the object. Since the picture is inverted in respect of the object, in order to make the picture appear with the right end upwards, it is neceflary that the object de should be placed with the wrong end upwards.",
+   "bbox": [
+    0.456,
+    0.0376,
+    0.8902,
+    0.2587
+   ],
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b9"
+  },
+  {
+   "order": 10,
+   "class": "Section-header",
+   "text": "_Of the_ DIFFERENT REFRANGIBILITY OF LIGHT.",
+   "bbox": [
+    0.4742,
+    0.261,
+    0.8678,
+    0.2796
+   ],
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "We have hitherto fuppofed that a particle of light, as it comes from the fun, is the leaft particle into which light can be separated. But we muft now correct this lup- pofition, by flewing, that a particle of light, as it comes from the fun, is, properly speaking, a bundle of rays, which may be feparated from one another. Therefore, for the future, by a ray of light we mult be underflood to mean, not that collection of particles which we have hitherto called by this name, but the lealt particles in- to which light can be feparated.",
+   "bbox": [
+    0.4554,
+    0.2811,
+    0.8897,
+    0.4203
+   ],
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "_Rays of light are faid to, be differently refrangible, when at the fame or equal angles of incidence forms are more turned out of the way than others._",
+   "bbox": [
+    0.4736,
+    0.4242,
+    0.8881,
+    0.4674
+   ],
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "_Rays are faid to be differently reflexible, if fome are more easily reflected than others._",
+   "bbox": [
+    0.4747,
+    0.4713,
+    0.8865,
+    0.5014
+   ],
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "_Light is called homogeneous, when all the rays are equally refrangible : it is called heterogeneous, when fome rays are more refrangible than others._",
+   "bbox": [
+    0.4753,
+    0.5045,
+    0.887,
+    0.5493
+   ],
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "_The colours of homogeneous light are called primary or simple colours; and thofe of heterogenous light are called secondary or mixed._",
+   "bbox": [
+    0.4758,
+    0.5517,
+    0.8875,
+    0.5957
+   ],
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "_The rays of the fun are not all equally refrangible: and thofe rays, which have a different degree of refrangibility, have likewise a different colour._",
+   "bbox": [
+    0.4731,
+    0.5988,
+    0.8854,
+    0.6429
+   ],
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "If a beam of light SF, (No. 32.) that comes from the fun, paffes into a dark room through F a round hole in a window flutter EG ; this beam proceeding straight forwards, and falling upon a paper at Y, would there make a round picture of the fun. This picture would be a confufed one indeed, if the hole is a large one and there is no lens in the hole. However, as this round fpot of light is a picture of the fun, we shall hereafter, notwithlanding its confusion, call it by this name. Now if a glats prifm ABC is placed between the hole in the window- flutter and the paper at Y, the rays of this beam, by the refraction which they fuffer in the prifm, will be bent from their fitat courte, and instead of going on fo as to fall upon the paper at Y, they will be turned upwards, and the picture of the fun produced by them will fall up- on a paper MN that is placed above Y. If all the rays",
+   "bbox": [
+    0.4549,
+    0.646,
+    0.8892,
+    0.867
+   ],
+   "source": "s0-col-right",
+   "id": "page-0681-c2be06f2d615:b17"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "49101154a5de4734ab074b983ec6b3836057fd1f9c75e7b2f3373df5b6de30fe",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "eb1cfb845874df52385284ea25c9a5de98fbec6a872190bca85aca635f39b6ff",
+  "image_bytes": 2333803,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1422",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0278,
+   0.47,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0278,
+    0.1088,
+    0.465
+   ],
+   [
+    0.1088,
+    0.1898,
+    0.465
+   ],
+   [
+    0.1898,
+    0.2708,
+    0.465
+   ],
+   [
+    0.2708,
+    0.3519,
+    0.465
+   ],
+   [
+    0.3519,
+    0.4329,
+    0.465
+   ],
+   [
+    0.4329,
+    0.5139,
+    0.465
+   ],
+   [
+    0.5139,
+    0.5949,
+    0.465
+   ],
+   [
+    0.5949,
+    0.6759,
+    0.465
+   ],
+   [
+    0.6759,
+    0.757,
+    0.465
+   ],
+   [
+    0.757,
+    0.838,
+    0.465
+   ],
+   [
+    0.838,
+    0.919,
+    0.465
+   ],
+   [
+    0.919,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2435,
+  "completion_tokens": 891,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.46,
+ "created_at": "2026-10-18T11:20:01+00:00",
+ "content": "<x_0.3857><y_0.0039>**E D U** [ 35<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.0127><y_0.0273>**Hducation.**<x_0.1494><y_0.0531><class_Caption>\n\n<x_0.1572><y_0.0266>highly worthy of engaging the attention of the young gentleman. Dancing, fencing, running, horfeman- hip, the management of the muKet, and the motions of military dificipline, are none of them unworthy of occupying his time, at proper feafons. It is unne- ceffary to point out the advantages which he may de- rive from dancing; thefe feem to be pretty generally underflood. Perhaps our men of fortune would be afhamed to make ufe of their legs for running; but occasions may occur, on which even this humble ac- compliftment may be ufeful. Though we with not to fee the young man of fortune become a jockey; yet to be able to make a graceful appearance on horse- back, and to manage his horfe with dexterity, will not be unworthy of his flation and character. If times of public danger should arife, and the fate thould call for the fervices of her subjects against any hostile attack, they whoe rank and fortune place them in the moft eminent flations will be first expected to land forth; but if unacquainted with those exercises which are connected with the military art, what a pitiful figure muff they make in the camp, or on the field of battle?<x_0.9805><y_0.3477><class_Text>\n\n<x_0.0479><y_0.343>Law.<x_0.1211><y_0.3664><class_Caption>\n\n<x_0.1602><y_0.3469>As the man of fortune may perhaps enjoy by hereditary right, or may be called by the voice of his fellow-citizens, to a feat among the legiflative body of his country; he ought in his youth to be carefully infructed in the principles of her political conftitution, and of those laws by which his own rights and the rights of his fellow-citizens are determined and fecu- red.<x_0.9814><y_0.4594><class_Text>\n\n<x_0.0146><y_0.4578>Philofophy.<x_0.167><y_0.4781><class_Section-header>\n\n<x_0.1592><y_0.4586>Natural philosophy, as being both highly useful and entertaining, is well worthy of the attention of all who can afford to appropriate any part of their time to scientific purfuits; to the man of fortune, a tafte for natural philofophy might often procure the moft delightful entertainment. To trace the wonders of the planetary tyffems, to mark the procefs of vegetation, to examine all the properties of that fine element which we breathe, to trace the laws by which all the different elements are confined to their proper functions, and above all to apply the principles of natural philosophy in the cultivation of the ground, are amufements which might agreeably and innocently occupy many of the leifure hours of the man who enjoys a iplendid and independent fortune.<x_0.9824><y_0.6687><class_Text>\n\n<x_0.0156><y_0.6648>Nitory and morals.<x_0.168><y_0.6992><class_Section-header>\n\n<x_0.1699><y_0.6672>Neither do we fuppofe civil history and the principles of morals to be overlooked. Without being acquainted with thefe, how could any jull or accurate knowledge of the laws and political constitution of his country be acquired by the young gentleman? History expoFes to our observation the fortune and the actions of other human beings, and thus fuypplies in fome mea- fure the place of experience; it teaches prudence, and affords exercise to the moral fente. When history condefcends to take notice of individuals, they are al- moft always fuch as have been eminent for virtue, for abilities, or for the rank which they held in life; to the rich and great it ought to fpeak with peculiar ef- ficacy, and they ought to be carefully invited to listen to its voice.<x_0.9834><y_0.8742><class_Text>\n\n<x_0.1709><y_0.875>Such then is the manner in which we with the education of young men of rank and fortune to be conducted, in order that they may be prepared for en- joying their opulence and honours with becoming dig- nity. Let them be early inured to habits of vigorous<x_0.9844><y_0.9453><class_Text>\n\n<x_0.2139><y_0.9437>**Vol. VI. Part. I.**<x_0.4854><y_0.9586><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-ded13119-ce1f-4bb0-8dfc-00cd9f3c412f",
+  "object": "chat.completion",
+  "created": 1792322400,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.3857><y_0.0039>**E D U** [ 35<x_0.999><y_0.0281><class_Page-header>\n\n<x_0.0127><y_0.0273>**Hducation.**<x_0.1494><y_0.0531><class_Caption>\n\n<x_0.1572><y_0.0266>highly worthy of engaging the attention of the young gentleman. Dancing, fencing, running, horfeman- hip, the management of the muKet, and the motions of military dificipline, are none of them unworthy of occupying his time, at proper feafons. It is unne- ceffary to point out the advantages which he may de- rive from dancing; thefe feem to be pretty generally underflood. Perhaps our men of fortune would be afhamed to make ufe of their legs for running; but occasions may occur, on which even this humble ac- compliftment may be ufeful. Though we with not to fee the young man of fortune become a jockey; yet to be able to make a graceful appearance on horse- back, and to manage his horfe with dexterity, will not be unworthy of his flation and character. If times of public danger should arife, and the fate thould call for the fervices of her subjects against any hostile attack, they whoe rank and fortune place them in the moft eminent flations will be first expected to land forth; but if unacquainted with those exercises which are connected with the military art, what a pitiful figure muff they make in the camp, or on the field of battle?<x_0.9805><y_0.3477><class_Text>\n\n<x_0.0479><y_0.343>Law.<x_0.1211><y_0.3664><class_Caption>\n\n<x_0.1602><y_0.3469>As the man of fortune may perhaps enjoy by hereditary right, or may be called by the voice of his fellow-citizens, to a feat among the legiflative body of his country; he ought in his youth to be carefully infructed in the principles of her political conftitution, and of those laws by which his own rights and the rights of his fellow-citizens are determined and fecu- red.<x_0.9814><y_0.4594><class_Text>\n\n<x_0.0146><y_0.4578>Philofophy.<x_0.167><y_0.4781><class_Section-header>\n\n<x_0.1592><y_0.4586>Natural philosophy, as being both highly useful and entertaining, is well worthy of the attention of all who can afford to appropriate any part of their time to scientific purfuits; to the man of fortune, a tafte for natural philofophy might often procure the moft delightful entertainment. To trace the wonders of the planetary tyffems, to mark the procefs of vegetation, to examine all the properties of that fine element which we breathe, to trace the laws by which all the different elements are confined to their proper functions, and above all to apply the principles of natural philosophy in the cultivation of the ground, are amufements which might agreeably and innocently occupy many of the leifure hours of the man who enjoys a iplendid and independent fortune.<x_0.9824><y_0.6687><class_Text>\n\n<x_0.0156><y_0.6648>Nitory and morals.<x_0.168><y_0.6992><class_Section-header>\n\n<x_0.1699><y_0.6672>Neither do we fuppofe civil history and the principles of morals to be overlooked. Without being acquainted with thefe, how could any jull or accurate knowledge of the laws and political constitution of his country be acquired by the young gentleman? History expoFes to our observation the fortune and the actions of other human beings, and thus fuypplies in fome mea- fure the place of experience; it teaches prudence, and affords exercise to the moral fente. When history condefcends to take notice of individuals, they are al- moft always fuch as have been eminent for virtue, for abilities, or for the rank which they held in life; to the rich and great it ought to fpeak with peculiar ef- ficacy, and they ought to be carefully invited to listen to its voice.<x_0.9834><y_0.8742><class_Text>\n\n<x_0.1709><y_0.875>Such then is the manner in which we with the education of young men of rank and fortune to be conducted, in order that they may be prepared for en- joying their opulence and honours with becoming dig- nity. Let them be early inured to habits of vigorous<x_0.9844><y_0.9453><class_Text>\n\n<x_0.2139><y_0.9437>**Vol. VI. Part. I.**<x_0.4854><y_0.9586><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2435,
+   "completion_tokens": 891,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

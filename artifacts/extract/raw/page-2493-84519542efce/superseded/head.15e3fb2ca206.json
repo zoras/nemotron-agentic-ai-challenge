@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "15e3fb2ca206d41b280594d36491835af47ffd17c6c7b15a4766c369b2e6d166",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "069ccae6a6382fb0dc3b0c7de7f9cf791b1d53b9ed28e6d7e8c39c67434a6e49",
+  "image_bytes": 112769,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2493",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0387,
+   1.0,
+   0.0755
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 195,
+  "completion_tokens": 31,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.13,
+ "created_at": "2026-10-18T11:21:29+00:00",
+ "content": "<x_0.0><y_0.0>598\nMagneßa, CHEMISTRY.\nBergnian. Kirwan. Mare<x_0.999><y_0.9859><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-4a7b7397-8090-4e31-b1dd-0ff0ba9e3deb",
+  "object": "chat.completion",
+  "created": 1792322488,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>598\nMagneßa, CHEMISTRY.\nBergnian. Kirwan. Mare<x_0.999><y_0.9859><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 195,
+   "completion_tokens": 31,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

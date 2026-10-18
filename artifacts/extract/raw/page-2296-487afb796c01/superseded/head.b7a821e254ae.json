@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "b7a821e254ae8787a76d727783c68cf41593a0c92f0f930243b608220e937b65",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "0769aa20d355c3fe2df1cb13e884bfee528b4102562d1b8d13eb3aff70940dd8",
+  "image_bytes": 124029,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2296",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0325,
+   1.0,
+   0.0755
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 223,
+  "completion_tokens": 59,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.16,
+ "created_at": "2026-10-18T11:21:12+00:00",
+ "content": "<x_0.0><y_0.0>POL [ 93 ] POL\nPeis Ankudingoff's veffel was wrecked, and the crew diftri- have reached the latitude of 83%—2. From the telli- Pelo.<x_0.999><y_0.9875><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-1ba2332a-8a72-4ed4-8165-dc98b37b7a19",
+  "object": "chat.completion",
+  "created": 1792322472,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>POL [ 93 ] POL\nPeis Ankudingoff's veffel was wrecked, and the crew diftri- have reached the latitude of 83%—2. From the telli- Pelo.<x_0.999><y_0.9875><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 223,
+   "completion_tokens": 59,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "89f0fd0d60348a94a07ca14d29916331b30f31d12944d2132a532a596edfee8a",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "6fd3b0edb2dc23ee88191dc519cc83528149c2765dd85c54175b67c237284b7e",
+  "image_bytes": 2548256,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1939",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5183,
+   0.0694,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0694,
+    0.154,
+    0.5233
+   ],
+   [
+    0.154,
+    0.2386,
+    0.5233
+   ],
+   [
+    0.2386,
+    0.3232,
+    0.5233
+   ],
+   [
+    0.3232,
+    0.4078,
+    0.5233
+   ],
+   [
+    0.4078,
+    0.4924,
+    0.5233
+   ],
+   [
+    0.4924,
+    0.577,
+    0.5233
+   ],
+   [
+    0.577,
+    0.6616,
+    0.5233
+   ],
+   [
+    0.6616,
+    0.7462,
+    0.5233
+   ],
+   [
+    0.7462,
+    0.8308,
+    0.5233
+   ],
+   [
+    0.8308,
+    0.9154,
+    0.5233
+   ],
+   [
+    0.9154,
+    1.0,
+    0.5233
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2436,
+  "completion_tokens": 892,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.81,
+ "created_at": "2026-10-18T11:11:27+00:00",
+ "content": "<x_0.0078><y_0.0>quently employed against rheumatic pains, dents) fpirms, for difcuffing cold tumours, and refraining haemorrhages.<x_0.8467><y_0.0375><class_Text>\n\n<x_0.0098><y_0.0414>539. After the diffiliation of the turpentine, there remains in the fill a brittle refinous fubilance, of a yellow colour, called _yellow refin_ [L.]<x_0.8477><y_0.0875><class_List-item>\n\n<x_0.0117><y_0.0867>The only ufe of this is in external applications, for giving confidence to plafters, and the like purposes.<x_0.8486><y_0.1195><class_Text>\n\n<x_0.0127><y_0.1203>540. Moft of the foregoing oils are drawn by our chemifts, and easily procurable in a tolerable degree of perfection; thofe of cinnamon, cloves, nutmegs, and mace, excepted. Thefe are ufually imported from abroad; and are for the moft part fo much adulturated, that it is difficult to meet with fuch as are at all fit for ufe.<x_0.8584><y_0.2188><class_Text>\n\n<x_0.0176><y_0.2195>Nor are the adulterations of thefe kinds of prepara- tions early difcoverable. The groffer abufes indeed may be readily detected: thus if the oil is mixed with fpirit of wine, it will turn milky on the addition of water; if with expreffed oils, rectified fpirit will differ the eftiential, and leave the other behind; if with oil of turpentine, on dipping a piece of paper in the mixture, and drying it with a gentle heat, the turpen- tine will be betrayed by its fmell. But the more fubtle artifts have contrived other methods of fophification, which elude all trials of this kind.<x_0.8594><y_0.3734><class_Text>\n\n<x_0.0234><y_0.3742>Some have looked upon the fpecific gravity of oils, as a certain criterion of their genuinenefs. This, however, is not to be abfolutely depended on ; for the genuine oils, obtained from the fame fubject, often- times differ in gravity as much as those drawn from different ones. Cinnamon and cloves, whose oils ufually link in water, yield, if flowly and wavily distilled, an oil of great fragrancy, which is nevertheless fspecifically lighter than the aqueous fluid employed in the distillation of it; whilst, on the other hand, the left runnings of fome of the lighter oils prove fome- times fo ponderous as to link in water.<x_0.8613><y_0.5437><class_Text>\n\n<x_0.0322><y_0.543>As all effential oils agree in the general properties of folubility in fpirit of wine, indiffolubility in water, mifcibility with water by the intervention of certain intermedia, volatility in the heat of boiling water, &c. it is plain that they may be varioufly mixed with one another, or the dearer fophifficated with the cheaper, without any poflibility of difcovering the abufe by any trials of this kind. And indeed, it would not be of much advantage to the purchafer if he had infalible criteria of the genuinenefs of every individual oil. It is of as much importance, that they may be _good_, as that they may be _genuine_; for we have often been genuine oils, from incautious diftillation, and long and carelefs keeping, weaker both in fmell and tafte than the common fophifficated ones.<x_0.8701><y_0.7547><class_Text>\n\n<x_0.0391><y_0.7555>The fmell and tafte feem to be the only certain tefts that the nature of the thing will admit of. If a bark should have in every respect the appearance of good cinnamon, and should be proved indifputably to be the genuine bark of the cinnamon tree; yet, if it wants the cinnamon flavour, or has it but in a low degree, we reject it : and the cafe is the fame with the oil. It is only from ufe and habit, or comparifon with fpecimens of known quality, that we can judge of the goodness, either of the drugs themselves, or of their oils.<x_0.8721><y_0.9102><class_Text>\n\n<x_0.7861><y_0.9086>**Moft**<x_0.875><y_0.9258><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-e3d30ee4-432f-4d89-afa9-5881ae7787d6",
+  "object": "chat.completion",
+  "created": 1792321886,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0>quently employed against rheumatic pains, dents) fpirms, for difcuffing cold tumours, and refraining haemorrhages.<x_0.8467><y_0.0375><class_Text>\n\n<x_0.0098><y_0.0414>539. After the diffiliation of the turpentine, there remains in the fill a brittle refinous fubilance, of a yellow colour, called _yellow refin_ [L.]<x_0.8477><y_0.0875><class_List-item>\n\n<x_0.0117><y_0.0867>The only ufe of this is in external applications, for giving confidence to plafters, and the like purposes.<x_0.8486><y_0.1195><class_Text>\n\n<x_0.0127><y_0.1203>540. Moft of the foregoing oils are drawn by our chemifts, and easily procurable in a tolerable degree of perfection; thofe of cinnamon, cloves, nutmegs, and mace, excepted. Thefe are ufually imported from abroad; and are for the moft part fo much adulturated, that it is difficult to meet with fuch as are at all fit for ufe.<x_0.8584><y_0.2188><class_Text>\n\n<x_0.0176><y_0.2195>Nor are the adulterations of thefe kinds of prepara- tions early difcoverable. The groffer abufes indeed may be readily detected: thus if the oil is mixed with fpirit of wine, it will turn milky on the addition of water; if with expreffed oils, rectified fpirit will differ the eftiential, and leave the other behind; if with oil of turpentine, on dipping a piece of paper in the mixture, and drying it with a gentle heat, the turpen- tine will be betrayed by its fmell. But the more fubtle artifts have contrived other methods of fophification, which elude all trials of this kind.<x_0.8594><y_0.3734><class_Text>\n\n<x_0.0234><y_0.3742>Some have looked upon the fpecific gravity of oils, as a certain criterion of their genuinenefs. This, however, is not to be abfolutely depended on ; for the genuine oils, obtained from the fame fubject, often- times differ in gravity as much as those drawn from different ones. Cinnamon and cloves, whose oils ufually link in water, yield, if flowly and wavily distilled, an oil of great fragrancy, which is nevertheless fspecifically lighter than the aqueous fluid employed in the distillation of it; whilst, on the other hand, the left runnings of fome of the lighter oils prove fome- times fo ponderous as to link in water.<x_0.8613><y_0.5437><class_Text>\n\n<x_0.0322><y_0.543>As all effential oils agree in the general properties of folubility in fpirit of wine, indiffolubility in water, mifcibility with water by the intervention of certain intermedia, volatility in the heat of boiling water, &c. it is plain that they may be varioufly mixed with one another, or the dearer fophifficated with the cheaper, without any poflibility of difcovering the abufe by any trials of this kind. And indeed, it would not be of much advantage to the purchafer if he had infalible criteria of the genuinenefs of every individual oil. It is of as much importance, that they may be _good_, as that they may be _genuine_; for we have often been genuine oils, from incautious diftillation, and long and carelefs keeping, weaker both in fmell and tafte than the common fophifficated ones.<x_0.8701><y_0.7547><class_Text>\n\n<x_0.0391><y_0.7555>The fmell and tafte feem to be the only certain tefts that the nature of the thing will admit of. If a bark should have in every respect the appearance of good cinnamon, and should be proved indifputably to be the genuine bark of the cinnamon tree; yet, if it wants the cinnamon flavour, or has it but in a low degree, we reject it : and the cafe is the fame with the oil. It is only from ufe and habit, or comparifon with fpecimens of known quality, that we can judge of the goodness, either of the drugs themselves, or of their oils.<x_0.8721><y_0.9102><class_Text>\n\n<x_0.7861><y_0.9086>**Moft**<x_0.875><y_0.9258><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2436,
+   "completion_tokens": 892,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "726068c3f0ac1dd4d3545791947b85c4b522dc85872cdf9d1fe549f4c9d57c83",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "c339f7fc7ced8b805284c8e675bf634f120bf874a90e8c354258a9a2c7e907ce",
+  "image_bytes": 2642509,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:523",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0319,
+   0.505,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0319,
+    0.1126,
+    0.5
+   ],
+   [
+    0.1126,
+    0.1932,
+    0.5
+   ],
+   [
+    0.1932,
+    0.2739,
+    0.5
+   ],
+   [
+    0.2739,
+    0.3546,
+    0.5
+   ],
+   [
+    0.3546,
+    0.4353,
+    0.5
+   ],
+   [
+    0.4353,
+    0.516,
+    0.5
+   ],
+   [
+    0.516,
+    0.5966,
+    0.5
+   ],
+   [
+    0.5966,
+    0.6773,
+    0.5
+   ],
+   [
+    0.6773,
+    0.758,
+    0.5
+   ],
+   [
+    0.758,
+    0.8387,
+    0.5
+   ],
+   [
+    0.8387,
+    0.9193,
+    0.5
+   ],
+   [
+    0.9193,
+    1.0,
+    0.5
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2638,
+  "completion_tokens": 966,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.4,
+ "created_at": "2026-10-18T11:10:20+00:00",
+ "content": "<x_0.0684><y_0.0>Endlef\nEngine.<x_0.1875><y_0.0406><class_Caption>\n\n<x_0.1904><y_0.0>ENDLESS, fomething without an end : thus au- thors mention endlefs rolls, the endlefs forew, &c.<x_0.9795><y_0.0297><class_Text>\n\n<x_0.1895><y_0.0305>ENDORSE, in heraldry, an ordinary, containing the eighth part of a pale, which Leigh fays is only ufed when a pale is between two of them.<x_0.9814><y_0.0711><class_Text>\n\n<x_0.1885><y_0.0703>ENDORSED, in heraldry, is faid of things borne back to back, more ufully called ADosz.<x_0.9805><y_0.1><class_Text>\n\n<x_0.1865><y_0.0992>ENDOWMENT, in law, denotes the fettling a dower on a woman: though fometimes it is ufed, figuratively, for fettling a provifion upon a parfon, on the building of a church; or the fevering a sufficient portion of tithes for a vicar, when the benefice is ap-propriated.<x_0.9824><y_0.1844><class_Text>\n\n<x_0.1855><y_0.1836>ENDYMION, the 12th king of Elis. Being expelled his kingdom, he retired into Caria to mount Lat-mos, where he fludied the heavenly bodies, but chiefly the moon; which gave rife to the fable of the poets, that he was beloved by the moon, who vifted him every night as he lay afleep upon the top of that hill.<x_0.9834><y_0.268><class_Text>\n\n<x_0.1846><y_0.2672>ENEMY, in law, an alien or foreigner, who publicly invades the kingdom.<x_0.9785><y_0.2961><class_Text>\n\n<x_0.1836><y_0.2953>ENERGUMENS, in church-hilory, perfons fuppofed to be poffeffed by the devil, concerning whom there were many regulations among the primitive Christians. They were denied baptifm, and the eu-charift; at lealt, this was the practice of fome churches: and though they were under the care of exorcitis, yet it was thought a becoming act of charity, to let them have the public prayers of the church, at which they were permitted to be prefent. See EXORCISM.<x_0.9844><y_0.4219><class_Text>\n\n<x_0.1826><y_0.4211>ENERGY, a term of Greek origin, lignifying the power, virtue, or efficacy of a thing. It is alfo ufed, figuratively, to denote emphasis of fpech.<x_0.9854><y_0.4648><class_Text>\n\n<x_0.1816><y_0.4641>ENFANS PERDUS, the fame with forlorn-hope. FORLORN.<x_0.9775><y_0.4914><class_Text>\n\n<x_0.1807><y_0.4922>ENFILADE, in the art of war, is ufed in fpeaking of trenches, or other places, which may be feourled by the enemy's hot along their whole length. In conducting the approaches at a flege, care mult be taken that the trenches be not enfiladed from any work of the place. See TRENCHES.<x_0.9766><y_0.5766><class_Text>\n\n<x_0.1797><y_0.5758>ENFRANCHISEMENT, in law, the incorpo-rating a perfon into any fociety or body politic.<x_0.9756><y_0.6047><class_Text>\n\n<x_0.1787><y_0.6039>ENGASTRIMYTHI, in Pagan theology, the Py-thians, or priefteffes of Apollo, who delivered oracles from within, without any action of the mouth or lips.<x_0.9746><y_0.6469><class_Text>\n\n<x_0.1777><y_0.6461>The ancient philofophers, &c. are divided upon the subject of the engaftrimythi. Hippocrates mentions it as a difeafe. Others will have it a kind of divina-tion. Others attribute it to the operation or pollefion of an evil fpirit. And others to art and mecha-nifm. M. Scottus maintains that the engaftrimythi of the ancients were poets, who, when the priefts could not fpeak, fupplied the defect by explaining in verfe what Apollo dictated in the cavity of the balon on the facred tripod.<x_0.9736><y_0.7867><class_Text>\n\n<x_0.1768><y_0.7859>ENGENDERING, a term fometimes ufed for the act of producing or forming any thing: thus meteors are faid to be engendered in the middle region of the atmosphere, and worms in the belly.<x_0.9727><y_0.843><class_Text>\n\n<x_0.1758><y_0.8422>ENGINE, % mechanics, is a compound machine, made of one or more mechanical powers, as levers, pullies, forews, &c. in order to raife, caft, or fullain any weight, or produce any effect which could not be easily effected otherwise. The word is formed of the<x_0.9717><y_0.9148><class_Text>",
+ "reply": {
+  "id": "chatcmpl-f2f52866-a594-4a85-b952-52d191a67b79",
+  "object": "chat.completion",
+  "created": 1792321819,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0684><y_0.0>Endlef\nEngine.<x_0.1875><y_0.0406><class_Caption>\n\n<x_0.1904><y_0.0>ENDLESS, fomething without an end : thus au- thors mention endlefs rolls, the endlefs forew, &c.<x_0.9795><y_0.0297><class_Text>\n\n<x_0.1895><y_0.0305>ENDORSE, in heraldry, an ordinary, containing the eighth part of a pale, which Leigh fays is only ufed when a pale is between two of them.<x_0.9814><y_0.0711><class_Text>\n\n<x_0.1885><y_0.0703>ENDORSED, in heraldry, is faid of things borne back to back, more ufully called ADosz.<x_0.9805><y_0.1><class_Text>\n\n<x_0.1865><y_0.0992>ENDOWMENT, in law, denotes the fettling a dower on a woman: though fometimes it is ufed, figuratively, for fettling a provifion upon a parfon, on the building of a church; or the fevering a sufficient portion of tithes for a vicar, when the benefice is ap-propriated.<x_0.9824><y_0.1844><class_Text>\n\n<x_0.1855><y_0.1836>ENDYMION, the 12th king of Elis. Being expelled his kingdom, he retired into Caria to mount Lat-mos, where he fludied the heavenly bodies, but chiefly the moon; which gave rife to the fable of the poets, that he was beloved by the moon, who vifted him every night as he lay afleep upon the top of that hill.<x_0.9834><y_0.268><class_Text>\n\n<x_0.1846><y_0.2672>ENEMY, in law, an alien or foreigner, who publicly invades the kingdom.<x_0.9785><y_0.2961><class_Text>\n\n<x_0.1836><y_0.2953>ENERGUMENS, in church-hilory, perfons fuppofed to be poffeffed by the devil, concerning whom there were many regulations among the primitive Christians. They were denied baptifm, and the eu-charift; at lealt, this was the practice of fome churches: and though they were under the care of exorcitis, yet it was thought a becoming act of charity, to let them have the public prayers of the church, at which they were permitted to be prefent. See EXORCISM.<x_0.9844><y_0.4219><class_Text>\n\n<x_0.1826><y_0.4211>ENERGY, a term of Greek origin, lignifying the power, virtue, or efficacy of a thing. It is alfo ufed, figuratively, to denote emphasis of fpech.<x_0.9854><y_0.4648><class_Text>\n\n<x_0.1816><y_0.4641>ENFANS PERDUS, the fame with forlorn-hope. FORLORN.<x_0.9775><y_0.4914><class_Text>\n\n<x_0.1807><y_0.4922>ENFILADE, in the art of war, is ufed in fpeaking of trenches, or other places, which may be feourled by the enemy's hot along their whole length. In conducting the approaches at a flege, care mult be taken that the trenches be not enfiladed from any work of the place. See TRENCHES.<x_0.9766><y_0.5766><class_Text>\n\n<x_0.1797><y_0.5758>ENFRANCHISEMENT, in law, the incorpo-rating a perfon into any fociety or body politic.<x_0.9756><y_0.6047><class_Text>\n\n<x_0.1787><y_0.6039>ENGASTRIMYTHI, in Pagan theology, the Py-thians, or priefteffes of Apollo, who delivered oracles from within, without any action of the mouth or lips.<x_0.9746><y_0.6469><class_Text>\n\n<x_0.1777><y_0.6461>The ancient philofophers, &c. are divided upon the subject of the engaftrimythi. Hippocrates mentions it as a difeafe. Others will have it a kind of divina-tion. Others attribute it to the operation or pollefion of an evil fpirit. And others to art and mecha-nifm. M. Scottus maintains that the engaftrimythi of the ancients were poets, who, when the priefts could not fpeak, fupplied the defect by explaining in verfe what Apollo dictated in the cavity of the balon on the facred tripod.<x_0.9736><y_0.7867><class_Text>\n\n<x_0.1768><y_0.7859>ENGENDERING, a term fometimes ufed for the act of producing or forming any thing: thus meteors are faid to be engendered in the middle region of the atmosphere, and worms in the belly.<x_0.9727><y_0.843><class_Text>\n\n<x_0.1758><y_0.8422>ENGINE, % mechanics, is a compound machine, made of one or more mechanical powers, as levers, pullies, forews, &c. in order to raife, caft, or fullain any weight, or produce any effect which could not be easily effected otherwise. The word is formed of the<x_0.9717><y_0.9148><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2638,
+   "completion_tokens": 966,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

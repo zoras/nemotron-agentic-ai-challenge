@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "1841626edd4d01a9843d1d772ac1fb3b0cf260675ea62c419293a17f83ab6e88",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "6c234dc5f3a8f5bac679fd9af70ce95c7b72c27ad59e702dbbb159c1a3d72485",
+  "image_bytes": 113600,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:13",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0395,
+   1.0,
+   0.0693
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 138,
+  "total_tokens": 162,
+  "completion_tokens": 24,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.21,
+ "created_at": "2026-10-18T11:18:56+00:00",
+ "content": "<x_0.0><y_0.0>292 SHIP-BUILDING. This we shall presently endeavour Practic<x_0.999><y_0.9992><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-5bdd00d4-9dca-4f43-ab97-c092870a5aff",
+  "object": "chat.completion",
+  "created": 1792322336,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>292 SHIP-BUILDING. This we shall presently endeavour Practic<x_0.999><y_0.9992><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 138,
+   "total_tokens": 162,
+   "completion_tokens": 24,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "ca9d8dc48c63e982b260ad14b56ba1320a0d40b420082bf65a7e50b604bfa7f4",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "fc15abcabee256c20b17baaa7c556fd046e8d3ca90f05e8a04b55c0d63cd19fe",
+  "image_bytes": 1847487,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:247",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5233,
+   0.0655,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0655,
+    0.1505,
+    0.5283
+   ],
+   [
+    0.1505,
+    0.2354,
+    0.5283
+   ],
+   [
+    0.2354,
+    0.3204,
+    0.5283
+   ],
+   [
+    0.3204,
+    0.4053,
+    0.5283
+   ],
+   [
+    0.4053,
+    0.4903,
+    0.5283
+   ],
+   [
+    0.4903,
+    0.5752,
+    0.5283
+   ],
+   [
+    0.5752,
+    0.6602,
+    0.5283
+   ],
+   [
+    0.6602,
+    0.7451,
+    0.5283
+   ],
+   [
+    0.7451,
+    0.8301,
+    0.5283
+   ],
+   [
+    0.8301,
+    0.915,
+    0.5283
+   ],
+   [
+    0.915,
+    1.0,
+    0.5283
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2730,
+  "completion_tokens": 1058,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.48,
+ "created_at": "2026-10-18T11:09:59+00:00",
+ "content": "<x_0.0088><y_0.0>on the brink of the eaft fide. The fore-ground (_a_ a) of the figure is one divifion of the crater. Beyond it are two eminences _b_ and _c_, higher than that on which fome human figures are reprefented. All the three form a triangle nearly equilateral; but, when viewed from any figureof the confiderable diflance, only two of them can be feen; for crater. which reafon the Sicilians have termed the mountain _bicorna_, or double-horned.<x_0.9619><y_0.1109><class_Text>\n\n<x_0.0137><y_0.1102>The fmoke, as reprefented in the figure, ifues from all quarters, either from chinks or holes feattered over the whole crater. But the situation of the principal mouth is in the midft of the three eminences. Its diameter, when our author vifted this mountain, was only about 60 feet, and fo filled with fmoke that nothing remarkable could be dicovered. From the height _d_, the rock fituated on the left fide of the print, and on which the human figures are reprefented, all the way to the rock _e_ on the right, the diflance is no more than 900 feet. Our author obferted that the cone is not exactly in the middle of the plain, but is fituated more towards the north than the fourth. He did not attempt to crofs the central valley _f_, on account of the loofenefs of the ground, and that there was no object apparently worthy of the rifk he muft run in fo doing. At the nearelt view he took, it was only observed that there was flow lying in feveral parts of it, though the heat which otherwife prevailed feemed to be very intenfe.<x_0.8174><y_0.3812><class_Text>\n\n<x_0.0146><y_0.3805>The fmoke which ifues from the crater of Etna is generally carried in a direction from south to north; and, as it brings along with it a considerable quantity of water, the latter, condensed by the cold winds, runs down the fide of the mountain in plentiful fireams, and often leaves pretty permanent marks of its courfe. In this manner he accounts for the great eruption of water in 1755, which he fuppofes to have been oc- cafioned only by an unufual quantity of water falling into the burning focus of the mountain, there rarefied into steam, and afterwards condensed by the coldnefs of the atmosphere.<x_0.8184><y_0.5508><class_Text>\n\n<x_0.0117><y_0.55>Like other travellers to mount Etna, this gentleman found the wind blowing from the fuuth; and he is of opinion, that a fouthwind blows here more frequently than any other, as he did not observe any channels cut by the water on any other fide than the north. He had several opportunities of making this observation, having frequently vifted the top of Etna, and always paid attention to the crater. The fand on the call and weft fides was always loofe, while that on the north was compacted into a fold body. The three fummits were of a later date than the refl of the crater, having been probably thrown up by fome eruption which had burlt it afunder. The black fpots on the fore-ground repre- fent a number of hillocks about the fize of mole-hills, from which a fulphureous vapour conflantly iffues, and by which the adjacent ground is tinged of an ochery colour. This vapour ifues from the crevices with a kind of hollow whiffling noife: which with the volea- nic thunder, fmoke, and noxious fmell, render it very difagreeable to flay here even for a few moments.<x_0.8203><y_0.8336><class_Text>\n\n<x_0.0127><y_0.8328>The fmoke is reprefented in the figure precifely as it did on the day that he ascended, which was very warm. But it does not always rife in this manner; for when the cold is very intense, it collects into a body, and thickens around the edge of the crater; on which oc- cations it is condened into water, which diffuites itself around the edge of the crater, and mixing with the<x_0.8193><y_0.9352><class_Text>\n\n<x_0.7988><y_0.0>Etna.\n42 Explina-\ntion of the\ntriangle nearly equilateral; but, when viewed from any\nconfiderable diflance, only two of them can be feen; for crater.<x_0.96><y_0.1117><class_Picture>\n\n<x_0.8008><y_0.3094>explina-\ntion of the\nfigureof the\nwhich reafon the Sicilians have termed the mountain\nbicorna, or double-horned.<x_0.9609><y_0.1125><class_Picture>\n\n<x_0.8018><y_0.4602>43 Ecuption of water in\n1755 ac-\ncoanted\nfor.<x_0.9658><y_0.5328><class_Picture>\n\n<x_0.8027><y_0.5406>44<x_0.9727><y_0.5516><class_Page-footer>\n\n<x_0.8037><y_0.5492>Sooth wind generally prevalent on the top at Etna.<x_0.959><y_0.6109><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-98b23ffd-780a-4900-b7ab-7c575b74ca44",
+  "object": "chat.completion",
+  "created": 1792321798,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0088><y_0.0>on the brink of the eaft fide. The fore-ground (_a_ a) of the figure is one divifion of the crater. Beyond it are two eminences _b_ and _c_, higher than that on which fome human figures are reprefented. All the three form a triangle nearly equilateral; but, when viewed from any figureof the confiderable diflance, only two of them can be feen; for crater. which reafon the Sicilians have termed the mountain _bicorna_, or double-horned.<x_0.9619><y_0.1109><class_Text>\n\n<x_0.0137><y_0.1102>The fmoke, as reprefented in the figure, ifues from all quarters, either from chinks or holes feattered over the whole crater. But the situation of the principal mouth is in the midft of the three eminences. Its diameter, when our author vifted this mountain, was only about 60 feet, and fo filled with fmoke that nothing remarkable could be dicovered. From the height _d_, the rock fituated on the left fide of the print, and on which the human figures are reprefented, all the way to the rock _e_ on the right, the diflance is no more than 900 feet. Our author obferted that the cone is not exactly in the middle of the plain, but is fituated more towards the north than the fourth. He did not attempt to crofs the central valley _f_, on account of the loofenefs of the ground, and that there was no object apparently worthy of the rifk he muft run in fo doing. At the nearelt view he took, it was only observed that there was flow lying in feveral parts of it, though the heat which otherwife prevailed feemed to be very intenfe.<x_0.8174><y_0.3812><class_Text>\n\n<x_0.0146><y_0.3805>The fmoke which ifues from the crater of Etna is generally carried in a direction from south to north; and, as it brings along with it a considerable quantity of water, the latter, condensed by the cold winds, runs down the fide of the mountain in plentiful fireams, and often leaves pretty permanent marks of its courfe. In this manner he accounts for the great eruption of water in 1755, which he fuppofes to have been oc- cafioned only by an unufual quantity of water falling into the burning focus of the mountain, there rarefied into steam, and afterwards condensed by the coldnefs of the atmosphere.<x_0.8184><y_0.5508><class_Text>\n\n<x_0.0117><y_0.55>Like other travellers to mount Etna, this gentleman found the wind blowing from the fuuth; and he is of opinion, that a fouthwind blows here more frequently than any other, as he did not observe any channels cut by the water on any other fide than the north. He had several opportunities of making this observation, having frequently vifted the top of Etna, and always paid attention to the crater. The fand on the call and weft fides was always loofe, while that on the north was compacted into a fold body. The three fummits were of a later date than the refl of the crater, having been probably thrown up by fome eruption which had burlt it afunder. The black fpots on the fore-ground repre- fent a number of hillocks about the fize of mole-hills, from which a fulphureous vapour conflantly iffues, and by which the adjacent ground is tinged of an ochery colour. This vapour ifues from the crevices with a kind of hollow whiffling noife: which with the volea- nic thunder, fmoke, and noxious fmell, render it very difagreeable to flay here even for a few moments.<x_0.8203><y_0.8336><class_Text>\n\n<x_0.0127><y_0.8328>The fmoke is reprefented in the figure precifely as it did on the day that he ascended, which was very warm. But it does not always rife in this manner; for when the cold is very intense, it collects into a body, and thickens around the edge of the crater; on which oc- cations it is condened into water, which diffuites itself around the edge of the crater, and mixing with the<x_0.8193><y_0.9352><class_Text>\n\n<x_0.7988><y_0.0>Etna.\n42 Explina-\ntion of the\ntriangle nearly equilateral; but, when viewed from any\nconfiderable diflance, only two of them can be feen; for crater.<x_0.96><y_0.1117><class_Picture>\n\n<x_0.8008><y_0.3094>explina-\ntion of the\nfigureof the\nwhich reafon the Sicilians have termed the mountain\nbicorna, or double-horned.<x_0.9609><y_0.1125><class_Picture>\n\n<x_0.8018><y_0.4602>43 Ecuption of water in\n1755 ac-\ncoanted\nfor.<x_0.9658><y_0.5328><class_Picture>\n\n<x_0.8027><y_0.5406>44<x_0.9727><y_0.5516><class_Page-footer>\n\n<x_0.8037><y_0.5492>Sooth wind generally prevalent on the top at Etna.<x_0.959><y_0.6109><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2730,
+   "completion_tokens": 1058,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

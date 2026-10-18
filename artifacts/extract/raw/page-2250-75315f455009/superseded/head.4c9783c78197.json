@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "4c9783c781972fddf82be3f5e8897917f682852272b075fe32b6f73b77031d48",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "5f845da11e344b963b15b6158e8e3e9ea057715d3d09e79905bf10cdf767da0f",
+  "image_bytes": 131088,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0466,
+   1.0,
+   0.0872
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 207,
+  "completion_tokens": 43,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.19,
+ "created_at": "2026-10-18T11:21:08+00:00",
+ "content": "<x_0.0><y_0.0>B U X (^697 ) B Y Z\nPerson attempted to find out a north-well paffage to of the leaves and wood has been recommended as a<x_0.999><y_0.9867><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-519cf84e-5d4f-4695-a0ae-cc37aa832c8d",
+  "object": "chat.completion",
+  "created": 1792322468,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>B U X (^697 ) B Y Z\nPerson attempted to find out a north-well paffage to of the leaves and wood has been recommended as a<x_0.999><y_0.9867><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 207,
+   "completion_tokens": 43,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

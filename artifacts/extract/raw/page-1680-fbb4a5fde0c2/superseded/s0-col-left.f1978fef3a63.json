@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "f1978fef3a639fd6293b51be41e25af6693706fc0c331759e1f527b3d1e2ca37",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "de8b91de82a404aabd127400fe3a62506ae6f040eddef825d86926d7c680779f",
+  "image_bytes": 2435369,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1680",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0608,
+   0.4883,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0608,
+    0.1462,
+    0.4833
+   ],
+   [
+    0.1462,
+    0.2316,
+    0.4833
+   ],
+   [
+    0.2316,
+    0.3169,
+    0.4833
+   ],
+   [
+    0.3169,
+    0.4023,
+    0.4833
+   ],
+   [
+    0.4023,
+    0.4877,
+    0.4833
+   ],
+   [
+    0.4877,
+    0.5731,
+    0.4833
+   ],
+   [
+    0.5731,
+    0.6585,
+    0.4833
+   ],
+   [
+    0.6585,
+    0.7439,
+    0.4833
+   ],
+   [
+    0.7439,
+    0.8292,
+    0.4833
+   ],
+   [
+    0.8292,
+    0.9146,
+    0.4833
+   ],
+   [
+    0.9146,
+    1.0,
+    0.4833
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2473,
+  "completion_tokens": 801,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.32,
+ "created_at": "2026-10-18T11:11:12+00:00",
+ "content": "<x_0.0684><y_0.0>Carpentry. Ao, and Ag. But because Af and eE are equal and parallel, and Er and fi are also parallel, as also er and fp, it is evident, that if is equal to rE, or to of, and iA is equal to re, or to Gg. Therefore the four forces Ag, Ao, Ap, Ai, are equal to AG and AF. Therefore AG is the compression of the beam AD, or the force pressing it on D, and AF is the force pressing it on the beam HD. The proportion of these pressures, therefore, is not affected by the form of the joint.<x_0.9795><y_0.1391><class_Text>\n\n<x_0.2041><y_0.1383>This remark is important; for many carpenters think the form and direction of the butting joint of great importance : and even the theorist, by not pro- secuting the general principle through all its consequences, may be led into an error. The form of the joint is of no importance, in as far as it affects the strains in the direction of the beams ; but it is often of great consequence, in respect to its own firmness, and the effect it may have in bruising the piece on which it acts, or being crippled by it.<x_0.9814><y_0.2766><class_Text>\n\n<x_0.2021><y_0.2758>The same compression of AB, and the same thrust on the point D by the intervention of AD, will obtain, in whatever way the original pressure on the end A is produced. Thus, supposing that a cord is made fast at A, and pulled in the direction AE, and with the same force, the beam AD will be equally compressed, and the prop D must react with the same force.<x_0.9805><y_0.3859><class_Text>\n\n<x_0.2031><y_0.3852>But it often happens that the obliquity of the pressure on AD, instead of compressing it, stretches it ; and we desire to know what tension it sustains. Of this we have a familiar example in a common roof. Let the two rafters AC, AD (fig. 12.), press on the tie-beam DC. We may suppose the whole weight to press vertically on the ridge A, as if a weight B were hung on there. (See Note CC.) We may represent this weight by the portion Ab of the vertical or plumb line, intercepted between the ridge and the beam. Then drawing _bf_ and _bg_ parallel to AD and AC, Ag and Af will represent the pressures on AC and AD. Produce AC till CH be equal to Af. The point C is forced out in this direction, and with a force represented by this line. As this force is not perpendicularly across the beam, it evidently stretches it ; and this extending force must be withstood by an equal force pulling it in the opposite direction. This must arise from a similar oblique thrust of the opposite rafter on the other end D. We concern ourselves only with this extension at present ; but we see that the cohesion of the beam does nothing but supply the balance to the extending forces. It must still be supported externally, that it _may resist_, and by resisting obliquely, be stretched. The points C and D are supported on the walls, which they press in the directions CK and DO, parallel to Ab. If we draw HK parallel to DC, and HI parallel to CK (that is to Ab), meeting DC produced in I, it follows from the composition of forces, that the point C would be supported by the two forces KC and IC. In like manner, making DN = Ag, and completing the parallelogram DMNO, the point D would be supported by the forces OD and MD. If we draw go and fk parallel to DC, it is plain that they are equal to NO and CI, while Ao and Ak are equal to<x_0.9824><y_0.8969><class_Text>\n\n<x_0.0547><y_0.2781>Origin of the Strain on a Tic- beam.<x_0.1836><y_0.3273><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-797c6716-d311-41c8-84e9-73da10b2f2ee",
+  "object": "chat.completion",
+  "created": 1792321870,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0684><y_0.0>Carpentry. Ao, and Ag. But because Af and eE are equal and parallel, and Er and fi are also parallel, as also er and fp, it is evident, that if is equal to rE, or to of, and iA is equal to re, or to Gg. Therefore the four forces Ag, Ao, Ap, Ai, are equal to AG and AF. Therefore AG is the compression of the beam AD, or the force pressing it on D, and AF is the force pressing it on the beam HD. The proportion of these pressures, therefore, is not affected by the form of the joint.<x_0.9795><y_0.1391><class_Text>\n\n<x_0.2041><y_0.1383>This remark is important; for many carpenters think the form and direction of the butting joint of great importance : and even the theorist, by not pro- secuting the general principle through all its consequences, may be led into an error. The form of the joint is of no importance, in as far as it affects the strains in the direction of the beams ; but it is often of great consequence, in respect to its own firmness, and the effect it may have in bruising the piece on which it acts, or being crippled by it.<x_0.9814><y_0.2766><class_Text>\n\n<x_0.2021><y_0.2758>The same compression of AB, and the same thrust on the point D by the intervention of AD, will obtain, in whatever way the original pressure on the end A is produced. Thus, supposing that a cord is made fast at A, and pulled in the direction AE, and with the same force, the beam AD will be equally compressed, and the prop D must react with the same force.<x_0.9805><y_0.3859><class_Text>\n\n<x_0.2031><y_0.3852>But it often happens that the obliquity of the pressure on AD, instead of compressing it, stretches it ; and we desire to know what tension it sustains. Of this we have a familiar example in a common roof. Let the two rafters AC, AD (fig. 12.), press on the tie-beam DC. We may suppose the whole weight to press vertically on the ridge A, as if a weight B were hung on there. (See Note CC.) We may represent this weight by the portion Ab of the vertical or plumb line, intercepted between the ridge and the beam. Then drawing _bf_ and _bg_ parallel to AD and AC, Ag and Af will represent the pressures on AC and AD. Produce AC till CH be equal to Af. The point C is forced out in this direction, and with a force represented by this line. As this force is not perpendicularly across the beam, it evidently stretches it ; and this extending force must be withstood by an equal force pulling it in the opposite direction. This must arise from a similar oblique thrust of the opposite rafter on the other end D. We concern ourselves only with this extension at present ; but we see that the cohesion of the beam does nothing but supply the balance to the extending forces. It must still be supported externally, that it _may resist_, and by resisting obliquely, be stretched. The points C and D are supported on the walls, which they press in the directions CK and DO, parallel to Ab. If we draw HK parallel to DC, and HI parallel to CK (that is to Ab), meeting DC produced in I, it follows from the composition of forces, that the point C would be supported by the two forces KC and IC. In like manner, making DN = Ag, and completing the parallelogram DMNO, the point D would be supported by the forces OD and MD. If we draw go and fk parallel to DC, it is plain that they are equal to NO and CI, while Ao and Ak are equal to<x_0.9824><y_0.8969><class_Text>\n\n<x_0.0547><y_0.2781>Origin of the Strain on a Tic- beam.<x_0.1836><y_0.3273><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2473,
+   "completion_tokens": 801,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

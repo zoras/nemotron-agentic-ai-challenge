@@ -1,0 +1,472 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1803",
+ "row_index": 1803,
+ "volume_id": "191320560",
+ "filename": "page-1803-0b6da50e5c8a.jpg",
+ "image_sha256": "0b6da50e5c8a63c331ace8127e04d5cdf23a5dfe27e0eb0d868fa2220e33f47e",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07843,
+  "median_grey": 207,
+  "layout_body_chars": 6322,
+  "layout_pictures": 0
+ },
+ "running_head": "ENG [ 141 J ENG",
+ "layout_raw": "page-1803-0b6da50e5c8a/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0513,
+    1.0,
+    0.0843
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-1803-0b6da50e5c8a/head.json",
+   "finish_reason": "stop",
+   "request_key": "196b1cc741f9a20f1faf45010dede54da2b5e810f10ceb48c2e9e0edf89e30fe"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0513,
+    0.5117,
+    0.853
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0513,
+     0.1315,
+     0.5067
+    ],
+    [
+     0.1315,
+     0.2116,
+     0.5067
+    ],
+    [
+     0.2116,
+     0.2918,
+     0.5067
+    ],
+    [
+     0.2918,
+     0.372,
+     0.5067
+    ],
+    [
+     0.372,
+     0.4521,
+     0.5067
+    ],
+    [
+     0.4521,
+     0.5323,
+     0.5067
+    ],
+    [
+     0.5323,
+     0.6125,
+     0.5067
+    ],
+    [
+     0.6125,
+     0.6927,
+     0.505
+    ],
+    [
+     0.6927,
+     0.7728,
+     0.5033
+    ],
+    [
+     0.7728,
+     0.853,
+     0.5017
+    ]
+   ],
+   "raw_path": "page-1803-0b6da50e5c8a/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "98a9662c93dc8103faf7088a4dc2432af3b009655dd723090ceafe40033a7426"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4967,
+    0.0513,
+    1.0,
+    0.853
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0513,
+     0.1315,
+     0.5067
+    ],
+    [
+     0.1315,
+     0.2116,
+     0.5067
+    ],
+    [
+     0.2116,
+     0.2918,
+     0.5067
+    ],
+    [
+     0.2918,
+     0.372,
+     0.5067
+    ],
+    [
+     0.372,
+     0.4521,
+     0.5067
+    ],
+    [
+     0.4521,
+     0.5323,
+     0.5067
+    ],
+    [
+     0.5323,
+     0.6125,
+     0.5067
+    ],
+    [
+     0.6125,
+     0.6927,
+     0.505
+    ],
+    [
+     0.6927,
+     0.7728,
+     0.5033
+    ],
+    [
+     0.7728,
+     0.853,
+     0.5017
+    ]
+   ],
+   "raw_path": "page-1803-0b6da50e5c8a/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "5f91add4e37ca145843b36e874c33be61a8fedf8ff80d7377e015043ec64ae69"
+  },
+  {
+   "label": "s1-wide",
+   "crop": [
+    0.0,
+    0.853,
+    1.0,
+    0.911
+   ],
+   "scale": 2,
+   "raw_path": "page-1803-0b6da50e5c8a/s1-wide.json",
+   "finish_reason": "stop",
+   "request_key": "99a749c54bfc8f354995bb9dbdf781ed47ae390cd3086823f8d6b7dd318296d7"
+  },
+  {
+   "label": "s2-col-left",
+   "crop": [
+    0.0,
+    0.911,
+    0.5117,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.911,
+     1.0,
+     0.5067
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  },
+  {
+   "label": "s2-col-right",
+   "crop": [
+    0.5017,
+    0.911,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.911,
+     1.0,
+     0.5067
+    ]
+   ],
+   "skipped": "no ink",
+   "finish_reason": "skipped"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "ENG [ 141 J ENG",
+   "bbox": [
+    0.0,
+    0.0513,
+    1.0,
+    0.0843
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-1803-0b6da50e5c8a:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "EN G [ 1",
+   "bbox": [
+    0.2499,
+    0.0564,
+    0.5072,
+    0.0789
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-1803-0b6da50e5c8a:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "Egraving the real connoilfeur and of polterity. Engraving in this country fuitained a heavy lofs when he died; and if the death of fo excellent an artift may be confidered as a public lofs, it is certainly the more felt with respect to Woollet, who died while he was yet improving in that excellence (x).",
+   "bbox": [
+    0.071,
+    0.0763,
+    0.5012,
+    0.1566
+   ],
+   "source": "s0-col-left",
+   "id": "page-1803-0b6da50e5c8a:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Chattelaine has been termed a mannerif in his drawings, but he muit certainly be allowed to be an excellent one: his etchings are variety itself. Perhaps in the department of etching no artift has fo happily translated the pictures of Claude de Lorraine as Francis Vivares; that is, with respect to aerial perspective, the peculiar characteristic of Claude. But his merits are not confined to this matter alone; for he followed Ruyfdale, Berghem, Gainthorough, and Cuype, with great fuccefs. He has such a free delivery of llyle, that almost every one who examines his works is irrefltibly impreffed with an idea of performing the very fame. Few artits, it has been mentioned, have excelled in the etching department. We cannot, however, omit the name of Peranezzi; who, to originality of llyle, which is apparently fpontaneous, joins a certain grandeur which had never been furpalled. He has tranlimited to potlerity fo fpirited a reprefentation of the Greek and Roman edifices and ruins, that travellers have often confelled that they have railed their ideas beyond the magnitude of the superfluectures themselves. It is certain that in works of this flu- pendous nature, a degree of ruggedness in the execution corresponds with the fullimity of the subjects; and thus produces a fill greater power over the mind, than if they had been more polished. Some have cenfured his figures, and not without cause. This defect has been ingeniously palliated by an excellent artift, Mr Bartolozzi. \"For (fail he) if the purchasers of the works of Peranezzi, get fo much for their money in the building way, the figures may be fuppofed to be given for nothing.\" DoubtfeIs thofe vaft piles of perithing grandeur, were never more judiciously preferenced to the eye, than by this affonishing artift, or better calculated to affect the mind by calling forth its molt fublime ideas.",
+   "bbox": [
+    0.1269,
+    0.1528,
+    0.4997,
+    0.5831
+   ],
+   "source": "s0-col-left",
+   "id": "page-1803-0b6da50e5c8a:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "We have another thriking influence of spirited etching in a different purfuit of the art, in the works of Ridinger, a name which brings along with it all the favage feenery of nature.",
+   "bbox": [
+    0.1259,
+    0.578,
+    0.4912,
+    0.6344
+   ],
+   "source": "s0-col-left",
+   "id": "page-1803-0b6da50e5c8a:b4"
+  },
+  {
+   "order": 5,
+   "class": "List-item",
+   "text": "\" Affembling wolves in raging troops defend.",
+   "bbox": [
+    0.1249,
+    0.6332,
+    0.4333,
+    0.6526
+   ],
+   "source": "s0-col-left",
+   "id": "page-1803-0b6da50e5c8a:b5"
+  },
+  {
+   "order": 6,
+   "class": "List-item",
+   "text": "— They fallen on the fleed and pierce his mighty heart.”",
+   "bbox": [
+    0.1244,
+    0.6482,
+    0.4907,
+    0.677
+   ],
+   "source": "s0-col-left",
+   "id": "page-1803-0b6da50e5c8a:b6"
+  },
+  {
+   "order": 7,
+   "class": "Section-header",
+   "text": "THOMSON’S _Winter._",
+   "bbox": [
+    0.3543,
+    0.6739,
+    0.4902,
+    0.6914
+   ],
+   "source": "s0-col-left",
+   "id": "page-1803-0b6da50e5c8a:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "For we shall ever find fome peculiar beauty to admire, even in the lightest productions of genius, as well as in the most perfect productions of the burin.",
+   "bbox": [
+    0.1239,
+    0.6908,
+    0.4892,
+    0.734
+   ],
+   "source": "s0-col-left",
+   "id": "page-1803-0b6da50e5c8a:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "There are few artists who do not regret, that etching was unknown to Bolfwert, who has done fo much with out its aid; from which we may easily fuppofe how much more he could have effected with this charming acquisition. For the truth of this remark we may appeal to his landscapes from Rubens, his animated portraits from Vandyke, and his productions from the Fle-",
+   "bbox": [
+    0.1229,
+    0.7296,
+    0.4887,
+    0.8242
+   ],
+   "source": "s0-col-left",
+   "id": "page-1803-0b6da50e5c8a:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "4T J",
+   "bbox": [
+    0.5046,
+    0.0607,
+    0.564,
+    0.0814
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-1803-0b6da50e5c8a:b10"
+  },
+  {
+   "order": 11,
+   "class": "Head-fragment",
+   "text": "EN G",
+   "bbox": [
+    0.6727,
+    0.062,
+    0.7759,
+    0.082
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-1803-0b6da50e5c8a:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "mith school of hifory, particularly his large print of the\ntaking down from the crofs from Rubens.",
+   "bbox": [
+    0.5144,
+    0.0807,
+    0.8845,
+    0.1114
+   ],
+   "source": "s0-col-right",
+   "id": "page-1803-0b6da50e5c8a:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "There is a fine influence of linear effect in a print of\na Flemish conversation piece by Wille. One of the\nfigures is drinking out of a glafs, and the artif has most\ndeceptively described the texture of the drinker's face\nthrough the glafs. In the fame print, a female figure\nfhews great kill in this way, even the floor is charac-\nterized by lines; and the whole strongly marks the molt\nproper mode of treating subjects of a mere local nature.\nThe beautiful print of the _Petit Phufcien_, is alfo an ad-\nmirable imitation, particularly the little pellucid globule\nwhich has just mounted from the hell. When lines are\nengraved in a square acute method of crolling, they ge-\nnerally convey the idea of hardness to the fuljed repre-\nfented. The scientific Picart feems to have been fo much\naware of this, that in a print of his engraving of a large\nmarble groupe of horles, from the animated chiffel of\nPerriere, he adopted this flyle in order to heighten the\nimitation.",
+   "bbox": [
+    0.5085,
+    0.1065,
+    0.8776,
+    0.3375
+   ],
+   "source": "s0-col-right",
+   "id": "page-1803-0b6da50e5c8a:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "Mafon’s print of Marilhal Harcourt, is one of the many\nfine efforts of portrait engraving ; and although it was\nexecuted at an early period of the art, it abounds with\nno final degree of tafte. The celebrated print (called\nthe table-cloth) from Titian, of the Laft Supper, alfo\ncontains a considerable degree of linear discrimination,\nalthough he sometimes carries it to affectation. He is\nrather fingular in his mode of engraving hair. Yet the\nportraits of Marilhal Harcourt and Brilafiere the fecre-\ntary may be deemed exceptions.",
+   "bbox": [
+    0.5061,
+    0.3319,
+    0.8712,
+    0.464
+   ],
+   "source": "s0-col-right",
+   "id": "page-1803-0b6da50e5c8a:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "Wille, by the magic of his tooling, is too apt at times\nto give his works indiriminately the appearance of\nbronze ; and we frequently find the fame in the figures\nof Balechow: but it feems to have been referred for\nStrange to give the foltnels of carnation to copper ; and\nto Woollet, to give force and clearnels with diferimi-\nnating tafle. Bartolozzi in his lines elegance delicacy\nand drawing ; while the works of Audran teem with\nboldnefs and implicity. In the prints of Sir Robert\nStrange, the greatest excellence is perhaps his rich and\nharmonious tones, as well as the whole effect, which is\nfupported by an exprelive flyle ; which he feems in a\ngreat measure to have invented for his mot favourite\npainters, Corregio, Titian, Guido, and Guerchino. The\nfoltnels, the gullo, and the flowing draperies in the\nworks of thefe matters, were his delight. His sleeping\nCupid from Guido, and the prints of the Venus and\nDanae from Titian, will ever be efteemed as chef\nd'avures in the linear art.",
+   "bbox": [
+    0.5036,
+    0.4578,
+    0.8708,
+    0.7027
+   ],
+   "source": "s0-col-right",
+   "id": "page-1803-0b6da50e5c8a:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "Having thus attempted to fulfil our original intention\nof discriminating the motif expreditive combinations of\nlines, and of analyzing and illustrating their various\npowers and effects in engraving, we shall now conclude\nthese observations; and if, from the nature of the fub-\nject, and from the limits of the sketch, we have failed\nin marking every brilliant flat in the galaxy of the art;\nit mult at leaft be acknowledged, that we have not\nomitted some of those of the fruit magnitude.",
+   "bbox": [
+    0.5006,
+    0.6958,
+    0.8678,
+    0.8173
+   ],
+   "source": "s0-col-right",
+   "id": "page-1803-0b6da50e5c8a:b16"
+  },
+  {
+   "order": 17,
+   "class": "Page-footer",
+   "text": "_ENGRAFING upon Glafr._ See GLAS, Engraving on.\nENGRAVING",
+   "bbox": [
+    0.5168,
+    0.8111,
+    0.8614,
+    0.8423
+   ],
+   "source": "s0-col-right",
+   "id": "page-1803-0b6da50e5c8a:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "(E) Although we are now contemplating linear engraving, it is but proper here to observe, that chalk en-\ngraving, mezzotinto, and aquatinta, have allo made ample improvements in this country, in their various flyles of\nexcellence.",
+   "bbox": [
+    0.1104,
+    0.853,
+    0.8643,
+    0.9102
+   ],
+   "source": "s1-wide",
+   "id": "page-1803-0b6da50e5c8a:b18"
+  }
+ ]
+}

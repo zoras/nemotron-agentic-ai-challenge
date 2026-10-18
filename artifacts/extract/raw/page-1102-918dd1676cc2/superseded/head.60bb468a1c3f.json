@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "60bb468a1c3fc105a5204b59aaecbd4cc13bd7c07aa3ceb1cf8fab49eba2954e",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "1df5d513222a3e2c64cae8e04a1e314dba9e99df644cadfcec58953ce23c858b",
+  "image_bytes": 106846,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1102",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.052,
+   1.0,
+   0.0911
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 207,
+  "completion_tokens": 43,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.18,
+ "created_at": "2026-10-18T11:19:44+00:00",
+ "content": "<x_0.0><y_0.0>182 C O M C O M Comines a matter of the utmost consequence to the success of the The comitta curisita equal in origin to the division which<x_0.999><y_0.9875><class_Formula>",
+ "reply": {
+  "id": "chatcmpl-d6887ed9-8b72-4a7c-9b2d-049a0deb2838",
+  "object": "chat.completion",
+  "created": 1792322384,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>182 C O M C O M Comines a matter of the utmost consequence to the success of the The comitta curisita equal in origin to the division which<x_0.999><y_0.9875><class_Formula>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 207,
+   "completion_tokens": 43,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

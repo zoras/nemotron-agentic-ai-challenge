@@ -1,0 +1,396 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1327",
+ "row_index": 1327,
+ "volume_id": "149981670",
+ "filename": "page-1327-7d41b1db21d5.jpg",
+ "image_sha256": "7d41b1db21d5e291f0cbf58aa92f8820d11602e700d5e337935c65b9d75b6211",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.09412,
+  "median_grey": 232,
+  "layout_body_chars": 6256,
+  "layout_pictures": 1
+ },
+ "running_head": "H U E [ 70",
+ "layout_raw": "page-1327-7d41b1db21d5/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0,
+    0.4617,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.4567
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.455
+    ],
+    [
+     0.1667,
+     0.25,
+     0.455
+    ],
+    [
+     0.25,
+     0.3333,
+     0.455
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.455
+    ],
+    [
+     0.4167,
+     0.5,
+     0.455
+    ],
+    [
+     0.5,
+     0.5833,
+     0.455
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.455
+    ],
+    [
+     0.6667,
+     0.75,
+     0.455
+    ],
+    [
+     0.75,
+     0.8333,
+     0.455
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.455
+    ],
+    [
+     0.9167,
+     1.0,
+     0.455
+    ]
+   ],
+   "raw_path": "page-1327-7d41b1db21d5/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "d25605be57ad6c38fdbe070e343ed1682a486433819405c6f25019e7ccc22e2c"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.45,
+    0.0,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.4567
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.455
+    ],
+    [
+     0.1667,
+     0.25,
+     0.455
+    ],
+    [
+     0.25,
+     0.3333,
+     0.455
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.455
+    ],
+    [
+     0.4167,
+     0.5,
+     0.455
+    ],
+    [
+     0.5,
+     0.5833,
+     0.455
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.455
+    ],
+    [
+     0.6667,
+     0.75,
+     0.455
+    ],
+    [
+     0.75,
+     0.8333,
+     0.455
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.455
+    ],
+    [
+     0.9167,
+     1.0,
+     0.455
+    ]
+   ],
+   "raw_path": "page-1327-7d41b1db21d5/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "2468519f1200a91ce463f40379c4f2fca5a64197e7dc228f6438ed9ed21c7025"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Page-header",
+   "text": "H U E [ 70",
+   "bbox": [
+    0.1731,
+    0.0391,
+    0.4612,
+    0.0625
+   ],
+   "source": "s0-col-left",
+   "id": "page-1327-7d41b1db21d5:b0"
+  },
+  {
+   "order": 1,
+   "class": "Margin-note",
+   "text": "Huefa\nHuet.",
+   "bbox": [
+    0.0072,
+    0.0586,
+    0.074,
+    0.107
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-left",
+   "id": "page-1327-7d41b1db21d5:b1"
+  },
+  {
+   "order": 2,
+   "class": "Caption",
+   "text": "Plate\nRCXXXVI",
+   "bbox": [
+    0.0104,
+    0.1742,
+    0.069,
+    0.1977
+   ],
+   "source": "s0-col-left",
+   "id": "page-1327-7d41b1db21d5:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "der begins to fill: it rifes gradually to the surface, and gradually encreafes its height, fmoking ama- zingly, and flinging up great itones. After attain- ing its greatest height it gradually finks till it to- tally difappears. Boiling jetr d'eaux and boiling springs are frequent in molt parts of the ifland. In many parts they are applied to the culinary ufes of the natives. The molt capital is that which is called Geyer or Geyfer, in a plain rifting into fmall hills, and in the midit of an amphitheatre, bounded by the molt mag- nificent and various-fhaped icy mountains; among which the three-headed Hecla foara pre-eminent. See ICELAND, N° 4——Thefe buers are not confined to the land; they rife in the very fea, and form fealding fountains amidft the waves. Their distance from the land is unknown; but the new volcanic life, twelve miles off the point of Reickenes, emitting fire and fmoke, proves that the fubterraneous fires and waters extend to that space; for thofe awful effects arife from the united fury of thefe two elements.",
+   "bbox": [
+    0.0735,
+    0.0617,
+    0.4509,
+    0.332
+   ],
+   "source": "s0-col-left",
+   "id": "page-1327-7d41b1db21d5:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "HUESCA, an ancient and confiderable town of Spain, in the kingdom of Arragon, with a bifhop's fee and an univerity. It is feated on the Ifluela, in a foil producing excellent wine, in W. Long. 0. 13. N. Lat. 40. 2.",
+   "bbox": [
+    0.073,
+    0.3312,
+    0.4513,
+    0.3984
+   ],
+   "source": "s0-col-left",
+   "id": "page-1327-7d41b1db21d5:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "HUESCAR, or GUESCAR, a town of Spain, in the kingdom of Granada, feated on a plain in W. Long. 1. 45. N. Lat. 37. 32.",
+   "bbox": [
+    0.0726,
+    0.3977,
+    0.4518,
+    0.4391
+   ],
+   "source": "s0-col-left",
+   "id": "page-1327-7d41b1db21d5:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "HUESNE, or HUENA, a fmall ifland in the Bal- tic Sea, in the Sound, where was the famous obfer- vatory of Tycho Brahe. E. Long. 13. 5. N. Lat. 55. 54.",
+   "bbox": [
+    0.0721,
+    0.4383,
+    0.4504,
+    0.4938
+   ],
+   "source": "s0-col-left",
+   "id": "page-1327-7d41b1db21d5:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "HUET (Peter Daniel), a very learned French wri- ter, born at Caen in Normandy, on the 8th of Fe- bruary 1630. He difcovered, from his infancy, a great inclination to the study of polite literature and the sciences, and at first applied himself to the law; but Des Cartes’s principles, and Bochart’s facred geo- graphy, made him change his studies for thofe of philosophy, mathematics, the languages, and antiqui- ties. His admiration for Bochart made him defirous of knowing him. He contracted a very strict friend- ship with him, and accompanied that learned man to Sweden. Here Chriflina would have engaged him in her service; but he, fentible of her inconflant temper, returned to France. All he brought with him was a copy of a MS. of Origen, which he trancribed at Stockholm. He refufed feveral offers from Chriflina after the abdicated and went to Rome, and from Gu- llavus her fucceffor. In 1670, Mr Boffuet being appointed by the king preceptor to the dauphin, his majelly chofe Mr Huet for his colleague, with the title of _fab preceptor to the prince._ It was he that formed the plan of the commentaries _in ufum Del- phini_, and directed the execution. His fentiments of piety determined him to enter into holy orders, which he did at the age of 46. Soon after this, he was presented by the king to the abbey of Aunay; and in 1685 was nominated to the bifhopric of Soiffons, which he exchanged for the fee of Avranches. After governing that diocefe ten years, he refigned, and was made abbot of Fontenay near Caen. His love to his native place determined him to fix there. But law- fuits coming upon him, he retired to Paris, and lodged among the Jefuits in the _Maifon Profelfs_, whom he",
+   "bbox": [
+    0.0694,
+    0.4914,
+    0.4495,
+    0.9383
+   ],
+   "source": "s0-col-left",
+   "id": "page-1327-7d41b1db21d5:b7"
+  },
+  {
+   "order": 8,
+   "class": "Title",
+   "text": "7 J H U G",
+   "bbox": [
+    0.4548,
+    0.0406,
+    0.7491,
+    0.0617
+   ],
+   "source": "s0-col-right",
+   "id": "page-1327-7d41b1db21d5:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "hal made heirs to his library. A fevere diflemper weakened his body extremely, but not the vivacity of his genius: he wrote his own life in a very elegant flyle; and died in 1721, aged 91. He was a man of very agreeable conversation; and of great probity, as well as immense crudition.—The following are the titles of his principal works. 1. De claris interpretibus, et de optino genre interpretandi. 2. An edition of Origen's commentaries on the holy Scriptures, in Greek and Latin. 3. A treatife on the origin of the Romans. 4. Denonfratio evangelica, folio. 5. Quelliones Alnetana de concordia rationis et fidei. 6. Of the situation of the terrestrial paradife, in French. 7. A history of the commerce and navigation of the ancients, which has been translated into Englifh. 8. Commentarius de rebus ad cum perti-nentibus. 9. Huetiana. 10. Latin and Greek verfes, &c.",
+   "bbox": [
+    0.4564,
+    0.0609,
+    0.8362,
+    0.3055
+   ],
+   "source": "s0-col-right",
+   "id": "page-1327-7d41b1db21d5:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "HUGHES (John), an ingenious and polite wri-ter, was born in 1677. In the earliest parts of his youth, he cultivated the filter-arts, poetry, drawing, and mufic, in each of which he by turns made a considerable progrefs; but followed thofe and his other studies only as agreeable amufements, under frequent confinement on account of his ill fate of health. The lord Chancellor Cowper made him fecretary for the commitions of the peace without his knowledge, and ditinguilhed him with singular marks of his eileem. He continued in the fame employment under the card of Macclesfield, and held it to the day of his death; which happened in 1719, the very night in which his tragedy, intitled _The flege of Damafeu_, was first ac-ted. He was then 42. He tranllated Fontenelle’s dialogues of the dead, Vertot’s revolutionos of Portu-gal, and the letters of Abelard and Eloifa. He gave a very accurate edition of Spencer’s works, with his life, a gloffary, and remarks; and wrote several papers in the Tatler, Spectator, and Guardian. Mr Duncombe, who married his filter, collected his poems and elays in 2 vols 12mo, in 1735.",
+   "bbox": [
+    0.457,
+    0.3031,
+    0.8357,
+    0.6016
+   ],
+   "source": "s0-col-right",
+   "id": "page-1327-7d41b1db21d5:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "HUGHLY, a town of Afia, in the kingdom of Bengal, feated on the molt weiterly branch of the river Ganges. It is of large extent, reaching about two miles along the river-fide, and drives a great trade in all the commodities of that country; affording rich cargoes for 50 or 60 fhips annually, beides what is brought on carriages to the neighbouring towns. Saltpetre is brought hither from Patnia in veffels above 50 yards long and five broad. The inhabitants are chiefly Indians; but there are alfo Portuguefe, Eng-lith, and other Europeans. E. Long 87. 55. N. Lat. 22. 0.",
+   "bbox": [
+    0.4554,
+    0.5984,
+    0.834,
+    0.7602
+   ],
+   "source": "s0-col-right",
+   "id": "page-1327-7d41b1db21d5:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "HUGO CAPET, chief of the third race of the king of France, being count of Paris and Orleans; he was raised to the throne for his military valour and public virtues in 987. See FRANCE, n 38.",
+   "bbox": [
+    0.4543,
+    0.7578,
+    0.8249,
+    0.8141
+   ],
+   "source": "s0-col-right",
+   "id": "page-1327-7d41b1db21d5:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "HUGONIA, in botany : A genus of the decandria order, belonging to the monadelphis clafs of plants; and in the natural method ranking with thofe of which the order is doubtful. The corolla is pentapetalous; the fruit is a plum with a triated kernel.",
+   "bbox": [
+    0.4537,
+    0.8125,
+    0.8254,
+    0.882
+   ],
+   "source": "s0-col-right",
+   "id": "page-1327-7d41b1db21d5:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "HUGUENOTS, an appellation given by way of contempt to the reformed or Protectant Calvinifts of France.",
+   "bbox": [
+    0.4532,
+    0.8805,
+    0.826,
+    0.9211
+   ],
+   "source": "s0-col-right",
+   "id": "page-1327-7d41b1db21d5:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "The name had its firit rife in 1560; but authors are",
+   "bbox": [
+    0.4683,
+    0.9203,
+    0.8244,
+    0.9367
+   ],
+   "source": "s0-col-right",
+   "id": "page-1327-7d41b1db21d5:b15"
+  },
+  {
+   "order": 16,
+   "class": "Page-footer",
+   "text": "4 T 2 net",
+   "bbox": [
+    0.6235,
+    0.9352,
+    0.8238,
+    0.9508
+   ],
+   "source": "s0-col-right",
+   "id": "page-1327-7d41b1db21d5:b16"
+  }
+ ]
+}

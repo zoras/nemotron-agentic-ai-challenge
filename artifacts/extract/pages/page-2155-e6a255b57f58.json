@@ -1,0 +1,595 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2155",
+ "row_index": 2155,
+ "volume_id": "149977873",
+ "filename": "page-2155-e6a255b57f58.jpg",
+ "image_sha256": "e6a255b57f58111cfacbee95ebd743a4700db1eaef4feff1f5e2abd0bcce74e7",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.05882,
+  "median_grey": 227,
+  "layout_body_chars": 4533,
+  "layout_pictures": 1
+ },
+ "running_head": "B L I 301 B L",
+ "layout_raw": "page-2155-e6a255b57f58/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0325,
+    1.0,
+    0.0624
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2155-e6a255b57f58/head.json",
+   "finish_reason": "stop",
+   "request_key": "d9fc1577827bfee9333fbbe819cbe3fb3c68a78153f2fd3b571db075f407803b"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0325,
+    0.4617,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0325,
+     0.1131,
+     0.45
+    ],
+    [
+     0.1131,
+     0.1938,
+     0.445
+    ],
+    [
+     0.1938,
+     0.2744,
+     0.4433
+    ],
+    [
+     0.2744,
+     0.355,
+     0.4567
+    ],
+    [
+     0.355,
+     0.4356,
+     0.455
+    ],
+    [
+     0.4356,
+     0.5162,
+     0.4567
+    ],
+    [
+     0.5162,
+     0.5969,
+     0.4567
+    ],
+    [
+     0.5969,
+     0.6775,
+     0.4567
+    ],
+    [
+     0.6775,
+     0.7581,
+     0.455
+    ],
+    [
+     0.7581,
+     0.8387,
+     0.4567
+    ],
+    [
+     0.8387,
+     0.9194,
+     0.4567
+    ],
+    [
+     0.9194,
+     1.0,
+     0.4567
+    ]
+   ],
+   "raw_path": "page-2155-e6a255b57f58/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "33c991d176aa7c4c853309e47e694f0e71ae13d2ee419c3f5b96ab437d61e270"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4383,
+    0.0325,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0325,
+     0.1131,
+     0.45
+    ],
+    [
+     0.1131,
+     0.1938,
+     0.445
+    ],
+    [
+     0.1938,
+     0.2744,
+     0.4433
+    ],
+    [
+     0.2744,
+     0.355,
+     0.4567
+    ],
+    [
+     0.355,
+     0.4356,
+     0.455
+    ],
+    [
+     0.4356,
+     0.5162,
+     0.4567
+    ],
+    [
+     0.5162,
+     0.5969,
+     0.4567
+    ],
+    [
+     0.5969,
+     0.6775,
+     0.4567
+    ],
+    [
+     0.6775,
+     0.7581,
+     0.455
+    ],
+    [
+     0.7581,
+     0.8387,
+     0.4567
+    ],
+    [
+     0.8387,
+     0.9194,
+     0.4567
+    ],
+    [
+     0.9194,
+     1.0,
+     0.4567
+    ]
+   ],
+   "raw_path": "page-2155-e6a255b57f58/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "3a3651e409531d2cc8a5d158b8ff68beec1d78674cab76298229f7f146ca62c7"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "B L I 301 B L",
+   "bbox": [
+    0.0,
+    0.0325,
+    1.0,
+    0.0624
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2155-e6a255b57f58:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "B L I",
+   "bbox": [
+    0.1763,
+    0.0378,
+    0.2773,
+    0.0575
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "I 3",
+   "bbox": [
+    0.3986,
+    0.0386,
+    0.4536,
+    0.0612
+   ],
+   "parse_class": "Text",
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "Blod. that fee them, until they are taught by a maller or tutor; I have (for the good-will I bear to fuch unfortunate perions) contrived the following table;",
+   "bbox": [
+    0.0,
+    0.0582,
+    0.4441,
+    0.1035
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b3"
+  },
+  {
+   "order": 4,
+   "class": "Caption",
+   "text": "_A New Music-TABLE_",
+   "bbox": [
+    0.2737,
+    0.1112,
+    0.4454,
+    0.1285
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b4"
+  },
+  {
+   "order": 5,
+   "class": "Picture",
+   "text": "A\nG\nF\nE\nD\nC\nB\nA\nA\nG\nF\nE\nE\nD\nC",
+   "bbox": [
+    0.1682,
+    0.1308,
+    0.4612,
+    0.3091
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b5"
+  },
+  {
+   "order": 6,
+   "class": "Section-header",
+   "text": "EXPLANATION.",
+   "bbox": [
+    0.1912,
+    0.3174,
+    0.3174,
+    0.3333
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "\" Let A—B be a fmooth board, 3 or 4 feet long,\n1 inch thick, and 9 inches wide, with 5 figure ledges\nglued thereon. each being half an inch afunder, half an\ninch wide, and half an inch high ; which rifling ledges\nreprefent our 5 lines of mutic, and their fpaces: and\nthe two outward lines, being made a little lower, may\nferve as leger lines, on occasion. The cyphers repre-\nfent fo many holes bored into every line and fpace, half\nan inch afunder ; wherein pegt of different hapes are\nto be fet, to reprefent the feveral forts of notes and\ncharacters of the tune : which pegs the blind perfon\nmay know by feeling, as well as he does his keys of\nthe organ or harpfichord: fo that, by keeping his fin-\ngers on the 5 lines, he feels the feveral pegs as they\ncome on, and are fet to reprefent the feveral forts of\nnotes, on both line and fpace ; whilst his right hand\nflrikes the respective key, &c. he first knowing the\nnames of all his keys, his lines, fpaces, and the mark\nof every peg. Let each peg be about half an inch\nhigh, when fet in very fall. [N. B. The blind per-\nton mult firlt be taught the names of the above lines\nand fpaces in both the treble and bafs cliffs ; and that\nhe mult feel his treble with his right hand, and his\nbafs with the left hand ; each being contrary, as you\nmay fee by the letters of the above table, A and B ;\nand mult learn each part [eparate.]",
+   "bbox": [
+    0.0631,
+    0.3311,
+    0.4459,
+    0.6818
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "\" Of pegs, he mult have a great number of every\nfold, to fet his tune with, which he may mark as fol-\nlows :",
+   "bbox": [
+    0.0658,
+    0.6802,
+    0.445,
+    0.7218
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "For a _Senibreve_, 4 top-notches.",
+   "bbox": [
+    0.0672,
+    0.7264,
+    0.2858,
+    0.7415
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "_Minim._ 2 top-notches.",
+   "bbox": [
+    0.106,
+    0.7407,
+    0.2669,
+    0.7551
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "_Crotchet_, 1 top-notch.",
+   "bbox": [
+    0.1055,
+    0.7544,
+    0.262,
+    0.768
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "_Qaaver_, one corner cut off.",
+   "bbox": [
+    0.1064,
+    0.7672,
+    0.3016,
+    0.7808
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "_Semiquaver_, 2 corners cut off.",
+   "bbox": [
+    0.105,
+    0.7815,
+    0.3179,
+    0.7952
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "_Demijemiquaver_, all 4 corners cut off.",
+   "bbox": [
+    0.1068,
+    0.7944,
+    0.3693,
+    0.8087
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b14"
+  },
+  {
+   "order": 15,
+   "class": "Text",
+   "text": "_Refls._ a notch in the corner.",
+   "bbox": [
+    0.096,
+    0.808,
+    0.2953,
+    0.8216
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "A _Plat_, 1 notch on the ride.",
+   "bbox": [
+    0.0965,
+    0.8208,
+    0.303,
+    0.8345
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b16"
+  },
+  {
+   "order": 17,
+   "class": "Text",
+   "text": "_Sharp_, 2 notches on the fide.",
+   "bbox": [
+    0.1046,
+    0.8337,
+    0.3098,
+    0.8481
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "_Point_, 3 notches on the fide.",
+   "bbox": [
+    0.1042,
+    0.8473,
+    0.308,
+    0.8616
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "_Bar_, a flat thin top.",
+   "bbox": [
+    0.1037,
+    0.8609,
+    0.2534,
+    0.8753
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "_Repeat._ a tharp-pointed top, &c. &c. &c.",
+   "bbox": [
+    0.1032,
+    0.8745,
+    0.3954,
+    0.8896
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b20"
+  },
+  {
+   "order": 21,
+   "class": "Text",
+   "text": "But it is belt for every performer to make\nand mark his own pegs; and deliver them one",
+   "bbox": [
+    0.0667,
+    0.8927,
+    0.4428,
+    0.9259
+   ],
+   "source": "s0-col-left",
+   "id": "page-2155-e6a255b57f58:b21"
+  },
+  {
+   "order": 22,
+   "class": "Head-fragment",
+   "text": "O I B LI",
+   "bbox": [
+    0.4471,
+    0.0363,
+    0.734,
+    0.0582
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2155-e6a255b57f58:b22"
+  },
+  {
+   "order": 23,
+   "class": "Text",
+   "text": "that, by feeling, they may underfland notes, and learn any tune that shall be fet them, in their matter’s abfence.",
+   "bbox": [
+    0.4482,
+    0.0559,
+    0.8327,
+    0.1005
+   ],
+   "source": "s0-col-right",
+   "id": "page-2155-e6a255b57f58:b23"
+  },
+  {
+   "order": 24,
+   "class": "Text",
+   "text": "_for fuch as are Borno._",
+   "bbox": [
+    0.4449,
+    0.1112,
+    0.6232,
+    0.1293
+   ],
+   "source": "s0-col-right",
+   "id": "page-2155-e6a255b57f58:b24"
+  },
+  {
+   "order": 25,
+   "class": "Picture",
+   "text": "C\nB\nB\nA\nG\nF-\nE\nD-\nB\nA\nB\nC\nC\nA\nG\nF\nE",
+   "bbox": [
+    0.4394,
+    0.1315,
+    0.723,
+    0.3077
+   ],
+   "source": "s0-col-right",
+   "id": "page-2155-e6a255b57f58:b25"
+  },
+  {
+   "order": 26,
+   "class": "Text",
+   "text": "by one as they are called for by the perfon that fet his tune.\"",
+   "bbox": [
+    0.4526,
+    0.3182,
+    0.8322,
+    0.3462
+   ],
+   "source": "s0-col-right",
+   "id": "page-2155-e6a255b57f58:b26"
+  },
+  {
+   "order": 27,
+   "class": "Text",
+   "text": "Thus far our author. We have already complained, that Tanfure's Musical Notation is imperfect; and perhaps every table or instrument of the fame kind may be liable to the fame centure, as not being comprehen- five of all the characters in the written language of mu- fic, fo that the blind reader may find no deficiency in acquiring any leffon: yet as the cufhion of Mr Cheefe appears to have more powers than any other infrutment for the fame purpofe that has hitherto occurred to our observation, though attended with many formidable objections, we here infer it. It may poffibly, however, be belt for every blind adept in the mufical art, after being fufficiently infructed in its theoretical and practical principles, to invent for himself a table, by which may be expreffed all the various phenomena of mutic, in which, by varying the forms and potitions of his peggs, he may habitually affocate them with founds, durations, relts, intervals, chords, cadences, da capos, repeats, and all the various graces which give animation and expreffion to mufical founds: for thus, being the immediate creatures of his own imagination, they will more easily become familiar to his memory, and be more strongly and readily affiliated with the phenomena which they are intended to fignify, than if he had affumed the inventions of any other.",
+   "bbox": [
+    0.4514,
+    0.3469,
+    0.8344,
+    0.6818
+   ],
+   "source": "s0-col-right",
+   "id": "page-2155-e6a255b57f58:b27"
+  },
+  {
+   "order": 28,
+   "class": "Text",
+   "text": "_Mr Cheefe's description of his machine for teaching Cheefe's mufe to people deprived of fight, and to enable them to machine, preserve their compositions, in the alt of compelling, without the influence of a copsift.-- \" That part of the macchine which reprefents the book, or paper, is a final culture fluffed, on a little frame; along which, is fewed a number of pack/thread frings at equal differences from each other; thefe reprefernt the lines in a mufe book : the five which compote the flare, are made of large twine; and thofe which reprefernt the leger or occasional lines, drawn through the heads of the notes, where the mufe exceeds the compafs of the established flave, are made of fnall twine, and are on this machine of the fame length as the others.",
+   "bbox": [
+    0.452,
+    0.681,
+    0.8349,
+    0.8685
+   ],
+   "source": "s0-col-right",
+   "id": "page-2155-e6a255b57f58:b28"
+  },
+  {
+   "order": 29,
+   "class": "Text",
+   "text": "\" If the practitioner only wifies to write barpfichord mufc, the cufhion may be what length he pleafes, and about five or fix inches wide: the things muft be fewed in the following order ; beginning with the first",
+   "bbox": [
+    0.4531,
+    0.8677,
+    0.8354,
+    0.9237
+   ],
+   "source": "s0-col-right",
+   "id": "page-2155-e6a255b57f58:b29"
+  },
+  {
+   "order": 30,
+   "class": "Caption",
+   "text": "6\nPl XCVIII.\nbg.9.",
+   "bbox": [
+    0.8332,
+    0.6712,
+    0.9073,
+    0.7294
+   ],
+   "source": "s0-col-right",
+   "id": "page-2155-e6a255b57f58:b30"
+  }
+ ]
+}

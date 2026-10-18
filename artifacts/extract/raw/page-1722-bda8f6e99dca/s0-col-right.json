@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "a935ab955560229df60fcc263579eed62afe682787f2fffc198c4c0193d1b50d",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "202417bb60be32a3c39a9885d881f301d813f772a285dea12a296e2764652fc0",
+  "image_bytes": 2247846,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1722",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5033,
+   0.0106,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0106,
+    0.093,
+    0.5083
+   ],
+   [
+    0.093,
+    0.1755,
+    0.5083
+   ],
+   [
+    0.1755,
+    0.258,
+    0.5083
+   ],
+   [
+    0.258,
+    0.3404,
+    0.5083
+   ],
+   [
+    0.3404,
+    0.4229,
+    0.5083
+   ],
+   [
+    0.4229,
+    0.5053,
+    0.5083
+   ],
+   [
+    0.5053,
+    0.5877,
+    0.5083
+   ],
+   [
+    0.5877,
+    0.6702,
+    0.5083
+   ],
+   [
+    0.6702,
+    0.7527,
+    0.5083
+   ],
+   [
+    0.7527,
+    0.8351,
+    0.5083
+   ],
+   [
+    0.8351,
+    0.9175,
+    0.5083
+   ],
+   [
+    0.9175,
+    1.0,
+    0.5083
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2822,
+  "completion_tokens": 1150,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.75,
+ "created_at": "2026-10-18T11:20:18+00:00",
+ "content": "<x_0.0059><y_0.0047>54 | A R S<x_0.5439><y_0.0281><class_Title>\n\n<x_0.0234><y_0.0273>number of thefe is fo final, that compared with the ful-\nphurated minerals, they almoft vanib.<x_0.7979><y_0.057><class_Text>\n\n<x_0.0215><y_0.0563>This mineral, to troublefome to the mineralogift,\noccationed the alchemitts to fuipect the exilience of a\ncertain arlenical principle indifpenably neceelary to the\nperfection of every metal. Even as late as 1773 a\nquetition to this purpole was propoiled by the Royal\nAcademy of Sciences at Berlin : the prize was adjud-\nged to M: Monnet, who in his anwer confidered\narfenic as a femi-metal of a peculiar kind, which is\nfo far from contituting any effential part of metals,\nthat its presence is always attended with inconvenien-\nces, either by carrying off the metal as it flies away, or\nfpoiling the mafs in which it remains. Thefe confide-\nrations, however, do not hinder us from afferting that\nthe acid of arfenic, like others, is a mineralizing fub-\nflance, if at any time it happens to meet with metals\nin the bowels of the earth, and to unite with it in that\nform.<x_0.7988><y_0.2859><class_Text>\n\n<x_0.0186><y_0.2867>Arfenic in its pure flate is well known to be a moft\ndefructive and deadly poifon, for which the art of me-\ndicine has farcely as yet afforded a cure. Mr Berg-\nman is of opinion that it acts as an highly corrotive\nacid, even when applied externally. He also tells us,\nthat the dry acid is more deffructive than white arfer-\nnic; the regulus and realgar lefs fo. From an expe-\nriment of Mr Scheele, however, in which eight grains\nof arlenical acid were given to a cat, it does not ap-\npear that it acts more violently than white arfenic.\nThe extreme danger attending this fubflance when ta-\nken into the human body, arises from its infolubility,\nand the difficulty of decompounding it; for there can\nbut little danger arise from a liquid, unlefs like corro-\nfive acids, it should at once burn the fubflance of the\nflomach like fire; or, like laurel water fuipend the ac-\ntion of the nervous tyfem. Corrofive fublimate, folu-\ntions of mercury in aquafortis, &c. will as certainly\npoifon as arfenic; but they are much lefs difficult to\ncure, because any alkaline fubflance will certainly dec-\ncompound them and deflroy their deleterious efficacy.\nArfenic, on the contrary, cannot be decompounded,\nnor united with any known fubflance, at least in fuch\na short time as the exigence of the cafe we speak of\nwould require, without a considerable degree of heat.\nIt therefore remains in the flomach, continually exerting its milchievous qualities, unlefs it can be dichar-\nged by vomiting.<x_0.7998><y_0.6672><class_Text>\n\n<x_0.0146><y_0.6656>The symptoms attending arfenic when fwallowed\nare, naulea, ficknefs, and retching to vomit, about half\nan hour after it is taken. There are followed by vio-\nlent vomitings, hiccups, and pains in the flomach and\nbowels. Convultions and palties of the limbs pretently\nfucceed, with intense heats, cold fweats, palpitations of\nthe heart, extreme anxiety, profiltration of strength,\nthirft and drynefs of the mouth and throat, lofs of rea-\nton, and at laff death. If the quantity taken was con-\nfidderable, the patient dies in fever or eight hours after\ntaking it; and the flomach and intellines are found,\nupon diflection, to be corroded and perforated. When\nthis is not the cafe, violent putrefactive fymptoms\nfoon enfue after arfenic is fwallowed; for the bodies of\nthose who are poisoned by it generally have abundance\nof red or purple fpots even before death. It remark-\nably inflames the coats of the flomach, and the putre-<x_0.7881><y_0.8969><class_Text>\n\n<x_0.793><y_0.0289>Arfenic.\n5 An arfeni-\ncal pria-\nciple cro-\nrecouly fup-\npofed necef-\nfury for the\nperfection\nof metals.<x_0.9443><y_0.1523><class_Caption>\n\n<x_0.7949><y_0.2203>6 Acid of\narfenic a\nminerali-\nzing fub-\nflance.<x_0.917><y_0.2883><class_Caption>\n\n<x_0.7939><y_0.2875>7 Poifonous\nqualities of\narfenic and\nits acid.<x_0.9326><y_0.3445><class_Caption>\n\n<x_0.7959><y_0.3992>8 Why it is\nmore dan-\ngerous than\nothers.<x_0.9404><y_0.4578><class_Caption>\n\n<x_0.7891><y_0.6586>9 Symptoms\nattending\nthe fwal-\nlowing of\narfenic.<x_0.9199><y_0.7258><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-d153dd49-78b5-4ccc-9c74-6f7b159b32ef",
+  "object": "chat.completion",
+  "created": 1792322417,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0059><y_0.0047>54 | A R S<x_0.5439><y_0.0281><class_Title>\n\n<x_0.0234><y_0.0273>number of thefe is fo final, that compared with the ful-\nphurated minerals, they almoft vanib.<x_0.7979><y_0.057><class_Text>\n\n<x_0.0215><y_0.0563>This mineral, to troublefome to the mineralogift,\noccationed the alchemitts to fuipect the exilience of a\ncertain arlenical principle indifpenably neceelary to the\nperfection of every metal. Even as late as 1773 a\nquetition to this purpole was propoiled by the Royal\nAcademy of Sciences at Berlin : the prize was adjud-\nged to M: Monnet, who in his anwer confidered\narfenic as a femi-metal of a peculiar kind, which is\nfo far from contituting any effential part of metals,\nthat its presence is always attended with inconvenien-\nces, either by carrying off the metal as it flies away, or\nfpoiling the mafs in which it remains. Thefe confide-\nrations, however, do not hinder us from afferting that\nthe acid of arfenic, like others, is a mineralizing fub-\nflance, if at any time it happens to meet with metals\nin the bowels of the earth, and to unite with it in that\nform.<x_0.7988><y_0.2859><class_Text>\n\n<x_0.0186><y_0.2867>Arfenic in its pure flate is well known to be a moft\ndefructive and deadly poifon, for which the art of me-\ndicine has farcely as yet afforded a cure. Mr Berg-\nman is of opinion that it acts as an highly corrotive\nacid, even when applied externally. He also tells us,\nthat the dry acid is more deffructive than white arfer-\nnic; the regulus and realgar lefs fo. From an expe-\nriment of Mr Scheele, however, in which eight grains\nof arlenical acid were given to a cat, it does not ap-\npear that it acts more violently than white arfenic.\nThe extreme danger attending this fubflance when ta-\nken into the human body, arises from its infolubility,\nand the difficulty of decompounding it; for there can\nbut little danger arise from a liquid, unlefs like corro-\nfive acids, it should at once burn the fubflance of the\nflomach like fire; or, like laurel water fuipend the ac-\ntion of the nervous tyfem. Corrofive fublimate, folu-\ntions of mercury in aquafortis, &c. will as certainly\npoifon as arfenic; but they are much lefs difficult to\ncure, because any alkaline fubflance will certainly dec-\ncompound them and deflroy their deleterious efficacy.\nArfenic, on the contrary, cannot be decompounded,\nnor united with any known fubflance, at least in fuch\na short time as the exigence of the cafe we speak of\nwould require, without a considerable degree of heat.\nIt therefore remains in the flomach, continually exerting its milchievous qualities, unlefs it can be dichar-\nged by vomiting.<x_0.7998><y_0.6672><class_Text>\n\n<x_0.0146><y_0.6656>The symptoms attending arfenic when fwallowed\nare, naulea, ficknefs, and retching to vomit, about half\nan hour after it is taken. There are followed by vio-\nlent vomitings, hiccups, and pains in the flomach and\nbowels. Convultions and palties of the limbs pretently\nfucceed, with intense heats, cold fweats, palpitations of\nthe heart, extreme anxiety, profiltration of strength,\nthirft and drynefs of the mouth and throat, lofs of rea-\nton, and at laff death. If the quantity taken was con-\nfidderable, the patient dies in fever or eight hours after\ntaking it; and the flomach and intellines are found,\nupon diflection, to be corroded and perforated. When\nthis is not the cafe, violent putrefactive fymptoms\nfoon enfue after arfenic is fwallowed; for the bodies of\nthose who are poisoned by it generally have abundance\nof red or purple fpots even before death. It remark-\nably inflames the coats of the flomach, and the putre-<x_0.7881><y_0.8969><class_Text>\n\n<x_0.793><y_0.0289>Arfenic.\n5 An arfeni-\ncal pria-\nciple cro-\nrecouly fup-\npofed necef-\nfury for the\nperfection\nof metals.<x_0.9443><y_0.1523><class_Caption>\n\n<x_0.7949><y_0.2203>6 Acid of\narfenic a\nminerali-\nzing fub-\nflance.<x_0.917><y_0.2883><class_Caption>\n\n<x_0.7939><y_0.2875>7 Poifonous\nqualities of\narfenic and\nits acid.<x_0.9326><y_0.3445><class_Caption>\n\n<x_0.7959><y_0.3992>8 Why it is\nmore dan-\ngerous than\nothers.<x_0.9404><y_0.4578><class_Caption>\n\n<x_0.7891><y_0.6586>9 Symptoms\nattending\nthe fwal-\nlowing of\narfenic.<x_0.9199><y_0.7258><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2822,
+   "completion_tokens": 1150,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

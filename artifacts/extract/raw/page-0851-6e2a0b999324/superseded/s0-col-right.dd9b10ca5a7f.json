@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "dd9b10ca5a7f13b52e5c685e6401bcb7704c0d88a47d565a16262d24183f5464",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "7c0f0b3868f4f13b6f29549bf53c1eb2fbe4268a0c86b0963128221dc4d6c28a",
+  "image_bytes": 2039505,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:851",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5133,
+   0.0702,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0702,
+    0.1547,
+    0.5183
+   ],
+   [
+    0.1547,
+    0.2393,
+    0.5183
+   ],
+   [
+    0.2393,
+    0.3238,
+    0.5183
+   ],
+   [
+    0.3238,
+    0.4083,
+    0.5183
+   ],
+   [
+    0.4083,
+    0.4928,
+    0.5183
+   ],
+   [
+    0.4928,
+    0.5774,
+    0.5183
+   ],
+   [
+    0.5774,
+    0.6619,
+    0.5183
+   ],
+   [
+    0.6619,
+    0.7464,
+    0.5183
+   ],
+   [
+    0.7464,
+    0.8309,
+    0.5183
+   ],
+   [
+    0.8309,
+    0.9155,
+    0.52
+   ],
+   [
+    0.9155,
+    1.0,
+    0.5183
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2526,
+  "completion_tokens": 854,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.42,
+ "created_at": "2026-10-18T11:10:35+00:00",
+ "content": "<x_0.0078><y_0.0>the focus of the reflected rays from the surface is to the distance of the radiant from the fame, as the distance of the focus of the reflected rays from the centre is to the distance of the radiant from thence. _Q._ _E. D._<x_0.8076><y_0.0672><class_Text>\n\n<x_0.0166><y_0.0664>The two remaining cafes may be considered as the converfe of thofe under Prop. II. (p. 5548.), because the incident rays in thefe are the reflected ones in them; or they may be demonstrated in the fame manner with the foregoing, as follows:<x_0.8086><y_0.1406><class_Text>\n\n<x_0.0176><y_0.1383>Case 9. Converging rays falling upon a convex fur- face, and tending to the surface of parallel rays, become parallel after reflection.<x_0.8096><y_0.1828><class_Text>\n\n<x_0.0186><y_0.1812>DEM. Let ED, RB, (fig. 7.) reprefent two converging rays incident on the convex surface BD, and tending towards F, which we will now fuppole to be the focus of parallel rays; and let DR be the reflected ray, and C the centre of convexity of the reflecting surface. Through C draw the line CD, and produce it to H, drawing RH parallel to ED produced to F. Now it has been demontrated (Cafe 5.) where the incident rays are fuppofed to tend to the point F, that RB is to FB as RC to CF; but F in this Cafe being fuppofed to be the focus of parallel rays, it is the middle point between C and B (by proposition 2d), and therefore FB and FC are equal; and confrequently the two other terms in the proportion, viz. RB and RC, must be fo too; which can only be upon a fuppoffition that R is at an infinite distance from B; that is, that the reflected rays BR and DR be parallel. _Q. E. D_.<x_0.8105><y_0.4375><class_Text>\n\n<x_0.0215><y_0.4359>CASE 10. Diverging rays falling upon a concave surface, and proceeding from the focus of parallel rays, become parallel after reflection.<x_0.8115><y_0.4805><class_Text>\n\n<x_0.0205><y_0.4789>DEM. Let RD, RB (fig. 8.) be two diverging rays incident upon the concave surface BD, as fuppofed in Cafe 4.; where it was demontrated that FB is to RB as CF to CR. But in the prefent cafe RB and CR are equal, becaufe R is fuppofed to be the focus of parallel rays; therefore FB and FC are fo too. Which cannot be unlefs F be taken at an infinite distance from B; that is, unlefs the reflected rays BF and DF be parallel. _Q. E. D_.<x_0.8125><y_0.6078><class_Text>\n\n<x_0.0234><y_0.607>Os: It is here observable, that in the cafe of diverging rays falling upon a convex surface, (fee fig. 7.) the farther the point D is taken from B, the nearer the point F, the focus of the reflected rays, approaches to B, while the radiant R remains the fame. For it is evident from the curvature of a circle, that the point D (fig. 9.) may be taken fo far from B, that the reflected ray DE shall proceed as from F, G, H, or even from B, or from any point between B and R; and the further it is taken from B, the faster the point from which it proceeds, approaches towards R: as will easily appear if we draw several incident rays with their respective reflected ones, in such manner that the angles of reflection may be all equal to their reflective angles of incidence, as is done in the figure. The like is applicable to any of the other cafes of diverging or converging rays incident upon a spherical surface. This is the reafon, that when rays are considered as reflected from a spherical surface, the distance of the oblique rays from the perpendicular one is taken fo small, that it may be fuppofed to vanish.<x_0.8193><y_0.9219><class_Text>\n\n<x_0.7314><y_0.9172>From<x_0.8213><y_0.9336><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-8a52258d-5d30-4e93-8839-3fd0c6399612",
+  "object": "chat.completion",
+  "created": 1792321834,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0>the focus of the reflected rays from the surface is to the distance of the radiant from the fame, as the distance of the focus of the reflected rays from the centre is to the distance of the radiant from thence. _Q._ _E. D._<x_0.8076><y_0.0672><class_Text>\n\n<x_0.0166><y_0.0664>The two remaining cafes may be considered as the converfe of thofe under Prop. II. (p. 5548.), because the incident rays in thefe are the reflected ones in them; or they may be demonstrated in the fame manner with the foregoing, as follows:<x_0.8086><y_0.1406><class_Text>\n\n<x_0.0176><y_0.1383>Case 9. Converging rays falling upon a convex fur- face, and tending to the surface of parallel rays, become parallel after reflection.<x_0.8096><y_0.1828><class_Text>\n\n<x_0.0186><y_0.1812>DEM. Let ED, RB, (fig. 7.) reprefent two converging rays incident on the convex surface BD, and tending towards F, which we will now fuppole to be the focus of parallel rays; and let DR be the reflected ray, and C the centre of convexity of the reflecting surface. Through C draw the line CD, and produce it to H, drawing RH parallel to ED produced to F. Now it has been demontrated (Cafe 5.) where the incident rays are fuppofed to tend to the point F, that RB is to FB as RC to CF; but F in this Cafe being fuppofed to be the focus of parallel rays, it is the middle point between C and B (by proposition 2d), and therefore FB and FC are equal; and confrequently the two other terms in the proportion, viz. RB and RC, must be fo too; which can only be upon a fuppoffition that R is at an infinite distance from B; that is, that the reflected rays BR and DR be parallel. _Q. E. D_.<x_0.8105><y_0.4375><class_Text>\n\n<x_0.0215><y_0.4359>CASE 10. Diverging rays falling upon a concave surface, and proceeding from the focus of parallel rays, become parallel after reflection.<x_0.8115><y_0.4805><class_Text>\n\n<x_0.0205><y_0.4789>DEM. Let RD, RB (fig. 8.) be two diverging rays incident upon the concave surface BD, as fuppofed in Cafe 4.; where it was demontrated that FB is to RB as CF to CR. But in the prefent cafe RB and CR are equal, becaufe R is fuppofed to be the focus of parallel rays; therefore FB and FC are fo too. Which cannot be unlefs F be taken at an infinite distance from B; that is, unlefs the reflected rays BF and DF be parallel. _Q. E. D_.<x_0.8125><y_0.6078><class_Text>\n\n<x_0.0234><y_0.607>Os: It is here observable, that in the cafe of diverging rays falling upon a convex surface, (fee fig. 7.) the farther the point D is taken from B, the nearer the point F, the focus of the reflected rays, approaches to B, while the radiant R remains the fame. For it is evident from the curvature of a circle, that the point D (fig. 9.) may be taken fo far from B, that the reflected ray DE shall proceed as from F, G, H, or even from B, or from any point between B and R; and the further it is taken from B, the faster the point from which it proceeds, approaches towards R: as will easily appear if we draw several incident rays with their respective reflected ones, in such manner that the angles of reflection may be all equal to their reflective angles of incidence, as is done in the figure. The like is applicable to any of the other cafes of diverging or converging rays incident upon a spherical surface. This is the reafon, that when rays are considered as reflected from a spherical surface, the distance of the oblique rays from the perpendicular one is taken fo small, that it may be fuppofed to vanish.<x_0.8193><y_0.9219><class_Text>\n\n<x_0.7314><y_0.9172>From<x_0.8213><y_0.9336><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2526,
+   "completion_tokens": 854,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

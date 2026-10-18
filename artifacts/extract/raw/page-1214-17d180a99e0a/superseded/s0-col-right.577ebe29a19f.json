@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "577ebe29a19f4306b4f8f29929c0b6ef28c40760aeaf2dc94f97fe8960c68ea3",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "a266b98eb93fe067326b6863caef35736376849ec0075ea5cbed0870c1a498a7",
+  "image_bytes": 2328752,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1214",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5267,
+   0.0507,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0507,
+    0.137,
+    0.5317
+   ],
+   [
+    0.137,
+    0.2233,
+    0.5317
+   ],
+   [
+    0.2233,
+    0.3096,
+    0.5317
+   ],
+   [
+    0.3096,
+    0.3959,
+    0.5317
+   ],
+   [
+    0.3959,
+    0.4822,
+    0.5317
+   ],
+   [
+    0.4822,
+    0.5685,
+    0.5317
+   ],
+   [
+    0.5685,
+    0.6548,
+    0.5317
+   ],
+   [
+    0.6548,
+    0.7411,
+    0.5317
+   ],
+   [
+    0.7411,
+    0.8274,
+    0.5317
+   ],
+   [
+    0.8274,
+    0.9137,
+    0.5317
+   ],
+   [
+    0.9137,
+    1.0,
+    0.5317
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2650,
+  "completion_tokens": 978,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.6,
+ "created_at": "2026-10-18T11:10:45+00:00",
+ "content": "<x_0.0234><y_0.0>of the atmosphere and in the mine to produce the ne-\nceffary circulation. This happens principally in the fpring and autumn ; at which feafons it is neceflary to light fires in the thafts, which are always efficacious for the purpofe defined.<x_0.832><y_0.0688><class_Text>\n\n<x_0.0225><y_0.068>Among the other ufes to which dephlogificated air might be applied, Mr Cavallo reckons that of focuring people from the dangerous effects of damps in mines, and other fubterraneous places. \" If a large bladder,\" fays he, \" into which a folution of lime in water is introduced, be filled with dephlogificated air, and a small wooden or glafs pipe be adapted to its neck, a man may hold that pipe in his mouth, and may breathe the dephlogificated air ; and thus equipped he may enter into thefe fubterranean places, amidt the various clafic fluids contained in them. A large bladder of dephlogificated air will ferve for above a quarter of an hour, which is a length of time sufficient for various purposes; beides, if longer time is required to be spent in thefe places, a perforn may have two or more bladders of dephlogificated air along with him, and may fit as foon as the air of one is contaminated. Without the necessity of any more complicated apparatus, the bladders full of dephlogificated air may be kept flopped by putting corks into the glafs or wooden pipes that are tied to their necks. This air might alfo be ufed for diving-bells.\"<x_0.8359><y_0.382><class_Text>\n\n<x_0.0186><y_0.3812>DAMSEL, from the French _davoijfel_ or _davoifeau_, an appellation anciently given to all young people of either fex, that were of noble or genteel extraction, as the fons and daughters of princes, knights, and barons: thus we read of Damfel Pepin, Damfel Louis le Gros, Damfel Richard prince of Wales.<x_0.8281><y_0.4664><class_Text>\n\n<x_0.0195><y_0.4656>From the fons of kings this appellation firft paffed to those of great lords and barons, and at length to thofe of gentlemen who were not yet knights.<x_0.8262><y_0.5094><class_Text>\n\n<x_0.0176><y_0.5086>At present damfel is applied to all maids or girls not yet married, provided they be not of the vulgar.<x_0.8242><y_0.5383><class_Text>\n\n<x_0.0166><y_0.5375>DAN, or JOR-DAN, which laft literally denotes \"the river Dan;\" fo named from the people where it has its fouree, which is a lake called _Phiala_, from its round figure, to the north of its apparent rifing from the mountain Panium or Paneum, as was discovered by Philip, Tetrarch of Trachonites ; for on throwing light bodies into the Phiala, he found them to emerge again at Paneum (Jofephus). From Paneum it runs in a direct courte to a lake called _Samachonites_ ; as far as which it is called _Yordan the Left_ ; and thence to the lake Genefareth, or of Tiberias, where it comes in-creafed by the lake Samachonitis and its springs, and is called the _Greater Jordan_ ; continuing its direct courte fourthwards, till it falls into the Afphaltites.<x_0.8252><y_0.7359><class_Text>\n\n<x_0.0156><y_0.7352>DAN (anc. geog.), a town to the welt of the fouree of the Jordan ; formerly called _Laii_ (Jofhua, Judges, Jofephus). This was the north, as Beerheba was the fourth, boundary of the Ifracites; as appears from the common expreflion in Scripture, from _Dan_ to _Beerbe- ba._ At Dan Jeroboam created one of the golden calves (1 Kings xii.).<x_0.8223><y_0.8352><class_Text>\n\n<x_0.0146><y_0.8344>DAN, the tribe, extended itself weftward of Judah, and was terminated by Azotus and Dora on the Mediterranean (Jofepkus).<x_0.8213><y_0.8773><class_Text>\n\n<x_0.0137><y_0.8766>DANAE, in antiquity, a coin fomewhat more than an obolus, ufed to be put into the mouths of the dead, to pay their pallage over the river Acheron.<x_0.8203><y_0.9219><class_Text>\n\n<x_0.6836><y_0.918>**DANAE,**<x_0.8271><y_0.9352><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-50c88235-d21f-496e-bdfa-7a2720ad34d3",
+  "object": "chat.completion",
+  "created": 1792321844,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0234><y_0.0>of the atmosphere and in the mine to produce the ne-\nceffary circulation. This happens principally in the fpring and autumn ; at which feafons it is neceflary to light fires in the thafts, which are always efficacious for the purpofe defined.<x_0.832><y_0.0688><class_Text>\n\n<x_0.0225><y_0.068>Among the other ufes to which dephlogificated air might be applied, Mr Cavallo reckons that of focuring people from the dangerous effects of damps in mines, and other fubterraneous places. \" If a large bladder,\" fays he, \" into which a folution of lime in water is introduced, be filled with dephlogificated air, and a small wooden or glafs pipe be adapted to its neck, a man may hold that pipe in his mouth, and may breathe the dephlogificated air ; and thus equipped he may enter into thefe fubterranean places, amidt the various clafic fluids contained in them. A large bladder of dephlogificated air will ferve for above a quarter of an hour, which is a length of time sufficient for various purposes; beides, if longer time is required to be spent in thefe places, a perforn may have two or more bladders of dephlogificated air along with him, and may fit as foon as the air of one is contaminated. Without the necessity of any more complicated apparatus, the bladders full of dephlogificated air may be kept flopped by putting corks into the glafs or wooden pipes that are tied to their necks. This air might alfo be ufed for diving-bells.\"<x_0.8359><y_0.382><class_Text>\n\n<x_0.0186><y_0.3812>DAMSEL, from the French _davoijfel_ or _davoifeau_, an appellation anciently given to all young people of either fex, that were of noble or genteel extraction, as the fons and daughters of princes, knights, and barons: thus we read of Damfel Pepin, Damfel Louis le Gros, Damfel Richard prince of Wales.<x_0.8281><y_0.4664><class_Text>\n\n<x_0.0195><y_0.4656>From the fons of kings this appellation firft paffed to those of great lords and barons, and at length to thofe of gentlemen who were not yet knights.<x_0.8262><y_0.5094><class_Text>\n\n<x_0.0176><y_0.5086>At present damfel is applied to all maids or girls not yet married, provided they be not of the vulgar.<x_0.8242><y_0.5383><class_Text>\n\n<x_0.0166><y_0.5375>DAN, or JOR-DAN, which laft literally denotes \"the river Dan;\" fo named from the people where it has its fouree, which is a lake called _Phiala_, from its round figure, to the north of its apparent rifing from the mountain Panium or Paneum, as was discovered by Philip, Tetrarch of Trachonites ; for on throwing light bodies into the Phiala, he found them to emerge again at Paneum (Jofephus). From Paneum it runs in a direct courte to a lake called _Samachonites_ ; as far as which it is called _Yordan the Left_ ; and thence to the lake Genefareth, or of Tiberias, where it comes in-creafed by the lake Samachonitis and its springs, and is called the _Greater Jordan_ ; continuing its direct courte fourthwards, till it falls into the Afphaltites.<x_0.8252><y_0.7359><class_Text>\n\n<x_0.0156><y_0.7352>DAN (anc. geog.), a town to the welt of the fouree of the Jordan ; formerly called _Laii_ (Jofhua, Judges, Jofephus). This was the north, as Beerheba was the fourth, boundary of the Ifracites; as appears from the common expreflion in Scripture, from _Dan_ to _Beerbe- ba._ At Dan Jeroboam created one of the golden calves (1 Kings xii.).<x_0.8223><y_0.8352><class_Text>\n\n<x_0.0146><y_0.8344>DAN, the tribe, extended itself weftward of Judah, and was terminated by Azotus and Dora on the Mediterranean (Jofepkus).<x_0.8213><y_0.8773><class_Text>\n\n<x_0.0137><y_0.8766>DANAE, in antiquity, a coin fomewhat more than an obolus, ufed to be put into the mouths of the dead, to pay their pallage over the river Acheron.<x_0.8203><y_0.9219><class_Text>\n\n<x_0.6836><y_0.918>**DANAE,**<x_0.8271><y_0.9352><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2650,
+   "completion_tokens": 978,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

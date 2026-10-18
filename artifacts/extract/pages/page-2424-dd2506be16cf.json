@@ -1,0 +1,490 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2424",
+ "row_index": 2424,
+ "volume_id": "193322698",
+ "filename": "page-2424-dd2506be16cf.jpg",
+ "image_sha256": "dd2506be16cf7abc83d6915d2eeca90ede40d89a0e648c6741d1ea42ee73e4b7",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.10588,
+  "median_grey": 213,
+  "layout_body_chars": 6225,
+  "layout_pictures": 0
+ },
+ "running_head": "AGRICULTURE. 345",
+ "layout_raw": "page-2424-dd2506be16cf/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0403,
+    1.0,
+    0.0678
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2424-dd2506be16cf/head.json",
+   "finish_reason": "stop",
+   "request_key": "9a95618a30d9aa7018f36e28bcce229be082a884f253be1e2a9c0e3bc5ee41be"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0403,
+    0.4867,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0403,
+     0.1203,
+     0.48
+    ],
+    [
+     0.1203,
+     0.2003,
+     0.4817
+    ],
+    [
+     0.2003,
+     0.2802,
+     0.4817
+    ],
+    [
+     0.2802,
+     0.3602,
+     0.4817
+    ],
+    [
+     0.3602,
+     0.4402,
+     0.4817
+    ],
+    [
+     0.4402,
+     0.5202,
+     0.4817
+    ],
+    [
+     0.5202,
+     0.6001,
+     0.4817
+    ],
+    [
+     0.6001,
+     0.6801,
+     0.4817
+    ],
+    [
+     0.6801,
+     0.7601,
+     0.4817
+    ],
+    [
+     0.7601,
+     0.8401,
+     0.4817
+    ],
+    [
+     0.8401,
+     0.92,
+     0.4817
+    ],
+    [
+     0.92,
+     1.0,
+     0.4817
+    ]
+   ],
+   "raw_path": "page-2424-dd2506be16cf/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "7609ba1bc080532788ff9e3763ede92c79e460521e42ad730cdeb01bf8ed6fe4"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.475,
+    0.0403,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0403,
+     0.1203,
+     0.48
+    ],
+    [
+     0.1203,
+     0.2003,
+     0.4817
+    ],
+    [
+     0.2003,
+     0.2802,
+     0.4817
+    ],
+    [
+     0.2802,
+     0.3602,
+     0.4817
+    ],
+    [
+     0.3602,
+     0.4402,
+     0.4817
+    ],
+    [
+     0.4402,
+     0.5202,
+     0.4817
+    ],
+    [
+     0.5202,
+     0.6001,
+     0.4817
+    ],
+    [
+     0.6001,
+     0.6801,
+     0.4817
+    ],
+    [
+     0.6801,
+     0.7601,
+     0.4817
+    ],
+    [
+     0.7601,
+     0.8401,
+     0.4817
+    ],
+    [
+     0.8401,
+     0.92,
+     0.4817
+    ],
+    [
+     0.92,
+     1.0,
+     0.4817
+    ]
+   ],
+   "raw_path": "page-2424-dd2506be16cf/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "fe2d35e702c1b763995a759e6cf1b0d49c8a493c7f65a1caf33756bb0efc6679"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Page-header",
+   "text": "AGRICULTURE. 345",
+   "bbox": [
+    0.0,
+    0.0403,
+    1.0,
+    0.0678
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2424-dd2506be16cf:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "A GRICU",
+   "bbox": [
+    0.3513,
+    0.0448,
+    0.4862,
+    0.0635
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "Live Stock. The lid is then closed for a short time, and the mess there- after served out to the cattle. The meal may be that of barley, oats, beans, or, in short, whatever is cheapest at the time, including all the inferior grain of the farm, with the addition of 1 lb. of ground linseed for each animal. An appropriate mode of administering the food is to give 50 lb. of sliced turnips early in the morning, the cooked mess about noon, and as much more turnips in the afternoon. A little oat straw is also given to them daily. For a few weeks before the completion of the fattening process, it is usually remunerative to give 4 or 5 lb. of linseed cake, and 6 lb. of good hay to each beast daily; the cake in combination with the cooked mess, and the hay in lieu of the oat- straw. From the peculiar structure of the digestive organs of the ox-which are adapted for disposing of bulky and but moderately nutritious food--this plan of inducing him to eat a considerable quantity of straw promotes his health and comfort, and economies the more costly food. The Rev. Mr Huxtable has pointed out a still cheaper way of accom- plishing the same end. He shreds his turnips by a machine, analogous to a bark-mill, and then mixes them with cut straw, so that the cattle must eat both together. His opinion is, that he not only gains the element of bulk in this way, but that, from the straw and turnips being swallowed together, the hurtful chilling effect of the latter is avoided. He finds that 70 lb. of turnips thus administered is a sufficient daily ration for a fattening bullock.<sup>1</sup>",
+   "bbox": [
+    0.0333,
+    0.0658,
+    0.48,
+    0.3987
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b2"
+  },
+  {
+   "order": 3,
+   "class": "Caption",
+   "text": "Best mode of housing cattle.",
+   "bbox": [
+    0.0314,
+    0.3972,
+    0.0903,
+    0.4317
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "A better appreciation of the effects of temperature on the animal economy has of late years exerted a beneficial influence upon the treatment of fattening cattle. Observant farmers have long been aware that their cattle, when kept dry and moderately warm, eat less and thrive faster than under opposite conditions. They accounted for this in a vague way by attributing it to their greater comfort in such circumstances. Scientific men have now, however, shewed us that a considerable portion of the food consumed by warm-blooded animals is expended in maintaining the natural heat of their bodies, and that the portion of food thus disposed of is dissipated by a process so closely analogous to combustion, that it may fitly be regarded as so much fuel. The fat which, in favourable circumstances is accumulated in their bodies, may in like manner be regarded as a store of this fuel laid up for future emergencies. The knowledge of this fact enables us to understand how largely the profit, to be derived from the fattening of cattle, is dependent upon the manner in which they are housed, and necessarily forms an important element in determining the question whether _yards, stalls,_ or _boxes_, are best adapted for this purpose. A really good system of housing must combine the following conditions:—",
+   "bbox": [
+    0.0913,
+    0.398,
+    0.4791,
+    0.6783
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "_1st,_ Facilities for supplying food and litter, and for removing dung with the utmost economy of time and labour.",
+   "bbox": [
+    0.0917,
+    0.6776,
+    0.4767,
+    0.7031
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b5"
+  },
+  {
+   "order": 6,
+   "class": "List-item",
+   "text": "_2d,_ Complete freedom from disturbance.",
+   "bbox": [
+    0.1065,
+    0.7016,
+    0.3721,
+    0.7143
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b6"
+  },
+  {
+   "order": 7,
+   "class": "List-item",
+   "text": "_3d,_ A moderate and equal degree of warmth.",
+   "bbox": [
+    0.106,
+    0.7136,
+    0.403,
+    0.7278
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b7"
+  },
+  {
+   "order": 8,
+   "class": "List-item",
+   "text": "_4th,_ A constant supply of pure air.",
+   "bbox": [
+    0.1055,
+    0.7263,
+    0.3341,
+    0.7391
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b8"
+  },
+  {
+   "order": 9,
+   "class": "List-item",
+   "text": "_5th,_ Opportunity for the cattle having a slight degree of exercise; and",
+   "bbox": [
+    0.0922,
+    0.7383,
+    0.4776,
+    0.7623
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b9"
+  },
+  {
+   "order": 10,
+   "class": "List-item",
+   "text": "_6th,_ The production of manure of the best quality.",
+   "bbox": [
+    0.1069,
+    0.7631,
+    0.4373,
+    0.7758
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "We have no hesitation in expressing our opinion that the whole of these conditions are attained most fully by means of well-arranged boxes. Stalls are to be preferred where the saving of litter is an object; and yards for the rearing of young cattle, which require more exercise than is suitable for fattening stock.",
+   "bbox": [
+    0.0898,
+    0.775,
+    0.4772,
+    0.8493
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "But however excellent the system of housing and feeding which is adopted, a successful result will, in every instance, be much dependent upon the viligant superintendence of the",
+   "bbox": [
+    0.0894,
+    0.8486,
+    0.4762,
+    0.8883
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b12"
+  },
+  {
+   "order": 13,
+   "class": "Footnote",
+   "text": "3 Seo \"Present Prices\" by Rev. A. H",
+   "bbox": [
+    0.2657,
+    0.8981,
+    0.4857,
+    0.9131
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b13"
+  },
+  {
+   "order": 14,
+   "class": "Page-footer",
+   "text": "VOL. II.",
+   "bbox": [
+    0.105,
+    0.9107,
+    0.1569,
+    0.9227
+   ],
+   "source": "s0-col-left",
+   "id": "page-2424-dd2506be16cf:b14"
+  },
+  {
+   "order": 15,
+   "class": "Head-fragment",
+   "text": "J L T U R E. 345",
+   "bbox": [
+    0.4786,
+    0.0456,
+    0.9349,
+    0.0635
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-2424-dd2506be16cf:b15"
+  },
+  {
+   "order": 16,
+   "class": "Text",
+   "text": "owner, and his skill in so managing the commissariat, as to Live Stock. secure throughout the year a sufficiency of suitable food for the stock on hand. Unless this is attended to, he may find himself necessitated to sell his cattle before they are fat, and when markets are glutted. Whenever they have attained to what is technically called _ripe_ flatness, and prices are at their average rate, it is generally more profitable forthwith to dispose of them, than to speculate upon a rise in the markets.",
+   "bbox": [
+    0.4873,
+    0.0696,
+    0.8703,
+    0.1797
+   ],
+   "source": "s0-col-right",
+   "id": "page-2424-dd2506be16cf:b16"
+  },
+  {
+   "order": 17,
+   "class": "Section-header",
+   "text": "SHEEP.",
+   "bbox": [
+    0.6529,
+    0.188,
+    0.6995,
+    0.2
+   ],
+   "source": "s0-col-right",
+   "id": "page-2424-dd2506be16cf:b17"
+  },
+  {
+   "order": 18,
+   "class": "Text",
+   "text": "When Fitzherbert so long ago said, \" Sheep is the most profitablest cattle that a man can have,\" he expressed an opinion in which agriculturists of the present day fully con- cur. But if this was true of the flocks of his time, how much more of the many admirable breeds which now adorn the rich pastures, the grassy downs, and heath-clad mountains of our native country. Their flesh is in high estimation with all classes of the community, and constitutes at least one-half of all the butcher meat consumed by them. Their fleeces supply the raw material for one of our most flourishing manufactures. They furnish to the farmer an important source of revenue, and the readiest means of maintaining the fertility of his fields. The distinct breeds, and sub- varieties of sheep found in Great Britain are very numerous. We have no intention of noticing them in detail, but shall rather confine our observations to those which, by common consent, are the most valuable for their respective and appropriate habitats. They may be fitly classed under these three heads, viz. the heavy breeds of the low country, those found on our downs and similar localities, and the mountain breeds.",
+   "bbox": [
+    0.4868,
+    0.2023,
+    0.8708,
+    0.4466
+   ],
+   "source": "s0-col-right",
+   "id": "page-2424-dd2506be16cf:b18"
+  },
+  {
+   "order": 19,
+   "class": "Text",
+   "text": "Of the first class, the improved _Leicesters_ are still the Leicester most important to the country. They are more widely dif- breed. fused in the kingdom than any of their congeners. Although, from the altered taste of the community, their mutton is less esteemed than formerly, they still constitute the staple breed of the midland counties of England. Leicester rams are also more in demand than ever, for crossing with other breeds. It is now about a century since this breed was produced by the genius and perseverance of Bakewell, in whose hands they attained a degree of excellence that has probably not yet been exceeded by the many who have cultivated them since his day. The characteristics of this breed are extreme docility, extraordinary aptitude to fatten, and the early age at which they come to maturity. The most marked feature in their structure is the smallness of their heads, and of their bones generally, as contrasted with their weight of carcase. They are clean in the laws, with a full eye, thin ears, and placid countenance. Their backs are straight, broad, and flat, the ribs arched, the belly carried very light, so that they present nearly as straight a line below as above, the chest is wide, the skin very mellow, and covered with a beautiful fleece of long, soft wool, which weighs on the average from 6 to 7 lb. On good soils, and under careful treatment these sheep are currently brought to weigh from 18 to 20 lb. per quarter at 14 months old, at which age they are now usually slaughtered. At this age their flesh is tender and juicy; but when carried on until they are older and heavier, fat accumulates so un duly in proportion to the lean meat, as to detract from its palatableness and market value.",
+   "bbox": [
+    0.4858,
+    0.4474,
+    0.8713,
+    0.8133
+   ],
+   "source": "s0-col-right",
+   "id": "page-2424-dd2506be16cf:b19"
+  },
+  {
+   "order": 20,
+   "class": "Text",
+   "text": "_Lincolns._--These were at one time very large, ungainly Lincoln animals, with an immense fleece of very long wool. By breed. crossing them with the Leicesters the character of the breed has been entirely changed, and very greatly for the better. It is now, in fact, a subvariety of the Leicester, with larger frame and heavier fleece than the pure breed. Sheep of",
+   "bbox": [
+    0.4842,
+    0.8126,
+    0.9118,
+    0.8883
+   ],
+   "source": "s0-col-right",
+   "id": "page-2424-dd2506be16cf:b20"
+  },
+  {
+   "order": 21,
+   "class": "Page-footer",
+   "text": "fuxtable. Ridgway. London, 1850.",
+   "bbox": [
+    0.4781,
+    0.8995,
+    0.6945,
+    0.9131
+   ],
+   "source": "s0-col-right",
+   "id": "page-2424-dd2506be16cf:b21"
+  },
+  {
+   "order": 22,
+   "class": "Page-footer",
+   "text": "2 x",
+   "bbox": [
+    0.7862,
+    0.9093,
+    0.8129,
+    0.9213
+   ],
+   "source": "s0-col-right",
+   "id": "page-2424-dd2506be16cf:b22"
+  }
+ ]
+}

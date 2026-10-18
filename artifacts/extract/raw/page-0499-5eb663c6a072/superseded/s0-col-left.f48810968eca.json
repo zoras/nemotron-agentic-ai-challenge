@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "f48810968eca555339045987af276082efc45ec16511bdcf26a458f5ae1aa735",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "160f9b6ddba9791e42877059effb6612a902aabe7dc2f3f0fc3da8e04da1ffbe",
+  "image_bytes": 2382034,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:499",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.06,
+   0.4733,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.06,
+    0.1455,
+    0.4683
+   ],
+   [
+    0.1455,
+    0.2309,
+    0.4683
+   ],
+   [
+    0.2309,
+    0.3164,
+    0.4683
+   ],
+   [
+    0.3164,
+    0.4018,
+    0.4683
+   ],
+   [
+    0.4018,
+    0.4873,
+    0.4683
+   ],
+   [
+    0.4873,
+    0.5727,
+    0.4683
+   ],
+   [
+    0.5727,
+    0.6582,
+    0.4683
+   ],
+   [
+    0.6582,
+    0.7436,
+    0.4683
+   ],
+   [
+    0.7436,
+    0.8291,
+    0.4683
+   ],
+   [
+    0.8291,
+    0.9145,
+    0.4667
+   ],
+   [
+    0.9145,
+    1.0,
+    0.4667
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2427,
+  "completion_tokens": 755,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.07,
+ "created_at": "2026-10-18T11:10:17+00:00",
+ "content": "<x_0.0><y_0.0>India astonished that he should have given any credit), Alex- ander was the first who had invaded India. Arrian informs us that the Assaceni, and other people who inhabited the country now called _Candahar_, had been tributary first to the Assyrians and then to the Medes and Persians. As all the fertile provinces on the north-west of the Indus were anciently reckoned to be part of India, it is probable that what was levied from them is the sum mentioned in the tribute-roll from which Herodotus drew his account of the annual revenue of the Persian empire, and that none of the provinces to the south of the Indus were ever subject to the kings of Persia.\"--The Doctor differs from Mr Rennel with respect to the surprise which Alexander and his army expressed when they saw the high tides at the mouth of the Indus. This he thinks might very naturally have been the case, notwithstanding what Herodotus had written concerning the flux and reflux observable in the Red sea. All that has been mentioned by Herodotus concerning this phenomenon is, that \"in the Red sea there is a regular ebb and flow of the tide every day.\" No wonder, therefore, that the Macedonians should be surprised and terrified at the very high tides which presented themselves in the Indian ocean, which the few words of Herodotus above-mentioned had by no means led them to expect. In the like manner the Romans were surprised at the tides in the Atlantic, when they had conquered some of the countries bordering upon that ocean. Caesar describes the astonishment of his soldiers at a spring tide in Britain which greatly damaged his fleet; and, indeed, considering the very little rise of the tide in the Mediterranean, to which alone the Greeks and Romans had access, we may reckon the account given us by Arrian highly probable.<x_0.9814><y_0.493><class_Text>\n\n<x_0.1562><y_0.4922>The country on each side the Indus was found, in the time of Alexander, to be in no degree inferior in population to the kingdom of Porus already mentioned. The climate, soil, and productions of India, as well as the manners and customs of the inhabitants, are exactly described, and the descriptions found to correspond in a surprising manner with modern accounts. The stated change of seasons now known by the name of _montoons_, the periodical rains, the swellings and inundations of the rivers, with the appearance of the country during the time they continue, are particularly described. The descriptions of the inhabitants are equally particular; their living entirely upon vegetable food, their division into tribes or casts, with many of the particularities related under the article HINDOO, are to be met with in the accounts of Alexander's expedition. His military operations, however, extended but a very little way into India properly so called ; no farther indeed than the modern province of Lahor, and the countries on the banks of the Indus from Moultan to the sea ; though, had he lived to undertake another expedition as he intended, it is very probable that he would have subdued a vastly greater tract of country; nor indeed could any thing probably have set bounds to his conquests but death or revolts in distant provinces of his empire. In order to secure the obedience of those countries he subdued, Alexander found it necessary to build a number of fortified cities; and the farther eastward he extended his conquests, the more necessary did he find this task. Three he built in India itself; two<x_0.9795><y_0.9219><class_Text>",
+ "reply": {
+  "id": "chatcmpl-3e373368-d533-487f-bab1-0eb6d97f2724",
+  "object": "chat.completion",
+  "created": 1792321816,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>India astonished that he should have given any credit), Alex- ander was the first who had invaded India. Arrian informs us that the Assaceni, and other people who inhabited the country now called _Candahar_, had been tributary first to the Assyrians and then to the Medes and Persians. As all the fertile provinces on the north-west of the Indus were anciently reckoned to be part of India, it is probable that what was levied from them is the sum mentioned in the tribute-roll from which Herodotus drew his account of the annual revenue of the Persian empire, and that none of the provinces to the south of the Indus were ever subject to the kings of Persia.\"--The Doctor differs from Mr Rennel with respect to the surprise which Alexander and his army expressed when they saw the high tides at the mouth of the Indus. This he thinks might very naturally have been the case, notwithstanding what Herodotus had written concerning the flux and reflux observable in the Red sea. All that has been mentioned by Herodotus concerning this phenomenon is, that \"in the Red sea there is a regular ebb and flow of the tide every day.\" No wonder, therefore, that the Macedonians should be surprised and terrified at the very high tides which presented themselves in the Indian ocean, which the few words of Herodotus above-mentioned had by no means led them to expect. In the like manner the Romans were surprised at the tides in the Atlantic, when they had conquered some of the countries bordering upon that ocean. Caesar describes the astonishment of his soldiers at a spring tide in Britain which greatly damaged his fleet; and, indeed, considering the very little rise of the tide in the Mediterranean, to which alone the Greeks and Romans had access, we may reckon the account given us by Arrian highly probable.<x_0.9814><y_0.493><class_Text>\n\n<x_0.1562><y_0.4922>The country on each side the Indus was found, in the time of Alexander, to be in no degree inferior in population to the kingdom of Porus already mentioned. The climate, soil, and productions of India, as well as the manners and customs of the inhabitants, are exactly described, and the descriptions found to correspond in a surprising manner with modern accounts. The stated change of seasons now known by the name of _montoons_, the periodical rains, the swellings and inundations of the rivers, with the appearance of the country during the time they continue, are particularly described. The descriptions of the inhabitants are equally particular; their living entirely upon vegetable food, their division into tribes or casts, with many of the particularities related under the article HINDOO, are to be met with in the accounts of Alexander's expedition. His military operations, however, extended but a very little way into India properly so called ; no farther indeed than the modern province of Lahor, and the countries on the banks of the Indus from Moultan to the sea ; though, had he lived to undertake another expedition as he intended, it is very probable that he would have subdued a vastly greater tract of country; nor indeed could any thing probably have set bounds to his conquests but death or revolts in distant provinces of his empire. In order to secure the obedience of those countries he subdued, Alexander found it necessary to build a number of fortified cities; and the farther eastward he extended his conquests, the more necessary did he find this task. Three he built in India itself; two<x_0.9795><y_0.9219><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2427,
+   "completion_tokens": 755,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "533100a08b7032d765da6619f857673a5c66a66ae2e90c9f8412e6a4d85acebe",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "3843b131d63481c90f7adb3939ff2a74ffee5c235ec5e3a9dedb7d051f2244fc",
+  "image_bytes": 2349466,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:104",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0325,
+   0.4533,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0325,
+    0.1131,
+    0.4433
+   ],
+   [
+    0.1131,
+    0.1938,
+    0.445
+   ],
+   [
+    0.1938,
+    0.2744,
+    0.445
+   ],
+   [
+    0.2744,
+    0.355,
+    0.4467
+   ],
+   [
+    0.355,
+    0.4356,
+    0.4483
+   ],
+   [
+    0.4356,
+    0.5162,
+    0.4483
+   ],
+   [
+    0.5162,
+    0.5969,
+    0.4483
+   ],
+   [
+    0.5969,
+    0.6775,
+    0.4483
+   ],
+   [
+    0.6775,
+    0.7581,
+    0.4483
+   ],
+   [
+    0.7581,
+    0.8387,
+    0.4483
+   ],
+   [
+    0.8387,
+    0.9194,
+    0.4483
+   ],
+   [
+    0.9194,
+    1.0,
+    0.4483
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1416,
+  "total_tokens": 3343,
+  "completion_tokens": 1927,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 2.93,
+ "created_at": "2026-10-18T11:19:00+00:00",
+ "content": "<x_0.5518><y_0.0031>**WEIGHTS ANI**<x_0.9863><y_0.025><class_Title>\n\n<x_0.0742><y_0.0266>e litre or cubic decimetre = 10 decilitres = 100 centilitres\n= 027052 Brit. cubic inches; and 50 litres are nearly 11 Brit.\nAlso 100 litres = 10 decalitres = 1 hectolitre = 2·751207\nbushels; and 32 hectolitres are nearly equal to 11 Brit.\nquters, and 100 hectolitres = 10 kilolitres or cubic metres = 1\nalitre = 34-300086 Brit. quarters.<x_0.957><y_0.0984><class_Text>\n\n<x_0.0752><y_0.0914>te gramme is a weight equal that of 1 cubic centimetre of\nat its maximum density. It contains 10 decigrammes = 100\ngrammes = 15·434 troy grains; and 1000 grammes = 100\ngrammes = 10 hectogrammes = 1 kilograme = 2·679514 lbs.\nr = 2·204857 lbs. avoird. Also 100 kilogrammes = 10 myria-\ngrmes = 1 metrical quintal = 220·486 lbs. avoird.; and 10\ntails = weight of a cubic metre of water = 1 millier or marine\nto = 19 Brit. ewt. 2 qrs. 20 lbs. 13·75 oz.<x_0.958><y_0.1828><class_Text>\n\n<x_0.0762><y_0.1766>ne _Syttime Uncl_, or Binary System, of the French, was intro-\nd in 1812, for the accommodation of retail trade, to make a\nof compromise with the common people, who showed an irre-\noleable aversion to the innovations of the metrical or decimal\ncom. It has the metrical standards for its basis; but their\ndiions, &c. instead of being decimal, are chiefly binary, that is,\nproceed principally by continually halving or doubling some\nthese standards, though partly according to other divisions of\nhold system; and instead of the metrical vocabulary, the names\necient weights and measures are employed, annexing the term\nul to each. Thus, the toise usuelle = 2 metres = 78·74158\nb. inches. The pied usuel is one sixth of the toise, and is sub-\nided into twelfths or inches, &c. The aune usuelle = 12 deci-\nmes = 1·2 metre = 47·2449 Brit. inches. The litron usuel =\nre = 1·7608 Brit. pint. The Boisseau usuel is one eighth of\nhectolitre, and = 2·7512 Brit. gallons. The livre usuelle is\nthe kilogramme, and = 1·10243 lb. avoird. The halves, quar-\nto, eighths, &c. of the most of the above are also in use. A\nmary of the ancient French system will be found in the pre-\nceg part of this article.<x_0.96><y_0.393><class_Text>\n\n<x_0.0889><y_0.3891>_rankfort on the Maisuc._—Of the weights, 128 drachmes = 32\nles = 2 marks = 1 heavy lb. = 1·1143 lb. avoird. The light lb-\nsimilarly divided, but only = 1·0318 lb. avoird., so that 108 of\nlight lbs. make only 100 of the heavy or centmer weight. The\nCogne mark, here reckoned = 3611 grains troy, is used for gold\nsilver. The Frankfort foot contains 11·42 Brit. inches, and\ncell 21·54. The Brabant ell is generally used for Dutch goods,\nthe Paris aune for French. Eighty old or 90 new mass (each\nschoppen) are equal to 20 viertels = 1 ohm = 31·57 Brit. gall.;\na 16 sechters = 8 metzen = 4 simmers = 1 malter or achtel =\nBrit. bushels.<x_0.9609><y_0.5078><class_Text>\n\n<x_0.0898><y_0.5055>cross.—There are two sorts of pounds, the peso sottile lb., and\npeso grossolb. The latter is a tenth part heavier than the for-\nn, so that the cantaro of 100 lbs. peso sottile = 69·89 lbs. avoird.,\nthe cantaro of 100 lbs. peso grosso = 76·88. The latter is\nfor bulky commodities, and the former for gold, silver, and\narticles of small bulk. The palmo = 9·725 Brit. inches, and\n33 palmi = 1 braccio. The canna is of three sorts: the canna\npola used by tradesmen = 9 palmi, the canna grossa of the mer-\nants = 12 palmi, and the custom-house canna = 10 palmi. Of\nmeasure, 96 gombette = 8 quarti = 1 mina = 3·31 Brit. bush-\nAlso 100 pints = 2 barili = 1 mezzarola of wine = 32·67\nt. gall.; and 64 quateroni = 4 quarti = 1 oil barile = 14·23\nt. gall.<x_0.9736><y_0.6469><class_Text>\n\n<x_0.0928><y_0.6438>Gressary.—Considerable diversity of weights and measures is\nfound in the various states into which this extensive coun-\nis divided, and the most important of them will be found\niced separately. But not a few of their standards, though dif-\nng in amount, are similar in their multiples and subdivisions.\nthe weights, 1024 hellers = 312 pfennings = 128 quentins =\nloths = 16 ounces = 2 marks = 1 commercial lb.; and 5760\nin = 288 scruples = 96 drams = 12 oz. = 1 apothecaries' lb.;\n4352 eschen = 512 hellers = 256 pfennings = 64 quentins =\nloths = 8 oz. = 1 Cologne mark = 3608 grains troy. By this\nand silver are weighed ; and the fineness of gold is expressed\n24th parts or carats as in Britain, but the fineness of silver by\nparts. For jewellery there is a carat of 3·171 grs. troy. Of\nmeasures, 144 inches = 12 feet = 6 cells = 2 clafters = 4 ruthe.\ne Rhinland foot used by surveyors = 12·36 Brit. inches; the\ng mile = 10,126 Brit. yds., the short mile = 6859, and the\ngraphical mile = 8101 Brit. yds. The Rhinland morgen of\nd = 10,185 Brit. sq. yds.<x_0.9795><y_0.8383><class_Text>\n\n<x_0.1055><y_0.8328>Gibraltar.—Besides the British standards, the following Spanish\nalso used: The arroba = 26 lbs. avoird.; the quintal = 100\n= 101·75 lbs. avourd.; the corn fanega = 1·55 Brit. bushel;\npipe of 117 gallons = 105 Brit. gall.; the liquid arroba =\n7 Brit. gall.; and the wine gallon = 1·094 Brit. gall.\nGo.—The same as in Portugal, except that the candy of 20\nonds = 495 lbs. avoird. This, in the measurement of grain, is\nkoed to be nearly 14 Winchester bushels.<x_0.9775><y_0.925><class_Text>",
+ "reply": {
+  "id": "chatcmpl-be47dc70-b617-4d33-9110-0cc249bc35ef",
+  "object": "chat.completion",
+  "created": 1792322337,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.5518><y_0.0031>**WEIGHTS ANI**<x_0.9863><y_0.025><class_Title>\n\n<x_0.0742><y_0.0266>e litre or cubic decimetre = 10 decilitres = 100 centilitres\n= 027052 Brit. cubic inches; and 50 litres are nearly 11 Brit.\nAlso 100 litres = 10 decalitres = 1 hectolitre = 2·751207\nbushels; and 32 hectolitres are nearly equal to 11 Brit.\nquters, and 100 hectolitres = 10 kilolitres or cubic metres = 1\nalitre = 34-300086 Brit. quarters.<x_0.957><y_0.0984><class_Text>\n\n<x_0.0752><y_0.0914>te gramme is a weight equal that of 1 cubic centimetre of\nat its maximum density. It contains 10 decigrammes = 100\ngrammes = 15·434 troy grains; and 1000 grammes = 100\ngrammes = 10 hectogrammes = 1 kilograme = 2·679514 lbs.\nr = 2·204857 lbs. avoird. Also 100 kilogrammes = 10 myria-\ngrmes = 1 metrical quintal = 220·486 lbs. avoird.; and 10\ntails = weight of a cubic metre of water = 1 millier or marine\nto = 19 Brit. ewt. 2 qrs. 20 lbs. 13·75 oz.<x_0.958><y_0.1828><class_Text>\n\n<x_0.0762><y_0.1766>ne _Syttime Uncl_, or Binary System, of the French, was intro-\nd in 1812, for the accommodation of retail trade, to make a\nof compromise with the common people, who showed an irre-\noleable aversion to the innovations of the metrical or decimal\ncom. It has the metrical standards for its basis; but their\ndiions, &c. instead of being decimal, are chiefly binary, that is,\nproceed principally by continually halving or doubling some\nthese standards, though partly according to other divisions of\nhold system; and instead of the metrical vocabulary, the names\necient weights and measures are employed, annexing the term\nul to each. Thus, the toise usuelle = 2 metres = 78·74158\nb. inches. The pied usuel is one sixth of the toise, and is sub-\nided into twelfths or inches, &c. The aune usuelle = 12 deci-\nmes = 1·2 metre = 47·2449 Brit. inches. The litron usuel =\nre = 1·7608 Brit. pint. The Boisseau usuel is one eighth of\nhectolitre, and = 2·7512 Brit. gallons. The livre usuelle is\nthe kilogramme, and = 1·10243 lb. avoird. The halves, quar-\nto, eighths, &c. of the most of the above are also in use. A\nmary of the ancient French system will be found in the pre-\nceg part of this article.<x_0.96><y_0.393><class_Text>\n\n<x_0.0889><y_0.3891>_rankfort on the Maisuc._—Of the weights, 128 drachmes = 32\nles = 2 marks = 1 heavy lb. = 1·1143 lb. avoird. The light lb-\nsimilarly divided, but only = 1·0318 lb. avoird., so that 108 of\nlight lbs. make only 100 of the heavy or centmer weight. The\nCogne mark, here reckoned = 3611 grains troy, is used for gold\nsilver. The Frankfort foot contains 11·42 Brit. inches, and\ncell 21·54. The Brabant ell is generally used for Dutch goods,\nthe Paris aune for French. Eighty old or 90 new mass (each\nschoppen) are equal to 20 viertels = 1 ohm = 31·57 Brit. gall.;\na 16 sechters = 8 metzen = 4 simmers = 1 malter or achtel =\nBrit. bushels.<x_0.9609><y_0.5078><class_Text>\n\n<x_0.0898><y_0.5055>cross.—There are two sorts of pounds, the peso sottile lb., and\npeso grossolb. The latter is a tenth part heavier than the for-\nn, so that the cantaro of 100 lbs. peso sottile = 69·89 lbs. avoird.,\nthe cantaro of 100 lbs. peso grosso = 76·88. The latter is\nfor bulky commodities, and the former for gold, silver, and\narticles of small bulk. The palmo = 9·725 Brit. inches, and\n33 palmi = 1 braccio. The canna is of three sorts: the canna\npola used by tradesmen = 9 palmi, the canna grossa of the mer-\nants = 12 palmi, and the custom-house canna = 10 palmi. Of\nmeasure, 96 gombette = 8 quarti = 1 mina = 3·31 Brit. bush-\nAlso 100 pints = 2 barili = 1 mezzarola of wine = 32·67\nt. gall.; and 64 quateroni = 4 quarti = 1 oil barile = 14·23\nt. gall.<x_0.9736><y_0.6469><class_Text>\n\n<x_0.0928><y_0.6438>Gressary.—Considerable diversity of weights and measures is\nfound in the various states into which this extensive coun-\nis divided, and the most important of them will be found\niced separately. But not a few of their standards, though dif-\nng in amount, are similar in their multiples and subdivisions.\nthe weights, 1024 hellers = 312 pfennings = 128 quentins =\nloths = 16 ounces = 2 marks = 1 commercial lb.; and 5760\nin = 288 scruples = 96 drams = 12 oz. = 1 apothecaries' lb.;\n4352 eschen = 512 hellers = 256 pfennings = 64 quentins =\nloths = 8 oz. = 1 Cologne mark = 3608 grains troy. By this\nand silver are weighed ; and the fineness of gold is expressed\n24th parts or carats as in Britain, but the fineness of silver by\nparts. For jewellery there is a carat of 3·171 grs. troy. Of\nmeasures, 144 inches = 12 feet = 6 cells = 2 clafters = 4 ruthe.\ne Rhinland foot used by surveyors = 12·36 Brit. inches; the\ng mile = 10,126 Brit. yds., the short mile = 6859, and the\ngraphical mile = 8101 Brit. yds. The Rhinland morgen of\nd = 10,185 Brit. sq. yds.<x_0.9795><y_0.8383><class_Text>\n\n<x_0.1055><y_0.8328>Gibraltar.—Besides the British standards, the following Spanish\nalso used: The arroba = 26 lbs. avoird.; the quintal = 100\n= 101·75 lbs. avourd.; the corn fanega = 1·55 Brit. bushel;\npipe of 117 gallons = 105 Brit. gall.; the liquid arroba =\n7 Brit. gall.; and the wine gallon = 1·094 Brit. gall.\nGo.—The same as in Portugal, except that the candy of 20\nonds = 495 lbs. avoird. This, in the measurement of grain, is\nkoed to be nearly 14 Winchester bushels.<x_0.9775><y_0.925><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1416,
+   "total_tokens": 3343,
+   "completion_tokens": 1927,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

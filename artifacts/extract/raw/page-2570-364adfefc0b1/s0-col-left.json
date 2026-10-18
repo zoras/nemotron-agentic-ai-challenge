@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "90d7e3c761e2c595104c41573e8944fa7e609f1cfea838ea8ded156cca50f96c",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "3ca118fae00eee9e978ecad2ba98d072158c90baf584bb31d3c193fa5f24d6b0",
+  "image_bytes": 2142615,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2570",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0364,
+   0.5433,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0364,
+    0.1167,
+    0.5383
+   ],
+   [
+    0.1167,
+    0.197,
+    0.5333
+   ],
+   [
+    0.197,
+    0.2773,
+    0.5333
+   ],
+   [
+    0.2773,
+    0.3576,
+    0.5333
+   ],
+   [
+    0.3576,
+    0.4379,
+    0.5333
+   ],
+   [
+    0.4379,
+    0.5182,
+    0.5333
+   ],
+   [
+    0.5182,
+    0.5985,
+    0.5333
+   ],
+   [
+    0.5985,
+    0.6788,
+    0.5333
+   ],
+   [
+    0.6788,
+    0.7591,
+    0.5333
+   ],
+   [
+    0.7591,
+    0.8394,
+    0.5333
+   ],
+   [
+    0.8394,
+    0.9197,
+    0.5333
+   ],
+   [
+    0.9197,
+    1.0,
+    0.5333
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2737,
+  "completion_tokens": 937,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.47,
+ "created_at": "2026-10-18T11:21:34+00:00",
+ "content": "<x_0.1338><y_0.0031>88 A B Y S S<x_0.9971><y_0.0219><class_Page-header>\n\n<x_0.1426><y_0.0281>Abyssinia.<x_0.2695><y_0.0539><class_Caption>\n\n<x_0.1396><y_0.1062>The new emperor in- tends to revenge his death.<x_0.2686><y_0.1648><class_Text>\n\n<x_0.1406><y_0.275>but is him- self mur- dered.<x_0.2617><y_0.3125><class_Text>\n\n<x_0.1416><y_0.3133>Reign of Theophi- ins.<x_0.2441><y_0.3484><class_Text>\n\n<x_0.1387><y_0.4367>Execution of the queen and other regi- cider.<x_0.2627><y_0.4961><class_Text>\n\n<x_0.1436><y_0.5211>Tigi revolts, but is defeated, taken, and put to death.<x_0.2754><y_0.5906><class_Text>\n\n<x_0.1445><y_0.7414>Line of Solomon set aside.<x_0.2725><y_0.7789><class_Text>\n\n<x_0.2646><y_0.0227>turned in great haste to Gondar, in order to have the letters of protection renewed by Tecla Haimanout the reigning prince. This was readily done: but before the messenger could reach Sennaar, he was informed that De Roule was already assassinated; on which he returned with still greater haste than be- fore. The Abyssinian monarch, provoked at such a scandalous violation of the law of nations, declared his intention of commencing hostilities against the king of Sennaar; and for this purpose assembled his army. But this was scarcely done, before he was informed that a rival, named Amda Sion, had been set up against him by the friends of his father Yasous, and had been for some time privately collecting troops to surprise him before he could be ready to make any opposition. It was therefore necessary to employ the army destined against Sennaar to reduce this rebel to obedience; and scarcely was this done, when the emperor himself was assassinated; so that all thoughts of revenging the death of M. de Roule were laid aside.<x_0.9717><y_0.3141><class_Text>\n\n<x_0.2656><y_0.3117>Tecla Haimanont perished in 1706, and was succeeded by his uncle Tiffilis, or Theophilus; whose first care was to apprehend all those suspected to have been concerned in the death of his predecessor. Thus the murderers of Yasous, whom Tecla Haimanout had instigated, imagined themselves secure, and came to court without any fear of danger: but no sooner did Theophilus get them into his power, than he caused them all to be put to death without exception; the queen herself being publicly hanged on a tree. Not satisfied with avenging the death of Yasous by the execution of his murderers, he did the same with those of Tecla Haimanout; putting to death all who were immediately in his own power, and commanding the governors of the provinces to do the same with those whom they could find within their jurisdiction. One of these, named Tigi, who had formerly been Betwu- det, having escaped into the country of the Galla, raised a very considerable army, with which he invaded Abyssinia, where he committed the most dreadful cruelties. Theophilus engaged him on the 28th of March 1709; when, with a force greatly inferior, he gained a complete victory. A number of the Galla fled to a church, hoping to be protected by the sancti- ty of the place; but the emperor telling his soldiers that it was defiled by those who were in it, command- ed it to be set on fire, so that every one perished. Ti- gi, with his two sons, were taken prisoners, and put to death. The king himself did not long survive his vic- tory; falling sick of a fever, of which he died in September 1709.<x_0.9727><y_0.7406><class_Text>\n\n<x_0.2705><y_0.7383>After the death of Theophilus, the line of Solomon by the queen of Sheba was superseded a second time, and a stranger of the name of _Oustas_ seated on the Abyssinian throne. The extreme severity of Theophilus in punishing the murderers of both Yasous and Tecla Haimanout gave occasion to this; for as both princes had been assassinated in consequence of conspiracies formed by the principal people of the nation, the number of conspirators was so great, that the parties con- cerned had interest sufficient to influence the election of the new monarch, even in this most capital respect, of his not being a descendant of Solomon. Excopting this single defect, he was in every respect worthy of<x_0.9756><y_0.9234><class_Text>",
+ "reply": {
+  "id": "chatcmpl-784a88b6-5b0b-4565-a7de-a08a864a79e3",
+  "object": "chat.completion",
+  "created": 1792322492,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1338><y_0.0031>88 A B Y S S<x_0.9971><y_0.0219><class_Page-header>\n\n<x_0.1426><y_0.0281>Abyssinia.<x_0.2695><y_0.0539><class_Caption>\n\n<x_0.1396><y_0.1062>The new emperor in- tends to revenge his death.<x_0.2686><y_0.1648><class_Text>\n\n<x_0.1406><y_0.275>but is him- self mur- dered.<x_0.2617><y_0.3125><class_Text>\n\n<x_0.1416><y_0.3133>Reign of Theophi- ins.<x_0.2441><y_0.3484><class_Text>\n\n<x_0.1387><y_0.4367>Execution of the queen and other regi- cider.<x_0.2627><y_0.4961><class_Text>\n\n<x_0.1436><y_0.5211>Tigi revolts, but is defeated, taken, and put to death.<x_0.2754><y_0.5906><class_Text>\n\n<x_0.1445><y_0.7414>Line of Solomon set aside.<x_0.2725><y_0.7789><class_Text>\n\n<x_0.2646><y_0.0227>turned in great haste to Gondar, in order to have the letters of protection renewed by Tecla Haimanout the reigning prince. This was readily done: but before the messenger could reach Sennaar, he was informed that De Roule was already assassinated; on which he returned with still greater haste than be- fore. The Abyssinian monarch, provoked at such a scandalous violation of the law of nations, declared his intention of commencing hostilities against the king of Sennaar; and for this purpose assembled his army. But this was scarcely done, before he was informed that a rival, named Amda Sion, had been set up against him by the friends of his father Yasous, and had been for some time privately collecting troops to surprise him before he could be ready to make any opposition. It was therefore necessary to employ the army destined against Sennaar to reduce this rebel to obedience; and scarcely was this done, when the emperor himself was assassinated; so that all thoughts of revenging the death of M. de Roule were laid aside.<x_0.9717><y_0.3141><class_Text>\n\n<x_0.2656><y_0.3117>Tecla Haimanont perished in 1706, and was succeeded by his uncle Tiffilis, or Theophilus; whose first care was to apprehend all those suspected to have been concerned in the death of his predecessor. Thus the murderers of Yasous, whom Tecla Haimanout had instigated, imagined themselves secure, and came to court without any fear of danger: but no sooner did Theophilus get them into his power, than he caused them all to be put to death without exception; the queen herself being publicly hanged on a tree. Not satisfied with avenging the death of Yasous by the execution of his murderers, he did the same with those of Tecla Haimanout; putting to death all who were immediately in his own power, and commanding the governors of the provinces to do the same with those whom they could find within their jurisdiction. One of these, named Tigi, who had formerly been Betwu- det, having escaped into the country of the Galla, raised a very considerable army, with which he invaded Abyssinia, where he committed the most dreadful cruelties. Theophilus engaged him on the 28th of March 1709; when, with a force greatly inferior, he gained a complete victory. A number of the Galla fled to a church, hoping to be protected by the sancti- ty of the place; but the emperor telling his soldiers that it was defiled by those who were in it, command- ed it to be set on fire, so that every one perished. Ti- gi, with his two sons, were taken prisoners, and put to death. The king himself did not long survive his vic- tory; falling sick of a fever, of which he died in September 1709.<x_0.9727><y_0.7406><class_Text>\n\n<x_0.2705><y_0.7383>After the death of Theophilus, the line of Solomon by the queen of Sheba was superseded a second time, and a stranger of the name of _Oustas_ seated on the Abyssinian throne. The extreme severity of Theophilus in punishing the murderers of both Yasous and Tecla Haimanout gave occasion to this; for as both princes had been assassinated in consequence of conspiracies formed by the principal people of the nation, the number of conspirators was so great, that the parties con- cerned had interest sufficient to influence the election of the new monarch, even in this most capital respect, of his not being a descendant of Solomon. Excopting this single defect, he was in every respect worthy of<x_0.9756><y_0.9234><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2737,
+   "completion_tokens": 937,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

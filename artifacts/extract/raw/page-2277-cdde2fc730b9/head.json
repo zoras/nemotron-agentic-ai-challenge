@@ -1,0 +1,74 @@
+{
+ "request": {
+  "key": "b0533a6fd077d1370e87b2453f7b9b98ca792365c84ad73af794ce24856b969f",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "66f0ce8ceb9ba12a593226c2874c4a6b29c542578754947e1da646c8ca8392eb",
+  "image_bytes": 98609,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2277",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0583,
+   1.0,
+   0.0889
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null,
+  "canvas": 0.5
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1360,
+  "total_tokens": 1409,
+  "completion_tokens": 49,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.23,
+ "created_at": "2026-10-18T11:23:19+00:00",
+ "content": "<x_0.0><y_0.0383>\\begin{tabular}{ccccccc}\nChap. VI. & A N & A T & O M & Y. & \\mbox{} & 271\\\\\n\\end{tabular}<x_0.999><y_0.1187><class_Table>",
+ "reply": {
+  "id": "chatcmpl-4a94d74d-8723-4abb-814f-3051da5279cb",
+  "object": "chat.completion",
+  "created": 1792322598,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0383>\\begin{tabular}{ccccccc}\nChap. VI. & A N & A T & O M & Y. & \\mbox{} & 271\\\\\n\\end{tabular}<x_0.999><y_0.1187><class_Table>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1360,
+   "total_tokens": 1409,
+   "completion_tokens": 49,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

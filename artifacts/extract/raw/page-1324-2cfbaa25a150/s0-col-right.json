@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "c12437e18ae4f1d2409c942164d55bc4f2889966227d4f851181a9442b35ef52",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "ee6ef9a4d8d89bb698e71228bfec555de0158c30595226677c49e4e04268f3f9",
+  "image_bytes": 2019338,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1324",
+  "variant": "s0-col-right",
+  "crop": [
+   0.465,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.4717
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.47
+   ],
+   [
+    0.1667,
+    0.25,
+    0.47
+   ],
+   [
+    0.25,
+    0.3333,
+    0.47
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.47
+   ],
+   [
+    0.4167,
+    0.5,
+    0.47
+   ],
+   [
+    0.5,
+    0.5833,
+    0.47
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.47
+   ],
+   [
+    0.6667,
+    0.75,
+    0.47
+   ],
+   [
+    0.75,
+    0.8333,
+    0.47
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.47
+   ],
+   [
+    0.9167,
+    1.0,
+    0.47
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2684,
+  "completion_tokens": 884,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.4,
+ "created_at": "2026-10-18T11:10:51+00:00",
+ "content": "<x_0.0107><y_0.0414>5 I H E D<x_0.5293><y_0.0625><class_Title>\n\n<x_0.0><y_0.0617>wall as quickly in that feafon as polible (the fpring in this country can fearcely be faid to begin till the end of March). It is almost impoffible to imagine the rapidity with which hedges grow in favourable situations. Mr Erkine had one cut over in the fpring, and by the end of the year it was almost as high as the wall. In three years he fuppofed, that not even the Higiland cheep, who easily overlap a wall of four feet and an half in height, would have been able to break through it.<x_0.7217><y_0.1992><class_Text>\n\n<x_0.0059><y_0.1984>Notwithflanding, the reasons that have been given already against the planting of timber trees in hedges, we find the practice recommended by fome authors as one of the best fituations for rafting hip-timber. The realons are, that the roots have free range in the adjoining inclofures, and the top is expofed to the ex-creife of the winds; by which means the trees are at once enabled to throw out frong arms, and have a large spreading head at the fame time; fo that we thus at once obtain quicknefs of growth, with strength and crookednefs of timber. Well trained timber trees it is alleged are not prejudicial to hedges, though pollards and low spreading trees are deltrusive to the hedge-wood which grows under them; neither are high trees prejudicial to corn-fields like high hedges and pollards, which prevent a proper circulation of air; and in Norfolk, where the cultivation of grain is carried on in great perfection, fuch lands are laid to be _wood-bound_. But when an hedge is trimmed down to four or five feet high, with oaks interfperfed, a circulation of air is rather promoted than retarded by it; and a trimmed hedge will thrive quite well under tall stemmed trees, particularly oaks. For arable inclo-fures, therefore, hedges are recommended of four or five feet high, with oak-timbers from 15 to 25 feet Item. Fligher hedges are more eligible for grafs lands: the graffes affect warmth, by which their growth is promoted, and consequently their quantity is increased, though perhaps their quality may fuller fome injury. A tall fence likewise affords flelter to cattle, provided it be thick and clofe at the bottom; but otherwise, by admitting the air in currents, it does rather harm than good. The shade of trees is equally friendly to cattle in summer; for which reafon it is recommended in grafs inclofures to allow the hedge to make its natural fhoots, and at the fame time to have oak-trees planted in it at proper intervals. Upon bleak hills, and in ex-pofed fituations, it will be proper to have two or even three rows of hedgewood, about four feet distant from each other; the middle row being permitted to reach, and always to remain at, its natural height; whilst the tide rows are cut down alternately to give perpetual fecundity to the bottom, and afford a constant supply of materials for dead hedges and other purposes of un-derwood.<x_0.7295><y_0.8031><class_Text>\n\n<x_0.0127><y_0.8016>Much has been faid of the excellency of the holly Beit me as a material for hedges; and indeed the beauty of the plant, with its extreme clefenefs, and continuing green throughout the winter, evidently give it the preference to all others; and could it be rafted with equal eafe, there is no doubt that it would come into universal practice. Belfides the above properties, the holly will thrive almost upon any foil; but thin-foiled itony heights feem to be its natural situation; and it may properly enough be faid, that holly will grow<x_0.7305><y_0.9414><class_Text>\n\n<x_0.7275><y_0.0633>Hedges.<x_0.8535><y_0.0922><class_Caption>\n\n<x_0.7158><y_0.1938>Reafons for planting oak trees in hedges.<x_0.8545><y_0.2508><class_Caption>\n\n<x_0.7188><y_0.7984>43\nplanting and railing holly for hedges.<x_0.8525><y_0.8758><class_Footnote>\n\n<x_0.3428><y_0.9391>3 B<x_0.4004><y_0.957><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-1789adb7-847c-48bf-9142-168bb3d60053",
+  "object": "chat.completion",
+  "created": 1792321850,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0107><y_0.0414>5 I H E D<x_0.5293><y_0.0625><class_Title>\n\n<x_0.0><y_0.0617>wall as quickly in that feafon as polible (the fpring in this country can fearcely be faid to begin till the end of March). It is almost impoffible to imagine the rapidity with which hedges grow in favourable situations. Mr Erkine had one cut over in the fpring, and by the end of the year it was almost as high as the wall. In three years he fuppofed, that not even the Higiland cheep, who easily overlap a wall of four feet and an half in height, would have been able to break through it.<x_0.7217><y_0.1992><class_Text>\n\n<x_0.0059><y_0.1984>Notwithflanding, the reasons that have been given already against the planting of timber trees in hedges, we find the practice recommended by fome authors as one of the best fituations for rafting hip-timber. The realons are, that the roots have free range in the adjoining inclofures, and the top is expofed to the ex-creife of the winds; by which means the trees are at once enabled to throw out frong arms, and have a large spreading head at the fame time; fo that we thus at once obtain quicknefs of growth, with strength and crookednefs of timber. Well trained timber trees it is alleged are not prejudicial to hedges, though pollards and low spreading trees are deltrusive to the hedge-wood which grows under them; neither are high trees prejudicial to corn-fields like high hedges and pollards, which prevent a proper circulation of air; and in Norfolk, where the cultivation of grain is carried on in great perfection, fuch lands are laid to be _wood-bound_. But when an hedge is trimmed down to four or five feet high, with oaks interfperfed, a circulation of air is rather promoted than retarded by it; and a trimmed hedge will thrive quite well under tall stemmed trees, particularly oaks. For arable inclo-fures, therefore, hedges are recommended of four or five feet high, with oak-timbers from 15 to 25 feet Item. Fligher hedges are more eligible for grafs lands: the graffes affect warmth, by which their growth is promoted, and consequently their quantity is increased, though perhaps their quality may fuller fome injury. A tall fence likewise affords flelter to cattle, provided it be thick and clofe at the bottom; but otherwise, by admitting the air in currents, it does rather harm than good. The shade of trees is equally friendly to cattle in summer; for which reafon it is recommended in grafs inclofures to allow the hedge to make its natural fhoots, and at the fame time to have oak-trees planted in it at proper intervals. Upon bleak hills, and in ex-pofed fituations, it will be proper to have two or even three rows of hedgewood, about four feet distant from each other; the middle row being permitted to reach, and always to remain at, its natural height; whilst the tide rows are cut down alternately to give perpetual fecundity to the bottom, and afford a constant supply of materials for dead hedges and other purposes of un-derwood.<x_0.7295><y_0.8031><class_Text>\n\n<x_0.0127><y_0.8016>Much has been faid of the excellency of the holly Beit me as a material for hedges; and indeed the beauty of the plant, with its extreme clefenefs, and continuing green throughout the winter, evidently give it the preference to all others; and could it be rafted with equal eafe, there is no doubt that it would come into universal practice. Belfides the above properties, the holly will thrive almost upon any foil; but thin-foiled itony heights feem to be its natural situation; and it may properly enough be faid, that holly will grow<x_0.7305><y_0.9414><class_Text>\n\n<x_0.7275><y_0.0633>Hedges.<x_0.8535><y_0.0922><class_Caption>\n\n<x_0.7158><y_0.1938>Reafons for planting oak trees in hedges.<x_0.8545><y_0.2508><class_Caption>\n\n<x_0.7188><y_0.7984>43\nplanting and railing holly for hedges.<x_0.8525><y_0.8758><class_Footnote>\n\n<x_0.3428><y_0.9391>3 B<x_0.4004><y_0.957><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2684,
+   "completion_tokens": 884,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

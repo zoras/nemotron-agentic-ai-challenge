@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "e83bbaf3bb5b0232bee6ff0e12242809a28e852a162d868bd50eff4f662cdc4e",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "eab6267350bd221e52422bf595ca3fa70d0793e3bbeeb9e8cee87e4f9ea178e0",
+  "image_bytes": 493892,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:944",
+  "variant": "s1-wide",
+  "crop": [
+   0.0,
+   0.1929,
+   1.0,
+   0.5071
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 597,
+  "total_tokens": 976,
+  "completion_tokens": 379,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.62,
+ "created_at": "2026-10-18T11:08:56+00:00",
+ "content": "<x_0.1904><y_0.0>\\begin{tabular}{ccccccccc}\n**3** & **Inch** & & & & & & & & \\\\\n9 & 3 & Palm & & & & & & & \\\\\n27 & 9 & 3 & Span & & & & & & \\\\\n36 & 12 & 4 & 13 & Foot & & & & & \\\\\n54 & 18 & 6 & 2 & 13 & Cubic & & & & \\\\\n108 & 36 & 12 & 4 & 3 & 2 & Yard & & & \\\\\n180 & 60 & 20 & 63 & 5 & 33 & 13 & Pace & & \\\\\n216 & 72 & 24 & 8 & 6 & 4 & 2 & 1 3 & Fathom & \\\\\n594 & 198 & 66 & 22 & 163 & 11 & 51 & 310 & 23 Pole & \\\\\n23760 & 7920 & 2640 & 880 & 660 & 440 & 220 & 132 & 110 & 40 Furlong\\\\\n190080 & 63360 & 21120 & 7040 & 5280 & 3520 & 1760 & 1056 & 880 & 320 8 Mile.\\\\\n\\end{tabular}<x_0.8232><y_0.9977><class_Table>",
+ "reply": {
+  "id": "chatcmpl-2aa4ffbc-ee3b-458f-832e-dd5ae2865480",
+  "object": "chat.completion",
+  "created": 1792321736,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1904><y_0.0>\\begin{tabular}{ccccccccc}\n**3** & **Inch** & & & & & & & & \\\\\n9 & 3 & Palm & & & & & & & \\\\\n27 & 9 & 3 & Span & & & & & & \\\\\n36 & 12 & 4 & 13 & Foot & & & & & \\\\\n54 & 18 & 6 & 2 & 13 & Cubic & & & & \\\\\n108 & 36 & 12 & 4 & 3 & 2 & Yard & & & \\\\\n180 & 60 & 20 & 63 & 5 & 33 & 13 & Pace & & \\\\\n216 & 72 & 24 & 8 & 6 & 4 & 2 & 1 3 & Fathom & \\\\\n594 & 198 & 66 & 22 & 163 & 11 & 51 & 310 & 23 Pole & \\\\\n23760 & 7920 & 2640 & 880 & 660 & 440 & 220 & 132 & 110 & 40 Furlong\\\\\n190080 & 63360 & 21120 & 7040 & 5280 & 3520 & 1760 & 1056 & 880 & 320 8 Mile.\\\\\n\\end{tabular}<x_0.8232><y_0.9977><class_Table>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 597,
+   "total_tokens": 976,
+   "completion_tokens": 379,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "10d2f0561fc53df9966b40d21a2dd302215cadcb4dce2a18f4336d604316cea0",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "e95aaf3825dd094504a82fcebbef5f3278752ce14586b41924c2bc0afadc0b6f",
+  "image_bytes": 2000612,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:318",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0192,
+   0.4783,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0192,
+    0.1009,
+    0.4733
+   ],
+   [
+    0.1009,
+    0.1827,
+    0.4667
+   ],
+   [
+    0.1827,
+    0.2644,
+    0.4667
+   ],
+   [
+    0.2644,
+    0.3461,
+    0.4667
+   ],
+   [
+    0.3461,
+    0.4279,
+    0.4667
+   ],
+   [
+    0.4279,
+    0.5096,
+    0.4667
+   ],
+   [
+    0.5096,
+    0.5913,
+    0.4667
+   ],
+   [
+    0.5913,
+    0.6731,
+    0.4633
+   ],
+   [
+    0.6731,
+    0.7548,
+    0.4617
+   ],
+   [
+    0.7548,
+    0.8365,
+    0.46
+   ],
+   [
+    0.8365,
+    0.9183,
+    0.4583
+   ],
+   [
+    0.9183,
+    1.0,
+    0.465
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2423,
+  "completion_tokens": 879,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.28,
+ "created_at": "2026-10-18T11:19:15+00:00",
+ "content": "<x_0.4141><y_0.0047>**N I L [ 7**<x_0.999><y_0.0297><class_Title>\n\n<x_0.0605><y_0.0266>**Nile.** or White River, which, according to the accounts given by the Galla, our author fuppofes to take its rife in about 5° north latitude.<x_0.9863><y_0.0711><class_Text>\n\n<x_0.1494><y_0.0703>The rains therefore precede the fun only about 5°; but they continue and increase after he has paffed it. In April all the rivers in the fouthern parts of Abyf- finia begin to fwell, and greatly augment the Nile, which is now alfo farther augmented by the vaft quan-tity of water poured into the lake Tzana. On the first days of May, the fun paffes the village of Gerri, which is the limit of the tropical rains; and it is very remarkable, that, though the fun fill continues to operate with unabated vigour. all his influence cannot bring the clouds farther northward than this village; the reafon of which Mr Bruce, with great reafon, fup-pofes to be the want of mountains to the northward. In confirmation of this opinion, he obferves, that the tropical rains flop at the latitude of 14° inflead of 16° in the weftern part of the continent. All this time, however, they continue violent in Abyffinia; and in the beginning of June the rivers are all full, and continue fo while the fun remains stationary in the tropic of Cancer.<x_0.9766><y_0.3484><class_Text>\n\n<x_0.1201><y_0.3469>This executive rain, which would fweep off the whole foil of Egypt into the fea were it to continue with- out intermillion, begins to abate as the fun turns fouthward; and on his arrival at the zenith of each place, on his paffage towards that quarter, they cease entirely: the reason of which is no lefs difficult to be dif- covered than that of their coming on when he arrives at the zenith in his paffage northward. Be the rea- fon what it will, however, the fact is certain; and not only fo, but the time of the rains ceafing is exact to a fingle day; infomuch, that on the 25th of September the Nile is generally found to be at its highest at Cairo, and begins to diminish every day after. Immediately after the fun has paffed the line, he begins the rainy reafon to the fouthward; the rains conflantly coming on with violence as he approaches the ze- nith of each place; but the inundation is now pro- moted in a different manner, according to the differ-ence of circumstances in the situation of the places. From about 6° S. Lat. a chain of high mountains runs all the way along the middle of the continent towards the Cape of Good Hope, and interfects the fouthern part of the peninfula nearly in the fame manner that the Nile does the northern. A strong wind from the fourth, flopping the progrefs of the condenfed vapours, dashes them against the cold fummits of this ridge of mountains, and forms many rivers, which escape in the direction either of call or well as the level prefents itself. If this is towards the weft, they fall down the tides of the mountains into the Atlantic, and if on the caft into the Indian ocean. \" The clouds (fays Mr Bruce), drawn by the violent action of the fun, are condenfed, then broken and fall as rain on the top of this high ridge, and fwell every river; while a wind from the ocean on the caft blows like a monsoon up each of thefe streams, in a direction contrary to their current, during the whole time of the inundation; and this enables boats to affected into the weftern parts of Sofala, and the interior country to the mountains, where lies the gold. The fame effect, from the fame caufe, is produced on the weftern tide towards the Atlantic; the high ridge of mountains being placed be-<x_0.9775><y_0.9336><class_Text>",
+ "reply": {
+  "id": "chatcmpl-dcc0d623-1063-4a35-80b7-7ec2b9a9baa7",
+  "object": "chat.completion",
+  "created": 1792322354,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4141><y_0.0047>**N I L [ 7**<x_0.999><y_0.0297><class_Title>\n\n<x_0.0605><y_0.0266>**Nile.** or White River, which, according to the accounts given by the Galla, our author fuppofes to take its rife in about 5° north latitude.<x_0.9863><y_0.0711><class_Text>\n\n<x_0.1494><y_0.0703>The rains therefore precede the fun only about 5°; but they continue and increase after he has paffed it. In April all the rivers in the fouthern parts of Abyf- finia begin to fwell, and greatly augment the Nile, which is now alfo farther augmented by the vaft quan-tity of water poured into the lake Tzana. On the first days of May, the fun paffes the village of Gerri, which is the limit of the tropical rains; and it is very remarkable, that, though the fun fill continues to operate with unabated vigour. all his influence cannot bring the clouds farther northward than this village; the reafon of which Mr Bruce, with great reafon, fup-pofes to be the want of mountains to the northward. In confirmation of this opinion, he obferves, that the tropical rains flop at the latitude of 14° inflead of 16° in the weftern part of the continent. All this time, however, they continue violent in Abyffinia; and in the beginning of June the rivers are all full, and continue fo while the fun remains stationary in the tropic of Cancer.<x_0.9766><y_0.3484><class_Text>\n\n<x_0.1201><y_0.3469>This executive rain, which would fweep off the whole foil of Egypt into the fea were it to continue with- out intermillion, begins to abate as the fun turns fouthward; and on his arrival at the zenith of each place, on his paffage towards that quarter, they cease entirely: the reason of which is no lefs difficult to be dif- covered than that of their coming on when he arrives at the zenith in his paffage northward. Be the rea- fon what it will, however, the fact is certain; and not only fo, but the time of the rains ceafing is exact to a fingle day; infomuch, that on the 25th of September the Nile is generally found to be at its highest at Cairo, and begins to diminish every day after. Immediately after the fun has paffed the line, he begins the rainy reafon to the fouthward; the rains conflantly coming on with violence as he approaches the ze- nith of each place; but the inundation is now pro- moted in a different manner, according to the differ-ence of circumstances in the situation of the places. From about 6° S. Lat. a chain of high mountains runs all the way along the middle of the continent towards the Cape of Good Hope, and interfects the fouthern part of the peninfula nearly in the fame manner that the Nile does the northern. A strong wind from the fourth, flopping the progrefs of the condenfed vapours, dashes them against the cold fummits of this ridge of mountains, and forms many rivers, which escape in the direction either of call or well as the level prefents itself. If this is towards the weft, they fall down the tides of the mountains into the Atlantic, and if on the caft into the Indian ocean. \" The clouds (fays Mr Bruce), drawn by the violent action of the fun, are condenfed, then broken and fall as rain on the top of this high ridge, and fwell every river; while a wind from the ocean on the caft blows like a monsoon up each of thefe streams, in a direction contrary to their current, during the whole time of the inundation; and this enables boats to affected into the weftern parts of Sofala, and the interior country to the mountains, where lies the gold. The fame effect, from the fame caufe, is produced on the weftern tide towards the Atlantic; the high ridge of mountains being placed be-<x_0.9775><y_0.9336><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2423,
+   "completion_tokens": 879,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

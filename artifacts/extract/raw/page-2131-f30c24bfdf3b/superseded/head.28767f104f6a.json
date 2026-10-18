@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "28767f104f6a9a630667c19296c9f58d522520be1cf2d87dea8b9de8442e3daf",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "e8babe7249a3a430a3d54ba83f4c69fb9fb553655a3cdb12dc8c8c91ac1acd37",
+  "image_bytes": 111863,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2131",
+  "variant": "head",
+  "crop": [
+   0.0,
+   0.0325,
+   1.0,
+   0.0716
+  ],
+  "scale": 3,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 164,
+  "total_tokens": 208,
+  "completion_tokens": 44,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.18,
+ "created_at": "2026-10-18T11:20:47+00:00",
+ "content": "<x_0.0><y_0.0>Bom [ 353 ] BOM\nBambar. August. September. cocoa-nut tree itself, not all the minute deferptions I Bombay.<x_0.999><y_0.9867><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-e288abe7-7dd6-493b-bb28-3712bb8d4b01",
+  "object": "chat.completion",
+  "created": 1792322447,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0><y_0.0>Bom [ 353 ] BOM\nBambar. August. September. cocoa-nut tree itself, not all the minute deferptions I Bombay.<x_0.999><y_0.9867><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 164,
+   "total_tokens": 208,
+   "completion_tokens": 44,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

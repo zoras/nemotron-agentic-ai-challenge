@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "4215794fce97371c3c0d41015aac412f15a626033e4ece92f0a8eb038b9b580c",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "68debd5ef799625deea0c9018056f2692a078cc753595c87b34e7f56ca59ad37",
+  "image_bytes": 465883,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1268",
+  "variant": "s1-wide",
+  "crop": [
+   0.0,
+   0.1648,
+   1.0,
+   0.3345
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 331,
+  "total_tokens": 691,
+  "completion_tokens": 360,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.52,
+ "created_at": "2026-10-18T11:10:46+00:00",
+ "content": "<x_0.1494><y_0.0>NAXIA, the ancient Naxos, is one of the largest and most fertile of the islands in the Archipelago, known as the Cyclades. Its greatest length from north to south is seventeen miles, and its greatest breadth about twelve miles. The north point is in latitude 37. 12. Although the rocks are of a most repulsive appearance, yet the island is diversified by hills, valleys, and plains, and is well wooded and watered. Besides the city of its name, it contains thirty- five villages, and a population of about 17,000 persons. It produces corn equal to six months' consumption, and a surplus of oil, fruits, and cheese. Large quantities of oranges and lemons are exported. There is no port on the island for ships to enter.<x_0.5488><y_0.9992><class_Text>\n\n<x_0.5439><y_0.0>size. The table service consisted altogether of pewter, but every thing was extremely clean, and the provisions were excellent, particularly fine wheaten bread, and wine from Mount Lebanon, not inferior to the wines of France. The church belonging to the monastery is erected over a grot- to, which is believed to have belonged to the Virgin Mary. In this place are shown her kitchen and fire-place; and by way of miracle a pillar is exhibited, the capital of which, separated from the shaft, is represented as self-supported in the air. Dr Clarke, however, soon observed that it was fastened into the wall above. Mr Buckingham was shown a second grotto, or a continuation of the first, with two red granite pillars, of about two feet in diameter at its entrance; and he was told that the one marked the spot where the<x_0.9453><y_0.9961><class_Text>",
+ "reply": {
+  "id": "chatcmpl-93764b7f-e190-45a0-a85d-315e68b6e247",
+  "object": "chat.completion",
+  "created": 1792321846,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1494><y_0.0>NAXIA, the ancient Naxos, is one of the largest and most fertile of the islands in the Archipelago, known as the Cyclades. Its greatest length from north to south is seventeen miles, and its greatest breadth about twelve miles. The north point is in latitude 37. 12. Although the rocks are of a most repulsive appearance, yet the island is diversified by hills, valleys, and plains, and is well wooded and watered. Besides the city of its name, it contains thirty- five villages, and a population of about 17,000 persons. It produces corn equal to six months' consumption, and a surplus of oil, fruits, and cheese. Large quantities of oranges and lemons are exported. There is no port on the island for ships to enter.<x_0.5488><y_0.9992><class_Text>\n\n<x_0.5439><y_0.0>size. The table service consisted altogether of pewter, but every thing was extremely clean, and the provisions were excellent, particularly fine wheaten bread, and wine from Mount Lebanon, not inferior to the wines of France. The church belonging to the monastery is erected over a grot- to, which is believed to have belonged to the Virgin Mary. In this place are shown her kitchen and fire-place; and by way of miracle a pillar is exhibited, the capital of which, separated from the shaft, is represented as self-supported in the air. Dr Clarke, however, soon observed that it was fastened into the wall above. Mr Buckingham was shown a second grotto, or a continuation of the first, with two red granite pillars, of about two feet in diameter at its entrance; and he was told that the one marked the spot where the<x_0.9453><y_0.9961><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 331,
+   "total_tokens": 691,
+   "completion_tokens": 360,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

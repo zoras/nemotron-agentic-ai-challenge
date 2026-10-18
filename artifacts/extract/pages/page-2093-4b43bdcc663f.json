@@ -1,0 +1,377 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2093",
+ "row_index": 2093,
+ "volume_id": "193108316",
+ "filename": "page-2093-4b43bdcc663f.jpg",
+ "image_sha256": "4b43bdcc663fb9fad54e0e68bb4b2494f0734ae88b667ac4e35071785a273bc2",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.06275,
+  "median_grey": 210,
+  "layout_body_chars": 6856,
+  "layout_pictures": 0
+ },
+ "running_head": "S' E N [ 151 J S E N",
+ "layout_raw": "page-2093-4b43bdcc663f/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.0528,
+    1.0,
+    0.0827
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-2093-4b43bdcc663f/head.json",
+   "finish_reason": "stop",
+   "request_key": "6184f23815c17459009d67c0db396c141484592193aa8839d93bdb5d33e1fa0f"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0528,
+    0.455,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0528,
+     0.1389,
+     0.4483
+    ],
+    [
+     0.1389,
+     0.225,
+     0.45
+    ],
+    [
+     0.225,
+     0.3111,
+     0.45
+    ],
+    [
+     0.3111,
+     0.3972,
+     0.45
+    ],
+    [
+     0.3972,
+     0.4833,
+     0.45
+    ],
+    [
+     0.4833,
+     0.5695,
+     0.45
+    ],
+    [
+     0.5695,
+     0.6556,
+     0.45
+    ],
+    [
+     0.6556,
+     0.7417,
+     0.45
+    ],
+    [
+     0.7417,
+     0.8278,
+     0.45
+    ],
+    [
+     0.8278,
+     0.9139,
+     0.45
+    ],
+    [
+     0.9139,
+     1.0,
+     0.45
+    ]
+   ],
+   "raw_path": "page-2093-4b43bdcc663f/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "9e5b8ae88e40e18e7af5c05a7cafaedb42f07f1dfceec1bcdfe6fb8fed75dd9c"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4433,
+    0.0528,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0528,
+     0.1389,
+     0.4483
+    ],
+    [
+     0.1389,
+     0.225,
+     0.45
+    ],
+    [
+     0.225,
+     0.3111,
+     0.45
+    ],
+    [
+     0.3111,
+     0.3972,
+     0.45
+    ],
+    [
+     0.3972,
+     0.4833,
+     0.45
+    ],
+    [
+     0.4833,
+     0.5695,
+     0.45
+    ],
+    [
+     0.5695,
+     0.6556,
+     0.45
+    ],
+    [
+     0.6556,
+     0.7417,
+     0.45
+    ],
+    [
+     0.7417,
+     0.8278,
+     0.45
+    ],
+    [
+     0.8278,
+     0.9139,
+     0.45
+    ],
+    [
+     0.9139,
+     1.0,
+     0.45
+    ]
+   ],
+   "raw_path": "page-2093-4b43bdcc663f/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "318e7ce211eca6ff781e851d70088eaeae6363f86e1e1c5255ac299db8f73008"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "S' E N [ 151 J S E N",
+   "bbox": [
+    0.0,
+    0.0528,
+    1.0,
+    0.0827
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-2093-4b43bdcc663f:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "S' E N",
+   "bbox": [
+    0.1991,
+    0.0588,
+    0.2982,
+    0.0794
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-2093-4b43bdcc663f:b1"
+  },
+  {
+   "order": 2,
+   "class": "Margin-note",
+   "text": "Senler.",
+   "bbox": [
+    0.0311,
+    0.0817,
+    0.0866,
+    0.1061
+   ],
+   "parse_class": "Picture",
+   "source": "s0-col-left",
+   "id": "page-2093-4b43bdcc663f:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "we doubt the truths of fuch facts, we mult at least ac- knowledge their probability, fince we meet every day with a number of familiar examples. When we fee a chefs-player to deeply immersed in thought as to be in a manner loft to his outward fenêes, thould we not ima- gine him to be wholly engroffed with the care of his own private affairs, or of the public went? but the ob- jest of all this profound meditation is the pleasure of ex- ercifing the mind by the movement of a piece of ivory. From this exercise of the mind also writes the pleasure we fometimes take in refined and delicate fentiments, which, after the manner of Virgil's thepherds, (Et fugit ad fulicer, fed fe cupit ante videri), are fometimes artfully concealed, but fo as to afford us the pleasure of difcovering them \\*.\"",
+   "bbox": [
+    0.0871,
+    0.0809,
+    0.4457,
+    0.2681
+   ],
+   "source": "s0-col-left",
+   "id": "page-2093-4b43bdcc663f:b3"
+  },
+  {
+   "order": 4,
+   "class": "Caption",
+   "text": "_Theorie del Sentiments agréable._",
+   "bbox": [
+    0.0222,
+    0.2548,
+    0.0893,
+    0.2993
+   ],
+   "source": "s0-col-left",
+   "id": "page-2093-4b43bdcc663f:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "From home of the foregoing remarks we alfo fee that nature points out to us the superiority and excellence of our mental faculties, thus fuggetting to us that we ought to cultivate them moft, as being our better and our no-bler part, to the cultivation of which that of our fenfi-tive faculties thould be merely fubfervient. But, although our pleafures are thus by nature rendered in a great degree independent of ourselves, fill we have it in our power to make them all more durable; by varying and mixing them with one another, or by interpo-ling between those that are very agreeable others that are less pleading, fo as that no individual pleasure shall be in excels.",
+   "bbox": [
+    0.0862,
+    0.2659,
+    0.4452,
+    0.4257
+   ],
+   "source": "s0-col-left",
+   "id": "page-2093-4b43bdcc663f:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "Befides the circumstances already noticed, there are others of a very different kind, which have alfo confi-derable influence on the pleafures of the fenêes ; fuch as different conditions of the whole body, particularly of the nerves, or of certain organs or functions, to which functions fome organs of fenês, and perhaps even the fenfation of thefe, are in a great measure fubfervient. This is one of the causes why many pleafures, which we cultivate with all our might, cannot be immortal. If a person be thirty, fpring water is nectar to him ; if hungry, any kind of food is agreeable, even the fmell of food is grateful. To a man in a heat, or in a fever, cold is pleating ; and to one in a cold fit nothing is fo agreeable as heat. To thefe fame perfons, at other times, fo far are thefe things from being agreeable, that they are often diliguing. The molt decided glutton cannot always relish a fumptuous feaft.",
+   "bbox": [
+    0.0844,
+    0.425,
+    0.4448,
+    0.6351
+   ],
+   "source": "s0-col-left",
+   "id": "page-2093-4b43bdcc663f:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Befides the fenfations excited by external objects, there are others alfo which cause pain and pleasure. If the action of the muticles be frong, easy, and cheerful, and not continued fo as to fatigue us, it causes pleasure. On the contrary, when this action is attended with a fenêe of lifllethiefs, latitude, difficulty, and debility, it can- fes pain more or lefs. In fine, various flates and affections of the mind, fuch as the exercife of memory, imagination, and judgement, nearly for familiar reafons, are fometimes painful, at other times agreeable. \" Animi affectus, qui modici grate excitant, vehementes, aut graves et dinturni, hujus pariter ac corporis vires frangunt ; hominem interdum flatim extinguunt, fe-pius longa valetudine macerant. Somni etiam, quo ud exhauflas vires reficiendas egemus, excerflus, vel de-fectus, et animo et corpori nocet.\"-- Defidia, five animi five corporis, utriufque vires languefount: ni-nia exercitatione haud minus lieduntur. Statuit enim provida return parens, ut fingularum partium, et uni-verli corporis animique vires ufu roborentur et acuan-",
+   "bbox": [
+    0.0835,
+    0.6345,
+    0.4444,
+    0.8845
+   ],
+   "source": "s0-col-left",
+   "id": "page-2093-4b43bdcc663f:b7"
+  },
+  {
+   "order": 8,
+   "class": "Head-fragment",
+   "text": "5T J SEN",
+   "bbox": [
+    0.4466,
+    0.0588,
+    0.7097,
+    0.0794
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-2093-4b43bdcc663f:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "tur ; et hule iterum certos fines pofuit: ita ut neque quem voluit natura ufus impane omittatur, neque ultra modum intendatur \\*.\"",
+   "bbox": [
+    0.4563,
+    0.0802,
+    0.8146,
+    0.1172
+   ],
+   "source": "s0-col-right",
+   "id": "page-2093-4b43bdcc663f:b9"
+  },
+  {
+   "order": 10,
+   "class": "Caption",
+   "text": "Senles",
+   "bbox": [
+    0.8157,
+    0.0809,
+    0.8777,
+    0.1023
+   ],
+   "source": "s0-col-right",
+   "id": "page-2093-4b43bdcc663f:b10"
+  },
+  {
+   "order": 11,
+   "class": "Text",
+   "text": "\" Of fuch fenfations and feelings as are agreeable or difagreeable, we may remark,\" fays Dr Reid, \" that they differ much, not only in degree, but in kind and in dignity. Some belong to the animal part of our nature, and are common to us with the brutes : others be long to the rational and moral part. The first are more properly called _fenfations_, the latt _feelings_. The French word _fentiment_ is common to both.\"",
+   "bbox": [
+    0.4558,
+    0.1165,
+    0.8141,
+    0.2164
+   ],
+   "source": "s0-col-right",
+   "id": "page-2093-4b43bdcc663f:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "\" The Author of nature, in the distribution of agreeable and painful feelings, bath wifely and benevolently confulted the good of the human species ; and bath even thewn us, by the fame means, what tenor of conduct we ought to hold. For, fejl, The painful fenfations of the animal kind are admonitions to avoid what would hurt us ; and the agreeable fenfations of this kind in vite us to those actions that are necefary to the prefervation of the individual, or of the kind. Secondly, By the fame means nature invites us to moderate bodily exercise, and admonishes us to avoid idlenés and inactivity on the one hand, and excessive labour and fatigue upon the other. _Thirdly_, The moderate exercise of all our rational powers gives pleasure. _Fourthly_, Every species of beauty is behold with pleasure, and every species of deformity with difficult ; and we shall find all that we call beautiful, to be something eftimable, or useful in itself, or a sign of fomething that is estimable or useful. _Fifthly_, The benevolent affections are all accompanied with an agreeable feeling, the malevolent with the contrary. And, _Sixthly_, The high-elt, the nobleft and most durable pleasure is that of doing well and acting the part that becomes us ; and the most bitter and painful femtiment is the anguish and re-morle of a guilty confidence.\" Thefe observations with regard to the economy of nature in the difficulties of our painful and agreeable fenfations and feelings are fo well illustrated by the elegant and judicious au-thor of _Theorie des Senttiments agreeables_, that we deem itunneceffary to make any further remarks on this futbject. (See HAPPINESS and PLEASURE) A little reflection may falsify us, that the number and variety of our fenfations and feelings are prodigious. For, to omit all those which accompany our appetites, paffions, and affections, our moral fentiments and fentiments of tafte, even our external fences, furniti a great variety of fenfations differing in kind, and almost in every kind an endless variety of degrees. Every variety we discern, with regard to tafte, fmell, found, colour, heat, and cold, and in the tangible qualities of bodies, is indicated by a fenfation corresponding to it.",
+   "bbox": [
+    0.4537,
+    0.2156,
+    0.8152,
+    0.7203
+   ],
+   "source": "s0-col-right",
+   "id": "page-2093-4b43bdcc663f:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "The moft general and the moft important division of our fenfations and feelings is into the agreeable, the differenceable, and the indifferent. Every thing we call pleasure, happiness, or enjoyment, on the one hand ; and, on the other, every thing we call mifery, pain, or uneafineft, is fenfation or feeling: For no man can for the prefent be more happy, or more miferable, than he feels himself to be. He cannot be deceived with regard to the enjoyment or suffering of the prefent moment.",
+   "bbox": [
+    0.4509,
+    0.7195,
+    0.813,
+    0.8313
+   ],
+   "source": "s0-col-right",
+   "id": "page-2093-4b43bdcc663f:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "But, besides the fenfations that are agreeable or disagreeable, there is fill a greater number that are indiferent. To these we give to little attention, that they have no name, and are immediately forgotten as if they had",
+   "bbox": [
+    0.4504,
+    0.8305,
+    0.8092,
+    0.8927
+   ],
+   "source": "s0-col-right",
+   "id": "page-2093-4b43bdcc663f:b14"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "request": {
+  "key": "5a984ac31803cc60e28e0b8274f9622bf70b634ce3b3aa9e3469ec71f19c61dc",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "03dbbf14a1393c6011afde502735434e5206ebb69c0bc6dd47e74c0d47f51523",
+  "image_bytes": 856879,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1032",
+  "variant": "s2-wide",
+  "crop": [
+   0.0,
+   0.6087,
+   1.0,
+   1.0
+  ],
+  "scale": 2,
+  "keep": null,
+  "gutter": null
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 768,
+  "total_tokens": 1300,
+  "completion_tokens": 532,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 0.79,
+ "created_at": "2026-10-18T11:10:39+00:00",
+ "content": "<x_0.1152><y_0.0195>HEAT, in phyfiology, one of the secondary qualities of bodies, produced by fire, and oppofed to cold.<x_0.5254><y_0.0961><class_Text>\n\n<x_0.1348><y_0.0938>Under the article fire, we confidered the fun as the principal fource of heat upon the earth’s surface, and the conflines of the earth and atmosphere: with- out this, all the bodies upon our globe would doubt- lefs grow rigid, lifelefs, and fixed. It is this that ftirs within them, as the main fpring of their actions. Hence vegetation and animalization are evidently pro- moted; and hence the ocean and the atmosphere con- tinue in a fluid flate.<x_0.5244><y_0.4031><class_Text>\n\n<x_0.1338><y_0.4016>Heat in us is properly a fenfation, excited by the action of fire; or it is the effect of fire on our organs of feeling. Hence it follows, that what we call heat is a particular idea or modification of our own mind, and not any thing exilling in that form in the body that occations it. Heat, fays Mr Locke, is no more in the fire that burns the finger, than pain is in the needle that pricks it. In effect, heat in the body that<x_0.5264><y_0.6805><class_Text>\n\n<x_0.5537><y_0.0203>gives it, is only motion ; and in the mind, only a par-ticular idea.<x_0.9404><y_0.0922><class_Text>\n\n<x_0.5527><y_0.093>Heat in the hot body, according to ’S Gravefande, is an agitation of the parts of the body, made by means of the fire contained in it: by fuch an agitation a mo- tion is produced in our bodies, which excites the idea of heat in our mind ; fo that heat in reflect of us is nothing but that idea, and in the hot body nothing but motion. If fuch motion expel the fire in right lines, it gives us the idea of light ; if in a various and irre- gular motion, only heat.<x_0.9424><y_0.4039><class_Text>\n\n<x_0.5547><y_0.4023>Heat, with respect to our fenfations, or the effect produced on us by a hot body, is effimated by its rela- tion to the organ of feeling ; no object appearing to be hot, unlefs its heat exceed that of our body. Whence the fame thing to different perfons, or at different times to the fame perforn, fhall appear both hot and cold. The degree of heat is measured by the expansion of the air, or spirit in the thermometer.<x_0.9434><y_0.6813><class_Text>\n\n<x_0.9258><y_0.675>It<x_0.9443><y_0.7109><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-ea6d4000-6d36-4b10-a69b-b1f2db8e9bd2",
+  "object": "chat.completion",
+  "created": 1792321838,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.1152><y_0.0195>HEAT, in phyfiology, one of the secondary qualities of bodies, produced by fire, and oppofed to cold.<x_0.5254><y_0.0961><class_Text>\n\n<x_0.1348><y_0.0938>Under the article fire, we confidered the fun as the principal fource of heat upon the earth’s surface, and the conflines of the earth and atmosphere: with- out this, all the bodies upon our globe would doubt- lefs grow rigid, lifelefs, and fixed. It is this that ftirs within them, as the main fpring of their actions. Hence vegetation and animalization are evidently pro- moted; and hence the ocean and the atmosphere con- tinue in a fluid flate.<x_0.5244><y_0.4031><class_Text>\n\n<x_0.1338><y_0.4016>Heat in us is properly a fenfation, excited by the action of fire; or it is the effect of fire on our organs of feeling. Hence it follows, that what we call heat is a particular idea or modification of our own mind, and not any thing exilling in that form in the body that occations it. Heat, fays Mr Locke, is no more in the fire that burns the finger, than pain is in the needle that pricks it. In effect, heat in the body that<x_0.5264><y_0.6805><class_Text>\n\n<x_0.5537><y_0.0203>gives it, is only motion ; and in the mind, only a par-ticular idea.<x_0.9404><y_0.0922><class_Text>\n\n<x_0.5527><y_0.093>Heat in the hot body, according to ’S Gravefande, is an agitation of the parts of the body, made by means of the fire contained in it: by fuch an agitation a mo- tion is produced in our bodies, which excites the idea of heat in our mind ; fo that heat in reflect of us is nothing but that idea, and in the hot body nothing but motion. If fuch motion expel the fire in right lines, it gives us the idea of light ; if in a various and irre- gular motion, only heat.<x_0.9424><y_0.4039><class_Text>\n\n<x_0.5547><y_0.4023>Heat, with respect to our fenfations, or the effect produced on us by a hot body, is effimated by its rela- tion to the organ of feeling ; no object appearing to be hot, unlefs its heat exceed that of our body. Whence the fame thing to different perfons, or at different times to the fame perforn, fhall appear both hot and cold. The degree of heat is measured by the expansion of the air, or spirit in the thermometer.<x_0.9434><y_0.6813><class_Text>\n\n<x_0.9258><y_0.675>It<x_0.9443><y_0.7109><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 768,
+   "total_tokens": 1300,
+   "completion_tokens": 532,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

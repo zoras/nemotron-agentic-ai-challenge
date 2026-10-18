@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "55b6bb8d5e2bc7a8c2d3d7c14bf43eae76076351189758e4b949f879c64969d5",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "362681927eb5f40cbe2ed879ba5fb296c277402aa20289adcef0609222be469f",
+  "image_bytes": 1806104,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2250",
+  "variant": "s0-col-left",
+  "crop": [
+   0.0,
+   0.0466,
+   0.485,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "left",
+  "gutter": [
+   [
+    0.0466,
+    0.1333,
+    0.4783
+   ],
+   [
+    0.1333,
+    0.2199,
+    0.48
+   ],
+   [
+    0.2199,
+    0.3066,
+    0.48
+   ],
+   [
+    0.3066,
+    0.3933,
+    0.48
+   ],
+   [
+    0.3933,
+    0.48,
+    0.48
+   ],
+   [
+    0.48,
+    0.5666,
+    0.48
+   ],
+   [
+    0.5666,
+    0.6533,
+    0.48
+   ],
+   [
+    0.6533,
+    0.74,
+    0.48
+   ],
+   [
+    0.74,
+    0.8267,
+    0.48
+   ],
+   [
+    0.8267,
+    0.9133,
+    0.4783
+   ],
+   [
+    0.9133,
+    1.0,
+    0.48
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1544,
+  "total_tokens": 2346,
+  "completion_tokens": 802,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.66,
+ "created_at": "2026-10-18T11:21:10+00:00",
+ "content": "<x_0.4043><y_0.007>**B U X**<x_0.6348><y_0.0297><class_Page-header>\n\n<x_0.8877><y_0.0055>(_6_<x_0.9912><y_0.0305><class_Caption>\n\n<x_0.1289><y_0.0312>Button attempted to find out a north-welt paffage to the Eaft Indies. It lies between 80° and 100° W, long, and between 60° and 66° N. lat.<x_0.9756><y_0.0789><class_Text>\n\n<x_0.1016><y_0.0742>BUTTRESS, a kind of butment built archwife, or a mafs of flone or brick, ferving to prop or lupport the fides of a building, wall, cc. on the outside, where it is either very high, or has any confiderable load to fulltain on the other fide, as a bank of earth, cc.<x_0.9785><y_0.1492><class_Text>\n\n<x_0.1367><y_0.1469>Buttreflies are ufed againft the angles of ,fteeples and other buildings of ftone, cc. on the outside, and along the walls of fuch buildings as have great and heavy roofs, which would be fulject to thrull the walls out, unlefs very thick, if no buttreffes were placed against them. They are alfo placed for a lupport and butment againft the feet of fome arches, that are turned acrofs great halls in old palaces, abbeys, cc.<x_0.9795><y_0.2633><class_Text>\n\n<x_0.1025><y_0.2609>BUTZAW, a town of Lower Saxony, in Germany; it stands upon the river Varnow, on the road from Schwerin to Roftock.<x_0.9775><y_0.3055><class_Text>\n\n<x_0.1035><y_0.3031>BUXTON, a place in the peak of Derbyfhire, celebrated for medicinal waters; the bottelf in England, next to Bath.<x_0.9766><y_0.3492><class_Text>\n\n<x_0.1045><y_0.3484>Buxton-wells. The frata of earth and minerals, in the parts adjacent to Buxton, are peat-mofs, blue clay, iron, and coal, mixed with fulphur and brazil. The warm waters there, at prefent, are the bath, which takes in feveral waroi springs; St Ann's well, a hot and cold spring rifling up into the fame recep tacle; and Bingham-well.<x_0.9805><y_0.4492><class_Text>\n\n<x_0.1338><y_0.4477>Thefe waters greatly promote digestion, unlefs they are drunk too long, in which cafe they relax the flo- mach, and retard digestion; they are well adapted to obltructions of every kind, whence they produce fur- prifing effects in gouty, rheumatic, athletic, and ficor butic pains. As this water is warm, highly impregnated with a mineral fleam, vapour, or spirit, it is fignally beneficial to cramps, convultions, dry afthmas, the bilious colic, fifnefs, cc.<x_0.9814><y_0.5766><class_Text>\n\n<x_0.1328><y_0.5758>They advite both drinking and bathing in the ufe of thefe waters; only the laft is of bad consequence in the gout, inward inflammations, fevers, dyfentery, large inward tumours, or in an outward preflure of the body.<x_0.9824><y_0.6477><class_Text>\n\n<x_0.1006><y_0.6469>BUXUS, in botany, a genus of the monccia tetrandria clafs. The calix of the male confilts of three leaves; and the corolla has two petals: The calix of the female has four leaves; the petals are three; it has three flyli; and the capfule has three cells containing two feeds. There is but one species, viz, the tempervi- ens, or box-tree, a native of Britain. A decoction<x_0.9736><y_0.7469><class_Text>\n\n<x_0.1807><y_0.7453>Vol. 1. No 29.<x_0.4629><y_0.7617><class_Page-footer>\n\n<x_0.8887><y_0.7484>3<x_0.9141><y_0.7625><class_Caption>\n\n<x_0.4648><y_0.8398>END OF THE F<x_0.998><y_0.8617><class_Picture>",
+ "reply": {
+  "id": "chatcmpl-2096d4df-d98d-4cb0-b0ec-1b0578a3590c",
+  "object": "chat.completion",
+  "created": 1792322469,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.4043><y_0.007>**B U X**<x_0.6348><y_0.0297><class_Page-header>\n\n<x_0.8877><y_0.0055>(_6_<x_0.9912><y_0.0305><class_Caption>\n\n<x_0.1289><y_0.0312>Button attempted to find out a north-welt paffage to the Eaft Indies. It lies between 80° and 100° W, long, and between 60° and 66° N. lat.<x_0.9756><y_0.0789><class_Text>\n\n<x_0.1016><y_0.0742>BUTTRESS, a kind of butment built archwife, or a mafs of flone or brick, ferving to prop or lupport the fides of a building, wall, cc. on the outside, where it is either very high, or has any confiderable load to fulltain on the other fide, as a bank of earth, cc.<x_0.9785><y_0.1492><class_Text>\n\n<x_0.1367><y_0.1469>Buttreflies are ufed againft the angles of ,fteeples and other buildings of ftone, cc. on the outside, and along the walls of fuch buildings as have great and heavy roofs, which would be fulject to thrull the walls out, unlefs very thick, if no buttreffes were placed against them. They are alfo placed for a lupport and butment againft the feet of fome arches, that are turned acrofs great halls in old palaces, abbeys, cc.<x_0.9795><y_0.2633><class_Text>\n\n<x_0.1025><y_0.2609>BUTZAW, a town of Lower Saxony, in Germany; it stands upon the river Varnow, on the road from Schwerin to Roftock.<x_0.9775><y_0.3055><class_Text>\n\n<x_0.1035><y_0.3031>BUXTON, a place in the peak of Derbyfhire, celebrated for medicinal waters; the bottelf in England, next to Bath.<x_0.9766><y_0.3492><class_Text>\n\n<x_0.1045><y_0.3484>Buxton-wells. The frata of earth and minerals, in the parts adjacent to Buxton, are peat-mofs, blue clay, iron, and coal, mixed with fulphur and brazil. The warm waters there, at prefent, are the bath, which takes in feveral waroi springs; St Ann's well, a hot and cold spring rifling up into the fame recep tacle; and Bingham-well.<x_0.9805><y_0.4492><class_Text>\n\n<x_0.1338><y_0.4477>Thefe waters greatly promote digestion, unlefs they are drunk too long, in which cafe they relax the flo- mach, and retard digestion; they are well adapted to obltructions of every kind, whence they produce fur- prifing effects in gouty, rheumatic, athletic, and ficor butic pains. As this water is warm, highly impregnated with a mineral fleam, vapour, or spirit, it is fignally beneficial to cramps, convultions, dry afthmas, the bilious colic, fifnefs, cc.<x_0.9814><y_0.5766><class_Text>\n\n<x_0.1328><y_0.5758>They advite both drinking and bathing in the ufe of thefe waters; only the laft is of bad consequence in the gout, inward inflammations, fevers, dyfentery, large inward tumours, or in an outward preflure of the body.<x_0.9824><y_0.6477><class_Text>\n\n<x_0.1006><y_0.6469>BUXUS, in botany, a genus of the monccia tetrandria clafs. The calix of the male confilts of three leaves; and the corolla has two petals: The calix of the female has four leaves; the petals are three; it has three flyli; and the capfule has three cells containing two feeds. There is but one species, viz, the tempervi- ens, or box-tree, a native of Britain. A decoction<x_0.9736><y_0.7469><class_Text>\n\n<x_0.1807><y_0.7453>Vol. 1. No 29.<x_0.4629><y_0.7617><class_Page-footer>\n\n<x_0.8887><y_0.7484>3<x_0.9141><y_0.7625><class_Caption>\n\n<x_0.4648><y_0.8398>END OF THE F<x_0.998><y_0.8617><class_Picture>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1544,
+   "total_tokens": 2346,
+   "completion_tokens": 802,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

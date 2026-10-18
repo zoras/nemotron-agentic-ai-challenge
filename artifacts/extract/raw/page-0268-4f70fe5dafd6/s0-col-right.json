@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "79e4cc937679bfd861df143a7908913fe0eab7857a1724f4f40ec9c20d139cc7",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "edfece9678795c0945386a32223b6f3f001c3e8057f3d9c5806f9a67f503b849",
+  "image_bytes": 2335974,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:268",
+  "variant": "s0-col-right",
+  "crop": [
+   0.5217,
+   0.0309,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0309,
+    0.1117,
+    0.5267
+   ],
+   [
+    0.1117,
+    0.1924,
+    0.53
+   ],
+   [
+    0.1924,
+    0.2732,
+    0.53
+   ],
+   [
+    0.2732,
+    0.3539,
+    0.5333
+   ],
+   [
+    0.3539,
+    0.4347,
+    0.5333
+   ],
+   [
+    0.4347,
+    0.5155,
+    0.5333
+   ],
+   [
+    0.5155,
+    0.5962,
+    0.5333
+   ],
+   [
+    0.5962,
+    0.677,
+    0.5333
+   ],
+   [
+    0.677,
+    0.7577,
+    0.5333
+   ],
+   [
+    0.7577,
+    0.8385,
+    0.5333
+   ],
+   [
+    0.8385,
+    0.9192,
+    0.5333
+   ],
+   [
+    0.9192,
+    1.0,
+    0.5333
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2612,
+  "completion_tokens": 940,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.64,
+ "created_at": "2026-10-18T11:19:16+00:00",
+ "content": "<x_0.0078><y_0.0039>2 J L A U<x_0.5781><y_0.0234><class_Title>\n\n<x_0.0088><y_0.025>On cutting fome part of the faffafras tree, or its fhoots, and holding it to the nofe, it has a frong but pleafant fmell. Some people peel the root, and boil the peel with the beer which they are brewing, because they believe it wholefome. For the fame reafon, the peel is put into brandy either whill it is diffilling or after it is made. Profeffor Kalm informs us, that a de-coction of the root of faffafras in water, drank every morning, is ufed with fuccefs in the dropty. -When part of a wood is defined for cultivation, the faffafras trees are commonly left upon it, because they have a very thick foliage, and afford a cool shade to the cattle during the great heats. Some people get their best-poffs made of faffafras wood, in order to expel the bugs; for its frong feent, it is laid, prevents those vermin from fettling in them. For two or three years together this has the defined effect, or about as long as the wood keeps its frong aromatic fmell; but after that time it has been obferved to lofe its effect. In Penflyvania fome people put chips of faffafras into their chefts, where they keep all forts of woollen fluffs, in order to expel the moths (or larvae or caterpillars of moths or tinies) which commonly fettle in them in fummer. The root keeps its fmell for a long while: Profeffor Kalm fav one which had lain five or fix years in the drawer of a table, and fill preferred the strength of its feent. The people alfo gather its flowers, and ufe it as tea.<x_0.8223><y_0.418><class_Text>\n\n<x_0.0234><y_0.4164>The _perfea_, or _alligator_ pear tree, is cultivated univerfally in the Well Indies by all ranks of people. The fruit is pear-shaped, and from one to two pounds in weight. On removing a green skin or covering, we come to a yellow butyracaceous fublance; and in the heart find a large round feed or flone, which is unequal in the fur- face, and exceedingly hard and woody. This fruit is ripe in Auguilt and September, and confitutes one of the moft agreeable articles of diet for fix or eight weeks to the negroes. Thefe pears, with a little fall and a plantain or two, afford a hearty meal. They are alfo ferved up at the tables of white people as choice fruit. When the pear is ripe, the yellow or eatable fubflance is firmer than butter, and tales fomewhat like butter or marrow : hence it is called by fome the _vegetable marrow._ But however excellent this fruit is when ripe, it is very dangerous when pulled and eaten before maturity. Dr Wright fays, he has repeatedly known it to produce fever and dyfentery, which were removed with difficulty.-- The leaves of this tree and thofe of the bead-vine or wild liquorice are made into pectoral decoctions by the common people.-- The large flone is ufed for marking linen. The clothis tied or held over the flone, and the letters are pricked out by a needle through the cloth and into the feed. The plain is a reddish brown, which never wafhes out.-- The buds of the alligator tree are faid to be ufed with fuccefs in pitfans against the venereal difeafe. An infusion of them in water, drank in the morning fatling, is strongly recommended for diflodging coagula- ted blood in the stomach produced by a fall or a fevere broke on that important entrail. \" The wild hoars in the Eaft Indics (fays Labat) eat greedily of the mammeces and avocado pears, which give their fleth a lufcious and moft agreeable favour.\"<x_0.8418><y_0.9055><class_Text>\n\n<x_0.0439><y_0.9031>_Caffia._ The bark of this species is known in the hops by the name of _caffia lignea._ This bark, which<x_0.8438><y_0.9352><class_Text>",
+ "reply": {
+  "id": "chatcmpl-ea54662e-dbf2-4c15-956d-f71b6136c333",
+  "object": "chat.completion",
+  "created": 1792322354,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0078><y_0.0039>2 J L A U<x_0.5781><y_0.0234><class_Title>\n\n<x_0.0088><y_0.025>On cutting fome part of the faffafras tree, or its fhoots, and holding it to the nofe, it has a frong but pleafant fmell. Some people peel the root, and boil the peel with the beer which they are brewing, because they believe it wholefome. For the fame reafon, the peel is put into brandy either whill it is diffilling or after it is made. Profeffor Kalm informs us, that a de-coction of the root of faffafras in water, drank every morning, is ufed with fuccefs in the dropty. -When part of a wood is defined for cultivation, the faffafras trees are commonly left upon it, because they have a very thick foliage, and afford a cool shade to the cattle during the great heats. Some people get their best-poffs made of faffafras wood, in order to expel the bugs; for its frong feent, it is laid, prevents those vermin from fettling in them. For two or three years together this has the defined effect, or about as long as the wood keeps its frong aromatic fmell; but after that time it has been obferved to lofe its effect. In Penflyvania fome people put chips of faffafras into their chefts, where they keep all forts of woollen fluffs, in order to expel the moths (or larvae or caterpillars of moths or tinies) which commonly fettle in them in fummer. The root keeps its fmell for a long while: Profeffor Kalm fav one which had lain five or fix years in the drawer of a table, and fill preferred the strength of its feent. The people alfo gather its flowers, and ufe it as tea.<x_0.8223><y_0.418><class_Text>\n\n<x_0.0234><y_0.4164>The _perfea_, or _alligator_ pear tree, is cultivated univerfally in the Well Indies by all ranks of people. The fruit is pear-shaped, and from one to two pounds in weight. On removing a green skin or covering, we come to a yellow butyracaceous fublance; and in the heart find a large round feed or flone, which is unequal in the fur- face, and exceedingly hard and woody. This fruit is ripe in Auguilt and September, and confitutes one of the moft agreeable articles of diet for fix or eight weeks to the negroes. Thefe pears, with a little fall and a plantain or two, afford a hearty meal. They are alfo ferved up at the tables of white people as choice fruit. When the pear is ripe, the yellow or eatable fubflance is firmer than butter, and tales fomewhat like butter or marrow : hence it is called by fome the _vegetable marrow._ But however excellent this fruit is when ripe, it is very dangerous when pulled and eaten before maturity. Dr Wright fays, he has repeatedly known it to produce fever and dyfentery, which were removed with difficulty.-- The leaves of this tree and thofe of the bead-vine or wild liquorice are made into pectoral decoctions by the common people.-- The large flone is ufed for marking linen. The clothis tied or held over the flone, and the letters are pricked out by a needle through the cloth and into the feed. The plain is a reddish brown, which never wafhes out.-- The buds of the alligator tree are faid to be ufed with fuccefs in pitfans against the venereal difeafe. An infusion of them in water, drank in the morning fatling, is strongly recommended for diflodging coagula- ted blood in the stomach produced by a fall or a fevere broke on that important entrail. \" The wild hoars in the Eaft Indics (fays Labat) eat greedily of the mammeces and avocado pears, which give their fleth a lufcious and moft agreeable favour.\"<x_0.8418><y_0.9055><class_Text>\n\n<x_0.0439><y_0.9031>_Caffia._ The bark of this species is known in the hops by the name of _caffia lignea._ This bark, which<x_0.8438><y_0.9352><class_Text>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2612,
+   "completion_tokens": 940,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

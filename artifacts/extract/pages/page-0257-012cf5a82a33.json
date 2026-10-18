@@ -1,0 +1,317 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:257",
+ "row_index": 257,
+ "volume_id": "191679021",
+ "filename": "page-0257-012cf5a82a33.jpg",
+ "image_sha256": "012cf5a82a33e24b9fbf8a9def7970590e8f8c97141a57a7ae5b3f1fcbaadffb",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.07059,
+  "median_grey": 202,
+  "layout_body_chars": 7550,
+  "layout_pictures": 0
+ },
+ "running_head": "S W I | 24",
+ "layout_raw": "page-0257-012cf5a82a33/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.0,
+    0.5333,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.5283
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.5267
+    ],
+    [
+     0.1667,
+     0.25,
+     0.5283
+    ],
+    [
+     0.25,
+     0.3333,
+     0.5283
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.5283
+    ],
+    [
+     0.4167,
+     0.5,
+     0.5283
+    ],
+    [
+     0.5,
+     0.5833,
+     0.5283
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.5283
+    ],
+    [
+     0.6667,
+     0.75,
+     0.5283
+    ],
+    [
+     0.75,
+     0.8333,
+     0.5283
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.5283
+    ],
+    [
+     0.9167,
+     1.0,
+     0.5283
+    ]
+   ],
+   "raw_path": "page-0257-012cf5a82a33/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "1dcc2bcb6cec3284e9b34bebeab9b93ac96f5b726b6d826729107b8a6ae20e65"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.5217,
+    0.0,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.0,
+     0.0833,
+     0.5283
+    ],
+    [
+     0.0833,
+     0.1667,
+     0.5267
+    ],
+    [
+     0.1667,
+     0.25,
+     0.5283
+    ],
+    [
+     0.25,
+     0.3333,
+     0.5283
+    ],
+    [
+     0.3333,
+     0.4167,
+     0.5283
+    ],
+    [
+     0.4167,
+     0.5,
+     0.5283
+    ],
+    [
+     0.5,
+     0.5833,
+     0.5283
+    ],
+    [
+     0.5833,
+     0.6667,
+     0.5283
+    ],
+    [
+     0.6667,
+     0.75,
+     0.5283
+    ],
+    [
+     0.75,
+     0.8333,
+     0.5283
+    ],
+    [
+     0.8333,
+     0.9167,
+     0.5283
+    ],
+    [
+     0.9167,
+     1.0,
+     0.5283
+    ]
+   ],
+   "raw_path": "page-0257-012cf5a82a33/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "a7981dde73de8d400cc5d46bfba6512e4a611fec13a473ea4e6e1c2e1728fd3b"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "order": 0,
+   "class": "Page-header",
+   "text": "S W I | 24",
+   "bbox": [
+    0.2469,
+    0.0156,
+    0.5286,
+    0.0414
+   ],
+   "source": "s0-col-left",
+   "id": "page-0257-012cf5a82a33:b0"
+  },
+  {
+   "order": 1,
+   "class": "Caption",
+   "text": "_Swift._",
+   "bbox": [
+    0.037,
+    0.0375,
+    0.1047,
+    0.0672
+   ],
+   "source": "s0-col-left",
+   "id": "page-0257-012cf5a82a33:b1"
+  },
+  {
+   "order": 2,
+   "class": "Text",
+   "text": "in his power to provide for him otherwise; Swift left his patron (1694) in difcontent; having previously taken his matter’s degree at Oxford, by means of a teftimonial from Dublin, in which the words of difgrace were omitted. He was reloived to enter into the church, where his first pre-ferment was only L. 100 a-year, being the prebend of _Kit- root_ in _Gonner_; which form time afterwards, upon Sir William Temple's earnetly inviting him back to his house at Moorpark, he refigued in favour of a clergyman far advanced in years and burdened with a numerous family. For this man he folicited the prebend, to which he himself inducted him.",
+   "bbox": [
+    0.1026,
+    0.0383,
+    0.5187,
+    0.2
+   ],
+   "source": "s0-col-left",
+   "id": "page-0257-012cf5a82a33:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "In 1695 Swift loft his patron Sir William Temple, who left him a legacy in money, with the property of his manuscripts; and, on his death-bed, obtained for him a promise from the king of the first prebend that should become vacant at Wellminfler or Canterbury. That this promife might not be forgotten, Swift dedicated to the king the polthu-mous works with which he was entrofted, and for a while attended the court; but foon found his folicitations hopelets. He was then invited by the card of Berkeley to accompany him into Ireland, where, after suffering force cruel difappointments, he obtained the livings of Laracor and Rath beggin in the diocefe of Meath; and foon afterwards invited over the unfortunate Stella, a young woman of the name of Johnlon, whole life he contrived to embitter, and whose days, though he certainly loved her, we may confidently afirm that he shortened by his caprice.",
+   "bbox": [
+    0.1021,
+    0.1984,
+    0.5208,
+    0.4148
+   ],
+   "source": "s0-col-left",
+   "id": "page-0257-012cf5a82a33:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "This lady is generally believed to have been the daughter of Sir William Temple's fleward; but her niece, a Mrs Hearn, affured Mr Berkeley, the editor of a volume of letters entitled _Literary Reler_, that her father was a merchant, and the younger brother of a good family in Nottinghamshire; that her mother was the intimate friend of lady Gifford, Sir William's fifter; and that the herself was educated in the family with his niece, the late Mrs Temple of Moorpark by Faroham\". This flory would be inttilted to the fulleft credit, had not Mrs Hearn affirmed, in the fame letter, that, before the death of Sir William Temple, Mrs John-ion's little fortune had been greatly injured by the South- Sea bubbles, which are known to have injured no person till the year 1720: (See COMPANY, H. I.) When one part of a narrative is to palpably false, the remainder will always be received with hesitation. But whether Mifs Johnlon was the daughter of Temple's Reward or of the friend of lady Gifford, it is certain that Sir William left her L. 1000; and that, accompanied by Mrs Dingley, whole whole fortune amounted to an annuity of L. 27 for life, the went, in con-fequence of Swift's invitation, to Laracor. With thefe two ladies he paffed his hours of relaxation, and to them he opened his bohem; but they never relided in the fame houfe, nor did he fee either without a witnefs.",
+   "bbox": [
+    0.1099,
+    0.4117,
+    0.5281,
+    0.7328
+   ],
+   "source": "s0-col-left",
+   "id": "page-0257-012cf5a82a33:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "In 1701 Swift published _A discourfe of the contrfit and differences in Athens and Rome._ It was his first work, and indeed the only which he ever expressly acknowledged. According to his constant practice he had concealed his name; but after its appearance, paying a vift to fome frith bifhop, he was afked by him if he had read that pamphlet, and what its reputation was in London. Upon his replying that he believed it was very well liked in London; \" Very well liked!\" laid the bifhop with fome emotion. \" Yes, Sir, it is one of the finest tracts that ever was written, and bifhop Burnet is one of the best writers in the world.\" Swift, who always hated Burnet with fomething more than political rancour, immediately questioned his right to the work, when he was told by the bifhop that he was \"a young man;\" and fill perfiling to doubt of the justice of Burnet's claim, on account of the diffunilarity of the flyle of the",
+   "bbox": [
+    0.112,
+    0.7289,
+    0.5291,
+    0.95
+   ],
+   "source": "s0-col-left",
+   "id": "page-0257-012cf5a82a33:b5"
+  },
+  {
+   "order": 6,
+   "class": "Caption",
+   "text": "• See In- way into the Life of Dean Swift, pre- fixed to Literary Re- lies, printed in 1789, for Eliot and Kay.",
+   "bbox": [
+    0.0406,
+    0.5211,
+    0.1156,
+    0.6438
+   ],
+   "source": "s0-col-left",
+   "id": "page-0257-012cf5a82a33:b6"
+  },
+  {
+   "order": 7,
+   "class": "Title",
+   "text": "3 I S WI",
+   "bbox": [
+    0.5254,
+    0.0156,
+    0.7907,
+    0.0375
+   ],
+   "source": "s0-col-right",
+   "id": "page-0257-012cf5a82a33:b7"
+  },
+  {
+   "order": 8,
+   "class": "Text",
+   "text": "pamphlet from that of his other works, he was told that he was \"a very politive young man,\" as no perfon in England but bibhop Burnet was capable of writing it. Upon which Swift replied, with fome indigation, I am to affure your lordhip, however, that bilhop Burnet did not write the pamphlet, for I wrote it myfelt. And thus was he forced in the heat of argument to avow what otherwise he would have for ever concealed.",
+   "bbox": [
+    0.5227,
+    0.0352,
+    0.9388,
+    0.1461
+   ],
+   "source": "s0-col-right",
+   "id": "page-0257-012cf5a82a33:b8"
+  },
+  {
+   "order": 9,
+   "class": "Text",
+   "text": "Early in the enfuing fpring king William died; and Swift, on his next visit to London found queen Anne upon the throne. It was generally thought, upon this event, that the Tory party would have had the ascendant: but, contrary to all expectation, the Whigs had managed matters fo well as to yet entirely into the queen's confidence, and to have the whole administration of affairs in their hands. Swift's friends were now in power; and the Whigs in general, knowing him to be the author of the Difcouffe on the Contells, &e, which was written in defence of King William and his minifiers against the violent proceedings of the house of commons, confidered themselves as much obliged to him, and looked upon him as fail to their party. But Swift thought with the Whigs only in the flat ; for with respect to the church his principles were always those of a Tony. He therefore declined any intimate connection with the leaders of the party, who at that time profelled what was called _low church principles_. But what above all hocked him, fays Mr Sheridan, was their inviting Delits, Freethinkers, Atheists, Jews, and Infields to be of their party, under pretence of moderation, and allowing a general liberty of conference. As Swift was in his heart a man of true religion, he could not have borne, even in his private character, to have mixed with such a motely crew. But when we confer his principles in his political capacity, that he looked upon the church of England, as by law established, to be the main pillar of our newly erected confirmation, he could not, confilently with the character of a good citizen, join with those who considered it more as an ornament than a support to the edifice; and could therefore look on with compofore while it was undermining, or could even open the gate to a blind multitude, to try, like Sampfon, their strength again if, and confident it only as part. With such a party, neither his religious nor political principles would suffer him to join; and with regard to the l'ories, as is uful in the violence of factions, they had run into opposite extremes, equally dangerous to the flat. He was therefore during the earlier part of the queen's reign of no party, but employed himself in discharging the duties of his function, and in publishing from time to time fuch tracts as he thought might be useful. In the year 1704 he published the _Tale of a Tub_, which, confidered merely as a work of genius, is unquestionably the greatest which he ever produced; but the levity with which religion was thought to be there treated, railed up enemies to him among all parties, and eventually precluded him from a bihopric. From that period till the year 1708, he feems to have employed himself in folitary fludy; but he then gave focceffively to the pub-lic _The Sentiments of a Church of England man_, the ridicule of altrology under the name of _Bickerflafi_, the _Argument against abolishing Christianity_, and the defence of the _Sacra- mental Tell_.",
+   "bbox": [
+    0.5259,
+    0.1422,
+    0.9486,
+    0.8375
+   ],
+   "source": "s0-col-right",
+   "id": "page-0257-012cf5a82a33:b9"
+  },
+  {
+   "order": 10,
+   "class": "Text",
+   "text": "Soon after began the buy and important part of Swift's life. He was employed (1710) by the primate of Ireland to folicit the queen for a remillion of the frit fruits and twentieth parts to the Trith clergy. This introduced him to Mr Harley, afterwards carl of Oxford, who, though a Whig himself, was at the head of the Tory ministry, and in great need of an auxiliary fo able as Swift, by whose pen he and the other minifiers might be fupported in Pamphlets,",
+   "bbox": [
+    0.5329,
+    0.8336,
+    0.95,
+    0.9445
+   ],
+   "source": "s0-col-right",
+   "id": "page-0257-012cf5a82a33:b10"
+  }
+ ]
+}

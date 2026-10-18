@@ -1,0 +1,570 @@
+{
+ "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:713",
+ "row_index": 713,
+ "volume_id": "144850368",
+ "filename": "page-0713-3db0c66f81f4.jpg",
+ "image_sha256": "3db0c66f81f48bd0948a7644d3f0c1c4213d3d49e54c500a317bf147695b1fc5",
+ "status": "text",
+ "status_evidence": {
+  "ink_fraction": 0.06667,
+  "median_grey": 221,
+  "layout_body_chars": 6260,
+  "layout_pictures": 0
+ },
+ "running_head": "OVI (447) OUS",
+ "layout_raw": "page-0713-3db0c66f81f4/layout.json",
+ "layout_finish_reason": "stop",
+ "regions": [
+  {
+   "label": "head",
+   "crop": [
+    0.0,
+    0.027,
+    1.0,
+    0.0553
+   ],
+   "scale": 3,
+   "canvas": 0.5,
+   "raw_path": "page-0713-3db0c66f81f4/head.json",
+   "finish_reason": "stop",
+   "request_key": "893455ea4ce349430993ae6d164a5a93a1e707e98a6863360aa96e397e3edfb4"
+  },
+  {
+   "label": "s0-col-left",
+   "crop": [
+    0.0,
+    0.027,
+    0.4717,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "left",
+   "gutter": [
+    [
+     0.027,
+     0.1081,
+     0.4633
+    ],
+    [
+     0.1081,
+     0.1892,
+     0.4667
+    ],
+    [
+     0.1892,
+     0.2702,
+     0.4667
+    ],
+    [
+     0.2702,
+     0.3513,
+     0.4667
+    ],
+    [
+     0.3513,
+     0.4324,
+     0.4667
+    ],
+    [
+     0.4324,
+     0.5135,
+     0.4667
+    ],
+    [
+     0.5135,
+     0.5946,
+     0.4667
+    ],
+    [
+     0.5946,
+     0.6757,
+     0.4667
+    ],
+    [
+     0.6757,
+     0.7567,
+     0.4667
+    ],
+    [
+     0.7567,
+     0.8378,
+     0.4667
+    ],
+    [
+     0.8378,
+     0.9189,
+     0.4667
+    ],
+    [
+     0.9189,
+     1.0,
+     0.4667
+    ]
+   ],
+   "raw_path": "page-0713-3db0c66f81f4/s0-col-left.json",
+   "finish_reason": "stop",
+   "request_key": "2a7d621d4272834e571194140f6b95439cfff89ed87bf1b471f946928a4c7eff"
+  },
+  {
+   "label": "s0-col-right",
+   "crop": [
+    0.4583,
+    0.027,
+    1.0,
+    1.0
+   ],
+   "scale": 3,
+   "keep": "right",
+   "gutter": [
+    [
+     0.027,
+     0.1081,
+     0.4633
+    ],
+    [
+     0.1081,
+     0.1892,
+     0.4667
+    ],
+    [
+     0.1892,
+     0.2702,
+     0.4667
+    ],
+    [
+     0.2702,
+     0.3513,
+     0.4667
+    ],
+    [
+     0.3513,
+     0.4324,
+     0.4667
+    ],
+    [
+     0.4324,
+     0.5135,
+     0.4667
+    ],
+    [
+     0.5135,
+     0.5946,
+     0.4667
+    ],
+    [
+     0.5946,
+     0.6757,
+     0.4667
+    ],
+    [
+     0.6757,
+     0.7567,
+     0.4667
+    ],
+    [
+     0.7567,
+     0.8378,
+     0.4667
+    ],
+    [
+     0.8378,
+     0.9189,
+     0.4667
+    ],
+    [
+     0.9189,
+     1.0,
+     0.4667
+    ]
+   ],
+   "raw_path": "page-0713-3db0c66f81f4/s0-col-right.json",
+   "finish_reason": "stop",
+   "request_key": "ecd2471efdc70a04d9d5f0e49288c358660f84464a10474ab498e955939052d7"
+  }
+ ],
+ "unfinished_regions": [],
+ "blocks": [
+  {
+   "class": "Page-header",
+   "parse_class": "Table",
+   "text": "OVI (447) OUS",
+   "bbox": [
+    0.0,
+    0.027,
+    1.0,
+    0.0553
+   ],
+   "source": "head",
+   "order": 0,
+   "id": "page-0713-3db0c66f81f4:b0"
+  },
+  {
+   "order": 1,
+   "class": "Head-fragment",
+   "text": "**O V I**",
+   "bbox": [
+    0.1543,
+    0.0324,
+    0.2575,
+    0.0505
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-left",
+   "id": "page-0713-3db0c66f81f4:b1"
+  },
+  {
+   "order": 2,
+   "class": "Head-fragment",
+   "text": "( 44",
+   "bbox": [
+    0.3989,
+    0.0331,
+    0.4652,
+    0.0543
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-left",
+   "id": "page-0713-3db0c66f81f4:b2"
+  },
+  {
+   "order": 3,
+   "class": "Text",
+   "text": "1. Aries, or ram and fheep, the horns of which are ha-ped like a half moon, and compreffed. This animal is perhaps the molt gentle and inoffenfive, and at the fame time the molt timid and flupid, of all quadrupeds. In a flock of heep, there is always a leader, whole fleeps the reft implicitly and blindly follow. If he runs over a precipice, the whole flock follow his example, and cannot be refrained though evident deltruation be the confluence. The finaleft noife, if uncommon, makes them run precipitantly against each other, without knowing the caule of their danger, or being able to extricate themfelves. In how, they remain fixed in the fame foot; and continue oblitinately in that situation, unlefs they are forced to move by the fhepherd or his dog. But though daftardly in itself, though almost devoid of fentiment and mental qualities, this animal is of the molt extensive utility to man. It affords us both food and cloathing, besides the advantages we derive from its milk, its skin, and its tallow.",
+   "bbox": [
+    0.0285,
+    0.0529,
+    0.4643,
+    0.309
+   ],
+   "source": "s0-col-left",
+   "id": "page-0713-3db0c66f81f4:b3"
+  },
+  {
+   "order": 4,
+   "class": "Text",
+   "text": "Love, the livelieft sentiment in all animals, is the only pallion which infpires the ram with any degree of vi-vacity; when under the influence of this pallion, he becomes petulant, runs again! his neighbours, and fometimes even attacks the fhepherd himself. But the ewe, or female, though in the fame situation, does not appear to be in the leaf affected; the feems to have no other infinict than that of imply admitting the embraces of the ram, eating her food, and recogniling her offspring; the lamb, on the other hand, is endowed with the fame inflint of dillinguifhing its mother from the reft of the flock.",
+   "bbox": [
+    0.0276,
+    0.3098,
+    0.4634,
+    0.4587
+   ],
+   "source": "s0-col-left",
+   "id": "page-0713-3db0c66f81f4:b4"
+  },
+  {
+   "order": 5,
+   "class": "Text",
+   "text": "This animal, fo folt and fo limple in its nature and difpofiction, is likewise extremely weak and feeble in its conflitution: They can endure but little fatigue; whenever they run, their hearts palpitate, and their wind fails them; they are equally incapable of bearing heat or cold, flow or rain: They are subject to many difesafes, molt of which are contagious: They bring forth their young with pain and difficulty, and require more care and attention than any other domestic animal.",
+   "bbox": [
+    0.0258,
+    0.4595,
+    0.4629,
+    0.5797
+   ],
+   "source": "s0-col-left",
+   "id": "page-0713-3db0c66f81f4:b5"
+  },
+  {
+   "order": 6,
+   "class": "Text",
+   "text": "The ram is capable of generation at the age of 18 months; and the ewe can be impregnated when a year old. One ram is sufficient for 30 or 40 ewes. He ought to be strong, well proportioned; his head thould be thick and fitong, his front large, his eyes black, his nofe flat, his neck thick, his body long and tall, his telticles matly, and his tail long. White is the belt colour for a ram. The ewes whole wool is moft plentiful, bulhy, long, folt, and white, are molt proper for breeders, especially when at the fame time they are of a large size, have a thick neck, and move nimbly.",
+   "bbox": [
+    0.0249,
+    0.5789,
+    0.462,
+    0.7271
+   ],
+   "source": "s0-col-left",
+   "id": "page-0713-3db0c66f81f4:b6"
+  },
+  {
+   "order": 7,
+   "class": "Text",
+   "text": "Ewes are generally in feafon from the end of October to the beginning of April: However, they may be impregnated at any time, if they be fed with illuminating nonrithment, as fall water, and bread made of hemp feed. They go with young about five months, and generally bring forth but one at a time, though frequently two: In warm climates, they may bring forth twice in a year; but in Britain, France, and molt parts of Europe, only once. They give milk plentifully for fever or eight months: Their milk affords nourishment for children and country people; good cheefe is made of it, efpecially when mixed with cow-milk. They live from 10 to 12 years, and are capable of bringing forth as long as they live.",
+   "bbox": [
+    0.0235,
+    0.7279,
+    0.4616,
+    0.9156
+   ],
+   "source": "s0-col-left",
+   "id": "page-0713-3db0c66f81f4:b7"
+  },
+  {
+   "order": 8,
+   "class": "Page-footer",
+   "text": "Vol. III. No. 88.",
+   "bbox": [
+    0.041,
+    0.9149,
+    0.2105,
+    0.9324
+   ],
+   "source": "s0-col-left",
+   "id": "page-0713-3db0c66f81f4:b8"
+  },
+  {
+   "order": 9,
+   "class": "Page-footer",
+   "text": "2",
+   "bbox": [
+    0.2644,
+    0.9187,
+    0.2805,
+    0.9316
+   ],
+   "source": "s0-col-left",
+   "id": "page-0713-3db0c66f81f4:b9"
+  },
+  {
+   "order": 10,
+   "class": "Head-fragment",
+   "text": "7 )",
+   "bbox": [
+    0.4615,
+    0.0331,
+    0.5086,
+    0.0543
+   ],
+   "parse_class": "Page-header",
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b10"
+  },
+  {
+   "order": 11,
+   "class": "Head-fragment",
+   "text": "O U S",
+   "bbox": [
+    0.6783,
+    0.0324,
+    0.7868,
+    0.0505
+   ],
+   "parse_class": "Title",
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b11"
+  },
+  {
+   "order": 12,
+   "class": "Text",
+   "text": "When the male lambs are not intended to be kept for propagation, but fattened for food, they ought to be calibrated at the age of five or fix months. This operation is performed two ways: in the one, an incision is made and the tefticles taken out; in the other, a ligature is tied tight round the frotum, above the tellicles, which foon deftroys the veffels which nourth them. After calibration, they are called weathers.",
+   "bbox": [
+    0.4927,
+    0.0536,
+    0.9296,
+    0.163
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b12"
+  },
+  {
+   "order": 13,
+   "class": "Text",
+   "text": "The ram, ewe, and weather, when one year old, lofe the two foreteeth of the under jaw ; fix months afterwards, they lofe the two foreteeth next to thefe ; and at the age of three years, the teeth are all replaced. The age of a ram may likewise be discovered by their horn, which always appear the first year, and frequently as foon as they are brought forth. Thefe horns uniformly acquire an additional ring every year as longas the creature lives. The ewes commonly have no horns, but a kind of long protubrances in place of them: However, fome of them have two, and fome four horns.",
+   "bbox": [
+    0.4922,
+    0.1623,
+    0.9281,
+    0.3105
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b13"
+  },
+  {
+   "order": 14,
+   "class": "Text",
+   "text": "In Spain, and the fourteen parts of Europe, the flocks are kept in thades or flables during the night: but in Britain, where there is now no danger from wolves, they are allowed to remain without, both night and day; which makes the animals more healthy, and their flesh a more whole food. Dry and mountainous grounds, where thyme and fleep’s fetcue grals abound, are the belt for the patturing fleep.",
+   "bbox": [
+    0.4916,
+    0.3113,
+    0.9259,
+    0.4192
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b14"
+  },
+  {
+   "order": 15,
+   "class": "List-item",
+   "text": "2. The Guineenlis, or Guinea fleep, has pendulous ears, lax hairy dew laps, and a prominence on the hind part of the head. The wool is short, like that of a goat. It is a native of Guinea.",
+   "bbox": [
+    0.4911,
+    0.4184,
+    0.9254,
+    0.4717
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b15"
+  },
+  {
+   "order": 16,
+   "class": "List-item",
+   "text": "3. The firepliceros, or Cretan fleep, has fitrait cari-nated horns, twifted in a spiral manner. It is a native of Mount Iola.",
+   "bbox": [
+    0.4906,
+    0.4724,
+    0.9249,
+    0.5113
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b16"
+  },
+  {
+   "order": 17,
+   "class": "List-item",
+   "text": "OULNEY, a market-town of Buckinghamshire, situated nine miles fourth-east of Northampton.",
+   "bbox": [
+    0.4726,
+    0.5119,
+    0.9244,
+    0.5394
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b17"
+  },
+  {
+   "order": 18,
+   "class": "List-item",
+   "text": "OULZ, a town of Italy, in the province of Piedmont, situated in E long. 6° 30°, N. lat. 45°.",
+   "bbox": [
+    0.4721,
+    0.5386,
+    0.9233,
+    0.5667
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b18"
+  },
+  {
+   "order": 19,
+   "class": "List-item",
+   "text": "OUNCE, a little weight, the fixteenth part of a pound avirdupois, and the cwelfth part of a pound troy.",
+   "bbox": [
+    0.4731,
+    0.5659,
+    0.9228,
+    0.5933
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b19"
+  },
+  {
+   "order": 20,
+   "class": "List-item",
+   "text": "OUNCZ, in zoology. See Lzo.",
+   "bbox": [
+    0.4715,
+    0.5926,
+    0.7249,
+    0.607
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b20"
+  },
+  {
+   "order": 21,
+   "class": "List-item",
+   "text": "OUNDLE, a market-town of Northamptomhire, situated on the river Men, twenty-two miles north-east of Northampton.",
+   "bbox": [
+    0.471,
+    0.6062,
+    0.9222,
+    0.6473
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b21"
+  },
+  {
+   "order": 22,
+   "class": "List-item",
+   "text": "OVOLO, or Ovum, in architecture, a round moulding, whose profile, or fweep, in the ionic and composite capi-tals, is ufually a quadrant of a circle: whence it is alfo commonly called the quarter-round.",
+   "bbox": [
+    0.4705,
+    0.6465,
+    0.9217,
+    0.7013
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b22"
+  },
+  {
+   "order": 23,
+   "class": "List-item",
+   "text": "It is ufually cut with the reprefertation of eggs and anchors or arrows heads placed alternately.",
+   "bbox": [
+    0.4895,
+    0.702,
+    0.9212,
+    0.7286
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b23"
+  },
+  {
+   "order": 24,
+   "class": "List-item",
+   "text": "OUSE, a river, which, rifling in the north of Yorkshire, runs fourth-east by York; and, continuing that course, falls into the Trent.",
+   "bbox": [
+    0.4699,
+    0.7279,
+    0.9206,
+    0.7674
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b24"
+  },
+  {
+   "order": 25,
+   "class": "List-item",
+   "text": "Ouse, is alfo a river which rifles on the confined of Oxfordshire and Buckinghamshire; and running north each through Buckinghamshire, Bedfordshire, Huntingdon-hire, Cambridge, and Norfolk, paltes by Buckingham, Bedford, Huntington, and Elly, discharging itself into the bay of the German tea at Lynn.",
+   "bbox": [
+    0.4694,
+    0.7681,
+    0.9238,
+    0.851
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b25"
+  },
+  {
+   "order": 26,
+   "class": "List-item",
+   "text": "OUSTIACH, or OSTIACH _Country_, is apart of Afiatic Ruilia, extending along the river Irtis to its confluence with the river Oby, and from thence northwad along the banks of the Oby and Jenifa, into the gulph of the Man-gafea, or the frozen ocean; and extending alfo along",
+   "bbox": [
+    0.4689,
+    0.8503,
+    0.9201,
+    0.9187
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b26"
+  },
+  {
+   "order": 27,
+   "class": "Page-footer",
+   "text": "5 U",
+   "bbox": [
+    0.508,
+    0.9179,
+    0.5456,
+    0.9332
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b27"
+  },
+  {
+   "order": 28,
+   "class": "Page-footer",
+   "text": "1",
+   "bbox": [
+    0.6995,
+    0.9194,
+    0.7133,
+    0.9338
+   ],
+   "source": "s0-col-right",
+   "id": "page-0713-3db0c66f81f4:b28"
+  }
+ ]
+}

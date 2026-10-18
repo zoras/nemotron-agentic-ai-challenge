@@ -1,0 +1,129 @@
+{
+ "request": {
+  "key": "64838a17807ea94264e9dd552beb7889f56677b0a5456e4192ab91814a93d9d9",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "4a60f152c2512ed3593b41feeff305ea7ec49bda1831b1b6ca05ec76c83620c3",
+  "image_bytes": 2562893,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1945",
+  "variant": "s0-col-right",
+  "crop": [
+   0.4867,
+   0.0546,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0546,
+    0.1405,
+    0.4917
+   ],
+   [
+    0.1405,
+    0.2265,
+    0.4917
+   ],
+   [
+    0.2265,
+    0.3124,
+    0.4917
+   ],
+   [
+    0.3124,
+    0.3984,
+    0.4917
+   ],
+   [
+    0.3984,
+    0.4843,
+    0.4917
+   ],
+   [
+    0.4843,
+    0.5703,
+    0.4917
+   ],
+   [
+    0.5703,
+    0.6562,
+    0.4917
+   ],
+   [
+    0.6562,
+    0.7422,
+    0.4917
+   ],
+   [
+    0.7422,
+    0.8281,
+    0.4917
+   ],
+   [
+    0.8281,
+    0.9141,
+    0.4917
+   ],
+   [
+    0.9141,
+    1.0,
+    0.4917
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1672,
+  "total_tokens": 2514,
+  "completion_tokens": 842,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.07,
+ "created_at": "2026-10-18T11:11:30+00:00",
+ "content": "<x_0.0088><y_0.0>altitude of a flat may likewise be had by a pendulum clock, if the exact time of the flat's paffing by the meridian be known. It must be observed, however, that-flars have the fame altitude a minute before and after their paffing the meridian, if they be not in or near the zenith; but if they be, their altitudes must be taken every minute when they are in or near the meridian, and then their greatest or lealt altitudes will be thofe in question. The position of a given vertical circle must be found by the following method. 1. The quadrant and telescope remaining in the fame situation wherein it was when the altitude of a flat, together with the time of its paffage by the interfection of the crofs hairs in the focus of the object-glafs, was taken, we observe the time when the fun, or fome fixed flat, whole longitude and latitude is known, arrives to the vertical hair in the telescope; and from thence the position of the field vertical circle will be had, and alfo the observed flat's true place. But if the fun, or fome other flat, does not pafs by the mouth of the tube; and if a meridian line be otherwise well drawn upon a floor, or very level ground, in the place of observation; a plumb-line must be fufpended from a fixed place, at about 18 or 20 feet from the quadrant; under which a mark must be made on the floor, in a right line with the plumb-line. You must next put a thin piece of brafs or patteboard very near the object-glafs, in the middle of which there is a fit vertically placed, and paffing through the centre of the circular figure of the object-glafs. Now, by means of this fit, the before-mentioned plumb-line may be perceived through the telefcope, which before could not be feen, because of its nearnefs. Then the plumb-line must be removed and fufpended, fo that it be perceived in a right line with the vertical hair in the focus of the object-glafs, and a point marked on the floor directly under it. And if a right-line be drawn through this point, and that marked under the plumb-line before it was remo-ved, the laid line will meet the meridian drawn upon the floor; and fo we shall have the potition of the vertical circle in which the obferved flat is, with respect to the meridian, the angle whereof may be measured in af-fuming known lengths upon the two lines from the point of concourfe; for if, through the extremities of thefe known lengths, a line or bare be drawn, we shall have a triangle, whose three fides being known, the angle at the vertex may be found, which will be the angle made by the vertical circle and meridian.<x_0.8125><y_0.6805><class_Text>\n\n<x_0.0078><y_0.6789>Under the article QUADRANT, is thewn the proper method of fixing that instrument exactly in the meridian: but where the obferver has no convenience of this kind, it will be proper to ufe a portable quadrant; by means of which the altitude of a flat must be observed a little before its paffage over the meridian, every minute, if poflible, until its greatelt or lealt altitude be had; by which means, though we have not the true polition of the meridian, yet we know the meridian altitude of the flat. But although this method is very good, yet if a flat paffes by the meridian near the zenith, we cannot have its meridian altitude by repeated observations every minute, unlefs by chance; becaufe in every minute of an hour, the altitude augments 15 minutes of a degree; and in thefe kind of observations, the inconvenient fluctuation of the obferver, the variation of the flat's azimuth several de<x_0.8086><y_0.9234><class_Text>\n\n<x_0.8076><y_0.0031>Optical Instrument<x_0.9609><y_0.032><class_Caption>",
+ "reply": {
+  "id": "chatcmpl-1aca467e-7ffe-46f3-bf9b-87f2672ba403",
+  "object": "chat.completion",
+  "created": 1792321889,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0088><y_0.0>altitude of a flat may likewise be had by a pendulum clock, if the exact time of the flat's paffing by the meridian be known. It must be observed, however, that-flars have the fame altitude a minute before and after their paffing the meridian, if they be not in or near the zenith; but if they be, their altitudes must be taken every minute when they are in or near the meridian, and then their greatest or lealt altitudes will be thofe in question. The position of a given vertical circle must be found by the following method. 1. The quadrant and telescope remaining in the fame situation wherein it was when the altitude of a flat, together with the time of its paffage by the interfection of the crofs hairs in the focus of the object-glafs, was taken, we observe the time when the fun, or fome fixed flat, whole longitude and latitude is known, arrives to the vertical hair in the telescope; and from thence the position of the field vertical circle will be had, and alfo the observed flat's true place. But if the fun, or fome other flat, does not pafs by the mouth of the tube; and if a meridian line be otherwise well drawn upon a floor, or very level ground, in the place of observation; a plumb-line must be fufpended from a fixed place, at about 18 or 20 feet from the quadrant; under which a mark must be made on the floor, in a right line with the plumb-line. You must next put a thin piece of brafs or patteboard very near the object-glafs, in the middle of which there is a fit vertically placed, and paffing through the centre of the circular figure of the object-glafs. Now, by means of this fit, the before-mentioned plumb-line may be perceived through the telefcope, which before could not be feen, because of its nearnefs. Then the plumb-line must be removed and fufpended, fo that it be perceived in a right line with the vertical hair in the focus of the object-glafs, and a point marked on the floor directly under it. And if a right-line be drawn through this point, and that marked under the plumb-line before it was remo-ved, the laid line will meet the meridian drawn upon the floor; and fo we shall have the potition of the vertical circle in which the obferved flat is, with respect to the meridian, the angle whereof may be measured in af-fuming known lengths upon the two lines from the point of concourfe; for if, through the extremities of thefe known lengths, a line or bare be drawn, we shall have a triangle, whose three fides being known, the angle at the vertex may be found, which will be the angle made by the vertical circle and meridian.<x_0.8125><y_0.6805><class_Text>\n\n<x_0.0078><y_0.6789>Under the article QUADRANT, is thewn the proper method of fixing that instrument exactly in the meridian: but where the obferver has no convenience of this kind, it will be proper to ufe a portable quadrant; by means of which the altitude of a flat must be observed a little before its paffage over the meridian, every minute, if poflible, until its greatelt or lealt altitude be had; by which means, though we have not the true polition of the meridian, yet we know the meridian altitude of the flat. But although this method is very good, yet if a flat paffes by the meridian near the zenith, we cannot have its meridian altitude by repeated observations every minute, unlefs by chance; becaufe in every minute of an hour, the altitude augments 15 minutes of a degree; and in thefe kind of observations, the inconvenient fluctuation of the obferver, the variation of the flat's azimuth several de<x_0.8086><y_0.9234><class_Text>\n\n<x_0.8076><y_0.0031>Optical Instrument<x_0.9609><y_0.032><class_Caption>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1672,
+   "total_tokens": 2514,
+   "completion_tokens": 842,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}

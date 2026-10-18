@@ -1,0 +1,134 @@
+{
+ "request": {
+  "key": "2468519f1200a91ce463f40379c4f2fca5a64197e7dc228f6438ed9ed21c7025",
+  "model": "nvidia/nemotron-3.5-parse",
+  "prompt": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "max_tokens": 8744,
+  "image_sha256": "43d2730464df3944dcc1f0e04b7e6f14825e159ddbbe6f88715594cd25a91218",
+  "image_bytes": 2312709,
+  "mime": "image/png",
+  "page_id": "britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:1327",
+  "variant": "s0-col-right",
+  "crop": [
+   0.45,
+   0.0,
+   1.0,
+   1.0
+  ],
+  "scale": 3,
+  "keep": "right",
+  "gutter": [
+   [
+    0.0,
+    0.0833,
+    0.4567
+   ],
+   [
+    0.0833,
+    0.1667,
+    0.455
+   ],
+   [
+    0.1667,
+    0.25,
+    0.455
+   ],
+   [
+    0.25,
+    0.3333,
+    0.455
+   ],
+   [
+    0.3333,
+    0.4167,
+    0.455
+   ],
+   [
+    0.4167,
+    0.5,
+    0.455
+   ],
+   [
+    0.5,
+    0.5833,
+    0.455
+   ],
+   [
+    0.5833,
+    0.6667,
+    0.455
+   ],
+   [
+    0.6667,
+    0.75,
+    0.455
+   ],
+   [
+    0.75,
+    0.8333,
+    0.455
+   ],
+   [
+    0.8333,
+    0.9167,
+    0.455
+   ],
+   [
+    0.9167,
+    1.0,
+    0.455
+   ]
+  ]
+ },
+ "response_model": "nvidia/nemotron-3.5-parse",
+ "finish_reason": "stop",
+ "usage": {
+  "prompt_tokens": 1800,
+  "total_tokens": 2776,
+  "completion_tokens": 976,
+  "prompt_tokens_details": null
+ },
+ "attempts": 1,
+ "elapsed_s": 1.58,
+ "created_at": "2026-10-18T11:10:54+00:00",
+ "content": "<x_0.0088><y_0.0406>7 J H U G<x_0.5439><y_0.0617><class_Title>\n\n<x_0.0117><y_0.0609>hal made heirs to his library. A fevere diflemper weakened his body extremely, but not the vivacity of his genius: he wrote his own life in a very elegant flyle; and died in 1721, aged 91. He was a man of very agreeable conversation; and of great probity, as well as immense crudition.—The following are the titles of his principal works. 1. De claris interpretibus, et de optino genre interpretandi. 2. An edition of Origen's commentaries on the holy Scriptures, in Greek and Latin. 3. A treatife on the origin of the Romans. 4. Denonfratio evangelica, folio. 5. Quelliones Alnetana de concordia rationis et fidei. 6. Of the situation of the terrestrial paradife, in French. 7. A history of the commerce and navigation of the ancients, which has been translated into Englifh. 8. Commentarius de rebus ad cum perti-nentibus. 9. Huetiana. 10. Latin and Greek verfes, &c.<x_0.7021><y_0.3055><class_Text>\n\n<x_0.0127><y_0.3031>HUGHES (John), an ingenious and polite wri-ter, was born in 1677. In the earliest parts of his youth, he cultivated the filter-arts, poetry, drawing, and mufic, in each of which he by turns made a considerable progrefs; but followed thofe and his other studies only as agreeable amufements, under frequent confinement on account of his ill fate of health. The lord Chancellor Cowper made him fecretary for the commitions of the peace without his knowledge, and ditinguilhed him with singular marks of his eileem. He continued in the fame employment under the card of Macclesfield, and held it to the day of his death; which happened in 1719, the very night in which his tragedy, intitled _The flege of Damafeu_, was first ac-ted. He was then 42. He tranllated Fontenelle’s dialogues of the dead, Vertot’s revolutionos of Portu-gal, and the letters of Abelard and Eloifa. He gave a very accurate edition of Spencer’s works, with his life, a gloffary, and remarks; and wrote several papers in the Tatler, Spectator, and Guardian. Mr Duncombe, who married his filter, collected his poems and elays in 2 vols 12mo, in 1735.<x_0.7012><y_0.6016><class_Text>\n\n<x_0.0098><y_0.5984>HUGHLY, a town of Afia, in the kingdom of Bengal, feated on the molt weiterly branch of the river Ganges. It is of large extent, reaching about two miles along the river-fide, and drives a great trade in all the commodities of that country; affording rich cargoes for 50 or 60 fhips annually, beides what is brought on carriages to the neighbouring towns. Saltpetre is brought hither from Patnia in veffels above 50 yards long and five broad. The inhabitants are chiefly Indians; but there are alfo Portuguefe, Eng-lith, and other Europeans. E. Long 87. 55. N. Lat. 22. 0.<x_0.6982><y_0.7602><class_Text>\n\n<x_0.0078><y_0.7578>HUGO CAPET, chief of the third race of the king of France, being count of Paris and Orleans; he was raised to the throne for his military valour and public virtues in 987. See FRANCE, n 38.<x_0.6816><y_0.8141><class_Text>\n\n<x_0.0068><y_0.8125>HUGONIA, in botany : A genus of the decandria order, belonging to the monadelphis clafs of plants; and in the natural method ranking with thofe of which the order is doubtful. The corolla is pentapetalous; the fruit is a plum with a triated kernel.<x_0.6826><y_0.882><class_Text>\n\n<x_0.0059><y_0.8805>HUGUENOTS, an appellation given by way of contempt to the reformed or Protectant Calvinifts of France.<x_0.6836><y_0.9211><class_Text>\n\n<x_0.0332><y_0.9203>The name had its firit rife in 1560; but authors are<x_0.6807><y_0.9367><class_Text>\n\n<x_0.3154><y_0.9352>4 T 2 net<x_0.6797><y_0.9508><class_Page-footer>",
+ "reply": {
+  "id": "chatcmpl-bd157bf7-34f4-4b11-b957-00038e2f432a",
+  "object": "chat.completion",
+  "created": 1792321853,
+  "model": "nvidia/nemotron-3.5-parse",
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "<x_0.0088><y_0.0406>7 J H U G<x_0.5439><y_0.0617><class_Title>\n\n<x_0.0117><y_0.0609>hal made heirs to his library. A fevere diflemper weakened his body extremely, but not the vivacity of his genius: he wrote his own life in a very elegant flyle; and died in 1721, aged 91. He was a man of very agreeable conversation; and of great probity, as well as immense crudition.—The following are the titles of his principal works. 1. De claris interpretibus, et de optino genre interpretandi. 2. An edition of Origen's commentaries on the holy Scriptures, in Greek and Latin. 3. A treatife on the origin of the Romans. 4. Denonfratio evangelica, folio. 5. Quelliones Alnetana de concordia rationis et fidei. 6. Of the situation of the terrestrial paradife, in French. 7. A history of the commerce and navigation of the ancients, which has been translated into Englifh. 8. Commentarius de rebus ad cum perti-nentibus. 9. Huetiana. 10. Latin and Greek verfes, &c.<x_0.7021><y_0.3055><class_Text>\n\n<x_0.0127><y_0.3031>HUGHES (John), an ingenious and polite wri-ter, was born in 1677. In the earliest parts of his youth, he cultivated the filter-arts, poetry, drawing, and mufic, in each of which he by turns made a considerable progrefs; but followed thofe and his other studies only as agreeable amufements, under frequent confinement on account of his ill fate of health. The lord Chancellor Cowper made him fecretary for the commitions of the peace without his knowledge, and ditinguilhed him with singular marks of his eileem. He continued in the fame employment under the card of Macclesfield, and held it to the day of his death; which happened in 1719, the very night in which his tragedy, intitled _The flege of Damafeu_, was first ac-ted. He was then 42. He tranllated Fontenelle’s dialogues of the dead, Vertot’s revolutionos of Portu-gal, and the letters of Abelard and Eloifa. He gave a very accurate edition of Spencer’s works, with his life, a gloffary, and remarks; and wrote several papers in the Tatler, Spectator, and Guardian. Mr Duncombe, who married his filter, collected his poems and elays in 2 vols 12mo, in 1735.<x_0.7012><y_0.6016><class_Text>\n\n<x_0.0098><y_0.5984>HUGHLY, a town of Afia, in the kingdom of Bengal, feated on the molt weiterly branch of the river Ganges. It is of large extent, reaching about two miles along the river-fide, and drives a great trade in all the commodities of that country; affording rich cargoes for 50 or 60 fhips annually, beides what is brought on carriages to the neighbouring towns. Saltpetre is brought hither from Patnia in veffels above 50 yards long and five broad. The inhabitants are chiefly Indians; but there are alfo Portuguefe, Eng-lith, and other Europeans. E. Long 87. 55. N. Lat. 22. 0.<x_0.6982><y_0.7602><class_Text>\n\n<x_0.0078><y_0.7578>HUGO CAPET, chief of the third race of the king of France, being count of Paris and Orleans; he was raised to the throne for his military valour and public virtues in 987. See FRANCE, n 38.<x_0.6816><y_0.8141><class_Text>\n\n<x_0.0068><y_0.8125>HUGONIA, in botany : A genus of the decandria order, belonging to the monadelphis clafs of plants; and in the natural method ranking with thofe of which the order is doubtful. The corolla is pentapetalous; the fruit is a plum with a triated kernel.<x_0.6826><y_0.882><class_Text>\n\n<x_0.0059><y_0.8805>HUGUENOTS, an appellation given by way of contempt to the reformed or Protectant Calvinifts of France.<x_0.6836><y_0.9211><class_Text>\n\n<x_0.0332><y_0.9203>The name had its firit rife in 1560; but authors are<x_0.6807><y_0.9367><class_Text>\n\n<x_0.3154><y_0.9352>4 T 2 net<x_0.6797><y_0.9508><class_Page-footer>",
+     "refusal": null,
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "reasoning": null
+    },
+    "logprobs": null,
+    "finish_reason": "stop",
+    "stop_reason": null,
+    "token_ids": null,
+    "routed_experts": null
+   }
+  ],
+  "service_tier": null,
+  "system_fingerprint": "vllm-0.26.0-d51b4524",
+  "usage": {
+   "prompt_tokens": 1800,
+   "total_tokens": 2776,
+   "completion_tokens": 976,
+   "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "prompt_text": null,
+  "kv_transfer_params": null,
+  "ec_transfer_params": null,
+  "metrics": null
+ }
+}
