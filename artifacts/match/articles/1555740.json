@@ -1,0 +1,26 @@
+{
+ "page_id": "1555740",
+ "revision_id": "1352996286",
+ "title": "Ell",
+ "url": "https://en.wikipedia.org/wiki/Ell",
+ "text_sha256": "ac0ba4b3b7e7561fdfe15a516686a21568ad3650dc1853549e55ff37ee483eed",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "b1939e53c82e8e1ce339129f375e364704cebf0b79f249f5f57851d7576fe224",
+  "source_row_idx": 11212,
+  "source_shard": "enwiki/data/enwiki_namespace_0_69.parquet",
+  "text_sha256": "ac0ba4b3b7e7561fdfe15a516686a21568ad3650dc1853549e55ff37ee483eed",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352996286"
+ },
+ "text": "An ell (from Proto-Germanic * alinō, cognate with Latin ulna) is a northwestern European unit of measurement, originally understood as a cubit (the combined length of the forearm and extended hand). The word literally means \"arm\", and survives in the modern English word elbow (arm-bend). Later usage through the 19th century refers to several longer units, some of which are thought to derive from a \"double ell\".\n\nAn ell-wand or ellwand was a rod of length one ell used for official measurement. Edward I of England required that every town have one. In Scotland, the Belt of Orion was called \"the King's Ellwand\". An iron ellwand is preserved in the entrance to Stånga Church on the Swedish island of Gotland, indicating the role that rural churches had in disseminating uniform measures.\n\nSeveral national forms existed, with different lengths, including the Scottish ell (≈37 inches or 94 centimetres), the Flemish ell (≈27 in or 68.6 cm), the French ell (≈54 in or 137.2 cm), the Polish ell (≈31 in or 78.7 cm), the Danish alen (24 Danish inches or 2 Danish fod: 62.7708 cm), the Swedish aln (2 Swedish fot 59.38 cm), and the German ell, which was different lengths in Frankfurt (54.7 cm), Cologne, Leipzig (Saxony), and Hamburg.\n\nSelect customs were observed by English importers of Dutch textiles; although all cloths were bought by the Flemish ell, linen was sold by the English ell, but tapestry was sold by the Flemish ell.\n\nThe Viking ell was the measure from the elbow to the tip of the middle finger, about 18 inches (460 mm). The Viking or primitive ell was used in Iceland up to the 13th century. By the 13th century, a law set the \"stika\" as equal to two ells, which referred to the English ell.\n\nIn England, the ell was usually one-and-a-quarter yards, which is 45 in (1.143 m). It was mainly used in the tailoring business but is now obsolete. Although the exact length was never defined in English law, standards were kept; the brass ell examined at the Exchequer by Graham in the 1740s had been in use \"since the time of Queen Elizabeth.\"\n\nOther English measures called an ell include the \"yard and handful,\" or the 40 inch ell, abolished in 1439; the yard and inch, or the 37 inch ell (a cloth measure), abolished after 1553, later known as the Scotch ell 37.06 inches (0.941 m); and the cloth ell of 45 inches, used until 1600. See yard for details.\n\nThe Scottish ell (Scottish Gaelic: slat Albannach) is approximately 37 inches (0.94 m). The Scottish ell was standardised in 1661, with the exemplar to be kept in the custody of Edinburgh. It comes from Middle English elle.\n\nIt was used in the popular expression Gie 'im an inch, an he'll tak an ell (equivalent to \"Give him an inch and he'll take a mile\" or \"... he'll take a yard \").\n\nThe Ell Shop (1757) in Dunkeld, Perth and Kinross (National Trust for Scotland), is so called from the 18th-century iron ell-stick attached to one corner, once used to measure cloth and other commodities in the adjacent market-place. The shaft of the 17th-century Kincardine mercat cross stands in the square of Fettercairn, and is notched to show the measurements of an ell.\n\nScottish measures were made obsolete, and English measurements made standard in Scotland, by an Act of Parliament, the Weights and Measures Act 1824.\n\nSimilar measures include:\n\nNetherlands: el, 1 metre (Old ell=27.08 inches)\n\nJersey: ell, 4 feet\n\nN. Borneo: ella, 1 yard\n\nSwitzerland: elle, 0.6561 yard\n\nOttoman Turkey: Arşın, ~69 cm\n\nIn the epic poem Sir Gawain and the Green Knight, the Green Knight's axe-head was an ell (45 inches) wide.\n\nElls were also used in the medieval French play The Farce of Master Pathelin to measure the size of the clothing Pierre Pathelin bought.\n\nElls are used for measuring the length of rope in J. R. R. Tolkien 's The Lord of the Rings. Since Sam declares that 30 elles are \"about\" 18 fathoms (108 feet), he seems to be using the 45-inch English ell, which would work out to 112 feet.\n\nHalldór Laxness described Örvar-Oddr as twelve Danish ells tall in Independent People, Part II, \"Of the World\"."
+}

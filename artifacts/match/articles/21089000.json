@@ -1,0 +1,26 @@
+{
+ "page_id": "21089000",
+ "revision_id": "1333261874",
+ "title": "Magnesium sulfite",
+ "url": "https://en.wikipedia.org/wiki/Magnesium_sulfite",
+ "text_sha256": "8060b4836e47ef9cd96ab0487d2d91b5c3f67a43bdd2c48836c75342aad3791b",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+  "source_row_idx": 76333,
+  "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+  "text_sha256": "8060b4836e47ef9cd96ab0487d2d91b5c3f67a43bdd2c48836c75342aad3791b",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333261874"
+ },
+ "text": "Magnesium sulfite is the magnesium salt of sulfurous acid with the formula MgSO. Its most common hydrated form has 6 water molecules making it a hexahydrate, MgSO ·6 H O. When heated above 40 °C (104 °F), it is dehydrated to magnesium sulfite trihydrate, or MgSO ·3 H O. The anhydrous form is hygroscopic, meaning that it readily absorbs water from the air."
+}

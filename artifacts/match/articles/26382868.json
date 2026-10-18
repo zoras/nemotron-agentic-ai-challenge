@@ -1,0 +1,26 @@
+{
+ "page_id": "26382868",
+ "revision_id": "1345514782",
+ "title": "Amida (Mesopotamia)",
+ "url": "https://en.wikipedia.org/wiki/Amida_(Mesopotamia)",
+ "text_sha256": "f571ecc3c8585de14ee174f71d6acb9db8cf06c34d4798f968e58ab4e9e84158",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "27ed2f1e2fc651dc28fcbcfd0361e72071eb731b5507ce0b298eb5dc550d3913",
+  "source_row_idx": 26898,
+  "source_shard": "enwiki/data/enwiki_namespace_0_43.parquet",
+  "text_sha256": "f571ecc3c8585de14ee174f71d6acb9db8cf06c34d4798f968e58ab4e9e84158",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345514782"
+ },
+ "text": "Amida (Greek: Ἄμιδα, Syriac: ܐܡܝܕ, Kurdish: Amed) was an ancient city in Upper Mesopotamia located where modern Diyarbakır, Turkey now stands.\n\nThe city was located on the right bank of the Tigris. The walls are lofty and substantial, and constructed of the recycled stones from older buildings.\n\nThe oldest artefact from Amida is the famous stele of king Naram-Sin also believed to be from third millennia BC.\n\nThe name Amida first appears in the writings of Assyrian King Adad-nirari I (C. 1310 -1281 BC) who ruled the city as a part of the Assyrian homeland. Amida remained an important region of the Assyrian homeland throughout the reign of king Tiglath-Pileser I (1114–1076 BC) and the name Amida appeared in the annals of Assyrian rulers until 612 BC when it was conquered by the Medes.\n\nAmida was enlarged and strengthened by Constantius II, in whose reign it was besieged and taken after seventy-three days by the Sassanid king Shapur II (359). The Roman soldiers and a large part of the population of the town were massacred by the Persians. Ammianus Marcellinus took part in the defence of the town and escaped just before its fall; his historical writings contain a minute account of the siege. The Persians did not attempt to garrison the city after capturing it.\n\nAmida was besieged by the Sassanid king Kavadh I during the Anastasian War through the autumn and winter (502–503). The siege of the city proved to be a far more difficult enterprise than Kavadh expected; the defenders, although unsupported by troops, repelled the Sassanid assaults for three months before they were finally beaten. Part of the prisoners of Amida were deported to Arrajan, a city refounded by Kavad I, who then named it \"Weh-az-Amid-Kawad\" (literally, \"better than Amida, Kavad \". During that same war, the Romans attempted an ultimately unsuccessful siege of the Persian-held Amida, led by generals Patricius and Hypatius. In 504, however, the Byzantines reconquered the city, and Justinian I repaired its walls and fortifications.\n\nThe Sassanids captured the city for a third time in 602 and held it for more than twenty years. In 628 the Roman emperor Heraclius recovered Amida.\n\nFinally, in 639 the city was captured by the Arab armies of Islam and it remained in Arab hands until the Kurdish dynasty of the Marwanids ruled the area during the 10th and 11th centuries.\n\nIn 1085, the Seljuk Turks captured the region from the Marwanids, and they settled many Turcomans in the region. However, the Ayyubids received the city from their vassal state the Artuqids in 1232, and the city was ruled by them until the Mongolian Ilkhanate captured the city in 1259. Later the Ayyubids of Hasankeyf took back the city and ruled it until it was sacked by the Timurid Empire in 1394. Yavuz Sultan Selim, the Ottoman Emperor captured the city from the Safavids in 1515.\n\nAmida is a diocese of several Christian denominations; for the ecclesiastical history of Amida and Diyarbakir, see the Diyarbakır article.\n\nAëtius of Amida was a Greek physician of the sixth century AD, who was an imperial physician at Constantinople. He was the author of many medical books."
+}

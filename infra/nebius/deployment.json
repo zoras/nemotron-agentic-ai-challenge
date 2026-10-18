@@ -1,0 +1,30 @@
+{
+  "id": "aiendpoint-e05fq72pcdhp112106",
+  "name": "retrieval-models",
+  "created_at": "2026-10-18T12:20:30.329587Z",
+  "region": "uk-south2",
+  "image": "pytorch/pytorch:2.8.0-cuda12.8-cudnn9-runtime@sha256:417bd75df6365104c283ea4c1651fb3530d9eb5a4c2fafa51943cff2a94e6385",
+  "platform": "gpu-rtx6000-a",
+  "preset": "1gpu-24vcpu-218gb",
+  "disk": {
+    "type": "NETWORK_SSD",
+    "size_bytes": "107374182400"
+  },
+  "ports": [
+    {
+      "container_port": 8000,
+      "host_port": 8000,
+      "protocol": "HTTP"
+    }
+  ],
+  "container_command": "bash",
+  "args": "/bootstrap/start.sh",
+  "injected_files": [
+    "/bootstrap/start.sh"
+  ],
+  "authentication": "bearer token (value not recorded)",
+  "bootstrap": "infra/nebius/endpoint-bootstrap.sh",
+  "model_service_commit": "baaeb0cbf6b20e21ea1517ea60bda8b2d6392077",
+  "smoke_receipt": "runs/model-service-smoke-aiendpoint-e05fq72pcdhp112106.json",
+  "cost_per_hour_usd": 1.80
+}

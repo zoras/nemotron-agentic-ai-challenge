@@ -1,0 +1,26 @@
+{
+ "page_id": "12708992",
+ "revision_id": "1336988774",
+ "title": "Osmoderma eremita",
+ "url": "https://en.wikipedia.org/wiki/Osmoderma_eremita",
+ "text_sha256": "89a41850f1588d8f20ea7066bb4767b8819b57434c6b246a1c1dcc9e06fc86bc",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "871f1c208893ed1c0742ad9d2fdd91fbf41f5a66cc11b1adac7ea1c14edd3c91",
+  "source_row_idx": 91574,
+  "source_shard": "enwiki/data/enwiki_namespace_0_11.parquet",
+  "text_sha256": "89a41850f1588d8f20ea7066bb4767b8819b57434c6b246a1c1dcc9e06fc86bc",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1336988774"
+ },
+ "text": "Osmoderma eremita, the hermit beetle or Russian leather beetle, is a species of European beetle in the family Scarabaeidae. Adults measure between 21 and 32 mm in length.\n\nOsmoderma eremita, when defined as distinct from the closely related Osmoderma barnabita, O. cristinae, O. italicum, and O. lassallei, occurs in central and western Europe, from northern Spain and northern Italy northward to southern Sweden and eastern Germany. When interpreted more broadly, as including O. cristinae and O. lassallei as subspecies, it is distributed in much of Europe.\n\nThe larvae develop in hollow trees. Oak is the preferred kind of tree, but the larvae may develop in any tree species with suitable hollows. Due to extensive scientific research, O. eremita is the most well known insect species associated with ancient or hollow trees. For instance, research has addressed the beetles' dispersal biology, population dynamics, and chemical communication. Trained conservation detection dogs are being used in monitoring larvae in Italy.\n\nDue to habitat loss and fragmentation, the species has decreased all over its distribution range. For this reason the species is protected in most European countries, and has been given the highest priority according to the EU's Habitats Directive. LIFE 's projects in Poodří, Czech Republic and Gipuzkoa, Spain, led by Arnika, Ostrava University and Aranzadi Science Society, aimed at expanding the habitat of this endangered species."
+}

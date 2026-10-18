@@ -1,0 +1,26 @@
+{
+ "page_id": "5648382",
+ "revision_id": "1296170103",
+ "title": "Amhara Province",
+ "url": "https://en.wikipedia.org/wiki/Amhara_Province",
+ "text_sha256": "c346aad7fd67d986bf8b3cf0289c94470527c3da27dcf98dc751574f72cbb339",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+  "source_row_idx": 15930,
+  "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+  "text_sha256": "c346aad7fd67d986bf8b3cf0289c94470527c3da27dcf98dc751574f72cbb339",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1296170103"
+ },
+ "text": "Amhara Province (Amharic: አማራ) also known as the \"Amhara country\" and originally as Bete Amhara (Amharic: ቤተ ዐምሐራ,, \"House of Amhara\") was the name of a medieval province of the Ethiopian Empire, located in present-day Debub Wollo and parts of Semien Shewa. It was named after the Amhara people, who originated from the province. Following the Italian invasion of Ethiopia in 1936, \" Amara \" was used to designate the subdivision of Italian East Africa with its administrative center at Gondar, and during the 1990s the Amhara region would be formed with its capitol in Bahir Dar. The people of this region mainly practice Orthodox Christianity and the region, in its many forms, has historically been considered the heartland of Ethiopia."
+}

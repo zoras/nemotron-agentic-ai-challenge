@@ -1,0 +1,26 @@
+{
+ "page_id": "2051178",
+ "revision_id": "1353509764",
+ "title": "Thomas Button",
+ "url": "https://en.wikipedia.org/wiki/Thomas_Button",
+ "text_sha256": "2d7074159c05b81fcc7ca2df293a689138ea6fdee84abbc346137b8b75e1a0ec",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "27eb26156adf9e0df4b1b91e8fcab50e86e9d630d405d9d16bdb298d9a74bd2d",
+  "source_row_idx": 4304,
+  "source_shard": "enwiki/data/enwiki_namespace_0_83.parquet",
+  "text_sha256": "2d7074159c05b81fcc7ca2df293a689138ea6fdee84abbc346137b8b75e1a0ec",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353509764"
+ },
+ "text": "Sir Thomas Button (c. 1575 – April 1634) was a Royal Navy officer and explorer who in 1612 – 1613 commanded an expedition that unsuccessfully attempted to locate explorer Henry Hudson and to navigate the Northwest Passage.\n\nBorn around 1575, he was the fourth son of Miles Button of Worlton, Glamorgan, and his wife Margaret, daughter of Edward Lewis. His father's family had been landowners, originally at Bitton in Gloucestershire, since the 1100s. Around 1595 he married Elizabeth, daughter of landowner Sir Walter Rice of Newton House, Llandeilo, and his wife Elizabeth, daughter of Sir Edward Mansell of Margam. This made him a nephew of the prominent naval officer Sir Robert Mansell, from whose patronage he benefited for the rest of his career.\n\nIn April 1612, he was given command of two navy ships, Resolution and Discovery, to lead an expedition in search of the Northwest Passage. Sailing from England around the beginning of May 1612, they reached the mouth of a river which he named the Nelson after the ship's master, who had died. They wintered at what is now known as Port Nelson and the next year headed north to search for the Northwest Passage. They lost the Resolution to sea ice and continued on to 65° North. He discovered and named Mansel Island and returned to England in September 1613. He is credited with exploring and securing the west coast of Hudson Bay for his country, naming the area New Wales. The region would again be visited twelve years later in 1631 by Captains Thomas James and Luke Foxe. Supposedly, upon discovering a cross erected by Button at Port Nelson, Captain Foxe christened the shore north of the Nelson River as New North Wales and all the lands south as New South Wales. Button and his men were some of the first recorded Europeans to explore the area now known as Manitoba and his discovery meant that others followed after him, using his landmarks, his stories, and his detailed notes. The first maps of areas near Hudson Bay were struck from his explorations and from those of his predecessor, Henry Hudson.\n\nOn his return, he was appointed Admiral of the Irish Coasts in command of the Irish Squadron and on 30 August 1616 was knighted by the Lord Deputy of Ireland. The activity of pirates and smugglers at Pwllheli in the Cardigan Bay occupied the subject in 1631. Despite his standing in the Navy, his subsequent career was marked by prolonged quarrels with the Admiralty, wrongs being committed on both sides, resulting in the end with him in ill-health being stripped of his post as Admiral and left effectively bankrupt. He was buried on 8 April 1634 at the church of St Margaret's, Westminster, survived by his wife and five of their seven children. He left no will and his Welsh lands passed to his eldest son, Miles, who had to mortgage them to meet his father's debts. After waiting three years, his widow received 650 pounds (equivalent to about 98,000 pounds in 2015) from the government in settlement of pay and expenses he was owed."
+}

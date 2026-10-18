@@ -1,0 +1,26 @@
+{
+ "page_id": "2951410",
+ "revision_id": "1292403177",
+ "title": "Notarikon",
+ "url": "https://en.wikipedia.org/wiki/Notarikon",
+ "text_sha256": "1e7a09feabee0334ade1d8513075ed5ad617b47648ff5bac0ef045c6bb8db212",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+  "source_row_idx": 18967,
+  "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+  "text_sha256": "1e7a09feabee0334ade1d8513075ed5ad617b47648ff5bac0ef045c6bb8db212",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1292403177"
+ },
+ "text": "Notarikon (Hebrew: נוֹטָרִיקוֹן, romanized: Noṭāriqon) is a Talmudic method of interpreting Biblical words as acronyms. The same term may also be used for a Kabbalistic method of using the acronym of a Biblical verse as a name for God. Another variation uses the first and last letters, or the two middle letters of a word, to form another word. The word \"notarikon\" is borrowed from the Greek language (νοταρικόν), and was derived from the Latin word \"notarius\" meaning \"shorthand writer.\"\n\nNotarikon is one of the three methods used by the Kabbalists (the other two are gematria and temurah) to rearrange words and sentences. These methods were used to derive the esoteric substratum and deeper spiritual meaning of the words in the Bible. Notarikon was also used in alchemy.\n\nUntil the end of the Talmudic period, notarikon is understood in Judaism as a method of Scripture interpretation by which the letters of individual words in the Bible text indicate the first letters of independent words.\n\nFor example, the consonants of the word nimreṣet (1Kgs 2:8) produce the words noʾef \"adulterer\", moʾābi \"Moabite\", roṣeaḥ \"murderer\", ṣorer \"threatener\" and tôʿbāh \"horror\". According to a Talmudic interpretation, the starting word indicates the insults which Shimei had thrown at David.\n\nA common usage of notarikon in the practice of Kabbalah, is to form sacred names of God derived from religious or biblical verses. AGLA, an acronym for Atah Gibor Le-olam Adonai, translated, \"You, O Lord, are mighty forever,\" is one of the most famous examples of notarikon. Dozens of examples are found in the Berit Menuchah, as is referenced in the following passage:\n\nAnd it was discovered that the Malachim were created from the wind and the fine and enlightening air, and that the name of their origin עַמַרֻמְאֵליוְהָ was derived from the verse (Psalms 104:4): \"Who makest the winds thy messengers, fire and flame thy ministers\" (…) And when the lights reach this Sefira, they unite and receive a name that is derived from the central letters of the following verse (Genesis 6:2): \"The sons of God saw that the daughters of men were fair; and they took to wife such of them as they chose.\" And this valiant name, which is drawn in the Gevura, is רְנֵלבֺנקְהֵכשְיִהְ.\n\nThe Sefer Gematriot of Judah ben Samuel of Regensburg is another book where many examples of notarikon for use on talismans are given from Biblical verses."
+}

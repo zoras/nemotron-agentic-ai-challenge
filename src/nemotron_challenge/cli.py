@@ -49,7 +49,8 @@ def doctor(settings: Settings, *, live: bool) -> tuple[dict[str, Any], int]:
     failed = any(check["status"] in {"failed", "missing"} for check in checks)
     return {
         "mode": "live" if live else "offline", "checks": checks,
-        "challenge_stages": "not implemented", "inference": "not tested",
+        "challenge_stages": "implemented" if set(tasks.STAGES) <= tasks.IMPLEMENTED else "not implemented",
+        "inference": "not tested",
     }, int(failed)
 
 

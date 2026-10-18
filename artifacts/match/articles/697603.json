@@ -1,0 +1,26 @@
+{
+ "page_id": "697603",
+ "revision_id": "1335410382",
+ "title": "Helmstedt",
+ "url": "https://en.wikipedia.org/wiki/Helmstedt",
+ "text_sha256": "d143491431c5db220b946ddbd3ffb77f3808feaee35b53e7fd6eff529c94e3b4",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "871f1c208893ed1c0742ad9d2fdd91fbf41f5a66cc11b1adac7ea1c14edd3c91",
+  "source_row_idx": 40648,
+  "source_shard": "enwiki/data/enwiki_namespace_0_11.parquet",
+  "text_sha256": "d143491431c5db220b946ddbd3ffb77f3808feaee35b53e7fd6eff529c94e3b4",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335410382"
+ },
+ "text": "Helmstedt (German pronunciation:; Eastphalian: Helmstidde) is a town on the eastern edge of the German state of Lower Saxony. It is the capital of the District of Helmstedt. The historic university and Hanseatic city conserves an important monumental heritage of Romanesque and Renaissance buildings, as well as numerous timber framed houses. During the German partition the nearby Bundesautobahn 2 was the site of the Helmstedt–Marienborn border crossing, the most important on the former inner German border as starting point of the shortest land route between West Germany and West Berlin.\n\nHelmstedt is situated in a basin between the Elm and Lappwald hill ranges, at the transition area between the northern foothills of the Harz mountains and the North German Plain. It is surrounded by the Elm-Lappwald Nature Park. The town centre is located about 36 kilometres (22 mi) east of Braunschweig, 45 kilometres (28 mi) west of Magdeburg, and 90 kilometres (56 mi) east of the state capital Hanover.\n\nThe municipal area includes the localities of Barmke and Emmerstedt, both incorporated by a 1974 administrative reform, and Büddenstedt, incorporated in 2017, as well as the resort town of Bad Helmstedt, about 3.5 kilometres (2.2 mi) east of the town centre. Helmstedt currently has about 25,000 inhabitants (2015).\n\nThe settlement in the Duchy of Saxony was first mentioned as Helmonstede in a 952 deed issued by the German king Otto I. In former times also called Helmstädt, the town developed in the vicinity of the Benedictine St. Ludger's Abbey that was founded around 800 by Saint Liudger as a mission station. Helmstedt's town privileges were documented in 1247. It belonged to the Abbacy of Werden until 1490, when it was bought by the Duchy of Brunswick-Lüneburg. From 1576 to 1810, the University of Helmstedt was located here.\n\nFrom 1807 the town was part of the Napoleonic Kingdom of Westphalia, from 1815 it was part of the Duchy of Brunswick, and from 1871 it was part of the German Empire. During World War I, in 1916–1917, Germany operated a special prisoner-of-war camp for ethnic Polish officers from the Russian Army, with the aim of subjecting them to propaganda and conscripting them into a planned German-controlled Polish army to fight against Russia (Poland was partitioned between Germany, Russia and Austria at the time). In 1918, French officers were also detained in this camp, their return began in January 1919.\n\nFrom the late 1940s to 1990, the town was the site of a major border crossing between the Federal Republic of Germany and the German Democratic Republic. The main rail and autobahn route between West Germany and West Berlin, across the GDR, began at the Helmstedt–Marienborn border crossing, also known as Checkpoint Alpha. Only official military traffic from NATO countries to West Berlin was allowed to use this route.\n\nThe town lies on the Brunswick-Magdeburg railway.\n\nHelmstedt is twinned with:\n\nAlbuquerque, United States\n\nChard, England, United Kingdom\n\nFiuggi, Italy\n\nHaldensleben, Germany\n\nOrăştie, Romania\n\nSvietlahorsk, Belarus\n\nVitré, France"
+}

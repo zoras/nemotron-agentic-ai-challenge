@@ -1,0 +1,4327 @@
+{
+ "labeller": "Claude Code (coding agent), reviewed in the session of 2026-10-18; not checked by a team member",
+ "method": "Read the entry OCR text and the article title and lead. yes: same subject. partial: the article covers the text on this page, or a narrower or broader subject. no: a different subject, or a disambiguation page. Doubtful rows are left unlabelled.",
+ "labelled_from": "artifacts/match/matches.json of the run with plan numbering fixed, then of the run with text-only headword plans and key checks",
+ "labels": [
+  {
+   "target_id": "page-1214-17d180a99e0a:e1#topic",
+   "page_id": "505455",
+   "title": "Firedamp",
+   "label": "partial",
+   "correct": true,
+   "note": "the page describes firedamp; the entry DAMPS covers several mine gases"
+  },
+  {
+   "target_id": "page-1680-fbb4a5fde0c2:e1#topic",
+   "page_id": "189274",
+   "title": "Carpentry",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1803-0b6da50e5c8a:e1#topic",
+   "page_id": "60125",
+   "title": "Engraving",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0403-44f912e1c323:e1#topic",
+   "page_id": "23193",
+   "title": "Philology",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1166-ec9dc1d6c2c9:e1#topic",
+   "page_id": "105323",
+   "title": "Freedom of the press",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1580-e0bdcd3f241e:e1#topic",
+   "page_id": "18717261",
+   "title": "Trigonometry",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2277-cdde2fc730b9:e1#topic",
+   "page_id": "674",
+   "title": "Anatomy",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2402-5030b31ea901:e1#topic",
+   "page_id": "674",
+   "title": "Anatomy",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1942-99b5dc3b4c6c:e1#topic",
+   "page_id": "297350",
+   "title": "Pharmacy",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1649-e6a1fc569876:e1#topic",
+   "page_id": "59639",
+   "title": "Chivalry",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e1#topic",
+   "page_id": "17158563",
+   "title": "Sheep",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e1#topic",
+   "page_id": "5098574",
+   "title": "Hell",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0261-881563669b04:e1#topic",
+   "page_id": "59238",
+   "title": "Entomology",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0513-b5d3417f845a:e1#topic",
+   "page_id": "9316",
+   "title": "England",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e1#topic",
+   "page_id": "16905",
+   "title": "Kabbalah",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0473-4ab88a7103cd:e1#topic",
+   "page_id": "847900",
+   "title": "Conchology",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0217-7dc36e3a55f8:e1#topic",
+   "page_id": "59790",
+   "title": "Farm",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0247-cb5b8fd3e311:e1#topic",
+   "page_id": "169351",
+   "title": "Mount Etna",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0257-012cf5a82a33:e1#topic",
+   "page_id": "15614",
+   "title": "Jonathan Swift",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0851-6e2a0b999324:e1#topic",
+   "page_id": "22483",
+   "title": "Optics",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1324-2cfbaa25a150:e1#topic",
+   "page_id": "339558",
+   "title": "Hedge",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1284-b6a1ee180d42:e1#topic",
+   "page_id": "26994",
+   "title": "Scotland",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2524-beb66523a80a:e1#topic",
+   "page_id": "489492",
+   "title": "Hindustan",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1765-1e78e19e88aa:e1#topic",
+   "page_id": "192420",
+   "title": "Kalmyks",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2307-4ce2ea50e9d2:e1#topic",
+   "page_id": "1644",
+   "title": "Algiers",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1933-ae507137e9dc:e1#topic",
+   "page_id": "350407",
+   "title": "Oratory",
+   "label": "no",
+   "correct": false,
+   "note": "the article is a disambiguation page"
+  },
+  {
+   "target_id": "page-0013-50049db49e8b:e1#topic",
+   "page_id": "187377",
+   "title": "Shipbuilding",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2051-588566464df4:e1#topic",
+   "page_id": "18011",
+   "title": "Lombards",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2448-f5e4884f245d:e1#topic",
+   "page_id": "12432",
+   "title": "Genius",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1939-0f50bb0b2f40:e1#topic",
+   "page_id": "297350",
+   "title": "Pharmacy",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e1#topic",
+   "page_id": "89440",
+   "title": "Philippe de Commines",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e7#topic",
+   "page_id": "83148",
+   "title": "Danaë",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1945-d877e2c0e7d6:e1#topic",
+   "page_id": "1674351",
+   "title": "Optical instrument",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e13#topic",
+   "page_id": "41756438",
+   "title": "Exemplar",
+   "label": "no",
+   "correct": false,
+   "note": "the article is a disambiguation page"
+  },
+  {
+   "target_id": "page-1910-f4723acc1771:e1#topic",
+   "page_id": "61344",
+   "title": "Lightning",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e1#topic",
+   "page_id": "26061",
+   "title": "Royal Navy",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0268-4f70fe5dafd6:e1#topic",
+   "page_id": "1467913",
+   "title": "Laurus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0681-c2be06f2d615:e1#topic",
+   "page_id": "22483",
+   "title": "Optics",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e1#topic",
+   "page_id": "79642",
+   "title": "Cappadocia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0756-33eb91fcbe8d:e1#topic",
+   "page_id": "19716",
+   "title": "Magnetism",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1828-9ca50fbf1eeb:e1#topic",
+   "page_id": "4431",
+   "title": "Beauty",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2446-692d680df6a9:e1#topic",
+   "page_id": "5180",
+   "title": "Chemistry",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e1#topic",
+   "page_id": "180338",
+   "title": "Richmond, North Yorkshire",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e2#topic",
+   "page_id": "381069",
+   "title": "Olney, Buckinghamshire",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1818-e6693d1961ef:e1#topic",
+   "page_id": "2762233",
+   "title": "Blowpipe (tool)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2093-4b43bdcc663f:e1#topic",
+   "page_id": "23416874",
+   "title": "Sense",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2570-364adfefc0b1:e1#topic",
+   "page_id": "18495846",
+   "title": "Abyssinia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e8#topic",
+   "page_id": "271054",
+   "title": "Hermit",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e8#topic",
+   "page_id": "303724",
+   "title": "Thoracic duct",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e5#topic",
+   "page_id": "326405",
+   "title": "Thrapston",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1298-4795a8a1d020:e1#topic",
+   "page_id": "2274296",
+   "title": "Bryan Edwards (politician)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2493-84519542efce:e1#topic",
+   "page_id": "21089000",
+   "title": "Magnesium sulfite",
+   "label": "partial",
+   "correct": true,
+   "note": "the page describes sulphite of magnesia; the entry is CHEMISTRY"
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e1#topic",
+   "page_id": "140953",
+   "title": "Onager",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e14#topic",
+   "page_id": "1098309",
+   "title": "Bezant",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0115-9730fa72203a:e1#topic",
+   "page_id": "12873937",
+   "title": "Bleach",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0266-dfbe51d09127:e1#topic",
+   "page_id": "6171963",
+   "title": "Prohibited degree of kinship",
+   "label": "partial",
+   "correct": true,
+   "note": "the page describes forbidden degrees; the entry is MARRIAGE"
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e11#topic",
+   "page_id": "21445971",
+   "title": "Ergot (horse anatomy)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e1#topic",
+   "page_id": "2051178",
+   "title": "Thomas Button",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is a bay named after Button"
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e6#topic",
+   "page_id": "996527",
+   "title": "Silius Italicus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e2#topic",
+   "page_id": "313515",
+   "title": "Jacques Auguste de Thou",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e1#topic",
+   "page_id": "28399",
+   "title": "Silesia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e13#topic",
+   "page_id": "1023388",
+   "title": "Eridanus (constellation)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1466-bb41810e6962:e1#topic",
+   "page_id": "23008816",
+   "title": "Metallurgical assay",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0383-018fb71412b2:e1#topic",
+   "page_id": "46044",
+   "title": "Political economy",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2108-6874128a519b:e1#topic",
+   "page_id": "13530298",
+   "title": "Great Britain",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2155-e6a255b57f58:e1#topic",
+   "page_id": "2158298",
+   "title": "Visual impairment",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1904-759854fd95bb:e1#topic",
+   "page_id": "2514313",
+   "title": "Chelys",
+   "label": "partial",
+   "correct": true,
+   "note": "the page tells the origin of the lyre; the entry is LYRE"
+  },
+  {
+   "target_id": "page-1904-759854fd95bb:e1#topic",
+   "page_id": "81774",
+   "title": "Lyre",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e5#topic",
+   "page_id": "44346",
+   "title": "Shallot",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e5#topic",
+   "page_id": "603624",
+   "title": "Executor",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e4#topic",
+   "page_id": "180279",
+   "title": "Ounce",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2569-e8e9334880f9:e1#topic",
+   "page_id": "18495846",
+   "title": "Abyssinia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e8#topic",
+   "page_id": "175519",
+   "title": "Escheat",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e1#topic",
+   "page_id": "5902",
+   "title": "Capital punishment",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e6#topic",
+   "page_id": "356357",
+   "title": "Oundle",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e10#topic",
+   "page_id": "75899",
+   "title": "Huguenots",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0318-9d0e08d8ed22:e1#topic",
+   "page_id": "21244",
+   "title": "Nile",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1415-d28d11d04726:e1#topic",
+   "page_id": "187749",
+   "title": "Ethiopia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0220-f28b3445b235:e1#topic",
+   "page_id": "26963215",
+   "title": "Maritime fur trade",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e2#topic",
+   "page_id": "768795",
+   "title": "Escalade",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e2#topic",
+   "page_id": "663464",
+   "title": "Buttress",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e6#topic",
+   "page_id": "12820951",
+   "title": "John Hughes (poet)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1430-4405fefdf7b6:e1#topic",
+   "page_id": "8087628",
+   "title": "Egypt",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e7#topic",
+   "page_id": "3084322",
+   "title": "Ovolo",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e4#topic",
+   "page_id": "2478630",
+   "title": "Silex",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry refers to FLINT"
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e4#topic",
+   "page_id": "43701",
+   "title": "Flint",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e2#topic",
+   "page_id": "858353",
+   "title": "Acroterion",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e4#topic",
+   "page_id": "124259",
+   "title": "Buxton",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e3#topic",
+   "page_id": "6479901",
+   "title": "Oulx",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e3#topic",
+   "page_id": "12870661",
+   "title": "Capparis",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e4#topic",
+   "page_id": "36857",
+   "title": "Thrace",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e15#topic",
+   "page_id": "523235",
+   "title": "Erigeron",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2131-f30c24bfdf3b:e1#topic",
+   "page_id": "1353710",
+   "title": "Bombay Presidency",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the island and town of Bombay"
+  },
+  {
+   "target_id": "page-2131-f30c24bfdf3b:e1#topic",
+   "page_id": "19189",
+   "title": "Mumbai",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e6#topic",
+   "page_id": "1468228",
+   "title": "Cabin (ship)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e9#topic",
+   "page_id": "12887652",
+   "title": "Hugonia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e12#topic",
+   "page_id": "26382868",
+   "title": "Amida (Mesopotamia)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e7#topic",
+   "page_id": "15684616",
+   "title": "Cabinet (room)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e3#topic",
+   "page_id": "91234",
+   "title": "Williamsburg, Virginia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e8#topic",
+   "page_id": "151594",
+   "title": "River Ouse, Yorkshire",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e14#topic",
+   "page_id": "17946",
+   "title": "Lake Erie",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e1#topic",
+   "page_id": "246544",
+   "title": "Ataraxia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e2#topic",
+   "page_id": "2825567",
+   "title": "Comines, Nord",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is the Belgian town in West Flanders"
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e2#topic",
+   "page_id": "175265",
+   "title": "Comines-Warneton",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1722-bda8f6e99dca:e1#topic",
+   "page_id": "897",
+   "title": "Arsenic",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e3#topic",
+   "page_id": "31726053",
+   "title": "Eranthemum",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e5#topic",
+   "page_id": "165564",
+   "title": "Pierre Daniel Huet",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0104-9aaa833a4643:e1#topic",
+   "page_id": "46450138",
+   "title": "Weights and Measures Act",
+   "label": "no",
+   "correct": false,
+   "note": "the entry describes units, not an act"
+  },
+  {
+   "target_id": "page-0104-9aaa833a4643:e1#topic",
+   "page_id": "21347678",
+   "title": "Unit of measurement",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e8#topic",
+   "page_id": "75185",
+   "title": "Hugh Capet",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e6#topic",
+   "page_id": "1028348",
+   "title": "Eschar",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e6#topic",
+   "page_id": "18232390",
+   "title": "Danake",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e4#topic",
+   "page_id": "1164051",
+   "title": "Capra (genus)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e3#topic",
+   "page_id": "62278",
+   "title": "Naxos",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is the town, not the island"
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e3#topic",
+   "page_id": "12693373",
+   "title": "Naxos (city)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e4#topic",
+   "page_id": "9559864",
+   "title": "Willemstad, North Brabant",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e10#topic",
+   "page_id": "9481",
+   "title": "Erfurt",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e7#topic",
+   "page_id": "220053",
+   "title": "Buzzard",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e2#topic",
+   "page_id": "68298",
+   "title": "Huesca",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e6#topic",
+   "page_id": "3259",
+   "title": "Amicable numbers",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry gives the general sense and then amicable numbers"
+  },
+  {
+   "target_id": "page-1805-226885408318:e6#topic",
+   "page_id": "603624",
+   "title": "Executor",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the Scots-law sense"
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e3#topic",
+   "page_id": "6800312",
+   "title": "Escallonia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e16#topic",
+   "page_id": "7684952",
+   "title": "Erinaceus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e3#topic",
+   "page_id": "5858997",
+   "title": "Huéscar",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e4#topic",
+   "page_id": "2305125",
+   "title": "Nicholas Amhurst",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e3#topic",
+   "page_id": "2193890",
+   "title": "Thistle",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e9#topic",
+   "page_id": "82889",
+   "title": "Cabeiri",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0914-28ee06f6b377:e1#topic",
+   "page_id": "47858",
+   "title": "Arabian Peninsula",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e6#topic",
+   "page_id": "21702",
+   "title": "Nazareth",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e12#topic",
+   "page_id": "326115",
+   "title": "Erica (plant)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e4#topic",
+   "page_id": "16686570",
+   "title": "Roman assemblies",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e7#topic",
+   "page_id": "416473",
+   "title": "Ischiocavernosus muscle",
+   "label": "yes",
+   "correct": true,
+   "note": "the erector penis is the ischiocavernosus"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e15#topic",
+   "page_id": "4568281",
+   "title": "Pile driver",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry lists several engines"
+  },
+  {
+   "target_id": "page-1805-226885408318:e16#topic",
+   "page_id": "9580887",
+   "title": "Exemption (Catholic canon law)",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is the common-law privilege"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e5#topic",
+   "page_id": "739097",
+   "title": "Endymion (mythology)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e5#topic",
+   "page_id": "7634016",
+   "title": "Thomas Willis",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e5#topic",
+   "page_id": "251667",
+   "title": "Saint Thomas Christians",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0493-29246f4d055a:e1#topic",
+   "page_id": "1622963",
+   "title": "Jufureh",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e7#topic",
+   "page_id": "2379579",
+   "title": "Hugli-Chuchura",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e1#topic",
+   "page_id": "26748",
+   "title": "Switzerland",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e3#topic",
+   "page_id": "2690119",
+   "title": "Footrope",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e3#topic",
+   "page_id": "154202",
+   "title": "Torhout",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e6#topic",
+   "page_id": "416473",
+   "title": "Ischiocavernosus muscle",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e4#topic",
+   "page_id": "10122721",
+   "title": "Erasure",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a heraldic term"
+  },
+  {
+   "target_id": "page-1805-226885408318:e17#topic",
+   "page_id": "189037",
+   "title": "Exercise",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2424-dd2506be16cf:e1#topic",
+   "page_id": "25160767",
+   "title": "Livestock",
+   "label": "partial",
+   "correct": true,
+   "note": "the page is the live-stock part of AGRICULTURE"
+  },
+  {
+   "target_id": "page-2424-dd2506be16cf:e1#topic",
+   "page_id": "627",
+   "title": "Agriculture",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e9#topic",
+   "page_id": "262601",
+   "title": "Thorax",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e4#topic",
+   "page_id": "36374961",
+   "title": "Prison (Escape) Act 1706",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is the general offence"
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e4#topic",
+   "page_id": "3902454",
+   "title": "Prison escape",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e2#topic",
+   "page_id": "874539",
+   "title": "Hellebore",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e4#topic",
+   "page_id": "421556",
+   "title": "Dan (ancient city)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e2#topic",
+   "page_id": "8472111",
+   "title": "Atarneus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e2#topic",
+   "page_id": "62278",
+   "title": "Naxos",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e9#topic",
+   "page_id": "543696",
+   "title": "Exedra",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2087-4b834c6b315d:e1#topic",
+   "page_id": "3745",
+   "title": "Britain",
+   "label": "no",
+   "correct": false,
+   "note": "the article is a disambiguation page"
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e2#topic",
+   "page_id": "51545652",
+   "title": "Damsel, Missouri",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e7#topic",
+   "page_id": "26424879",
+   "title": "Energumen (magazine)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e5#topic",
+   "page_id": "334850",
+   "title": "Buxus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e1#topic",
+   "page_id": "46377",
+   "title": "Edward III",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e2#topic",
+   "page_id": "16905",
+   "title": "Kabbalah",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the Kabbalists"
+  },
+  {
+   "target_id": "page-1805-226885408318:e15#topic",
+   "page_id": "3424984",
+   "title": "Exemplified copy",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e2#topic",
+   "page_id": "558994",
+   "title": "Sawbuck",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e5#topic",
+   "page_id": "18834674",
+   "title": "Erection",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is the general sense of raising"
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e1#topic",
+   "page_id": "188740",
+   "title": "Esarhaddon",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0493-29246f4d055a:e2#topic",
+   "page_id": "1622963",
+   "title": "Jufureh",
+   "label": "no",
+   "correct": false,
+   "note": "the entry JIN refers to GENII"
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e8#topic",
+   "page_id": "16992056",
+   "title": "Amice",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e4#topic",
+   "page_id": "197274",
+   "title": "Ven (Sweden)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e7#topic",
+   "page_id": "981466",
+   "title": "Tunic",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is the upper garment worn over the tunic"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e17#topic",
+   "page_id": "33279052",
+   "title": "Endless (Inna song)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e9#topic",
+   "page_id": "36169514",
+   "title": "Eremita",
+   "label": "no",
+   "correct": false,
+   "note": "the article is an album"
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e9#topic",
+   "page_id": "12708992",
+   "title": "Osmoderma eremita",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e13#topic",
+   "page_id": "246544",
+   "title": "Ataraxia",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e10#topic",
+   "page_id": "276930",
+   "title": "Exegesis",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e2#topic",
+   "page_id": "16147726",
+   "title": "Diligence (Scots law)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e4#topic",
+   "page_id": "33696661",
+   "title": "Koine Greek",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e6#topic",
+   "page_id": "246544",
+   "title": "Ataraxia",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e5#topic",
+   "page_id": "43710",
+   "title": "Silicon dioxide",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e2#topic",
+   "page_id": "509632",
+   "title": "Thirst",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e15#topic",
+   "page_id": "370359",
+   "title": "Helston",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2479-cdaf43d24336:e1#topic",
+   "page_id": "18949668",
+   "title": "Law",
+   "label": "partial",
+   "correct": true,
+   "note": "the page is Scots law of obligations"
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e7#topic",
+   "page_id": "838801",
+   "title": "Thomism",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the Thomists"
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e10#topic",
+   "page_id": "8472111",
+   "title": "Atarneus",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is Aternum"
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e10#topic",
+   "page_id": "13770710",
+   "title": "Aternum",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e4#topic",
+   "page_id": "1306551",
+   "title": "Financial endowment",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a dower"
+  },
+  {
+   "target_id": "page-1032-e28420685b47:e2#topic",
+   "page_id": "19593167",
+   "title": "Heat",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e3#topic",
+   "page_id": "2833446",
+   "title": "Bützow",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e6#topic",
+   "page_id": "838801",
+   "title": "Thomism",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e15#topic",
+   "page_id": "3719",
+   "title": "Byzantium",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e14#topic",
+   "page_id": "246544",
+   "title": "Ataraxia",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e2#topic",
+   "page_id": "170825",
+   "title": "Shipworm",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e8#topic",
+   "page_id": "37962744",
+   "title": "Cabinetry",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e4#topic",
+   "page_id": "6213748",
+   "title": "Thlaspi",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e5#topic",
+   "page_id": "228592",
+   "title": "Lottery",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is a cant term in lotteries"
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e3#topic",
+   "page_id": "36656",
+   "title": "County",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e5#topic",
+   "page_id": "15295535",
+   "title": "Snow leopard",
+   "label": "yes",
+   "correct": true,
+   "note": "the ounce is the snow leopard"
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e2#topic",
+   "page_id": "1933308",
+   "title": "Swivel",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0944-3e9ba80e3606:e1#topic",
+   "page_id": "1555740",
+   "title": "Ell",
+   "label": "partial",
+   "correct": true,
+   "note": "the page lists measures of length"
+  },
+  {
+   "target_id": "page-0944-3e9ba80e3606:e1#topic",
+   "page_id": "21347678",
+   "title": "Unit of measurement",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e12#topic",
+   "page_id": "9313336",
+   "title": "Athamanta",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a Persian minister"
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e4#topic",
+   "page_id": "65213",
+   "title": "Cabinda Province",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the port town"
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e4#topic",
+   "page_id": "3459525",
+   "title": "Cabinda (city)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1250-2e0c75f85418:e2#topic",
+   "page_id": "7558",
+   "title": "Coin",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e6#topic",
+   "page_id": "2785019",
+   "title": "Enemy alien",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e10#topic",
+   "page_id": "82889",
+   "title": "Cabeiri",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is their festivals"
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e3#topic",
+   "page_id": "5648382",
+   "title": "Amhara Province",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e8#topic",
+   "page_id": "26748",
+   "title": "Switzerland",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is Thomas Sydenham"
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e5#topic",
+   "page_id": "1105029",
+   "title": "Nair",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0499-5eb663c6a072:e1#topic",
+   "page_id": "14533",
+   "title": "India",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e5#topic",
+   "page_id": "16040029",
+   "title": "Cabidos",
+   "label": "no",
+   "correct": false,
+   "note": "the article is a French commune; the entry is a measure"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e7#topic",
+   "page_id": "132151",
+   "title": "Helmet",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e2#topic",
+   "page_id": "7831683",
+   "title": "Silesian",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e3#topic",
+   "page_id": "47910",
+   "title": "Jordan River",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e6#topic",
+   "page_id": "1326899",
+   "title": "Ship's wheel",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the helm or tiller"
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e11#topic",
+   "page_id": "100327",
+   "title": "Amitābha",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e4#topic",
+   "page_id": "10263",
+   "title": "Executive (government)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e5#topic",
+   "page_id": "8073",
+   "title": "Dardanelles",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e16#topic",
+   "page_id": "121129",
+   "title": "Hellevoetsluis",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0493-29246f4d055a:e3#topic",
+   "page_id": "1622963",
+   "title": "Jufureh",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is Icknield Street"
+  },
+  {
+   "target_id": "page-0611-4a137a2c6b07:e1#topic",
+   "page_id": "2137292",
+   "title": "Drag (physics)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e7#topic",
+   "page_id": "3416",
+   "title": "Bryozoa",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is one bryozoan genus"
+  },
+  {
+   "target_id": "page-1805-226885408318:e14#topic",
+   "page_id": "41756438",
+   "title": "Exemplar",
+   "label": "no",
+   "correct": false,
+   "note": "the article is a disambiguation page"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e14#topic",
+   "page_id": "146363",
+   "title": "Fire engine",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a machine in general"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e17#topic",
+   "page_id": "40938403",
+   "title": "Hemerobius",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e6#topic",
+   "page_id": "44580541",
+   "title": "Brandts Buys",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a town in the Dauphiné"
+  },
+  {
+   "target_id": "page-2250-75315f455009:e6#topic",
+   "page_id": "14861547",
+   "title": "Buis-les-Baronnies",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e11#topic",
+   "page_id": "2892406",
+   "title": "Ateste",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e8#topic",
+   "page_id": "79441560",
+   "title": "Scots succession law",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e9#topic",
+   "page_id": "2051178",
+   "title": "Thomas Button",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e9#topic",
+   "page_id": "521384",
+   "title": "By-law",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e5#topic",
+   "page_id": "332563",
+   "title": "Tribe of Dan",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e13#topic",
+   "page_id": "191032",
+   "title": "Hälsingland",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e3#topic",
+   "page_id": "361425",
+   "title": "Historically informed performance",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e1#topic",
+   "page_id": "13645",
+   "title": "Horse",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e1#topic",
+   "page_id": "447638",
+   "title": "Gloria Patri",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e5#topic",
+   "page_id": "45261151",
+   "title": "Ataraxia (gamer)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e16#topic",
+   "page_id": "2051178",
+   "title": "Thomas Button",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e7#topic",
+   "page_id": "246544",
+   "title": "Ataraxia",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e16#topic",
+   "page_id": "27692",
+   "title": "Steam engine",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a dividing engine"
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e9#topic",
+   "page_id": "2980764",
+   "title": "Ovis",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e8#topic",
+   "page_id": "11386432",
+   "title": "Lithuania–Poland relations",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e8#topic",
+   "page_id": "246544",
+   "title": "Ataraxia",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e12#topic",
+   "page_id": "14861547",
+   "title": "Buis-les-Baronnies",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e12#topic",
+   "page_id": "4806014",
+   "title": "Arithmetica Universalis",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e12#topic",
+   "page_id": "537048",
+   "title": "Equation solving",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e18#topic",
+   "page_id": "921126",
+   "title": "Charge (heraldry)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e5#topic",
+   "page_id": "32679414",
+   "title": "Patrick Blair (surgeon)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e12#topic",
+   "page_id": "992706",
+   "title": "Endowment (philosophy)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e4#topic",
+   "page_id": "9313336",
+   "title": "Athamanta",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e11#topic",
+   "page_id": "276930",
+   "title": "Exegesis",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a class of Athenian officials"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e10#topic",
+   "page_id": "556633",
+   "title": "Enfilade and defilade",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e13#topic",
+   "page_id": "2051178",
+   "title": "Thomas Button",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e13#topic",
+   "page_id": "469788",
+   "title": "Byssus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e2#topic",
+   "page_id": "598862",
+   "title": "Fess",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e7#topic",
+   "page_id": "10826418",
+   "title": "Executory contract",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e7#topic",
+   "page_id": "4893539",
+   "title": "Future interest",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e10#topic",
+   "page_id": "146496",
+   "title": "Helle (mythology)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e11#topic",
+   "page_id": "334850",
+   "title": "Buxus",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e11#topic",
+   "page_id": "57250378",
+   "title": "Byrrhus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1422-8d39d99af992:e1#topic",
+   "page_id": "9252",
+   "title": "Education",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e9#topic",
+   "page_id": "1190944",
+   "title": "Atella",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e7#topic",
+   "page_id": "25998383",
+   "title": "Sycophancy",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the Athenian informer"
+  },
+  {
+   "target_id": "page-2250-75315f455009:e10#topic",
+   "page_id": "663464",
+   "title": "Buttress",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e4#topic",
+   "page_id": "26748",
+   "title": "Switzerland",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e1#topic",
+   "page_id": "30701",
+   "title": "The Computer Contradictionary",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e12#topic",
+   "page_id": "39262971",
+   "title": "Hell (surname)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e11#topic",
+   "page_id": "1326899",
+   "title": "Ship's wheel",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e11#topic",
+   "page_id": "236213",
+   "title": "Helots",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e3#topic",
+   "page_id": "1832050",
+   "title": "Roman funerary practices",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e2#topic",
+   "page_id": "36490249",
+   "title": "Poor Relief Act",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e10#topic",
+   "page_id": "509632",
+   "title": "Thirst",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e3#topic",
+   "page_id": "26748",
+   "title": "Switzerland",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e3#topic",
+   "page_id": "20254750",
+   "title": "Syncope (medicine)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e3#topic",
+   "page_id": "364771",
+   "title": "Grand vizier",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e11#topic",
+   "page_id": "59823755",
+   "title": "Nagara (ancient city)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e6#topic",
+   "page_id": "26748",
+   "title": "Switzerland",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e11#topic",
+   "page_id": "32047660",
+   "title": "Orkney Herald",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e5#topic",
+   "page_id": "26748",
+   "title": "Switzerland",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e2#topic",
+   "page_id": "150320",
+   "title": "Tyrian purple",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e1#topic",
+   "page_id": "6908561",
+   "title": "Amethystine python",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e8#topic",
+   "page_id": "61202",
+   "title": "Vermes",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e13#topic",
+   "page_id": "9640",
+   "title": "Engine",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e9#topic",
+   "page_id": "2232219",
+   "title": "Tarquinia gens",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e9#topic",
+   "page_id": "50579245",
+   "title": "Endless OS Foundation",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e4#topic",
+   "page_id": "179595",
+   "title": "Benefit of clergy",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e3#topic",
+   "page_id": "37589953",
+   "title": "Cabeça de galo",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e3#topic",
+   "page_id": "5018826",
+   "title": "Coat of arms of Togo",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e14#topic",
+   "page_id": "39262971",
+   "title": "Hell (surname)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e10#topic",
+   "page_id": "1872124",
+   "title": "Pronunciation of English ⟨th⟩",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e3#topic",
+   "page_id": "3648508",
+   "title": "Acolouthia",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0104-9aaa833a4643:e1#topic",
+   "page_id": "15492",
+   "title": "Imperial units",
+   "label": "partial",
+   "correct": true,
+   "note": "the page gives metric and British units"
+  },
+  {
+   "target_id": "page-0115-9730fa72203a:e1#topic",
+   "page_id": "11501704",
+   "title": "Textile bleaching",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0220-f28b3445b235:e1#topic",
+   "page_id": "452887",
+   "title": "Fur trade",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e4#topic",
+   "page_id": "27863",
+   "title": "Sword",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e5#topic",
+   "page_id": "39746106",
+   "title": "Sworn Brothers",
+   "label": "no",
+   "correct": false,
+   "note": "the article is a 1987 film"
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e6#topic",
+   "page_id": "70121",
+   "title": "Sycamore",
+   "label": "partial",
+   "correct": true,
+   "note": "the article covers several trees; the entry refers to ACER"
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e6#topic",
+   "page_id": "437919",
+   "title": "Acer pseudoplatanus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e8#topic",
+   "page_id": "564669",
+   "title": "Thomas Sydenham",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e1#topic",
+   "page_id": "172632",
+   "title": "William of Wykeham",
+   "label": "yes",
+   "correct": true,
+   "note": "inferred: the page describes a keeper of the great seal under Edward III"
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e2#topic",
+   "page_id": "33917",
+   "title": "William the Conqueror",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry names several kings called William"
+  },
+  {
+   "target_id": "page-0266-dfbe51d09127:e1#topic",
+   "page_id": "20522079",
+   "title": "Scots family law",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0493-29246f4d055a:e2#topic",
+   "page_id": "13027",
+   "title": "Jinn",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0493-29246f4d055a:e3#topic",
+   "page_id": "294644",
+   "title": "Icknield Street",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e1#topic",
+   "page_id": "20110824",
+   "title": "Infinity",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the word endless"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e11#topic",
+   "page_id": "50366425",
+   "title": "Collective enfranchisement",
+   "label": "no",
+   "correct": false,
+   "note": "modern leasehold law"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e12#topic",
+   "page_id": "113240",
+   "title": "Ventriloquism",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the ventriloquist priestesses"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e13#topic",
+   "page_id": "94535",
+   "title": "Generation",
+   "label": "no",
+   "correct": false,
+   "note": "the article is about age cohorts"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e14#topic",
+   "page_id": "20734173",
+   "title": "History of engineering",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a machine in general"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e15#topic",
+   "page_id": "9640",
+   "title": "Engine",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry lists several engines"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e16#topic",
+   "page_id": "938143",
+   "title": "Jesse Ramsden",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry refers to Ramsden's dividing engine"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e16#topic",
+   "page_id": "13288679",
+   "title": "Dividing engine",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e17#topic",
+   "page_id": "100034",
+   "title": "Military engineering",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e18#topic",
+   "page_id": "9316",
+   "title": "England",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e2#topic",
+   "page_id": "22048135",
+   "title": "Bar (heraldry)",
+   "label": "no",
+   "correct": false,
+   "note": "the endorse is a diminutive of the pale"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e3#topic",
+   "page_id": "41592077",
+   "title": "Double rose",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e8#topic",
+   "page_id": "9649",
+   "title": "Energy",
+   "label": "no",
+   "correct": false,
+   "note": "the article is the physical quantity"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e9#topic",
+   "page_id": "1624392",
+   "title": "Forlorn hope",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e10#topic",
+   "page_id": "236334",
+   "title": "Amicus curiae",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e11#topic",
+   "page_id": "548706",
+   "title": "Amida",
+   "label": "no",
+   "correct": false,
+   "note": "the article is a disambiguation page"
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e5#topic",
+   "page_id": "21492663",
+   "title": "Asbestos",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e9#topic",
+   "page_id": "6995018",
+   "title": "Palla (garment)",
+   "label": "no",
+   "correct": false,
+   "note": "the entry contrasts the amiculum with the palla"
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e3#topic",
+   "page_id": "21032843",
+   "title": "Abnormal growths of the nailbed",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e3#topic",
+   "page_id": "34049",
+   "title": "Wart",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e4#topic",
+   "page_id": "317524",
+   "title": "Action (philosophy)",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is act as opposed to power"
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e1#topic",
+   "page_id": "65124",
+   "title": "Bertel Thorvaldsen",
+   "label": "yes",
+   "correct": true,
+   "note": "inferred: a funeral attended by the queen and princesses, on the page before THOU"
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e5#topic",
+   "page_id": "180279",
+   "title": "Ounce",
+   "label": "no",
+   "correct": false,
+   "note": "the article is the unit; the entry is the animal"
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e9#topic",
+   "page_id": "166499",
+   "title": "Khanty",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0914-28ee06f6b377:e1#topic",
+   "page_id": "1752957",
+   "title": "Arabia Felix",
+   "label": "partial",
+   "correct": true,
+   "note": "the page describes the Arabian deserts"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e10#topic",
+   "page_id": "697603",
+   "title": "Helmstedt",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e12#topic",
+   "page_id": "13696",
+   "title": "Helsinki",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e14#topic",
+   "page_id": "13477388",
+   "title": "Staveless runes",
+   "label": "yes",
+   "correct": true,
+   "note": "Hälsinge runes are staveless runes"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e15#topic",
+   "page_id": "7662197",
+   "title": "Helston (UK Parliament constituency)",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e3#topic",
+   "page_id": "668147",
+   "title": "Hellenization",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a Greek idiom"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e8#topic",
+   "page_id": "431109",
+   "title": "Petrified wood",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e9#topic",
+   "page_id": "102074",
+   "title": "Helmond",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1032-e28420685b47:e1#topic",
+   "page_id": "56558",
+   "title": "Blood pressure",
+   "label": "partial",
+   "correct": true,
+   "note": "the page is a table of Hales's blood-height measurements"
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e3#topic",
+   "page_id": "3886002",
+   "title": "Comitatus (warband)",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is the county"
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e4#topic",
+   "page_id": "1932563",
+   "title": "Curiate assembly",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e6#topic",
+   "page_id": "83148",
+   "title": "Danaë",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is the coin"
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e6#topic",
+   "page_id": "19919977",
+   "title": "Charon's obol",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1250-2e0c75f85418:e1#topic",
+   "page_id": "46192159",
+   "title": "Coinage reform of Augustus",
+   "label": "partial",
+   "correct": true,
+   "note": "the page compares Roman coin values"
+  },
+  {
+   "target_id": "page-1250-2e0c75f85418:e2#topic",
+   "page_id": "24057311",
+   "title": "Coining (mint)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e4#topic",
+   "page_id": "17242486",
+   "title": "Nayo",
+   "label": "no",
+   "correct": false,
+   "note": "the article is a village in Burma"
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e7#topic",
+   "page_id": "533626",
+   "title": "Nazirite",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry starts with the Nazarene sense"
+  },
+  {
+   "target_id": "page-1284-b6a1ee180d42:e1#topic",
+   "page_id": "20603",
+   "title": "Mary, Queen of Scots",
+   "label": "partial",
+   "correct": true,
+   "note": "the page quotes Mary in the SCOTLAND history"
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e1#topic",
+   "page_id": "13034",
+   "title": "Geyser",
+   "label": "partial",
+   "correct": true,
+   "note": "the page describes a geyser eruption; the entry title is unclear"
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e7#topic",
+   "page_id": "908126",
+   "title": "Hooghly River",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is the town"
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e2#topic",
+   "page_id": "40578251",
+   "title": "Trestle support",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e4#topic",
+   "page_id": "61291884",
+   "title": "Jackstay",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1430-4405fefdf7b6:e1#topic",
+   "page_id": "874",
+   "title": "Ancient Egypt",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1466-bb41810e6962:e1#topic",
+   "page_id": "15564354",
+   "title": "Assay Office (Boise, Idaho)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e7#topic",
+   "page_id": "1028348",
+   "title": "Eschar",
+   "label": "no",
+   "correct": false,
+   "note": "the entry is a coralline"
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e10#topic",
+   "page_id": "31258",
+   "title": "Toruń",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e3#topic",
+   "page_id": "355679",
+   "title": "Order of the Thistle",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e13#topic",
+   "page_id": "21700208",
+   "title": "Handwriting exemplar",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e14#topic",
+   "page_id": "599917",
+   "title": "Mental image",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e16#topic",
+   "page_id": "14032030",
+   "title": "Military exemption",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e17#topic",
+   "page_id": "445609",
+   "title": "1780 in science",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e3#topic",
+   "page_id": "49403880",
+   "title": "Performance practice of Bach's music",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e8#topic",
+   "page_id": "30876354",
+   "title": "Scots law",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1933-ae507137e9dc:e1#topic",
+   "page_id": "25084",
+   "title": "Public speaking",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1945-d877e2c0e7d6:e1#topic",
+   "page_id": "22483",
+   "title": "Optics",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e2#topic",
+   "page_id": "70224310",
+   "title": "Silesian independence",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e3#topic",
+   "page_id": "79702328",
+   "title": "Repast (funeral)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2087-4b834c6b315d:e1#topic",
+   "page_id": "13530298",
+   "title": "Great Britain",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2093-4b43bdcc663f:e1#topic",
+   "page_id": "242682",
+   "title": "Sensation (fiction)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2108-6874128a519b:e1#topic",
+   "page_id": "158019",
+   "title": "Kingdom of Great Britain",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2131-f30c24bfdf3b:e1#topic",
+   "page_id": "19745938",
+   "title": "History of Bombay under British rule (1661–1947)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2155-e6a255b57f58:e1#topic",
+   "page_id": "14738433",
+   "title": "National Institute for Blind Youth",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e12#topic",
+   "page_id": "364771",
+   "title": "Grand vizier",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is the Persian counterpart"
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e13#topic",
+   "page_id": "9313336",
+   "title": "Athamanta",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e14#topic",
+   "page_id": "24729562",
+   "title": "Athanasia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e3#topic",
+   "page_id": "969",
+   "title": "Ataxia",
+   "label": "partial",
+   "correct": true,
+   "note": "the entry is irregularity of fevers"
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e4#topic",
+   "page_id": "555107",
+   "title": "Akçe",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e5#topic",
+   "page_id": "28777761",
+   "title": "Achievement (heraldry)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e6#topic",
+   "page_id": "28777761",
+   "title": "Achievement (heraldry)",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e7#topic",
+   "page_id": "79071",
+   "title": "Ate (mythology)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e8#topic",
+   "page_id": "3158354",
+   "title": "Caesar's civil war",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e10#topic",
+   "page_id": "30876354",
+   "title": "Scots law",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e12#topic",
+   "page_id": "469788",
+   "title": "Byssus",
+   "label": "no",
+   "correct": false,
+   "note": "the article is the mollusc filaments; the entry is a plant genus"
+  },
+  {
+   "target_id": "page-2250-75315f455009:e16#topic",
+   "page_id": "21829656",
+   "title": "Bzou",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e8#topic",
+   "page_id": "2066181",
+   "title": "Bykhaw",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2448-f5e4884f245d:e1#topic",
+   "page_id": "24710172",
+   "title": "Commoner",
+   "label": "no",
+   "correct": false,
+   "note": "the page belongs to GENIUS"
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e11#topic",
+   "page_id": "12040929",
+   "title": "Ariaca",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e3#topic",
+   "page_id": "23491706",
+   "title": "Vide e Cabeça",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e2#topic",
+   "page_id": "652574",
+   "title": "Cornelius Nepos",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2493-84519542efce:e1#topic",
+   "page_id": "5180",
+   "title": "Chemistry",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2569-e8e9334880f9:e1#topic",
+   "page_id": "187749",
+   "title": "Ethiopia",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2570-364adfefc0b1:e1#topic",
+   "page_id": "9602302",
+   "title": "Ethiopian Empire",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0013-50049db49e8b:e1#subtopic",
+   "page_id": "35717335",
+   "title": "Longitudinal framing",
+   "label": "partial",
+   "correct": true,
+   "note": "the page describes diagonal framing, a different system"
+  },
+  {
+   "target_id": "page-0217-7dc36e3a55f8:e1#subtopic",
+   "page_id": "6456230",
+   "title": "Scenic America",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0220-f28b3445b235:e1#subtopic",
+   "page_id": "923935",
+   "title": "Queen Charlotte Sound (Canada)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0247-cb5b8fd3e311:e1#subtopic",
+   "page_id": "169351",
+   "title": "Mount Etna",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e1#subtopic",
+   "page_id": "81351071",
+   "title": "Hypothetical partition of Switzerland",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e1#subtopic",
+   "page_id": "26748",
+   "title": "Switzerland",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e1#subtopic",
+   "page_id": "172632",
+   "title": "William of Wykeham",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0266-dfbe51d09127:e1#subtopic",
+   "page_id": "6171963",
+   "title": "Prohibited degree of kinship",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0268-4f70fe5dafd6:e1#subtopic",
+   "page_id": "1999630",
+   "title": "Benzoin resin",
+   "label": "no",
+   "correct": false,
+   "note": "the resin comes from Styrax, not this Laurus"
+  },
+  {
+   "target_id": "page-0318-9d0e08d8ed22:e1#subtopic",
+   "page_id": "21244",
+   "title": "Nile",
+   "label": "partial",
+   "correct": true,
+   "note": "the page is about the source of the White Nile"
+  },
+  {
+   "target_id": "page-0383-018fb71412b2:e1#subtopic",
+   "page_id": "192617",
+   "title": "Wealth",
+   "label": "no",
+   "correct": false,
+   "note": "the page is about prices"
+  },
+  {
+   "target_id": "page-0403-44f912e1c323:e1#subtopic",
+   "page_id": "68646570",
+   "title": "Daniel and Verda",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0473-4ab88a7103cd:e1#subtopic",
+   "page_id": "26888221",
+   "title": "Patella skelettensis",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-0499-5eb663c6a072:e1#subtopic",
+   "page_id": "23752873",
+   "title": "Indian campaign of Alexander the Great",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0611-4a137a2c6b07:e1#subtopic",
+   "page_id": "58320",
+   "title": "Potential flow",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0681-c2be06f2d615:e1#subtopic",
+   "page_id": "33870490",
+   "title": "Image formation",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0681-c2be06f2d615:e1#subtopic",
+   "page_id": "11439770",
+   "title": "Plane mirror",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0756-33eb91fcbe8d:e1#subtopic",
+   "page_id": "264582",
+   "title": "Remanence",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0851-6e2a0b999324:e1#subtopic",
+   "page_id": "521267",
+   "title": "Reflection (physics)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0944-3e9ba80e3606:e1#subtopic",
+   "page_id": "1555740",
+   "title": "Ell",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1032-e28420685b47:e1#subtopic",
+   "page_id": "56558",
+   "title": "Blood pressure",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e1#subtopic",
+   "page_id": "3066253",
+   "title": "Étienne de Poncher",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1250-2e0c75f85418:e1#subtopic",
+   "page_id": "639223",
+   "title": "Quincunx (Roman coin)",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1284-b6a1ee180d42:e1#subtopic",
+   "page_id": "79376164",
+   "title": "Mary Stuart Proclaiming Her Innocence",
+   "label": "no",
+   "correct": false,
+   "note": "the article is a painting"
+  },
+  {
+   "target_id": "page-1284-b6a1ee180d42:e1#subtopic",
+   "page_id": "20603",
+   "title": "Mary, Queen of Scots",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1324-2cfbaa25a150:e1#subtopic",
+   "page_id": "339558",
+   "title": "Hedge",
+   "label": "partial",
+   "correct": true,
+   "note": "the page describes stone fences and ditches"
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e1#subtopic",
+   "page_id": "305241",
+   "title": "Geysir",
+   "label": "partial",
+   "correct": true,
+   "note": "inferred from the description"
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e1#subtopic",
+   "page_id": "203297",
+   "title": "Hydrocephalus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1415-d28d11d04726:e1#subtopic",
+   "page_id": "78697778",
+   "title": "Inga Hedberg",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1430-4405fefdf7b6:e1#subtopic",
+   "page_id": "377363",
+   "title": "History of ancient Egypt",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1430-4405fefdf7b6:e1#subtopic",
+   "page_id": "103525",
+   "title": "Hyksos",
+   "label": "yes",
+   "correct": true,
+   "note": "Salatis was a Hyksos king"
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e1#subtopic",
+   "page_id": "3591212",
+   "title": "Topcliffe, North Yorkshire",
+   "label": "no",
+   "correct": false,
+   "note": "the page is Richmond"
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e1#subtopic",
+   "page_id": "21460874",
+   "title": "Cappadocia (Roman province)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1678-75b494c1b4fb:e1#subtopic",
+   "page_id": "4208886",
+   "title": "Bilfinger",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1678-75b494c1b4fb:e1#subtopic",
+   "page_id": "2266225",
+   "title": "Georg Bernhard Bilfinger",
+   "label": "yes",
+   "correct": true,
+   "note": "inferred: an engineer in correspondence during the war in Serbia"
+  },
+  {
+   "target_id": "page-1680-fbb4a5fde0c2:e1#subtopic",
+   "page_id": "2110221",
+   "title": "Tie (engineering)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1722-bda8f6e99dca:e1#subtopic",
+   "page_id": "897",
+   "title": "Arsenic",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1805-226885408318:e1#subtopic",
+   "page_id": "1621432",
+   "title": "Right of asylum",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1904-759854fd95bb:e1#subtopic",
+   "page_id": "81774",
+   "title": "Lyre",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1910-f4723acc1771:e1#subtopic",
+   "page_id": "61344",
+   "title": "Lightning",
+   "label": "partial",
+   "correct": true,
+   "note": "the page is about the return stroke"
+  },
+  {
+   "target_id": "page-1933-ae507137e9dc:e1#subtopic",
+   "page_id": "7946460",
+   "title": "Repetition (rhetorical device)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1939-0f50bb0b2f40:e1#subtopic",
+   "page_id": "6262848",
+   "title": "Cannabis flower essential oil",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1939-0f50bb0b2f40:e1#subtopic",
+   "page_id": "281028",
+   "title": "Essential oil",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-1942-99b5dc3b4c6c:e1#subtopic",
+   "page_id": "10495601",
+   "title": "Hugh Linstead",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-1945-d877e2c0e7d6:e1#subtopic",
+   "page_id": "1674351",
+   "title": "Optical instrument",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2051-588566464df4:e1#subtopic",
+   "page_id": "26066222",
+   "title": "Helmichis",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2093-4b43bdcc663f:e1#subtopic",
+   "page_id": "5134",
+   "title": "Chess",
+   "label": "no",
+   "correct": false,
+   "note": "the page uses a chess player as an example"
+  },
+  {
+   "target_id": "page-2108-6874128a519b:e1#subtopic",
+   "page_id": "2087916",
+   "title": "Battle of Fort Niagara",
+   "label": "partial",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2108-6874128a519b:e1#subtopic",
+   "page_id": "22472697",
+   "title": "Great Britain in the Seven Years' War",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2131-f30c24bfdf3b:e1#subtopic",
+   "page_id": "14313333",
+   "title": "Climate of Kolkata",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2155-e6a255b57f58:e1#subtopic",
+   "page_id": "61410",
+   "title": "Louis Braille",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2250-75315f455009:e1#subtopic",
+   "page_id": "58635",
+   "title": "Hudson Bay",
+   "label": "partial",
+   "correct": true,
+   "note": "Button's Bay is part of Hudson Bay"
+  },
+  {
+   "target_id": "page-2277-cdde2fc730b9:e1#subtopic",
+   "page_id": "894707",
+   "title": "Cervical plexus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2296-487afb796c01:e1#subtopic",
+   "page_id": "5562687",
+   "title": "Vasili Pronchishchev",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2307-4ce2ea50e9d2:e1#subtopic",
+   "page_id": "24752014",
+   "title": "Algiers expedition (1541)",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2402-5030b31ea901:e1#subtopic",
+   "page_id": "232244",
+   "title": "Sacrum",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2424-dd2506be16cf:e1#subtopic",
+   "page_id": "1059768",
+   "title": "Cattle feeding",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2446-692d680df6a9:e1#subtopic",
+   "page_id": "23318",
+   "title": "Phosphorus",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2448-f5e4884f245d:e1#subtopic",
+   "page_id": "41330271",
+   "title": "Iconoclast: A Neuroscientist Reveals How to Think Differently",
+   "label": "no",
+   "correct": false,
+   "note": ""
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e1#subtopic",
+   "page_id": "2951410",
+   "title": "Notarikon",
+   "label": "partial",
+   "correct": true,
+   "note": "one of the three kinds"
+  },
+  {
+   "target_id": "page-2493-84519542efce:e1#subtopic",
+   "page_id": "21089000",
+   "title": "Magnesium sulfite",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-2524-beb66523a80a:e1#subtopic",
+   "page_id": "276879",
+   "title": "Architecture of India",
+   "label": "no",
+   "correct": false,
+   "note": "the page is about crimes and punishments"
+  },
+  {
+   "target_id": "page-2569-e8e9334880f9:e1#subtopic",
+   "page_id": "20609804",
+   "title": "Kingdom of Aksum",
+   "label": "yes",
+   "correct": true,
+   "note": ""
+  },
+  {
+   "target_id": "page-0013-50049db49e8b:e1#subtopic",
+   "page_id": "77997346",
+   "title": "Floor timber",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0104-9aaa833a4643:e1#topic",
+   "page_id": "2732151",
+   "title": "Metrication in the United Kingdom",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0217-7dc36e3a55f8:e1#subtopic",
+   "page_id": "1883529",
+   "title": "Cultural landscape",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0220-f28b3445b235:e1#subtopic",
+   "page_id": "35079380",
+   "title": "King George (1785 ship)",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0220-f28b3445b235:e1#topic",
+   "page_id": "20850603",
+   "title": "North American fur trade",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0247-cb5b8fd3e311:e1#subtopic",
+   "page_id": "62493542",
+   "title": "1669 eruption of Mount Etna",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e2#topic",
+   "page_id": "1503093",
+   "title": "Swivel gun",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e4#topic",
+   "page_id": "2544115",
+   "title": "Sword of state",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e5#topic",
+   "page_id": "80170641",
+   "title": "Sworn brotherhood (China)",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e1#subtopic",
+   "page_id": "72646603",
+   "title": "William de Epworth",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e2#topic",
+   "page_id": "252206",
+   "title": "William",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0266-dfbe51d09127:e1#topic",
+   "page_id": "30876354",
+   "title": "Scots law",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0318-9d0e08d8ed22:e1#subtopic",
+   "page_id": "158338",
+   "title": "Blue Nile",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0383-018fb71412b2:e1#subtopic",
+   "page_id": "21156505",
+   "title": "Ricardian socialism",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0403-44f912e1c323:e1#subtopic",
+   "page_id": "63695142",
+   "title": "Prodromus Coptus",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0473-4ab88a7103cd:e1#subtopic",
+   "page_id": "20683023",
+   "title": "Patella vulgata",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0499-5eb663c6a072:e1#subtopic",
+   "page_id": "18571595",
+   "title": "Agalasseis",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e1#topic",
+   "page_id": "58253701",
+   "title": "Endless tape cartridge",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e12#topic",
+   "page_id": "22589",
+   "title": "Oracle",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e14#topic",
+   "page_id": "9640",
+   "title": "Engine",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e15#topic",
+   "page_id": "27692",
+   "title": "Steam engine",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e2#topic",
+   "page_id": "3052280",
+   "title": "Pale (heraldry)",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e3#topic",
+   "page_id": "18544577",
+   "title": "Attitude (heraldry)",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e7#topic",
+   "page_id": "28569941",
+   "title": "Exorcism in Christianity",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e1#topic",
+   "page_id": "32329180",
+   "title": "Corydalis nobilis",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e1#topic",
+   "page_id": "186526",
+   "title": "Doxology",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e3#topic",
+   "page_id": "23149989",
+   "title": "Poroma",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e4#topic",
+   "page_id": "6274217",
+   "title": "Actus purus",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e1#topic",
+   "page_id": "20766792",
+   "title": "Thorvaldsen Museum",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0611-4a137a2c6b07:e1#subtopic",
+   "page_id": "1024614",
+   "title": "Taylor–Proudman theorem",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0611-4a137a2c6b07:e1#topic",
+   "page_id": "465122",
+   "title": "D'Alembert's paradox",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e8#topic",
+   "page_id": "150038",
+   "title": "River Great Ouse",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-0851-6e2a0b999324:e1#subtopic",
+   "page_id": "679297",
+   "title": "Specular reflection",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e10#topic",
+   "page_id": "154807",
+   "title": "Helmstedt (district)",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e14#topic",
+   "page_id": "822093",
+   "title": "Runes",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e2#topic",
+   "page_id": "45232867",
+   "title": "Helleborus viridis",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e4#topic",
+   "page_id": "37846797",
+   "title": "Jewish Koine Greek",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e7#topic",
+   "page_id": "493206",
+   "title": "Visor (armor)",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1032-e28420685b47:e1#subtopic",
+   "page_id": "45340131",
+   "title": "Blood pressure measurement",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1032-e28420685b47:e2#topic",
+   "page_id": "5307055",
+   "title": "Vital heat",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e1#subtopic",
+   "page_id": "78378411",
+   "title": "1508 in France",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e3#topic",
+   "page_id": "49673050",
+   "title": "County Court (England and Wales)",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e2#topic",
+   "page_id": "301517",
+   "title": "Damsel in distress",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e3#topic",
+   "page_id": "31462438",
+   "title": "Aaiha",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1250-2e0c75f85418:e1#topic",
+   "page_id": "299259",
+   "title": "Roman currency",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e7#topic",
+   "page_id": "24915375",
+   "title": "Nazarene (title)",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1415-d28d11d04726:e1#subtopic",
+   "page_id": "35693967",
+   "title": "Acanthopale pubescens",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1466-bb41810e6962:e1#topic",
+   "page_id": "496309",
+   "title": "Assay",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e7#topic",
+   "page_id": "32678599",
+   "title": "Flustra foliacea",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e1#subtopic",
+   "page_id": "8230855",
+   "title": "Myton-on-Swale",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e5#topic",
+   "page_id": "34041497",
+   "title": "Saint Thomas Christian denominations",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e2#topic",
+   "page_id": "14257984",
+   "title": "HMS Alarm (1758)",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1680-fbb4a5fde0c2:e1#subtopic",
+   "page_id": "23547440",
+   "title": "Timber roof truss",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1805-226885408318:e14#topic",
+   "page_id": "5317999",
+   "title": "Creative visualization",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1805-226885408318:e16#topic",
+   "page_id": "70355867",
+   "title": "Religious exemption",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1805-226885408318:e3#topic",
+   "page_id": "730943",
+   "title": "Portamento",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1805-226885408318:e8#topic",
+   "page_id": "1659362",
+   "title": "Jus relictae",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1904-759854fd95bb:e1#subtopic",
+   "page_id": "2514313",
+   "title": "Chelys",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1933-ae507137e9dc:e1#subtopic",
+   "page_id": "2261256",
+   "title": "Epizeuxis",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1933-ae507137e9dc:e1#topic",
+   "page_id": "25447",
+   "title": "Rhetoric",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1942-99b5dc3b4c6c:e1#subtopic",
+   "page_id": "72796144",
+   "title": "Anastasios Damvergis",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-1945-d877e2c0e7d6:e1#subtopic",
+   "page_id": "5226865",
+   "title": "Optical mount",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e2#topic",
+   "page_id": "3813656",
+   "title": "Armenian bole",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e3#topic",
+   "page_id": "822373",
+   "title": "Caristia",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e5#topic",
+   "page_id": "6236519",
+   "title": "Silicic",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2093-4b43bdcc663f:e1#subtopic",
+   "page_id": "27356094",
+   "title": "William Lewis (chess player)",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2155-e6a255b57f58:e1#topic",
+   "page_id": "2050949",
+   "title": "Blind musicians",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e2#topic",
+   "page_id": "9559842",
+   "title": "Hermias of Atarneus",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e8#topic",
+   "page_id": "1652619",
+   "title": "Antequera",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2250-75315f455009:e10#topic",
+   "page_id": "33918095",
+   "title": "History of Scots law",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2250-75315f455009:e13#topic",
+   "page_id": "5042942",
+   "title": "Sea silk",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2250-75315f455009:e3#topic",
+   "page_id": "35054336",
+   "title": "Bützow station",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2250-75315f455009:e4#topic",
+   "page_id": "63974990",
+   "title": "St Ann's Well (Buxton)",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2277-cdde2fc730b9:e1#subtopic",
+   "page_id": "231479",
+   "title": "Brachial plexus",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2402-5030b31ea901:e1#subtopic",
+   "page_id": "22440012",
+   "title": "Tetragonias",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2424-dd2506be16cf:e1#subtopic",
+   "page_id": "14193930",
+   "title": "Animal feed",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2446-692d680df6a9:e1#subtopic",
+   "page_id": "77581175",
+   "title": "Red phosphorus",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2448-f5e4884f245d:e1#subtopic",
+   "page_id": "20757984",
+   "title": "Conformity",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2448-f5e4884f245d:e1#topic",
+   "page_id": "20757984",
+   "title": "Conformity",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e1#subtopic",
+   "page_id": "2948427",
+   "title": "Temurah (Kabbalah)",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e11#topic",
+   "page_id": "1838671",
+   "title": "Gangga Negara",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e3#topic",
+   "page_id": "24527589",
+   "title": "Cabeça Gorda",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e5#topic",
+   "page_id": "1555740",
+   "title": "Ell",
+   "label": "partial",
+   "correct": true,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e7#topic",
+   "page_id": "7617772",
+   "title": "Cabinet painting",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e2#topic",
+   "page_id": "82489",
+   "title": "Epaminondas",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e4#topic",
+   "page_id": "459352",
+   "title": "Abatement (heraldry)",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e5#topic",
+   "page_id": "36197179",
+   "title": "New Erection, Virginia",
+   "label": "no",
+   "correct": false,
+   "note": "embedder's first choice"
+  },
+  {
+   "target_id": "page-2569-e8e9334880f9:e1#subtopic",
+   "page_id": "316134",
+   "title": "Frumentius",
+   "label": "yes",
+   "correct": true,
+   "note": "embedder's first choice"
+  }
+ ]
+}

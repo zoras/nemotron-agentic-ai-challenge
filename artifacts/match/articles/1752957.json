@@ -1,0 +1,26 @@
+{
+ "page_id": "1752957",
+ "revision_id": "1344399506",
+ "title": "Arabia Felix",
+ "url": "https://en.wikipedia.org/wiki/Arabia_Felix",
+ "text_sha256": "917e2bbbf60887c8ea2d657ca3c684fc147e3dc3e6714fd744f9af6cd167d5fd",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+  "source_row_idx": 33980,
+  "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+  "text_sha256": "917e2bbbf60887c8ea2d657ca3c684fc147e3dc3e6714fd744f9af6cd167d5fd",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344399506"
+ },
+ "text": "Arabia Felix (lit. ' Fertile/Happy Arabia '; also Ancient Greek: Εὐδαίμων Ἀραβία, romanized: Eudaímōn Arabía) was the Latin name previously used by geographers to describe South Arabia, or what is now Yemen.\n\nThe Latin term Arabia Felix was the Roman translation of the earlier Hellenistic Greek: Εὐδαίμων Ἀραβία, romanized: Eudaímōn Arabía, attributed to Eratosthenes of Cyrene. Felix has the meanings of both \"fecund, fertile\" and \"happy, fortunate, blessed\", this area being the best irrigated of the Arabian peninsula. Arabia Felix, referring to Yemen, was one of the three regions into which the Romans divided the peninsula: Arabia Deserta, Arabia Felix, and Arabia Petraea.\n\nThe southwestern corner of the peninsula experienced more rainfall in ancient times and was thus much greener than the rest of the peninsula, enjoying more productive fields. The high peaks and slopes are capable of supporting significant vegetation and river beds called wadis help make other soil fertile.\n\nPart of what led to Arabia Felix's wealth and importance to the ancient world was its near monopoly of the trade in cinnamon and spices, both its native products and imports from India and the Horn of Africa. Strabo says that Arabia Felix was composed of five kingdoms, one each of warriors, farmers, \"those who engage in the mechanical arts; another, the myrrh -bearing country, and another the frankincense -bearing country, although the same countries produce cassia, cinnamon, and nard.\"\n\nIn the 1st century BC, the Arabian city of Eudaemon (usually identified with the port of Aden, and meaning \"good spirit\" in the sense of angelic beings), in Arabia Felix, was a transshipping port in the Red Sea trade. It was described in the Periplus of the Erythraean Sea (probably 1st century AD) as if it had fallen on hard times. Of the auspiciously named port we read in the periplus that\n\nEudaemon Arabia was once a full-fledged city, when vessels from India did not go to Egypt and those of Egypt did not dare sail to places further on, but came only this far.\n\nIn 26 BC, Aelius Gallus under Augustus ' order led a military expedition to Arabia, but after some beginning successes he was obliged by the unhealthy climate and epidemic to desist in the conquest of the area.\n\nNew developments in trade during the 1st century AD led to traders avoiding the middlemen of Eudaemon and making the dangerous direct crossing of the Arabian Sea to the coast of India.\n\nArabia Felix is the title of the 1962 book by Danish novelist Thorkild Hansen, detailing a disastrous scientific expedition to the area led by Carsten Niebuhr lasting from 1761 to 1767. The historian Lawrence J. Baack in his book, Undying Curiosity: Carsten Niebuhr and the Royal Danish Expedition to Arabia, however, says of Hansen's book \"While lively and interesting as a novel, Hansen's work is not reliable as a historical study\"."
+}

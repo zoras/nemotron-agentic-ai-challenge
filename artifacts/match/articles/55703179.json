@@ -1,0 +1,26 @@
+{
+ "page_id": "55703179",
+ "revision_id": "1256538364",
+ "title": "Nautical cable",
+ "url": "https://en.wikipedia.org/wiki/Nautical_cable",
+ "text_sha256": "1444630fa942c131a1b2020207abbc51f49c245de95404a28e54d7076f852285",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+  "source_row_idx": 216137,
+  "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+  "text_sha256": "1444630fa942c131a1b2020207abbc51f49c245de95404a28e54d7076f852285",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1256538364"
+ },
+ "text": "A nautical cable is a band of tightly woven and clamped ropes, of a defined cable length, used during the age of sail for deep water anchoring, heavy lifting, ship to ship transfers and towing during blue sea sailing and other uses.\n\nOrdinary rope is not waterproof. When a ship anchors in relatively deep water (greater than about 35 metres or 20 fathoms), the anchor and rope that is let down becomes drenched with water, becoming prohibitively difficult to raise again, even with a mechanism like a capstan. This ultimately limits the depths available with ordinary rope to within the weight bearing capacity of the rope. The rope will become so heavy with water it will break.\n\nThe traditional instructions, according to the British Royal Navy in the age of sail, are: Three large strands of tightly woven rope of about 200 metres (110 fathoms) in length are themselves tightly woven in a direction counter to the weave, or twist, of the rope and clamped together over intervals to provide one strong length of rope that is effectively waterproof. The three ropes are so tightly wound counter to the weave of the constituent ropes that the fibers are compressed and the individual weaves stressed, sealing out the water and resulting in a length of about 180 metres (100 fathoms), the UK traditional definition of cable length. Using a cable, the raising of the anchor, or any activity involving submerging the cable, is not more strenuous than lowering.\n\nHawsers are not cables. Hawsers are ropes of arbitrary length woven together to increase the strength of the overall line, but are not considered waterproof as the weave of the hawser goes with the weave of the constituent ropes. This has come to be known as \"hawser laid\" and \"cable laid\". Confusion between cables and hawsers is rampant because both cables and hawsers can be used through the hawsehole."
+}

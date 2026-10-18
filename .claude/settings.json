@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "nebius": {
+      "source": {
+        "source": "github",
+        "repo": "nebius/skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "nebius-cloud@nebius": true
+  }
+}

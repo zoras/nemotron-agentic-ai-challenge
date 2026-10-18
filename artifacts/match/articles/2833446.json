@@ -1,0 +1,26 @@
+{
+ "page_id": "2833446",
+ "revision_id": "1300331254",
+ "title": "Bützow",
+ "url": "https://en.wikipedia.org/wiki/B%C3%BCtzow",
+ "text_sha256": "6a3dfdae0f27947a9c8459f056d27c660b2ba1d9712474fc011934e762b26acc",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+  "source_row_idx": 39886,
+  "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+  "text_sha256": "6a3dfdae0f27947a9c8459f056d27c660b2ba1d9712474fc011934e762b26acc",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1300331254"
+ },
+ "text": "Bützow (German pronunciation:) is a town in the district of Rostock in Mecklenburg-Vorpommern in north-eastern Germany, centered on Bützower See.\n\nThe town was first mentioned in 1171. From 1815 to 1918 Bützow was part of the Grand Duchy of Mecklenburg-Schwerin, from 1871 within the German Empire.\n\nFrom 1933 to 1945, during Nazi rule and World War II, a Nazi prison was operated in the Dreibergen district with multiple forced labour subcamps located in various places in the region. After the war, the town was part of East Germany until 1990.\n\nOn 5 May 2015, the town was struck by an F3 tornado which caused severe damage to many buildings, including the local hospital. This tornado grew to 1.5 km wide (1500m)\n\nMedieval Bützow Castle is located in Bützow. The town also has a medieval Brick Gothic church, which contains an altarpiece made by the Master of the Bützow Altarpiece (1503). Bützow also has one of the last German monuments dedicated to Lenin, a memorial stone located at Leninring.\n\nSophie Charlotte of Hesse-Kassel (1678-1749), Duchess of Mecklenburg, lived in Bützow and founded the German Reformed Church\n\nWenceslaus Johann Gustav Karsten (1732-1787), mathematician, grew up locally with his grandfather; twice rector of the University of Bützow"
+}

@@ -1,0 +1,26 @@
+{
+ "page_id": "3066253",
+ "revision_id": "1259932110",
+ "title": "Étienne de Poncher",
+ "url": "https://en.wikipedia.org/wiki/%C3%89tienne_de_Poncher",
+ "text_sha256": "dd79c884e5ae4a7a15c764b9f6d33b33da938260ef421cb30bf57e1295515345",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+  "source_row_idx": 105122,
+  "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+  "text_sha256": "dd79c884e5ae4a7a15c764b9f6d33b33da938260ef421cb30bf57e1295515345",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1259932110"
+ },
+ "text": "Étienne de Poncher (1446–1524) was a French prelate and diplomat. After studying law he was early provided with a prebend, and became councillor at the parlement of Paris in 1485 and president of the Chambre des Enquêtes in 1498.\n\nElected bishop of Paris in 1503 at the instance of Louis XII, he was entrusted by the king with diplomatic missions in Germany and Italy. After being appointed chancellor of the Duchy of Milan, he became Keeper of the seals of France in 1512, and retained that post, until the accession of Francis I, who employed him on various diplomatic missions.\n\nPoncher became archbishop of Sens in 1519. His Constitutions synodales was published in 1514."
+}

@@ -1,0 +1,26 @@
+{
+ "page_id": "5858997",
+ "revision_id": "1340329040",
+ "title": "Huéscar",
+ "url": "https://en.wikipedia.org/wiki/Hu%C3%A9scar",
+ "text_sha256": "0f742398e339fd061f810804720f7c17b07d966b96bb0685ed985fa9943d25b3",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+  "source_row_idx": 77804,
+  "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+  "text_sha256": "0f742398e339fd061f810804720f7c17b07d966b96bb0685ed985fa9943d25b3",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340329040"
+ },
+ "text": "Huéscar (Latin: Osca) is a municipality of the province of Granada, Spain.\n\nWhen the Iberian Peninsula was conquered by Rome, Osca was a town of the Turdetani, and incorporated into the Roman province of Hispania Baetica. However, purportedly ancient coins from this town are not genuine.\n\nWhen Spain allied with the United Kingdom against Napoleon during the Peninsular War, Spanish troops in French -aligned Denmark–Norway suddenly found themselves in enemy territory. While many were evacuated by the UK or escaped by other means, some 5,000 Spanish soldiers of the Division of the North were imprisoned in Denmark. Spain cut off relations with Denmark in response. Upon receiving this news, the City Council of Huéscar decided to declare war on Denmark. Huéscar, being a small village with only eight municipal guards at the time, did not send any troops to fight against Denmark, and neither did Denmark engage in hostilities against Huéscar. By the time of Napoleon's defeat, the declaration of war had been forgotten, and Huéscar forgot to declare peace.\n\nIn 1981, a local historian rediscovered the declaration of war. This led to a ceremony and celebration on 11 November 1981, wherein the city mayor and the Ambassador of Denmark ratified a peace treaty. Some representatives of Denmark attended wearing Viking costumes, while Spaniards erected signs in Danish jokingly warning against entering enemy territory. During the intervening 172 years, no conflict or injury occurred between the two parties.\n\nThe main landmark is the collegiate church of Santa María la Mayor (St Mary the Great), designed by Diego de Siloé in the 16th century.\n\nHuéscar is within the Granada Geopark, which was designated in 2020. The Geopark has promoted Huéscar in the context of geotourism as the start and finish of a 143 km trekking route, the \"First Settlers Great Path\". The name reflects the legacy of Early humans in the area, as evidenced by a number of geosites of paleontological interest.\n\nHuéscar is twinned with:\n\nKolding, Denmark, since 1982\n\nDuke of Huéscar"
+}

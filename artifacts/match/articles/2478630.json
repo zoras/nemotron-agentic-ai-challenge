@@ -1,0 +1,26 @@
+{
+ "page_id": "2478630",
+ "revision_id": "1277847082",
+ "title": "Silex",
+ "url": "https://en.wikipedia.org/wiki/Silex",
+ "text_sha256": "e3d40eb632e9b2c2b5234652e66c05a718403fb34d2fbb095f1c7f926713e08d",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+  "source_row_idx": 39146,
+  "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+  "text_sha256": "e3d40eb632e9b2c2b5234652e66c05a718403fb34d2fbb095f1c7f926713e08d",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1277847082"
+ },
+ "text": "Silex is any of various forms of ground stone. In modern contexts the word refers to a finely ground, nearly pure form of silica or silicate.\n\nIn the late 16th century, it meant powdered or ground up \" flints \" (i.e. stones, generally meaning the class of \"hard rocks\").\n\nIt was later used in 1787 when describing experiments in a published paper by Antoine Lavoisier where such earths are mentioned as the source of his isolation of the element silicon. Silex is now most commonly used to describe finely ground silicates used as pigments in paint.\n\nThe word silex was previously used to refer to flint and chert and sometimes other hard rocks.\n\nIn Latin silex originally referred to any hard rock, although now it often refers specifically to flint.\n\nIn many Romance languages, silex or a similar word is used to refer to flint. Although the modern English word silex has the same etymology, its current meaning has changed. These are false friends.\n\nFK Sileks is a football club based in Kratovo, North Macedonia whose name literally means 'flint'."
+}

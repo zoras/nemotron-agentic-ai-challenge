@@ -1,0 +1,26 @@
+{
+ "page_id": "10122721",
+ "revision_id": "1197524398",
+ "title": "Erasure",
+ "url": "https://en.wikipedia.org/wiki/Erasure",
+ "text_sha256": "49c23080925d4144d52b7530a9e44dba7e58c3c6137eabd703439fab17317e49",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+  "source_row_idx": 90634,
+  "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+  "text_sha256": "49c23080925d4144d52b7530a9e44dba7e58c3c6137eabd703439fab17317e49",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1197524398"
+ },
+ "text": "Erasure may refer to:\n\nErasure (duo), an English pop group\n\nErasure (album), 1995, by the British group Erasure\n\nErasure poetry, a form of found poetry created by erasing words from an existing text\n\nErasure (novel), 2001, by Percival Everett\n\nData erasure, a method of software-based overwriting that completely destroys all electronic data\n\nErasure channel, a communication channel model wherein errors are described as erasures\n\nErasure code, a forward error correction (FEC) code for the binary erasure channel\n\nType erasure, a process by which explicit type annotations are removed from a program\n\nZeroisation, a process of erasing sensitive data stored electronically by overwriting it\n\nErasure (heraldry), the removal of portions of charges in heraldry\n\nSocial amnesia or social invisibility, the separation or systematic ignoring of a history or a group of people\n\nDamnatio memoriae, Latin phrase meaning 'condemnation of memory'\n\nLGBT erasure or queer erasure, the removal of evidence of LGBT groups or people and queerness\n\nSous rature, or 'under erasure', a deconstructionist philosophical device developed by Heidegger and used by Derrida"
+}

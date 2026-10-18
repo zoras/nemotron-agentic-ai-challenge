@@ -1,0 +1,26 @@
+{
+ "page_id": "445609",
+ "revision_id": "1300659561",
+ "title": "1780 in science",
+ "url": "https://en.wikipedia.org/wiki/1780_in_science",
+ "text_sha256": "9b5c0847f0cf3f9f0064037f49818b52d52a07aaa16c13e8dd440cc922b5acdc",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+  "source_row_idx": 148359,
+  "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+  "text_sha256": "9b5c0847f0cf3f9f0064037f49818b52d52a07aaa16c13e8dd440cc922b5acdc",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1300659561"
+ },
+ "text": "The year 1780 in science and technology involved some significant events.\n\nClément Joseph Tissot publishes Gymnastique médicinale et chirurgicale, ou, essai sur l'utilité du mouvement, ou des différens exercices du corps, et du repos dans la cure des malades in Paris, the first text on the therapeutic benefits of physical exercise.\n\nLazzaro Spallanzani publishes Dissertationi di fisica animale e vegetale, first interpreting the process of animal digestion as a chemical process in the stomach, by action of gastric juice. He also carries out important researches on animal fertilization.\n\nLactose is identified as a sugar by Carl Wilhelm Scheele.\n\nJean-Paul Marat publishes Recherches physiques sur le feu (Research into the Physics of Fire) and Découvertes de M. Marat sur la lumière (Mr Marat's Discoveries on Light).\n\nDr John Aikin publishes his Biographical Memoirs of Medicine in Great Britain, the first English language historical dictionary of physicians.\n\nAimé Argand invents the Argand lamp.\n\nThomas Earnshaw devises the spring detent escapement for marine chronometers.\n\nCopley Medal: Samuel Vince\n\nJanuary 13 – Pierre Jean Robiquet, French chemist (died 1840).\n\nMarch 10 – William Charles Ellis, English psychiatric physician (died 1839).\n\nApril 13 – Alexander Mitchell, Irish engineer and inventor of the screw-pile lighthouse (died 1868).\n\nSeptember 5 - Clarke Abel, British surgeon and naturalist (died 1826).\n\nDecember 26 – Mary Somerville, British scientific writer (died 1872).\n\nElizabeth Philpot, English paleontologist (died 1857).\n\nJanuary 22 – André Levret, French obstetrician (born 1703).\n\nFebruary 20 – Johannes Burman, Dutch botanist (born 1707).\n\nOctober 17 – William Cookworthy, English chemist (born 1705)."
+}

@@ -1,0 +1,26 @@
+{
+ "page_id": "2274296",
+ "revision_id": "1347281946",
+ "title": "Bryan Edwards (politician)",
+ "url": "https://en.wikipedia.org/wiki/Bryan_Edwards_(politician)",
+ "text_sha256": "1a71bf4460b0df10e844c6dc76dce7854e5874beae0d7943623fc05f199580b1",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "671a25a5ed3ede93aaec7e53e253c931881f92995473243429e0ef0acdf34f25",
+  "source_row_idx": 25765,
+  "source_shard": "enwiki/data/enwiki_namespace_0_46.parquet",
+  "text_sha256": "1a71bf4460b0df10e844c6dc76dce7854e5874beae0d7943623fc05f199580b1",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347281946"
+ },
+ "text": "Bryan Edwards, FRS (21 May 1743 – 15/16 July 1800) was a British politician and historian from Westbury, Wiltshire. Edwards supported the Atlantic slave trade, and was described by abolitionist William Wilberforce as a powerful opponent.\n\nHe was the eldest son of Bryan Edwards (died 1756) and his wife, Elizabeth Bayly, sister of Zachary Bayly, a slave-owner in Jamaica. After his father's death he was supported for a time by Nathaniel Bayly, another uncle, but they fell out. His maintenance and education were then undertaken by Zachary Bayly. About 1759, Edwards joined Zachary in Jamaica, and Bayly engaged a private tutor to complete the boy's education.\n\nWhen Bayly died Edwards inherited his wealth, including six Jamaican plantations. In 1773 he also succeeded to the estate of another Jamaica resident, named Hume.\n\nEdwards married Martha Phipps, daughter of Thomas Phipps of Leighton House, Westbury; they had one surviving son and a daughter. He left the bulk of his estates to the son, Zacchary Hume Edwards, when he died in Southampton in 1800.\n\nEdwards became a leading member of the colonial assembly of Jamaica, but in a few years returned to England.\n\nIn 1782 Edwards tried and failed to secure a seat in Parliament as member for Chichester. He was in Jamaica again from 1787 to 1792. He then settled in England as a West India merchant, making another failed attempt to enter Parliament in 1795, this time standing in Southampton.\n\nOn 28 May 1796, he became Member of Parliament for Grampound, a notoriously corrupt Cornish borough, along with Robert Sewell, another pro-slavery politician with interests in Jamaica. Edwards retained this seat until his death.\n\nIn 1784 Edwards wrote Thoughts on the late Proceedings of Government respecting the Trade of the West India Islands with the United States of America, in which he attacked the restrictions placed by the government upon trade with the United States. In 1793 he published in two volumes the History, Civil and Commercial, of the British Colonies in the West Indies, and in 1797 published his Historical Survey of the French Colony in the Island of St Domingo. The latter two titles were later republished, with some additional material, as the History of the British Colonies in the West Indies, in three volumes. This has been translated into German and, in part, into French and Spanish. A fifth edition was issued in 1819.\n\nWhen Mungo Park returned in 1796 from his celebrated journey in Africa, Edwards drew up from Park's narrative an account of his travels. Edwards was secretary of the Association for Promoting the Discovery of the Interior Parts of Africa, which published this piece in their Proceedings. When Park wrote his own account of his journeys he availed himself of Edwards' assistance.\n\nEdwards also wrote poems and some other works relating to the history of the West Indies.\n\nEdwards was elected a member of the American Philosophical Society in 1774 and a Fellow of the Royal Society in 1794."
+}

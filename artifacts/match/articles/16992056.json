@@ -1,0 +1,26 @@
+{
+ "page_id": "16992056",
+ "revision_id": "1338987442",
+ "title": "Amice",
+ "url": "https://en.wikipedia.org/wiki/Amice",
+ "text_sha256": "2eb7e780aa725412de1141ba9180195e9ac14028d59f4715ad5664682617501d",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+  "source_row_idx": 43306,
+  "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+  "text_sha256": "2eb7e780aa725412de1141ba9180195e9ac14028d59f4715ad5664682617501d",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338987442"
+ },
+ "text": "The amice is a liturgical vestment used mainly in the Roman Catholic church, Western Orthodox church, Lutheran church, and some Anglican, Armenian, and Polish National Catholic churches.\n\nThe amice consists of a white cloth connected to two long ribbon-like attachments by which it is fastened. The garment is draped over the shoulders with the ribbons crossed over the chest, brought around to the back, and then brought forward again to be tied in front around the waist. The results can vary from being tight around the neck to leaving a deep v-neck opening.Before the liturgical reforms of 1972, its use was mandatory for all Roman Catholic Masses, but it is only required today if the alb does not cover the priest's ordinary clothing. Many priests choose to wear the amice for reasons of tradition or to prevent damage to their other vestments due to perspiration.\n\nCertain mendicant orders, such as the Dominicans and Franciscans, and some other orders with hooded habits, often donned the amice over the raised hood. The priest, or minister, then fastened the ribbons – crossed at the chest – behind his chest. The alb was donned over the hood and amice, and fastened. The hood/amice could then be retracted neatly around the collar.\n\nIn several Mediaeval uses, such as the Sarum Rite, the amice bore a broad stiff band of brocade or other decoration, giving the impression of a high collar. These were called apparelled amices. This practice was abandoned at Rome at about the end of the 15th century, but continued in other parts of Europe until much later. By 1907, however, the practice was no longer tolerated in Roman Catholic liturgy, but still exists within many Anglican communities and in the Lutheran Church of Sweden.\n\nThis collar-like amice spread to the Armenian Church where is retained as a normal part of the priestly vestments among the Armenian Orthodox.\n\nAmong Byzantine Catholics of the Ruthenian tradition, the amice (naplečnik) was long used under Latin influence, allegedly even before the Unia was formally signed, but it fell out of practice after the Second Vatican Council, when Latinized vesting customs were abandoned.\n\nWhile donning the amice, the priest first drapes the amice over his head (as with a hood), then lowers it to his neck, tying it around his torso. During this action he prays a short prayer:\n\n\"Impone, Domine, capiti meo galeam salutis, ad expugnandos diabolicos incursus\" (Place upon me, O Lord, the helmet of salvation, that I may overcome the assaults of the devil)."
+}

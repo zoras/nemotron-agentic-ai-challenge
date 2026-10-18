@@ -1,0 +1,133 @@
+"""Write evaluation/match_labels.json from judgements made by reading each entry's OCR text and the article title and lead."""
+import json
+m = json.load(open("artifacts/match/matches.json"))
+results = {r["target_id"]: r for r in m["results"]}
+full = {}
+for tid in results:
+    eid = tid.split("#")[0]
+    full[eid.replace("page-", "")[:4] + ":" + eid.split(":")[1]] = eid
+Y, P, N = "yes", "partial", "no"
+# (entry, target, article title, label, note). yes: the article's subject is the entry's subject.
+# partial: the article covers the text on this page or a narrower or broader subject. no: a different subject.
+J = [
+ ("1214:e1", "Firedamp", P, "the page describes firedamp; the entry DAMPS covers several mine gases"),
+ ("1680:e1", "Carpentry", Y, ""), ("1803:e1", "Engraving", Y, ""), ("0403:e1", "Philology", Y, ""),
+ ("1166:e1", "Freedom of the press", Y, ""), ("1580:e1", "Trigonometry", Y, ""), ("2277:e1", "Anatomy", Y, ""),
+ ("2402:e1", "Anatomy", Y, ""), ("1942:e1", "Pharmacy", Y, ""), ("1649:e1", "Chivalry", Y, ""), ("0713:e1", "Sheep", Y, ""),
+ ("1017:e1", "Hell", Y, ""), ("0261:e1", "Entomology", Y, ""), ("0513:e1", "England", Y, ""), ("2464:e1", "Kabbalah", Y, ""),
+ ("0473:e1", "Conchology", Y, ""), ("0217:e1", "Farm", Y, ""), ("0247:e1", "Mount Etna", Y, ""),
+ ("0257:e1", "Jonathan Swift", Y, ""), ("0851:e1", "Optics", Y, ""), ("1324:e1", "Hedge", Y, ""), ("1284:e1", "Scotland", Y, ""),
+ ("2524:e1", "Hindustan", Y, ""), ("1765:e1", "Kalmyks", Y, ""), ("2307:e1", "Algiers", Y, ""),
+ ("1933:e1", "Oratory", N, "the article is a disambiguation page"), ("0013:e1", "Shipbuilding", Y, ""),
+ ("2051:e1", "Lombards", Y, ""), ("2448:e1", "Genius", Y, ""), ("1939:e1", "Pharmacy", Y, ""),
+ ("1102:e1", "Philippe de Commines", Y, ""), ("1214:e7", "Danaë", Y, ""), ("1945:e1", "Optical instrument", Y, ""),
+ ("1805:e13", "Exemplar", N, "the article is a disambiguation page"), ("1910:e1", "Lightning", Y, ""),
+ ("1268:e1", "Royal Navy", Y, ""), ("0268:e1", "Laurus", Y, ""), ("0681:e1", "Optics", Y, ""), ("1670:e1", "Cappadocia", Y, ""),
+ ("0756:e1", "Magnetism", Y, ""), ("1828:e1", "Beauty", Y, ""), ("2446:e1", "Chemistry", Y, ""),
+ ("1614:e1", "Richmond, North Yorkshire", Y, ""), ("0713:e2", "Olney, Buckinghamshire", Y, ""),
+ ("1818:e1", "Blowpipe (tool)", Y, ""), ("2093:e1", "Sense", Y, ""), ("2570:e1", "Abyssinia", Y, ""), ("2473:e8", "Hermit", Y, ""),
+ ("1614:e8", "Thoracic duct", Y, ""), ("0604:e5", "Thrapston", Y, ""), ("1298:e1", "Bryan Edwards (politician)", Y, ""),
+ ("2493:e1", "Magnesium sulfite", P, "the page describes sulphite of magnesia; the entry is CHEMISTRY"),
+ ("2473:e1", "Onager", Y, ""), ("2250:e14", "Bezant", Y, ""), ("0115:e1", "Bleach", Y, ""),
+ ("0266:e1", "Prohibited degree of kinship", P, "the page describes forbidden degrees; the entry is MARRIAGE"),
+ ("2473:e11", "Ergot (horse anatomy)", Y, ""), ("2250:e1", "Thomas Button", P, "the entry is a bay named after Button"),
+ ("2001:e6", "Silius Italicus", Y, ""), ("0604:e2", "Jacques Auguste de Thou", Y, ""), ("2001:e1", "Silesia", Y, ""),
+ ("2473:e13", "Eridanus (constellation)", Y, ""), ("1466:e1", "Metallurgical assay", Y, ""), ("0383:e1", "Political economy", Y, ""),
+ ("2108:e1", "Great Britain", Y, ""), ("2155:e1", "Visual impairment", Y, ""),
+ ("1904:e1", "Chelys", P, "the page tells the origin of the lyre; the entry is LYRE"), ("1904:e1", "Lyre", Y, ""),
+ ("1473:e5", "Shallot", Y, ""), ("1805:e5", "Executor", Y, ""), ("0713:e4", "Ounce", Y, ""), ("2569:e1", "Abyssinia", Y, ""),
+ ("1473:e8", "Escheat", Y, ""), ("1805:e1", "Capital punishment", Y, ""), ("0713:e6", "Oundle", Y, ""), ("1327:e10", "Huguenots", Y, ""),
+ ("0318:e1", "Nile", Y, ""), ("1415:e1", "Ethiopia", Y, ""), ("0220:e1", "Maritime fur trade", Y, ""), ("1473:e2", "Escalade", Y, ""),
+ ("2250:e2", "Buttress", Y, ""), ("1327:e6", "John Hughes (poet)", Y, ""), ("1430:e1", "Egypt", Y, ""), ("0713:e7", "Ovolo", Y, ""),
+ ("2001:e4", "Silex", P, "the entry refers to FLINT"), ("2001:e4", "Flint", Y, ""), ("0563:e2", "Acroterion", Y, ""), ("2250:e4", "Buxton", Y, ""),
+ ("0713:e3", "Oulx", Y, ""), ("1670:e3", "Capparis", Y, ""), ("0604:e4", "Thrace", Y, ""), ("2473:e15", "Erigeron", Y, ""),
+ ("2131:e1", "Bombay Presidency", P, "the entry is the island and town of Bombay"), ("2131:e1", "Mumbai", Y, ""),
+ ("2464:e6", "Cabin (ship)", Y, ""), ("1327:e9", "Hugonia", Y, ""), ("0560:e12", "Amida (Mesopotamia)", Y, ""),
+ ("2464:e7", "Cabinet (room)", Y, ""), ("0258:e3", "Williamsburg, Virginia", Y, ""), ("0713:e8", "River Ouse, Yorkshire", Y, ""),
+ ("2473:e14", "Lake Erie", Y, ""), ("2171:e1", "Ataraxia", Y, ""),
+ ("1102:e2", "Comines, Nord", N, "the entry is the Belgian town in West Flanders"), ("1102:e2", "Comines-Warneton", Y, ""),
+ ("1722:e1", "Arsenic", Y, ""), ("2473:e3", "Eranthemum", Y, ""), ("1327:e5", "Pierre Daniel Huet", Y, ""),
+ ("0104:e1", "Weights and Measures Act", N, "the entry describes units, not an act"), ("0104:e1", "Unit of measurement", Y, ""),
+ ("1327:e8", "Hugh Capet", Y, ""), ("1473:e6", "Eschar", Y, ""), ("1214:e6", "Danake", Y, ""), ("1670:e4", "Capra (genus)", Y, ""),
+ ("1268:e3", "Naxos", N, "the entry is the town, not the island"), ("1268:e3", "Naxos (city)", Y, ""),
+ ("0258:e4", "Willemstad, North Brabant", Y, ""), ("2473:e10", "Erfurt", Y, ""), ("2250:e7", "Buzzard", Y, ""), ("1327:e2", "Huesca", Y, ""),
+ ("0560:e6", "Amicable numbers", P, "the entry gives the general sense and then amicable numbers"),
+ ("1805:e6", "Executor", P, "the entry is the Scots-law sense"), ("1473:e3", "Escallonia", Y, ""), ("2473:e16", "Erinaceus", Y, ""),
+ ("1327:e3", "Huéscar", Y, ""), ("0560:e4", "Nicholas Amhurst", Y, ""), ("1614:e3", "Thistle", Y, ""), ("2464:e9", "Cabeiri", Y, ""),
+ ("0914:e1", "Arabian Peninsula", Y, ""), ("1268:e6", "Nazareth", Y, ""), ("2473:e12", "Erica (plant)", Y, ""),
+ ("1102:e4", "Roman assemblies", Y, ""), ("2473:e7", "Ischiocavernosus muscle", Y, "the erector penis is the ischiocavernosus"),
+ ("0523:e15", "Pile driver", P, "the entry lists several engines"),
+ ("1805:e16", "Exemption (Catholic canon law)", N, "the entry is the common-law privilege"),
+ ("0523:e5", "Endymion (mythology)", Y, ""), ("0258:e5", "Thomas Willis", Y, ""), ("1614:e5", "Saint Thomas Christians", Y, ""),
+ ("0493:e1", "Jufureh", Y, ""), ("1327:e7", "Hugli-Chuchura", Y, ""), ("0251:e1", "Switzerland", Y, ""),
+ ("1344:e3", "Footrope", Y, ""), ("0604:e3", "Torhout", Y, ""), ("2473:e6", "Ischiocavernosus muscle", Y, ""),
+ ("2473:e4", "Erasure", N, "the entry is a heraldic term"), ("1805:e17", "Exercise", Y, ""),
+ ("2424:e1", "Livestock", P, "the page is the live-stock part of AGRICULTURE"), ("2424:e1", "Agriculture", Y, ""),
+ ("1614:e9", "Thorax", Y, ""), ("1473:e4", "Prison (Escape) Act 1706", N, "the entry is the general offence"),
+ ("1473:e4", "Prison escape", P, ""), ("1017:e2", "Hellebore", Y, ""), ("1214:e4", "Dan (ancient city)", Y, ""),
+ ("2171:e2", "Atarneus", Y, ""), ("1268:e2", "Naxos", Y, ""), ("1805:e9", "Exedra", Y, ""),
+ ("2087:e1", "Britain", N, "the article is a disambiguation page"), ("1214:e2", "Damsel, Missouri", N, ""),
+ ("0523:e7", "Energumen (magazine)", N, ""), ("2250:e5", "Buxus", Y, ""), ("0258:e1", "Edward III", Y, ""),
+ ("2464:e2", "Kabbalah", P, "the entry is the Kabbalists"), ("1805:e15", "Exemplified copy", Y, ""), ("1344:e2", "Sawbuck", Y, ""),
+ ("2473:e5", "Erection", N, "the entry is the general sense of raising"), ("1473:e1", "Esarhaddon", Y, ""),
+ ("0493:e2", "Jufureh", N, "the entry JIN refers to GENII"), ("0560:e8", "Amice", Y, ""), ("1327:e4", "Ven (Sweden)", Y, ""),
+ ("0560:e7", "Tunic", N, "the entry is the upper garment worn over the tunic"), ("0523:e17", "Endless (Inna song)", N, ""),
+ ("2473:e9", "Eremita", N, "the article is an album"), ("2473:e9", "Osmoderma eremita", Y, ""),
+ ("2171:e13", "Ataraxia", N, ""), ("1805:e10", "Exegesis", Y, ""), ("1805:e2", "Diligence (Scots law)", Y, ""),
+ ("1017:e4", "Koine Greek", Y, ""), ("2171:e6", "Ataraxia", N, ""), ("2001:e5", "Silicon dioxide", Y, ""), ("1614:e2", "Thirst", Y, ""),
+ ("1017:e15", "Helston", Y, ""), ("2479:e1", "Law", P, "the page is Scots law of obligations"), ("1614:e7", "Thomism", P, "the entry is the Thomists"),
+ ("2171:e10", "Atarneus", N, "the entry is Aternum"), ("2171:e10", "Aternum", Y, ""),
+ ("0523:e4", "Financial endowment", N, "the entry is a dower"), ("1032:e2", "Heat", Y, ""), ("2250:e3", "Bützow", Y, ""),
+ ("1614:e6", "Thomism", Y, ""), ("2250:e15", "Byzantium", Y, ""), ("2171:e14", "Ataraxia", N, ""), ("1670:e2", "Shipworm", Y, ""),
+ ("2464:e8", "Cabinetry", Y, ""), ("1614:e4", "Thlaspi", Y, ""), ("1344:e5", "Lottery", P, "the entry is a cant term in lotteries"),
+ ("1102:e3", "County", Y, ""), ("0713:e5", "Snow leopard", Y, "the ounce is the snow leopard"), ("0251:e2", "Swivel", Y, ""),
+ ("0944:e1", "Ell", P, "the page lists measures of length"), ("0944:e1", "Unit of measurement", Y, ""),
+ ("2171:e12", "Athamanta", N, "the entry is a Persian minister"), ("2464:e4", "Cabinda Province", P, "the entry is the port town"),
+ ("2464:e4", "Cabinda (city)", Y, ""), ("1250:e2", "Coin", Y, ""), ("0523:e6", "Enemy alien", Y, ""), ("2464:e10", "Cabeiri", P, "the entry is their festivals"),
+ ("0560:e3", "Amhara Province", Y, ""), ("0251:e8", "Switzerland", N, "the entry is Thomas Sydenham"), ("1268:e5", "Nair", Y, ""),
+ ("0499:e1", "India", Y, ""), ("2464:e5", "Cabidos", N, "the article is a French commune; the entry is a measure"),
+ ("1017:e7", "Helmet", Y, ""), ("2001:e2", "Silesian", N, ""), ("1214:e3", "Jordan River", Y, ""),
+ ("1017:e6", "Ship's wheel", P, "the entry is the helm or tiller"), ("0560:e11", "Amitābha", Y, ""),
+ ("1805:e4", "Executive (government)", Y, ""), ("1017:e5", "Dardanelles", Y, ""), ("1017:e16", "Hellevoetsluis", Y, ""),
+ ("0493:e3", "Jufureh", N, "the entry is Icknield Street"), ("0611:e1", "Drag (physics)", Y, ""),
+ ("1473:e7", "Bryozoa", P, "the entry is one bryozoan genus"), ("1805:e14", "Exemplar", N, "the article is a disambiguation page"),
+ ("0523:e14", "Fire engine", N, "the entry is a machine in general"), ("1017:e17", "Hemerobius", Y, ""),
+ ("2250:e6", "Brandts Buys", N, "the entry is a town in the Dauphiné"), ("2250:e6", "Buis-les-Baronnies", Y, ""),
+ ("2171:e11", "Ateste", Y, ""), ("1805:e8", "Scots succession law", P, ""), ("2250:e9", "Thomas Button", N, ""), ("2250:e9", "By-law", Y, ""),
+ ("1214:e5", "Tribe of Dan", Y, ""), ("1017:e13", "Hälsingland", Y, ""), ("1805:e3", "Historically informed performance", N, ""),
+ ("1344:e1", "Horse", Y, ""), ("0563:e1", "Gloria Patri", Y, ""), ("2171:e5", "Ataraxia (gamer)", N, ""), ("2250:e16", "Thomas Button", N, ""),
+ ("2171:e7", "Ataraxia", N, ""), ("0523:e16", "Steam engine", N, "the entry is a dividing engine"), ("0713:e9", "Ovis", N, ""),
+ ("2250:e8", "Lithuania–Poland relations", N, ""), ("2171:e8", "Ataraxia", N, ""), ("2250:e12", "Buis-les-Baronnies", N, ""),
+ ("1805:e12", "Arithmetica Universalis", N, ""), ("1805:e12", "Equation solving", P, ""), ("0523:e18", "Charge (heraldry)", N, ""),
+ ("0560:e5", "Patrick Blair (surgeon)", N, ""), ("0523:e12", "Endowment (philosophy)", N, ""), ("2171:e4", "Athamanta", N, ""),
+ ("1805:e11", "Exegesis", N, "the entry is a class of Athenian officials"), ("0523:e10", "Enfilade and defilade", Y, ""),
+ ("2250:e13", "Thomas Button", N, ""), ("2250:e13", "Byssus", Y, ""), ("0523:e2", "Fess", N, ""),
+ ("1805:e7", "Executory contract", N, ""), ("1805:e7", "Future interest", P, ""), ("1017:e10", "Helle (mythology)", N, ""),
+ ("2250:e11", "Buxus", N, ""), ("2250:e11", "Byrrhus", Y, ""), ("1422:e1", "Education", Y, ""), ("2171:e9", "Atella", Y, ""),
+ ("0251:e7", "Sycophancy", P, "the entry is the Athenian informer"), ("2250:e10", "Buttress", N, ""), ("0251:e4", "Switzerland", N, ""),
+ ("0523:e1", "The Computer Contradictionary", N, ""), ("1017:e12", "Hell (surname)", N, ""), ("1017:e11", "Ship's wheel", N, ""),
+ ("1017:e11", "Helots", Y, ""), ("2001:e3", "Roman funerary practices", P, ""), ("2473:e2", "Poor Relief Act", N, ""),
+ ("1614:e10", "Thirst", N, ""), ("0251:e3", "Switzerland", N, ""), ("0251:e3", "Syncope (medicine)", Y, ""), ("2171:e3", "Grand vizier", N, ""),
+ ("2464:e11", "Nagara (ancient city)", N, ""), ("0251:e6", "Switzerland", N, ""), ("0523:e11", "Orkney Herald", N, ""),
+ ("0251:e5", "Switzerland", N, ""), ("0560:e2", "Tyrian purple", P, ""), ("0560:e1", "Amethystine python", N, ""),
+ ("1017:e8", "Vermes", N, ""), ("0523:e13", "Engine", N, ""), ("0560:e9", "Tarquinia gens", N, ""), ("0523:e9", "Endless OS Foundation", N, ""),
+ ("0563:e4", "Benefit of clergy", N, ""), ("2464:e3", "Cabeça de galo", N, ""), ("0523:e3", "Coat of arms of Togo", N, ""),
+ ("1017:e14", "Hell (surname)", N, ""), ("0560:e10", "Pronunciation of English ⟨th⟩", N, ""), ("0563:e3", "Acolouthia", N, ""),
+]
+labels, missing = [], []
+for short, title, value, note in J:
+    tid = full[short] + "#topic"
+    row = next((x for x in results[tid]["ranked"] if x["title"] == title), None)
+    if row is None:
+        missing.append((short, title)); continue
+    labels.append({"target_id": tid, "page_id": row["page_id"], "title": title, "label": value,
+                   "correct": value != "no", "note": note})
+out = {"labeller": "Claude Code (coding agent), reviewed in the session of 2026-10-18; not checked by a team member",
+       "method": "Read the entry OCR text and the article title and lead. yes: same subject. partial: the article covers "
+                 "the text on this page, or a narrower or broader subject. no: a different subject, or a disambiguation "
+                 "page. Doubtful rows are left unlabelled.",
+       "labelled_from": "artifacts/match/matches.json of the run with plan numbering fixed (before the echo check)",
+       "labels": labels}
+json.dump(out, open("evaluation/match_labels.json", "w"), ensure_ascii=False, indent=1)
+print(len(labels), "labels;", sum(l["label"] == "yes" for l in labels), "yes", sum(l["label"] == "partial" for l in labels), "partial",
+      sum(l["label"] == "no" for l in labels), "no; missing", missing)

@@ -1,0 +1,26 @@
+{
+ "page_id": "6800312",
+ "revision_id": "1216734114",
+ "title": "Escallonia",
+ "url": "https://en.wikipedia.org/wiki/Escallonia",
+ "text_sha256": "a2ce7a92db7feda4e1629051240c4e05ad2cc78eac188ab097bd4412e5913955",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+  "source_row_idx": 20368,
+  "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+  "text_sha256": "a2ce7a92db7feda4e1629051240c4e05ad2cc78eac188ab097bd4412e5913955",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1216734114"
+ },
+ "text": "Escallonia is a genus of shrubs and trees in the family Escalloniaceae. They are native to North and South America.\n\nCurrently valid species in Escallonia are:\n\nEscallonia alpina\n\nEscallonia angustifolia\n\nEscallonia bifida\n\nEscallonia callcottiae\n\nEscallonia chlorophylla\n\nEscallonia cordobensis\n\nEscallonia discolor\n\nEscallonia farinacea\n\nEscallonia florida\n\nEscallonia gayana\n\nEscallonia herrerae\n\nEscallonia hispida\n\nEscallonia hypoglauca\n\nEscallonia illinita\n\nEscallonia laevis\n\nEscallonia ledifolia\n\nEscallonia leucantha\n\nEscallonia megapotamica\n\nEscallonia micrantha\n\nEscallonia millegrana\n\nEscallonia myrtilloides\n\nEscallonia myrtoidea\n\nEscallonia obtusissima\n\nEscallonia paniculata\n\nEscallonia pendula\n\nEscallonia petrophila\n\nEscallonia piurensis\n\nEscallonia polifolia\n\nEscallonia pulverulenta\n\nEscallonia resinosa\n\nEscallonia reticulata\n\nEscallonia revoluta\n\nEscallonia rosea\n\nEscallonia rubra\n\nEscallonia salicifolia\n\nEscallonia schreiteri\n\nEscallonia serrata\n\nEscallonia tucumanensis\n\nEscallonia virgata\n\nWidely cultivated and commonly used as hedging plants, especially in coastal areas, Escallonias grow about 30 cm (12 in) per year, reaching 1.5–3 m (5–10 ft) in height, with arching branches of small, oval, glossy green leaves. Flowering from June to October (in the Northern Hemisphere), they have masses of small pink, white or crimson flowers, sometimes with a honey fragrance. They are best grown in full sun with some shelter. Some varieties are not fully hardy in all areas. Numerous cultivars and hybrids have been developed, of which the following have gained the Royal Horticultural Society 's Award of Garden Merit:\n\n'Apple Blossom' (pink)\n\n'Donard Radiance' (rose red)\n\n'Iveyi' (white)\n\n' Langleyensis' (rose pink)\n\n'Peach Blossom' (pink)\n\n'Pride of Donard' (rose red)\n\nEscallonia bifida (white)\n\nEscallonia rubra 'Crimson Spire' (crimson)"
+}

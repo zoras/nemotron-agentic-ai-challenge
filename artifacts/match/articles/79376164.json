@@ -1,0 +1,26 @@
+{
+ "page_id": "79376164",
+ "revision_id": "1332484797",
+ "title": "Mary Stuart Proclaiming Her Innocence",
+ "url": "https://en.wikipedia.org/wiki/Mary_Stuart_Proclaiming_Her_Innocence",
+ "text_sha256": "a21aee0ee69e7f9e52182023c3504a0b6cbd7db462f204fe136271cc77db1f9a",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+  "source_row_idx": 53536,
+  "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+  "text_sha256": "a21aee0ee69e7f9e52182023c3504a0b6cbd7db462f204fe136271cc77db1f9a",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1332484797"
+ },
+ "text": "Mary Stuart Proclaiming Her Innocence (French: Marie Stuart Protestant de son innocence à la lecture de sa condamnation à mort) is an 1832 history painting by the Italian artist Francesco Hayez. It depicts the scene at Fotheringhay Castle in Northamptonshire on 25 October 1586 after Mary Queen of Scots was found guilty of treason against her cousin Elizabeth I of England. After reading her death sentence for her part in the Babington Plot she proclaims her innocence aloud. She was executed at Fotheringay in February 1587.\n\nThe painting was originally commissioned in 1827 by the Count of Arache and exhibited at the Pinacoteca di Brera in Milan in 1832. Today it is in the collection of the Louvre in Paris, having been acquired in 2012. Hayez also produced an 1827 painting of Mary Stuart ascending the steps of the scaffold shortly before her execution."
+}

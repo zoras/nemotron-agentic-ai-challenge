@@ -1,0 +1,26 @@
+{
+ "page_id": "923935",
+ "revision_id": "1349743849",
+ "title": "Queen Charlotte Sound (Canada)",
+ "url": "https://en.wikipedia.org/wiki/Queen_Charlotte_Sound_(Canada)",
+ "text_sha256": "5864d1a1fcc0878c09dbcb42415dce203e54d32236a9564b8358b2117213e7ce",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "8272e921e247e28b2a34e6c63b495f4849e7cedc276598b3db42fde167f6cf8c",
+  "source_row_idx": 480,
+  "source_shard": "enwiki/data/enwiki_namespace_0_51.parquet",
+  "text_sha256": "5864d1a1fcc0878c09dbcb42415dce203e54d32236a9564b8358b2117213e7ce",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349743849"
+ },
+ "text": "Queen Charlotte Sound (French: Bassin de la Reine-Charlotte) is a sound of the Pacific Ocean in British Columbia, Canada, between Vancouver Island in the south and Haida Gwaii in the north. It merges with the Hecate Strait in the north and the Queen Charlotte Strait in the south.\n\nQueen Charlotte Sound is part of the Inside Passage shipping route. It is part of the Haíɫzaqv Nation territory also known as the Heiltsuk Nation.\n\nAccording to the BCGNIS, the northern boundary of Queen Charlotte Sound is defined as a line running from the southernmost point of Price Island to Cape St James on Kunghit Island, the southernmost point of Haida Gwaii. The western boundary is a line from Cape St James to Cape Scott at the north end of Vancouver Island. The southern boundary runs along the coast of Vancouver Island from Cape Scott to Cape Sutil, then to Cape Caution on the mainland. An older definition placed the northern boundary as a line from the southernmost point of Aristazabal Island to Cape St James.\n\nQueen Charlotte Sound was named by James Strange on August 5, 1786, in honour of the British queen Charlotte of Mecklenburg-Strelitz. Strange was the leader of a fur trading expedition of two vessels, Captain Cook, under Captain Henry Lawrie, and Experiment, under Captain John Guise. During a boat excursion up Goletas Channel Strange saw an opening ahead and named it Queen Charlotte Sound. The body of water he named was what is today known as Queen Charlotte Strait. For some time Queen Charlotte Strait was also called Queen Charlotte Sound, until 1920 when the BCGNIS and Hydrographic Service distinguished between Queen Charlotte Sound and Queen Charlotte Strait. George Vancouver, who used the name in his maps and writings, wrote that the sound was named by Mr. S. Wedgeborough, in command of the Experiment under James Strange, but Vancouver was wrong — Strange was the one who gave the name."
+}

@@ -1,0 +1,26 @@
+{
+ "page_id": "36374961",
+ "revision_id": "1306645763",
+ "title": "Prison (Escape) Act 1706",
+ "url": "https://en.wikipedia.org/wiki/Prison_(Escape)_Act_1706",
+ "text_sha256": "6b9e895468c77d110260f102b87a24824990dfadc0de7f8fbdb1e412cca4a645",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+  "source_row_idx": 26674,
+  "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+  "text_sha256": "6b9e895468c77d110260f102b87a24824990dfadc0de7f8fbdb1e412cca4a645",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1306645763"
+ },
+ "text": "The Prison (Escape) Act 1706 (6 Ann. c. 12) was an act of the Parliament of England. It dealt with escapes from the King's Bench Prison and Fleet Prison.\n\nThe act is chapter 9 in common printed editions.\n\nSection 5 of the act was repealed by section 39 of, and schedule 3 to, the Sheriffs Act 1887 (50 & 51 Vict. c. 55).\n\nSection 6 of the act was repealed by section 1 of, and the Schedule to, the Statute Law Revision Act 1887 (50 & 51 Vict. c. 59).\n\nThe whole act, so far as unrepealed, was repealed by section 1 of, and the first schedule to, the Statute Law Revision Act 1948 (11 & 12 Geo. 6. c. 62)."
+}

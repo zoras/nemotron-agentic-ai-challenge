@@ -5,14 +5,7 @@ from typing import Any
 from .config import Settings
 
 STAGES = ("extract", "match", "compare", "agent", "site", "evaluate")
-IMPLEMENTED = {"extract"}
-
-
-def _unfinished(stage: str) -> None:
-    raise NotImplementedError(
-        f"TODO: implement the {stage} milestone. Read docs/milestones.md#{stage}. "
-        "The starter has no result for this stage."
-    )
+IMPLEMENTED = {"extract", "match", "compare", "agent", "site", "evaluate"}
 
 
 def extract(settings: Settings, work_dir: Path, scan_dir: Path = Path("data/raw/britannica")) -> dict[str, Any]:
@@ -34,26 +27,63 @@ def extract(settings: Settings, work_dir: Path, scan_dir: Path = Path("data/raw/
         "entries": entries, "output_dir": str(out_dir)}
 
 
-def match(settings: Settings, work_dir: Path) -> dict[str, Any]:
-    """TODO: define how your team finds and verifies article matches."""
-    _unfinished("match")
+def match(settings: Settings, work_dir: Path, scan_dir: Path = Path("data/raw/britannica")) -> dict[str, Any]:
+    """Match each entry: Super VL proposes titles and queries, title lookup and BM25 give candidates,
+    the embedder and reranker order them, and a rule decides. Replies and vectors are cached."""
+    import httpx
+
+    from .clients import ChatClient, RetrievalClient, WikiClient
+    from .match import VectorCache, run_match
+
+    with WikiClient(settings.wikipedia_api_url) as wiki, \
+            RetrievalClient(settings.retrieval_base_url, settings.retrieval_api_key) as retrieval, \
+            ChatClient(settings.super_base_url, settings.super_api_key, settings.super_model) as chat, \
+            httpx.Client() as http:
+        counts = run_match(Path(work_dir), scan_dir, wiki=wiki, retrieval=retrieval, chat=chat, http=http,
+                           vectors=VectorCache(settings.db_path), cache_dir=Path("data/cache/match"))
+    return {"stage": "match", "counts": counts, "output_dir": str(Path(work_dir) / "match")}
 
 
 def compare(settings: Settings, work_dir: Path) -> dict[str, Any]:
-    """TODO: define your vocabulary, frequency, or topic comparison."""
-    _unfinished("compare")
+    """Compare accepted matches: vocabulary overlap, distinctive words, a joint topic model over Nemotron
+    embeddings, and Super VL fact checks with verified quotes. Replies and vectors are cached."""
+    from .clients import ChatClient, RetrievalClient
+    from .compare import run_compare
+    from .facts import run_facts
+    from .match import VectorCache
+
+    vectors = VectorCache(settings.db_path)
+    with RetrievalClient(settings.retrieval_base_url, settings.retrieval_api_key) as retrieval, \
+            ChatClient(settings.super_base_url, settings.super_api_key, settings.super_model) as chat:
+        counts = run_compare(Path(work_dir), vectors=vectors, retrieval=retrieval)
+        facts = run_facts(Path(work_dir), vectors=vectors, retrieval=retrieval, chat=chat)
+    return {"stage": "compare", "counts": counts, "facts": facts, "output_dir": str(Path(work_dir) / "compare")}
 
 
-def agent(settings: Settings, work_dir: Path) -> dict[str, Any]:
-    """TODO: implement your Hermes tools and evidence checks."""
-    _unfinished("agent")
+def agent(settings: Settings, work_dir: Path, hermes_home: Path = Path("data/hermes")) -> dict[str, Any]:
+    """Build the agent index from saved artifacts, then ask Hermes the fixed question set when it is installed."""
+    from .agent import QUESTIONS, build_index, find_hermes, run_question, sync_plugin
+
+    counts = build_index(Path(work_dir))
+    if find_hermes() is None:
+        return {"stage": "agent", "index": counts, "runs": "skipped: the hermes CLI is not installed (docs/hermes.md)"}
+    sync_plugin(hermes_home)
+    runs = [run_question(question, Path(work_dir) / "agent" / "runs", hermes_home) for question in QUESTIONS]
+    return {"stage": "agent", "index": counts, "runs": [
+        {**{k: run[k] for k in ("question_id", "exit_code", "elapsed_s", "model")},
+         "tool_calls": [call["name"] for call in run["tool_calls"]]} for run in runs]}
 
 
-def site(settings: Settings, work_dir: Path) -> dict[str, Any]:
-    """TODO: build your LaTeX documents and static website."""
-    _unfinished("site")
+def site(settings: Settings, work_dir: Path, site_dir: Path = Path("site"),
+         scan_dir: Path = Path("data/raw/britannica")) -> dict[str, Any]:
+    """Compile one LaTeX source document per scan and build the static website around them."""
+    from .site import run_site
+
+    return {"stage": "site", "build": run_site(Path(work_dir), site_dir, scan_dir), "output_dir": str(site_dir)}
 
 
 def evaluate(settings: Settings, work_dir: Path) -> dict[str, Any]:
-    """TODO: review your results and document successes and failures."""
-    _unfinished("evaluate")
+    """Write the reviewed agent case studies and the reproducibility record."""
+    from .evaluate import run_evaluate
+
+    return {"stage": "evaluate", **run_evaluate(Path(work_dir)), "output_dir": str(Path(work_dir) / "evaluate")}

@@ -1,0 +1,26 @@
+{
+ "page_id": "26424879",
+ "revision_id": "1290725353",
+ "title": "Energumen (magazine)",
+ "url": "https://en.wikipedia.org/wiki/Energumen_(magazine)",
+ "text_sha256": "6897e4a8450074b0adc95cdb69d8f81d90ca4949c1030e10edac79b3dd49a482",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+  "source_row_idx": 191287,
+  "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+  "text_sha256": "6897e4a8450074b0adc95cdb69d8f81d90ca4949c1030e10edac79b3dd49a482",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1290725353"
+ },
+ "text": "Energumen was a science fiction fanzine edited by Mike Glicksohn and Susan Wood Glicksohn from 1970–1973 (fifteen issues), with a special final \"11th Anniversary Issue!!\" in 1981 after Susan's death. The fanzine was based in Ottawa. It won the Hugo Award for Best Fanzine in 1973, after having been a nominee for the Hugo Award for both the prior years.\n\nContributors included (inter alia) Alicia Austin, John Baglow, John Bangsund, George Barr, Bill Bowers, Terry Carr, Phil Foglio, Jack Gaughan, Joe Haldeman, Joan Hanke-Woods, Jay Kinney, Dave Langford, Tim Kirk, Patrick Nielsen Hayden, Bill Rotsler, Bob Shaw, Stu Shiffman, Dan Steffan, Ted White, Gene Wolfe and artist Stephen Fabian.\n\nEnergumen ceased publication in 1973 with issue #15, and the Glicksohns' marriage broke up; however, planning for a special issue was already well under way at the time of Susan Wood's sudden death in November 1980. Issue #16 (\"Just when you Thought it was Safe to Bind your Fanzines\") was published by Glicksohn in September 1981."
+}

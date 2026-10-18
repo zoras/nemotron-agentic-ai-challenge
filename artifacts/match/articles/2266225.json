@@ -1,0 +1,26 @@
+{
+ "page_id": "2266225",
+ "revision_id": "1352589355",
+ "title": "Georg Bernhard Bilfinger",
+ "url": "https://en.wikipedia.org/wiki/Georg_Bernhard_Bilfinger",
+ "text_sha256": "b81cc9852723a9294847e59abd41cf883ba02725f041e8dbd58df070db271148",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "e04c1ffd6e1eccaac31c68476c45bee1de0717f69d8b547b7b3c5e8e2ffa8255",
+  "source_row_idx": 22097,
+  "source_shard": "enwiki/data/enwiki_namespace_0_68.parquet",
+  "text_sha256": "b81cc9852723a9294847e59abd41cf883ba02725f041e8dbd58df070db271148",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352589355"
+ },
+ "text": "Georg Bernhard Bilfinger (23 January 1693 – 18 February 1750) was a German philosopher, mathematician and statesman.\n\nHe was born at Cannstatt in the Duchy of Württemberg, the son of a Lutheran minister.\n\nAs a boy he showed great aptitude for study, and at first devoted himself to theology, but under the influence of Christian Wolff 's writings he took up mathematics and philosophy on the lines of Wolff and Gottfried Leibniz. Returning to theology, he attempted to connect it with philosophy in a treatise, Dilucidationes philosophicae, de deo, anima humana, mundo (Tübingen, 1725, 1746, 1768). This work contains nothing original but giving a clear representation of Wolff's philosophy. It met with great success, and the author was appointed to the office of preacher at the castle of Tübingen. In 1709, he entered the seminary (Tübinger Stift) of the University of Tübingen.\n\nIn 1721, after two years of study under Wolff at the University of Halle, he became professor of philosophy at Tübingen, and in 1724 professor of mathematics there. His friends at Tübingen disapproved of his new views, and in 1725, on Wolff's recommendation, he was invited by Peter I of Russia to lecture in Saint Petersburg as professor at the University of St. Petersburg, where he was well received. His success in winning the prize of a thousand crowns offered for a dissertation on the cause of gravity by the Académie des Sciences of Paris secured his return to his native land in 1731.\n\nIn 1735, largely on account of his knowledge of military engineering, Karl Alexander, Duke of Württemberg (reigned 1733–1737) made him a privy councillor, but his hands were tied owing to the frivolous atmosphere of the court. On the death of the duke, however, he became a member of the Regency Council, and devoted himself with energy and success to the reorganization of the state. In the departments of education, state-religion, agriculture and commerce, his administration was uniformly successful, and he became in a real sense the head of the state. He died at Stuttgart.\n\nAfter his return from Imperial Russia, he won the highest respect at home and abroad, and Frederick II of Prussia is recorded to have said of him, \"He was a great man whom I shall ever remember with admiration.\"\n\nBeside the Dilucidationes, he wrote De harmonia animi et corporis humani commentatio (Frankfurt and Leipzig, 1735; Tübingen, 1741); De origine et permissione mali (1724), an account of the Leibnitzian theodicy."
+}

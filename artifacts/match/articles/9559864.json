@@ -1,0 +1,26 @@
+{
+ "page_id": "9559864",
+ "revision_id": "1346688330",
+ "title": "Willemstad, North Brabant",
+ "url": "https://en.wikipedia.org/wiki/Willemstad,_North_Brabant",
+ "text_sha256": "b0dbbee0274a0e111f05eb719b337f6d6623a1543bd264d1edeb2d3a63342dfd",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+  "source_row_idx": 86863,
+  "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+  "text_sha256": "b0dbbee0274a0e111f05eb719b337f6d6623a1543bd264d1edeb2d3a63342dfd",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346688330"
+ },
+ "text": "Willemstad is a city in the Dutch province of North Brabant. It is located in the municipality of Moerdijk. Its population as of 2021 was 2,490.\n\nWillemstad is a small historical town with well preserved fortifications. It lies on the Hollands Diep, close to the Haringvliet and Volkerak. It received city rights in 1585. The Reformed Church was built in 1607 as the first new Protestant church building in the Netherlands (see: the Reformation and its influence on church architecture).\n\nThe current name was first used in 1639 as Willemstat, and refers to William the Silent who fortified the settlement in 1583. The settlement used to be known as Ruigenhil, and was located at a strategic location along the Hollands Diep. In 1587, the fortifications were completed, and Willemstad received a heptagon (seven sided) shape with seven bastions. Even though the fortification have been decommissioned in 1926, the layout is still clearly visible and mainly intact.\n\nThe Dutch Reformed church was built between 1597 and 1607 and has an octagon shape with a dome with ridge turret on top. There is an incomplete tower in the south-western corner. The church was severely damaged by war in 1944. It was nearly completely restored in 1950 when it was devastated by fire.\n\nThe Gouvernementshuis was built between 1623 and 1625 for Maurice, Prince of Orange. After his death in 1625, it was used as the residence of the governor of Willemstad until 1795. It was extensively restored between 1968 and 1973, and served as town hall until 1996.\n\nWillemstad was home to 1,154 people in 1840. In 1970, the entire centre was declared a protected site. Willemstad was a separate municipality until 1997, when it became part of Zevenbergen, which changed its name to Moerdijk in 1998."
+}

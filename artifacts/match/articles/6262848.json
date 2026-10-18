@@ -1,0 +1,26 @@
+{
+ "page_id": "6262848",
+ "revision_id": "1337653520",
+ "title": "Cannabis flower essential oil",
+ "url": "https://en.wikipedia.org/wiki/Cannabis_flower_essential_oil",
+ "text_sha256": "922d82287aed3f706f4e9a93fd628c585bcccc486b5708eb200890ca4ae0fcf5",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+  "source_row_idx": 76837,
+  "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+  "text_sha256": "922d82287aed3f706f4e9a93fd628c585bcccc486b5708eb200890ca4ae0fcf5",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337653520"
+ },
+ "text": "Cannabis flower essential oil, also known as hemp essential oil, is an essential oil obtained by steam distillation from the flowers, panicles (flower cluster), stem, and upper leaves of the hemp plant (Cannabis sativa L.). Hemp essential oil is distinct from hemp seed oil (hemp oil) and hash oil: the former is a vegetable oil that is cold-pressed from the seeds of low- THC varieties of hemp, the latter is a THC -rich extract of dried female hemp flowers (marijuana) or resin (hashish).\n\nA pale yellow liquid, cannabis flower essential oil is a volatile oil that is a mixture of monoterpenes, sesquiterpenes, and other terpenoid compounds. Beyond terpenes, there exist a number of other minor compounds that can drastically influence the aroma, such as volatile sulfur compounds, esters, and the heterocyclic compounds indole and skatole. The essential oil is manufactured from both low-THC (\"fibre-type\") and high-THC (\"drug-type\") varieties of hemp. As most of the phytocannabinoids are nearly insoluble in water, hemp essential oil contains only traces of cannabinoids. Most of the material is produced in Canada, as well as small scale cultivations in Switzerland and Germany.\n\nHemp essential oil is used as a scent in perfumes, cosmetics, soaps, and candles. It is also used as a flavoring in foods, primarily candy and beverages.\n\nAnother report said there were 140 terpenoids, dominated by α- pinene and limonene which together often comprise 75% of the live plant's volatiles. However, extracted essential oils can change in composition, and the live plant, dried plant and essential oil can smell rather different.\n\nThe various terpenes in cannabis have antifungal, antimicrobial, antiviral and insect repellent functions that could be commercially valuable when used externally.\n\nCannabis essential oils that are cannabinoid-free have been tested for central nervous effects. Natural monoterpenes and sesquiterpenes from cannabis flowers have relaxing, sedative and anti-depressant effects when inhaled. Their application in aromatherapy is increasing, but the high price of the natural oil (50$ per milliliter) is a limiting factor.\n\nIn Switzerland and Austria, specific landraces with high essential oil content but no discernible amounts of cannabinoids have been developed for the purpose of flavoring beverage products. For those applications, oils with high monoterpene percentages (but a low alpha-humulene or caryophyllene oxide concentration) are desirable.\n\nTerpenes used in THC vaping products, legal in some jurisdictions in the United States, are not true cannabis terpenes, but synthetic and racemic with potential health hazards. Due to health promoting effects, natural THC-free cannabis flower oil is the preferred ingredient in the legal European market. Unregulated additives in US vaping products have led to serious health consequences, including fatal outcomes."
+}

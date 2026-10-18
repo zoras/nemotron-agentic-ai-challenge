@@ -1,0 +1,26 @@
+{
+ "page_id": "455696",
+ "revision_id": "1339698750",
+ "title": "Geographical pole",
+ "url": "https://en.wikipedia.org/wiki/Geographical_pole",
+ "text_sha256": "da09040dbdd747c2176c22593d8373b9d04ffcb2610ee8c09449b13d0235bcb0",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "20e8c1f2832dfd403df841bcef048436359485a0a12a2b14c6f75dac2926c2a1",
+  "source_row_idx": 17969,
+  "source_shard": "enwiki/data/enwiki_namespace_0_14.parquet",
+  "text_sha256": "da09040dbdd747c2176c22593d8373b9d04ffcb2610ee8c09449b13d0235bcb0",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339698750"
+ },
+ "text": "A geographical pole or geographic pole is either of the two points on Earth where its axis of rotation intersects its surface. The North Pole lies in the Arctic Ocean while the South Pole is in Antarctica. North and South poles are also defined for other planets or satellites in the Solar System, with a North pole being on the same side of the invariable plane as Earth's North pole.\n\nRelative to Earth's surface, the geographic poles move by a few metres over periods of a few years. This is a combination of Chandler wobble, a free oscillation with a period of about 433 days; an annual motion responding to seasonal movements of air and water masses; and an irregular drift towards the 80th west meridian. As cartography and geodesy require exact and unchanging coordinates, the average or nominal locations of geographical poles are taken as fixed cartographic poles or geodetic poles, the points where the body's great circles of longitude intersect; in practice this is achieved by keeping latitude values of survey markers fixed and accounting for time variations in terms of Earth orientation parameters."
+}

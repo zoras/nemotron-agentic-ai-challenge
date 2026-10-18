@@ -1,0 +1,26 @@
+{
+ "page_id": "1674351",
+ "revision_id": "1337574938",
+ "title": "Optical instrument",
+ "url": "https://en.wikipedia.org/wiki/Optical_instrument",
+ "text_sha256": "7540909f5290da96eef3c99f90205babbf3735e1e40deb6ea878fbf9169d8e78",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+  "source_row_idx": 51415,
+  "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+  "text_sha256": "7540909f5290da96eef3c99f90205babbf3735e1e40deb6ea878fbf9169d8e78",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337574938"
+ },
+ "text": "An optical instrument is a device that processes light waves (or photons), either to enhance an image for viewing or to analyze and determine their characteristic properties. Common examples include periscopes, microscopes, telescopes, and cameras.\n\nThe first optical instruments were telescopes used for magnification of distant images, and microscopes used for magnifying very tiny images. Since the days of Galileo and Van Leeuwenhoek, these instruments have been greatly improved and extended into other portions of the electromagnetic spectrum. The binocular device is a generally compact instrument for both eyes designed for mobile use. A camera could be considered a type of optical instrument, with the pinhole camera and camera obscura being very simple examples of such devices.\n\nAnother class of optical instrument is used to analyze the properties of light or optical materials. They include:\n\nInterferometer for measuring the interference properties of light waves\n\nPhotometer for measuring light intensity\n\nPolarimeter for measuring dispersion or rotation of polarized light\n\nReflectometer for measuring the reflectivity of a surface or object\n\nRefractometer for measuring refractive index of various materials\n\nSpectrometer or monochromator for generating or measuring a portion of the optical spectrum, for the purpose of chemical or material analysis\n\nAutocollimator which is used to measure angular deflections\n\nVertometer which is used to determine refractive power of lenses such as glasses, contact lenses and magnifier lens\n\nDNA sequencers can be considered optical instruments, as they analyse the color and intensity of the light emitted by a fluorochrome attached to a specific nucleotide of a DNA strand.\n\nSurface plasmon resonance -based instruments use refractometry to measure and analyze biomolecular interactions.\n\nMagic lantern\n\nPolarization controller"
+}

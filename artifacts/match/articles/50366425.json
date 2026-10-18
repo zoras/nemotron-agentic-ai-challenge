@@ -1,0 +1,26 @@
+{
+ "page_id": "50366425",
+ "revision_id": "1185980321",
+ "title": "Collective enfranchisement",
+ "url": "https://en.wikipedia.org/wiki/Collective_enfranchisement",
+ "text_sha256": "149555bbf5dafec1ecf63677527080aa6cb31f018d1f38e6a97e0ebe3b84d537",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+  "source_row_idx": 95295,
+  "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+  "text_sha256": "149555bbf5dafec1ecf63677527080aa6cb31f018d1f38e6a97e0ebe3b84d537",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1185980321"
+ },
+ "text": "Collective enfranchisement is a legal term in English property law used to describe a process whereby leaseholders of a block of flats of apartments can buy out their freeholder. The right to collective enfranchisement was granted by the Leasehold Reform Housing and Urban Development Act 1993."
+}

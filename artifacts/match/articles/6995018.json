@@ -1,0 +1,26 @@
+{
+ "page_id": "6995018",
+ "revision_id": "1331889132",
+ "title": "Palla (garment)",
+ "url": "https://en.wikipedia.org/wiki/Palla_(garment)",
+ "text_sha256": "2b0694fd7a7b8eb9ddba2654a0267d41310cf5ea971a26c819d62db3f016e016",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+  "source_row_idx": 1822,
+  "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+  "text_sha256": "2b0694fd7a7b8eb9ddba2654a0267d41310cf5ea971a26c819d62db3f016e016",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1331889132"
+ },
+ "text": "The palla was an elegant cloak or mantle that was wrapped around the body. It was worn outside the house by (affluent) Roman women. It was a luxurious version of the Roman men's pallium. The palla was a traditional ancient Roman mantle worn by women, fastened by brooches. The shape was rectangular instead of semi-circular, as with the traditional toga. The garment dates to the 3rd century BC, but the type of dress must be much older. In Latin literature, the term palla is used ambiguously. It can denote not only a cloak, but also a foot-length sleeveless dress with straps (or a brooch) worn directly on the skin. The second is a common dress form in the entire Mediterranean world. In a Greek cultural context, this is called peplos. In a Roman cultural context, if worn by a Roman matron, it also takes the name stola.\n\nRadicke, Jan (2022). Roman Women’s Dress. Berlin: De Gruyter. doi: 10.1515/9783110711554 ISBN 978-3-11-071155-4"
+}

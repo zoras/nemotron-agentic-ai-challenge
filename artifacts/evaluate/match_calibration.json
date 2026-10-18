@@ -1,0 +1,5266 @@
+{
+ "labeller": "Claude Code (coding agent), reviewed in the session of 2026-10-18; not checked by a team member",
+ "method": "Read the entry OCR text and the article title and lead. yes: same subject. partial: the article covers the text on this page, or a narrower or broader subject. no: a different subject, or a disambiguation page. Doubtful rows are left unlabelled.",
+ "thresholds": {
+  "topic/continuation/title": {
+   "accept": -4.0,
+   "floor": -6.5
+  },
+  "topic/continuation/keyword": {
+   "accept": -1.5,
+   "floor": -4.0
+  },
+  "topic/headword/title": {
+   "accept": -3.5,
+   "floor": -6.0
+  },
+  "topic/headword/keyword": {
+   "accept": -2.0,
+   "floor": -4.5
+  },
+  "subtopic/continuation/title": {
+   "accept": -4.8,
+   "floor": -7.0
+  },
+  "subtopic/continuation/keyword": {
+   "accept": -2.0,
+   "floor": -4.5
+  }
+ },
+ "labelled_targets": 336,
+ "targets": 340,
+ "by_decision": {
+  "accepted": {
+   "labelled": 217,
+   "correct": 210
+  },
+  "uncertain": {
+   "labelled": 84,
+   "correct": 53
+  },
+  "no_match": {
+   "labelled": 35,
+   "correct": 10
+  }
+ },
+ "sweeps": {
+  "subtopic/continuation/keyword": [
+   {
+    "threshold": -7.4,
+    "kept": 27,
+    "precision": 0.37,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -6.0,
+    "kept": 26,
+    "precision": 0.385,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -5.7,
+    "kept": 25,
+    "precision": 0.4,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -5.3,
+    "kept": 24,
+    "precision": 0.417,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -5.2,
+    "kept": 23,
+    "precision": 0.435,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -5.1,
+    "kept": 22,
+    "precision": 0.455,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -5.0,
+    "kept": 20,
+    "precision": 0.45,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -4.9,
+    "kept": 19,
+    "precision": 0.474,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -4.6,
+    "kept": 18,
+    "precision": 0.5,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -4.5,
+    "kept": 15,
+    "precision": 0.6,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -4.2,
+    "kept": 13,
+    "precision": 0.615,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -4.0,
+    "kept": 11,
+    "precision": 0.636,
+    "correct_dropped": 3
+   },
+   {
+    "threshold": -3.8,
+    "kept": 10,
+    "precision": 0.6,
+    "correct_dropped": 4
+   },
+   {
+    "threshold": -3.7,
+    "kept": 8,
+    "precision": 0.625,
+    "correct_dropped": 5
+   },
+   {
+    "threshold": -3.5,
+    "kept": 7,
+    "precision": 0.714,
+    "correct_dropped": 5
+   },
+   {
+    "threshold": -3.3,
+    "kept": 6,
+    "precision": 0.667,
+    "correct_dropped": 6
+   },
+   {
+    "threshold": -2.7,
+    "kept": 5,
+    "precision": 0.6,
+    "correct_dropped": 7
+   },
+   {
+    "threshold": -2.6,
+    "kept": 4,
+    "precision": 0.75,
+    "correct_dropped": 7
+   },
+   {
+    "threshold": -2.3,
+    "kept": 3,
+    "precision": 0.667,
+    "correct_dropped": 8
+   },
+   {
+    "threshold": -1.9,
+    "kept": 2,
+    "precision": 1.0,
+    "correct_dropped": 8
+   },
+   {
+    "threshold": -1.0,
+    "kept": 1,
+    "precision": 1.0,
+    "correct_dropped": 9
+   }
+  ],
+  "subtopic/continuation/title": [
+   {
+    "threshold": -10.0,
+    "kept": 29,
+    "precision": 0.897,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -6.3,
+    "kept": 28,
+    "precision": 0.893,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -6.0,
+    "kept": 27,
+    "precision": 0.889,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -5.8,
+    "kept": 26,
+    "precision": 0.885,
+    "correct_dropped": 3
+   },
+   {
+    "threshold": -5.7,
+    "kept": 25,
+    "precision": 0.88,
+    "correct_dropped": 4
+   },
+   {
+    "threshold": -5.5,
+    "kept": 24,
+    "precision": 0.875,
+    "correct_dropped": 5
+   },
+   {
+    "threshold": -5.4,
+    "kept": 23,
+    "precision": 0.87,
+    "correct_dropped": 6
+   },
+   {
+    "threshold": -5.3,
+    "kept": 22,
+    "precision": 0.864,
+    "correct_dropped": 7
+   },
+   {
+    "threshold": -5.2,
+    "kept": 21,
+    "precision": 0.857,
+    "correct_dropped": 8
+   },
+   {
+    "threshold": -5.1,
+    "kept": 19,
+    "precision": 0.842,
+    "correct_dropped": 10
+   },
+   {
+    "threshold": -5.0,
+    "kept": 17,
+    "precision": 0.882,
+    "correct_dropped": 11
+   },
+   {
+    "threshold": -4.9,
+    "kept": 16,
+    "precision": 0.938,
+    "correct_dropped": 11
+   },
+   {
+    "threshold": -4.7,
+    "kept": 15,
+    "precision": 0.933,
+    "correct_dropped": 12
+   },
+   {
+    "threshold": -4.6,
+    "kept": 14,
+    "precision": 0.929,
+    "correct_dropped": 13
+   },
+   {
+    "threshold": -4.5,
+    "kept": 12,
+    "precision": 0.917,
+    "correct_dropped": 15
+   },
+   {
+    "threshold": -4.4,
+    "kept": 11,
+    "precision": 0.909,
+    "correct_dropped": 16
+   },
+   {
+    "threshold": -4.1,
+    "kept": 10,
+    "precision": 0.9,
+    "correct_dropped": 17
+   },
+   {
+    "threshold": -4.0,
+    "kept": 9,
+    "precision": 0.889,
+    "correct_dropped": 18
+   },
+   {
+    "threshold": -3.8,
+    "kept": 8,
+    "precision": 0.875,
+    "correct_dropped": 19
+   },
+   {
+    "threshold": -3.5,
+    "kept": 6,
+    "precision": 0.833,
+    "correct_dropped": 21
+   },
+   {
+    "threshold": -3.4,
+    "kept": 5,
+    "precision": 1.0,
+    "correct_dropped": 21
+   },
+   {
+    "threshold": -3.2,
+    "kept": 4,
+    "precision": 1.0,
+    "correct_dropped": 22
+   },
+   {
+    "threshold": -3.0,
+    "kept": 3,
+    "precision": 1.0,
+    "correct_dropped": 23
+   },
+   {
+    "threshold": -2.6,
+    "kept": 2,
+    "precision": 1.0,
+    "correct_dropped": 24
+   },
+   {
+    "threshold": -1.1,
+    "kept": 1,
+    "precision": 1.0,
+    "correct_dropped": 25
+   }
+  ],
+  "topic/continuation/keyword": [
+   {
+    "threshold": -7.3,
+    "kept": 11,
+    "precision": 0.636,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -4.1,
+    "kept": 10,
+    "precision": 0.7,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -2.6,
+    "kept": 9,
+    "precision": 0.667,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -2.1,
+    "kept": 8,
+    "precision": 0.75,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -1.6,
+    "kept": 7,
+    "precision": 0.857,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -1.4,
+    "kept": 6,
+    "precision": 1.0,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": 2.6,
+    "kept": 5,
+    "precision": 1.0,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": 3.2,
+    "kept": 4,
+    "precision": 1.0,
+    "correct_dropped": 3
+   },
+   {
+    "threshold": 4.0,
+    "kept": 3,
+    "precision": 1.0,
+    "correct_dropped": 4
+   },
+   {
+    "threshold": 5.8,
+    "kept": 2,
+    "precision": 1.0,
+    "correct_dropped": 5
+   },
+   {
+    "threshold": 8.7,
+    "kept": 1,
+    "precision": 1.0,
+    "correct_dropped": 6
+   }
+  ],
+  "topic/continuation/title": [
+   {
+    "threshold": -6.2,
+    "kept": 70,
+    "precision": 0.986,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -4.5,
+    "kept": 69,
+    "precision": 0.986,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -4.0,
+    "kept": 68,
+    "precision": 1.0,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -2.8,
+    "kept": 67,
+    "precision": 1.0,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -1.0,
+    "kept": 66,
+    "precision": 1.0,
+    "correct_dropped": 3
+   },
+   {
+    "threshold": -0.9,
+    "kept": 65,
+    "precision": 1.0,
+    "correct_dropped": 4
+   },
+   {
+    "threshold": -0.4,
+    "kept": 64,
+    "precision": 1.0,
+    "correct_dropped": 5
+   },
+   {
+    "threshold": -0.1,
+    "kept": 63,
+    "precision": 1.0,
+    "correct_dropped": 6
+   },
+   {
+    "threshold": 0.2,
+    "kept": 62,
+    "precision": 1.0,
+    "correct_dropped": 7
+   },
+   {
+    "threshold": 0.3,
+    "kept": 60,
+    "precision": 1.0,
+    "correct_dropped": 9
+   },
+   {
+    "threshold": 0.5,
+    "kept": 59,
+    "precision": 1.0,
+    "correct_dropped": 10
+   },
+   {
+    "threshold": 0.9,
+    "kept": 58,
+    "precision": 1.0,
+    "correct_dropped": 11
+   },
+   {
+    "threshold": 1.0,
+    "kept": 57,
+    "precision": 1.0,
+    "correct_dropped": 12
+   },
+   {
+    "threshold": 1.2,
+    "kept": 56,
+    "precision": 1.0,
+    "correct_dropped": 13
+   },
+   {
+    "threshold": 1.5,
+    "kept": 55,
+    "precision": 1.0,
+    "correct_dropped": 14
+   },
+   {
+    "threshold": 1.6,
+    "kept": 54,
+    "precision": 1.0,
+    "correct_dropped": 15
+   },
+   {
+    "threshold": 1.7,
+    "kept": 53,
+    "precision": 1.0,
+    "correct_dropped": 16
+   },
+   {
+    "threshold": 1.8,
+    "kept": 52,
+    "precision": 1.0,
+    "correct_dropped": 17
+   },
+   {
+    "threshold": 2.0,
+    "kept": 50,
+    "precision": 1.0,
+    "correct_dropped": 19
+   },
+   {
+    "threshold": 3.0,
+    "kept": 49,
+    "precision": 1.0,
+    "correct_dropped": 20
+   },
+   {
+    "threshold": 3.3,
+    "kept": 48,
+    "precision": 1.0,
+    "correct_dropped": 21
+   },
+   {
+    "threshold": 3.5,
+    "kept": 47,
+    "precision": 1.0,
+    "correct_dropped": 22
+   },
+   {
+    "threshold": 3.6,
+    "kept": 46,
+    "precision": 1.0,
+    "correct_dropped": 23
+   },
+   {
+    "threshold": 3.8,
+    "kept": 45,
+    "precision": 1.0,
+    "correct_dropped": 24
+   },
+   {
+    "threshold": 3.9,
+    "kept": 44,
+    "precision": 1.0,
+    "correct_dropped": 25
+   },
+   {
+    "threshold": 4.2,
+    "kept": 43,
+    "precision": 1.0,
+    "correct_dropped": 26
+   },
+   {
+    "threshold": 4.3,
+    "kept": 41,
+    "precision": 1.0,
+    "correct_dropped": 28
+   },
+   {
+    "threshold": 5.2,
+    "kept": 40,
+    "precision": 1.0,
+    "correct_dropped": 29
+   },
+   {
+    "threshold": 5.4,
+    "kept": 39,
+    "precision": 1.0,
+    "correct_dropped": 30
+   },
+   {
+    "threshold": 5.5,
+    "kept": 38,
+    "precision": 1.0,
+    "correct_dropped": 31
+   },
+   {
+    "threshold": 5.8,
+    "kept": 37,
+    "precision": 1.0,
+    "correct_dropped": 32
+   },
+   {
+    "threshold": 6.3,
+    "kept": 36,
+    "precision": 1.0,
+    "correct_dropped": 33
+   },
+   {
+    "threshold": 6.4,
+    "kept": 34,
+    "precision": 1.0,
+    "correct_dropped": 35
+   },
+   {
+    "threshold": 6.5,
+    "kept": 33,
+    "precision": 1.0,
+    "correct_dropped": 36
+   },
+   {
+    "threshold": 7.0,
+    "kept": 32,
+    "precision": 1.0,
+    "correct_dropped": 37
+   },
+   {
+    "threshold": 7.1,
+    "kept": 31,
+    "precision": 1.0,
+    "correct_dropped": 38
+   },
+   {
+    "threshold": 7.2,
+    "kept": 30,
+    "precision": 1.0,
+    "correct_dropped": 39
+   },
+   {
+    "threshold": 7.4,
+    "kept": 29,
+    "precision": 1.0,
+    "correct_dropped": 40
+   },
+   {
+    "threshold": 7.8,
+    "kept": 28,
+    "precision": 1.0,
+    "correct_dropped": 41
+   },
+   {
+    "threshold": 8.0,
+    "kept": 27,
+    "precision": 1.0,
+    "correct_dropped": 42
+   },
+   {
+    "threshold": 8.5,
+    "kept": 26,
+    "precision": 1.0,
+    "correct_dropped": 43
+   },
+   {
+    "threshold": 8.7,
+    "kept": 25,
+    "precision": 1.0,
+    "correct_dropped": 44
+   },
+   {
+    "threshold": 8.8,
+    "kept": 24,
+    "precision": 1.0,
+    "correct_dropped": 45
+   },
+   {
+    "threshold": 9.0,
+    "kept": 23,
+    "precision": 1.0,
+    "correct_dropped": 46
+   },
+   {
+    "threshold": 9.1,
+    "kept": 22,
+    "precision": 1.0,
+    "correct_dropped": 47
+   },
+   {
+    "threshold": 9.3,
+    "kept": 21,
+    "precision": 1.0,
+    "correct_dropped": 48
+   },
+   {
+    "threshold": 9.4,
+    "kept": 20,
+    "precision": 1.0,
+    "correct_dropped": 49
+   },
+   {
+    "threshold": 9.6,
+    "kept": 18,
+    "precision": 1.0,
+    "correct_dropped": 51
+   },
+   {
+    "threshold": 9.8,
+    "kept": 17,
+    "precision": 1.0,
+    "correct_dropped": 52
+   },
+   {
+    "threshold": 10.1,
+    "kept": 16,
+    "precision": 1.0,
+    "correct_dropped": 53
+   },
+   {
+    "threshold": 10.2,
+    "kept": 15,
+    "precision": 1.0,
+    "correct_dropped": 54
+   },
+   {
+    "threshold": 10.3,
+    "kept": 13,
+    "precision": 1.0,
+    "correct_dropped": 56
+   },
+   {
+    "threshold": 10.5,
+    "kept": 12,
+    "precision": 1.0,
+    "correct_dropped": 57
+   },
+   {
+    "threshold": 10.8,
+    "kept": 11,
+    "precision": 1.0,
+    "correct_dropped": 58
+   },
+   {
+    "threshold": 11.3,
+    "kept": 10,
+    "precision": 1.0,
+    "correct_dropped": 59
+   },
+   {
+    "threshold": 11.9,
+    "kept": 8,
+    "precision": 1.0,
+    "correct_dropped": 61
+   },
+   {
+    "threshold": 12.0,
+    "kept": 7,
+    "precision": 1.0,
+    "correct_dropped": 62
+   },
+   {
+    "threshold": 12.2,
+    "kept": 6,
+    "precision": 1.0,
+    "correct_dropped": 63
+   },
+   {
+    "threshold": 13.5,
+    "kept": 5,
+    "precision": 1.0,
+    "correct_dropped": 64
+   },
+   {
+    "threshold": 14.0,
+    "kept": 4,
+    "precision": 1.0,
+    "correct_dropped": 65
+   },
+   {
+    "threshold": 14.3,
+    "kept": 3,
+    "precision": 1.0,
+    "correct_dropped": 66
+   },
+   {
+    "threshold": 15.1,
+    "kept": 2,
+    "precision": 1.0,
+    "correct_dropped": 67
+   },
+   {
+    "threshold": 16.7,
+    "kept": 1,
+    "precision": 1.0,
+    "correct_dropped": 68
+   }
+  ],
+  "topic/headword/keyword": [
+   {
+    "threshold": -7.7,
+    "kept": 39,
+    "precision": 0.385,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -7.6,
+    "kept": 38,
+    "precision": 0.368,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -7.5,
+    "kept": 37,
+    "precision": 0.378,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -7.3,
+    "kept": 35,
+    "precision": 0.4,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -6.9,
+    "kept": 34,
+    "precision": 0.412,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -6.8,
+    "kept": 33,
+    "precision": 0.394,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -6.6,
+    "kept": 32,
+    "precision": 0.406,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -6.4,
+    "kept": 31,
+    "precision": 0.419,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -6.3,
+    "kept": 30,
+    "precision": 0.433,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -5.5,
+    "kept": 29,
+    "precision": 0.448,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -5.4,
+    "kept": 28,
+    "precision": 0.464,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -5.1,
+    "kept": 27,
+    "precision": 0.444,
+    "correct_dropped": 3
+   },
+   {
+    "threshold": -4.9,
+    "kept": 26,
+    "precision": 0.423,
+    "correct_dropped": 4
+   },
+   {
+    "threshold": -4.6,
+    "kept": 24,
+    "precision": 0.458,
+    "correct_dropped": 4
+   },
+   {
+    "threshold": -4.5,
+    "kept": 22,
+    "precision": 0.455,
+    "correct_dropped": 5
+   },
+   {
+    "threshold": -4.4,
+    "kept": 21,
+    "precision": 0.429,
+    "correct_dropped": 6
+   },
+   {
+    "threshold": -3.6,
+    "kept": 20,
+    "precision": 0.45,
+    "correct_dropped": 6
+   },
+   {
+    "threshold": -3.4,
+    "kept": 19,
+    "precision": 0.474,
+    "correct_dropped": 6
+   },
+   {
+    "threshold": -3.2,
+    "kept": 18,
+    "precision": 0.444,
+    "correct_dropped": 7
+   },
+   {
+    "threshold": -3.1,
+    "kept": 17,
+    "precision": 0.471,
+    "correct_dropped": 7
+   },
+   {
+    "threshold": -2.9,
+    "kept": 15,
+    "precision": 0.533,
+    "correct_dropped": 7
+   },
+   {
+    "threshold": -2.7,
+    "kept": 14,
+    "precision": 0.571,
+    "correct_dropped": 7
+   },
+   {
+    "threshold": -2.5,
+    "kept": 12,
+    "precision": 0.583,
+    "correct_dropped": 8
+   },
+   {
+    "threshold": -2.4,
+    "kept": 11,
+    "precision": 0.636,
+    "correct_dropped": 8
+   },
+   {
+    "threshold": -2.2,
+    "kept": 10,
+    "precision": 0.7,
+    "correct_dropped": 8
+   },
+   {
+    "threshold": -2.1,
+    "kept": 9,
+    "precision": 0.778,
+    "correct_dropped": 8
+   },
+   {
+    "threshold": -2.0,
+    "kept": 8,
+    "precision": 0.875,
+    "correct_dropped": 8
+   },
+   {
+    "threshold": -1.5,
+    "kept": 7,
+    "precision": 0.857,
+    "correct_dropped": 9
+   },
+   {
+    "threshold": -1.3,
+    "kept": 6,
+    "precision": 0.833,
+    "correct_dropped": 10
+   },
+   {
+    "threshold": -1.1,
+    "kept": 5,
+    "precision": 0.8,
+    "correct_dropped": 11
+   },
+   {
+    "threshold": -0.9,
+    "kept": 4,
+    "precision": 0.75,
+    "correct_dropped": 12
+   },
+   {
+    "threshold": -0.8,
+    "kept": 3,
+    "precision": 0.667,
+    "correct_dropped": 13
+   },
+   {
+    "threshold": 1.9,
+    "kept": 2,
+    "precision": 1.0,
+    "correct_dropped": 13
+   },
+   {
+    "threshold": 3.8,
+    "kept": 1,
+    "precision": 1.0,
+    "correct_dropped": 14
+   }
+  ],
+  "topic/headword/title": [
+   {
+    "threshold": -6.8,
+    "kept": 160,
+    "precision": 0.912,
+    "correct_dropped": 0
+   },
+   {
+    "threshold": -6.6,
+    "kept": 159,
+    "precision": 0.912,
+    "correct_dropped": 1
+   },
+   {
+    "threshold": -6.3,
+    "kept": 158,
+    "precision": 0.911,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -6.0,
+    "kept": 157,
+    "precision": 0.917,
+    "correct_dropped": 2
+   },
+   {
+    "threshold": -5.9,
+    "kept": 156,
+    "precision": 0.917,
+    "correct_dropped": 3
+   },
+   {
+    "threshold": -5.8,
+    "kept": 155,
+    "precision": 0.923,
+    "correct_dropped": 3
+   },
+   {
+    "threshold": -5.6,
+    "kept": 154,
+    "precision": 0.922,
+    "correct_dropped": 4
+   },
+   {
+    "threshold": -5.5,
+    "kept": 151,
+    "precision": 0.927,
+    "correct_dropped": 6
+   },
+   {
+    "threshold": -5.4,
+    "kept": 149,
+    "precision": 0.926,
+    "correct_dropped": 8
+   },
+   {
+    "threshold": -5.3,
+    "kept": 147,
+    "precision": 0.925,
+    "correct_dropped": 10
+   },
+   {
+    "threshold": -5.2,
+    "kept": 146,
+    "precision": 0.925,
+    "correct_dropped": 11
+   },
+   {
+    "threshold": -5.1,
+    "kept": 144,
+    "precision": 0.924,
+    "correct_dropped": 13
+   },
+   {
+    "threshold": -4.9,
+    "kept": 142,
+    "precision": 0.923,
+    "correct_dropped": 15
+   },
+   {
+    "threshold": -4.7,
+    "kept": 141,
+    "precision": 0.922,
+    "correct_dropped": 16
+   },
+   {
+    "threshold": -4.5,
+    "kept": 140,
+    "precision": 0.929,
+    "correct_dropped": 16
+   },
+   {
+    "threshold": -4.4,
+    "kept": 137,
+    "precision": 0.934,
+    "correct_dropped": 18
+   },
+   {
+    "threshold": -4.2,
+    "kept": 136,
+    "precision": 0.934,
+    "correct_dropped": 19
+   },
+   {
+    "threshold": -4.1,
+    "kept": 132,
+    "precision": 0.939,
+    "correct_dropped": 22
+   },
+   {
+    "threshold": -3.9,
+    "kept": 130,
+    "precision": 0.946,
+    "correct_dropped": 23
+   },
+   {
+    "threshold": -3.8,
+    "kept": 126,
+    "precision": 0.96,
+    "correct_dropped": 25
+   },
+   {
+    "threshold": -3.7,
+    "kept": 123,
+    "precision": 0.959,
+    "correct_dropped": 28
+   },
+   {
+    "threshold": -3.6,
+    "kept": 122,
+    "precision": 0.959,
+    "correct_dropped": 29
+   },
+   {
+    "threshold": -3.5,
+    "kept": 118,
+    "precision": 0.958,
+    "correct_dropped": 33
+   },
+   {
+    "threshold": -3.4,
+    "kept": 116,
+    "precision": 0.957,
+    "correct_dropped": 35
+   },
+   {
+    "threshold": -3.3,
+    "kept": 113,
+    "precision": 0.965,
+    "correct_dropped": 37
+   },
+   {
+    "threshold": -3.2,
+    "kept": 109,
+    "precision": 0.963,
+    "correct_dropped": 41
+   },
+   {
+    "threshold": -3.1,
+    "kept": 108,
+    "precision": 0.963,
+    "correct_dropped": 42
+   },
+   {
+    "threshold": -3.0,
+    "kept": 106,
+    "precision": 0.962,
+    "correct_dropped": 44
+   },
+   {
+    "threshold": -2.9,
+    "kept": 104,
+    "precision": 0.962,
+    "correct_dropped": 46
+   },
+   {
+    "threshold": -2.7,
+    "kept": 103,
+    "precision": 0.971,
+    "correct_dropped": 46
+   },
+   {
+    "threshold": -2.6,
+    "kept": 101,
+    "precision": 0.98,
+    "correct_dropped": 47
+   },
+   {
+    "threshold": -2.5,
+    "kept": 100,
+    "precision": 0.98,
+    "correct_dropped": 48
+   },
+   {
+    "threshold": -2.4,
+    "kept": 99,
+    "precision": 0.98,
+    "correct_dropped": 49
+   },
+   {
+    "threshold": -2.3,
+    "kept": 96,
+    "precision": 0.979,
+    "correct_dropped": 52
+   },
+   {
+    "threshold": -2.2,
+    "kept": 95,
+    "precision": 0.979,
+    "correct_dropped": 53
+   },
+   {
+    "threshold": -2.1,
+    "kept": 94,
+    "precision": 0.979,
+    "correct_dropped": 54
+   },
+   {
+    "threshold": -2.0,
+    "kept": 90,
+    "precision": 0.978,
+    "correct_dropped": 58
+   },
+   {
+    "threshold": -1.9,
+    "kept": 87,
+    "precision": 0.977,
+    "correct_dropped": 61
+   },
+   {
+    "threshold": -1.7,
+    "kept": 85,
+    "precision": 0.976,
+    "correct_dropped": 63
+   },
+   {
+    "threshold": -1.6,
+    "kept": 82,
+    "precision": 0.976,
+    "correct_dropped": 66
+   },
+   {
+    "threshold": -1.5,
+    "kept": 80,
+    "precision": 0.975,
+    "correct_dropped": 68
+   },
+   {
+    "threshold": -1.4,
+    "kept": 78,
+    "precision": 0.974,
+    "correct_dropped": 70
+   },
+   {
+    "threshold": -1.3,
+    "kept": 75,
+    "precision": 0.973,
+    "correct_dropped": 73
+   },
+   {
+    "threshold": -1.1,
+    "kept": 74,
+    "precision": 0.973,
+    "correct_dropped": 74
+   },
+   {
+    "threshold": -1.0,
+    "kept": 73,
+    "precision": 0.973,
+    "correct_dropped": 75
+   },
+   {
+    "threshold": -0.9,
+    "kept": 69,
+    "precision": 0.971,
+    "correct_dropped": 79
+   },
+   {
+    "threshold": -0.8,
+    "kept": 68,
+    "precision": 0.971,
+    "correct_dropped": 80
+   },
+   {
+    "threshold": -0.7,
+    "kept": 65,
+    "precision": 0.969,
+    "correct_dropped": 83
+   },
+   {
+    "threshold": -0.6,
+    "kept": 64,
+    "precision": 0.969,
+    "correct_dropped": 84
+   },
+   {
+    "threshold": -0.5,
+    "kept": 62,
+    "precision": 0.968,
+    "correct_dropped": 86
+   },
+   {
+    "threshold": -0.4,
+    "kept": 59,
+    "precision": 0.983,
+    "correct_dropped": 88
+   },
+   {
+    "threshold": -0.3,
+    "kept": 57,
+    "precision": 0.982,
+    "correct_dropped": 90
+   },
+   {
+    "threshold": -0.2,
+    "kept": 56,
+    "precision": 0.982,
+    "correct_dropped": 91
+   },
+   {
+    "threshold": -0.1,
+    "kept": 55,
+    "precision": 0.982,
+    "correct_dropped": 92
+   },
+   {
+    "threshold": 0.0,
+    "kept": 53,
+    "precision": 0.981,
+    "correct_dropped": 94
+   },
+   {
+    "threshold": 0.1,
+    "kept": 47,
+    "precision": 1.0,
+    "correct_dropped": 99
+   },
+   {
+    "threshold": 0.3,
+    "kept": 44,
+    "precision": 1.0,
+    "correct_dropped": 102
+   },
+   {
+    "threshold": 0.4,
+    "kept": 40,
+    "precision": 1.0,
+    "correct_dropped": 106
+   },
+   {
+    "threshold": 0.5,
+    "kept": 38,
+    "precision": 1.0,
+    "correct_dropped": 108
+   },
+   {
+    "threshold": 0.6,
+    "kept": 34,
+    "precision": 1.0,
+    "correct_dropped": 112
+   },
+   {
+    "threshold": 0.7,
+    "kept": 33,
+    "precision": 1.0,
+    "correct_dropped": 113
+   },
+   {
+    "threshold": 0.8,
+    "kept": 32,
+    "precision": 1.0,
+    "correct_dropped": 114
+   },
+   {
+    "threshold": 0.9,
+    "kept": 29,
+    "precision": 1.0,
+    "correct_dropped": 117
+   },
+   {
+    "threshold": 1.0,
+    "kept": 27,
+    "precision": 1.0,
+    "correct_dropped": 119
+   },
+   {
+    "threshold": 1.1,
+    "kept": 26,
+    "precision": 1.0,
+    "correct_dropped": 120
+   },
+   {
+    "threshold": 1.4,
+    "kept": 24,
+    "precision": 1.0,
+    "correct_dropped": 122
+   },
+   {
+    "threshold": 1.6,
+    "kept": 22,
+    "precision": 1.0,
+    "correct_dropped": 124
+   },
+   {
+    "threshold": 2.0,
+    "kept": 21,
+    "precision": 1.0,
+    "correct_dropped": 125
+   },
+   {
+    "threshold": 2.1,
+    "kept": 19,
+    "precision": 1.0,
+    "correct_dropped": 127
+   },
+   {
+    "threshold": 2.2,
+    "kept": 18,
+    "precision": 1.0,
+    "correct_dropped": 128
+   },
+   {
+    "threshold": 2.3,
+    "kept": 17,
+    "precision": 1.0,
+    "correct_dropped": 129
+   },
+   {
+    "threshold": 2.6,
+    "kept": 16,
+    "precision": 1.0,
+    "correct_dropped": 130
+   },
+   {
+    "threshold": 2.8,
+    "kept": 14,
+    "precision": 1.0,
+    "correct_dropped": 132
+   },
+   {
+    "threshold": 2.9,
+    "kept": 13,
+    "precision": 1.0,
+    "correct_dropped": 133
+   },
+   {
+    "threshold": 3.2,
+    "kept": 12,
+    "precision": 1.0,
+    "correct_dropped": 134
+   },
+   {
+    "threshold": 3.5,
+    "kept": 11,
+    "precision": 1.0,
+    "correct_dropped": 135
+   },
+   {
+    "threshold": 3.6,
+    "kept": 10,
+    "precision": 1.0,
+    "correct_dropped": 136
+   },
+   {
+    "threshold": 3.7,
+    "kept": 9,
+    "precision": 1.0,
+    "correct_dropped": 137
+   },
+   {
+    "threshold": 3.8,
+    "kept": 8,
+    "precision": 1.0,
+    "correct_dropped": 138
+   },
+   {
+    "threshold": 4.4,
+    "kept": 7,
+    "precision": 1.0,
+    "correct_dropped": 139
+   },
+   {
+    "threshold": 4.7,
+    "kept": 6,
+    "precision": 1.0,
+    "correct_dropped": 140
+   },
+   {
+    "threshold": 4.8,
+    "kept": 5,
+    "precision": 1.0,
+    "correct_dropped": 141
+   },
+   {
+    "threshold": 4.9,
+    "kept": 4,
+    "precision": 1.0,
+    "correct_dropped": 142
+   },
+   {
+    "threshold": 5.3,
+    "kept": 2,
+    "precision": 1.0,
+    "correct_dropped": 144
+   },
+   {
+    "threshold": 5.4,
+    "kept": 1,
+    "precision": 1.0,
+    "correct_dropped": 145
+   }
+  ]
+ },
+ "labelled_rows": [
+  {
+   "target_id": "page-0013-50049db49e8b:e1#topic",
+   "decision": "accepted",
+   "logit": 6.37790584564209,
+   "margin": 5.331758260726929,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0013-50049db49e8b:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -4.178041934967041,
+   "margin": 0.8502917289733887,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-0104-9aaa833a4643:e1#topic",
+   "decision": "accepted",
+   "logit": -2.75820255279541,
+   "margin": 0.8130755424499512,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0115-9730fa72203a:e1#topic",
+   "decision": "accepted",
+   "logit": 3.2358336448669434,
+   "margin": 0.08192229270935059,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-0217-7dc36e3a55f8:e1#topic",
+   "decision": "accepted",
+   "logit": 14.053674697875977,
+   "margin": 11.386482000350952,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0217-7dc36e3a55f8:e1#subtopic",
+   "decision": "no_match",
+   "logit": -4.987524032592773,
+   "margin": 1.1264781951904297,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0220-f28b3445b235:e1#topic",
+   "decision": "accepted",
+   "logit": 0.2914349436759949,
+   "margin": 1.1348518133163452,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0220-f28b3445b235:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -3.4488086700439453,
+   "margin": 0.17875051498413086,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-0247-cb5b8fd3e311:e1#topic",
+   "decision": "accepted",
+   "logit": 14.352372169494629,
+   "margin": 14.05277144908905,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0247-cb5b8fd3e311:e1#subtopic",
+   "decision": "accepted",
+   "logit": -3.7328131198883057,
+   "margin": 0.4900472164154053,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e1#topic",
+   "decision": "accepted",
+   "logit": -0.045543372631073,
+   "margin": 4.368369400501251,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -4.102292060852051,
+   "margin": 0.10702896118164062,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e2#topic",
+   "decision": "uncertain",
+   "logit": -4.059683322906494,
+   "margin": 1.262190341949463,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e3#topic",
+   "decision": "uncertain",
+   "logit": -5.097552299499512,
+   "margin": 0.3617839813232422,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e4#topic",
+   "decision": "accepted",
+   "logit": -3.363175392150879,
+   "margin": 1.1584415435791016,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e5#topic",
+   "decision": "uncertain",
+   "logit": -4.427805423736572,
+   "margin": 0.48151254653930664,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e6#topic",
+   "decision": "accepted",
+   "logit": 2.8391449451446533,
+   "margin": 4.241471886634827,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e7#topic",
+   "decision": "accepted",
+   "logit": -1.3288471698760986,
+   "margin": 4.089646577835083,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0251-69952e7c4a0f:e8#topic",
+   "decision": "accepted",
+   "logit": 0.8801344633102417,
+   "margin": 1.9789555072784424,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0257-012cf5a82a33:e1#topic",
+   "decision": "accepted",
+   "logit": 9.650257110595703,
+   "margin": 8.700382709503174,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e1#topic",
+   "decision": "accepted",
+   "logit": 5.422234535217285,
+   "margin": 8.225716590881348,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.16637659072876,
+   "margin": 0.5496096611022949,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e2#topic",
+   "decision": "uncertain",
+   "logit": -3.5198307037353516,
+   "margin": 0.1759042739868164,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e3#topic",
+   "decision": "accepted",
+   "logit": 0.08432161808013916,
+   "margin": 1.9274320602416992,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e4#topic",
+   "decision": "accepted",
+   "logit": -1.9752802848815918,
+   "margin": 0.43485474586486816,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0258-631a7ae7df34:e5#topic",
+   "decision": "accepted",
+   "logit": -1.2921953201293945,
+   "margin": 1.3306989669799805,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0261-881563669b04:e1#topic",
+   "decision": "accepted",
+   "logit": 10.378560066223145,
+   "margin": 8.433342814445496,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0266-dfbe51d09127:e1#topic",
+   "decision": "accepted",
+   "logit": 4.0316667556762695,
+   "margin": 1.188751220703125,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-0266-dfbe51d09127:e1#subtopic",
+   "decision": "accepted",
+   "logit": -2.550185441970825,
+   "margin": 0.7827484607696533,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0268-4f70fe5dafd6:e1#topic",
+   "decision": "accepted",
+   "logit": 6.415505409240723,
+   "margin": 5.143597602844238,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0268-4f70fe5dafd6:e1#subtopic",
+   "decision": "no_match",
+   "logit": -4.5501708984375,
+   "margin": 0.784642219543457,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0318-9d0e08d8ed22:e1#topic",
+   "decision": "accepted",
+   "logit": 3.33912992477417,
+   "margin": 7.201348304748535,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0318-9d0e08d8ed22:e1#subtopic",
+   "decision": "accepted",
+   "logit": -4.584441184997559,
+   "margin": 0.07798099517822266,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0383-018fb71412b2:e1#topic",
+   "decision": "accepted",
+   "logit": 5.589951038360596,
+   "margin": 4.537819147109985,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0383-018fb71412b2:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -4.908726215362549,
+   "margin": 0.8889951705932617,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-0403-44f912e1c323:e1#topic",
+   "decision": "accepted",
+   "logit": 12.225447654724121,
+   "margin": 15.666377067565918,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0403-44f912e1c323:e1#subtopic",
+   "decision": "no_match",
+   "logit": -5.059245586395264,
+   "margin": 0.07949686050415039,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0473-4ab88a7103cd:e1#topic",
+   "decision": "accepted",
+   "logit": 7.883419990539551,
+   "margin": 8.789071440696716,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0473-4ab88a7103cd:e1#subtopic",
+   "decision": "no_match",
+   "logit": -4.59482479095459,
+   "margin": 0.08727312088012695,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0493-29246f4d055a:e1#topic",
+   "decision": "accepted",
+   "logit": -0.37350916862487793,
+   "margin": 4.334465742111206,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0493-29246f4d055a:e2#topic",
+   "decision": "accepted",
+   "logit": 4.495930194854736,
+   "margin": 7.609372854232788,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0493-29246f4d055a:e3#topic",
+   "decision": "accepted",
+   "logit": 2.954179048538208,
+   "margin": 4.879793763160706,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0499-5eb663c6a072:e1#topic",
+   "decision": "accepted",
+   "logit": 1.0133641958236694,
+   "margin": 2.4913508892059326,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0499-5eb663c6a072:e1#subtopic",
+   "decision": "accepted",
+   "logit": -4.058646202087402,
+   "margin": 0.3275318145751953,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0513-b5d3417f845a:e1#topic",
+   "decision": "accepted",
+   "logit": 1.5724740028381348,
+   "margin": 5.0366761684417725,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e1#topic",
+   "decision": "no_match",
+   "logit": -6.794464588165283,
+   "margin": 0.19499540328979492,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e2#topic",
+   "decision": "no_match",
+   "logit": -6.264627456665039,
+   "margin": 0.018768310546875,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e3#topic",
+   "decision": "no_match",
+   "logit": -7.400790691375732,
+   "margin": 0.05574941635131836,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e4#topic",
+   "decision": "uncertain",
+   "logit": -3.5825929641723633,
+   "margin": 0.12343883514404297,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e5#topic",
+   "decision": "accepted",
+   "logit": -1.2509448528289795,
+   "margin": 2.4884414672851562,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e6#topic",
+   "decision": "accepted",
+   "logit": -3.4799609184265137,
+   "margin": 0.7708492279052734,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e7#topic",
+   "decision": "accepted",
+   "logit": -2.695021390914917,
+   "margin": 2.2630155086517334,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e8#topic",
+   "decision": "uncertain",
+   "logit": -4.1435747146606445,
+   "margin": 2.104917526245117,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e9#topic",
+   "decision": "accepted",
+   "logit": 0.507713258266449,
+   "margin": 5.6870006918907166,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e10#topic",
+   "decision": "accepted",
+   "logit": -1.6112661361694336,
+   "margin": 2.4289984703063965,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e11#topic",
+   "decision": "uncertain",
+   "logit": -3.1648507118225098,
+   "margin": 0.5468800067901611,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e12#topic",
+   "decision": "uncertain",
+   "logit": -5.55391788482666,
+   "margin": 0.04334402084350586,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e13#topic",
+   "decision": "uncertain",
+   "logit": -5.8030805587768555,
+   "margin": 0.8996667861938477,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e14#topic",
+   "decision": "no_match",
+   "logit": -4.891862392425537,
+   "margin": 0.20710134506225586,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e15#topic",
+   "decision": "uncertain",
+   "logit": -4.3462042808532715,
+   "margin": 0.42243146896362305,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e16#topic",
+   "decision": "accepted",
+   "logit": -3.0107486248016357,
+   "margin": 1.475095510482788,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e17#topic",
+   "decision": "accepted",
+   "logit": 1.662580132484436,
+   "margin": 1.847587525844574,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0523-a583606e375a:e18#topic",
+   "decision": "accepted",
+   "logit": -1.4499125480651855,
+   "margin": 0.04535627365112305,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e1#topic",
+   "decision": "no_match",
+   "logit": -7.288306713104248,
+   "margin": 0.11884641647338867,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e2#topic",
+   "decision": "no_match",
+   "logit": -6.5038743019104,
+   "margin": 0.8001627922058105,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e3#topic",
+   "decision": "accepted",
+   "logit": -2.1717755794525146,
+   "margin": 2.7740561962127686,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e4#topic",
+   "decision": "accepted",
+   "logit": -0.8398818969726562,
+   "margin": 2.8081858158111572,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e5#topic",
+   "decision": "uncertain",
+   "logit": -5.979887962341309,
+   "margin": 0.17702102661132812,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e6#topic",
+   "decision": "accepted",
+   "logit": 0.8294801712036133,
+   "margin": 2.5081803798675537,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e7#topic",
+   "decision": "uncertain",
+   "logit": -2.3755290508270264,
+   "margin": 0.8892183303833008,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e8#topic",
+   "decision": "accepted",
+   "logit": -1.8898732662200928,
+   "margin": 3.6295416355133057,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e9#topic",
+   "decision": "uncertain",
+   "logit": -4.056907653808594,
+   "margin": 1.2913594245910645,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e10#topic",
+   "decision": "accepted",
+   "logit": -1.4880695343017578,
+   "margin": 4.699923992156982,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e11#topic",
+   "decision": "uncertain",
+   "logit": -5.330631732940674,
+   "margin": 1.1936688423156738,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0560-c458f594fc79:e12#topic",
+   "decision": "accepted",
+   "logit": 0.16310948133468628,
+   "margin": 3.308004081249237,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e1#topic",
+   "decision": "uncertain",
+   "logit": -5.453848838806152,
+   "margin": 0.4807000160217285,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e2#topic",
+   "decision": "accepted",
+   "logit": 0.8350234031677246,
+   "margin": 4.958294868469238,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e3#topic",
+   "decision": "no_match",
+   "logit": -7.273491382598877,
+   "margin": 0.2645382881164551,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-0563-d12ce09577cd:e4#topic",
+   "decision": "accepted",
+   "logit": -2.3431270122528076,
+   "margin": 1.2242863178253174,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e1#topic",
+   "decision": "accepted",
+   "logit": 9.105457305908203,
+   "margin": 1.917525291442871,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e2#topic",
+   "decision": "accepted",
+   "logit": 3.6716740131378174,
+   "margin": 4.264172315597534,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e3#topic",
+   "decision": "accepted",
+   "logit": 0.6264370083808899,
+   "margin": 1.9951630234718323,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e4#topic",
+   "decision": "accepted",
+   "logit": 0.44890499114990234,
+   "margin": 1.1903984546661377,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0604-c50a825dd732:e5#topic",
+   "decision": "accepted",
+   "logit": 4.77427864074707,
+   "margin": 4.778321921825409,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0611-4a137a2c6b07:e1#topic",
+   "decision": "accepted",
+   "logit": -3.9207022190093994,
+   "margin": 1.121049165725708,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0611-4a137a2c6b07:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.228092670440674,
+   "margin": 0.005631446838378906,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0681-c2be06f2d615:e1#topic",
+   "decision": "accepted",
+   "logit": 7.018780708312988,
+   "margin": 8.292003154754639,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0681-c2be06f2d615:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -3.242574691772461,
+   "margin": 0.26170897483825684,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e1#topic",
+   "decision": "accepted",
+   "logit": 10.14169692993164,
+   "margin": 9.650516510009766,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e2#topic",
+   "decision": "accepted",
+   "logit": 5.407964706420898,
+   "margin": 7.510663270950317,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e3#topic",
+   "decision": "accepted",
+   "logit": 0.7076215744018555,
+   "margin": 4.6507532596588135,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e4#topic",
+   "decision": "accepted",
+   "logit": 2.3977742195129395,
+   "margin": 6.294661998748779,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e5#topic",
+   "decision": "uncertain",
+   "logit": -4.645269393920898,
+   "margin": 1.6767244338989258,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e6#topic",
+   "decision": "accepted",
+   "logit": 2.086984634399414,
+   "margin": 4.083313703536987,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e7#topic",
+   "decision": "accepted",
+   "logit": 1.1178895235061646,
+   "margin": 4.355193257331848,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0713-3db0c66f81f4:e8#topic",
+   "decision": "accepted",
+   "logit": 0.07495364546775818,
+   "margin": 1.672193855047226,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0756-33eb91fcbe8d:e1#topic",
+   "decision": "accepted",
+   "logit": 8.01402473449707,
+   "margin": 8.11426031589508,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0756-33eb91fcbe8d:e1#subtopic",
+   "decision": "accepted",
+   "logit": -4.31999397277832,
+   "margin": 0.6241245269775391,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0851-6e2a0b999324:e1#topic",
+   "decision": "accepted",
+   "logit": 9.410511016845703,
+   "margin": 10.66480016708374,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0851-6e2a0b999324:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.711879253387451,
+   "margin": 0.008504390716552734,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0914-28ee06f6b377:e1#topic",
+   "decision": "accepted",
+   "logit": 1.6042020320892334,
+   "margin": 3.208540201187134,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0944-3e9ba80e3606:e1#topic",
+   "decision": "accepted",
+   "logit": 3.848775625228882,
+   "margin": 6.002424240112305,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-0944-3e9ba80e3606:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -6.263391971588135,
+   "margin": 0.5245981216430664,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e1#topic",
+   "decision": "accepted",
+   "logit": 8.808034896850586,
+   "margin": 7.359046936035156,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e2#topic",
+   "decision": "accepted",
+   "logit": -2.063455581665039,
+   "margin": 1.3675897121429443,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e3#topic",
+   "decision": "no_match",
+   "logit": -4.858367919921875,
+   "margin": 1.5964670181274414,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e4#topic",
+   "decision": "accepted",
+   "logit": -3.2921605110168457,
+   "margin": 1.4324274063110352,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e5#topic",
+   "decision": "accepted",
+   "logit": -3.325809955596924,
+   "margin": 2.121978759765625,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e6#topic",
+   "decision": "no_match",
+   "logit": -4.525418281555176,
+   "margin": 0.08345317840576172,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e7#topic",
+   "decision": "uncertain",
+   "logit": -4.409786224365234,
+   "margin": 0.25888490676879883,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e8#topic",
+   "decision": "no_match",
+   "logit": -7.540627956390381,
+   "margin": 0.24365806579589844,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e9#topic",
+   "decision": "accepted",
+   "logit": 0.31165337562561035,
+   "margin": 2.6859054565429688,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e10#topic",
+   "decision": "accepted",
+   "logit": 0.0789211094379425,
+   "margin": 1.8454515039920807,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e11#topic",
+   "decision": "accepted",
+   "logit": -2.9039409160614014,
+   "margin": 1.6444928646087646,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e12#topic",
+   "decision": "accepted",
+   "logit": -3.2928223609924316,
+   "margin": 1.550706386566162,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e13#topic",
+   "decision": "accepted",
+   "logit": -1.6075161695480347,
+   "margin": 3.3413702249526978,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e14#topic",
+   "decision": "no_match",
+   "logit": -7.677796840667725,
+   "margin": 0.5218958854675293,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e15#topic",
+   "decision": "accepted",
+   "logit": 1.9809162616729736,
+   "margin": 1.1923988461494446,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e16#topic",
+   "decision": "accepted",
+   "logit": -0.6763805747032166,
+   "margin": 2.8380008339881897,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1017-5395deb0e141:e17#topic",
+   "decision": "accepted",
+   "logit": -0.9453059434890747,
+   "margin": 1.5282760858535767,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1032-e28420685b47:e1#topic",
+   "decision": "uncertain",
+   "logit": -6.168142318725586,
+   "margin": 0.590019702911377,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1032-e28420685b47:e1#subtopic",
+   "decision": "accepted",
+   "logit": -4.538444995880127,
+   "margin": 0.2939491271972656,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1032-e28420685b47:e2#topic",
+   "decision": "uncertain",
+   "logit": -3.5868513584136963,
+   "margin": 0.06113743782043457,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e1#topic",
+   "decision": "accepted",
+   "logit": 8.505167007446289,
+   "margin": 7.420564889907837,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -2.69583797454834,
+   "margin": 0.25326991081237793,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e2#topic",
+   "decision": "accepted",
+   "logit": 0.022591769695281982,
+   "margin": 1.801914632320404,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e3#topic",
+   "decision": "uncertain",
+   "logit": -3.0440149307250977,
+   "margin": 1.2583694458007812,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1102-918dd1676cc2:e4#topic",
+   "decision": "accepted",
+   "logit": -0.819807767868042,
+   "margin": 0.5258874893188477,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1166-ec9dc1d6c2c9:e1#topic",
+   "decision": "accepted",
+   "logit": 6.314086437225342,
+   "margin": 3.3209478855133057,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e1#topic",
+   "decision": "accepted",
+   "logit": 16.730987548828125,
+   "margin": 14.087285041809082,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e2#topic",
+   "decision": "uncertain",
+   "logit": -2.654127836227417,
+   "margin": 0.5879957675933838,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e3#topic",
+   "decision": "uncertain",
+   "logit": -4.40849494934082,
+   "margin": 1.039994239807129,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e4#topic",
+   "decision": "accepted",
+   "logit": -2.388712167739868,
+   "margin": 3.2200710773468018,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e5#topic",
+   "decision": "uncertain",
+   "logit": -5.190003871917725,
+   "margin": 2.3982934951782227,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e6#topic",
+   "decision": "uncertain",
+   "logit": -3.8630590438842773,
+   "margin": 0.5300521850585938,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-1214-17d180a99e0a:e7#topic",
+   "decision": "accepted",
+   "logit": 4.8789215087890625,
+   "margin": 1.0971271991729736,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1250-2e0c75f85418:e1#topic",
+   "decision": "no_match",
+   "logit": -4.045214653015137,
+   "margin": 0.15095090866088867,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1250-2e0c75f85418:e1#subtopic",
+   "decision": "no_match",
+   "logit": -7.301418304443359,
+   "margin": 0.3878965377807617,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1250-2e0c75f85418:e2#topic",
+   "decision": "uncertain",
+   "logit": -2.605069637298584,
+   "margin": 1.572537899017334,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e1#topic",
+   "decision": "accepted",
+   "logit": 3.948533058166504,
+   "margin": 7.152539014816284,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e2#topic",
+   "decision": "accepted",
+   "logit": -2.5587339401245117,
+   "margin": 0.8428096771240234,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e3#topic",
+   "decision": "accepted",
+   "logit": -0.4591013789176941,
+   "margin": 0.6128576397895813,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e4#topic",
+   "decision": "uncertain",
+   "logit": -3.8394997119903564,
+   "margin": 1.7926561832427979,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e5#topic",
+   "decision": "accepted",
+   "logit": -1.6431405544281006,
+   "margin": 3.1659038066864014,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e6#topic",
+   "decision": "accepted",
+   "logit": -0.94709312915802,
+   "margin": 0.9469195604324341,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1268-e5ec9e5b4086:e7#topic",
+   "decision": "accepted",
+   "logit": -0.42962759733200073,
+   "margin": 1.256212055683136,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1284-b6a1ee180d42:e1#topic",
+   "decision": "accepted",
+   "logit": -0.8135231733322144,
+   "margin": 1.0294820070266724,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1284-b6a1ee180d42:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -3.6442224979400635,
+   "margin": 1.5687305927276611,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1298-4795a8a1d020:e1#topic",
+   "decision": "accepted",
+   "logit": 8.776577949523926,
+   "margin": 8.354114264249802,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1324-2cfbaa25a150:e1#topic",
+   "decision": "accepted",
+   "logit": 15.149881362915039,
+   "margin": 14.545887887477875,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1324-2cfbaa25a150:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.606095314025879,
+   "margin": 0.565892219543457,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e1#topic",
+   "decision": "accepted",
+   "logit": 9.005600929260254,
+   "margin": 7.421939134597778,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.3875651359558105,
+   "margin": 1.190847396850586,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e2#topic",
+   "decision": "accepted",
+   "logit": -0.5707630515098572,
+   "margin": 2.4224053025245667,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e3#topic",
+   "decision": "accepted",
+   "logit": -0.7952646017074585,
+   "margin": 3.287580132484436,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e4#topic",
+   "decision": "uncertain",
+   "logit": -5.015166759490967,
+   "margin": 0.05762910842895508,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e5#topic",
+   "decision": "accepted",
+   "logit": -0.08268231153488159,
+   "margin": 3.0097442269325256,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e6#topic",
+   "decision": "accepted",
+   "logit": 1.4631413221359253,
+   "margin": 4.018020033836365,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e7#topic",
+   "decision": "uncertain",
+   "logit": -2.8985278606414795,
+   "margin": 0.837334394454956,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e8#topic",
+   "decision": "accepted",
+   "logit": -0.12139904499053955,
+   "margin": 3.2319380044937134,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e9#topic",
+   "decision": "accepted",
+   "logit": 0.16919907927513123,
+   "margin": 3.9619167745113373,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1327-7d41b1db21d5:e10#topic",
+   "decision": "accepted",
+   "logit": 2.0659914016723633,
+   "margin": 5.186632394790649,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e1#topic",
+   "decision": "accepted",
+   "logit": 1.246588945388794,
+   "margin": 3.6545701026916504,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.469313621520996,
+   "margin": 0.40473222732543945,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e2#topic",
+   "decision": "no_match",
+   "logit": -5.021826267242432,
+   "margin": 1.2632827758789062,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e3#topic",
+   "decision": "accepted",
+   "logit": -1.8713831901550293,
+   "margin": 2.3019514083862305,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e4#topic",
+   "decision": "uncertain",
+   "logit": -4.116146564483643,
+   "margin": 2.424583911895752,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1344-b5c2505d4784:e5#topic",
+   "decision": "uncertain",
+   "logit": -3.8228113651275635,
+   "margin": 0.20070862770080566,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1415-d28d11d04726:e1#topic",
+   "decision": "accepted",
+   "logit": 1.8187360763549805,
+   "margin": 4.487789630889893,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1415-d28d11d04726:e1#subtopic",
+   "decision": "no_match",
+   "logit": -5.297695159912109,
+   "margin": 0.1600475311279297,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1422-8d39d99af992:e1#topic",
+   "decision": "accepted",
+   "logit": 2.0144572257995605,
+   "margin": 3.4943275451660156,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1430-4405fefdf7b6:e1#topic",
+   "decision": "accepted",
+   "logit": 3.567728042602539,
+   "margin": 2.957233190536499,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1430-4405fefdf7b6:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -4.875196933746338,
+   "margin": 0.5739932060241699,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1466-bb41810e6962:e1#topic",
+   "decision": "uncertain",
+   "logit": -2.0800602436065674,
+   "margin": 0.016565799713134766,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e1#topic",
+   "decision": "accepted",
+   "logit": -2.912930965423584,
+   "margin": 1.0710480213165283,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e2#topic",
+   "decision": "accepted",
+   "logit": 1.474731683731079,
+   "margin": 1.8400114178657532,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e3#topic",
+   "decision": "accepted",
+   "logit": -0.7570865750312805,
+   "margin": 2.7185980677604675,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e4#topic",
+   "decision": "uncertain",
+   "logit": -2.1923744678497314,
+   "margin": 0.10058856010437012,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e5#topic",
+   "decision": "accepted",
+   "logit": 2.638038158416748,
+   "margin": 5.993434429168701,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e6#topic",
+   "decision": "accepted",
+   "logit": -0.3070096969604492,
+   "margin": 3.927659034729004,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e7#topic",
+   "decision": "uncertain",
+   "logit": -3.0234577655792236,
+   "margin": 1.9896647930145264,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1473-b3b602ef6a3d:e8#topic",
+   "decision": "accepted",
+   "logit": 2.2266855239868164,
+   "margin": 3.182197690010071,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1580-e0bdcd3f241e:e1#topic",
+   "decision": "accepted",
+   "logit": 11.999165534973145,
+   "margin": 11.052731692790985,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e1#topic",
+   "decision": "accepted",
+   "logit": 8.714763641357422,
+   "margin": 7.643991231918335,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -4.429776668548584,
+   "margin": 0.1121969223022461,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e2#topic",
+   "decision": "uncertain",
+   "logit": -3.520019054412842,
+   "margin": 2.6369071006774902,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e3#topic",
+   "decision": "accepted",
+   "logit": 0.929398775100708,
+   "margin": 1.4373813271522522,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e4#topic",
+   "decision": "uncertain",
+   "logit": -3.8159024715423584,
+   "margin": 1.564720869064331,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e5#topic",
+   "decision": "accepted",
+   "logit": -1.380725383758545,
+   "margin": 0.9748644828796387,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e6#topic",
+   "decision": "uncertain",
+   "logit": -3.6964142322540283,
+   "margin": 1.5895779132843018,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e7#topic",
+   "decision": "uncertain",
+   "logit": -3.5461463928222656,
+   "margin": 1.5579299926757812,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e8#topic",
+   "decision": "accepted",
+   "logit": 4.949731826782227,
+   "margin": 6.967170000076294,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e9#topic",
+   "decision": "accepted",
+   "logit": 5.360100746154785,
+   "margin": 3.879227876663208,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1614-ea352b487d65:e10#topic",
+   "decision": "accepted",
+   "logit": 0.5557984113693237,
+   "margin": 2.736613631248474,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1649-e6a1fc569876:e1#topic",
+   "decision": "accepted",
+   "logit": 10.543336868286133,
+   "margin": 9.599312543869019,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e1#topic",
+   "decision": "accepted",
+   "logit": 13.541423797607422,
+   "margin": 10.282131910324097,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e1#subtopic",
+   "decision": "accepted",
+   "logit": -4.487824440002441,
+   "margin": 0.118438720703125,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e2#topic",
+   "decision": "uncertain",
+   "logit": -3.782135486602783,
+   "margin": 0.44535255432128906,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e3#topic",
+   "decision": "accepted",
+   "logit": 0.5432881116867065,
+   "margin": 2.625710368156433,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1670-ced69857efba:e4#topic",
+   "decision": "accepted",
+   "logit": -3.19252347946167,
+   "margin": 0.07458329200744629,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1678-75b494c1b4fb:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -2.2529990673065186,
+   "margin": 0.3048274517059326,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1680-fbb4a5fde0c2:e1#topic",
+   "decision": "accepted",
+   "logit": 10.805065155029297,
+   "margin": 11.645795345306396,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1680-fbb4a5fde0c2:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.076544761657715,
+   "margin": 0.13663673400878906,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1722-bda8f6e99dca:e1#topic",
+   "decision": "accepted",
+   "logit": -0.3748737573623657,
+   "margin": 3.4959245920181274,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1722-bda8f6e99dca:e1#subtopic",
+   "decision": "accepted",
+   "logit": -2.996408224105835,
+   "margin": 0.8111813068389893,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1765-1e78e19e88aa:e1#topic",
+   "decision": "accepted",
+   "logit": 7.4254150390625,
+   "margin": 4.6311492919921875,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1803-0b6da50e5c8a:e1#topic",
+   "decision": "accepted",
+   "logit": 12.073534965515137,
+   "margin": 11.120609879493713,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e1#topic",
+   "decision": "accepted",
+   "logit": 0.38315635919570923,
+   "margin": 2.878200352191925,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e1#subtopic",
+   "decision": "no_match",
+   "logit": -9.94443130493164,
+   "margin": 0.09514045715332031,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e2#topic",
+   "decision": "uncertain",
+   "logit": -3.357917308807373,
+   "margin": 1.2354536056518555,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e3#topic",
+   "decision": "no_match",
+   "logit": -4.557422161102295,
+   "margin": 0.39997196197509766,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1805-226885408318:e4#topic",
+   "decision": "uncertain",
+   "logit": -5.147190570831299,
+   "margin": 0.4366006851196289,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e5#topic",
+   "decision": "accepted",
+   "logit": 3.2118446826934814,
+   "margin": 4.80702817440033,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e6#topic",
+   "decision": "accepted",
+   "logit": -1.94497811794281,
+   "margin": 1.8869823217391968,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e7#topic",
+   "decision": "uncertain",
+   "logit": -5.5113396644592285,
+   "margin": 0.41639232635498047,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e8#topic",
+   "decision": "uncertain",
+   "logit": -3.7426891326904297,
+   "margin": 0.0214078426361084,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e9#topic",
+   "decision": "accepted",
+   "logit": -2.6174092292785645,
+   "margin": 2.9906134605407715,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e10#topic",
+   "decision": "accepted",
+   "logit": -3.085909366607666,
+   "margin": 1.4936704635620117,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e11#topic",
+   "decision": "no_match",
+   "logit": -6.274024963378906,
+   "margin": 0.1603531837463379,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-1805-226885408318:e12#topic",
+   "decision": "uncertain",
+   "logit": -4.1820783615112305,
+   "margin": 1.9099617004394531,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e13#topic",
+   "decision": "accepted",
+   "logit": -0.7696287631988525,
+   "margin": 0.7904287576675415,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1805-226885408318:e14#topic",
+   "decision": "uncertain",
+   "logit": -5.701925277709961,
+   "margin": 0.4755268096923828,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e15#topic",
+   "decision": "accepted",
+   "logit": -2.0764212608337402,
+   "margin": 0.34136080741882324,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1805-226885408318:e16#topic",
+   "decision": "uncertain",
+   "logit": -4.312380790710449,
+   "margin": 0.02064657211303711,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1805-226885408318:e17#topic",
+   "decision": "uncertain",
+   "logit": -2.4049243927001953,
+   "margin": 0.08078527450561523,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1818-e6693d1961ef:e1#topic",
+   "decision": "accepted",
+   "logit": 5.82893180847168,
+   "margin": 9.007097721099854,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1828-9ca50fbf1eeb:e1#topic",
+   "decision": "accepted",
+   "logit": 3.0500924587249756,
+   "margin": 1.920902967453003,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1904-759854fd95bb:e1#topic",
+   "decision": "accepted",
+   "logit": 2.619948625564575,
+   "margin": 2.6997060775756836,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1904-759854fd95bb:e1#subtopic",
+   "decision": "no_match",
+   "logit": -5.034721374511719,
+   "margin": 0.5652165412902832,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1910-f4723acc1771:e1#topic",
+   "decision": "accepted",
+   "logit": 5.233044147491455,
+   "margin": 6.466028928756714,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1910-f4723acc1771:e1#subtopic",
+   "decision": "accepted",
+   "logit": -3.714646816253662,
+   "margin": 0.01949000358581543,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1933-ae507137e9dc:e1#topic",
+   "decision": "accepted",
+   "logit": 0.26258617639541626,
+   "margin": 1.7480903267860413,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1933-ae507137e9dc:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -3.94177508354187,
+   "margin": 0.8897531032562256,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-1939-0f50bb0b2f40:e1#topic",
+   "decision": "accepted",
+   "logit": 9.302482604980469,
+   "margin": 11.050942659378052,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1939-0f50bb0b2f40:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -3.7469847202301025,
+   "margin": 0.40877413749694824,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1942-99b5dc3b4c6c:e1#topic",
+   "decision": "accepted",
+   "logit": 9.833115577697754,
+   "margin": 11.160186529159546,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1942-99b5dc3b4c6c:e1#subtopic",
+   "decision": "no_match",
+   "logit": -5.967675685882568,
+   "margin": 0.06446218490600586,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-1945-d877e2c0e7d6:e1#topic",
+   "decision": "accepted",
+   "logit": 9.410511016845703,
+   "margin": 10.34409612417221,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-1945-d877e2c0e7d6:e1#subtopic",
+   "decision": "accepted",
+   "logit": -4.6757402420043945,
+   "margin": 0.9240827560424805,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e1#topic",
+   "decision": "accepted",
+   "logit": 7.264479637145996,
+   "margin": 7.470639765262604,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e2#topic",
+   "decision": "no_match",
+   "logit": -5.428203105926514,
+   "margin": 0.01941680908203125,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e3#topic",
+   "decision": "no_match",
+   "logit": -6.803930282592773,
+   "margin": 0.20495986938476562,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e4#topic",
+   "decision": "accepted",
+   "logit": 1.0052379369735718,
+   "margin": 2.481758713722229,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e5#topic",
+   "decision": "accepted",
+   "logit": -3.4294676780700684,
+   "margin": 0.9397621154785156,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2001-93040a5ab362:e6#topic",
+   "decision": "accepted",
+   "logit": 3.7195377349853516,
+   "margin": 4.632927238941193,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2051-588566464df4:e1#topic",
+   "decision": "accepted",
+   "logit": 4.329029083251953,
+   "margin": 1.2800679206848145,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2051-588566464df4:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -2.58516526222229,
+   "margin": 1.1014313697814941,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2087-4b834c6b315d:e1#topic",
+   "decision": "accepted",
+   "logit": -0.9609904289245605,
+   "margin": 1.5251719951629639,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2093-4b43bdcc663f:e1#topic",
+   "decision": "uncertain",
+   "logit": -1.5523571968078613,
+   "margin": 0.3505133390426636,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2093-4b43bdcc663f:e1#subtopic",
+   "decision": "accepted",
+   "logit": -3.4938056468963623,
+   "margin": 0.20956921577453613,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-2108-6874128a519b:e1#topic",
+   "decision": "accepted",
+   "logit": 0.9885639548301697,
+   "margin": 2.830291211605072,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2108-6874128a519b:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -3.7880313396453857,
+   "margin": 0.4560081958770752,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2131-f30c24bfdf3b:e1#topic",
+   "decision": "accepted",
+   "logit": -1.3318867683410645,
+   "margin": 0.4994927644729614,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2131-f30c24bfdf3b:e1#subtopic",
+   "decision": "no_match",
+   "logit": -5.697356224060059,
+   "margin": 0.12502241134643555,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2155-e6a255b57f58:e1#topic",
+   "decision": "uncertain",
+   "logit": -2.5596811771392822,
+   "margin": 0.07331728935241699,
+   "group": "topic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2155-e6a255b57f58:e1#subtopic",
+   "decision": "no_match",
+   "logit": -4.514163494110107,
+   "margin": 0.22801589965820312,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e1#topic",
+   "decision": "accepted",
+   "logit": 0.03755795955657959,
+   "margin": 4.1682785749435425,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e2#topic",
+   "decision": "accepted",
+   "logit": -2.3895604610443115,
+   "margin": 0.5933663845062256,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e3#topic",
+   "decision": "uncertain",
+   "logit": -5.4027605056762695,
+   "margin": 1.6467089653015137,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e4#topic",
+   "decision": "accepted",
+   "logit": -1.3947932720184326,
+   "margin": 5.858593225479126,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e5#topic",
+   "decision": "accepted",
+   "logit": 1.1919227838516235,
+   "margin": 1.9825090765953064,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e6#topic",
+   "decision": "accepted",
+   "logit": -2.019291877746582,
+   "margin": 1.253295660018921,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e7#topic",
+   "decision": "accepted",
+   "logit": -3.2256202697753906,
+   "margin": 2.348705768585205,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e8#topic",
+   "decision": "no_match",
+   "logit": -6.747308731079102,
+   "margin": 0.05518388748168945,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e9#topic",
+   "decision": "accepted",
+   "logit": -0.44066542387008667,
+   "margin": 2.839524805545807,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e10#topic",
+   "decision": "accepted",
+   "logit": 0.3366484045982361,
+   "margin": 3.9009284377098083,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e11#topic",
+   "decision": "accepted",
+   "logit": 2.196282148361206,
+   "margin": 4.072012186050415,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e12#topic",
+   "decision": "uncertain",
+   "logit": -5.221195220947266,
+   "margin": 0.3671736717224121,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e13#topic",
+   "decision": "accepted",
+   "logit": 0.42152878642082214,
+   "margin": 1.3597770035266876,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2171-f8869fa95f19:e14#topic",
+   "decision": "accepted",
+   "logit": 0.5413431525230408,
+   "margin": 2.3481914401054382,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e1#topic",
+   "decision": "accepted",
+   "logit": 5.894110679626465,
+   "margin": 9.343555688858032,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.123357772827148,
+   "margin": 2.0153961181640625,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e2#topic",
+   "decision": "accepted",
+   "logit": 2.627673625946045,
+   "margin": 4.217078924179077,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e3#topic",
+   "decision": "accepted",
+   "logit": -1.5659199953079224,
+   "margin": 0.9527429342269897,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e4#topic",
+   "decision": "accepted",
+   "logit": 0.9004244804382324,
+   "margin": 1.9596259593963623,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e5#topic",
+   "decision": "accepted",
+   "logit": -2.0522890090942383,
+   "margin": 1.8083817958831787,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e6#topic",
+   "decision": "accepted",
+   "logit": -0.24030154943466187,
+   "margin": 3.752165138721466,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e7#topic",
+   "decision": "accepted",
+   "logit": 0.3552262783050537,
+   "margin": 2.4543936252593994,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e8#topic",
+   "decision": "uncertain",
+   "logit": -4.866315841674805,
+   "margin": 0.663459300994873,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e9#topic",
+   "decision": "accepted",
+   "logit": -2.2815585136413574,
+   "margin": 3.8184967041015625,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e10#topic",
+   "decision": "uncertain",
+   "logit": -4.453680992126465,
+   "margin": 0.0836181640625,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e11#topic",
+   "decision": "accepted",
+   "logit": -1.5725805759429932,
+   "margin": 2.5191757678985596,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e12#topic",
+   "decision": "uncertain",
+   "logit": -5.576544284820557,
+   "margin": 0.6361923217773438,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-2250-75315f455009:e13#topic",
+   "decision": "uncertain",
+   "logit": -5.345235824584961,
+   "margin": 0.6986551284790039,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e14#topic",
+   "decision": "accepted",
+   "logit": -0.9721277356147766,
+   "margin": 2.093469798564911,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e15#topic",
+   "decision": "accepted",
+   "logit": 3.81902813911438,
+   "margin": 4.781334757804871,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2250-75315f455009:e16#topic",
+   "decision": "no_match",
+   "logit": -5.353543281555176,
+   "margin": 1.1490874290466309,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2277-cdde2fc730b9:e1#topic",
+   "decision": "accepted",
+   "logit": 11.319384574890137,
+   "margin": 10.459144711494446,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2277-cdde2fc730b9:e1#subtopic",
+   "decision": "accepted",
+   "logit": -0.9654428958892822,
+   "margin": 0.5514471530914307,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2296-487afb796c01:e1#subtopic",
+   "decision": "no_match",
+   "logit": -5.179920196533203,
+   "margin": 0.213104248046875,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2307-4ce2ea50e9d2:e1#topic",
+   "decision": "accepted",
+   "logit": 3.639758825302124,
+   "margin": 5.36770486831665,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2307-4ce2ea50e9d2:e1#subtopic",
+   "decision": "accepted",
+   "logit": -1.8625688552856445,
+   "margin": 2.8954787254333496,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2402-5030b31ea901:e1#topic",
+   "decision": "accepted",
+   "logit": 11.319384574890137,
+   "margin": 10.459144711494446,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2402-5030b31ea901:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.9609222412109375,
+   "margin": 0.6050472259521484,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2424-dd2506be16cf:e1#topic",
+   "decision": "accepted",
+   "logit": 6.515888214111328,
+   "margin": 6.108289897441864,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2424-dd2506be16cf:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -4.450934886932373,
+   "margin": 1.182009220123291,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2446-692d680df6a9:e1#topic",
+   "decision": "accepted",
+   "logit": 10.26961898803711,
+   "margin": 9.916061878204346,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2446-692d680df6a9:e1#subtopic",
+   "decision": "accepted",
+   "logit": -3.9314823150634766,
+   "margin": 0.641932487487793,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2448-f5e4884f245d:e1#topic",
+   "decision": "uncertain",
+   "logit": -4.4867048263549805,
+   "margin": 0.7229137420654297,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-2448-f5e4884f245d:e1#subtopic",
+   "decision": "no_match",
+   "logit": -4.8070855140686035,
+   "margin": 0.28315162658691406,
+   "group": "subtopic/continuation",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e1#topic",
+   "decision": "accepted",
+   "logit": 7.110535621643066,
+   "margin": 4.993881702423096,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e1#subtopic",
+   "decision": "accepted",
+   "logit": -3.3532159328460693,
+   "margin": 0.21557068824768066,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e2#topic",
+   "decision": "accepted",
+   "logit": -2.416668653488159,
+   "margin": 0.8746681213378906,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e3#topic",
+   "decision": "no_match",
+   "logit": -7.443353652954102,
+   "margin": 0.40401506423950195,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e4#topic",
+   "decision": "uncertain",
+   "logit": -4.1217851638793945,
+   "margin": 0.3774738311767578,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e5#topic",
+   "decision": "accepted",
+   "logit": -3.3550877571105957,
+   "margin": 4.403564453125,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e6#topic",
+   "decision": "accepted",
+   "logit": -1.9479588270187378,
+   "margin": 3.2654420137405396,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e7#topic",
+   "decision": "accepted",
+   "logit": 0.1552637219429016,
+   "margin": 3.196862757205963,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e8#topic",
+   "decision": "uncertain",
+   "logit": -3.7968082427978516,
+   "margin": 1.7670354843139648,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e9#topic",
+   "decision": "accepted",
+   "logit": -0.920638918876648,
+   "margin": 4.260618329048157,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e10#topic",
+   "decision": "accepted",
+   "logit": -3.202507257461548,
+   "margin": 2.3763301372528076,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2464-24f450326eee:e11#topic",
+   "decision": "no_match",
+   "logit": -6.334672451019287,
+   "margin": 0.08534765243530273,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e1#topic",
+   "decision": "accepted",
+   "logit": 4.281192779541016,
+   "margin": 5.767824172973633,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e2#topic",
+   "decision": "no_match",
+   "logit": -6.582620143890381,
+   "margin": 0.036228179931640625,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e3#topic",
+   "decision": "accepted",
+   "logit": -0.007230222225189209,
+   "margin": 3.559575617313385,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e4#topic",
+   "decision": "uncertain",
+   "logit": -2.0355074405670166,
+   "margin": 0.9000999927520752,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": false
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e5#topic",
+   "decision": "accepted",
+   "logit": -2.8508551120758057,
+   "margin": 2.090073823928833,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e6#topic",
+   "decision": "accepted",
+   "logit": -1.95491623878479,
+   "margin": 1.7247483730316162,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e7#topic",
+   "decision": "accepted",
+   "logit": -1.0594077110290527,
+   "margin": 0.829232931137085,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e8#topic",
+   "decision": "accepted",
+   "logit": 4.954366683959961,
+   "margin": 8.275726795196533,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e9#topic",
+   "decision": "accepted",
+   "logit": -1.4602946043014526,
+   "margin": 1.5540047883987427,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e10#topic",
+   "decision": "accepted",
+   "logit": -0.5172634124755859,
+   "margin": 2.6084001064300537,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e11#topic",
+   "decision": "accepted",
+   "logit": 3.8270328044891357,
+   "margin": 9.405341863632202,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e12#topic",
+   "decision": "accepted",
+   "logit": -1.0055526494979858,
+   "margin": 2.6261688470840454,
+   "group": "topic/headword",
+   "titled": false,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e13#topic",
+   "decision": "accepted",
+   "logit": 3.52980637550354,
+   "margin": 5.711254596710205,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e14#topic",
+   "decision": "accepted",
+   "logit": 0.04584631323814392,
+   "margin": 3.5211454331874847,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e15#topic",
+   "decision": "accepted",
+   "logit": 0.3219071626663208,
+   "margin": 3.058114171028137,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2473-b849fb7f25f2:e16#topic",
+   "decision": "accepted",
+   "logit": -0.7807552218437195,
+   "margin": 1.440674602985382,
+   "group": "topic/headword",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2479-cdaf43d24336:e1#topic",
+   "decision": "accepted",
+   "logit": 0.5280305743217468,
+   "margin": 2.7258026003837585,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2493-84519542efce:e1#topic",
+   "decision": "accepted",
+   "logit": 10.26961898803711,
+   "margin": 9.916061878204346,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2493-84519542efce:e1#subtopic",
+   "decision": "accepted",
+   "logit": -1.0757331848144531,
+   "margin": 3.269251823425293,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2524-beb66523a80a:e1#topic",
+   "decision": "accepted",
+   "logit": 4.2490458488464355,
+   "margin": 6.44121241569519,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2524-beb66523a80a:e1#subtopic",
+   "decision": "uncertain",
+   "logit": -5.053215026855469,
+   "margin": 0.11309051513671875,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": false
+  },
+  {
+   "target_id": "page-2569-e8e9334880f9:e1#topic",
+   "decision": "accepted",
+   "logit": 1.8762072324752808,
+   "margin": 0.838485598564148,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2569-e8e9334880f9:e1#subtopic",
+   "decision": "accepted",
+   "logit": -3.1724777221679688,
+   "margin": 0.32448863983154297,
+   "group": "subtopic/continuation",
+   "titled": true,
+   "correct": true
+  },
+  {
+   "target_id": "page-2570-364adfefc0b1:e1#topic",
+   "decision": "accepted",
+   "logit": 1.7425460815429688,
+   "margin": 0.04467272758483887,
+   "group": "topic/continuation",
+   "titled": true,
+   "correct": true
+  }
+ ],
+ "embedder_vs_reranker": {
+  "targets": 340,
+  "top1_differs": 105,
+  "both_labelled": 104,
+  "reranker_right_embedder_wrong": 19,
+  "embedder_right_reranker_wrong": 22,
+  "both_right": 44,
+  "both_wrong": 19,
+  "examples": [
+   {
+    "target_id": "page-0013-50049db49e8b:e1#subtopic",
+    "reranker": "Longitudinal framing",
+    "embedder": "Floor timber",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0104-9aaa833a4643:e1#topic",
+    "reranker": "Imperial units",
+    "embedder": "Metrication in the United Kingdom",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0115-9730fa72203a:e1#topic",
+    "reranker": "Textile bleaching",
+    "embedder": "Bleach",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0217-7dc36e3a55f8:e1#subtopic",
+    "reranker": "Scenic America",
+    "embedder": "Cultural landscape",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0220-f28b3445b235:e1#topic",
+    "reranker": "Fur trade",
+    "embedder": "North American fur trade",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0220-f28b3445b235:e1#subtopic",
+    "reranker": "Queen Charlotte Sound (Canada)",
+    "embedder": "King George (1785 ship)",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0247-cb5b8fd3e311:e1#subtopic",
+    "reranker": "Mount Etna",
+    "embedder": "1669 eruption of Mount Etna",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0251-69952e7c4a0f:e1#subtopic",
+    "reranker": "Hypothetical partition of Switzerland",
+    "embedder": "Switzerland",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0251-69952e7c4a0f:e2#topic",
+    "reranker": "Swivel",
+    "embedder": "Swivel gun",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0251-69952e7c4a0f:e4#topic",
+    "reranker": "Sword",
+    "embedder": "Sword of state",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0251-69952e7c4a0f:e5#topic",
+    "reranker": "Sworn Brothers",
+    "embedder": "Sworn brotherhood (China)",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0258-631a7ae7df34:e1#subtopic",
+    "reranker": "William of Wykeham",
+    "embedder": "William de Epworth",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0258-631a7ae7df34:e2#topic",
+    "reranker": "William the Conqueror",
+    "embedder": "William",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0266-dfbe51d09127:e1#topic",
+    "reranker": "Scots family law",
+    "embedder": "Scots law",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0318-9d0e08d8ed22:e1#subtopic",
+    "reranker": "Nile",
+    "embedder": "Blue Nile",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0383-018fb71412b2:e1#subtopic",
+    "reranker": "Wealth",
+    "embedder": "Ricardian socialism",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0403-44f912e1c323:e1#subtopic",
+    "reranker": "Daniel and Verda",
+    "embedder": "Prodromus Coptus",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0473-4ab88a7103cd:e1#subtopic",
+    "reranker": "Patella skelettensis",
+    "embedder": "Patella vulgata",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0499-5eb663c6a072:e1#subtopic",
+    "reranker": "Indian campaign of Alexander the Great",
+    "embedder": "Agalasseis",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0523-a583606e375a:e1#topic",
+    "reranker": "Infinity",
+    "embedder": "Endless tape cartridge",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0523-a583606e375a:e2#topic",
+    "reranker": "Bar (heraldry)",
+    "embedder": "Pale (heraldry)",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0523-a583606e375a:e3#topic",
+    "reranker": "Double rose",
+    "embedder": "Attitude (heraldry)",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0523-a583606e375a:e7#topic",
+    "reranker": "Energumen (magazine)",
+    "embedder": "Exorcism in Christianity",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0523-a583606e375a:e12#topic",
+    "reranker": "Ventriloquism",
+    "embedder": "Oracle",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0523-a583606e375a:e14#topic",
+    "reranker": "History of engineering",
+    "embedder": "Engine",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0523-a583606e375a:e15#topic",
+    "reranker": "Engine",
+    "embedder": "Steam engine",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0560-c458f594fc79:e1#topic",
+    "reranker": "Amethystine python",
+    "embedder": "Corydalis nobilis",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0563-d12ce09577cd:e1#topic",
+    "reranker": "Gloria Patri",
+    "embedder": "Doxology",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0563-d12ce09577cd:e3#topic",
+    "reranker": "Abnormal growths of the nailbed",
+    "embedder": "Poroma",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0563-d12ce09577cd:e4#topic",
+    "reranker": "Action (philosophy)",
+    "embedder": "Actus purus",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0604-c50a825dd732:e1#topic",
+    "reranker": "Bertel Thorvaldsen",
+    "embedder": "Thorvaldsen Museum",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0611-4a137a2c6b07:e1#topic",
+    "reranker": "Drag (physics)",
+    "embedder": "D'Alembert's paradox",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0611-4a137a2c6b07:e1#subtopic",
+    "reranker": "Potential flow",
+    "embedder": "Taylor–Proudman theorem",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0681-c2be06f2d615:e1#subtopic",
+    "reranker": "Image formation",
+    "embedder": "Plane mirror",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-0713-3db0c66f81f4:e8#topic",
+    "reranker": "River Ouse, Yorkshire",
+    "embedder": "River Great Ouse",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-0851-6e2a0b999324:e1#subtopic",
+    "reranker": "Reflection (physics)",
+    "embedder": "Specular reflection",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1017-5395deb0e141:e2#topic",
+    "reranker": "Hellebore",
+    "embedder": "Helleborus viridis",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1017-5395deb0e141:e4#topic",
+    "reranker": "Koine Greek",
+    "embedder": "Jewish Koine Greek",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1017-5395deb0e141:e7#topic",
+    "reranker": "Helmet",
+    "embedder": "Visor (armor)",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1017-5395deb0e141:e10#topic",
+    "reranker": "Helmstedt",
+    "embedder": "Helmstedt (district)",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1017-5395deb0e141:e14#topic",
+    "reranker": "Staveless runes",
+    "embedder": "Runes",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1032-e28420685b47:e1#subtopic",
+    "reranker": "Blood pressure",
+    "embedder": "Blood pressure measurement",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1032-e28420685b47:e2#topic",
+    "reranker": "Heat",
+    "embedder": "Vital heat",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1102-918dd1676cc2:e1#subtopic",
+    "reranker": "Étienne de Poncher",
+    "embedder": "1508 in France",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1102-918dd1676cc2:e3#topic",
+    "reranker": "Comitatus (warband)",
+    "embedder": "County Court (England and Wales)",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1102-918dd1676cc2:e4#topic",
+    "reranker": "Curiate assembly",
+    "embedder": "Roman assemblies",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1214-17d180a99e0a:e2#topic",
+    "reranker": "Damsel, Missouri",
+    "embedder": "Damsel in distress",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1214-17d180a99e0a:e3#topic",
+    "reranker": "Jordan River",
+    "embedder": "Aaiha",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1214-17d180a99e0a:e6#topic",
+    "reranker": "Danaë",
+    "embedder": "Charon's obol",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1250-2e0c75f85418:e1#topic",
+    "reranker": "Coinage reform of Augustus",
+    "embedder": "Roman currency",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1268-e5ec9e5b4086:e3#topic",
+    "reranker": "Naxos",
+    "embedder": "Naxos (city)",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1268-e5ec9e5b4086:e7#topic",
+    "reranker": "Nazirite",
+    "embedder": "Nazarene (title)",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1415-d28d11d04726:e1#subtopic",
+    "reranker": "Inga Hedberg",
+    "embedder": "Acanthopale pubescens",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1430-4405fefdf7b6:e1#subtopic",
+    "reranker": "History of ancient Egypt",
+    "embedder": "Hyksos",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1466-bb41810e6962:e1#topic",
+    "reranker": "Assay Office (Boise, Idaho)",
+    "embedder": "Assay",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1473-b3b602ef6a3d:e4#topic",
+    "reranker": "Prison (Escape) Act 1706",
+    "embedder": "Prison escape",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1473-b3b602ef6a3d:e7#topic",
+    "reranker": "Eschar",
+    "embedder": "Flustra foliacea",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1614-ea352b487d65:e1#subtopic",
+    "reranker": "Topcliffe, North Yorkshire",
+    "embedder": "Myton-on-Swale",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1614-ea352b487d65:e5#topic",
+    "reranker": "Saint Thomas Christians",
+    "embedder": "Saint Thomas Christian denominations",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1670-ced69857efba:e2#topic",
+    "reranker": "Shipworm",
+    "embedder": "HMS Alarm (1758)",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1678-75b494c1b4fb:e1#subtopic",
+    "reranker": "Bilfinger",
+    "embedder": "Georg Bernhard Bilfinger",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1680-fbb4a5fde0c2:e1#subtopic",
+    "reranker": "Tie (engineering)",
+    "embedder": "Timber roof truss",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1805-226885408318:e3#topic",
+    "reranker": "Performance practice of Bach's music",
+    "embedder": "Portamento",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1805-226885408318:e8#topic",
+    "reranker": "Scots law",
+    "embedder": "Jus relictae",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1805-226885408318:e14#topic",
+    "reranker": "Mental image",
+    "embedder": "Creative visualization",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1805-226885408318:e16#topic",
+    "reranker": "Military exemption",
+    "embedder": "Religious exemption",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1805-226885408318:e17#topic",
+    "reranker": "1780 in science",
+    "embedder": "Exercise",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1904-759854fd95bb:e1#subtopic",
+    "reranker": "Lyre",
+    "embedder": "Chelys",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1933-ae507137e9dc:e1#topic",
+    "reranker": "Public speaking",
+    "embedder": "Rhetoric",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1933-ae507137e9dc:e1#subtopic",
+    "reranker": "Repetition (rhetorical device)",
+    "embedder": "Epizeuxis",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1939-0f50bb0b2f40:e1#subtopic",
+    "reranker": "Cannabis flower essential oil",
+    "embedder": "Essential oil",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-1942-99b5dc3b4c6c:e1#subtopic",
+    "reranker": "Hugh Linstead",
+    "embedder": "Anastasios Damvergis",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-1945-d877e2c0e7d6:e1#subtopic",
+    "reranker": "Optical instrument",
+    "embedder": "Optical mount",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2001-93040a5ab362:e2#topic",
+    "reranker": "Silesian independence",
+    "embedder": "Armenian bole",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2001-93040a5ab362:e3#topic",
+    "reranker": "Repast (funeral)",
+    "embedder": "Caristia",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2001-93040a5ab362:e5#topic",
+    "reranker": "Silicon dioxide",
+    "embedder": "Silicic",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2093-4b43bdcc663f:e1#topic",
+    "reranker": "Sensation (fiction)",
+    "embedder": "Sense",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2093-4b43bdcc663f:e1#subtopic",
+    "reranker": "Chess",
+    "embedder": "William Lewis (chess player)",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2131-f30c24bfdf3b:e1#topic",
+    "reranker": "History of Bombay under British rule (1661–1947)",
+    "embedder": "Mumbai",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2155-e6a255b57f58:e1#topic",
+    "reranker": "National Institute for Blind Youth",
+    "embedder": "Blind musicians",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2171-f8869fa95f19:e2#topic",
+    "reranker": "Atarneus",
+    "embedder": "Hermias of Atarneus",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2171-f8869fa95f19:e8#topic",
+    "reranker": "Caesar's civil war",
+    "embedder": "Antequera",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2250-75315f455009:e3#topic",
+    "reranker": "Bützow",
+    "embedder": "Bützow station",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2250-75315f455009:e4#topic",
+    "reranker": "Buxton",
+    "embedder": "St Ann's Well (Buxton)",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2250-75315f455009:e10#topic",
+    "reranker": "Scots law",
+    "embedder": "History of Scots law",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2250-75315f455009:e13#topic",
+    "reranker": "Byssus",
+    "embedder": "Sea silk",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2277-cdde2fc730b9:e1#subtopic",
+    "reranker": "Cervical plexus",
+    "embedder": "Brachial plexus",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2296-487afb796c01:e1#topic",
+    "reranker": "Geographical pole",
+    "embedder": "Polar exploration",
+    "reranker_correct": null,
+    "embedder_correct": null
+   },
+   {
+    "target_id": "page-2402-5030b31ea901:e1#subtopic",
+    "reranker": "Sacrum",
+    "embedder": "Tetragonias",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2424-dd2506be16cf:e1#subtopic",
+    "reranker": "Cattle feeding",
+    "embedder": "Animal feed",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2446-692d680df6a9:e1#subtopic",
+    "reranker": "Phosphorus",
+    "embedder": "Red phosphorus",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2448-f5e4884f245d:e1#topic",
+    "reranker": "Commoner",
+    "embedder": "Conformity",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2448-f5e4884f245d:e1#subtopic",
+    "reranker": "Iconoclast: A Neuroscientist Reveals How to Think Differently",
+    "embedder": "Conformity",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2464-24f450326eee:e1#subtopic",
+    "reranker": "Notarikon",
+    "embedder": "Temurah (Kabbalah)",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2464-24f450326eee:e3#topic",
+    "reranker": "Vide e Cabeça",
+    "embedder": "Cabeça Gorda",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2464-24f450326eee:e4#topic",
+    "reranker": "Cabinda Province",
+    "embedder": "Cabinda (city)",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2464-24f450326eee:e5#topic",
+    "reranker": "Cabidos",
+    "embedder": "Ell",
+    "reranker_correct": false,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2464-24f450326eee:e7#topic",
+    "reranker": "Cabinet (room)",
+    "embedder": "Cabinet painting",
+    "reranker_correct": true,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2464-24f450326eee:e11#topic",
+    "reranker": "Ariaca",
+    "embedder": "Gangga Negara",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2473-b849fb7f25f2:e2#topic",
+    "reranker": "Cornelius Nepos",
+    "embedder": "Epaminondas",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2473-b849fb7f25f2:e4#topic",
+    "reranker": "Erasure",
+    "embedder": "Abatement (heraldry)",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2473-b849fb7f25f2:e5#topic",
+    "reranker": "Erection",
+    "embedder": "New Erection, Virginia",
+    "reranker_correct": false,
+    "embedder_correct": false
+   },
+   {
+    "target_id": "page-2569-e8e9334880f9:e1#topic",
+    "reranker": "Ethiopia",
+    "embedder": "Abyssinia",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2569-e8e9334880f9:e1#subtopic",
+    "reranker": "Kingdom of Aksum",
+    "embedder": "Frumentius",
+    "reranker_correct": true,
+    "embedder_correct": true
+   },
+   {
+    "target_id": "page-2570-364adfefc0b1:e1#topic",
+    "reranker": "Ethiopian Empire",
+    "embedder": "Abyssinia",
+    "reranker_correct": true,
+    "embedder_correct": true
+   }
+  ]
+ }
+}

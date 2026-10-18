@@ -1,0 +1,67 @@
+{
+ "reviewer": "Claude Code (coding agent), 2026-10-18. Each verdict was checked against artifacts/match/matches.json, artifacts/compare/facts.json, artifacts/compare/comparison.json, and the scan images. Not yet checked by a team member.",
+ "ground_truth_scans": "The coding agent read the printed words from enlarged scan crops (LANCZOS, 4x). page-0251-69952e7c4a0f.jpg (image_sha256 69952e7c4a0f40267d357d04308f674155b3ab206ce8f2f4887124ce481f8c1d), box x 298-563, y 205-260: the sword entry prints 'to cut or ſtab' (stab). page-0523-a583606e375a.jpg (image_sha256 a583606e375ad92d79af8ad8b4fabc4fa22632e6ccbeea6e20f0fa47a27e2858), box x 298-552, y 50-145: the Steam-ENGINE line prints 'turned into ſteam' (steam). In both cases the OCR read the long s plus t as 'fl' ('flatb', 'fleam'). Inference from 2 of 2 cases: Parse can read the ſt ligature as fl. 'fleam' is a real English word, so long-s normalisation kept it.",
+ "cases": [
+  {
+   "case_id": "S1-sydenham-facts",
+   "classification": "success",
+   "title": "Sydenham: checked facts quoted from both sources, unverified details kept apart",
+   "run_record": "artifacts/agent/runs/q1-sydenham-facts-20261018T140143Z.json",
+   "question": "What does the early Britannica say about Thomas Sydenham, and which of its facts does the matched Wikipedia article confirm or contradict?",
+   "evidence": "Britannica entry page-0251-69952e7c4a0f:e8 (page_id britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:251). Match: topic accepted to Wikipedia 'Thomas Sydenham' (page_id 564669, revision_id 1341167433), rerank logit 0.88, margin 1.98 (artifacts/match/matches.json). Fact check (artifacts/compare/facts.json): 4 claims, all 'agrees' with britannica_quote_found and wikipedia_quote_found true: born about 1624 at Winford Eagle; bachelor of physic in 1648; fellow of All Souls soon after; died 1689.",
+   "result": "The answer cites the entry, page and revision IDs. It quotes the four checked claims with both quotes and reports no contradiction. It names three Britannica details that the saved Wikipedia passages do not cover: the father's name, 'chief physician in London from 1660 to 1670', and the Oxford garrison story. It calls them unverified, not false.",
+   "limits": "The agent also called six more details 'confirmed in substance' from passages that it read with challenge_passages. The facts stage did not check these, and the reviewer did not check every passage offset. The agent did not check the scan; it said the words it needed were legible in the OCR text."
+  },
+  {
+   "case_id": "S2-abyssinia",
+   "classification": "success",
+   "title": "Abyssinia: a narrow 1706-1709 fragment against a 1270-1974 article, with Britannica-only claims labelled",
+   "run_record": "artifacts/agent/runs/q3-abyssinia-20261018T140239Z.json",
+   "question": "How does the Britannica account of Abyssinia compare with Wikipedia? Name the pages and articles you rely on.",
+   "evidence": "Britannica continuation entry page-2570-364adfefc0b1:e1 (page_id britannica:309f765b1ecc83e0a7f7762e44b4a927a7555443:train:2570). Match: topic accepted to Wikipedia 'Ethiopian Empire' (page_id 9602302, revision_id 1353434359), rerank logit 1.74, margin 0.04 over 'Abyssinia' (artifacts/match/matches.json). Vocabulary: entry coverage 0.3792 against baseline 0.0961, lift 3.947 (artifacts/compare/comparison.json). Fact check (artifacts/compare/facts.json): 4 claims, all 'not_found' with britannica_quote_found true and wikipedia_quote_found false.",
+   "result": "The answer names both sources with IDs. It describes the difference in scope: the Britannica fragment covers a court episode from 1706 to 1709, and the Wikipedia article covers the empire from 1270 to 1974. It reports the four claims as Britannica-only, not as errors. It lists what the saved evidence cannot answer, and it says that it did not check the scan.",
+   "limits": "The match margin is 0.04, so 'Abyssinia' was almost chosen. Inference: both titles describe the same state. The fact check reads only the saved passages of one article. The pipeline did not look for other Wikipedia articles, for example about the rulers named in the fragment, so 'not_found' does not mean that Wikipedia omits these events."
+  },
+  {
+   "case_id": "S3-uncertain-matches",
+   "classification": "success",
+   "title": "Uncertain matches: two ENGINE entries explained with the logged thresholds",
+   "run_record": "artifacts/agent/runs/q6-uncertain-20261018T140538Z.json",
+   "question": "Which entries could not be matched with confidence, and why? Give two examples with their evidence.",
+   "evidence": "Corpus counts: topic decisions accepted 202, uncertain 60, no_match 22 (artifacts/match/matches.json counts). page-0523-a583606e375a:e14: no_match, 'reranker logit -4.89 against accept -2.0 and floor -4.5 for topic/headword, margin 0.21 over the next candidate, found only by keyword search'. page-0523-a583606e375a:e15: uncertain, 'reranker logit -4.35 against accept -3.5 and floor -6.0 for topic/headword, margin 0.42 over the next candidate'.",
+   "result": "The answer gives the counts and two examples. Each example has the entry ID, page ID, proposed article, logit, the group threshold, margin, and the search route, all as the tool reported them. It does not treat either match as evidence of the same topic. It says that the tools cannot list all 82 entries.",
+   "limits": "For e14, the article 'Engine' was a candidate at logit -5.10 and 'Machine' at -5.95, below 'History of engineering' at -4.89 (artifacts/match/matches.json ranked list). The agent could not see this, because challenge_compare returns only the chosen article and the runner-up. The entry defines an engine as 'a compound machine, made of one or more mechanical powers'. Inference: the Wikipedia article 'Engine' describes a motor, a narrower modern sense, so the reranker found no close article. The plugin has no tool that lists unmatched entries."
+  },
+  {
+   "case_id": "F1-sword-scan-check",
+   "classification": "failure",
+   "title": "Sword: the vision check confirmed the OCR error 'flatb' instead of the printed 'ſtab'",
+   "run_record": "artifacts/agent/runs/q5-scan-check-20261018T140345Z.json",
+   "question": "Find the Britannica entry on the sword. Check one doubtful OCR word against the scan image, and report what the printed page shows.",
+   "evidence": "OCR text: 'serving either to cut or flatb'. The printed page shows 'ſtab': the reviewer read it from a 4x crop of page-0251-69952e7c4a0f.jpg, box x 298-563, y 205-260. The run made three vision_analyze calls on page-0251-69952e7c4a0f.jpg with pixel regions [298,211,563,398], [440,235,565,280] and [330,226,490,256]. Hermes crops the region without enlarging it, so the model received images of 265x187, 125x45 and 160x30 pixels. Each question asked whether the word was 'flatb' or 'thrust'. Direct Super VL test with a neutral question (evaluation/vision_check.json): the same crop read 'ſlab' at 1x and 'ſtab' at 4x.",
+   "result": "The answer says that the print shows 'flatb' and that the OCR did not misread the word. It infers the intended word 'thrust'. All three statements are wrong: the page prints 'ſtab'. The answer also calls the 1.158 margin a margin 'over the accept floor -6.0'; the tool reason gives it as the margin over the next candidate.",
+   "limits": "Repair attempt: the scan tool now gives an enlarged crop (crop_path, 4x) and tells the agent not to put the OCR reading in its question. The repaired run artifacts/agent/runs/q5-scan-check-20261018T141816Z.json also failed. Its first vision call sent the whole crop; the image header in the run record shows Hermes passed it as a 1060x748 JPEG, so the model received the enlarged image. The model wrote 'The zoom is too blurry to read the individual letters with certainty', then reported that the page 'clearly shows t-h-r-u-ſ-t'. Inference: the fact claim 'used for cutting or thrusting', which challenge_compare returned before the vision call, anchored the reading. That claim is Super VL's paraphrase of the garbled OCR text, not a reading of the print. Two other attempts (q5-scan-check-20261018T141719Z.json and q4-missing-20261018T141715Z.json) failed with HTTP 401 because the run script did not load .env; their records are kept. The repair is not complete. The first six runs used the earlier scan tool, which gave only image_path and region, and five evidence rules; the challenge_scan output in each run record shows which version was live."
+  },
+  {
+   "case_id": "F2-language-change-topics",
+   "classification": "failure",
+   "title": "Language change: a mixed cluster of short headwords read as an anatomy and engineering topic",
+   "run_record": "artifacts/agent/runs/q2-language-change-20261018T140210Z.json",
+   "question": "Across the matched pairs, which words does the Britannica use far more than Wikipedia, and what do they show about how the language or the knowledge changed?",
+   "evidence": "challenge_corpus returned the word lists, the counts (219 pairs, 3,628 long-s changes, median lift 2.541) and the topic clusters. In artifacts/compare/comparison.json topics.topics, topic 12 has terms erector, englith, anatomy, engine, forlorn, pound, model, penis; 25 Britannica and 0 Wikipedia documents; examples SYCAMORE-TREE, JIN, ENGINE, ENEMY, ENFANS PERDUS, OUNCE. Topic 4 has terms pressure, blood, blood pressure, anatomy, heart, body; 2 Britannica and 9 Wikipedia documents.",
+   "result": "The word lists and counts in the answer are correct. The interpretation is not. The answer calls topic 12 'anatomy/engineering' and uses it as evidence that Britannica text centres on physical description. Its examples show a mixed group of short dictionary headwords with OCR noise ('englith'), not a subject. The answer gives topic 4 (blood pressure, anatomy) as an example of Wikipedia's 'period/place/demographic framing', which that topic does not show. The answer labels its conclusion as an inference, but two of the clusters it cites do not support it.",
+   "limits": "The run record keeps about 5,000 characters of each tool output, so topic 12 is not in the record. The full output (9,260 characters) is in the Hermes session 20261018_160212_9cf4b1 in data/hermes/state.db, which is not committed. The reviewer checked topic 12 against artifacts/compare/comparison.json, from which the agent index was built. Inference: the model read the top terms 'anatomy' and 'engine' and did not use the examples; the topic rows have no labels. No repair was run."
+  },
+  {
+   "case_id": "F3-steam-scan-check",
+   "classification": "failure",
+   "title": "Steam locomotive: correct 'evidence missing' answer, but a false scan reading reported as verified",
+   "run_record": "artifacts/agent/runs/q4-missing-20261018T140315Z.json",
+   "repaired_by": "artifacts/agent/runs/q4-missing-20261018T141746Z.json",
+   "question": "What does the Britannica sample say about the steam locomotive?",
+   "evidence": "The sample has no locomotive entry. The closest entry is page-0523-a583606e375a:e15 (ENGINE), uncertain match to 'Engine'. OCR text: 'turned into fleam'. The printed page shows 'ſteam': the reviewer read it from a 4x crop of page-0523-a583606e375a.jpg, box x 298-552, y 50-145. The first run called vision_analyze with region [298,50,552,145] (254x95 pixels) and asked whether the last word was 'steam' or 'fleam'. Direct Super VL test with a neutral question (evaluation/vision_check.json): the same crop read 'ſteam' at 1x and at 4x.",
+   "result": "The first run correctly says that the evidence for a steam locomotive is missing. It also says it verified the scan and that the printed page reads 'fleam'. That is false. The repaired run used the enlarged crop and asked for a transcription without the OCR reading. It reported 'raise' and 'steam', which matches the print, and it still said the locomotive evidence is missing.",
+   "limits": "Inference from one case: the neutral 1x test read the word correctly, so the leading question in the first run is the more likely cause than the image size. The repaired answer still calls -6.0 the 'accept floor'; the accept threshold is -3.5 and the floor is -6.0. This case and F1 share the scan check step, so they are not independent failures. The repair worked here and did not work for F1. The first six runs used the earlier scan tool, which gave only image_path and region, and five evidence rules; the challenge_scan output in each run record shows which version was live."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "page_id": "3424984",
+ "revision_id": "1249764611",
+ "title": "Exemplified copy",
+ "url": "https://en.wikipedia.org/wiki/Exemplified_copy",
+ "text_sha256": "4078fea58aa16f9db69ef5b19aa02558b74a2b2bde0d4ab63050fb93296da4c5",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+  "source_row_idx": 68365,
+  "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+  "text_sha256": "4078fea58aa16f9db69ef5b19aa02558b74a2b2bde0d4ab63050fb93296da4c5",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1249764611"
+ },
+ "text": "An exemplified copy (or exemplification) is an official attested copy or transcript of a public instrument, made under the seal and original pen-in-hand signature of a court or public functionary and in the name of the sovereign, for example, \"The People of the State of Oklahoma\". Exemplifications can only be attested and executed by either the authority holding the record or the issuing authority. Exemplified copies are also usually an extract or transcript made directly from the original. They can be contrasted with certified copies which are attested by a public authority who does not necessarily execute the copy; are signed and sealed by the certifier, not necessarily the issuing authority or recorder; and are a facsimile, made from the original or not, and vary as to faithfulness, for example, fair copy, imitative copy, and so forth.\n\nCertified copies of birth and death records from New York City, Los Angeles, Georgia, and in certain other locations in the US can, if requested, be accompanied by a letter of exemplification. This is the first step in a process leading to authentication or an apostille. In Canada and Australia and certain other common-law jurisdictions, exemplifications may be made of any official document by a notary public.\n\nMore specifically, the term refers to an attested copy of a legal pleading in its entirety. In this sense, it is also known as a triple certificate or three-way certificate. Its authenticity is sworn to by the clerk of the court where the judgment was rendered, and counter-authenticated by the presiding judicial officer of that Court. The clerk then swears to the authenticity of the judge's signature, incumbency, and authority. The certificate page with the triple authentication is called the exemplification. A copy of this type is normally required by other states and countries when copies are being submitted for filing in their local court."
+}

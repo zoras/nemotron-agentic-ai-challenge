@@ -18,7 +18,7 @@ def test_offline_doctor_needs_no_secrets_or_network(monkeypatch, capsys):
     assert main(["doctor", "--offline"]) == 0
     data = json.loads(capsys.readouterr().out)
     assert data["inference"] == "not tested"
-    assert data["challenge_stages"] == "not implemented"
+    assert data["challenge_stages"] == "implemented"
     assert all(row["status"] == "not_tested" for row in data["checks"] if "configured" in row)
 
 
@@ -31,20 +31,12 @@ def test_live_doctor_reports_missing_resources(monkeypatch):
     assert report["inference"] == "not tested"
 
 
-@pytest.mark.parametrize("stage", ["match", "compare", "agent", "site", "evaluate"])
-def test_unfinished_stage_fails_with_guide_and_creates_no_result(stage, tmp_path, capsys):
-    path = tmp_path / "team-artifacts"
-    assert main(["run", stage, "--work-dir", str(path)]) == 2
-    assert f"docs/milestones.md#{stage}" in capsys.readouterr().err
-    assert not path.exists()
-
-
-def test_stages_list_has_todos(capsys):
+def test_stages_list_marks_every_stage_implemented(capsys):
     assert main(["stages"]) == 0
     rows = json.loads(capsys.readouterr().out)
     assert len(rows) == 6
     assert {row["stage"]: row["status"] for row in rows} == {
-        "extract": "implemented", "match": "TODO", "compare": "TODO", "agent": "TODO", "site": "TODO", "evaluate": "TODO"}
+        "extract": "implemented", "match": "implemented", "compare": "implemented", "agent": "implemented", "site": "implemented", "evaluate": "implemented"}
 
 
 def test_keys_are_not_exposed_by_settings_repr():

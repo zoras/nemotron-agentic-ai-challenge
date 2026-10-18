@@ -1,0 +1,26 @@
+{
+ "page_id": "15564354",
+ "revision_id": "1337637136",
+ "title": "Assay Office (Boise, Idaho)",
+ "url": "https://en.wikipedia.org/wiki/Assay_Office_(Boise,_Idaho)",
+ "text_sha256": "19d00bbe8b3b7ba4675fdb707c826f440416e86e5adee7d7c5a4ed5708bb8af7",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+  "source_row_idx": 49632,
+  "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+  "text_sha256": "19d00bbe8b3b7ba4675fdb707c826f440416e86e5adee7d7c5a4ed5708bb8af7",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337637136"
+ },
+ "text": "The Assay Office is a historic building at 210 Main Street in Boise, Idaho. It is significant for its role in the history of mining in Idaho, and was the first major federal government building in the Idaho Territory. During the first half of the 1860s, Idaho's gold production was the third highest in the nation. Due to the difficulty of transporting ores, which can be heavy, the long distance to the nearest U.S. Mint in San Francisco, there was great demand for an assaying office in Idaho that would be able to separate precious metals from impurities in them, helping to place a value on ores that went through the office.\n\nIn 1869, Congress appropriated $75,000 to build an assay office in Boise, Idaho. The city block site bounded by Main, First, Idaho and Second was donated by Alexander Rossi, a prominent citizen of Boise. Ground was broken in 1870, and the building was completed in 1871. The builder was John R. McBride, Chief Justice of Idaho. The building featured a cupola for ventilation and the interior doors were equipped with iron cages. The first floor of the building held the assayers offices, vaults and safes, assaying and melting rooms (furnaces), laboratory and reagents storage. The second floor was devoted to living quarters for the chief assayer. There was a parlor, pantry, dining room, kitchen and three bedrooms. The basement housed fuel and supply rooms, guards' quarters and wells.\n\nAll equipment was finally in place by the time of the first assay on March 2, 1872. Builder John R. McBride was appointed Superintendent of the Assay Office. Alexander Rossi, who donated the land, was temporary Chief Assayer. By this time, mining was in a slump due to the playing out of surface mines. This slump lasted about a decade until further gold strikes were made in the northern part of the state. In 1887, the advent of the railroad in Idaho and an influx of capital made deep mining possible. A few years after opening, the Assay Office had begun purchasing gold on behalf of the U.S. government. By 1895, deposits were over one million dollars. For the next eleven years they averaged over one and a half million dollars per year. Renovations on the building in 1889 and 1890 included a new fence, new floors, a hot and cold water system and electric lights.\n\nThe Assay Office closed in 1933 and the building was turned over to the United States Forest Service for use as offices. Renovations at that time included removing the iron bars from the windows, adding windows to the back wall, removal of the vaults and assaying furnaces and rearrangement of partitions. The Assay Office was declared a National Historic Landmark in 1961, recognizing its significant role in the state's development. In 1972 the building was turned over to the Idaho State Historical Society. It currently houses the State Historical Preservation Office and the Archaeological Survey of Idaho."
+}

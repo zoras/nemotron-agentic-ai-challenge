@@ -1,0 +1,26 @@
+{
+ "page_id": "35717335",
+ "revision_id": "1305376869",
+ "title": "Longitudinal framing",
+ "url": "https://en.wikipedia.org/wiki/Longitudinal_framing",
+ "text_sha256": "0b8e31912e52ac15c54ba4b829500576fcb5c0fafa06451ffc111d0ebb76443c",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "ffc5856c64bf1c31a0ed219624f6ef4a28347e774241d9d2d32b453c7b86e006",
+  "source_row_idx": 113241,
+  "source_shard": "enwiki/data/enwiki_namespace_0_23.parquet",
+  "text_sha256": "0b8e31912e52ac15c54ba4b829500576fcb5c0fafa06451ffc111d0ebb76443c",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1305376869"
+ },
+ "text": "Longitudinal framing (also called the Isherwood system after British naval architect Sir Joseph Isherwood, who patented it in 1906) is a method of ship construction in which large, widely spaced transverse frames are used in conjunction with light, closely spaced longitudinal members. This method, Isherwood felt, lent a ship much greater longitudinal strength than in ships built in the traditional method, where a series of closely spaced transverse frames are fitted from the keel to the sheer line, with corresponding deck beams, a method that is well suited to support longitudinal planking.\n\nLongitudinal framing was a known method of shipbuilding before Isherwood. Naval engineer J. Scott Russell, for instance, had built several longitudinally framed ships, including the SS Great Eastern. However, no one had made the process practical from a commercial standpoint, which was Isherwood's achievement. The first commercial vessel constructed with the Isherwood system, the oil-tank steamer Paul Paix, of some 6,600 tons deadweight in 1908, was scrutinized by other shipbuilders and owners. The success of it and the first general cargo liner to be constructed on the \"Isherwood\" system, the Gascony in early 1909, encouraged builders in a number of countries to use longitudinal framing as well.\n\nIn traditional framing, transverse frames are attached at right angles to the keel, spaced between 2 and 3 feet (61 and 91 cm) apart. These are secured at the lower end to the keel or center keelson and at the upper ends to the deck beams. They are in two parts called floors and side frames and, while necessary, subtract from cargo space inside the ship. Longitudinal strength comes from the keel, keelson, intercostals (also called longitudinals), tank top and decks to resist stress caused by the mismatch between load distribution and buoyancy distribution (static loading) and dynamic loading due to motion in a seaway. The side plating also takes much of this stress. If there were insufficient longitudinal strength, the hull would bend and eventually \"break its back.\" In the days of wooden ship construction, this was the only practical way to build a large ship since the inside and deck planking had to be laid longitudinally, with the deck planking laid upon transverse beams connected to the frames. Even with the introduction of iron construction, this method allowed for simplicity in construction and transverse strength in short vessels. However, as ships grew in length, longitudinal strength became increasingly important.\n\nIn longitudinal framing, very heavy transverse frames are spaced much further apart than in traditional framing — about 12 feet (370 cm) A large number of longitudinal frames are then attached to support the shell plating. The longitudinal frames at the sides fit into notches cut into the transverse frames, while the ones near the bottom of the ship are sometimes made continuous between transverse bulkheads. The transverses are connected to the shell plating at heavy angles and with a tank top are cut at the margin plate. Strong tie bars extend from the face angle on the transverses to the tank top plating. Under the tank top, except for notches cut for the bottom and tank top longitudinals, the transverses are much like ordinary floor plates. The deck longitudinals furnish ample strength, even when large hatch openings must be accommodated."
+}

@@ -1,0 +1,26 @@
+{
+ "page_id": "7662197",
+ "revision_id": "1339232239",
+ "title": "Helston (UK Parliament constituency)",
+ "url": "https://en.wikipedia.org/wiki/Helston_(UK_Parliament_constituency)",
+ "text_sha256": "89609395e4ab9abf5db95bd6712856c8ea8e2e4810e743283e52ba7ea8df90b5",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "55c414932f60dce72c1fbb0a3faba7b0f5d845d8f0c00e3386bbeabe09307561",
+  "source_row_idx": 25383,
+  "source_shard": "enwiki/data/enwiki_namespace_0_15.parquet",
+  "text_sha256": "89609395e4ab9abf5db95bd6712856c8ea8e2e4810e743283e52ba7ea8df90b5",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339232239"
+ },
+ "text": "Helston, sometimes known as Helleston, was a parliamentary borough centred on the small town of Helston in Cornwall.\n\nUsing the block vote system of election, it returned two Members of Parliament (MPs) to the House of Commons of England until 1707, then to the House of Commons of Great Britain until 1800, and to the House of Commons of the United Kingdom until the 1832 general election.\n\nThe Reform Act 1832 reduced its representation to one member, elected by the first-past-the-post system. Under the Redistribution of Seats Act 1885, it was abolished with effect from the 1885 general election.\n\nConstituency created (1298)\n\nCaused by Brett's appointment as Solicitor General for England and Wales\n\nCaused by the 1865 election being declared void on petition, due to bribery. At the original count for the by-election, both candidates received 153 votes apiece, but Campbell was declared elected after the Returning officer (who was the father of his election agent) cast a vote for him, after consulting a legal textbook which suggested he could make the casting vote. A petition was lodged, and a committee decided the returning officer had no right to cast the vote and should have declared both candidates elected. However, on scrutiny one vote was taken from Campbell's total, leaving Brett elected alone. This election led to Parliament deciding that \"according to the law and usage of Parliament, it is the duty of the sheriff or other returning officer in England, in the case of an equal number of votes being polled for two or more candidates at an election, to return all such candidates\".\n\nCaused by West's resignation, by accepting the office of Steward of the Chiltern Hundreds, in order to contest a by-election at Lewes\n\nCaused by Pechell's appointment as a Lord of the Admiralty"
+}

@@ -1,0 +1,26 @@
+{
+ "page_id": "83148",
+ "revision_id": "1325684288",
+ "title": "Danaë",
+ "url": "https://en.wikipedia.org/wiki/Dana%C3%AB",
+ "text_sha256": "c471aec57ea1a6910ec6c2e20f7dcc91c00f2ce94ff0c412100cbd78d25fca40",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+  "source_row_idx": 72318,
+  "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+  "text_sha256": "c471aec57ea1a6910ec6c2e20f7dcc91c00f2ce94ff0c412100cbd78d25fca40",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325684288"
+ },
+ "text": "In Greek mythology, Danaë (/ ˈ d æ n eɪ. i /, / ˈ d æ n i. iː /; Ancient Greek: Δανάη, romanized: Danáē; Ancient Greek:, Modern:) was an Argive princess and mother of the hero Perseus by Zeus. She was credited with founding the city of Ardea in Latium during the Bronze Age.\n\nDanaë was the daughter and only child of King Acrisius of Argos by his wife, Queen Eurydice, daughter of Lacedaemon and Sparta, or Aganippe. In some accounts, she had a sister, Evarete, wife of King Oenomaus of Pisa and mother of Hippodamia.\n\nBy Zeus, Danaë was the mother of the hero Perseus, slayer of Medusa and founder of Mycenae.\n\nDisappointed by his lack of male heirs, King Acrisius asked the Oracle of Delphi if this would change. The oracle told him that he would never have a son, but his daughter would, and that this grandson would one day kill him. At the time, Danaë was Acrisius' only daughter, and was childless. Meaning to prevent the prophecy from coming true, Acrisius shut her into a bronze chamber and buried it underground. Other authors have alternatively described Danaë as being locked in a brazen tower with only a small vent as a source of light and air.\n\nHowever, Zeus desired Danaë, and came to her in the form of golden rain that streamed in through the roof of her chamber and onto her lap, impregnating her. Soon after, Perseus was born. Upon discovering the child, Acrisius was enraged and refused to believe that Zeus was Perseus' father. However, he didn't want to provoke the wrath of the gods or Furies by killing his family, and instead placed Danaë and Perseus into a wooden chest and cast it into the sea. The sea was calmed by Poseidon and, at the behest of Zeus, the pair survived.\n\nThey were washed ashore on the island of Serifos, where they were taken in by the fisherman Dictys —brother of King Polydectes —who raised Perseus to manhood in the temple of Athena. The King was charmed by Danaë, but she had no interest in him. Consequently, he agreed not to marry her only if her son would bring him the head of the Gorgon Medusa. Using Athena 's shield, Hermes 's winged sandals and Hades 's helmet of invisibility, Perseus was able to evade Medusa's gaze and decapitate her.\n\nLater, after Perseus brought back Medusa's head and rescued Andromeda the princess of Aethiopia. Perseus started towards Argos, but when Acrisius heard of this, he fled to Larissa where an athletics competition was being held. Perseus then also journeyed to Larissa and partook in the games. During the competition, Perseus accidentally struck Acrisius on the foot or head with his javelin (or discus), killing him and fulfilling the prophecy.\n\nGaius Julius Hyginus, Fabulae from The Myths of Hyginus translated and edited by Mary Grant. University of Kansas Publications in Humanistic Studies. Online version at the Topos Text Project.\n\nApollodorus, The Library with an English Translation by Sir James George Frazer, F.B.A., F.R.S. in 2 Volumes, Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1921. Online version at the Perseus Digital Library. Greek text available from the same website.\n\nSmith, William; Dictionary of Greek and Roman Biography and Mythology, London (1873). \"Danae\", Acri'sius"
+}

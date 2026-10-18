@@ -46,6 +46,17 @@ Python packages, PyTorch, and the Docker base image retain their licenses.
 Hermes Agent retains the license in its upstream repository.
 Keep upstream notices when you distribute those components.
 
+## Nebius agent skills
+
+The project settings in `.claude/settings.json` enable the `nebius-cloud` plugin from [nebius/skills](https://github.com/nebius/skills).
+The plugin tracks the `main` branch. We checked commit `2db737976de0f760d701b16a891f0273309a4744`.
+The plugin declares the Apache 2.0 license.
+
+The `nebius-hackathon` project skill contains a copy of the event participant guide from
+[dariolaportanebius/nebius-starter-skill](https://github.com/dariolaportanebius/nebius-starter-skill/tree/81769dde5ee14f8ef831f0db048b1f71372a977a).
+Copyright 2026 Anton Smith. The guide uses the MIT license.
+The copy and its license notice are in `.claude/skills/nebius-hackathon/references/`.
+
 ## Diagram font
 
 The editable infrastructure and BERTopic SVGs embed DejaVu Sans.

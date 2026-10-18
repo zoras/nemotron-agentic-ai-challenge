@@ -1,0 +1,26 @@
+{
+ "page_id": "14861547",
+ "revision_id": "1341697966",
+ "title": "Buis-les-Baronnies",
+ "url": "https://en.wikipedia.org/wiki/Buis-les-Baronnies",
+ "text_sha256": "8772c6376a3efdc5704bd605ee9922c61e9265d3195086254cbcad604f3eec0b",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "e58eec2ce1e24d1b1daed4a5e5e166e4830e1fe87799033016ab5342f3687842",
+  "source_row_idx": 68686,
+  "source_shard": "enwiki/data/enwiki_namespace_0_16.parquet",
+  "text_sha256": "8772c6376a3efdc5704bd605ee9922c61e9265d3195086254cbcad604f3eec0b",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341697966"
+ },
+ "text": "Buis-les-Baronnies (French pronunciation:; Vivaro-Alpine Occitan: Lo Bois dei Baroniás) is a commune in the Drôme department in the Auvergne-Rhône-Alpes region in Southeastern France.\n\nBuis-les-Baronnies is located on the right bank of the river Ouvèze (Buis-les-Baronnies as a town has limits on the other bank)."
+}

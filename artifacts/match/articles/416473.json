@@ -1,0 +1,26 @@
+{
+ "page_id": "416473",
+ "revision_id": "1331716122",
+ "title": "Ischiocavernosus muscle",
+ "url": "https://en.wikipedia.org/wiki/Ischiocavernosus_muscle",
+ "text_sha256": "182eff4bdebf85ad35bde5af45f46aa64cd4c93f0f4a96fcac6db2738cf7c885",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "9e24e9c2bd136d445f613d5d73cce52385d4a5f0f42f971db1f6725f424264c2",
+  "source_row_idx": 1991,
+  "source_shard": "enwiki/data/enwiki_namespace_0_10.parquet",
+  "text_sha256": "182eff4bdebf85ad35bde5af45f46aa64cd4c93f0f4a96fcac6db2738cf7c885",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1331716122"
+ },
+ "text": "The ischiocavernosus muscle (erectores penis or erector clitoridis in older texts) is a muscle just below the surface of the perineum, present in both men and women.\n\nIt arises by tendinous and fleshy fibers from the inner surface of the tuberosity of the ischium, behind the crus penis; and from the inferior pubic rami and ischium on either side of the crus.\n\nFrom these points fleshy fibers succeed, and end in an aponeurosis which is inserted into the sides and under surface of the crus penis.\n\nIn females, the ischiocavernosus muscle assists with clitoral erection. In male placental mammals, it helps to stabilize the erect penis by compressing the crus penis and retarding the return of blood through the veins."
+}

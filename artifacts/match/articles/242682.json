@@ -1,0 +1,26 @@
+{
+ "page_id": "242682",
+ "revision_id": "1220590711",
+ "title": "Sensation (fiction)",
+ "url": "https://en.wikipedia.org/wiki/Sensation_(fiction)",
+ "text_sha256": "da8c040edd800dd97f07f3749102ac3fb02668a794a8a4f71901ccb4ef74dc6b",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+  "source_row_idx": 91661,
+  "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+  "text_sha256": "da8c040edd800dd97f07f3749102ac3fb02668a794a8a4f71901ccb4ef74dc6b",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1220590711"
+ },
+ "text": "Sensation is the fiction-writing mode for portraying a character's perception of the senses. According to Ron Rozelle, \"...the success of your story or novel will depend on many things, but the most crucial is your ability to bring your reader into it. And that reader will be most completely in when you deliver the actual sensations of the many things that comprise your story\" (Rozelle 2005, p. 76). As stated by Jessica Page Morrell, \"You breathe life into fiction by translating the senses onto the page, producing stories rooted in the physical world... that creates a tapestry, a galaxy of interwoven sensory ingredients.\" (Morrell 2006, p. 172)\n\nAlso according to Rozelle, \"The sensation of what something feels like is used to describe everything from sensual pleasure to pain and torture. It's a wide range, and your readers have actually experienced only some of those feelings. So your job is to either make them recall exactly what it feels like when something occurs in your story or, if they haven't experienced it, what it would feel like if they did\" (Rozelle 2005, p. 86). Morrell describes a \"sensory surround\", which when \"coupled with drama tugs the reader into story and forces him to keep reading.\" (Morrell 2006, p. 173)\n\nThe importance of conveying sensation in fiction is widely accepted. However, recognition of sensation as a distinct fiction-writing mode is a matter of discussion."
+}

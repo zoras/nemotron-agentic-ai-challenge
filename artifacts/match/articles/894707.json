@@ -1,0 +1,26 @@
+{
+ "page_id": "894707",
+ "revision_id": "1300901246",
+ "title": "Cervical plexus",
+ "url": "https://en.wikipedia.org/wiki/Cervical_plexus",
+ "text_sha256": "d5585dacd42e6a901064a26bbd669acf74d9284fa497ae49eaf117c96959e538",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "ffc5856c64bf1c31a0ed219624f6ef4a28347e774241d9d2d32b453c7b86e006",
+  "source_row_idx": 10371,
+  "source_shard": "enwiki/data/enwiki_namespace_0_23.parquet",
+  "text_sha256": "d5585dacd42e6a901064a26bbd669acf74d9284fa497ae49eaf117c96959e538",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1300901246"
+ },
+ "text": "The cervical plexus is a nerve plexus of the anterior rami of the first (i.e. upper-most) four cervical spinal nerves C1-C4. The cervical plexus provides motor innervation to some muscles of the neck, and the diaphragm; it provides sensory innervation to parts of the head, neck, and chest.\n\nThey are located laterally to the transverse processes between prevertebral muscles from the medial side and vertebral (m. scalenus, m. levator scapulae, m. splenius cervicis) from lateral side. There is anastomosis with accessory nerve, hypoglossal nerve and sympathetic trunk. It is located in the neck, deep to the sternocleidomastoid muscle.\n\nThe branches of the cervical plexus emerge from the posterior triangle at the nerve point, a point which lies midway on the posterior border of the sternocleidomastoid.\n\nThe cervical plexus is situated deep to the sternocleidomastoid muscle, internal jugular vein, and deep cervical fascia.\n\nIt is situated anterior to the middle scalene muscle, and levator scapulae muscle.\n\nThe cervical plexus has two types of branches: cutaneous and muscular.\n\nCutaneous (4 branches):\n\nLesser occipital nerve - innervates the skin and the scalp posterosuperior to the auricle (C2)\n\nGreat auricular nerve - innervates skin near concha auricle (outer ear) and external acoustic meatus (ear canal) (C2-C3)\n\nTransverse cervical nerve - innervates anterior region of neck (C2 and C3)\n\nSupraclavicular nerves - innervate the skin above and below the clavicle (C3-C4)\n\nMuscular\n\nAnsa cervicalis - a loop formed by C1-C3 that supplies most infrahyoid (a.k.a. \"strap\") muscles (sternothyroid, sternohyoid, omohyoid muscles) etc.\n\nNerve to thyrohyoid - fibres from C1 that run with the hypoglossal nerve (cranial nerve XII) and do not participate in the formation of the superior root of ansa cervicalis, instead continuing for some further distance to reach and innervate the thyrohyoid muscle and the geniohyoid muscle.\n\nPhrenic (C3-C5, but mostly C4) - innervates thoracic diaphragm and the pericardium.\n\nSegmental branches (C1-C4) - innervate anterior and middle scalene muscles\n\nLevator scapulae muscle (C3-C4) (also innervated by dorsal scapular nerve (C5) of the brachial plexus)"
+}

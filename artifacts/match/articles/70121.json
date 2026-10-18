@@ -1,0 +1,26 @@
+{
+ "page_id": "70121",
+ "revision_id": "1350859904",
+ "title": "Sycamore",
+ "url": "https://en.wikipedia.org/wiki/Sycamore",
+ "text_sha256": "67209cec40e4da023f5e81ec1c03ba725fcda038f6bc3d7da3563d04eefafc08",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "75682a16535a445de85c4955f0f07da7848b9ea2a08d5d7a7d8abc71cf54a86a",
+  "source_row_idx": 40693,
+  "source_shard": "enwiki/data/enwiki_namespace_0_56.parquet",
+  "text_sha256": "67209cec40e4da023f5e81ec1c03ba725fcda038f6bc3d7da3563d04eefafc08",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350859904"
+ },
+ "text": "Sycamore is a name which has been applied to several types of trees, but with somewhat similar leaf forms. The name derives from the Ancient Greek σῡκόμορος (sykómoros) meaning ' fig-mulberry '.\n\nSpecies of otherwise unrelated trees known as sycamore:\n\nAcer pseudoplatanus, a species of maple native to central Europe and southwestern Asia\n\nFicus sycomorus, the sycamore (or sycomore) of the Bible; a species of fig, also called the sycamore fig or fig-mulberry, native to the Middle East and eastern Africa\n\nPlatanus orientalis, chinar tree (Old World sycamore)\n\nSome North American members of the genus Platanus, including\n\nPlatanus occidentalis, the American sycamore\n\nPlatanus racemosa, the California sycamore or western sycamore\n\nPlatanus wrightii, the Arizona sycamore\n\nPlatanus mexicana, the Mexican sycamore\n\nIn Australia, there are numerous trees which have the common name \"sycamore\":\n\nLitsea reticulata or Cryptocarya glaucescens (silver sycamore)\n\nPolyscias elegans (white sycamore)\n\nCryptocarya obovata (white sycamore)\n\nCeratopetalum succirubrum (satin sycamore)\n\nCardwellia sublimis\n\nCryptocarya hypospodia (bastard sycamore)\n\nCeratopetalum virchowii (pink sycamore)\n\nCeratopetalum corymbosum (mountain sycamore)"
+}

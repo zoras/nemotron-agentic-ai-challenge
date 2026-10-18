@@ -1,0 +1,26 @@
+{
+ "page_id": "246544",
+ "revision_id": "1344795370",
+ "title": "Ataraxia",
+ "url": "https://en.wikipedia.org/wiki/Ataraxia",
+ "text_sha256": "36d344c33d2f2b3c03b434ba80c223b6f1d3f3e7b11bba1ac1bfb7ee48e8ed3f",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "8cd10b1d4e9b71d127ae5b059e5081c7efff5a97bba4e97ca3340a35783ea532",
+  "source_row_idx": 8529,
+  "source_shard": "enwiki/data/enwiki_namespace_0_36.parquet",
+  "text_sha256": "36d344c33d2f2b3c03b434ba80c223b6f1d3f3e7b11bba1ac1bfb7ee48e8ed3f",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344795370"
+ },
+ "text": "In Ancient Greek philosophy, ataraxia (Greek: ἀταραξία, from ἀ- indicating negation or absence and ταρασσ- tarass- ' to disturb, trouble ' with the abstract noun suffix -ία), generally translated as ' unperturbedness ', ' imperturbability ', ' equanimity ', or ' tranquility ', is a lucid state of robust equanimity characterized by ongoing freedom from distress and worry. In non-philosophical usage, ataraxia was the ideal mental state for soldiers entering battle. Achieving ataraxia is a common goal for Pyrrhonism, Epicureanism, and Stoicism, but the role and value of ataraxia within each philosophy varies in accordance with their philosophical theories. The mental disturbances that prevent one from achieving ataraxia also vary among the philosophies, and each philosophy has a different understanding as to how to achieve ataraxia.\n\nIn Pyrrhonism, ataraxia is the intended result of epoché (i.e., suspension of judgment) regarding all matters of dogma (i.e., non-evident belief), which represents the central aim of Pyrrhonist practice, that is necessary to bring about eudaimonia.\n\nAtaraxia is a key component of the Epicurean conception of pleasure (hedone), which they consider the highest good.: 117–121 Epicureans break pleasure down into two categories: the physical and the mental.: 117–121 They consider mental, not physical, pleasures to be of high importance because physical pleasures exist only in the present; while mental pleasures exist in the past, the present, and the future.: 118–119 Epicureans further separate pleasure into what they call kinetic pleasure, those that come about through action or change, and katastematic pleasures, those that come about through an absence of distress.: 119–120 Those who achieved freedom from physical disturbance were said to be in a state of aponia, while those who achieved freedom from mental disturbances were said to be in a state of ataraxia.: 119–120 Ataraxia, as both a mental and katastematic pleasure, is key to a person's happiness.: 120\n\nIn Stoicism, unlike Pyrrhonism or Epicureanism, ataraxia, or tranquillity of the mind,: 100–101 is not the ultimate goal of life. Instead, the goal is a life of virtue according to nature,: 99 which is intended to bring about apatheia, the absence of unhealthy passions. However, since Stoics in a state of apatheia do not care about matters outside of themselves and are not susceptible to emotion, they would be unable to be disturbed by anything at all, meaning that they were also in a stage of mental tranquillity and thus in a state of ataraxia.: 100–101"
+}

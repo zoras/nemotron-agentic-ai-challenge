@@ -1,0 +1,26 @@
+{
+ "page_id": "14738433",
+ "revision_id": "1339592251",
+ "title": "National Institute for Blind Youth",
+ "url": "https://en.wikipedia.org/wiki/National_Institute_for_Blind_Youth",
+ "text_sha256": "f15a4d65333a82a35d65737fd0701fbd67571ee508e24d44b7716caad80e6819",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+  "source_row_idx": 14839,
+  "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+  "text_sha256": "f15a4d65333a82a35d65737fd0701fbd67571ee508e24d44b7716caad80e6819",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339592251"
+ },
+ "text": "The Institut National des Jeunes Aveugles (INJA; National Institute for Blind Youth) is a special school for blind students in Paris, France. It is considered the first school for the blind in the Western world, and has served as a model for many subsequent schools for blind students.\n\nAt the end of the 18th century, Europeans began to take an interest in the education of the blind. Before that time, the blind were treated as if they were incapable of being educated (despite the fact that many blind people born to families with the means to provide them with individual tutoring had become well educated).\n\nIn 1784, Valentin Haüy, a linguist and translator for the king, appalled at the treatment of blind people and the fact that most blind people were poor and unable to do more than beg for a living, undertook to teach a young blind man called François Lesueur to read raised letters, proving that the blind were capable of reading and writing. His experiment was successful, and in 1785, he founded the Institution des jeunes aveugles (\"Institute for blind youth\"), with the help of the Société philanthropique, a group of benefactors, to teach blind youngsters in a classroom setting.\n\nThe first school operated in Coquillère Street, Paris. In 1786 the school moved to a building on Notre-Dame-des-Victoires rented by the Société philanthropique. On 26 December, some of Haüy's pupils demonstrated their reading and musical skills to Louis XVI, and Haüy was provided with royal funding for 120 pupils, whereupon the school's name was changed to the Institution Royale des Jeunes Aveugles, the \"Royal Institute for Blind Youth\".\n\nIn 1791, after the French Revolution, the school was renamed the Institution nationale des jeunes aveugles (\"National Institute for the Blind Youth\"), and moved to the Couvent des Célestins. In October 1794, it was transferred to 34, St-Denis Street, to a former hospital run by the Filles Ste-Catherine. From 1800 to 1815, the school was merged with the Quinze-Vingts Hospital, and renamed the Institut national des aveugles travailleurs (\"National Institute of the Working Blind\"). During this period, conditions for the students were harsh, and they had little opportunity to advance their academic education.\n\nWith the restoration of the monarchy in 1815, the school was re-established as an independent entity. Sébastien Guillié, a doctor who had studied ophthalmology, became director and moved the school to premises on Saint-Victor Street, which had once been a seminary, but became the site of a notorious massacre of priests during the Revolution. Although he wrote glowing accounts of his success in educating the students, he governed the school with severity and even conducted painful experiments on some blind students.\n\nSébastien Guillié was forced to leave the position in 1821 because of an affair with a female teacher. He was replaced by Alexandre-René Pignier. Pignier introduced many improvements and sought a new building for the school. The building on St-Victor Street was cold, poorly lit, and damp, and many students died or contracted tuberculosis there. Nevertheless, the school earned a reputation as a place where blind pupils could receive education in grammar, arithmetic, music, and history.\n\nLouis Braille, the inventor of the braille system, attended the school in 1819 and later taught there.\n\nIn 1843, the institute moved into a new, bigger building on Boulevard des Invalides, where it still resides today.\n\nThe first organ class for blind students was established at the institute in 1826, and, by 1833, fourteen blind students held organist positions in the churches of Paris. The institute continued to produce a number of successful organists, such as Gabriel Gauthier, Louis Vierne, André Marchal, Jean Langlais, and Gaston Litaize.\n\nPerkins School for the Blind, attended by the famed American deafblind woman Helen Keller, was founded after Samuel Gridley Howe visited the INJA."
+}

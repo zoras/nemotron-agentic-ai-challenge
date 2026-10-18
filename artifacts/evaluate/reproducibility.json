@@ -1,0 +1,127 @@
+{
+ "code": {
+  "revision": "c2c17299241a934d2c41438e940681b578646ebe",
+  "uncommitted_changes": true
+ },
+ "runtime": {
+  "python": "3.12.12",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "packages": {
+   "httpx": "0.28.1",
+   "lancedb": "0.40.0",
+   "numpy": "2.5.4",
+   "pillow": "11.3.0",
+   "pyarrow": "21.0.0",
+   "scikit-learn": "1.9.1",
+   "umap-learn": "0.5.12",
+   "wordfreq": "3.1.1",
+   "matplotlib": "3.11.2"
+  },
+  "hermes": [
+   "Hermes Agent v0.22.2 (2026.9.24) · stable · local d923a5eb487a"
+  ]
+ },
+ "models": {
+  "parse": "nvidia/nemotron-3.5-parse",
+  "embed": {
+   "model": "nvidia/llama-nemotron-embed-vl-1b-v2",
+   "revision": "582e3bf72aee355e3c59ed89de53543c5b0657ee"
+  },
+  "rerank": {
+   "model": "nvidia/llama-nemotron-rerank-vl-1b-v2",
+   "revision": "b8a9987b05b75db5ad949c825cbcbf6eb7c48b5a"
+  },
+  "super": "nvidia/Nemotron-3.5-Super-VL"
+ },
+ "data": {
+  "britannica": {
+   "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+   "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+   "source_file": "data/train-00000-of-00001.parquet",
+   "source_file_sha256": "08f167015db23cb027995b2b6a6bc953b01d7c1ddf667de950465cc2b601af5c",
+   "manifest_sha256": "779542e078756874f23fa6971d7d8a2d8635ad6d9d9484e1deb607d94a28e396",
+   "sample_size": 100
+  },
+  "wikipedia_snapshot_revision": "417c267bb457fa645c22eb3b5c77764963194c70"
+ },
+ "serving": {
+  "id": "aiendpoint-e05fq72pcdhp112106",
+  "name": "retrieval-models",
+  "created_at": "2026-10-18T12:20:30.329587Z",
+  "region": "uk-south2",
+  "image": "pytorch/pytorch:2.8.0-cuda12.8-cudnn9-runtime@sha256:417bd75df6365104c283ea4c1651fb3530d9eb5a4c2fafa51943cff2a94e6385",
+  "platform": "gpu-rtx6000-a",
+  "preset": "1gpu-24vcpu-218gb",
+  "disk": {
+   "type": "NETWORK_SSD",
+   "size_bytes": "107374182400"
+  },
+  "ports": [
+   {
+    "container_port": 8000,
+    "host_port": 8000,
+    "protocol": "HTTP"
+   }
+  ],
+  "container_command": "bash",
+  "args": "/bootstrap/start.sh",
+  "injected_files": [
+   "/bootstrap/start.sh"
+  ],
+  "authentication": "bearer token (value not recorded)",
+  "bootstrap": "infra/nebius/endpoint-bootstrap.sh",
+  "model_service_commit": "baaeb0cbf6b20e21ea1517ea60bda8b2d6392077",
+  "smoke_receipt": "runs/model-service-smoke-aiendpoint-e05fq72pcdhp112106.json",
+  "cost_per_hour_usd": 1.8
+ },
+ "match_method": {
+  "plan": "Super VL reads the top of the scan and the entry text and proposes titles and queries",
+  "title_lookup": "https://en.wikipedia.org/w/api.php maps titles to page IDs (live, unpinned); text comes from the snapshot",
+  "bm25": {
+   "top_k": 20,
+   "excerpt_chars": 1000
+  },
+  "rerank_docs": 32,
+  "navigation_pages": "never accepted",
+  "thresholds": {
+   "topic/continuation/title": {
+    "accept": -4.0,
+    "floor": -6.5
+   },
+   "topic/continuation/keyword": {
+    "accept": -1.5,
+    "floor": -4.0
+   },
+   "topic/headword/title": {
+    "accept": -3.5,
+    "floor": -6.0
+   },
+   "topic/headword/keyword": {
+    "accept": -2.0,
+    "floor": -4.5
+   },
+   "subtopic/continuation/title": {
+    "accept": -4.8,
+    "floor": -7.0
+   },
+   "subtopic/continuation/keyword": {
+    "accept": -2.0,
+    "floor": -4.5
+   }
+  },
+  "threshold_source": "evaluation/match_labels.json; precision in artifacts/evaluate/match_calibration.json"
+ },
+ "agent_runs": [
+  "artifacts/agent/runs/q1-sydenham-facts-20261018T140143Z.json",
+  "artifacts/agent/runs/q2-language-change-20261018T140210Z.json",
+  "artifacts/agent/runs/q3-abyssinia-20261018T140239Z.json",
+  "artifacts/agent/runs/q4-missing-20261018T140315Z.json",
+  "artifacts/agent/runs/q4-missing-20261018T141715Z.json",
+  "artifacts/agent/runs/q4-missing-20261018T141746Z.json",
+  "artifacts/agent/runs/q5-scan-check-20261018T140345Z.json",
+  "artifacts/agent/runs/q5-scan-check-20261018T141719Z.json",
+  "artifacts/agent/runs/q5-scan-check-20261018T141816Z.json",
+  "artifacts/agent/runs/q6-uncertain-20261018T140538Z.json"
+ ],
+ "created_at": "2026-10-18T14:25:50+00:00"
+}

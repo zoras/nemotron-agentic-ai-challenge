@@ -1,0 +1,26 @@
+{
+ "page_id": "609058",
+ "revision_id": "1339406097",
+ "title": "Ostyak",
+ "url": "https://en.wikipedia.org/wiki/Ostyak",
+ "text_sha256": "f8999b0ce0c2c8b40c26e437d692da421c6de14e00cf90a6f24e31e1d70b6799",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+  "source_row_idx": 14584,
+  "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+  "text_sha256": "f8999b0ce0c2c8b40c26e437d692da421c6de14e00cf90a6f24e31e1d70b6799",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339406097"
+ },
+ "text": "Ostyak (Russian: Остя́к) is a name formerly used to refer to several Indigenous peoples and languages in Siberia, Russia. Both the Khanty people and the Ket people were formerly called Ostyaks, whereas the Selkup people were referred to as Ostyak-Samoyed.\n\nThe Khanty people, who also call themselves Khanti, Khande, or Kantek were known to the Russians as Yugra in the eleventh century, with the name Ostyak first appearing in the sixteenth century. The Soviet Union began using the endonym Khant or Khanty during the 1930s.\n\nAs of 2002 some 28,000 people identify as Khanty, primarily in Tyumen Oblast, which includes the Khanty–Mansi Autonomous Okrug.\n\nThe Khanty languages, also known as Hanty, Khant, Xanty, or Ostyak, are a Uralic language group with about 9,500 native speakers.\n\nThe Kets historically lived near the Yenisei River in the Krasnoyarsk Krai district of Russia. The Imperial Russians originally called them Ostyak, and later Yenisei Ostyak. Fewer than 1,500 people identified themselves as Ket during the 2002 Russian census.\n\nThe Ket language, also known as Imbatski-Ket or Yenisei Ostyak, is a Yeniseian language. It is considered severely endangered to moribund.\n\nThe Selkup people were known as Ostyak-Samoyeds until the 1930s. They are descended from both Yeniseian and Samoyedic peoples, and live in the northern parts of the Siberian plain. About 4,000 people identified as Selkup during the 2002 Russian census.\n\nThe Selkup language, also known as Selkups, Chumyl' Khumyt, Shöl Khumyt, Shösh Gulla, Syusugulla, or Ostyak Samoyed, is a Uralic Samoyedic language with perhaps two thousand or more native speakers. The northern dialect is taught in some schools."
+}

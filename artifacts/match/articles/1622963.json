@@ -1,0 +1,26 @@
+{
+ "page_id": "1622963",
+ "revision_id": "1351771696",
+ "title": "Jufureh",
+ "url": "https://en.wikipedia.org/wiki/Jufureh",
+ "text_sha256": "e2461347067a495341c256911a873a9780ff4f3e084fa7cae1efe9f5f46e29c4",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "0ec6e33b1f4d24a667e8a67d7b985859fc0760333a477bbee378bcf20301ebd5",
+  "source_row_idx": 23907,
+  "source_shard": "enwiki/data/enwiki_namespace_0_61.parquet",
+  "text_sha256": "e2461347067a495341c256911a873a9780ff4f3e084fa7cae1efe9f5f46e29c4",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351771696"
+ },
+ "text": "Jufureh (also spelled Juffureh or Juffure) is a town in the Gambia, 30 kilometres inland on the north bank of the River Gambia in the North Bank Division near Kunta Kinteh Island. The town is home to a museum and Fort Jillifree.\n\nJufureh is known for its appearance in Alex Haley 's 1976 novel Roots: The Saga of an American Family, as the birthplace of Haley's ancestor Kunta Kinte. After the publication of Roots, Jufureh became a significant tourist destination. This led to economic benefits for the town, including the construction of an elementary school, a new market aimed at tourists, and improved roads.\n\nJufureh was founded by Samba Taal, a Muslim Torodbe from Futa Toro, within the Kingdom of Niumi. The alkalo of Juffure was among the most powerful nobles of Niumi. The Taal (or Tall) family traditionally held the position of falifo in the kingdom, and were responsible for collecting customs revenue from passing traders and adjudicating disputes.\n\nIn 1651 a small plot of land from the village was leased by Jacob Kettler, the Duke of Courland, from the king of Kombo, as part of the Couronian colonization of Africa. By the 18th century the town had become an important centre of the Atlantic slave trade.\n\nThe town took part in the Marabout revolt launched in the 1860s against the Niumi king Buntung Jammeh and as a result the town was razed by the royal forces. In 1866 the British bombarded the town from the river.\n\nDemographically, the predominant religion in the village is Islam. In 1999, a mosque and school, the Alex Haley Mosque and School Complex, was opened in Jufureh, where Haley traced back his ancestry through genealogical research."
+}

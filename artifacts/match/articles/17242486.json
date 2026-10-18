@@ -1,0 +1,26 @@
+{
+ "page_id": "17242486",
+ "revision_id": "1324704638",
+ "title": "Nayo",
+ "url": "https://en.wikipedia.org/wiki/Nayo",
+ "text_sha256": "608b5dd024e359bd6f997d42ecbbc90757ca05b1842848ffc5f07103a763cce8",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+  "source_row_idx": 71012,
+  "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+  "text_sha256": "608b5dd024e359bd6f997d42ecbbc90757ca05b1842848ffc5f07103a763cce8",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1324704638"
+ },
+ "text": "Nayo is a village in Bhamo Township in Bhamo District in the Kachin State of north-eastern Burma."
+}

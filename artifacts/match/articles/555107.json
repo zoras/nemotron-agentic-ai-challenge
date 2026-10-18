@@ -1,0 +1,26 @@
+{
+ "page_id": "555107",
+ "revision_id": "1335523264",
+ "title": "Akçe",
+ "url": "https://en.wikipedia.org/wiki/Ak%C3%A7e",
+ "text_sha256": "2e170c23c1a0e568ed440291b2f00e218f832d92352d1e4c36c7549943a46296",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+  "source_row_idx": 19546,
+  "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+  "text_sha256": "2e170c23c1a0e568ed440291b2f00e218f832d92352d1e4c36c7549943a46296",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335523264"
+ },
+ "text": "The akçe or akça (anglicized as akche, akcheh or aqcha; Ottoman Turkish: آقچه; Turkish pronunciation:,, in Europe known as asper) was a silver coin mainly known for being the chief monetary unit of the Ottoman Empire. It was also used in other states including the Anatolian Beyliks, the Aq Qoyunlu, and the Crimean Khanate. The basic meaning of the word is \"silver\" or \"silver money\", deriving from the Turkish word ak (' white ') and the diminutive suffix -ça.\n\nThree akçe s were equal to one para. One-hundred and twenty akçe s equalled one kuruş. Later after 1687 the kuruş became the main unit of account, replacing the akçe. In 1843, the silver kuruş was joined by the gold lira in a bimetallic system. Its weight fluctuated; one source estimates it between 1.15 and 1.18 grams. The name akçe originally referred to a silver coin but later the meaning changed and it became a synonym for money.\n\nThe mint in Novo Brdo, a fortified mining town in the Serbian Despotate rich with gold and silver mines, began to strike akçe in 1441 when it was captured by the Ottoman forces for the first time.\n\nThe Suleiman Mosque in Istanbul is said to have cost 59 million akçe when it was constructed in the 1550s. This amount is said to have equalled 700,000 ducats in gold (probably Venetian).\n\nSilver content and index in an Ottoman akçe.\n\nValue compared to the gold ducat of Venice by years:"
+}

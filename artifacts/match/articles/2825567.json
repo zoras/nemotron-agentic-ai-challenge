@@ -1,0 +1,26 @@
+{
+ "page_id": "2825567",
+ "revision_id": "1345478653",
+ "title": "Comines, Nord",
+ "url": "https://en.wikipedia.org/wiki/Comines,_Nord",
+ "text_sha256": "cb0cb1e88c295b9e5c486c9b2e98ca7135ea5aa0e0e2e0399fa06026a4a88054",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Wikipedia contributors",
+  "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+ },
+ "provenance": {
+  "dataset": "wikimedia/structured-wikipedia",
+  "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+  "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+  "source_key": "0f355e45447e556b76cdc0b7fb9f39949fd643845a381d48cfcfe69b541f2822",
+  "source_row_idx": 73856,
+  "source_shard": "enwiki/data/enwiki_namespace_0_19.parquet",
+  "text_sha256": "cb0cb1e88c295b9e5c486c9b2e98ca7135ea5aa0e0e2e0399fa06026a4a88054",
+  "extraction": "sections",
+  "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345478653"
+ },
+ "text": "Comines (French pronunciation:; Dutch: Komen) is a commune of the Nord department in northern France.\n\nThe town of Comines sits on the Franco-Belgian border and is split into two parts: Comines (France) and Comines (Belgium), part of the municipality of Comines-Warneton.\n\nThe Hôtel de Ville and belfry were completed in 1929 and 1932 respectively. The belfry of Comines was listed as a UNESCO World Heritage Site as part of the Belfries of Belgium and France in 2005, in recognition of its importance to the history of municipal power in Europe."
+}
