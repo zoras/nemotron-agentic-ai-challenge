@@ -204,7 +204,7 @@
   },
   {
    "order": 2,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Reign of George III. 1800.",
    "bbox": [
     0.0,
@@ -212,6 +212,7 @@
     0.0617,
     0.1218
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2087-4b834c6b315d:b2"
   },

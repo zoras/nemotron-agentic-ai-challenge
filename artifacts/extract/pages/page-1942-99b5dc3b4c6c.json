@@ -228,7 +228,7 @@
   },
   {
    "order": 3,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Prepara-tions.",
    "bbox": [
     0.0235,
@@ -236,6 +236,7 @@
     0.0847,
     0.0713
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1942-99b5dc3b4c6c:b3"
   },
@@ -425,7 +426,7 @@
   },
   {
    "order": 18,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Preparations",
    "bbox": [
     0.9161,
@@ -433,6 +434,7 @@
     0.9752,
     0.0721
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1942-99b5dc3b4c6c:b18"
   },

@@ -231,7 +231,7 @@
   },
   {
    "order": 4,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "_Theorie del Sentiments agréable._",
    "bbox": [
     0.0222,
@@ -239,6 +239,7 @@
     0.0893,
     0.2993
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2093-4b43bdcc663f:b4"
   },
@@ -310,7 +311,7 @@
   },
   {
    "order": 10,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Senles",
    "bbox": [
     0.8157,
@@ -318,6 +319,7 @@
     0.8777,
     0.1023
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2093-4b43bdcc663f:b10"
   },

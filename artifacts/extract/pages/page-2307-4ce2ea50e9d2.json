@@ -375,7 +375,7 @@
   },
   {
    "order": 14,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Algiers.",
    "bbox": [
     0.8961,
@@ -383,12 +383,13 @@
     0.9695,
     0.0673
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2307-4ce2ea50e9d2:b14"
   },
   {
    "order": 15,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "29 Siege of Algiers raifed.",
    "bbox": [
     0.8936,
@@ -396,12 +397,13 @@
     0.97,
     0.1138
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2307-4ce2ea50e9d2:b15"
   },
   {
    "order": 16,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "19 The msd prophet re- warded.",
    "bbox": [
     0.8931,
@@ -409,12 +411,13 @@
     0.967,
     0.283
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2307-4ce2ea50e9d2:b16"
   },
   {
    "order": 17,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "20 Freth cala- miles of the Spaniards.",
    "bbox": [
     0.897,
@@ -422,12 +425,13 @@
     0.972,
     0.5565
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2307-4ce2ea50e9d2:b17"
   },
   {
    "order": 18,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "21 Haffan re- places Tre- mecen.",
    "bbox": [
     0.8966,
@@ -435,6 +439,7 @@
     0.961,
     0.8705
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2307-4ce2ea50e9d2:b18"
   }

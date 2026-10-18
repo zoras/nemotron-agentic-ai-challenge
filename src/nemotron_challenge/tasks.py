@@ -16,9 +16,11 @@ def _unfinished(stage: str) -> None:
 
 
 def extract(settings: Settings, work_dir: Path, scan_dir: Path = Path("data/raw/britannica")) -> dict[str, Any]:
-    """Parse every sample scan: one full-page layout pass, then masked column crops at 3x. Replies are cached."""
+    """Parse every sample scan: one full-page layout pass, then masked column crops at 3x. Replies are cached.
+    Then split the pages into entries and join entries that continue onto the next scan."""
     from .clients import ParseClient
     from .data import load_manifest
+    from .entries import write_entries
     from .extract import ParseRunner, extract_pages, write_extraction
 
     manifest = load_manifest()
@@ -27,7 +29,9 @@ def extract(settings: Settings, work_dir: Path, scan_dir: Path = Path("data/raw/
         runner = ParseRunner(client, out_dir / "raw")
         records = extract_pages(runner, manifest["pages"], scan_dir)
     summary = write_extraction(out_dir, manifest, records, runner.requests_sent)
-    return {key: summary[key] for key in ("stage", "code_revision", "coverage")} | {"output_dir": str(out_dir)}
+    entries = write_entries(out_dir, records)
+    return {key: summary[key] for key in ("stage", "code_revision", "coverage")} | {
+        "entries": entries, "output_dir": str(out_dir)}
 
 
 def match(settings: Settings, work_dir: Path) -> dict[str, Any]:

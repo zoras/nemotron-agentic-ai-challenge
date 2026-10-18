@@ -266,7 +266,7 @@
   },
   {
    "order": 6,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "8 low to precipitate metals by metals.",
    "bbox": [
     0.0,
@@ -274,6 +274,7 @@
     0.0584,
     0.9102
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1466-bb41810e6962:b6"
   },
@@ -384,7 +385,7 @@
   },
   {
    "order": 15,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Effaying<sup>∗</sup>",
    "bbox": [
     0.8476,
@@ -392,12 +393,13 @@
     0.9152,
     0.0764
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1466-bb41810e6962:b15"
   },
   {
    "order": 16,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "9 Weights\nufed in Mr Bergman's experientents.",
    "bbox": [
     0.8422,
@@ -405,12 +407,13 @@
     0.9146,
     0.1457
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1466-bb41810e6962:b16"
   },
   {
    "order": 17,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "How to ef- fay the ores of gold.",
    "bbox": [
     0.8406,
@@ -418,12 +421,13 @@
     0.9141,
     0.2567
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1466-bb41810e6962:b17"
   },
   {
    "order": 18,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Iz Native gold.",
    "bbox": [
     0.84,
@@ -431,12 +435,13 @@
     0.8855,
     0.348
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1466-bb41810e6962:b18"
   },
   {
    "order": 19,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Iz Ores of this metal pro- perly to cal- led.",
    "bbox": [
     0.8384,
@@ -444,12 +449,13 @@
     0.9087,
     0.6105
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1466-bb41810e6962:b19"
   },
   {
    "order": 20,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "I3 Gold mine- realized by fulphur.",
    "bbox": [
     0.8298,
@@ -457,6 +463,7 @@
     0.9038,
     0.8851
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1466-bb41810e6962:b20"
   },

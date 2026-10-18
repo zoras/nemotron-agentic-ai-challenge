@@ -227,7 +227,7 @@
   },
   {
    "order": 3,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "6 Thediftiec-tion introduced into the military order by the ufe of cavalry.",
    "bbox": [
     0.028,
@@ -235,6 +235,7 @@
     0.0976,
     0.2323
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1649-e6a1fc569876:b3"
   },
@@ -253,7 +254,7 @@
   },
   {
    "order": 5,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "7 Military di- finitions a mong the ancient Germans.",
    "bbox": [
     0.035,
@@ -261,6 +262,7 @@
     0.1027,
     0.6199
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1649-e6a1fc569876:b5"
   },
@@ -384,7 +386,7 @@
   },
   {
    "order": 15,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Chivalry.",
    "bbox": [
     0.8423,
@@ -392,12 +394,13 @@
     0.9038,
     0.071
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1649-e6a1fc569876:b15"
   },
   {
    "order": 16,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "8 Reflectability of the women a-mong the Germans.",
    "bbox": [
     0.8381,
@@ -405,6 +408,7 @@
     0.9096,
     0.1611
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1649-e6a1fc569876:b16"
   }

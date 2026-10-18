@@ -241,7 +241,7 @@
   },
   {
    "order": 4,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "The two\nkings re-\nfuse to ad\nmit Aria-\nnism.",
    "bbox": [
     0.0199,
@@ -249,6 +249,7 @@
     0.0815,
     0.2669
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2569-e8e9334880f9:b4"
   },
@@ -267,7 +268,7 @@
   },
   {
    "order": 6,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Account of\nthe war of\nthe ele-\nphant",
    "bbox": [
     0.0194,
@@ -275,6 +276,7 @@
     0.0881,
     0.3453
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2569-e8e9334880f9:b6"
   },
@@ -385,7 +387,7 @@
   },
   {
    "order": 15,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Abyssinie. Reconver- sion to Christianity under Eles- ban. Christians persecuted in Arabia.",
    "bbox": [
     0.8475,
@@ -393,12 +395,13 @@
     0.9314,
     0.1787
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2569-e8e9334880f9:b15"
   },
   {
    "order": 16,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Cruelty of Phineas a Jewish prince.",
    "bbox": [
     0.8569,
@@ -406,12 +409,13 @@
     0.9177,
     0.2827
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2569-e8e9334880f9:b16"
   },
   {
    "order": 17,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Ethiopians driven out of Arabia.",
    "bbox": [
     0.848,
@@ -419,12 +423,13 @@
     0.9775,
     0.7739
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2569-e8e9334880f9:b17"
   },
   {
    "order": 18,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Number of Jews in Ethiopia in creased.",
    "bbox": [
     0.8459,
@@ -432,6 +437,7 @@
     0.9162,
     0.8682
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2569-e8e9334880f9:b18"
   }

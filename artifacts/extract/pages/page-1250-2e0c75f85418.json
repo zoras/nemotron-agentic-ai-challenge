@@ -373,7 +373,7 @@
   },
   {
    "order": 14,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Coinsge.",
    "bbox": [
     0.9353,
@@ -381,12 +381,13 @@
     0.9954,
     0.0726
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1250-2e0c75f85418:b14"
   },
   {
    "order": 15,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Plate CXLIV.",
    "bbox": [
     0.9357,
@@ -394,6 +395,7 @@
     0.9995,
     0.2991
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1250-2e0c75f85418:b15"
   },

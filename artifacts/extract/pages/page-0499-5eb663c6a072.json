@@ -307,7 +307,7 @@
   },
   {
    "order": 9,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Expedition of Seleucus to India.",
    "bbox": [
     0.8518,
@@ -315,6 +315,7 @@
     0.9217,
     0.4108
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-0499-5eb663c6a072:b9"
   },

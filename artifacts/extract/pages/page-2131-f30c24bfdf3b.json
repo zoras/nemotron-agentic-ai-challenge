@@ -371,7 +371,7 @@
   },
   {
    "order": 14,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "7. Different\nkinds of\nferpents\nfound here.",
    "bbox": [
     0.8206,
@@ -379,6 +379,7 @@
     0.8892,
     0.8549
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2131-f30c24bfdf3b:b14"
   }

@@ -373,7 +373,7 @@ def label_margin_notes(blocks: list[dict[str, Any]], region: str) -> None:
     for block in blocks:
         x0, _, x1, _ = block["bbox"]
         outside = x1 <= left + 0.01 if region.endswith("col-left") or "col-left." in region else x0 >= right - 0.01
-        short = block["class"] in {"Text", "Section-header", "List-item", "Title"} or (
+        short = block["class"] in {"Text", "Section-header", "List-item", "Title", "Caption"} or (
             block["class"] == "Picture" and 0 < len(block["text"]) < 80)
         if x1 - x0 < 0.15 and outside and short:
             block["parse_class"], block["class"] = block["class"], "Margin-note"

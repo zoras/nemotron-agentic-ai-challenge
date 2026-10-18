@@ -580,7 +580,7 @@
   },
   {
    "order": 30,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "6\nPl XCVIII.\nbg.9.",
    "bbox": [
     0.8332,
@@ -588,6 +588,7 @@
     0.9073,
     0.7294
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2155-e6a255b57f58:b30"
   }

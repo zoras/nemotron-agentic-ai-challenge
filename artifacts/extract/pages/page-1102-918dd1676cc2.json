@@ -218,7 +218,7 @@
   },
   {
    "order": 3,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Comines 1 Comitia.",
    "bbox": [
     0.1076,
@@ -226,6 +226,7 @@
     0.1655,
     0.1291
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1102-918dd1676cc2:b3"
   },
@@ -323,7 +324,7 @@
   },
   {
    "order": 11,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Comitls",
    "bbox": [
     0.957,
@@ -331,6 +332,7 @@
     0.9978,
     0.0986
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1102-918dd1676cc2:b11"
   },

@@ -241,7 +241,7 @@
   },
   {
    "order": 4,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "58",
    "bbox": [
     0.0557,
@@ -249,6 +249,7 @@
     0.0815,
     0.1092
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1933-ae507137e9dc:b4"
   },
@@ -280,7 +281,7 @@
   },
   {
    "order": 7,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "70",
    "bbox": [
     0.0506,
@@ -288,6 +289,7 @@
     0.0805,
     0.6127
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1933-ae507137e9dc:b7"
   },
@@ -412,7 +414,7 @@
   },
   {
    "order": 17,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "71",
    "bbox": [
     0.943,
@@ -420,12 +422,13 @@
     0.9652,
     0.0962
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1933-ae507137e9dc:b17"
   },
   {
    "order": 18,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "72",
    "bbox": [
     0.941,
@@ -433,12 +436,13 @@
     0.9657,
     0.2567
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1933-ae507137e9dc:b18"
   },
   {
    "order": 19,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "73",
    "bbox": [
     0.9406,
@@ -446,12 +450,13 @@
     0.9661,
     0.3716
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1933-ae507137e9dc:b19"
   },
   {
    "order": 20,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "74",
    "bbox": [
     0.9357,
@@ -459,12 +464,13 @@
     0.9705,
     0.6234
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1933-ae507137e9dc:b20"
   },
   {
    "order": 21,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "75",
    "bbox": [
     0.9352,
@@ -472,6 +478,7 @@
     0.9623,
     0.7344
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1933-ae507137e9dc:b21"
   }

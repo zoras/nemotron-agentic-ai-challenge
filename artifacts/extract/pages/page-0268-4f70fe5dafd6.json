@@ -214,7 +214,7 @@
   },
   {
    "order": 2,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Laurus.",
    "bbox": [
     0.0657,
@@ -222,6 +222,7 @@
     0.1335,
     0.0855
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0268-4f70fe5dafd6:b2"
   },
@@ -292,7 +293,7 @@
   },
   {
    "order": 8,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "_Rale’s Travel in America._",
    "bbox": [
     0.0773,
@@ -300,6 +301,7 @@
     0.1414,
     0.9069
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0268-4f70fe5dafd6:b8"
   },

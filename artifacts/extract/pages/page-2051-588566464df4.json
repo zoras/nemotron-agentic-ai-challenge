@@ -211,7 +211,7 @@
   },
   {
    "order": 3,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "8 Her death",
    "bbox": [
     0.114,
@@ -219,12 +219,13 @@
     0.1772,
     0.257
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2051-588566464df4:b3"
   },
   {
    "order": 4,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "7 Monarchy abolished.",
    "bbox": [
     0.1135,
@@ -232,12 +233,13 @@
     0.1745,
     0.4148
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2051-588566464df4:b4"
   },
   {
    "order": 5,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "8 Reftored.",
    "bbox": [
     0.1129,
@@ -245,12 +247,13 @@
     0.1718,
     0.5148
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2051-588566464df4:b5"
   },
   {
    "order": 6,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "9 Written laws when first introduced.",
    "bbox": [
     0.1145,
@@ -258,6 +261,7 @@
     0.1788,
     0.8781
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2051-588566464df4:b6"
   },
@@ -367,7 +371,7 @@
   },
   {
    "order": 15,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Lombards.",
    "bbox": [
     0.9113,
@@ -375,12 +379,13 @@
     0.9737,
     0.1047
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2051-588566464df4:b15"
   },
   {
    "order": 16,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "to Luitprand's ambition.",
    "bbox": [
     0.9099,
@@ -388,12 +393,13 @@
     0.9728,
     0.4281
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2051-588566464df4:b16"
   },
   {
    "order": 17,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "H Be belieges and at last takes Ravenna.",
    "bbox": [
     0.909,
@@ -401,6 +407,7 @@
     0.9755,
     0.8164
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-2051-588566464df4:b17"
   }

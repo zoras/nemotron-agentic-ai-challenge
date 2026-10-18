@@ -276,7 +276,7 @@
   },
   {
    "order": 8,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Hedges.",
    "bbox": [
     0.8542,
@@ -284,12 +284,13 @@
     0.9216,
     0.0922
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1324-2cfbaa25a150:b8"
   },
   {
    "order": 9,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Reafons for planting oak trees in hedges.",
    "bbox": [
     0.848,
@@ -297,6 +298,7 @@
     0.9222,
     0.2508
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1324-2cfbaa25a150:b9"
   },

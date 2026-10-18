@@ -307,7 +307,7 @@
   },
   {
    "order": 9,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Thouroat\nThrapton.",
    "bbox": [
     0.8665,
@@ -315,6 +315,7 @@
     0.9314,
     0.1079
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-0604-c50a825dd732:b9"
   },

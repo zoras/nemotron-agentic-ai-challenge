@@ -241,7 +241,7 @@
   },
   {
    "order": 4,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "See\nCook's\n_Difcore-_\nrier, no 95 -100",
    "bbox": [
     0.0394,
@@ -249,6 +249,7 @@
     0.1041,
     0.2691
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2296-487afb796c01:b4"
   },
@@ -267,7 +268,7 @@
   },
   {
    "order": 6,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Infur-\nmountable\nobtacles\nin the\nnorth-east\npallage.",
    "bbox": [
     0.0431,
@@ -275,6 +276,7 @@
     0.1069,
     0.4656
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2296-487afb796c01:b6"
   },
@@ -293,7 +295,7 @@
   },
   {
    "order": 8,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Of the\nnorth-weft\npallage.",
    "bbox": [
     0.0436,
@@ -301,6 +303,7 @@
     0.1078,
     0.5548
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2296-487afb796c01:b8"
   },
@@ -319,7 +322,7 @@
   },
   {
    "order": 10,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "See\nCook's\n_Difcore-_\nrier, no 21.",
    "bbox": [
     0.0441,
@@ -327,12 +330,13 @@
     0.1167,
     0.7218
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2296-487afb796c01:b10"
   },
   {
    "order": 11,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "3 Barring-\nton's argu-\nments in\nfavour of\na possibility\nof reaching\nthe pole.",
    "bbox": [
     0.052,
@@ -340,6 +344,7 @@
     0.1172,
     0.8057
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2296-487afb796c01:b11"
   },

@@ -218,7 +218,7 @@
   },
   {
    "order": 3,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Edwards,\nBryan.",
    "bbox": [
     0.0855,
@@ -226,6 +226,7 @@
     0.1454,
     0.0943
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1298-4795a8a1d020:b3"
   },

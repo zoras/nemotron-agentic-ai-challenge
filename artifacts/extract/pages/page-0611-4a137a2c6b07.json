@@ -269,7 +269,7 @@
   },
   {
    "order": 7,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Fig. 19.",
    "bbox": [
     0.0682,
@@ -277,6 +277,7 @@
     0.1138,
     0.7696
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0611-4a137a2c6b07:b7"
   },
@@ -387,7 +388,7 @@
   },
   {
    "order": 16,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Fig. 30",
    "bbox": [
     0.8826,
@@ -395,6 +396,7 @@
     0.9472,
     0.1172
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-0611-4a137a2c6b07:b16"
   }

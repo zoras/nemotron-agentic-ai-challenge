@@ -334,7 +334,7 @@
   },
   {
    "order": 11,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Cappanse\nIl Capra.",
    "bbox": [
     0.8436,
@@ -342,6 +342,7 @@
     0.9082,
     0.0849
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1670-ced69857efba:b11"
   },

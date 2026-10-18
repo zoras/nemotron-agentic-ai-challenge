@@ -185,7 +185,7 @@
   },
   {
    "order": 1,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "England.",
    "bbox": [
     0.0271,
@@ -193,6 +193,7 @@
     0.0991,
     0.0625
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0513-b5d3417f845a:b1"
   },

@@ -253,7 +253,7 @@
   },
   {
    "order": 5,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "2 Compofed of an acid and phlogition.",
    "bbox": [
     0.0451,
@@ -261,12 +261,13 @@
     0.1203,
     0.4528
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1722-bda8f6e99dca:b5"
   },
   {
    "order": 6,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "4 Sulphur the chief mine-ralizer of metals.",
    "bbox": [
     0.0456,
@@ -274,6 +275,7 @@
     0.1163,
     0.8833
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1722-bda8f6e99dca:b6"
   },
@@ -345,7 +347,7 @@
   },
   {
    "order": 12,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Arfenic.\n5 An arfeni-\ncal pria-\nciple cro-\nrecouly fup-\npofed necef-\nfury for the\nperfection\nof metals.",
    "bbox": [
     0.8972,
@@ -353,12 +355,13 @@
     0.9723,
     0.1613
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1722-bda8f6e99dca:b12"
   },
   {
    "order": 13,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "6 Acid of\narfenic a\nminerali-\nzing fub-\nflance.",
    "bbox": [
     0.8981,
@@ -366,12 +369,13 @@
     0.9588,
     0.2958
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1722-bda8f6e99dca:b13"
   },
   {
    "order": 14,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "7 Poifonous\nqualities of\narfenic and\nits acid.",
    "bbox": [
     0.8976,
@@ -379,12 +383,13 @@
     0.9665,
     0.3514
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1722-bda8f6e99dca:b14"
   },
   {
    "order": 15,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "8 Why it is\nmore dan-\ngerous than\nothers.",
    "bbox": [
     0.8986,
@@ -392,12 +397,13 @@
     0.9704,
     0.4635
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1722-bda8f6e99dca:b15"
   },
   {
    "order": 16,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "9 Symptoms\nattending\nthe fwal-\nlowing of\narfenic.",
    "bbox": [
     0.8952,
@@ -405,6 +411,7 @@
     0.9602,
     0.7287
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1722-bda8f6e99dca:b16"
   }

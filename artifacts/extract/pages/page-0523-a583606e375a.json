@@ -228,7 +228,7 @@
   },
   {
    "order": 3,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Endlefs\nEngine.",
    "bbox": [
     0.0348,
@@ -236,6 +236,7 @@
     0.0918,
     0.0728
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0523-a583606e375a:b3"
   },
@@ -567,7 +568,7 @@
   },
   {
    "order": 29,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Englie England.",
    "bbox": [
     0.9152,
@@ -575,12 +576,13 @@
     0.9818,
     0.0721
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-0523-a583606e375a:b29"
   },
   {
    "order": 30,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Inhabited by 17 dif- ferent na-tions.",
    "bbox": [
     0.9028,
@@ -588,6 +590,7 @@
     0.9684,
     0.8826
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-0523-a583606e375a:b30"
   },

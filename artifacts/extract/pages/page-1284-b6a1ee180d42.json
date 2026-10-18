@@ -214,7 +214,7 @@
   },
   {
    "order": 2,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Scotland.",
    "bbox": [
     0.0398,
@@ -222,6 +222,7 @@
     0.1001,
     0.0583
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1284-b6a1ee180d42:b2"
   },
@@ -266,7 +267,7 @@
   },
   {
    "order": 6,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "816",
    "bbox": [
     0.0349,
@@ -274,6 +275,7 @@
     0.1031,
     0.7568
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1284-b6a1ee180d42:b6"
   },
@@ -346,7 +348,7 @@
   },
   {
    "order": 12,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Scotland- 817 Judgment given a- gaint her.",
    "bbox": [
     0.9048,
@@ -354,12 +356,13 @@
     0.9731,
     0.1111
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1284-b6a1ee180d42:b12"
   },
   {
    "order": 13,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "218 The fen- tence ratifi ed by the English parliament.",
    "bbox": [
     0.9023,
@@ -367,12 +370,13 @@
     0.976,
     0.2664
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1284-b6a1ee180d42:b13"
   },
   {
    "order": 14,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "819 Imbecillity of James, and ex treme info- lence and bigotry of his clergy.",
    "bbox": [
     0.9013,
@@ -380,6 +384,7 @@
     0.9737,
     0.7032
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1284-b6a1ee180d42:b14"
   }

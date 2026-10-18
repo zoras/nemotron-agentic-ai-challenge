@@ -218,7 +218,7 @@
   },
   {
    "order": 3,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Of the Con-\nfitcent Parts of Shells, &c.",
    "bbox": [
     0.0892,
@@ -226,6 +226,7 @@
     0.1588,
     0.1219
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0473-4ab88a7103cd:b3"
   },

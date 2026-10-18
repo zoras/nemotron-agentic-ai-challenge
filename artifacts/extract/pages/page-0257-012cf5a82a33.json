@@ -185,7 +185,7 @@
   },
   {
    "order": 1,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "_Swift._",
    "bbox": [
     0.037,
@@ -193,6 +193,7 @@
     0.1047,
     0.0672
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0257-012cf5a82a33:b1"
   },
@@ -250,7 +251,7 @@
   },
   {
    "order": 6,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "• See In- way into the Life of Dean Swift, pre- fixed to Literary Re- lies, printed in 1789, for Eliot and Kay.",
    "bbox": [
     0.0406,
@@ -258,6 +259,7 @@
     0.1156,
     0.6438
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0257-012cf5a82a33:b6"
   },

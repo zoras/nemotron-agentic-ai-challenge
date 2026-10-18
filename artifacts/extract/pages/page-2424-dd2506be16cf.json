@@ -227,7 +227,7 @@
   },
   {
    "order": 3,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Best mode of housing cattle.",
    "bbox": [
     0.0314,
@@ -235,6 +235,7 @@
     0.0903,
     0.4317
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-2424-dd2506be16cf:b3"
   },

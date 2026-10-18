@@ -237,7 +237,7 @@
   },
   {
    "order": 2,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Lyre.",
    "bbox": [
     0.0157,
@@ -245,6 +245,7 @@
     0.0818,
     0.0662
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1904-759854fd95bb:b2"
   },

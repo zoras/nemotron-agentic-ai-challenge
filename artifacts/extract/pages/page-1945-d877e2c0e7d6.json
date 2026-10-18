@@ -307,7 +307,7 @@
   },
   {
    "order": 9,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "5605 Optical Instruments",
    "bbox": [
     0.9003,
@@ -315,6 +315,7 @@
     0.979,
     0.0819
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-1945-d877e2c0e7d6:b9"
   },

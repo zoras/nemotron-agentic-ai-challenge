@@ -226,7 +226,7 @@
     0.1177,
     0.112
    ],
-   "parse_class": "Caption",
+   "parse_class": "Margin-note",
    "source": "s0-col-left",
    "id": "page-0383-018fb71412b2:b3"
   },
@@ -391,7 +391,7 @@
   },
   {
    "order": 16,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Book i. cb. v. vi. via",
    "bbox": [
     0.9089,
@@ -399,6 +399,7 @@
     0.9676,
     0.2882
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-0383-018fb71412b2:b16"
   },

@@ -332,7 +332,7 @@
   },
   {
    "order": 11,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Weights",
    "bbox": [
     0.8717,
@@ -340,6 +340,7 @@
     0.9254,
     0.0763
    ],
+   "parse_class": "Caption",
    "source": "s0-col-right",
    "id": "page-0104-9aaa833a4643:b11"
   },

@@ -295,7 +295,7 @@
   },
   {
    "order": 9,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Plate CCXII.",
    "bbox": [
     0.0621,
@@ -303,6 +303,7 @@
     0.1123,
     0.5796
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0851-6e2a0b999324:b9"
   },

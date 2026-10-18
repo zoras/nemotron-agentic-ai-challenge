@@ -214,7 +214,7 @@
   },
   {
    "order": 2,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Etna.",
    "bbox": [
     0.0771,
@@ -222,6 +222,7 @@
     0.138,
     0.0892
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0247-cb5b8fd3e311:b2"
   },
@@ -279,7 +280,7 @@
   },
   {
    "order": 7,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "4T Impofilie to walk round the crater.",
    "bbox": [
     0.0797,
@@ -287,12 +288,13 @@
     0.1427,
     0.8307
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0247-cb5b8fd3e311:b7"
   },
   {
    "order": 8,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Plate CLXXXIV.",
    "bbox": [
     0.0823,
@@ -300,6 +302,7 @@
     0.1416,
     0.9373
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-0247-cb5b8fd3e311:b8"
   },

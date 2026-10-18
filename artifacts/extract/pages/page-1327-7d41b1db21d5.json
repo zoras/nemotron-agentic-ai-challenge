@@ -199,7 +199,7 @@
   },
   {
    "order": 2,
-   "class": "Caption",
+   "class": "Margin-note",
    "text": "Plate\nRCXXXVI",
    "bbox": [
     0.0104,
@@ -207,6 +207,7 @@
     0.069,
     0.1977
    ],
+   "parse_class": "Caption",
    "source": "s0-col-left",
    "id": "page-1327-7d41b1db21d5:b2"
   },
