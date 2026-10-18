@@ -20,6 +20,7 @@ import tempfile
 from typing import Any
 
 from .compare import readable
+from .site_how import HOW_CSS, how_body
 
 FONTS = ("STIX Two Text", "Latin Modern Roman")  # the first font that LuaLaTeX finds is used
 LATEX = re.compile(r"([\\{}$&#^%~])")
@@ -130,7 +131,8 @@ def page_html(title: str, body: str, depth: int = 0) -> str:
     return (f"<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">"
             f"<title>{html.escape(title)}</title><link rel=\"stylesheet\" href=\"{up}style.css\"></head><body>"
             f"<header><nav><a href=\"{up}index.html\">Overview</a><a href=\"{up}scans.html\">Scans</a>"
-            f"<a href=\"{up}analysis.html\">Analysis</a><a href=\"{up}agent.html\">Agent cases</a>"
+            f"<a href=\"{up}how.html\">How it works</a><a href=\"{up}analysis.html\">Analysis</a>"
+            f"<a href=\"{up}agent.html\">Agent cases</a>"
             f"<a href=\"{REPO_URL}\">Repository</a></nav><h1>{html.escape(title)}</h1></header><main>{body}</main>"
             f"<footer class=\"muted\">Britannica scans: National Library of Scotland. Wikipedia text: CC BY-SA 4.0, "
             f"from the pinned wikimedia/structured-wikipedia snapshot. Generated comparisons are labelled as such.</footer></body></html>")
@@ -222,7 +224,7 @@ def run_site(work_dir: Path, site_dir: Path, scan_dir: Path, workers: int = 2) -
 
     for sub in ("pages", "scans", "documents", "figures"):
         (site_dir / sub).mkdir(parents=True, exist_ok=True)
-    (site_dir / "style.css").write_text(CSS, encoding="utf-8")
+    (site_dir / "style.css").write_text(CSS + HOW_CSS, encoding="utf-8")
     for figure in (work_dir / "compare" / "figures").glob("*.png"):
         shutil.copy2(figure, site_dir / "figures" / figure.name)
     for record in records:
@@ -289,8 +291,10 @@ def run_site(work_dir: Path, site_dir: Path, scan_dir: Path, workers: int = 2) -
         f"<h2>Coverage</h2><p>Page status: {esc(dict(status))}. Topic decisions: {esc(decisions.get('topic'))}. "
         f"Subtopic decisions: {esc(decisions.get('subtopic'))}. Cross-page joins: {entries_doc['counts']['joined']} "
         "(no consecutive scans in the sample continue each other).</p>"
-        "<p><a href=\"scans.html\">Browse all scans →</a></p>")
+        "<p><a href=\"how.html\">How it works, with the architecture →</a> · <a href=\"scans.html\">Browse all scans →</a></p>")
     (site_dir / "index.html").write_text(page_html("Knowledge across time: Britannica meets Wikipedia", overview), encoding="utf-8")
+    (site_dir / "how.html").write_text(page_html("How it works", how_body(index, matches, comparison, site_dir, Path(scan_dir))),
+                                       encoding="utf-8")
 
     words = comparison["distinctive_words"]["content_words"]
     topics = comparison.get("topics", {})
