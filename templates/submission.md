@@ -1,7 +1,7 @@
 # Submission
 
 Team: Dhaubaji
-Repository URL and commit: https://github.com/prabeshsb/nemotron-agentic-ai-challenge, branch `extract-stage`, commit `d060bce` (code, docs and artifacts)
+Repository URL and commit: https://github.com/prabeshsb/nemotron-agentic-ai-challenge, branch `main`, commit `d060bce` (code, docs and artifacts)
 Video URL, 3 to 5 minutes: TODO
 Static website URL: https://prabeshsb.github.io/nemotron-agentic-ai-challenge/ (GitHub Pages, branch `gh-pages`, built from `d060bce`)
 Compiled LaTeX documents: 100 PDFs, one for each scan. Each scan page at https://prabeshsb.github.io/nemotron-agentic-ai-challenge/scans.html links its PDF, for example https://prabeshsb.github.io/nemotron-agentic-ai-challenge/documents/page-0251-69952e7c4a0f.pdf. The `.tex` sources are next to the PDFs. Build record: `site/build.json`.
